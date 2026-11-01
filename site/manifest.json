@@ -1,0 +1,17 @@
+{
+  "name": "Arquivo da Canção de Coimbra",
+  "short_name": "Arquivo",
+  "description": "Ferramenta de estudo que organiza, com fontes, a informação sobre a Canção de Coimbra.",
+  "lang": "pt-PT",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efede8",
+  "theme_color": "#efede8",
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icones/icone-mascara-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icones/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
