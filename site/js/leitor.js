@@ -26,7 +26,7 @@ function urlIncorporado(it) {
     case 'spotify': return `https://open.spotify.com/embed/${it.chave}`;
     case 'blogger': return it.url;
     case 'soundcloud': return `https://w.soundcloud.com/player/?url=${encodeURIComponent(it.url)}&auto_play=true&visual=true`;
-    case 'internet-archive': return `https://archive.org/embed/${it.chave}`;
+    case 'internet-archive': return `https://archive.org/embed/${it.chave}?autoplay=1`;
     case 'dailymotion': return `https://www.dailymotion.com/embed/video/${it.chave}?autoplay=1`;
     case 'apple-music': return `https://embed.music.apple.com/${it.chave}`;
     case 'facebook': return `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(it.url)}&autoplay=true`;
@@ -49,8 +49,11 @@ async function montar(it) {
     const capa = it.miniatura ? `background:#000 center/contain no-repeat url('${esc(it.miniatura)}')` : '';
     ecra.innerHTML = html`<div class="leitor-externo" style="${raw(capa)}"><div>${it.miniatura ? '' : (it.plataforma === 'museu-do-fado' ? 'Arquivo Sonoro do Museu do Fado' : 'Áudio')}</div></div>
       <audio controls autoplay src="${it.url}"></audio>`.s;
-    $('audio', ecra).addEventListener('ended', () => seguinte(true));
-    $('audio', ecra).addEventListener('error', () => aviso('Ficheiro de áudio indisponível'));
+    const audio = $('audio', ecra);
+    audio.addEventListener('ended', () => seguinte(true));
+    audio.addEventListener('error', () => aviso('Ficheiro de áudio indisponível'));
+    // o atributo «autoplay» não chega quando o elemento é criado depois do clique: pedir para tocar
+    audio.play().catch((e) => { if (e.name === 'NotAllowedError') aviso('Carregue no ▶ para ouvir'); });
     return;
   }
   if (it.plataforma === 'youtube') {
@@ -61,6 +64,7 @@ async function montar(it) {
         videoId: it.chave, host: 'https://www.youtube-nocookie.com',
         playerVars: { autoplay: 1, rel: 0, modestbranding: 1 },
         events: {
+          onReady: (e) => e.target.playVideo(), // começa logo, mesmo quando o browser ignora «autoplay»
           onStateChange: (e) => { if (e.data === 0) seguinte(true); },
           onError: () => {
             ecra.innerHTML = html`<div class="leitor-externo"><div>Este vídeo não pode ser reproduzido aqui
