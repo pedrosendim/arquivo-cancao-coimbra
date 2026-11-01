@@ -47,9 +47,10 @@ export async function propostas(el) {
         const [rota, nome] = destino(f.caminho);
         return html`<li><span class="mudo">${{ added: 'novo', removed: 'apagado' }[f.estado] || 'alterado'}</span> <a href="${rota}">${nome}</a></li>`;
       })}</ul>
+      ${p.soDados === false ? html`<p class="selo vinho" style="display:block;padding:8px 10px;margin:8px 0;text-transform:none;font-size:13px">Esta proposta mexe em ficheiros que não são dados do arquivo. O site não a deixa aprovar: recuse-a.</p>` : ''}
       <div class="acoes-topo">
         <a class="botao peq" href="${p.url}/files" target="_blank" rel="noopener">Ver as diferenças ↗</a>
-        ${r.editor ? html`<button class="botao peq primario" data-decidir="aprovar" data-numero="${p.numero}" ${p.validacao === 'falhou' ? 'disabled' : ''}>Aprovar</button>
+        ${r.editor ? html`<button class="botao peq primario" data-decidir="aprovar" data-numero="${p.numero}" ${p.validacao === 'falhou' || p.soDados === false ? 'disabled' : ''}>Aprovar</button>
           <button class="botao peq" data-decidir="recusar" data-numero="${p.numero}">Recusar</button>` : ''}
       </div></article>`;
   })}` : html`<div class="vazio"><h3>Não há propostas à espera</h3><p>${podeAprovar() ? 'Quando um contribuidor alterar alguma coisa, aparece aqui.' : 'As suas propostas aparecem aqui até um editor as decidir.'}</p></div>`).s;

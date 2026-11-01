@@ -1,5 +1,5 @@
 // /api/propostas/decidir: um editor aprova (a proposta entra no arquivo) ou recusa (fica registado porquê).
-import { APROVAM, exigirContribuidor, gh, json, mesmaOrigem, repositorio } from '../comum.js';
+import { APROVAM, exigirContribuidor, ficheirosProibidos, gh, json, mesmaOrigem, propostaDoSite, repositorio } from '../comum.js';
 
 export async function onRequestPost({ request, env }) {
   if (!mesmaOrigem(request)) return json({ erro: 'pedido recusado: só o próprio site pode decidir' }, 403);
@@ -9,9 +9,12 @@ export async function onRequestPost({ request, env }) {
   const { numero, decisao, motivo } = await request.json().catch(() => ({}));
   const R = repositorio(env);
   const pr = await gh(env, `/repos/${R}/pulls/${Number(numero)}`);
-  if (pr.state !== 'open' || !pr.head.ref.startsWith('proposta/')) return json({ erro: 'esta proposta já não está aberta' }, 409);
+  if (pr.state !== 'open' || !propostaDoSite(pr, env)) return json({ erro: 'esta proposta já não está aberta' }, 409);
 
   if (decisao === 'aprovar') {
+    // o site só aprova dados (fichas, fontes, blogue); código nunca, mesmo que alguém o tente meter numa proposta
+    const proibidos = await ficheirosProibidos(env, pr.number);
+    if (proibidos.length) return json({ erro: `esta proposta mexe em ficheiros que não são dados (${proibidos.slice(0, 3).join(', ')}): recuse-a` }, 409);
     const { check_runs: corridas = [] } = await gh(env, `/repos/${R}/commits/${pr.head.sha}/check-runs`).catch(() => ({}));
     if (corridas.some((v) => v.status === 'completed' && !['success', 'neutral', 'skipped'].includes(v.conclusion))) {
       return json({ erro: 'a validação desta proposta falhou: não pode ser aprovada assim' }, 409);

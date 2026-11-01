@@ -98,5 +98,15 @@ export async function exigirContribuidor(pedido, env) {
   return { s, c };
 }
 
+/** Proposta feita pelo próprio site: ramo «proposta/…» deste repositório (nunca de uma cópia/fork de outra pessoa). */
+export const propostaDoSite = (pr, env) => pr.head?.ref?.startsWith('proposta/') && pr.head?.repo?.full_name === repositorio(env)
+  && pr.base?.ref === 'main';
+
+/** Ficheiros de uma proposta que não são dados editáveis (o site nunca aprova código, só fichas e fontes). */
+export async function ficheirosProibidos(env, numero) {
+  const ficheiros = await gh(env, `/repos/${repositorio(env)}/pulls/${numero}/files?per_page=100`);
+  return ficheiros.flatMap((f) => [f.filename, f.previous_filename]).filter((f) => f && !RE_EDITAVEL.test(f));
+}
+
 /** Mesmo formato que scripts/comum.py escrever_json (indentação de 2, acentos tal como estão, linha final). */
 export const textoJson = (dados) => `${JSON.stringify(dados, null, 2)}\n`;

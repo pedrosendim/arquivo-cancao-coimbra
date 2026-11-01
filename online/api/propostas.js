@@ -1,5 +1,5 @@
 // /api/propostas: propostas à espera de decisão. Os editores veem todas; um contribuidor vê as suas.
-import { APROVAM, exigirContribuidor, gh, json, lerFicheiro, repositorio } from '../comum.js';
+import { APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, propostaDoSite, repositorio } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
   const { s, c, erro } = await exigirContribuidor(request, env);
@@ -9,7 +9,8 @@ export async function onRequestGet({ request, env }) {
   const reg = await lerFicheiro(env, 'dados/contribuidores.json');
   const porGithub = Object.fromEntries((reg?.contribuidores || []).filter((x) => x.github).map((x) => [x.github.toLowerCase(), x]));
 
-  const abertas = (await gh(env, `/repos/${R}/pulls?state=open&per_page=50`)).filter((p) => p.head.ref.startsWith('proposta/'));
+  // só as propostas feitas no site; pedidos abertos diretamente no GitHub (por exemplo, de cópias do repositório) não aparecem
+  const abertas = (await gh(env, `/repos/${R}/pulls?state=open&per_page=50`)).filter((p) => propostaDoSite(p, env));
   const visiveis = abertas.filter((p) => editor || p.head.ref.split('/')[1] === s.login.toLowerCase());
   const propostas = await Promise.all(visiveis.map(async (p) => {
     const login = p.head.ref.split('/')[1];
@@ -25,6 +26,7 @@ export async function onRequestGet({ request, env }) {
       numero: p.number, titulo: p.title, data: p.created_at, url: p.html_url,
       autor: { github: login, nome: porGithub[login]?.nome || `@${login}`, id: porGithub[login]?.id || null },
       ficheiros: ficheiros.map((f) => ({ caminho: f.filename, estado: f.status })), validacao,
+      soDados: ficheiros.every((f) => RE_EDITAVEL.test(f.filename) && (!f.previous_filename || RE_EDITAVEL.test(f.previous_filename))),
     };
   }));
   return json({ editor, propostas });
