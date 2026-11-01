@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-114-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0319_02.mp3",
+  "titulo": "Ora vai tu — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-114",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0637.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/632/almeida_cruz_ora_vai_tu",
+      "doc": "museu-do-fado:waef5dd0315d99b6d",
+      "citacao": "Título: Ora vai tu ... Editora: Co. B-114 Referências: 11834-1-1; B114"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

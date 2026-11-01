@@ -1,0 +1,27 @@
+{
+  "id": "eduardo-mamede",
+  "tipo": "pessoa",
+  "nome": "Eduardo Mamede",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "augusto-da-silva-louro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/caldeira-cabral-pedro-caldeira-cabral.html",
+          "doc": "gc-i:111687482593988795",
+          "citacao": "na casa de Eduardo Mamede, sobrinho do violonista Augusto da Silva Louro"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

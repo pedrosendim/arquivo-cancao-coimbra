@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3039-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0604_10.mp3",
+  "titulo": "Fado do Hilário — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [
+    "fado-hilario-moderno"
+  ],
+  "gravacao": "antonio-menano-odeon-x-3039",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1201.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1193/antonio_menano_fado_do_hilario",
+      "doc": "museu-do-fado:w1994d9b11b639b91",
+      "citacao": "Título: Fado do Hilário ... Editora: Od. X3039, EMI260593,EMICD8346182,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

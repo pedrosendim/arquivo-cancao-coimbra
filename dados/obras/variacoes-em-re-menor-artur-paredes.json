@@ -1,0 +1,68 @@
+{
+  "id": "variacoes-em-re-menor-artur-paredes",
+  "titulo": "Variações em Ré Menor [n.º 1]",
+  "titulos_alternativos": [
+    "Variações em Ré menor n.º 1",
+    "Ré menor"
+  ],
+  "genero": "variacoes",
+  "musica": [
+    "artur-paredes"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Composta entre 1920 e 1922 para 1.ª e 2.ª guitarras toeiras de Coimbra e violão de cordas de aço",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "Composição instrumental urdida entre 1920-1922 por Artur Paredes, sendo também do citado autor a correlativa harmonização. Peça originariamente destinada a trio de cordofones constituído por primeira e segunda guitarras toeiras de Coimbra e violão de cordas de aço."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Incorpora, entre os compassos 55 e 66, a versão popularizada do «Fado de Mário Gayo»",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "incorporando entre os compassos 55 a 66 a versão popularizada do “Fado de Mário Gayo” (Chamaste-me tua vida)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por Artur Paredes em Lisboa, maio de 1927, HMV E.Q. 74",
+      "data": "1927-05",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "Artur Paredes só viria a gravar esta composição em Lisboa, no mês de Maio de 1927, no disco de 78 rpm His Master’s Voice E.Q. 74"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+      "doc": "gc-ii:6771089723538402965",
+      "citacao": "VARIAÇÕES EM RÉ MENOR [nº 1] Música: Artur Paredes (1899-1980) Origem: Coimbra Data: ca. 1922"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

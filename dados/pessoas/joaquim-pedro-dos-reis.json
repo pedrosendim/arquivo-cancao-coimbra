@@ -1,0 +1,68 @@
+{
+  "id": "joaquim-pedro-dos-reis",
+  "tipo": "pessoa",
+  "nome": "Joaquim Pedro dos Reis",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+      "doc": "gc-i:112131006471175543",
+      "citacao": "A descoberta de uma guitarra, que uma tradição discutível atribui à famosa «fadista» do século XIX, a Severa, de cravelhas e de feição muito popular, construída em Lisboa por Joaquim Pedro dos Reis e datada de 1764"
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+      "doc": "fernandez-music:waa6850db25308e37",
+      "citacao": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764 This instrument is in the Museum da Cidade (City Museum) in Lisbon, Portugal."
+    },
+    {
+      "fonte": "cristo-2014-york",
+      "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+      "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+      "citacao": "One of the surviving cítaras, built in Lisbon by Joaquim Pedro dos Reis in 1764 (presently in Museu da Cidade, Lisbon, Portugal)"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Construiu em Lisboa a guitarra (cítara) datada de 1764 que está no Museu da Cidade de Lisboa",
+      "data": "1764",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764 This instrument is in the Museum da Cidade (City Museum) in Lisbon, Portugal."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "construída em Lisboa por Joaquim Pedro dos Reis e datada de 1764"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "One of the surviving cítaras, built in Lisbon by Joaquim Pedro dos Reis in 1764 (presently in Museu da Cidade, Lisbon, Portugal)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A datação é contestada por Armando Simões (ver a ficha do instrumento citara-joaquim-pedro-dos-reis-1764)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Portuguese guitarra by Joaquim Pedro dos Reis, 1764",
+      "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

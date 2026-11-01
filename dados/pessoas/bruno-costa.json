@@ -1,0 +1,604 @@
+{
+  "id": "bruno-costa",
+  "tipo": "pessoa",
+  "nome": "Bruno Costa",
+  "nomes_alternativos": [
+    "Bruno A. Costa"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+      "doc": "arquivo-pt:w57e22e44256d1b8c",
+      "citacao": "Nasceu em Coimbra a 24 de Fevereiro de 1981. Iniciou o seu estudo de Guitarra Portuguesa, aos 12 anos, com o Mestre Jorge Gomes e conta com 20 anos de experiência profissional em Portugal e no estrangeiro."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+      "doc": "gc-i:111539073728550400",
+      "citacao": "quero destacar aqui a execução bastante avançada de Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+      "doc": "arquivo-pt:w57e22e44256d1b8c",
+      "citacao": "Foi elemento dos Grupos: Grupo de Fados Coimbra de Sempre; Grupo de Fados da Estudantina Universitária de Coimbra; Grupo de Fados Quinteto de Coimbra; Canto Coimbra; Grupo de Fados do Coro dos Antigos Orfeonistas da Universidade de Coimbra e Grupo de Fados àCapella."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/apresentao-dos-ii-encontros.html",
+      "doc": "gc-ii:4004370617445220843",
+      "citacao": "Posteriormente Bruno Costa fez parceria com Paulo Figueiredo no piano e aqui a surpresa foi total. Pouca gente iria imaginar que dois instrumentos tão díspares se encaixassem tão bem."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+      "doc": "gc-ii:8341781972803406558",
+      "citacao": "Este é o nome do mais recente trabalho em que o piano de Paulo Figueiredo e a guitarra portuguesa de Bruno Costa se cruzam com paixão e intensidade, mostrando, através de uma nova abordagem estética, facetas desconhecidas de alguns clássicos da guitarra de Coimbra."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+      "doc": "arquivo-pt:w57e22e44256d1b8c",
+      "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo) e atua acompanhado por Nuno Miguel Botelho (guitarra clássica) em espetáculos onde a Guitarra Portuguesa é apresentada com temas de Carlos Paredes, Artur Paredes, António Portugal, Francisco Filipe Martins, Octávio Sérgio, entre outros, bem como temas da sua autoria."
+    },
+    {
+      "fonte": "cm-coimbra",
+      "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+      "doc": "cm-coimbra:w49adfd40b3069844",
+      "citacao": "é um projeto que pretende mostrar uma outra vertente e potencial da Guitarra Portuguesa de Coimbra ao interpretar alguns dos noturnos de Chopin, cruzando-os com temas do reportório para Guitarra Portuguesa de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 24 de fevereiro de 1981",
+      "data": "1981-02-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Nasceu em Coimbra a 24 de Fevereiro de 1981."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica em PDF da Direção-Geral da Educação (dge.mec.pt), citada a partir da cópia do Arquivo.pt de 30-05-2022."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a estudar guitarra portuguesa aos 12 anos com o Mestre Jorge Gomes",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Iniciou o seu estudo de Guitarra Portuguesa, aos 12 anos, com o Mestre Jorge Gomes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Da escola dirigida por Jorge Gomes (referido em 2005, com Henrique Fraga)",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+          "doc": "gc-i:111539073728550400",
+          "citacao": "Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrou o Grupo de Fados Coimbra de Sempre, o Grupo de Fados da Estudantina Universitária de Coimbra, o Grupo de Fados Quinteto de Coimbra, o Canto Coimbra, o Grupo de Fados do Coro dos Antigos Orfeonistas da Universidade de Coimbra e o Grupo de Fados àCapella",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Foi elemento dos Grupos: Grupo de Fados Coimbra de Sempre; Grupo de Fados da Estudantina Universitária de Coimbra; Grupo de Fados Quinteto de Coimbra; Canto Coimbra; Grupo de Fados do Coro dos Antigos Orfeonistas da Universidade de Coimbra e Grupo de Fados àCapella."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista do grupo Cordis, em duo com o piano de Paulo Figueiredo",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Partilhou o palco com Luís Goes, Vitorino, Jorge Palma, Cuca Roseta, Mafalda Arnauth, Ana Sofia Varela, Janita Salomé, Sofia Vitória, Paulo Bragança, Wanda Stewart e Viviane; acompanha com regularidade António Ataíde",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Já teve o prazer de partilhar o palco com Luis Goes, Vitorino, Jorge Palma, Cuca Roseta, Mafalda Arnauth, Ana Sofia Varela, Janita Salomé, Sofia Vitória, Paulo Bragança, Wanda Stewart, Viviane e acompanha com regularidade aquele que é para ele o melhor interprete da atualidade do Fado/Canção de Coimbra, António Ataíde."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Atua com Nuno Botelho (guitarra clássica) em espetáculos com temas de Carlos Paredes, Artur Paredes, António Portugal, Francisco Filipe Martins, Octávio Sérgio e temas próprios",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "atua acompanhado por Nuno Miguel Botelho (guitarra clássica) em espetáculos onde a Guitarra Portuguesa é apresentada com temas de Carlos Paredes, Artur Paredes, António Portugal, Francisco Filipe Martins, Octávio Sérgio, entre outros, bem como temas da sua autoria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarrista no CD «Cordas do Mondego» (Secção de Fado da AAC, 1999), com Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes e Luís Oliveira",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Cordas do Mondego, Coimbra, Secção de Fado da AAC, 1999. Recupera 13 peças instrumentais do repertório Artur Paredes. Guitarras por Bruno Costa, Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes, Luís Oliveira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "a interpretação de «Passatempo» por Bruno Costa / Nuno Dias (gg.) / João Brito / António Paulino (vv.), inserta no CD Cordas do Mondego"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra (com Octávio Sérgio) no CD «100 anos. Fado de Coimbra», do Grupo de Fados dos Antigos Orfeonistas (Public-Art 33808)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/recordacoes-que-foram-exito-registos.html",
+          "doc": "gc-v:1438123419329545362",
+          "citacao": "100 anos. Fado de Coimbra. Grupo de Fados dos Antigos Orfeonistas da Universidade de Coimbra. Coimbra: Public-Art 33808, ano de 2008, CD n.º 1, faixa n.º 11, acompanhado por Octávio Sérgio/Bruno Costa (ggC) e Carlos Caiado/Nuno Botelho (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post indica o ano de 2008 para a edição Public-Art 33808."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra no disco «àCapella - Fado de Coimbra», com Ricardo Dias",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/acapella-fado-de-coimbra.html",
+          "doc": "gc-iii:117267242231762464",
+          "citacao": "Nas guitarras: Bruno Costa e Ricardo Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações declaradas: DVD e CD «àCapella»; CD «CORDIS piano e guitarra portuguesa»; CD «CORDIS 2»; DVD «CORDIS»; CD «Terceiro»; CD «António Ataíde e os Impuros»; CD «REFLEXO»",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Gravou: DVD “àCapella”; CD “àCapella”; CD “CORDIS piano e guitarra portuguesa”; CD “CORDIS 2”; DVD “CORDIS”; CD “Terceiro” (CORDIS); CD “António Ataíde e os Impuros” e CD “REFLEXO” (CORDIS)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Músico convidado nos CD «Cordas do Mondego», «100 Anos de Fado», «Cantar Coimbra 2», «Raiz» (Cuca Roseta), «ConLatinidade» (João Gentil) e «Ricardo Dias Ensemble», entre outros",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Colaborou, como músico convidado, em: CD “Cordas do Mondego” (Secção de Fado da Associação Académica de Coimbra); CD “100 Anos de Fado” (Antigos Orfeonistas da Universidade de Coimbra); CD “Cantar Coimbra 2” (Orquestra Clássica do Centro); CD “Raiz” (Cuca Roseta); CD “ConLatinidade” (João Gentil); CD “Ricardo Dias Ensemble”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Mês do Fado», com a Estudantina: Bruno Costa (guitarra) e Patrick Mendes (canto)",
+      "data": "2005-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_22.html",
+          "doc": "gc-i:111420982713972207",
+          "citacao": "Actuações no \"Mês do Fado\". Estudantina. Bruno Costa (guitarra), Patrick Mendes (Canto)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata no Arco de Almedina, com Paulo Larguesa, José Beato e Patrick Mendes",
+      "data": "2006-07",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-no-arco-de-almedina-ontem-com.html",
+          "doc": "gc-i:115422876453303682",
+          "citacao": "Serenata no Arco de Almedina, ontem, com um agrupamento constituído por dois elementos do Quarto Crescente e dois do Quinteto de Coimbra. São eles: Paulo Larguesa (v), Bruno Costa (g), José Beato e Patrick Mendes, cantores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viagem ao Japão com o Coro dos Antigos Orfeonistas; executou as «Variações em Sol M» de Artur Paredes",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/coro-dos-antigos-orfeonistas-no-japao_7746.html",
+          "doc": "gc-iii:528194635462910898",
+          "citacao": "Coro dos Antigos Orfeonistas no Japão, em 2007. Bruno Costa executa \"Variações em Sol M\" de Artur Paredes, acompanhado por Octávio Sérgio (g), Nuno Botelho (v) e Luís Ferreirinha (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Apresentação dos II Encontros Internacionais da Guitarra Portuguesa, no Pavilhão Centro de Portugal, com Nuno Botelho e Luís Ferreirinha",
+      "data": "2008-07",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/apresentao-dos-ii-encontros.html",
+          "doc": "gc-ii:4004370617445220843",
+          "citacao": "seguiu-se um momento musical com Bruno Costa na Guitarra de Coimbra, acompanhado por Nuno Botelho em viola dedilhada e Luís Ferreirinha em viola-baixo. Tocaram três peças de Carlos Paredes e uma de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Expo de Saragoça, com Nuno Botelho",
+      "data": "2008-08",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/bruno-costa-g-e-nuno-botelho-v-na-expo.html",
+          "doc": "gc-ii:1421763442228708427",
+          "citacao": "Bruno Costa (g) e Nuno Botelho (v), na Expo de Saragoça, no passado mês de Agosto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Lançamento do CD «Cordis» no Pavilhão Centro de Portugal, Coimbra",
+      "data": "2008-09-12",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+          "doc": "gc-ii:8341781972803406558",
+          "citacao": "Lançamento Cd : “CORDIS” – piano e guitarra portuguesa Dia 12 de Setembro / 21h30 / Pavilhão Centro de Portugal / Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Guitarrista convidado na homenagem a Jorge Gomes (III Encontros Internacionais de Guitarra Portuguesa)",
+      "data": "2009-10",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/iii-encontros-internacionais-de_19.html",
+          "doc": "gc-iii:4136510483809807702",
+          "citacao": "Homenagem a Jorge Gomes, pela sua acção em prol do ensino e divulgação da guitarra de Coimbra. Foi orador Fernando Marques, com os seguintes guitarristas convidados: Henrique Fraga, Joana, Miguel Drago, Bruno Costa e Manuel Coroa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Lançamento do CD «Cordis 2» no Teatro Académico de Gil Vicente",
+      "data": "2011-09-30",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/cordis-2.html",
+          "doc": "gc-iv:2437711381869058567",
+          "citacao": "concerto-lançamento do CD CORDIS2 no TAGV - Coimbra no próximo dia 30 de Setembro, pelas 21.30h."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/cordis-2.html",
+          "doc": "gc-iv:5257858841926532335",
+          "citacao": "Foi um retumbante êxito o lançamento do Cordis 2 no Teatro Gil Vicente, em Coimbra, com Bruno Costa à guitarra e Paulo Figueiredo ao piano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental dos Antigos Estudantes de Coimbra: «Variações em Si menor» de Artur Paredes",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "11 - Variações em Si menor (Artur paredes): Bruno Costa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto «CORDIS & Cuca Roseta» (com o Quarteto Opus Quatro), no encerramento do 5.º Festival das Artes, Quinta das Lágrimas",
+      "data": "2013-07-23",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/cordis-e-cuca-roseta.html",
+          "doc": "gc-v:5414899123087051794",
+          "citacao": "convidar-vos para o concerto CORDIS & Cuca Roseta (com Quarteto OPUS QUATRO) que encerrará o 5º Festival das Artes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Lançamento do primeiro DVD do Cordis no Teatro Académico de Gil Vicente",
+      "data": "2013-11-15",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/10/cordis-em-dvd.html",
+          "doc": "gc-v:892306301284297928",
+          "citacao": "Concerto de Lançamento do primeiro DVD do CORDIS, agendado para o dia 15 de novembro próximo, pelas 21.30h, no Teatro Académico de Gil Vicente em Coimbra!"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Guitarras e Guitarradas de Paredes», exterior da Torre de Anto, com Ni Ferreirinha, Paulo Soares e Rui Ferreira",
+      "data": "2022-02-19",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/02/evocacao-do-nascimento-de-carlos-paredes.html",
+          "doc": "gc-v:6913096023122990747",
+          "citacao": "GUITARRAS E GUITARRADAS DE PAREDES 19 de fevereiro | 16h00 | Exterior da Torre de Anto Programa Bruno Costa (Guitarra) / Ni Ferreirinha (Viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Projeto «De Chopin até à Lapa», com Nuno Botelho, no Convento São Francisco (7 de outubro)",
+      "data": "2022-10-07",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "DE CHOPIN ATÉ À LAPA Bruno Costa e Nuno Botelho Convidados: Hugo Gamboias e Diogo Passos espaço: Sala D. Afonso Henriques data | hora: 7 outubro | 21h30"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programação do Convento São Francisco (setembro-dezembro de 2022), Câmara Municipal de Coimbra."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Participante na VI Grande Noite do Fado e da Canção de Coimbra, do Coro dos Antigos Orfeonistas, no Convento São Francisco (12 de novembro)",
+      "data": "2022-11-12",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "a VI edição da Grande Noite do Fado e da Canção de Coimbra ... Participantes (por ordem alfabética) António Ataíde; António Crespos Couto; António Gameiro Lopes; António José Moreira; Arnaldo Tomás; Bernardino Gonçalves; Bruno Costa;"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programação do Convento São Francisco (setembro-dezembro de 2022), Câmara Municipal de Coimbra."
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições próprias gravadas pelo Cordis: «Caminhos» (2008) e, no CD «Reflexo», «Ladeira dos Castanheiros», «Tardes da Prainha», «Calmaria dos Dias», «A Espera e o Medo» e «Longos Dias»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158467",
+          "doc": "discogs:w1dfe6f8a6a29236a",
+          "citacao": "3 Caminhos [Bruno Costa (7)]"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14807483",
+          "doc": "discogs:w03f392f05a9e3607",
+          "citacao": "2 Ladeira Dos Castanheiros / Chestnut Hill [Bruno Costa (7)]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Autorias segundo as listas de faixas do Discogs."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Penedo da Saudade, Coimbra, 2 de julho de 2024: «Variações em lá menor» de Artur Paredes (guitarra portuguesa, com Nuno Botelho)",
+      "data": "2024-07-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7440",
+          "doc": "mpagdp:w97269d08f9e30628",
+          "citacao": "Nuno Botelho (viola) e Bruno Costa (guitarra portuguesa) - \"Variações em lá menor\" de Artur Paredes ... Gravado no Penedo da Saudade, Coimbra, no dia 2 de julho de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Iniciou o seu estudo de Guitarra Portuguesa, aos 12 anos, com o Mestre Jorge Gomes"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+          "doc": "gc-i:111539073728550400",
+          "citacao": "Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "cordis",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo)"
+        }
+      ],
+      "nota": "Duo com Paulo Figueiredo (piano), estreado em 2008; em 2011 atuou em quinteto."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quinteto-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Grupo de Fados Quinteto de Coimbra"
+        }
+      ],
+      "nota": "Período não indicado na fonte."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-ataide",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "acompanha com regularidade aquele que é para ele o melhor interprete da atualidade do Fado/Canção de Coimbra, António Ataíde."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/coro-dos-antigos-orfeonistas-no-japao_7635.html",
+          "doc": "gc-iii:334449190913996638",
+          "citacao": "Octávio Sérgio e Bruno Costa executam \"Coimbra e o Mondego\", de Gonçalo Paredes, acompanhados por Luís Ferreirinha e Nuno Botelho."
+        }
+      ],
+      "nota": "Japão, 2007, com o Coro dos Antigos Orfeonistas."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "paulo-soares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/02/evocacao-do-nascimento-de-carlos-paredes.html",
+          "doc": "gc-v:6913096023122990747",
+          "citacao": "Paulo Soares / Bruno Costa / Ni Ferreirinha / Rui Ferreira 7. Variações sobre o Mondego"
+        }
+      ],
+      "nota": "«Guitarras e Guitarradas de Paredes», 19-02-2022."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/MES-DO-FADO--ROMANCE-ESTUDANTINA--%20016.jpg",
+      "legenda": "Actuações no \"Mês do Fado\". Estudantina. Bruno Costa (guitarra), Patrick Mendes (Canto) [2005; Bruno Costa é o guitarrista de guitarra de Coimbra, sentado à esquerda]",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_22.html",
+          "doc": "gc-i:111420982713972207",
+          "citacao": "Actuações no \"Mês do Fado\". Estudantina. Bruno Costa (guitarra), Patrick Mendes (Canto)"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Nota biográfica (Direção-Geral da Educação; cópia do Arquivo.pt)",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf"
+    },
+    {
+      "rotulo": "Cordis no Discogs",
+      "url": "https://www.discogs.com/artist/7080016"
+    },
+    {
+      "rotulo": "Lançamento do CD «Cordis» (blogue, 2008)",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

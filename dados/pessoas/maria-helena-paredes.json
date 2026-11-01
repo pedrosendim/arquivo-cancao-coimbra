@@ -1,0 +1,100 @@
+{
+  "id": "maria-helena-paredes",
+  "tipo": "pessoa",
+  "nome": "Maria Helena Paredes",
+  "nomes_alternativos": [
+    "Maria Helena"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fotografada em abril de 1961 na casa da Venda do Pinheiro, com Afonso de Sousa",
+      "data": "1961-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/com-os-paredes-em-venda-do-pinheiro.html",
+          "doc": "gc-i:116661660335145400",
+          "citacao": "a filha de Artur Paredes Maria Helena (3ª)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Em 1980, Octávio Sérgio regista que «a morte da esposa e da filha» abalara profundamente Artur Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/bloco-de-notas-14-1980.html",
+          "doc": "gc-i:111842502137998269",
+          "citacao": "os desgostos com a morte da esposa e da filha, abalaram-no profundamente"
+        }
+      ],
+      "conflito": false,
+      "nota": "Bloco de notas de Octávio Sérgio (1980) sobre Artur Paredes."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "O casal vem a ter dois filhos, Carlos Paredes nascido em 1925 e mais tarde uma rapariga, de nome Maria Helena."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/lembrando-arthur-paredes.html",
+          "doc": "gc-v:1258188780116467229",
+          "citacao": "pai de Carlos e de Maria Helena Paredes"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "alice-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "O casal vem a ter dois filhos, Carlos Paredes nascido em 1925 e mais tarde uma rapariga, de nome Maria Helena."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "O casal vem a ter dois filhos, Carlos Paredes nascido em 1925 e mais tarde uma rapariga, de nome Maria Helena."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/09/foi-ha-67-anos.html",
+          "doc": "gc-v:418585863031629098",
+          "citacao": "Carlos coabitava com os pais e com uma irmã"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

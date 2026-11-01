@@ -1,0 +1,266 @@
+{
+  "id": "fernando-miraldo",
+  "tipo": "pessoa",
+  "nome": "Fernando Miraldo",
+  "nomes_alternativos": [
+    "Fernando Manuel Quinta Ferreira Miraldo",
+    "Fernando Manuel Q. F. Miraldo"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Fernando Manuel Quinta Ferreira Miraldo nasceu em Covões, município de Cantanhede, em 14.04.1946. Após frequência da FCT/UC, formou-se em engenharia civil no ISEC."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Engenheiro aposentado, Fernando Miraldo começou a experimentar a construção de cordofones como hobby em 2008. Não dominando a arte, aprofundou pesquisas na internet, comprou livros técnicos e começou a encomendar materiais de fabrico na Alemanha e nos EUA."
+    },
+    {
+      "fonte": "fm-construcao-cordofones",
+      "url": "https://www.fm-construcaodecordofones.com/",
+      "doc": "fm-construcao-cordofones:w6cbd9b954f7e4cbc",
+      "citacao": "A chegada da idade da reforma permitiu a transformação de uma atividade de tempos livres numa ocupação mais permanente, muito absorvente, mas muito compensadora do ponto de vista de realização pessoal."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Em 2012 Fernando Miraldo lançou-se na construção de cordofones populares portugueses."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Estudou e mediu violas toeiras de Augusto Nunes dos Santos e de Raul Simões."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Em 2015-2016 Fernando Miraldo refinou a construção de violas toeiras e lançou-se na construção de uma guitarra de Coimbra com braço/cabeça laminado, reforçado por barra de alumínio e ilhargas espessas à base de três lâminas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Fernando Manuel Quinta Ferreira Miraldo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Fernando Manuel Quinta Ferreira Miraldo nasceu em Covões"
+        },
+        {
+          "fonte": "fm-construcao-cordofones",
+          "url": "https://www.fm-construcaodecordofones.com/",
+          "doc": "fm-construcao-cordofones:w6cbd9b954f7e4cbc",
+          "citacao": "Fernando Manuel Q. F. Miraldo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Covões (Cantanhede), 14 de abril de 1946",
+      "data": "1946-04-14",
+      "local": "Covões (Cantanhede)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "nasceu em Covões, município de Cantanhede, em 14.04.1946"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Engenharia civil (ISEC), após frequência da FCT/UC",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Após frequência da FCT/UC, formou-se em engenharia civil no ISEC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Engenheiro (engenharia dos transportes), aposentado",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fm-construcao-cordofones",
+          "url": "https://www.fm-construcaodecordofones.com/",
+          "doc": "fm-construcao-cordofones:w6cbd9b954f7e4cbc",
+          "citacao": "na área da engenharia dos transportes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/fernando-miraldo.html",
+          "doc": "gc-v:602775671246807993",
+          "citacao": "Fernando Miraldo, um engenheiro reformado de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Autodidata na construção de cordofones (livros, vídeos, internet)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fm-construcao-cordofones",
+          "url": "https://www.fm-construcaodecordofones.com/",
+          "doc": "fm-construcao-cordofones:w6cbd9b954f7e4cbc",
+          "citacao": "tive que recorrer à pesquisa e ao estudo, quer através de livros e vídeos que fui adquirindo, quer através da internet"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Começou a construir cordofones como passatempo em 2008",
+      "data": "2008",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "começou a experimentar a construção de cordofones como hobby em 2008"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construção de cordofones populares portugueses desde 2012 (braguesa, cavaquinhos, bandolins, violas toeiras)",
+      "data": "2012",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Em 2012 Fernando Miraldo lançou-se na construção de cordofones populares portugueses."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Primeira guitarra de Coimbra, com medidas de Gilberto Grácio, desmanchada; toeira corrigida com as medidas de Raul Simões e dos mestres de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "uma guitarra de Coimbra com medidas de Gilberto Grácio. Nenhuma destas experiências correu particularmente bem. Em relação à toeira, problemas com o timbre, a afinação e o cravelhal, posteriormente resolvidos com as medidas de Raul Simões e dos mestres de violaria de Coimbra. Quanto à guitarra, seria desmanchada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaura instrumentos (ex.: guitarrinho de oito cordas de Augusto Nunes dos Santos)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Fernando Miraldo restaura primorosamente os instrumentos que lhe são confiados, como se pode atestar pela intervenção feita num guitarrinho/bandurrinho de oito cordas da oficina de Augusto Nunes dos Santos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Violas toeiras exibidas no restaurante Nacional e no Pavilhão Centro de Portugal (2015)",
+      "data": "2015",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Teve instrumentos de sua lavra exibidos no restaurante Nacional e no Pavilhão Centro de Portugal (violas toeiras, 2015)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Viola toeira usada por João Luís Vila no encontro de violas de arame de Castelo Branco (2015)",
+      "data": "2015",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Em 2015 João Luís Vila representou a viola toeira da região de Coimbra no encontro de violas de arame de Castelo Branco com uma Fernando Miraldo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://ab3d0e8666.cbaul-cdnwnd.com/72ce37b998a3ed89a1d263a7fdd639c3/200000014-59d2d5acbc/Nando.jpg",
+      "legenda": "Fernando Manuel Q. F. Miraldo, na secção «Sobre mim» do site oficial da oficina fm Construção de Cordofones.",
+      "fontes": [
+        {
+          "fonte": "fm-construcao-cordofones",
+          "url": "https://www.fm-construcaodecordofones.com/",
+          "doc": "fm-construcao-cordofones:w6cbd9b954f7e4cbc",
+          "citacao": "SOBRE MIM Fernando Manuel Q. F. Miraldo"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Fernando Miraldo — Construção de Cordofones (site oficial)",
+      "url": "https://www.fm-construcaodecordofones.com/"
+    },
+    {
+      "rotulo": "Mãos que moldam... Na oficina de Fernando Miraldo (2016)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

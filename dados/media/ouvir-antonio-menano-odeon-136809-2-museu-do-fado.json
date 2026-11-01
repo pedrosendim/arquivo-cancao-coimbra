@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136809-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0588_18.mp3",
+  "titulo": "O beijo — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136809",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1170.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1161/antonio_menano_o_beijo",
+      "doc": "museu-do-fado:wadbcd56e9a45a9f2",
+      "citacao": "Título: O beijo ... Editora: Od.136.810,EMI261283,EMICD8374952 Referências: OG577, N5, 1927; A 136810"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,358 @@
+{
+  "id": "heitor-lopes",
+  "tipo": "pessoa",
+  "nome": "Heitor Lopes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/antigos-tunos-em-torrozelo_111443947400676835.html",
+      "doc": "gc-i:111443947400676835",
+      "citacao": "Antigos Tunos em Torrozelo, ontem. José Paulo e Octávio Sérgio em guitarra, Aurélio Reis, viola, Heitor Lopes a cantar e ainda Mário Rovira."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/antigos-tunos-nos-aores_113453204261632259.html",
+      "doc": "gc-i:113453204261632259",
+      "citacao": "Antigos Tunos nos Açores. O Grupo de Fados em plena actuação no Teatro Micaelense, em Ponta Delgada, a 11 deste mês de Dezembro. José Paulo e Octávio Sérgio nas guitarras; António José Rocha na viola. Cantaram Heitor Lopes, Mário Rovira, José Paulo e António José Rocha."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+      "doc": "gc-i:8430172402558970393",
+      "citacao": "Grupo \"Raízes de Coimbra\" a actuar em Barcouço, na passada terça-feira, conjuntamente com os Antigos Tunos da Universidade de Coimbra. Fazem parte deste grupo: Heitor Lopes e Mário Rovira no canto; Octávio Sérgio e Alcides Freixo nas guitarras; Humberto Matias na viola."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/encontros-internacionais-de-guitarra.html",
+      "doc": "gc-ii:1064019680887059335",
+      "citacao": "Encontros Internacionais de Guitarra Portuguesa. Guitarra e Canto de Coimbra, com o Grupo Raízes de Coimbra, a acompanhar, por ordem de actuação, João Farinha, Nuno Silva, Heitor Lopes, Augusto Camacho, Fernando Rolim, Luiz Goes"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-raizes-de-coimbra-na-grande-noite.html",
+      "doc": "gc-iv:5165778009861039048",
+      "citacao": "Grupo \"Raízes de Coimbra\" na Grande Noite do Fado Académico, no sábado passado, na Alfândega do Porto. Cantores: Rui Lucas, Mário Rovira e Heitor Lopes"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/07/heitor-lopes-na-se-de-faro-em-15-de.html",
+      "doc": "gc-v:8071117840284049812",
+      "citacao": "Heitor Lopes na Sé de Faro, em 15 de Junho deste ano de 2013. Gravação de Marinela St. Aubyn. Grupo Raízes de Coimbra com Rui Pato (v), Octávio Sérgio (g), Francisco Dias (g), Humberto Matias (v), Heitor Lopes (c), Mário Rovira (c) e Nuno Oliveira (c)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+      "doc": "gc-v:356613865380152505",
+      "citacao": "Alinhamento do grupo Raízes de Coimbra: Santarém, 4 de Julho de 2025 Tempo que não passa - Heitor Lopes"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Cantor do Grupo de Fados dos Antigos Tunos da Universidade de Coimbra",
+      "data": "2005-12",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/grupo-de-fados-dos-antigos-tunos-ontem.html",
+          "doc": "gc-i:113461212478258822",
+          "citacao": "Grupo de Fados dos Antigos Tunos, ontem, no IPO. Octávio Sérgio, guitarra, Humberto Matias, viola, Mário Rovira, Heitor Lopes e Victor Nunes, vozes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cantor do grupo Raízes de Coimbra",
+      "data": "2007-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+          "doc": "gc-i:8430172402558970393",
+          "citacao": "Fazem parte deste grupo: Heitor Lopes e Mário Rovira no canto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrou, com António de Jesus e outros, grupos de fados de Coimbra que fizeram serenatas pelo país",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "se integrou como cantor em diversos grupos de fados de Coimbra dos quais faziam parte: Álvaro Aroso, António Mingocho, Luís Cerqueira, Rui Mata Martins, José Orlando, Jaime Ribeiro, Mário Pais, Raúl Dinis, Carlos Manuel Jesus (seu irmão), excelente tocador de baladas, Heitor Lopes, entre outros, realizando por todo o país inúmeras serenatas tradicionais de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto da biografia de António de Jesus (post de 2014); época não indicada."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Antigos Tunos em Torrozelo",
+      "data": "2005-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/antigos-tunos-em-torrozelo_111443947400676835.html",
+          "doc": "gc-i:111443947400676835",
+          "citacao": "Antigos Tunos em Torrozelo, ontem."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Antigos Tunos no Palácio de S. Marcos: canta acompanhado por Octávio Sérgio e Humberto Matias",
+      "data": "2005-10",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-no-palcio-de-s_28.html",
+          "doc": "gc-i:113046688759658863",
+          "citacao": "Antigos Tunos no Palácio de S. Marcos, ontem. Actuação do Grupo de Fados. Heitor Lopes canta, acompanhado por Octávio Sérgio e Humberto Matias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Antigos Tunos nos Açores, Teatro Micaelense, Ponta Delgada (11 de dezembro)",
+      "data": "2005-12-11",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/antigos-tunos-nos-aores_113453204261632259.html",
+          "doc": "gc-i:113453204261632259",
+          "citacao": "O Grupo de Fados em plena actuação no Teatro Micaelense, em Ponta Delgada, a 11 deste mês de Dezembro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a Victor Aguiar e Silva, Solar do Dão, Viseu",
+      "data": "2006-11",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/homenagem-victor-aguiar-e-silva-em.html",
+          "doc": "gc-i:116343435734932801",
+          "citacao": "Homenagem a Victor Aguiar e Silva, em Viseu, no Solar do Dão, no passado sábado. Grupo de Fados e Canções de Coimbra que abrilhantou a festa. Alcides Freixo e Octávio Sérgio nas guitarras; Humberto Matias na viola. Cantaram José Mesquita e Heitor Lopes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Raízes de Coimbra no Faial e Pico, Açores",
+      "data": "2008-07",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/grupo-razes-de-coimbra-no-faial-e-pico.html",
+          "doc": "gc-ii:3182938586407244392",
+          "citacao": "Grupo Raízes de Coimbra no Faial e Pico, Açores, a convite de José Francisco."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Antigos Tunos em Pombal: canta «Balada dos meus Amores», «Viagem de Acaso» e, com Mário Rovira, «Trova Nova», acompanhado pelo grupo Raízes de Coimbra",
+      "data": "2008-09-20",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/heitor-lopes-canta-balada-dos-meus.html",
+          "doc": "gc-iv:2270022979372039636",
+          "citacao": "Heitor Lopes canta \"Balada dos meus Amores\", em Pombal, numa actuação dos Antigos Tunos, em 20-9-2008"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/heitor-lopes-canta-balada-do-tempo.html",
+          "doc": "gc-iv:351498810854627080",
+          "citacao": "Heitor Lopes canta \"Viagem de Acaso\", num espectáculo dos Antigos Tunos em Pombal, a 20-9-2008."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/heitor-lopes-e-mario-rovira-cantam_20.html",
+          "doc": "gc-iv:2788836160059776250",
+          "citacao": "Heitor Lopes e Mário Rovira cantam \"Trova Nova\", num espectáculo dos Antigos Tunos em Pombal, a 20-9-2008"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Encontros Internacionais de Guitarra Portuguesa, acompanhado pelo grupo Raízes de Coimbra",
+      "data": "2008-10",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/encontros-internacionais-de-guitarra.html",
+          "doc": "gc-ii:1064019680887059335",
+          "citacao": "Guitarra e Canto de Coimbra, com o Grupo Raízes de Coimbra, a acompanhar, por ordem de actuação, João Farinha, Nuno Silva, Heitor Lopes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Grande Noite do Fado Académico, Alfândega do Porto",
+      "data": "2011-11",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-raizes-de-coimbra-na-grande-noite.html",
+          "doc": "gc-iv:5165778009861039048",
+          "citacao": "Grupo \"Raízes de Coimbra\" na Grande Noite do Fado Académico, no sábado passado, na Alfândega do Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sé de Faro, com o grupo Raízes de Coimbra (15 de junho)",
+      "data": "2013-06-15",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/heitor-lopes-na-se-de-faro-em-15-de.html",
+          "doc": "gc-v:8071117840284049812",
+          "citacao": "Heitor Lopes na Sé de Faro, em 15 de Junho deste ano de 2013."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Evocação de Nuno Guimarães: interpretou «Fado das Penumbras» e «Minho Encantador» com o grupo Raízes de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:424117042564170805",
+          "citacao": "grupo Raízes de Coimbra com Heitor Lopes (cantor) que interpretou Fado das Penumbras e Minho Encantador."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a Nuno Guimarães em Perosinho (Vila Nova de Gaia), com o grupo Raízes de Coimbra",
+      "data": "2017-09",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/em-torno-de-manuel-gouveiaferreira-1947.html",
+          "doc": "gc-v:500972107859972140",
+          "citacao": "de 2017, na homenagem a Nuno Guimarães em Perosinho (Vila Nova de Gaia), integrado eu no grupo «Raízes de Coimbra» (Heitor Lopes, Mário Rovira, Octávio Sérgio, Paulo Alexandre, Rui Pato, Humberto Matias e eu próprio, é claro)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Serenata monumental de Santarém» com o grupo Raízes de Coimbra: «Tempo que não passa» e «Teu nome»",
+      "data": "2025-07-04",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+          "doc": "gc-v:356613865380152505",
+          "citacao": "Santarém, 4 de Julho de 2025 Tempo que não passa - Heitor Lopes ... Teu nome - Heitor Lopes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+          "doc": "gc-i:8430172402558970393",
+          "citacao": "Fazem parte deste grupo: Heitor Lopes e Mário Rovira no canto; Octávio Sérgio e Alcides Freixo nas guitarras; Humberto Matias na viola."
+        }
+      ],
+      "nota": "Cantor do grupo pelo menos de 2007 a 2025, segundo os posts."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-no-palcio-de-s_28.html",
+          "doc": "gc-i:113046688759658863",
+          "citacao": "Heitor Lopes canta, acompanhado por Octávio Sérgio e Humberto Matias."
+        }
+      ],
+      "nota": "Octávio Sérgio acompanhou-o à guitarra (Antigos Tunos, 2005)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1020536.jpg",
+      "legenda": "Antigos Tunos na Mealhada (outubro de 2005). Canta Heitor Lopes. Foto de Armando Duarte.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-na-mealhada-_113069022020567096.html",
+          "doc": "gc-i:113069022020567096",
+          "citacao": "Antigos Tunos na Mealhada, ontem. Canta Heitor Lopes. Foto de Armando Duarte."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Canta%20Heitor.jpg",
+      "legenda": "Homenagem a Victor Aguiar e Silva em Viseu (novembro de 2006). Heitor Lopes a cantar. Foto enviada por Fernando Paulo Baptista.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/homenagem-victor-aguiar-e-_116360615594442874.html",
+          "doc": "gc-i:116360615594442874",
+          "citacao": "Homenagem a Victor Aguiar e Silva em Viseu, no sábado passado. Heitor Lopes a cantar. Foto enviada por Fernando Paulo Baptista."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSv5lBC2In79hvmhgGJMueojCe1MYoCbUrX7_GmKT25TPyLqtD9ztgpBYnix0IMMmmzqp5B8EtJ0FMQ9w7MVk3gkABgh8a8TZlBdK9dFW4sxNKiJu2rkJDUU_jRWjHIvfwwoSS15QkGowc/s1600/HLopes+CARICATURA+ZM.jpg",
+      "legenda": "Caricatura de Heitor Lopes por José Maria Oliveira (desenho, não fotografia)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/raizes-de-coimbra.html",
+          "doc": "gc-v:8391288124811939979",
+          "citacao": "Caricaturas de José Maria Oliveira de cinco elementos do grupo Raízes de Coimbra. De cima para baixo: Rui Pato, Heitor Lopes, Mário Rovira Nuno Oliveira e Humberto Matias."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

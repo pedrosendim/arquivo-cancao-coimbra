@@ -1,0 +1,198 @@
+{
+  "id": "conjunto-universitario-de-guitarras-orfeu-atep-6187",
+  "titulo": "Conjunto Universitário de Guitarras",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6187",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "conjunto-universitario-de-guitarras",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "nuno-morgado",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "jose-carlos-agrelos",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-botelho-chaves",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "eduardo-beirao-reis",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Mar Alto",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Balada ao Luar",
+      "obra": "",
+      "media": ["ouvir-conjunto-universitario-de-guitarras-orfeu-atep-6187-2-soundcloud"]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado Saudades",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Folha Caída",
+      "obra": "",
+      "media": ["ouvir-conjunto-universitario-de-guitarras-orfeu-atep-6187-4-soundcloud"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/PSRawMpdO8YuEPO8_vyv12eYf1fj7L6Ow8PDazISv_I/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk5/OTc0LTE1MzI0NTU2/NzEtMzQzMC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/12299974",
+        "doc": "discogs:wb67f12ca4451dc27",
+        "citacao": "Imagem (primary): https://i.discogs.com/PSRawMpdO8YuEPO8_vyv12eYf1fj7L6Ow8PDazISv_I/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk5/OTc0LTE1MzI0NTU2/NzEtMzQzMC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/12299974",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12299974",
+          "doc": "discogs:wb67f12ca4451dc27",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12299974",
+          "doc": "discogs:wb67f12ca4451dc27",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1966 (Discogs)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12299974",
+          "doc": "discogs:wb67f12ca4451dc27",
+          "citacao": "Data: 1966"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica ca. 1965 / 1965 e, noutro post, 1966."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1965 (blogue)",
+      "data": "1965",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "Orfeu, ATEP 6187, s/d [ca. 1965]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2_28.html",
+          "doc": "gc-v:7385869171800518998",
+          "citacao": "Universitário de guitarras, Porto, Orfeu ATEP 6187, 1965"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do blogue e o Discogs indicam 1966."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1966 (blogue)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "EP Conjunto Universitário de Guitarras, Porto, Orfeu ATEP 6187, 1966"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue indicam ca. 1965."
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarras de Coimbra: José Carlos Agrelos/Manuel Botelho Chaves; viola: Eduardo Beirão Reis (blogue)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "acompanhado por José Carlos Agrelos/Manuel Botelho Chaves (ggC) e Eduardo Beirão Reis (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs credita os três como «Acoustic Guitar»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Beirão Reis, José Carlos Agrelos e Manuel Botelho Chaves como «Acoustic Guitar»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12299974",
+          "doc": "discogs:wb67f12ca4451dc27",
+          "citacao": "Acoustic Guitar – Beirão Reis Acoustic Guitar – José Carlos Agrelos Acoustic Guitar – Manuel Botelho Chaves Vocals – Nuno Morgado"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica José Carlos Agrelos e Manuel Botelho Chaves em guitarras de Coimbra e Eduardo Beirão Reis na viola."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/12299974",
+      "doc": "discogs:wb67f12ca4451dc27",
+      "citacao": "Editora: Orfeu – ATEP 6187"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+      "doc": "gc-v:317687412411170614",
+      "citacao": "EP CONJUNTO UNIVERSITÁRIO DE GUITARRAS. Porto: Orfeu, ATEP 6187, s/d [ca. 1965], canta Nuno Morgado, acompanhado por José Carlos Agrelos/Manuel Botelho Chaves (ggC) e Eduardo Beirão Reis (v). Texto-manifesto na contracapa."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

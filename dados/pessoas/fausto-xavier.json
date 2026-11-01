@@ -1,0 +1,86 @@
+{
+  "id": "fausto-xavier",
+  "tipo": "pessoa",
+  "nome": "Fausto Xavier",
+  "nomes_alternativos": [
+    "Fausto Tavares Xavier de Lopes Rodrigues"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+      "doc": "gc-v:3875621728661417894",
+      "citacao": "Proprietário: Dr. Fausto Tavares Xavier de Lopes Rodrigues, nascido em Albergaria-a-Velha a 25.05.1909, falecido em Lisboa a 30.01.1995. Médico, licenciado em 1932 pela FM/UC, elemento de diversas formações de Canção de Coimbra, solista de guitarra de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Albergaria-a-Velha, 25 de maio de 1909",
+      "data": "1909-05-25",
+      "local": "Albergaria-a-Velha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "nascido em Albergaria-a-Velha a 25.05.1909"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 30 de janeiro de 1995",
+      "data": "1995-01-30",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "falecido em Lisboa a 30.01.1995"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico (licenciado em 1932 pela FM/UC)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Médico, licenciado em 1932 pela FM/UC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1B7n1P-Fl9U3Jd8qweyPM1sUnYRIx4Ywa2-bLAxvhlDxmwzycA47Dm1zl5ib-eKU1OUn9s-6tJgLuy2yn-fJcgtSJ4cLdy4uzPYwzpGiFtTDVxuL00v13-YgSRYXKGBiOO1pgO9DD17o/s1600/fausto.png",
+      "legenda": "Um rosto mais no panteão da Canção de Coimbra, retrato de Fausto Xavier. Digitalização de José Nascimento.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Um rosto mais no panteão da Canção de Coimbra, retrato de Fausto Xavier."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

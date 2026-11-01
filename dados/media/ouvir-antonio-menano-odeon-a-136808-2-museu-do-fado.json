@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136808-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0601_04.mp3",
+  "titulo": "Fado do Quinto Ano — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136808",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1195.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1187/antonio_menano_fado_do_quinto_ano",
+      "doc": "museu-do-fado:w3cc6d41af5c0dfd5",
+      "citacao": "Título: Fado do Quinto ano ... Editora: Od.136.808, EMICD8346182"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

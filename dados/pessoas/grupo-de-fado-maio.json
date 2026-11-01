@@ -1,0 +1,197 @@
+{
+  "id": "grupo-de-fado-maio",
+  "tipo": "grupo",
+  "nome": "Grupo de Fado Maio",
+  "nomes_alternativos": [
+    "MAIO – Grupo de Fado de Coimbra",
+    "MAIO – Grupo de Fado",
+    "grupo Maio"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2019/10/noite-de-serenatas-conquista-praca-8-de-maio/",
+      "doc": "jornal-a-cabra:wd2f05b9a2ebdb1fa",
+      "citacao": "MAIO – Grupo de Fado de Coimbra deu início ao espetáculo com\numa dedicatória às “duas donzelas presentes”: a mulher e “Coimbra menina e\nmoça”, um dos temas que apresentaram."
+    },
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+      "doc": "jornal-a-cabra:w31744dde946cd5f4",
+      "citacao": "Por último, o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC, interpretou vários temas, de entre os quais se destaca “Sombras de Uma Capa”, primeiro original do Grupo, composto por Francisco Zagalo. Terminou as atuações deste espetáculo com a “Balada da Despedida” que interpretaram na Serenata Monumental da Queima das Fitas de 2022."
+    },
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+      "doc": "jornal-a-cabra:w8307246a28450c5b",
+      "citacao": "Depois do intervalo, MAIO – Grupo de Fado, composto por alguns membros da EUC, interpretaram temas céleres da Canção de Coimbra, assim como originais."
+    },
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+      "doc": "jornal-a-cabra:w8307246a28450c5b",
+      "citacao": "A guitarrada “Variações em mi menor”, de Anselmo Batista, ecoou pelo recinto, interpretada pelo próprio, acompanhado por Francisco Zagalo, na guitarra, e Luís Carvalho, na viola. A primeira noite do FESTUNA foi presenteada com a estreia do original “Canção de um Tempo”, apresentada pela primeira vez, na voz de Francisco Cidade."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "abre a «Noite de Serenatas» do XXIX FESTUNA, Praça 8 de Maio, Coimbra (25 de outubro de 2019)",
+      "data": "2019-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2019/10/noite-de-serenatas-conquista-praca-8-de-maio/",
+          "doc": "jornal-a-cabra:wd2f05b9a2ebdb1fa",
+          "citacao": "“Noite de Serenatas” conquista Praça 8 de Maio\n\n26 Outubro, 2019"
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2019/10/noite-de-serenatas-conquista-praca-8-de-maio/",
+          "doc": "jornal-a-cabra:wd2f05b9a2ebdb1fa",
+          "citacao": "MAIO – Grupo de Fado de Coimbra deu início ao espetáculo com\numa dedicatória às “duas donzelas presentes”: a mulher e “Coimbra menina e\nmoça”, um dos temas que apresentaram."
+        }
+      ],
+      "conflito": false,
+      "nota": "A Cabra, 26 de outubro de 2019 («nesta sexta-feira»)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Feira Cultural da Queima das Fitas, jardins da AAC, 10 de maio de 2022",
+      "data": "2022-05-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/05/queima-das-fitas-da-palco-a-cultura-da-academia/",
+          "doc": "jornal-a-cabra:w11db873e322ecec6",
+          "citacao": "Os jardins da Associação Académica de Coimbra (AAC) acolhem hoje, dia 10, a Feira Cultural, integrada nas atividades da Queima das Fitas (QF)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/05/queima-das-fitas-da-palco-a-cultura-da-academia/",
+          "doc": "jornal-a-cabra:w11db873e322ecec6",
+          "citacao": "A programação conta com atuações de grupos académicos, entre os quais o Grupo de Cordas, a Estudantina Universitária de Coimbra, a Orquestra Típica e Rancho, a Estudantina Feminina de Coimbra, o Grupo de Fado Maio e a Orxestra Pitagórica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio de Revelação Cultural na Gala dos 135 anos da AAC",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Por último, o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC, interpretou vários temas, de entre os quais se destaca “Sombras de Uma Capa”, primeiro original do Grupo, composto por Francisco Zagalo. Terminou as atuações deste espetáculo com a “Balada da Despedida” que interpretaram na Serenata Monumental da Queima das Fitas de 2022."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas de 2022, com uma «Balada da Despedida»",
+      "data": "2022",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Por último, o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC, interpretou vários temas, de entre os quais se destaca “Sombras de Uma Capa”, primeiro original do Grupo, composto por Francisco Zagalo. Terminou as atuações deste espetáculo com a “Balada da Despedida” que interpretaram na Serenata Monumental da Queima das Fitas de 2022."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Gala do XVIII Mês do Fado da Secção de Fado da AAC, Teatro Académico de Gil Vicente, 25 de novembro de 2022; interpreta «Sombras de Uma Capa», primeiro original, de Francisco Zagalo",
+      "data": "2022-11-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "No dia 25 de novembro, no Teatro Académico Gil Vicente, decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "contou com a participação da Estudantina Universitária de Coimbra e de cinco grupos de fado, todos pertencentes à SF/AAC."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Por último, o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC, interpretou vários temas, de entre os quais se destaca “Sombras de Uma Capa”, primeiro original do Grupo, composto por Francisco Zagalo. Terminou as atuações deste espetáculo com a “Balada da Despedida” que interpretaram na Serenata Monumental da Queima das Fitas de 2022."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "grupo de fado composto por alguns membros da Estudantina Universitária de Coimbra (EUC)",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "Depois do intervalo, MAIO – Grupo de Fado, composto por alguns membros da EUC, interpretaram temas céleres da Canção de Coimbra, assim como originais."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "XXXI FESTUNA, Jardim da Sereia, Coimbra (5 de maio de 2023): estreia do original «Canção de um Tempo», na voz de Francisco Cidade; «Variações em mi menor» de Anselmo Batista",
+      "data": "2023-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "MAIO, grupo de fado convidado, apresenta pela primeira vez original “Canção de um Tempo”."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "A guitarrada “Variações em mi menor”, de Anselmo Batista, ecoou pelo recinto, interpretada pelo próprio, acompanhado por Francisco Zagalo, na guitarra, e Luís Carvalho, na viola. A primeira noite do FESTUNA foi presenteada com a estreia do original “Canção de um Tempo”, apresentada pela primeira vez, na voz de Francisco Cidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "FESTUNA: atuou depois do intervalo; grupo composto por alguns membros da EUC",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "Depois do intervalo, MAIO – Grupo de Fado, composto por alguns membros da EUC, interpretaram temas céleres da Canção de Coimbra, assim como originais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

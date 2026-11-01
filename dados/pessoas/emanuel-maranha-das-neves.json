@@ -1,0 +1,299 @@
+{
+  "id": "emanuel-maranha-das-neves",
+  "tipo": "pessoa",
+  "nome": "Emanuel Maranha das Neves",
+  "nomes_alternativos": [
+    "Maranha das Neves"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+      "doc": "gc-v:3000711862838942328",
+      "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+      "doc": "gc-i:111703412428246171",
+      "citacao": "Serenata no Convento de S. Francisco, integrada na Coimbra Capital da Cultura, 2003. Actuaram os grupos: \"Campa Rasa\", constituído por Rui Ferreira e Joaquim Mota a cantar, David Leandro e Valdemar Benavente à guitarra, Emanuel Maranha das Neves e José Niza à viola"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-i:111979782925444603",
+      "citacao": "Grupo ”Campa Rasa” com David Leandro e Valdemar Benavente, nas guitarras, por Emanuel Maranha das Neves e António Viegas Tavares nas violas e, nas vozes, Joaquim Mota e Rui Ferreira"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+      "doc": "gc-i:115383968380060280",
+      "citacao": "O Grupo “Campa Rasa” com David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira (Fado das Saudades e Fado das Andorinhas), Joaquim Mota (Fado das Águias e “Carta” de A Araújo) , Fernando Rolim (“Feiticeira”de A Araújo) e Arménio Marques dos Santos (“ Último Fado” de A Araújo )."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/homenagem-jos-niza.html",
+      "doc": "gc-ii:1160051366014780284",
+      "citacao": "E, na música, Zeca Afonso, Adriano, António Bernardino, Jorge Tuna, António Portugal, Lopes de Almeida, Levy Baptista, Durval Moreirinhas, Maranha das Neves e tantos outros."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "instrumento",
+      "valor": "viola",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "Emanuel Maranha das Neves e José Niza à viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em finais de 1956, viola no grupo de fados e guitarradas de Coimbra formado por Conde Veiga, com José Niza e David Leandro (guitarras) e Conde Veiga (viola)",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de João Conde Veiga por Manuel Marques Inácio, publicada no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata no Convento de S. Francisco, integrada na Coimbra Capital da Cultura, 2003: viola no grupo «Campa Rasa» (com José Niza, viola; David Leandro e Valdemar Benavente, guitarras; Rui Ferreira e Joaquim Mota, canto)",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "Serenata no Convento de S. Francisco, integrada na Coimbra Capital da Cultura, 2003. Actuaram os grupos: \"Campa Rasa\", constituído por Rui Ferreira e Joaquim Mota a cantar, David Leandro e Valdemar Benavente à guitarra, Emanuel Maranha das Neves e José Niza à viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de uma fotografia do livro «20 Anos do GGCC» (Grupo Guitarra e Canto de Coimbra, Santarém), citada no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Tradicional dos Estudantes de Santarém, escadarias do Largo do Seminário (Sé), 9 de julho de 2005: presença prevista do grupo «Campa Rasa», com Emanuel Maranha das Neves e António Viegas Tavares nas violas",
+      "data": "2005-07-09",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "SERENATA TRADICIONAL DOS ESTUDANTES DE SANTARÉM, NAS ESCADARIAS DO LARGO DO SEMINÁRIO (SÉ)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "9 DE JULHO 2005"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Prevista ainda a presença do “Grupo Jurídico” com David Leandro, Lopes de Almeida, António Toscano, Arménio Santos e Rodrigues Rocha, do Grupo ”Campa Rasa” com David Leandro e Valdemar Benavente, nas guitarras, por Emanuel Maranha das Neves e António Viegas Tavares nas violas e, nas vozes, Joaquim Mota e Rui Ferreira"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio (presença «prevista») na publicação comemorativa dos 20 anos do Grupo Guitarra e Canto de Coimbra (Santarém), texto enviado por Elias Rodrigues e citado no post. Não há relato da serenata no arquivo."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Tradicional dos Estudantes de Santarém (homenagem a Ângelo Vieira Araújo), escadarias do Largo do Seminário, 22 de julho de 2006: viola no grupo «Campa Rasa», com António Viegas Tavares (viola) e David Leandro e Valdemar Benavente (guitarras), a acompanhar Rui Ferreira, Joaquim Mota, Fernando Rolim e Arménio Marques dos Santos",
+      "data": "2006-07-22",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de.html",
+          "doc": "gc-i:115306904947059729",
+          "citacao": "Além dos cantores convidados actuará também o grupo “Campa Rasa” constituído por David Leandro e Valdemar Benavente (guitarras), António Viegas Tavares e Maranha das Neves (violas), Rui Ferreira e Joaquim Mota (cantores)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Realizou-se com grande êxito, no passado Sábado - 22.07.2006, nas Escadarias do Largo do Seminário, a tradicional Serenata dos Estudantes de Santarém"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "O Grupo “Campa Rasa” com David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira (Fado das Saudades e Fado das Andorinhas), Joaquim Mota (Fado das Águias e “Carta” de A Araújo) , Fernando Rolim (“Feiticeira”de A Araújo) e Arménio Marques dos Santos (“ Último Fado” de A Araújo )."
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio (16-07-2006) e relato (25-07-2006), ambos enviados por Elias Rodrigues. Os dois posts dizem só «Maranha das Neves»; a formação do grupo é a mesma que, em 2005, inclui «Emanuel Maranha das Neves»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Nomeado por José Niza, na homenagem que lhe foi feita no Teatro Sá da Bandeira (Santarém), entre os nomes da música do seu tempo de Coimbra com quem conviveu",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/homenagem-jos-niza.html",
+          "doc": "gc-ii:1160051366014780284",
+          "citacao": "especialmente por ter tido a felicidade de conhecer e conviver com os grandes nomes da sua época, e que classificou como \"uma geração até hoje irrepetida\", e que enumerou"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/homenagem-jos-niza.html",
+          "doc": "gc-ii:1160051366014780284",
+          "citacao": "E, na música, Zeca Afonso, Adriano, António Bernardino, Jorge Tuna, António Portugal, Lopes de Almeida, Levy Baptista, Durval Moreirinhas, Maranha das Neves e tantos outros."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do jornal «O Ribatejo», de 12 de fevereiro de 2008, citado no post. O texto diz só «Maranha das Neves»; identificação com Emanuel Maranha das Neves pelo nome e por terem tocado juntos (1956, 2003): por confirmar."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "\"Campa Rasa\", constituído por Rui Ferreira e Joaquim Mota a cantar, David Leandro e Valdemar Benavente à guitarra, Emanuel Maranha das Neves e José Niza à viola"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Grupo ”Campa Rasa” com David Leandro e Valdemar Benavente, nas guitarras, por Emanuel Maranha das Neves e António Viegas Tavares nas violas"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de.html",
+          "doc": "gc-i:115306904947059729",
+          "citacao": "o grupo “Campa Rasa” constituído por David Leandro e Valdemar Benavente (guitarras), António Viegas Tavares e Maranha das Neves (violas)"
+        }
+      ],
+      "nota": "viola (2003, com José Niza; 2005 e 2006, com António Viegas Tavares)"
+    },
+    {
+      "tipo": "primo_de",
+      "alvo": "david-leandro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "joao-conde-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        }
+      ],
+      "nota": "violas no grupo de fados e guitarradas formado por Conde Veiga em finais de 1956"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "david-leandro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        }
+      ],
+      "nota": "grupo de 1956 (David Leandro na guitarra); voltam a aparecer juntos no grupo «Campa Rasa» (2003-2006)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jose-niza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "Emanuel Maranha das Neves e José Niza à viola"
+        }
+      ],
+      "nota": "grupo de 1956 (José Niza na guitarra); em 2003, ambos à viola no grupo «Campa Rasa»"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "joaquim-mota",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "O Grupo “Campa Rasa” com David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira (Fado das Saudades e Fado das Andorinhas), Joaquim Mota (Fado das Águias e “Carta” de A Araújo)"
+        }
+      ],
+      "nota": "Serenata de Santarém, 22-07-2006, com o grupo «Campa Rasa»"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-rolim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira (Fado das Saudades e Fado das Andorinhas), Joaquim Mota (Fado das Águias e “Carta” de A Araújo) , Fernando Rolim (“Feiticeira”de A Araújo)"
+        }
+      ],
+      "nota": "Serenata de Santarém, 22-07-2006, com o grupo «Campa Rasa»"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armenio-marques-dos-santos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Maranha das Neves e António Viegas Tavares (violas) acompanharam ... e Arménio Marques dos Santos (“ Último Fado” de A Araújo )."
+        }
+      ],
+      "nota": "Serenata de Santarém, 22-07-2006, com o grupo «Campa Rasa». O mesmo trecho refere Rui Ferreira, sem relação criada: a ficha rui-ferreira é a de um cantor do grupo Quarto Crescente (1994) e o texto não permite saber se é a mesma pessoa."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

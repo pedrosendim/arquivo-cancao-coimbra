@@ -1,0 +1,100 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-5316",
+  "titulo": "Samaritana / Canção de Alentejo",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "5316",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5316-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção de Alentejo",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5316-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Samaritana», por Edmundo Bettencourt — etiqueta: «Samaritana / Dr. Edmundo de Bettencourt / Acompanhamento de guitarra portuguesa e viola /  / Vocal - Fado Canção»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/299/edmundo_bettencourt_samaritana",
+          "doc": "museu-do-fado:wbd1fac1964aa643b",
+          "citacao": "Título: Samaritana ... Editora: Co. 5316 Referências: P301, W; 5316-B ... Etiqueta: Samaritana / Dr. Edmundo de Bettencourt / Acompanhamento de guitarra portuguesa e viola /  / Vocal - Fado Canção"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w1482317d88dacd9e"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canção de Alentejo», por Edmundo Bettencourt — etiqueta: «Canção do Alamtejo / Dr. Edmundo de Bettencourt / Accomp. de Guitarra Portuguesa e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/298/edmundo_bettencourt_cancao_de_alentejo",
+          "doc": "museu-do-fado:wc87a4786746df382",
+          "citacao": "Título: Canção de Alentejo ... Editora: Co. 5316 Referências: P309, W; 5316-B ... Etiqueta: Canção do Alamtejo / Dr. Edmundo de Bettencourt / Accomp. de Guitarra Portuguesa e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w0a7cd978b7f313ac"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/299/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:wbd1fac1964aa643b",
+      "citacao": "Título: Samaritana ... Editora: Co. 5316 Referências: P301, W; 5316-B"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5722/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:w1482317d88dacd9e",
+      "citacao": "Título: Samaritana ... Editora: Columbia Referências: 5316B, P301"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/298/edmundo_bettencourt_cancao_de_alentejo",
+      "doc": "museu-do-fado:wc87a4786746df382",
+      "citacao": "Título: Canção de Alentejo ... Editora: Co. 5316 Referências: P309, W; 5316-B"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5723/edmundo_bettencourt_cancao_de_alemtejo",
+      "doc": "museu-do-fado:w0a7cd978b7f313ac",
+      "citacao": "Título: Canção de alemtejo ... Editora: Columbia Referências: 5316B, P309"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

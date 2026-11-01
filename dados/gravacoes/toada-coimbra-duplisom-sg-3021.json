@@ -1,0 +1,179 @@
+{
+  "id": "toada-coimbra-duplisom-sg-3021",
+  "titulo": "Toada Coimbrã",
+  "formato": "EP",
+  "editora": "Duplisom",
+  "referencia": "SG 3021",
+  "ano": "1990",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "toada-coimbra",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "rui-pedro-lucas",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "alcides-sa-esteves",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-jose-vicente",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "joao-paulo-sousa",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "joao-carlos-oliveira",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "jorge-mira-marques",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada da Despedida do 5.º Ano Jurídico 88/89",
+      "obra": "",
+      "media": [
+        "disco-toada-coimbra-duplisom-sg-3021-balada-da-despedida-do-5-o-ano-juridico",
+        "ouvir-toada-coimbra-duplisom-sg-3021-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Alta Noite na Sé Velha",
+      "obra": "",
+      "media": [
+        "ouvir-toada-coimbra-duplisom-sg-3021-2-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/cZx37e_TLZobFGtol3UZUzlmWXhQTCe-2aZulx5sehg/rs:fit/g:sm/q:90/h:317/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzYz/NTctMTMwODg2NzY4/My5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/2936357",
+        "doc": "discogs:w80356f5e854986f7",
+        "citacao": "Imagem (primary): https://i.discogs.com/cZx37e_TLZobFGtol3UZUzlmWXhQTCe-2aZulx5sehg/rs:fit/g:sm/q:90/h:317/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzYz/NTctMTMwODg2NzY4/My5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/2936357",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1990 (Discogs)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "Data: 1990"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado nos estúdios Musicorde, Lisboa, em finais de 1989",
+      "data": "1989",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "gravado nos estúdios Musicorde, de Lisboa, em finais de 1989."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Rui Pedro Lucas e Alcides Sá Esteves (vozes), António Vicente e João Paulo Sousa (guitarras), João Carlos Oliveira e Jorge Mira Marques (violas); 2 inéditos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-EP Grupo de Fados de Coimbra Toada Coimbrã, Duplisom, SG 3021, 1990. Cantam Rui Pedro Lucas e Alcides Sá Esteves. Guitarras: António Vicente e João Paulo Sousa. Violas: João Carlos Oliveira e Jorge Mira Marques. Regista 2 inéditos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): single de 7\"",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "Formato: 1 × Vinyl, 7\", Single"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue chama-lhe EP."
+    },
+    {
+      "campo": "outro",
+      "valor": "Formato (blogue): EP",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "Rosto do EP"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs descreve-o como single de 7\"."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/2936357",
+      "doc": "discogs:w80356f5e854986f7",
+      "citacao": "Editora: Duplisom – SG 3021"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+      "doc": "gc-i:113753146107609373",
+      "citacao": "Rosto do EP \"Toada Coimbrã\", Duplisom SG 3021, ano de 1990, gravado nos estúdios Musicorde, de Lisboa, em finais de 1989."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

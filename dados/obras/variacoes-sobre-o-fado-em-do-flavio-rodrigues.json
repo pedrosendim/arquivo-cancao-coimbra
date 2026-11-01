@@ -1,0 +1,42 @@
+{
+  "id": "variacoes-sobre-o-fado-em-do-flavio-rodrigues",
+  "titulo": "Variações sobre o Fado em Dó",
+  "titulos_alternativos": [],
+  "genero": "variacoes",
+  "musica": [
+    "flavio-rodrigues-da-silva"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravação de António Brojo, com António Portugal, Aurélio Reis e Mário de Castro, em 78 rotações; gravação posterior de António Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-sobre-o-fado-em-d_27.html",
+          "doc": "gc-i:111982697597447998",
+          "citacao": "Estas variações, de grande beleza e sentimento, estão optimamente executadas e gravadas por António Brojo, com acompanhamento de António Portugal, Aurélio Reis e Mário de Castro, numa gravação ainda em discos de 78 rotações."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-sobre-o-fado-em-d_27.html",
+          "doc": "gc-i:111982697597447998",
+          "citacao": "A versão que José Paulo aqui apresenta difere um pouco da gravação original de António Brojo. Está de acordo com uma gravação posterior de António Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-sobre_111983058808580864.html",
+      "doc": "gc-i:111983058808580864",
+      "citacao": "Partitura de \"Variações sobre o Fado em Dó\" (1), de Flávio Rodrigues, numa transcrição e arranjo de José Paulo."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

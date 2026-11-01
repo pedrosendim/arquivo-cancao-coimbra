@@ -1,0 +1,116 @@
+{
+  "id": "manasses-de-lacerda-gramophone-264263",
+  "titulo": "Duo da valsa da opereta Dama Roxa / Duo de Snobli e Ketty da opereta Dama Roxa",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "264263",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Duo da valsa da opereta Dama Roxa",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-264263-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Duo de Snobli e Ketty da opereta Dama Roxa",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-264263-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Duo da valsa da opereta Dama Roxa», por Medina de Sousa, Manassés de Lacerda — etiqueta: «Dama Roxa / duo da valsa / pelo soprano Medina de Sousa e tenor Lacerda / Lisboa.»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3566/medina_de_sousa_manasses_de_lacerda_duo_da_valsa_da_opereta_dama_roxa",
+          "doc": "museu-do-fado:w5ef76d72be7694d7",
+          "citacao": "Título: Duo da valsa da opereta Dama Roxa ... Editora: D.P. Gramophone 264262 264263 Referências: Disque Pour Gramophone 17678u, 264262_; 264262  ... Etiqueta: Dama Roxa / duo da valsa / pelo soprano Medina de Sousa e tenor Lacerda / Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "também intérprete, sem ficha no arquivo: Medina de Sousa"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Duo de Snobli e Ketty da opereta Dama Roxa», por Medina de Sousa, Manassés de Lacerda — etiqueta: «Dama Roxa / duo de Snobli e Ketty / pelo soprano Medina de Sousa e tenor Lacerda / Lisboa.»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3565/medina_de_sousa_manasses_de_lacerda_duo_de_snobli_e_ketty_da_opereta_dama_roxa",
+          "doc": "museu-do-fado:w5911885e9a5ab944",
+          "citacao": "Título: Duo de Snobli e Ketty da opereta Dama Roxa ... Editora: D.P. Gramophone 264263 264262 Referências: Disque Pour Gramophone 17679u, 264263_; 264263  ... Etiqueta: Dama Roxa / duo de Snobli e Ketty / pelo soprano Medina de Sousa e tenor Lacerda / Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Arquivo Sonoro do Museu do Fado atribui o registo a Manassés de Lacerda; a etiqueta diz «tenor Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3565/medina_de_sousa_manasses_de_lacerda_duo_de_snobli_e_ketty_da_opereta_dama_roxa",
+          "doc": "museu-do-fado:w5911885e9a5ab944",
+          "citacao": "Intérprete: Medina de Sousa, Manassés de Lacerda ... Etiqueta: Dama Roxa / duo de Snobli e Ketty / pelo soprano Medina de Sousa e tenor Lacerda / Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, os discos do «tenor Lacerda» com repertório de Manassés (sobretudo de 1913) são de outro cantor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Na época, e principalmente em 1913, foram colocados no mercado discos gravados por um \"tenor Lacerda\", com repertório Manassés. Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3566/medina_de_sousa_manasses_de_lacerda_duo_da_valsa_da_opereta_dama_roxa",
+      "doc": "museu-do-fado:w5ef76d72be7694d7",
+      "citacao": "Título: Duo da valsa da opereta Dama Roxa ... Editora: D.P. Gramophone 264262 264263 Referências: Disque Pour Gramophone 17678u, 264262_; 264262 "
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3565/medina_de_sousa_manasses_de_lacerda_duo_de_snobli_e_ketty_da_opereta_dama_roxa",
+      "doc": "museu-do-fado:w5911885e9a5ab944",
+      "citacao": "Título: Duo de Snobli e Ketty da opereta Dama Roxa ... Editora: D.P. Gramophone 264263 264262 Referências: Disque Pour Gramophone 17679u, 264263_; 264263 "
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

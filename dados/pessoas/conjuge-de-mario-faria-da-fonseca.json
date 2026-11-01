@@ -1,0 +1,33 @@
+{
+  "id": "conjuge-de-mario-faria-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "Mulher de Mário Faria da Fonseca (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "mario-faria-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/cantavam-e-tocavam-em-coimbra-em-1930.html",
+          "doc": "gc-v:7208676335184441888",
+          "citacao": "Mário Faria da Fonseca, de 33 anos de idade, casado, secretário de finanças"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-sobre-mario-faria-da-fonseca.html",
+          "doc": "gc-v:3647209229263586252",
+          "citacao": "Mário vem identificado como cidadão de trinta e três anos de idade, casado"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Estado civil «casado» no Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931, citado no post."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

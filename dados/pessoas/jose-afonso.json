@@ -1,0 +1,1284 @@
+{
+  "id": "jose-afonso",
+  "tipo": "pessoa",
+  "nome": "José Afonso",
+  "nomes_alternativos": ["Zeca Afonso", "Zeca", "José Manuel Cerqueira Afonso dos Santos", "Dr. José Afonso"],
+  "papeis": [
+    "cantor",
+    "compositor",
+    "poeta",
+    "letrista",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "José Manuel Cerqueira Afonso dos Santos nasceu a 2 de Agosto de 1929, em Aveiro, filho de José Nepomuceno Afonso dos Santos, magistrado, e de Maria das Dores Dantas Cerqueira, professora primária."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "Vai para Coimbra em 1940 para prosseguir os estudos. É matriculado no Liceu D. João III e instala-se em casa da tia Avrilete, tia paterna que vivia à Av. Dias da Silva, actual nº112. No liceu conhece António Portugal e Luiz Goes."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "Nesse mesmo ano começa a cantar serenatas como «bicho», designação da praxe de Coimbra para os estudantes liceais (José Afonso andava no 5.º ano do liceu). Era conhecido como “bicho-cantor”, o que lhe permitia não ser rapado pelas trupes. Vida de boémia e fados tradicionais de Coimbra."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+      "doc": "aja:w933d1889779fab04",
+      "citacao": "José Afonso matricula-se em 1949 na Faculdade de Letras, em Ciências Histórico-Filosóficas, e, simultaneamente, é convidado por António Brojo para o seu grupo de fados."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "Frequentou os círculos do guitarrista-barbeiro Flávio Rodrigues da Silva e tornou-se notado como serenateiro, sendo presença frequente no Emissor Regional de Coimbra, em serenatas e espectáculos protagonizados pelo grupo de António Pinho Brojo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "José Afonso gravou na década de 1950 com o grupo de António Brojo (Tertúlia do Calhabé) e com o grupo de António Portugal (Coimbra Quintet)."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "Em 1962 é editado o álbum «Coimbra Orfeon of Portugal», pela Monitor, dos Estados Unidos, com «Minha Mãe» e «Balada Aleixo», onde José Afonso rompe definitivamente com o acompanhamento das guitarras."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "Em 1981, após dois anos de silêncio, regressa a Coimbra com o seu álbum «Fados de Coimbra e Outras Canções». Trata-se da mais bela versão do fado de Coimbra, interpretada por Zeca Afonso em homenagem a seu pai e a Edmundo Bettencourt, a quem o disco é dedicado."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Manuel Cerqueira Afonso dos Santos",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "José Manuel Cerqueira Afonso dos Santos nasceu a 2 de Agosto de 1929"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "JOSÉ MANUEL CERQUEIRA AFONSO DOS SANTOS (Aveiro, 2.08.1929; Setúbal, 23.02.1987)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/545378",
+          "doc": "discogs:wbcbede07b27d78c2",
+          "citacao": "Nome real: José Manuel Cerqueira Afonso dos Santos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "José Manuel Afonso Cerqueira dos Santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "José Manuel Afonso Cerqueira dos Santos (1929-1987), segundo tenor, membro do Orfeon Académico, estudante da FL/UC"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ordem dos apelidos diferente, na lista de elementos do grupo de Pinho Brojo."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Aveiro, 2 de agosto de 1929",
+      "data": "1929-08-02",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "nasceu a 2 de Agosto de 1929, em Aveiro"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "nasce a 2-8-1929, em Aveiro (freguesia da Glória)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "(Aveiro, 2.08.1929; Setúbal, 23.02.1987)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "José Manuel Cerqueira Afonso dos Santos nasceu a 2 de Agosto de 1929, em Aveiro"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1924 (datas indicadas junto ao nome do autor da Balada do Outono)",
+      "data": "1924",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "Música: José Manuel Cerqueira Afonso Santos (1924-1987)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Só neste cabeçalho; os restantes documentos, incluindo o mesmo blogue, indicam 1929. Possível gralha, a rever pelo editor."
+    },
+    {
+      "campo": "morte",
+      "valor": "Setúbal, 23 de fevereiro de 1987, no Hospital de Setúbal, vítima de esclerose lateral amiotrófica",
+      "data": "1987-02-23",
+      "local": "Setúbal",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "José Afonso morreu no dia 23 de Fevereiro de 1987, no Hospital de Setúbal, às 3 horas da madrugada, vítima de esclerose lateral amiotrófica"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "Retrato do José Afonso, falecido em Setúbal a 23 de fevereiro de 1987"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III, em Coimbra (a partir de 1940)",
+      "data": "1940",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Zeca entra para o primeiro ano do Liceu D. João III (hoje José Falcão), a dois passos de casa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "José Afonso estabeleceu-se em Coimbra no ano de 1940 para frequentar o Liceu D. João III."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Inscreve-se em 1949 no curso de Ciências Histórico-Filosóficas da Faculdade de Letras de Coimbra",
+      "data": "1949",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1949, dispensado do exame de aptidão à Universidade, inscreve-se no primeiro ano do curso de Ciências Histórico-Filosóficas da Faculdade de Letras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Conclui o curso em 1963, com tese sobre Sartre (11 valores)",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "embora só venha a concluir em 1963 o curso na Faculdade de Letras de Coimbra, com uma tese sobre Jean-Paul Sartre: «Implicações substancialistas na filosofia sartriana», classificada com 11 valores."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "conclui em 1963 o curso na Faculdade de Letras de Coimbra com 11 valores"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Histórico-Filosóficas a 3 de novembro (entrada de 1961 da cronologia), 11 valores",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1961 ... Zélia ... Licenciatura em Histórico-Filosóficas com a tese Implicações Substancialistas na Filosofia Sartriana, pronta, ao que parece, desde 1959, obtendo 11 valores: 3 de Novembro."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Concluiu a licenciatura em 1961."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor do ensino médio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "compositor amador, poeta, professor do ensino médio, intérprete da Canção de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor num colégio privado em Mangualde, de 6 de janeiro a 30 de setembro de 1957",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "vai dar aulas num colégio privado em Mangualde de 6 de Janeiro a 30 de Setembro de 1957"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "começou a trabalhar fora de Coimbra como professor em 1957 (Mangualde)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor num colégio privado em Mangualde em 1955/56",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Vai dar aulas num colégio privado em Mangualde em 1955/56."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Começa a cantar serenatas como «bicho» em 1945 (5.º ano do liceu)",
+      "data": "1945",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "até ao final da II Guerra Mundial, em 1945. Nesse mesmo ano começa a cantar serenatas como «bicho»"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Nesse mesmo ano começa a cantar serenatas como «bicho», designação da praxe de Coimbra para os estudantes liceais (José Afonso andava no 5.º ano do liceu)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inicia as «deambulações fadistas» em 1947, no 5.º ano liceal",
+      "data": "1947",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1947 ... 5º ano liceal ... Zeca, então a frequentar o quinto ano liceal, inicia as suas deambulações fadistas pela cidade e fora dela."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Primeiras «veleidades de cantor» no 6.º ano do liceu (autobiografia)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "“As minhas primeiras veleidades de cantor surgiram quando andava no 6º ano do liceu."
+        }
+      ],
+      "conflito": true,
+      "nota": "Autobiografia incluída em José Viale Moutinho, Vozes Livres (Livraria Paisagem, 1972), citada no texto de José Niza."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Aparece como cantor de fado tradicional «à volta de 1948» (testemunho de António Brojo)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "Entretanto aparece o Zeca Afonso, à volta de 1948, também cantando exclusivamente o fado tradicional."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Primeiras guitarradas e fados de rua desde o 4.º ano do liceu (testemunho de Carlos Couceiro)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "O José Afonso foi meu colega desde o 4º ano de Liceu"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "os primeiros fados de rua que era a maneira de nós não sermos rapados, lá em Coimbra, com o Mário Barroso."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Convidado em 1949 por António Brojo para o seu grupo de fados",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "José Afonso matricula-se em 1949 na Faculdade de Letras, em Ciências Histórico-Filosóficas, e, simultaneamente, é convidado por António Brojo para o seu grupo de fados."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "No início de 1950 integra o grupo que, desde 1952, ficou conhecido por «Tertúlia do Calhabé»",
+      "data": "1950",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "No início de 1950 integra-se num grupo de Canção de Coimbra com Luiz Goes, Fernando Rolim, Florêncio de Carvalho, Aurélio Reis, Mário de Castro, António Pinho Brojo e António Portugal"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Grupo que a partir de 1952 por ensaiar em casa de Pinho Brojo ficou conhecido por \"Tertúlia do Calhabé\"."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segundo tenor do grupo de Pinho Brojo (Tertúlia do Calhabé), formação constituída em 1951",
+      "data": "1951",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "A formação constituiu-se em 1951 e manteve sólida agenda artística até 1954"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "José Manuel Afonso Cerqueira dos Santos (1929-1987), segundo tenor"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "aí por 1951, eu venho para Coimbra, para a Universidade. Em minha casa surge uma tertúlia, a Tertúlia do Calhabé."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inscrito no Orfeon Académico (regência de Raposo Marques) a partir de 1949",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "A partir de 1949 inscreveu-se no curso de Histórico-Filosóficas da FL/UC e no Orfeon Académico da regência de Manuel Raposo Marques (1902-1966)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fama como um dos «reis da rádio» do Emissor Regional de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Pelo passado do cantor, pela sua fama como um dos “reis da rádio” do Emissor Regional de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Considerado fundador do movimento Nova Balada de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "é considerado com inteira pertinência o pai fundador do movimento Nova Balada de Coimbra (NBC)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "uma das figuras maiores da Nova Canção de Coimbra, fundador e protagonista do movimento literário-musical de resistência Nova Balada de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiros discos: dois 78 rpm Melodia (15.090 e 15.097), gravações de 1952-1953 com o grupo de Pinho Brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Disco Melodia 15.090 de 78rpm, solo vocal de José Afonso"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Disco Melodia 15.097 de 78 rpm, solo vocal de José Afonso"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver as fichas das gravações para as divergências sobre data, local e etiqueta."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiros discos: dois 78 rotações editados pela Alvorada em 1953, gravados no Emissor Regional de Coimbra",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "São editados os seus primeiros discos. Trata-se de dois “singles” de 78 rotações com fados de Coimbra, editados pela Alvorada. Os dois discos foram gravados no Emissor Regional de Coimbra da Emissora Nacional."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP editado em 1956, «Fados de Coimbra»",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Em 1956 é editado o seu primeiro EP, intitulado Fados de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP editado em 1960, «Coimbra» (gravado em 1956)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1960 é editado o seu primeiro EP, intitulado «Coimbra»."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Coimbra (Alvorada MEP 60280), gravado em 1956."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Grava em 1961 «Minha Mãe» e «Balada Aleixo», só com violas (José Niza e Durval Moreirinhas)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Grava as baladas \"Minha Mãe\" e \"Balada Aleixo\" no Anfiteatro da Faculdade de Letras da UC para a editora Monitor (MP-596)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Regressa ao fado de Coimbra com o LP «Fados de Coimbra e Outras Canções» (1981)",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Em 1981 – 28 anos depois de ter registado os seus primeiros fados de Coimbra – José Afonso reconcilia-se com a cançao coimbrã."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viagem a Angola e Moçambique com o Orfeão Académico (julho a setembro de 1949)",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Deslocação a Angola e Moçambique com o Orfeão Académico da Universidade de Coimbra: Julho a Setembro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Paris, Teatro «Champs Elysées», 4 de dezembro de 1957, com Fernando Rolim, António Portugal e David Leandro (guitarras), Sousa Rafael e Levy Baptista (violas)",
+      "data": "1957-12-04",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "A 4 de Dezembro de 1957, José Afonso actua em Paris, no Teatro «Champs Elysées» ao lado de Fernando Rolim, voz, António Portugal e David Leandro nas guitarras de Coimbra e Sousa Rafael e Levy Baptista nas violas."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Paris, Teatro «Champs Elysées», 4 de dezembro de 1957, com Fernando Rolim, António Portugal e David Leandro (guitarras) e Paulo Alão (viola)",
+      "data": "1957-12-04",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "A 4 de Dezembro de 1957 José Afonso actua em Paris, no Teatro \"Champs Elysées\" ao lado de Fernando Rolim (voz), António Portugal e David Leandro (guitarras) e Paulo Alão (viola)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão da Tuna Académica a Angola (1958), com David Leandro e José Niza (guitarras), Sousa Rafael e Levy Baptista (violas)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Viagem com a Tuna Académica da Universidade de Coimbra a Angola, integrado num grupo constituído por David Leandro e José Niza (guitarras), Sousa Rafael e Levy Baptista (violas)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Paris e Genebra (1960), serenata para a Eurovisão, com Fernando Rolim, António Portugal e David Leandro (guitarras) e Paulo Alão (viola)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Ainda em 1960 desloca-se a Paris e Genebra, a convite do SNI, integrado num grupo constituído por Fernando Rolim (voz), António Portugal e David Leandro (guitarras) e Paulo Alão (viola), onde naquela cidade helvética grava uma serenata para a Eurovisão."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Paris e Genebra (1960), com Fernando Rolim, António Portugal e David Leandro (guitarras), Sousa Rafael e Levy Baptista (violas)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Ainda em 1960 desloca-se a Paris e Genebra com Fernando Rolim, voz, António Portugal e David Leandro nas guitarras de Coimbra e Sousa Rafael e Levy Baptista nas violas."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão à Suécia, Suíça e Alemanha em 1962, com Adriano Correia de Oliveira, José Niza e Jorge Godinho (guitarras) e Durval Moreirinhas (viola)",
+      "data": "1962-03",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Em Março de 1962, nova digressão como o Orfeon Académico, agora à Suécia, integrado num grupo constituído por Adriano Correia de Oliveira (voz), José Niza e Jorge Godinho (guitarras) e Durval Moreirinhas (viola)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/arte-urbana-jose-afonso-mural-na-escola.html",
+          "doc": "gc-v:5446673225152573002",
+          "citacao": "Gravação efetuada no contexto da deslocação de José Afonso/Adriano Correia de Oliveira (vozes), Jorge Godinho/José Niza (ggC) e Durval Moreirinhas (v) à Suécia, Suiça e Alemanha (1962)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Deslocação à Suécia a 6 de março de 1963, com Jorge Godinho/José Niza (guitarras) e Adriano Correia de Oliveira/Durval Moreirinhas",
+      "data": "1963-03-06",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Em 6 de março de 1963 integra a formação que se desloca à Suécia, com Jorge Godinho/José Niza (gg) e Adriano Correia de Oliveira/Durval Moreirinhas (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sarau da Queima das Fitas no Teatro Avenida, Coimbra, maio de 1964, com Rui Pato",
+      "data": "1964-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/associacao-jose-afonso-nucleo-de-coimbra.html",
+          "doc": "gc-v:3514299978726299080",
+          "citacao": "«José Afonso e Rui Pato», sarau da Queima das Fitas, teatro Avenida, maio de 1964"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Primeira atuação em Coimbra depois de criar o repertório de baladas: Teatro Avenida, tarde de arte da Queima das Fitas de 1968",
+      "data": "1968",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/1%c2%aa-actuacao-de-jose-afonso-em-coimbra-no-teatro-avenida/",
+          "doc": "aja:wd1b6e358c4a3562d",
+          "citacao": "Foi em 1968, no Teatro Avenida, numa tarde de arte da Queima das Fitas. Nunca antes o Zeca tinha actuado em Coimbra depois de ter criado o seu repertório de Baladas em 1962."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Rui Pato publicado no sítio da AJA."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo no Jardim da Sereia, Coimbra, a 27 de maio, editado no maxi-single «Zeca em Coimbra»",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Contra a sua vontade, é publicado pelo Foto Sonoro um maxi-single, «Zeca em Coimbra», com um espectáculo dado por Zeca no Jardim da Sereia, na Lusa Atenas, a 27 de Maio."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "com um espectáculo dado por Zeca no Jardim da Sereia, na Lusa Atenas, a 27 de Maio."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo em Coimbra a 26 de maio de 1983; EP «Zeca em Coimbra» gravado ao vivo no Parque de Santa Cruz",
+      "data": "1983-05-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Últimos espectáculos: Coliseu de Lisboa (29 de Janeiro), Caldas da Rainha (5 de Fevereiro), Coliseu do Porto (25 de Maio), Coimbra (26 de Maio), Beja (1 de Junho)."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Zeca em Coimbra (Fotosonoro SPA 83), EP, gravado ao vivo no Parque de Santa Cruz, em Maio."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Medalha de Ouro da cidade de Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "A cidade de Coimbra atribui a José Afonso a Medalha de Ouro da cidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, Avenida Dias da Silva (anos 40), em casa da tia Avrilete",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/primeira-casa/",
+          "doc": "aja:w43e59ce09bf14ab3",
+          "citacao": "A casa onde viveu José Afonso na década de 40 do século passado – um segundo andar no prédio contíguo à pastelaria Zizânia, na Avenida Dias da Silva em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, Beco da Carqueja, em frente à Sé Velha (3.º andar), depois do casamento",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "no quarto dele no Beco da Carqueja, era um Beco que havia mesmo em frente da Sé Velha, e ele vivia ali no 3º andar."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/zeca-em-coimbra/",
+          "doc": "aja:w8350d3e19961d429",
+          "citacao": "Painel de azulejo colocado na casa onde viveu Zeca em Coimbra, junto à Sé Velha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento com Maria Amália de Oliveira, Conservatória do Registo Civil de Coimbra, 11 de novembro de 1950",
+      "data": "1950-11-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "11 de Novembro ... 1º Casamento ... Casamento com Maria Amália de Oliveira, na Conservatória de Registo Civil de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Nascimento do primeiro filho, José Manuel, em janeiro de 1953 (18 de janeiro, segundo a cronologia)",
+      "data": "1953-01",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em Janeiro de 1953 nasce-lhe o primeiro filho, José Manuel."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Nascimento dos dois filhos: José Manuel, em 18 de Janeiro e Maria Helena, em 29 de Dezembro."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Nascimento do primeiro filho a 17 de janeiro de 1952 (testemunho de Carlos Couceiro, padrinho)",
+      "data": "1952-01-17",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "vim a ser seu compadre, padrinho do seu primeiro filho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "E eu disse 17 de Janeiro de 1952."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Serviço militar obrigatório em Mafra, de 1953 a 1955",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "De 1953 a 1955 cumpre, em Mafra, serviço militar obrigatório."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "De 1953 a 1955 cumpre, em Mafra, serviço militar obrigatório."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Serviço militar entre 1954 e 1956",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Cumpriu serviço militar entre 1954-1956."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Incorporação em Mafra no verão de 1953; aspirante miliciano em Coimbra (Infantaria 12) no princípio de 1954; baixa por doença a 14 de janeiro de 1956",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Verão de 1953: incorporação na Escola Prática de Infantaria, em Mafra."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1954 ... Oficial miliciano ... Colocação, no princípio do ano, no Quartel de Infantaria 12, em Coimbra, como aspirante a oficial miliciano."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1956 ... Périplo por África ... Baixa da tropa por doença: 14 de Janeiro."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições do período 1958-1961: Balada do Outono (1958), Menino d'Oiro (1959), Minha Mãe (1959), Senhor Poeta (1960), Balada Aleixo (1961)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "É neste período que José Afonso compõe Balada do Outono (1958), Menino d’Oiro (1959), Minhã Mãe (1959), Senhor Poeta (1960) ... e Balada Aleixo (1961)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Para José Afonso, Edmundo Bettencourt foi «o maior cantor de fados de todos os tempos»",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "“O Edmundo Bettencourt foi o maior cantor de fados de todos os tempos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista a António Macedo, «Sete», 1979, citada no texto de José Niza."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-nepomuceno-afonso-dos-santos",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "filho de José Nepomuceno Afonso dos Santos, magistrado, e de Maria das Dores Dantas Cerqueira"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "O pai, José Nepomuceno Afonso, é subdelegado do Procurador da República."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-das-dores-dantas-cerqueira",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "filho de José Nepomuceno Afonso dos Santos, magistrado, e de Maria das Dores Dantas Cerqueira, professora primária"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "de que a mãe, Maria das Dores Dantas Cerqueira, professora primária, é directora"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "avrilete-tia-de-jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "instala-se em casa da tia Avrilete, tia paterna que vivia à Av. Dias da Silva, actual nº112"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "filomeno-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "desta vez para casa do tio Filomeno Afonso, notário e presidente da Câmara Municipal de Belmonte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "gege-tia-de-jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "confiado à tia Gegé e ao tio Xico"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "para a da tia Jejé (tia materna), moradora no Largo das Cinco Bicas"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "xico-tio-de-jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "confiado à tia Gegé e ao tio Xico, um «republicano anticlerical e anti-sidonista»"
+        }
+      ],
+      "nota": "A fonte não diz de que lado da família é o tio Xico."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "é convidado por António Brojo para o seu grupo de fados"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Era constituído por António Portugal (gC1), Luíz Goes (barítono), Fernando Rolim (1.º tenor), José Afonso (2.º tenor), que transitaram do grupo liderado na primeira metade da década por António Brojo"
+        }
+      ],
+      "nota": "segundo tenor"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte vocal estava a cargo de Fernando Machado Soares (FD/UC, tenor), Fernando Rolim (FM/UC, tenor), José Afonso (FL/UC, 2.º tenor), António Sutil Roque (FM/UC, tenor) e Luiz Goes (FM/UC, barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "nota": "2.º tenor"
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "é, de todos os cantores de Coimbra, o melhor para José Afonso: “O Edmundo Bettencourt foi o maior cantor de fados de todos os tempos. Ele marcou uma época"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Mas segundo Rui Pato, a única referência que aceita do período anterior é o legado de Edmundo Bettencourt, e mais concretamente o seu trabalho sobre canções tradicionais portuguesas"
+        }
+      ],
+      "nota": "As fontes falam de «referência»/admiração (o sítio da AJA tem um post intitulado «Edmundo de Bettencourt, uma das referências musicais de José Afonso»). Relação a confirmar pelo editor."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "A música da obra designada na gravação como Fado das Águias fora aprendida por José Afonso com Augusto Camacho Vieira"
+        }
+      ],
+      "nota": "A fonte refere a aprendizagem de uma peça concreta (Fado das Águias), não um ensino continuado. A confirmar pelo editor."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Afonso%20Foto%20de%201950.jpg",
+      "legenda": "José Afonso em 1950. Foto retirada do livro «José Afonso - Um Olhar Fraterno», de João Afonso dos Santos, seu irmão.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso-em-1950.html",
+          "doc": "gc-i:113217171019888618",
+          "citacao": "José Afonso em 1950. Foto retirada do livro \"José Afonso - Um Olhar Fraterno\", de João Afonso dos Santos, seu irmão."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAblRSLoVovjuVTWOHinTD7Dwvhxul1oQCpEsbXg81UX6rbL3GXmA8ha0pLjx6lOvkQoqY87gJwrHBJMwCIhdtIsi65NlF-fwYfed7O54PFmsw4Cg7cUXmLvpu8b7TNyxSL0P0CQzov8w/s1600/Arquivo+Municipal+de+Lisboa+-+Ref+PT-AMLSB-FER-005194+-+Folha+1+%25282%2529.jpg",
+      "legenda": "Fotografia promocional do Coimbra Quintet junto à entrada da Torre d'Anto, Coimbra [ca. 1955-1956]. A contar do portão: Levy Baptista (v), António Portugal (gC1), Jorge Godinho (gC2), Machado Soares (a cantar) e José Afonso, atrás de Machado Soares, sem óculos (Arquivo Municipal de Lisboa, PT/AMLSB/FER/005194).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "São reconhecíveis a contar do portão: -Levy Baptista (v); -António Portugal (gC1); -Jorge Godinho (gC2); -Machado Soares (a cantar); -José Afonso, atrás de Machado Soares, sem óculos."
+        }
+      ]
+    },
+    {
+      "url": "https://aja.pt/wp-content/uploads/2022/11/Bio-Anos-60-1.jpg",
+      "legenda": "José Afonso na ponte de Santa Clara, em Coimbra. Anos 60.",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "José Afonso na ponte de Santa Clara, em Coimbra. Anos 60."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndoXD8SEbT-T8tbgtHHevRN4NcL4ZXh7mc2dWIBncmvqYNID9y9dG433Nxurm9ykDAPc5gseLJSTur4yA8okzO3eLNth1cZa-IEveyfhINmP5Ka3mJoCG69lKilRNh-5ksTCcdul4WTwT/s1600/zeca.png",
+      "legenda": "Retrato do José Afonso, falecido em Setúbal a 23 de fevereiro de 1987.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
+          "doc": "gc-v:773204234854538772",
+          "citacao": "Retrato do José Afonso, falecido em Setúbal a 23 de fevereiro de 1987"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXIK63pA_9EFi7jtTTQ1FaitgJUAAXOlYuxaogxswPMn9licjhKT_DFep3XKWdSnw5We94DcNRfOuru3wULjaU9XWweH2R0b7w4plw25r5eg4vz_oEGfmxcE4QjZYUs9-pVn_g9RpdZALD/s1600/Florencio+Carvalho.jpg",
+      "legenda": "De pé, a contar da esquerda: Fernando Rolim, José Afonso, Florêncio de Carvalho, Augusto Camacho e Machado Soares. Sentados: Aurélio Reis, António Brojo, António Portugal e Mário de Castro. Sé Velha, 1952.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/inmemoriam-nestedia-14-de-janeiro-de.html",
+          "doc": "gc-v:8825624077256160808",
+          "citacao": "De pé e a contar da esquerda: Fernando Rolim, José Afonso, FLORÊNCIO DE CARVALHO, Augusto Camacho e Machado Soares. Sentados: Aurélio Reis, António Brojo, António Portugal e Mário de Castro. Sé Velha, 1952"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk4-BI-H4ALKlc5NZwNm-_0QhuVKxztpCRlEww_sqyb9-fDSsFOjy0tDY3OgvmjVgxoEinBCdC-mk3FpUrS5P5DEoACKfbMSFiAcOxn3LsN5dS6OMx7eTlsjahuBt5C9wZ6MfN/s1600/Jose+Afonso+com+Rui+Pato.jpg",
+      "legenda": "José Afonso com Rui Pato, «o seu primeiro acompanhador, depois de se ter emancipado do Fado e da Canção de Coimbra».",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/faz-hoje-78-anos-que-nasceu-jos-afonso.html",
+          "doc": "gc-i:7980200749232511255",
+          "citacao": "Vêmo-lo aqui com Rui Pato, o seu primeiro acompanhador, depois de se ter emancipado do Fado e da Canção de Coimbra."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Afonso,%20Sergio%20e%20Octavio%20no%20Coliseu.0.jpg",
+      "legenda": "José Afonso no Coliseu, acompanhado por Octávio Sérgio e o filho António Sérgio (Sérgio Azevedo).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
+          "doc": "gc-i:115447311328918440",
+          "citacao": "aqui numa foto no Coliseu, acompanhado por Octávio Sérgio e o filho António Sérgio (hoje, o compositor Sérgio Azevedo)"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Associação José Afonso — biografia",
+      "url": "https://aja.pt/biografia/"
+    },
+    {
+      "rotulo": "Associação José Afonso — cronologia",
+      "url": "https://aja.pt/cronologia/"
+    },
+    {
+      "rotulo": "Associação José Afonso — José Afonso e a canção de Coimbra (texto de José Niza)",
+      "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/"
+    },
+    {
+      "rotulo": "Discogs — José Afonso",
+      "url": "https://www.discogs.com/artist/545378"
+    },
+    {
+      "rotulo": "RTP Arquivos — Zeca Afonso",
+      "url": "https://arquivos.rtp.pt/person/zeca-afonso/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

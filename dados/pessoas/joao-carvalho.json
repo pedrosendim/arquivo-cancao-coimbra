@@ -1,0 +1,43 @@
+{
+  "id": "joao-carvalho",
+  "tipo": "pessoa",
+  "nome": "João Carvalho",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "integrou o Grupo Oficial da Secção de Fado da AAC em 1985",
+      "data": "1985",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html",
+          "doc": "gc-i:113725919817867181",
+          "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não indica o instrumento."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html",
+          "doc": "gc-i:113725919817867181",
+          "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."
+        }
+      ],
+      "nota": "Grupo Oficial da Secção (1985)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

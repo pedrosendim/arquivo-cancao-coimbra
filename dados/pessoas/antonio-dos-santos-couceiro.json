@@ -1,0 +1,272 @@
+{
+  "id": "antonio-dos-santos-couceiro",
+  "tipo": "pessoa",
+  "nome": "António dos Santos Couceiro",
+  "nomes_alternativos": [
+    "António dos Santos",
+    "António dos Sanctos",
+    "António Augusto dos Santos"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "ANTÓNIO DOS SANTOS [COUCEIRO] era filho de Manuel dos Santos, do lugar do Roxo, e de Maria Rita, do Botão. Nasceu em 31.12.1818 nas periferias de Coimbra, junto a Souselas, tendo sido batizado no dia 10.01.1819."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "António dos Santos não tinha Couceiro no nome original, tendo ido busca-lo à família de sua esposa que residia na Ponte da Mucela. Casou catolicamente com Eugénia Rita, do lugar da Mucela, a 2.01.1841."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "António terá aberto a oficina de violaria por volta de 1844-1845, admitimos que um pouco antes, em espaço contíguo à sua casa. Posteriormente transferiu a oficina para a entrada da Rua Direita, uma excelente localização na proximidade da praça 8 de maio e do mosteiro de Santa Cruz."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Entre cerca 1844-1845 e 1885 foi dirigida pelo mestre Couceiro, que nela deu formação aos seus filhos João e Joaquim."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Couceiro formou e empregou novos oficiais, Ladislau Magalhães e Joaquim Bica. Tendo estes saído da oficina, Couceiro ministrou formação especializada a seu genro Augusto Nunes dos Santos (1858-1915)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Terá falecido entre 1885-1890."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António dos Santos [Couceiro] (o apelido Couceiro veio da família da esposa)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "António dos Santos não tinha Couceiro no nome original, tendo ido busca-lo à família de sua esposa que residia na Ponte da Mucela."
+        }
+      ],
+      "conflito": true,
+      "nota": "Dois posts chamam ao dono da oficina da Rua Direita «António Augusto dos Santos»."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "António Augusto dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/joo-dos-santos-couceiro.html",
+          "doc": "gc-i:114771467737655572",
+          "citacao": "a oficina do pai de Couceiro, António Augusto dos Santos, à rua Direita, nºs 16-18, em Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/a-oficina-do-mestre-de-violaria-augusto.html",
+          "doc": "gc-v:3587412463887172055",
+          "citacao": "Herdada da mão de António Augusto dos Santos"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2016 (registos paroquiais) dá «António dos Santos [Couceiro]»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Junto a Souselas (periferias de Coimbra), 31 de dezembro de 1818; batizado a 10 de janeiro de 1819",
+      "data": "1818-12-31",
+      "local": "Souselas (Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Nasceu em 31.12.1818 nas periferias de Coimbra, junto a Souselas, tendo sido batizado no dia 10.01.1819."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Entre 1885 e 1890",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Terá falecido entre 1885-1890."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina de violaria aberta c. 1844-1845 junto a Montarroio, depois transferida para a entrada da Rua Direita, Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "António terá aberto a oficina de violaria por volta de 1844-1845"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "tendo aberto portas em Montarroio na década de 1840, pela mão de António dos Sanctos, sogro de Augusto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Listado como violeiro com oficina na Rua Direita em 1856",
+      "data": "1856",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "ANTÓNIO SANTOS, violeiro, oficina da Rua Direita"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, n.º 250, 17.06.1856, citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Participou na exposição industrial de Coimbra de 1884",
+      "data": "1884",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "pois em 1884 ainda participou na exposição industrial de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "A casa Couceiro/Nunes dos Santos construiu, reparou e reformou toda a sorte de cordofones, incluindo violas de arame, violas francesas e guitarras (cítaras) de 12/15/18 cordas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "a casa Couceiro/Nunes dos Santos construiu, reparou e reformou ao longo da sua atividade não apenas violas de arame e cavaquinhos mas toda a sorte de cordofones portugueses e estrangeiros encomendados pelos clientes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Formou os filhos João e Joaquim, os oficiais Ladislau Magalhães e Joaquim Bica e o genro Augusto Nunes dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Couceiro formou e empregou novos oficiais, Ladislau Magalhães e Joaquim Bica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segundo Pedro Caldeira Cabral, o cavalete das violas toeiras de António dos Santos tem o desenho uniforme do grupo de violeiros de Coimbra, com um «segredo» hoje esquecido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A construção do cavalete da Viola Toeira, com um desenho bastante uniforme em instrumentos de violeiros diferentes como António dos Santos, Augusto Nunes dos Santos, Bento Martins Lobo, António de Sousa ou Armando Neves, contém um segredo só conhecido e praticado por este grupo de violeiros"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade). O texto escreve «António dos Santos», sem o apelido Couceiro."
+    },
+    {
+      "campo": "outro",
+      "valor": "Os dados de Armando Simões (1974) sobre a oficina, com erros, foram integrados por Pedro Caldeira Cabral em «A Guitarra Portuguesa» (1999) sem confronto com as fontes primárias",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os elementos divulgados por AS seriam integrados por Pedro Caldeira Cabral na obra A Guitarra Portuguesa (1999) sem confronto com as fontes primárias."
+        }
+      ],
+      "conflito": false,
+      "nota": "Crítica do blogue GC-V ao livro de 1999 (AS = Armando Simões)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-dos-santos-do-roxo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ANTÓNIO DOS SANTOS [COUCEIRO] era filho de Manuel dos Santos, do lugar do Roxo, e de Maria Rita, do Botão."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-rita-do-botao",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ANTÓNIO DOS SANTOS [COUCEIRO] era filho de Manuel dos Santos, do lugar do Roxo, e de Maria Rita, do Botão."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

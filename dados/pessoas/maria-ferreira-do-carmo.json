@@ -1,0 +1,62 @@
+{
+  "id": "maria-ferreira-do-carmo",
+  "tipo": "pessoa",
+  "nome": "Maria Ferreira do Carmo",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Colmeias (Leiria), 1865",
+      "data": "1865",
+      "local": "Colmeias",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Eira Velha, Colmeias, Leiria",
+      "data": "",
+      "local": "Eira Velha, Colmeias",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Gândara dos Olivais, 1940",
+      "data": "1940",
+      "local": "Gândara dos Olivais",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

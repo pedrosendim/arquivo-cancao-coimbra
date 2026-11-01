@@ -1,0 +1,130 @@
+{
+  "id": "armando-goes",
+  "tipo": "pessoa",
+  "nome": "Armando Goes",
+  "nomes_alternativos": [
+    "Armando do Carmo Goes"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Armando do Carmo Goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Albano de Noronha, que prepara repertório com o barítono Armando do Carmo Goes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Barítono; cantor da 'geração de oiro', contemporâneo de Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Artur Paredes foi contemporâneo de cantores e autores como Edmundo de Bettencourt, António Menano, Paradela de Oliveira, Lucas Junot e Armando Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1906",
+      "data": "1906",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Armando Goes (1906-1967)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1967",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Armando Goes (1906-1967)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Pioneiro na gravação de sonetos (três), acompanhado à viola, segundo Jorge Cravo",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "coube a Armando Goes (AG), acompanhado à viola, o pioneirismo na gravação de Sonetos (três), numa declarada intenção de inovar o discurso estético-musical da CdeC"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), que o inclui na «Primeira Geração de Oiro da Canção de Coimbra»."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-diniz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-ferreira-do-carmo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkL8UV-MEmjj4kWo8O-X91YEMNsH_2r1ru9lMf3ILYC6TnvRNQofSuQCjwv-tk2kOU237UStTChIx_m14Xwp5I4CVP1_lo8GiqQ3nFZJgesR8hKw97tc5ywZw2JXNnVu2pjid8qBeUH6c/s1600/armando+goes+foto.jpg",
+      "legenda": "Armando Goes, estudante da FM/UC, fotografia de ca. 1928, publicada na revista O Notícias Ilustrado, n.º 44, de 14.04.1929.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "Armando Goes, estudante da FM/UC, fotografia de ca. 1928, publicada na revista O Notícias Ilustrado, n.º 44, de 14.04.1929."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

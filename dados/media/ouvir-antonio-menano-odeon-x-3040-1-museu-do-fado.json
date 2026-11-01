@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3040-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2798_17.mp3",
+  "titulo": "Canção da Beira — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3040",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5666.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5463/antonio_menano_cancao_da_beira",
+      "doc": "museu-do-fado:wb424c505af6737f6",
+      "citacao": "Título: Canção da Beira ... Editora: Odeon Referências: X3040A, OG690 "
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

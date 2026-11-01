@@ -1,0 +1,72 @@
+{
+  "id": "filipe-almeida",
+  "tipo": "pessoa",
+  "nome": "Filipe Almeida",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "estreia",
+      "valor": "estreia na Sé Velha como guitarra, pelo Grupo de Fados e Guitarras de Coimbra, na Serenata Monumental da Queima das Fitas de 13 de maio de 1982",
+      "data": "1982-05-13",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Em Coimbra, ocorreram as Serenatas Monumentais da Recepção ao Caloiro e da Queima das Fitas, a 8 de Janeiro e a 13 de Maio, respectivamente. Nesta última, estrearam-se, pelo nosso grupo, o Filipe Almeida (guitarra) e o Fernando Castro (voz)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Muitos outros fizeram parte da direcção nos dois primeiros anos: Artur Ribeiro, Carlos Delfim, Mário Toste, José Carlos Amaral, Carlos Andrade, Luís Serra e Silva, Paulo Serra e Silva, Carlos Caiado, Filipe Almeida"
+        }
+      ],
+      "nota": "Membro das direções dos dois primeiros anos (1981-1983)."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)"
+        }
+      ],
+      "nota": "Estreia do Grupo de Cordas, Sarau da Queima de 1982."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "estrearam-se, pelo nosso grupo, o Filipe Almeida (guitarra)"
+        }
+      ],
+      "nota": "Guitarra; estreia na Serenata Monumental de 13-5-1982."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "nuno-botelho",
+  "tipo": "pessoa",
+  "nome": "Nuno Botelho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Penedo da Saudade, Coimbra, 2 de julho de 2024: «Variações em lá menor» de Artur Paredes (viola, com Bruno Costa)",
+      "data": "2024-07-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7440",
+          "doc": "mpagdp:w97269d08f9e30628",
+          "citacao": "Nuno Botelho (viola) e Bruno Costa (guitarra portuguesa) - \"Variações em lá menor\" de Artur Paredes ... Gravado no Penedo da Saudade, Coimbra, no dia 2 de julho de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "Viola - Nuno Botelho\n\nGuitarra - João Pedro Monteiro\n\nVoz - Nuno Farinha\n\nVoz - José Daniel Vieira"
+        }
+      ],
+      "nota": "viola; Café Santa Cruz, abril de 2007"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quinteto-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "bruno-costa",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "atua acompanhado por Nuno Miguel Botelho (guitarra clássica) em espetáculos onde a Guitarra Portuguesa é apresentada"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Guitarra portuguesa Bruno A. Costa Guitarra Nuno M. Botelho"
+        }
+      ],
+      "nota": "Guitarra clássica (viola); inclui o projeto «De Chopin até à Lapa» (2022). A nota biográfica de Bruno Costa chama-lhe «Nuno Miguel Botelho»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

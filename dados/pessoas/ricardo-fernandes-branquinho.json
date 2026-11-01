@@ -1,0 +1,35 @@
+{
+  "id": "ricardo-fernandes-branquinho",
+  "tipo": "pessoa",
+  "nome": "Ricardo Fernandes Branquinho",
+  "nomes_alternativos": [
+    "Ricardo Branquinho"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/filecdocuments20and20settingsocte1vioam.html",
+          "doc": "gc-iii:3397076010319791738",
+          "citacao": "Ricardo Fernandes Branquinho, Filho do famoso cultor do Canto de Coimbra, já falecido, Manuel Branquinho."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "São devidos ao filho de Manuel Branquinho, Ricardo Branquinho"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

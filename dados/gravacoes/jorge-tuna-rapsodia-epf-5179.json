@@ -1,0 +1,175 @@
+{
+  "id": "jorge-tuna-rapsodia-epf-5179",
+  "titulo": "Coimbra à Noite",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.179",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "jorge-tuna",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Rapsódia de Fados",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Lá Maior",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Rapsódia de Canções",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Si Menor",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/dSedLza1YzerHNyqKAB1VowkZqobA3YK_u_GZeH1DmU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA3/OTA3LTE2MzQzNzM4/NjgtNzk4Ny5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/20607907",
+        "doc": "discogs:wcb7763147835fe47",
+        "citacao": "Imagem (secondary): https://i.discogs.com/dSedLza1YzerHNyqKAB1VowkZqobA3YK_u_GZeH1DmU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA3/OTA3LTE2MzQzNzM4/NjgtNzk4Ny5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/20607907",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20607907",
+          "doc": "discogs:wcb7763147835fe47",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20607907",
+          "doc": "discogs:wcb7763147835fe47",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1962 (Discogs)",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20607907",
+          "doc": "discogs:wcb7763147835fe47",
+          "citacao": "Data: 1962"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1960."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1960 (blogue)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/relao-das-gravaes-em-que-participou_31.html",
+          "doc": "gc-ii:9169223168896193681",
+          "citacao": "Rapsódia, EP – EPF 5.179, 1960"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1962."
+    },
+    {
+      "campo": "outro",
+      "valor": "Uma das variações: «Variações em Lá maior» (Discogs) / «Variações em Lá menor» (blogue)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20607907",
+          "doc": "discogs:wcb7763147835fe47",
+          "citacao": "A2 Variações Em Lá Maior  [Jorge Tuna]"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/relao-das-gravaes-em-que-participou_31.html",
+          "doc": "gc-ii:9169223168896193681",
+          "citacao": "Variações em Lá menor (Jorge Tuna)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência na tonalidade indicada para a mesma faixa."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20607907",
+          "doc": "discogs:wcb7763147835fe47",
+          "citacao": "Classical Guitar [Viola de Fado] – Durval Moreirinhas Photography By – Varela Pécurto Portuguese Guitar – Jorge Godinho Portuguese Guitar – Jorge Tuna"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/20607907",
+      "doc": "discogs:wcb7763147835fe47",
+      "citacao": "Editora: Rapsódia – EPF 5.179"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/relao-das-gravaes-em-que-participou_31.html",
+      "doc": "gc-ii:9169223168896193681",
+      "citacao": "COIMBRA À NOITE Rapsódia, EP – EPF 5.179, 1960 Rapsódia de Canções (Arr. De Artur Paredes) Variações em Si menor (Jorge Tuna) Rapsódia de Fados (Arr. De Jorge Tuna) Variações em Lá menor (Jorge Tuna) Intérpretes: Dr. Jorge Tuna e Jorge Godinho (guitarra) Durval Moreirinhas (viola)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

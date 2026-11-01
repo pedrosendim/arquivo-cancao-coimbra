@@ -1,0 +1,52 @@
+{
+  "id": "joao-farinha-ao-vivo-2022",
+  "titulo": "Ao Vivo",
+  "formato": "",
+  "editora": "",
+  "referencia": "",
+  "ano": "2022",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "joao-farinha-1976",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/3t3li9xfdLsnIfbSE4bQ3Z",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "gravado ao vivo em Coimbra",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "Gravado ao vivo em Coimbra, este álbum reúne clássicos e novas interpretações"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/albums",
+      "doc": "joao-farinha-site:w721ab9f9105a5aae",
+      "citacao": "AO VIVO 2022"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

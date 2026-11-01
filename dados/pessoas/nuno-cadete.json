@@ -1,0 +1,43 @@
+{
+  "id": "nuno-cadete",
+  "tipo": "pessoa",
+  "nome": "Nuno Cadete",
+  "nomes_alternativos": [
+    "Nuno Miguel Cadete"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Alma Mater\n\nGrupo constituído por Carlos Pedro (voz), Pedro Anastácio/Nuno Miguel Cadete (ggC), António Paulo Lopes (v)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Alma Mater\n\n6 - Balada da Torre D'Anto (Luiz Goes): Carlos Pedro\n\n7 - Canto do Amanhecer (Carlos Paredes): Nuno Cadete\n\n8 - Amar Incerto (Virgilio Caseiro): Nuno Silva"
+        }
+      ],
+      "nota": "guitarra; 1994, 1995, anos 90 e 2013"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

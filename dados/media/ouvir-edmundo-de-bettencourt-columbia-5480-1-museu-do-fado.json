@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-5480-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0153_24.mp3",
+  "titulo": "Fado dos Olhos claros — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-5480",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0305.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/301/edmundo_bettencourt_fado_dos_olhos_claros",
+      "doc": "museu-do-fado:w68d8ffd07a4bd5eb",
+      "citacao": "Título: Fado dos Olhos claros ... Editora: Co. 5480 Referências: P470-I, W; 5480-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

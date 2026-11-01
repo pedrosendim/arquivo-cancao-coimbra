@@ -1,0 +1,125 @@
+{
+  "id": "antonio-brojo-antonio-portugal-orfeu-atep-6185",
+  "titulo": "Guitarradas de Coimbra",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6185",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em Lá Menor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-brojo-antonio-portugal-orfeu-atep-6185-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Valsa em Sol",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-brojo-antonio-portugal-orfeu-atep-6185-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Bailados do Minho",
+      "obra": "bailados-do-minho",
+      "media": [
+        "ouvir-antonio-brojo-antonio-portugal-orfeu-atep-6185-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Marcha em Fá",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/vPFCWCoXweDkqRsxfQKBioj-OxP3YfdgfA0uT_7nRgA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDQw/MTMtMTU0MDU5MjMw/NS01MTE5LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6044013",
+        "doc": "discogs:w17492b7b5ec92f8f",
+        "citacao": "Imagem (primary): https://i.discogs.com/vPFCWCoXweDkqRsxfQKBioj-OxP3YfdgfA0uT_7nRgA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDQw/MTMtMTU0MDU5MjMw/NS01MTE5LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6044013",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP, Stereo",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6044013",
+          "doc": "discogs:w17492b7b5ec92f8f",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP, Stereo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6044013",
+          "doc": "discogs:w17492b7b5ec92f8f",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Artistas no Discogs: Dr. António Brojo, Dr. António Portugal, Rui Pato",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6044013",
+          "doc": "discogs:w17492b7b5ec92f8f",
+          "citacao": "Artistas: António Brojo (Dr. António Brojo), António Portugal (Dr. António Portugal), Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": "Edição sem data no Discogs; não se encontrou referência a este número de catálogo nos blogues."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6044013",
+      "doc": "discogs:w17492b7b5ec92f8f",
+      "citacao": "Editora: Orfeu – ATEP 6185"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

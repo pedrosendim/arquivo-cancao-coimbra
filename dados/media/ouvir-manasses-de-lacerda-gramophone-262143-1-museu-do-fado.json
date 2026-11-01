@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-gramophone-262143-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0889_17.mp3",
+  "titulo": "Fado Lisboa — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-262143",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1769.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1759/manasses_de_lacerda_fado_lisboa",
+      "doc": "museu-do-fado:wc4082b28ea5513d5",
+      "citacao": "Título: Fado Lisboa ... Editora: Gra.262143  Referências: Disque Pour Gramophone 17683u, 262143_; 262143"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "german-vazquez",
+  "tipo": "pessoa",
+  "nome": "German Vazquez",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "German Vazquez (a world class maker born in Paracho, Mexico) constructed this instrument after he had examined several instruments in this collection."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Paracho, México",
+      "data": "",
+      "local": "Paracho, México",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "German Vazquez (a world class maker born in Paracho, Mexico)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Coimbra construída na Califórnia (uma de três), com trastos, cavalete e acabamento a goma-laca de Ronald Fernandez",
+      "data": "",
+      "local": "Califórnia",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This instrument was one of 3 constructed by German Vazquez, in California; the fretting, bridge and French polishing were done by (your truly) Ronald Fernandez."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do instrumento: guitarra-german-vazquez-ronald-fernandez."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Reparou uma fenda no fundo de uma guitarra Santos Beirão da coleção Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "It had a crack in the back--which was repaired by German Vazquez and is now just about invisible."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Portuguese Guitar Collection",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

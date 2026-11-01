@@ -1,0 +1,29 @@
+{
+  "id": "virginia-alves-neves",
+  "tipo": "pessoa",
+  "nome": "Virgínia Alves Neves",
+  "nomes_alternativos": [
+    "D. Virgínia Alves Neves"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "mario-de-castro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Mário de Castro, contrai matrimónio com a Sra. D. Virgínia Alves Neves."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

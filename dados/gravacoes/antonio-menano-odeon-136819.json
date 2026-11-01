@@ -1,0 +1,102 @@
+{
+  "id": "antonio-menano-odeon-136819",
+  "titulo": "Um fado / Fado da Mágua",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "136.819",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Um fado",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136819-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Mágua",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136819-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Um fado», por António Menano — etiqueta: «Um Fado / (Varela Cid) / António Menano / Com Acompanhamento / De Guitarra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1180/antonio_menano_um_fado",
+          "doc": "museu-do-fado:wfe4aa9bf7351bb90",
+          "citacao": "Título: Um fado ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG673, R, S, 1; G-1086-x ... Etiqueta: Um Fado / (Varela Cid) / António Menano / Com Acompanhamento / De Guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": "a linha «Referências» deste registo indica «G-1086-x», número diferente do da linha «Editora»"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Mágua», por António Menano — etiqueta: «Fado da Magua / (Dr. Paulo de Sá) / António Menano / Com Acompanhamento / de Guitarra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1181/antonio_menano_fado_da_magua",
+          "doc": "museu-do-fado:w446ed4c889d95dda",
+          "citacao": "Título: Fado da Mágua ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG691, R, S, 3; G-1086-x ... Etiqueta: Fado da Magua / (Dr. Paulo de Sá) / António Menano / Com Acompanhamento / de Guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": "a linha «Referências» deste registo indica «G-1086-x», número diferente do da linha «Editora»"
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o inventário das etiquetas, as letras «a» e «b» das faces aparecem trocadas neste disco",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "o facto é que “a” e “b” aparecem trocadas nos discos correspondentes a “Canção da Beira”/“Fado Saudades”e “Um Fado”/”Fado da Mágoa”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1180/antonio_menano_um_fado",
+      "doc": "museu-do-fado:wfe4aa9bf7351bb90",
+      "citacao": "Título: Um fado ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG673, R, S, 1; G-1086-x"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1181/antonio_menano_fado_da_magua",
+      "doc": "museu-do-fado:w446ed4c889d95dda",
+      "citacao": "Título: Fado da Mágua ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG691, R, S, 3; G-1086-x"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

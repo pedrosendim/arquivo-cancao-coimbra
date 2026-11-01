@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187808-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0612_25.mp3",
+  "titulo": "Fado Franklin — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187808",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1217.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1208/antonio_menano_fado_franklin",
+      "doc": "museu-do-fado:w8d026c8281100a69",
+      "citacao": "Título: Fado Franklin ... Editora: Od. LA187.808, X3178,EMI2605983,EMICD8346182,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

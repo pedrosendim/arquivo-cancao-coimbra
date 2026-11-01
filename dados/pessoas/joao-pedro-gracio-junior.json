@@ -1,0 +1,554 @@
+{
+  "id": "joao-pedro-gracio-junior",
+  "tipo": "pessoa",
+  "nome": "João Pedro Grácio Júnior",
+  "nomes_alternativos": [
+    "João Pedro Grácio Jr.",
+    "João Pedro Grácio J.",
+    "João Pedro Grácio Junior"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "jose-lucio",
+      "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+      "doc": "jose-lucio:wbd3b421be9bc7477",
+      "citacao": "Grácio Júnior, enquanto andava na escola e nas horas livres, construía pequenos instrumentos que vendia aos seus colegas. Tornou-se um grande adepto da arte e acabou por convencer o pai a regressar a Lisboa, montando uma oficina de construção de instrumentos no Largo de São Martinho, em frente ao Limoeiro"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-jnior-pai-de-gilberto.html",
+      "doc": "gc-i:111616589775443176",
+      "citacao": "João Pedro Grácio Júnior, pai de Gilberto Grácio, segue os caminhos do pai na construção de cordofones. Artur Paredes, João Pedro Grácio Júnior e seu irmão Kim Grácio, conferem à guitarra de Coimbra um estatuto de instrumento nobre."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Por volta de 1937-1938, Artur Paredes intensifica a colaboração e a busca de resultados junto do irmão de Joaquim, João Pedro Grácio Júnior. São mantidos os elementos decorativos industriais que Raul Simões detestava. A caixa de ressonância não para de aumentar, perseguindo o instrumentista e o construtor uma ideia errada do ponto de vista da física do som. A escala é prolongada sobre a caixa, passando de 17 para 22 pontos. A voluta é reforçada, ganhando finalmente a imagem de marca de cabeça de cobra capelo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/07/um-cartao-precioso.html",
+      "doc": "gc-v:1024567937297290906",
+      "citacao": "Neste sarau, tanto AP como AS exibiram guitarras de concerto construídas por João Pedro Grácio Júnior, de madeiras negras, com caixa vincadamente alta, escalas mais largas e abauladas do que o habitual"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+      "doc": "gc-i:1259402797223755712",
+      "citacao": "A partir da década de 1950, mercê dos intensos debates/experiências havidos entre Artur Paredes, João Bagão e o construtor João Pedro Grácio Júnior, a nova guitarra pendeu para um modelo de caixa ainda mais alargada, de configuração hiper-robusta que, potenciando excelente sonoridade/rendimento, perdeu em graciosidade e elegância."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "Foi só no início dos anos 1960, quando Silveira rondava os 80 anos de idade, que a sua enorme popularidade passou para João Pedro Grácio Jr. e permaneceu na família através do filho Gilberto Grácio (Cristo 2014: 44)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+      "doc": "gc-v:4359239364460704320",
+      "citacao": "O guitarreiro Gilberto Grácio conta que foi procurado por Fontes Rocha, já depois do falecimento de seu pai, João Pedro Grácio Júnior (1967)"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1903",
+      "data": "1903",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio Junior (Lisboa, Cacém, 1903-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "de João Pedro Grácio Júnior (1903-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "João Pedro Grácio Jr. (1903-1967)"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post gc-iii escreve «(Lisboa, Cacém, 1903-1967)» sem indicar qual dos lugares corresponde ao nascimento e à morte."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Lisboa; o mais velho dos irmãos e o único nascido em Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "É o mais velho dos irmãos, o único que nasceu em Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Página «Violeiros e Guitarreiros Portugueses» do site de José Lúcio, cópia do Arquivo.pt de 31.01.2023."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbrão, perto de Leiria, para onde a família foi viver quando ele tinha 3 anos",
+      "data": "",
+      "local": "Coimbrão (Leiria)",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "uma vez que a família Grácio, quando o João tinha apenas 3 anos, foi viver para Coimbrão, pequena aldeia perto de Leiria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Convenceu o pai a regressar a Lisboa, montando uma oficina no Largo de São Martinho, em frente ao Limoeiro",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "acabou por convencer o pai a regressar a Lisboa, montando uma oficina de construção de instrumentos no Largo de São Martinho, em frente ao Limoeiro"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Museu do Fado data de 1922 o restabelecimento da Guitarraria Leiriense no Largo de S. Martinho (ver joao-pedro-gracio)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1967",
+      "data": "1967",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio Junior (Lisboa, Cacém, 1903-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "de João Pedro Grácio Júnior (1903-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+          "doc": "gc-v:4359239364460704320",
+          "citacao": "já depois do falecimento de seu pai, João Pedro Grácio Júnior (1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Em 1967, com a morte do progenitor, assumiu a continuidade da obra paterna"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina em Agualva-Cacém",
+      "data": "",
+      "local": "Agualva-Cacém",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "foi construída por João Pedro Grácio Júnior (Agualva-Cacém)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Na oficina paterna, no Cacém"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Por volta de 1937-1938 Artur Paredes intensifica com ele a colaboração; escala prolongada de 17 para 22 pontos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Por volta de 1937-1938, Artur Paredes intensifica a colaboração e a busca de resultados junto do irmão de Joaquim, João Pedro Grácio Júnior."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "A escala é prolongada sobre a caixa, passando de 17 para 22 pontos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarras de concerto exibidas por Artur Paredes e Afonso de Sousa no sarau do cinquentenário da TAUC (1940)",
+      "data": "1940",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/07/um-cartao-precioso.html",
+          "doc": "gc-v:1024567937297290906",
+          "citacao": "Neste sarau, tanto AP como AS exibiram guitarras de concerto construídas por João Pedro Grácio Júnior"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/07/um-cartao-precioso.html",
+          "doc": "gc-v:1024567937297290906",
+          "citacao": "Foi no sarau da TAUC, em 1940 que a nova gC foi divulgada ao público de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "O mesmo post refere que os dados anteriores apontavam para 23 de maio de 1945 (sarau do Orfeon Académico)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "A nova guitarra de Coimbra só se começou a divulgar em Coimbra a partir de maio de 1945",
+      "data": "1945-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "só se começou a divulgar em Coimbra a partir do mês de Maio de 1945"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/07/um-cartao-precioso.html",
+          "doc": "gc-v:1024567937297290906",
+          "citacao": "Até ao presente momento, os dados disponíveis apontavam para a divulgação da nova gC de concerto num sarau do Orfeon Académico, em 23 de maio de 1945"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão anterior à do post de 2021 (sarau da TAUC, 1940)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Debates/experiências com Artur Paredes e João Bagão a partir da década de 1950 (caixa mais alargada)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "A partir da década de 1950, mercê dos intensos debates/experiências havidos entre Artur Paredes, João Bagão e o construtor João Pedro Grácio Júnior, a nova guitarra pendeu para um modelo de caixa ainda mais alargada"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reforma da guitarra de Coimbra atribuída à dupla Arthur Paredes / João Pedro Grácio Júnior",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "parecendo desconhecer que a guitarra de Coimbra já existia antes da sua reforma pela dupla Arthur Paredes / João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A atual guitarra de Coimbra teria sido idealizada por Artur Paredes/Joaquim Grácio, «e não por João Pedro Grácio Júnior, como Gilberto Grácio gosta de contar»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "(idealizada por Artur Paredes/Joaquim Grácio, e não por João Pedro Grácio Júnior, como Gilberto Grácio gosta de contar)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Referido em 1999 por Pedro Caldeira Cabral como possível criador da guitarra de Lisboa moderna (GPLx); segundo Nuno Cristo (2014), seguiu nos anos 1920 um desenho já usado por outros",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Embora em 1999 Pedro Caldeira Cabral mencione João Pedro Grácio Jr. como um possível criador da GPLx (p. 169)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Outros guitarreiros e em especial João Pedro Grácio Jr. (1903-1967) passaram então (anos 1920) a seguir esse desenho (citado Cristo 2014: 34, 35)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Mensagem de Nuno Cristo publicada no post; cita Cabral 1999 e Cristo 2014."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Popularidade herdada de Álvaro da Silveira no início dos anos 1960",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Foi só no início dos anos 1960, quando Silveira rondava os 80 anos de idade, que a sua enorme popularidade passou para João Pedro Grácio Jr."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cristo 2014: 44, citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarras de concerto de Manuel Borralho e Ferraz de Oliveira (1963)",
+      "data": "1963",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "As guitarras de Coimbra de Manuel Borralho e Ferraz de Oliveira são cordofones de concerto que replicam as personalizações selecionadas por Artur Paredes tendo sido feitas por João Pedro Grácio Júnior em 1963."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Coimbra de Nuno Guimarães (fotografada no 1.º EP, 1965), de paradeiro desconhecido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o_17.html",
+          "doc": "gc-v:6164774557301131101",
+          "citacao": "Desconhece-se o paradeiro da gC de Nuno Guimarães, uma João Pedro Grácio Júnior que vem fotografada no 1.º EP gravado em 1965."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Coimbra de Arménio Assis, comprada na casa Olímpio Medina (Coimbra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/do-espolio-de-armenio-assis-ii.html",
+          "doc": "gc-v:4609559380762995335",
+          "citacao": "A gC de Arménio Assis também é uma João Pedro Grácio Júnior, comprada na casa Olímpio Medina, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Coimbra de Alexandre Brandão, da sua oficina (fotografia de cerca 1958-1960)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/do-espolio-de-armenio-assis-ii.html",
+          "doc": "gc-v:4609559380762995335",
+          "citacao": "Foto 2 - Alexandre Brandão, com uma guitarra da oficina de João Pedro Grácio Júnior. Imagem não datada, de cerca 1958-1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "A guitarra do formador Jorge Gomes nos cursos de 1973 parece ser uma João Pedro Grácio Júnior de finais dos anos 50, adquirida a Octávio Sérgio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "A guitarra do formador parece ser uma João Pedro Grácio Júnior de finais dos anos 50, adquirida a Octávio Sérgio nos alvores dos sixties."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Coimbra de Jorge Tuna (grupo de 1961) parece ser da sua oficina",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/ate-sempre-presidente.html",
+          "doc": "gc-v:8507682347854841055",
+          "citacao": "A guitarra de Coimbra de Jorge Tuna parece ser proveniente da oficina de João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarras do tipo de Coimbra compradas a João Pedro Grácio Júnior e a Gilberto Grácio usadas em discos a partir de 1967",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+          "doc": "gc-v:4359239364460704320",
+          "citacao": "Um número bastante considerável de discos gravados a partir de 1967 por vozes ligadas a repertório associado a Coimbra passa a utilizar em estúdio ou a divulgar como motivo de capa guitarras do tipo de Coimbra compradas a João Pedro Grácio Júnior e a Gilberto Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pedro Caldeira Cabral comprou-lhe, aos 16 anos, a sua primeira guitarra de modelo profissional",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Com esse instrumento praticou intensamente até aos 16 anos, altura em que comprou a sua primeira guitarra de modelo profissional de João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado. Pedro Caldeira Cabral nasceu em 1950."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio (Coimbrão, Leiria, 1872-Lisboa, 1962) como pelo seu filho João Pedro Grácio Junior (Lisboa, Cacém, 1903-1967)"
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "margarida-de-jesus",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        }
+      ],
+      "nota": "A mãe só é nomeada expressamente para Joaquim («Filho de João Pedro Grácio e Margarida de Jesus»). A mesma página diz que os 12 filhos, entre eles «o João», nasceram «do seu casamento» (de João Pedro Grácio); a ligação à mãe resulta da leitura conjunta das duas frases. Confirmado pelo editor do arquivo (29-10-2026)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Joo%20Pedro%20Grcio%20Jnior.jpg",
+      "legenda": "João Pedro Grácio Júnior, pai de Gilberto Grácio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-jnior-pai-de-gilberto.html",
+          "doc": "gc-i:111616589775443176",
+          "citacao": "Foto tirada do site de José Lúcio."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Post com fotografia (2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-jnior-pai-de-gilberto.html"
+    },
+    {
+      "rotulo": "Uma guerra perdida? As teimosias de Raul Simões",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

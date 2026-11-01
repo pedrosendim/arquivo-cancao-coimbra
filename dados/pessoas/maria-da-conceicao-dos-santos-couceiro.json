@@ -1,0 +1,112 @@
+{
+  "id": "maria-da-conceicao-dos-santos-couceiro",
+  "tipo": "pessoa",
+  "nome": "Maria da Conceição dos Santos Couceiro",
+  "nomes_alternativos": [
+    "Maria da Conceição Santos Couceiro"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 22 de fevereiro de 1858",
+      "data": "1858-02-22",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "4-MARIA DA CONCEIÇÃO DOS SANTOS COUCEIRO, nasceu em Coimbra a 22.02.1858. Casou com Augusto Nunes dos Santos, sucessor da arte de seu pai, na igreja de Santa Cruz, a 10.05.1883. Enviuvou em 22.12. 1915 e faleceu em dezembro de 1935."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "dezembro de 1935",
+      "data": "1935-12",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "4-MARIA DA CONCEIÇÃO DOS SANTOS COUCEIRO, nasceu em Coimbra a 22.02.1858. Casou com Augusto Nunes dos Santos, sucessor da arte de seu pai, na igreja de Santa Cruz, a 10.05.1883. Enviuvou em 22.12. 1915 e faleceu em dezembro de 1935."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os filhos do casal António e Eugénia que conhecemos são os que foram registados nos assentos paroquiais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "4-MARIA DA CONCEIÇÃO DOS SANTOS COUCEIRO, nasceu em Coimbra a 22.02.1858. Casou com Augusto Nunes dos Santos, sucessor da arte de seu pai, na igreja de Santa Cruz, a 10.05.1883. Enviuvou em 22.12. 1915 e faleceu em dezembro de 1935."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "tendo contraído matrimónio com sua filha Maria da Conceição Santos Couceiro (1858-1935)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenia-rita",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os filhos do casal António e Eugénia que conhecemos são os que foram registados nos assentos paroquiais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "4-MARIA DA CONCEIÇÃO DOS SANTOS COUCEIRO, nasceu em Coimbra a 22.02.1858. Casou com Augusto Nunes dos Santos, sucessor da arte de seu pai, na igreja de Santa Cruz, a 10.05.1883. Enviuvou em 22.12. 1915 e faleceu em dezembro de 1935."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "conjuge_de",
+      "alvo": "augusto-nunes-dos-santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "4-MARIA DA CONCEIÇÃO DOS SANTOS COUCEIRO, nasceu em Coimbra a 22.02.1858. Casou com Augusto Nunes dos Santos, sucessor da arte de seu pai, na igreja de Santa Cruz, a 10.05.1883. Enviuvou em 22.12. 1915 e faleceu em dezembro de 1935."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "tendo contraído matrimónio com sua filha Maria da Conceição Santos Couceiro (1858-1935), natural de Coimbra, na igreja de Santa Cruz, no dia 10.05.1883"
+        }
+      ],
+      "nota": "Casamento na igreja de Santa Cruz, Coimbra, 10 de maio de 1883."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

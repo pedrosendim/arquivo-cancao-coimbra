@@ -1,0 +1,62 @@
+{
+  "id": "antonio-da-costa-menano",
+  "tipo": "pessoa",
+  "nome": "António da Costa Menano",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Negociante",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "FRANCISCO PAULO MENANO, era filho de António da Costa Menano, negociante, e de Januária Augusta Paulo, proprietária, sendo um dos catorze[2] filhos do casal."
+        }
+      ],
+      "conflito": true,
+      "nota": "Também «negociante» no post de 2014 sobre António Menano; a biografia de Horácio Menano (2013) diz «agricultor» (facto seguinte)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Agricultor",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Filho de António da Costa Menano, agricultor, e de Januária Augusto Paulo"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts dizem «negociante»."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Fornos de Algodres",
+      "data": "",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Era filho de António da Costa Menano e de Januária Augusta Paulo, domiciliados em Fornos de Algodres."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "conjuge-de-gilberto-gracio",
+  "tipo": "pessoa",
+  "nome": "Mulher de Gilberto Grácio (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "gilberto-gracio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-no-caf-santa.html",
+          "doc": "gc-i:114429048935818922",
+          "citacao": "Jorge Gomes conversa com Gilberto Grácio e sua esposa, antes do começo da homenagem."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-no-caf-santa_06.html",
+          "doc": "gc-i:114429036239104431",
+          "citacao": "Gilberto Grácio com a esposa"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legendas de fotografias da homenagem no Café Santa Cruz (abril de 2006)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

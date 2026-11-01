@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-93-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0307_15.mp3",
+  "titulo": "O talagarça — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-93",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0613.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/608/almeida_cruz_o_talagarca",
+      "doc": "museu-do-fado:w12bf3232453cbd76",
+      "citacao": "Título: O talagarça ... Editora: Co. B-93 Referências: 11820, 1-5; B93"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "guitarra-santos-beirao-palm-springs",
+  "designacao": "Guitarra de Lisboa vendida pela casa Santos Beirão (Chiado), encontrada em Palm Springs (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I found it in Palm Springs, California."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "In addition to this Santos Beirao I have another one"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Santos Beirão, Lisboa, 1950 a anos 1970: tampo de abeto maciço, escala de pau-santo e fundo (provavelmente) de «mongoy»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Santos Beirao, Lisboa 1950 to 1970's. Solid spruce face, rosewood fingerboard, and (probably) a mongoy back."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Instrumento de produção vendido em Lisboa em meados do século XX, através da loja Santos Beirão no Chiado, que ardeu no final dos anos 1980",
+      "data": "",
+      "local": "Lisboa, Chiado",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This was a good production instrument sold in Lisbon in the mid-20th century. This one was sold through the Santos Beirao shop in the Chiado, which burned down in the late 1980s."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não identifica o fabricante."
+    },
+    {
+      "campo": "outro",
+      "valor": "Encontrada em Palm Springs (Califórnia); fenda no fundo reparada por German Vazquez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I found it in Palm Springs, California. It had a crack in the back--which was repaired by German Vazquez and is now just about invisible."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez, venderam-se milhares de guitarras Santos Beirão",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Apparently, there were thousands of guitarras sold by Santos Beirao"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue cita as casas Olímpio Medina e Santos Beirão a propósito dos estabelecimentos de revenda de cordofones sem os rótulos dos fabricantes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/que-nao-havia.html",
+          "doc": "gc-v:3868461545833263475",
+          "citacao": "muito antes das casas Olímpio Medina e Santos Beirão já existiam em Londres estabelecimentos de revenda de cordofones sem os rótulos dos fabricantes"
+        }
+      ],
+      "conflito": false,
+      "nota": "A página Fernandez inclui Santos Beirão na lista inicial dos nomes da coleção; o blogue trata-a como casa de revenda."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/SantosBeiraoface.jpg",
+      "legenda": "Below: Santos Beirao, Lisboa 1950 to 1970's.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Santos Beirao, Lisboa 1950 to 1970's."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/SantosBeiraoBk.jpg",
+      "legenda": "Above: The light color on the back of this guitarra is merely a light reflection",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: The light color on the back of this guitarra is merely a light reflection"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Santos Beirao, Lisboa 1950 to 1970's."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

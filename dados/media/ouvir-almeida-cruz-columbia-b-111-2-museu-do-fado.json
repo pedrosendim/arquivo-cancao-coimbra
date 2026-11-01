@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-111-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0316_32.mp3",
+  "titulo": "Fado das Três horas — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-111",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0631.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/627/almeida_cruz_fado_das_tres_horas",
+      "doc": "museu-do-fado:w9110fd22d6933f46",
+      "citacao": "Título: Fado das Três horas ... Editora: Co. B-111,11.881 Referências: 11881-1-1; B111"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

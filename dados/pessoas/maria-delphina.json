@@ -1,0 +1,62 @@
+{
+  "id": "maria-delphina",
+  "tipo": "pessoa",
+  "nome": "Maria Delphina",
+  "nomes_alternativos": [
+    "Maria Delfina"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Casamento com o mestre violeiro José Rodrigues Bruno, na igreja da Sé Nova, a 12 de maio de 1799",
+      "data": "1799-05-12",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "tendo casado catolicamente com Maria Delphina na igreja da Sé Nova em 12.05.1799"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, Beco da Carqueja, à Sé Velha (1810)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "O casal morava em 1810 no Beco da Carqueja, à Sé Velha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-rodrigues-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "tendo casado catolicamente com Maria Delphina na igreja da Sé Nova em 12.05.1799"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

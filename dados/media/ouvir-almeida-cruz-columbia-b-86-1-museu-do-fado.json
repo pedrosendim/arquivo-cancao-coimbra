@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-86-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0299_00.mp3",
+  "titulo": "Noite serena — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-86",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0597.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/592/almeida_cruz_noite_serena",
+      "doc": "museu-do-fado:weadcba80bd6d3e52",
+      "citacao": "Título: Noite serena ... Editora: Co. B-86 Referências: 11803-1-2; B86"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

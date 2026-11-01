@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-85",
+  "titulo": "Canção portuguesa da revista O Burro do Snr Alcaide / Fado Triste",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-85",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção portuguesa da revista O Burro do Snr Alcaide",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-85-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Triste",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-85-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção portuguesa da revista O Burro do Snr Alcaide», por Almeida Cruz — etiqueta: «O Burro do Snr. Alcaide / Canção portugueza - C. Cardozo / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/590/almeida_cruz_cancao_portuguesa_da_revista_o_burro_do_snr_alcaide",
+          "doc": "museu-do-fado:w558cfa76dc75bef8",
+          "citacao": "Título: Canção portuguesa da revista O Burro do Snr Alcaide ... Editora: Co. B-85 Referências: 11802-1-1; B85 ... Etiqueta: O Burro do Snr. Alcaide / Canção portugueza - C. Cardozo / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «O burro do sur, Columbia B-85, 11802, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-O burro do sur, Columbia B-85, 11802, música popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Triste», por Almeida Cruz — etiqueta: «Fado Triste / Fado      A.Cruz  / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/591/almeida_cruz_fado_triste",
+          "doc": "museu-do-fado:w344a6069dea2a673",
+          "citacao": "Título: Fado Triste ... Editora: Co. B-85 Referências: 11862-1-1; B85 ... Etiqueta: Fado Triste / Fado      A.Cruz  / Almeida Cruz "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Triste, Columbia B-85, 11862, música de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Triste, Columbia B-85, 11862, música de Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/590/almeida_cruz_cancao_portuguesa_da_revista_o_burro_do_snr_alcaide",
+      "doc": "museu-do-fado:w558cfa76dc75bef8",
+      "citacao": "Título: Canção portuguesa da revista O Burro do Snr Alcaide ... Editora: Co. B-85 Referências: 11802-1-1; B85"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-O burro do sur, Columbia B-85, 11802, música popular"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/591/almeida_cruz_fado_triste",
+      "doc": "museu-do-fado:w344a6069dea2a673",
+      "citacao": "Título: Fado Triste ... Editora: Co. B-85 Referências: 11862-1-1; B85"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Triste, Columbia B-85, 11862, música de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

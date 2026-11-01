@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-87-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0301_06.mp3",
+  "titulo": "Fado da Guitarra — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-87",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0602.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/597/almeida_cruz_fado_da_guitarra",
+      "doc": "museu-do-fado:w6f39e6b5df51880d",
+      "citacao": "Título: Fado da Guitarra ... Editora: Co. B-87 Referências: 11867, 4; B87"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

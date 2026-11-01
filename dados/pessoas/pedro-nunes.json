@@ -1,0 +1,39 @@
+{
+  "id": "pedro-nunes",
+  "tipo": "pessoa",
+  "nome": "Pedro Nunes",
+  "nomes_alternativos": [
+    "Pedro Miguel Pinto Nunes"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html", "doc": "gc-i:111386707668512688", "citacao": "Fez a sua aprendizagem de guitarra com o Dr. Jorge Gomes nas escolas da Secção de Fado da AAC e da TAUC."}], "nota": "Aluno de guitarra nas escolas da Secção (Jorge Gomes), a partir de meados dos anos 90."},
+    {"tipo": "aluno_de", "alvo": "jorge-gomes", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html", "doc": "gc-i:111386707668512688", "citacao": "Fez a sua aprendizagem de guitarra com o Dr. Jorge Gomes nas escolas da Secção de Fado da AAC e da TAUC."}], "nota": "Escolas da Secção de Fado e da TAUC."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Integrou as formações Grupo Canção de Coimbra (1995-1999) e Quarto Crescente (1999-2002)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "o CD \"Prospecção\", editado em 2004, com Jorge Machado (voz) e Fernando Marques/Pedro Nunes (gg) e Manuel João Vaz (v)."
+        }
+      ],
+      "nota": "guitarra; 1995-1999 e CD «Prospecção» (2004)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

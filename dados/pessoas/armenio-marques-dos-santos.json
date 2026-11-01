@@ -1,0 +1,44 @@
+{
+  "id": "armenio-marques-dos-santos",
+  "tipo": "pessoa",
+  "nome": "Arménio Marques dos Santos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Tradicional dos Estudantes de Santarém (homenagem a Ângelo Vieira Araújo), 22 de julho de 2006: canta «Último Fado» acompanhado pelo grupo «Campa Rasa» e «Santa Clara» acompanhado pelo Grupo «Guitarra e Canto de Coimbra» do CCRS",
+      "data": "2006-07-22",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Realizou-se com grande êxito, no passado Sábado - 22.07.2006, nas Escadarias do Largo do Seminário, a tradicional Serenata dos Estudantes de Santarém"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "O Grupo “Campa Rasa” com David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam ... e Arménio Marques dos Santos (“ Último Fado” de A Araújo )."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "O Grupo “Guitarra e Canto de Coimbra” do CCRS, constituído por Fernando Martinho, João Luís e António Madeira Lopes (Guitarras), Elias Rodrigues e Octávio Freitas (Violas) acompanhou ... Arménio Marques dos Santos em “Santa Clara” de A Araújo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha mínima, criada para ligar Emanuel Maranha das Neves. Outros posts referem um «Arménio Santos» (por exemplo, no «Grupo Jurídico»); o texto não diz se é a mesma pessoa."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

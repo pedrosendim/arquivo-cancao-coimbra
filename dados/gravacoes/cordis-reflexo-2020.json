@@ -1,0 +1,168 @@
+{
+  "id": "cordis-reflexo-2020",
+  "titulo": "Reflexo",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "",
+  "ano": "2020",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "cordis",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "bruno-costa",
+      "funcao": "guitarra portuguesa; composição"
+    },
+    {
+      "pessoa": "paulo-figueiredo",
+      "funcao": "piano; composição"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Reflexo",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Ladeira dos Castanheiros",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Coimbra Iluminada",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-3-apple-music"]
+    },
+    {
+      "n": 4,
+      "titulo": "Tardes da Prainha",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-4-apple-music"]
+    },
+    {
+      "n": 5,
+      "titulo": "Calmaria dos Dias",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-5-apple-music"]
+    },
+    {
+      "n": 6,
+      "titulo": "Sonolência",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-6-apple-music"]
+    },
+    {
+      "n": 7,
+      "titulo": "Desencontros",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-7-apple-music"]
+    },
+    {
+      "n": 8,
+      "titulo": "A Espera e o Medo",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-8-apple-music"]
+    },
+    {
+      "n": 9,
+      "titulo": "Vaguear",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-9-apple-music"]
+    },
+    {
+      "n": 10,
+      "titulo": "Longos Dias",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-10-apple-music"]
+    },
+    {
+      "n": 11,
+      "titulo": "Cumplicidades",
+      "obra": "",
+      "media": ["ouvir-cordis-reflexo-2020-11-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/9lhr_NVGVAMSAOt2DGSTYoRzj4AhFP0kr2lw9GAIgdc/rs:fit/g:sm/q:90/h:392/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA3/NDgzLTE1ODE5Nzc0/MzItMjUzNy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/14807483",
+        "doc": "discogs:w03f392f05a9e3607",
+        "citacao": "Imagem (secondary): https://i.discogs.com/9lhr_NVGVAMSAOt2DGSTYoRzj4AhFP0kr2lw9GAIgdc/rs:fit/g:sm/q:90/h:392/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA3/NDgzLTE1ODE5Nzc0/MzItMjUzNy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/14807483",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato e país (Discogs): 1 × CD, Album; Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14807483",
+          "doc": "discogs:w03f392f05a9e3607",
+          "citacao": "Formato: 1 × CD, Album País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Data de edição: 31 de janeiro de 2020 (Discogs)",
+      "data": "2020-01-31",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14807483",
+          "doc": "discogs:w03f392f05a9e3607",
+          "citacao": "Data: 2020-01-31"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições de Bruno Costa (faixas 2, 4, 5, 8, 10), de Paulo Figueiredo (3, 6, 7, 9, 11) e de ambos (1), segundo o Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14807483",
+          "doc": "discogs:w03f392f05a9e3607",
+          "citacao": "1 Reflexo / Reflection [Bruno Costa (7), Paulo Figueiredo (2)] 2 Ladeira Dos Castanheiros / Chestnut Hill [Bruno Costa (7)] 3 Coimbra Iluminada / Illuminated Coimbra [Paulo Figueiredo (2)]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14807483",
+      "doc": "discogs:w03f392f05a9e3607",
+      "citacao": "Título: Reflexo Artistas: Cordis (2) Editora: Not On Label – none"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+      "doc": "arquivo-pt:w57e22e44256d1b8c",
+      "citacao": "CD “REFLEXO” (CORDIS)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

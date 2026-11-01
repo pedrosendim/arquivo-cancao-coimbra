@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-beka-7374",
+  "titulo": "Fado do Porto",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7374",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Porto",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-beka-7374-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Porto», por Manassés de Lacerda — etiqueta: «Fado do Porto  / Fado  / Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/923/manasses_de_lacerda_fado_do_porto",
+          "doc": "museu-do-fado:wc14157166cb58c07",
+          "citacao": "Título: Fado do Porto ... Editora: Beka 7374 Referências: Disco “Beka” Grande, 7374, ∆7; 7374 ... Etiqueta: Fado do Porto  / Fado  / Manassés de Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/923/manasses_de_lacerda_fado_do_porto",
+      "doc": "museu-do-fado:wc14157166cb58c07",
+      "citacao": "Título: Fado do Porto ... Editora: Beka 7374 Referências: Disco “Beka” Grande, 7374, ∆7; 7374"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

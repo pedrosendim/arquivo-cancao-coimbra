@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136807-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0602_06.mp3",
+  "titulo": "Canção da Beira — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136807",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1197.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1189/antonio_menano_cancao_da_beira",
+      "doc": "museu-do-fado:wcdb2ea45ae6cc444",
+      "citacao": "Título: Canção da Beira ... Editora: Od.136.807,EMI261283,EMICD8374962 Referências: OG690, R; A 136807a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

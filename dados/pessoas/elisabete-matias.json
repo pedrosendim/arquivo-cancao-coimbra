@@ -1,0 +1,35 @@
+{
+  "id": "elisabete-matias",
+  "tipo": "pessoa",
+  "nome": "Elisabete Matias",
+  "nomes_alternativos": [
+    "Elisabete"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "humberto-matias",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/07/almoo-em-casa-de-humberto-matias-neste.html",
+          "doc": "gc-i:7921418686543995634",
+          "citacao": "Humberto Matias e a esposa Elisabete presentearam-nos com o Fado de Lisboa"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/em-casa-de-humberto-matias-ontem-depois.html",
+          "doc": "gc-ii:4408922958285739349",
+          "citacao": "ouvem Elisabete Matias cantar o fado de lisboa, acompanhada pelo marido."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

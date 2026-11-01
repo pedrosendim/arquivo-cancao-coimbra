@@ -1,0 +1,199 @@
+{
+  "id": "quarteto-aeminium",
+  "tipo": "grupo",
+  "nome": "Quarteto Aeminium",
+  "nomes_alternativos": [
+    "Quarteto de Guitarras Aeminium",
+    "Quarteto de Guitarras AEMINIUM",
+    "Quarteto de Guitarras de Coimbra AEMINIUM"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "Fundou o\nQuarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e\nguitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa,\ngrupo privativo do restaurante “TROVADOR” – Sé Velha – Coimbra, para a\nrealização de dois trabalhos discográficos dum “Velho” cantor de Coimbra MÁRIO\nGOMES PAIS, denominados “COIMBRA P’RA SER COIMBRA” e “COIMBRA É UMA SAUDADE”."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+      "doc": "gc-i:111496890596824036",
+      "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+      "doc": "gc-i:112138924320281633",
+      "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/05/comecam-hoje-as-noites-com-o-canto-e.html",
+      "doc": "gc-iii:9012297652093075575",
+      "citacao": "Começam hoje as noites com o Canto e a Guitarra de Coimbra, com o Quarteto de Guitarras AEMINIUM."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado por António de Jesus com o filho Carlos Jesus (guitarras) e os violas Alcides Freixo e Paulo Larguesa; grupo privativo do restaurante «Trovador» (Sé Velha, Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Fundou o\nQuarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e\nguitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa,\ngrupo privativo do restaurante “TROVADOR” – Sé Velha – Coimbra, para a\nrealização de dois trabalhos discográficos dum “Velho” cantor de Coimbra MÁRIO\nGOMES PAIS, denominados “COIMBRA P’RA SER COIMBRA” e “COIMBRA É UMA SAUDADE”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "dois discos do cantor Mário Gomes Pais: «Coimbra p'ra ser Coimbra» e «Coimbra é uma saudade»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Fundou o\nQuarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e\nguitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa,\ngrupo privativo do restaurante “TROVADOR” – Sé Velha – Coimbra, para a\nrealização de dois trabalhos discográficos dum “Velho” cantor de Coimbra MÁRIO\nGOMES PAIS, denominados “COIMBRA P’RA SER COIMBRA” e “COIMBRA É UMA SAUDADE”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "homenagem a Augusto Camacho (2005), com o homenageado a cantar",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+          "doc": "gc-i:111496890596824036",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496819120901969.html",
+          "doc": "gc-i:111496819120901969",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com Felisberto Queirós a cantar. Aníbal Moreira, Carlos Jesus e Paulo Larguesa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Galeria Almedina (maio de 2005) e Quebra-Costas (julho de 2005), Coimbra",
+      "data": "2005",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/quarteto-de-guitarras-aeminium-na.html",
+          "doc": "gc-i:111728696228408271",
+          "citacao": "Quarteto de Guitarras AEMINIUM na Galeria Almedina. Notícia do \"Diário de Coimbra\""
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+          "doc": "gc-i:112138924320281633",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas de verão de 2008: Largo do Romal (21 de junho) e Galeria Almedina (2 de agosto)",
+      "data": "2008",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/para-quem-gosta-do-fadocano-de-coimbra.html",
+          "doc": "gc-ii:7056097420504653156",
+          "citacao": "21 de Junho – Largo do Romal – Quarteto de Guitarras Aeminium – site em: http://quartetoaeminium.com.sapo.pt/"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/para-quem-gosta-do-fadocano-de-coimbra.html",
+          "doc": "gc-ii:7056097420504653156",
+          "citacao": "2 de Agosto – Galeria Almedina – Quarteto de Guitarras Aeminium"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "abre as noites do Canto e da Guitarra de Coimbra de 2009 (30 de maio)",
+      "data": "2009-05-30",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/05/comecam-hoje-as-noites-com-o-canto-e.html",
+          "doc": "gc-iii:9012297652093075575",
+          "citacao": "Começam hoje as noites com o Canto e a Guitarra de Coimbra, com o Quarteto de Guitarras AEMINIUM."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação em 2005: Carlos Jesus (guitarra), Aníbal Moreira e Paulo Larguesa (violas); cantores Felisberto Queirós e Mário Gomes Pais",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+          "doc": "gc-i:112138924320281633",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+          "doc": "gc-i:111496890596824036",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20Quarteto%20Aeminium%20com%20%20Camacho%201.jpg",
+      "legenda": "Quarteto Aeminium na homenagem a Augusto Camacho (2005): o homenageado a cantar; Aníbal Moreira e Paulo Larguesa (violas), Carlos Jesus (guitarra).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+          "doc": "gc-i:111496890596824036",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/AEMINIUM%20Jesus%202.jpg",
+      "legenda": "Quarteto Aeminium no Quebra-Costas (julho de 2005): Carlos Jesus (guitarra), Paulo Larguesa (viola); cantores Felisberto Queirós e Mário Gomes Pais.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+          "doc": "gc-i:112138924320281633",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

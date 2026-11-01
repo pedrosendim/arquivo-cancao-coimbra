@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-12-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=DSEUr7q4Loc",
+  "titulo": "Passatempo — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes"
+  ],
+  "obras": [
+    "passatempo-artur-paredes"
+  ],
+  "gravacao": "carlos-paredes-e-artur-paredes-lp-alvorada",
+  "miniatura": "https://i.ytimg.com/vi/DSEUr7q4Loc/hqdefault.jpg",
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/34166371",
+      "doc": "discogs:wb4aff6df37773b75",
+      "citacao": "Vídeo: Artur Paredes e Carlos Paredes - Passatempo — https://www.youtube.com/watch?v=DSEUr7q4Loc"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

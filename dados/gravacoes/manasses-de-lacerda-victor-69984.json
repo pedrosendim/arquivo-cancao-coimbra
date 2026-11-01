@@ -1,0 +1,102 @@
+{
+  "id": "manasses-de-lacerda-victor-69984",
+  "titulo": "Fado da Pálida madrugada com variações de flauta / Fado Ciumento",
+  "formato": "78rpm",
+  "editora": "Victor",
+  "referencia": "69984",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Pálida madrugada com variações de flauta",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-victor-69984-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Ciumento",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-victor-69984-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Pálida madrugada com variações de flauta», por Manassés de Lacerda — etiqueta: «Fado da pallida Madrugada / com Variações de Flauta / cantado pelo tenor / Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/940/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
+          "doc": "museu-do-fado:w70de79dde5559c1e",
+          "citacao": "Título: Fado da Pálida madrugada com variações de flauta ... Editora: Vi.69984, Gra.262163, Referências: 17684u, A69984A[coroa]; 69984-A ... Etiqueta: Fado da pallida Madrugada / com Variações de Flauta / cantado pelo tenor / Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Ciumento», por Manassés de Lacerda — etiqueta: «Fado Ciumento / cantado pelo tenor / Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/941/manasses_de_lacerda_fado_ciumento",
+          "doc": "museu-do-fado:wb51def9ec97b7bd3",
+          "citacao": "Título: Fado Ciumento ... Editora: Vi.69984, Referências: 17685u, A69984B[coroa]; 69984-B ... Etiqueta: Fado Ciumento / cantado pelo tenor / Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue inclui o Victor 69984 entre as gravações do próprio Manassés de Lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Gravações do próprio Manassés de Lacerda: ... «Fado da Pallida Madrugada», Lisboa, Disque pour Gramophone 262163, ca. 1906, e Victor 69984"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/940/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
+      "doc": "museu-do-fado:w70de79dde5559c1e",
+      "citacao": "Título: Fado da Pálida madrugada com variações de flauta ... Editora: Vi.69984, Gra.262163, Referências: 17684u, A69984A[coroa]; 69984-A"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/941/manasses_de_lacerda_fado_ciumento",
+      "doc": "museu-do-fado:wb51def9ec97b7bd3",
+      "citacao": "Título: Fado Ciumento ... Editora: Vi.69984, Referências: 17685u, A69984B[coroa]; 69984-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

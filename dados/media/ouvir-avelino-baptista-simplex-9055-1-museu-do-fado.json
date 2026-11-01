@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-simplex-9055-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1503_67.mp3",
+  "titulo": "Adeus a Coimbra — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-simplex-9055",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2787.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2981/avelino_baptista_adeus_a_coimbra",
+      "doc": "museu-do-fado:w38e2121ca4be2faf",
+      "citacao": "Título: Adeus a Coimbra ... Editora: Disco Simplex 9055 9123 Referências: 9055, E8U, A1; 9055"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

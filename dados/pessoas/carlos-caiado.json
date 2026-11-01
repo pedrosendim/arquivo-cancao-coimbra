@@ -1,0 +1,51 @@
+{
+  "id": "carlos-caiado",
+  "tipo": "pessoa",
+  "nome": "Carlos Caiado",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista",
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "Muitos outros fizeram parte da direcção nos dois primeiros anos: Artur Ribeiro, Carlos Delfim, Mário Toste, José Carlos Amaral, Carlos Andrade, Luís Serra e Silva, Paulo Serra e Silva, Carlos Caiado"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html", "doc": "gc-v:3601858408909756739", "citacao": "Em meados dos anos de 1980 um jovem associado da Secção de Fado da AAC, Carlos Manuel Simões Caiado, promoveu a recolha, notação musical e edição de mais de cem composições"}], "nota": "Membro das direções dos dois primeiros anos (1981-1983); associado em meados dos anos 80 (Antologia do Fado de Coimbra, 1986). Identificação de Carlos Manuel Simões Caiado com esta ficha a confirmar."},
+    {"tipo": "membro_de", "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)"}], "nota": "Estreia do Grupo de Cordas, Sarau da Queima de 1982."},
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        }
+      ],
+      "nota": "viola; digressão de 2004"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "O Grupo de Fados e Guitarras de Coimbra nasce em 1978. Encontrava-me no segundo ano de Farmácia, com quarto na República dos Pyn-Guyns, e fui contactado pelo Vítor Baltasar e pelo Carlos Caiado para fazer parte, como guitarrista, de um grupo de fados de Coimbra, recém-criado e constituído maioritariamente por estudantes da Universidade."
+        }
+      ],
+      "nota": "voz; fundador (1978)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

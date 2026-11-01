@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-90",
+  "titulo": "Regadinho / Fado da Senhora da Pedra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-90",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Regadinho",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-90-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Senhora da Pedra",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-90-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Regadinho», por Almeida Cruz — etiqueta: «Regadinho / Canção Portugueza - Popular / Almeida Cruz / e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/602/almeida_cruz_regadinho",
+          "doc": "museu-do-fado:wf20e8e290155329d",
+          "citacao": "Título: Regadinho ... Editora: Co. B-90 Referências: 11816, 1-10; B90 ... Etiqueta: Regadinho / Canção Portugueza - Popular / Almeida Cruz / e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Regadinho, Columbia B-90, 11816, dança tradicional portuguesa»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Regadinho, Columbia B-90, 11816, dança tradicional portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Senhora da Pedra», por Almeida Cruz — etiqueta: «Fado da Senhora / da Pedra / Fado - Popular / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/603/almeida_cruz_fado_da_senhora_da_pedra",
+          "doc": "museu-do-fado:w25306e897b545d42",
+          "citacao": "Título: Fado da Senhora da Pedra ... Editora: Co. B-90 Referências: 11871-1-3; B90 ... Etiqueta: Fado da Senhora / da Pedra / Fado - Popular / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado da Senhora da Pedra (Tu és de pedra, Senhora), Columbia B-90, 11871, música e letra populares»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado da Senhora da Pedra (Tu és de pedra, Senhora), Columbia B-90, 11871, música e letra populares"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/602/almeida_cruz_regadinho",
+      "doc": "museu-do-fado:wf20e8e290155329d",
+      "citacao": "Título: Regadinho ... Editora: Co. B-90 Referências: 11816, 1-10; B90"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Regadinho, Columbia B-90, 11816, dança tradicional portuguesa"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/603/almeida_cruz_fado_da_senhora_da_pedra",
+      "doc": "museu-do-fado:w25306e897b545d42",
+      "citacao": "Título: Fado da Senhora da Pedra ... Editora: Co. B-90 Referências: 11871-1-3; B90"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado da Senhora da Pedra (Tu és de pedra, Senhora), Columbia B-90, 11871, música e letra populares"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

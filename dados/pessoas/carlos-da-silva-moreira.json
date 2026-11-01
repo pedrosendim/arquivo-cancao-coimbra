@@ -1,0 +1,38 @@
+{
+  "id": "carlos-da-silva-moreira",
+  "tipo": "pessoa",
+  "nome": "Carlos da Silva Moreira",
+  "nomes_alternativos": [
+    "Carlos Moreira",
+    "Rouxinol de Coimbra"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "doc": "gc-i:113544803961572695",
+      "citacao": "Carlos da Silva Moreira (dito “Rouxinol de Coimbra”, 25/11/1904; 19/05/1976). Alfaiate de profissão, cobrador e funcionário municipal, tenor aplaudido, serenateiro e intérprete de canções populares."
+    }
+  ],
+  "factos": [],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQn9H_jROEX1xGcxAzi7wajHGx3TiZL5tv8k3EBCTi1gJL91nJgeYWJrGP8uGtd9ohOvDCecP6sqMpBuU3n_FXosWDLrT6ytsGVnxiqMpqVDftsoCQOgiqAM2QDy-R_s9d9StdKxG9ns5/s1600/Carlos+Moreira.jpg",
+      "legenda": "«Foto 7 – Carlos da Silva Moreira (1904 – 1976). Cliché Cinearte. Recolha de Carlos Alberto Dias» (designação da fotografia no livro «Flávio Rodrigues da Silva, Fragmentos para uma guitarra», p. 59, citada no post).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/julio-dantas-e-carlos-moreira.html",
+          "doc": "gc-v:5872924833394936654",
+          "citacao": "CARLOS da SILVA MOREIRA, para a pequena resenha biográfica deste cantor transcrevemos o texto que acompanha a fotografia ... Esta fotografia, já fora publicada no livro “Flávio Rodrigues da Silva, Fragmentos para uma guitarra”, na página 59 ... a fotografia vem designada como “Foto 7 – Carlos da Silva Moreira (1904 – 1976). Cliché Cinearte. Recolha de Carlos Alberto Dias”."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

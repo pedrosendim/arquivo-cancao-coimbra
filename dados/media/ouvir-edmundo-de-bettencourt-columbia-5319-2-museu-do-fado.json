@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-5319-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0151_20.mp3",
+  "titulo": "Fado do Anto — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-5319",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0302.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/297/edmundo_bettencourt_fado_do_anto",
+      "doc": "museu-do-fado:w7f79abb4b8c4f20f",
+      "citacao": "Título: Fado do Anto ... Editora: Co. 5319 Referências: P331, W; 5319-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

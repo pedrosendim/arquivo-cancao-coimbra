@@ -1,0 +1,499 @@
+{
+  "id": "ni-ferreirinha",
+  "tipo": "pessoa",
+  "nome": "Ni Ferreirinha",
+  "nomes_alternativos": [
+    "Luís (Ni) Ferreirinha",
+    "Luís Ferreirinha"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "Passa a integrar o Coro dos Antigos Orfeonistas da Universidade de Coimbra (AOUC) e mais tarde o respectivo Grupo de Fados (com Manuel Mora [g.], Carlos Caiado, Custódio Moreirinhas e «Ni» Ferreirinha [vv.])"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/09/pepublica-carlos-paredes.html",
+      "doc": "gc-iii:4921223075740413593",
+      "citacao": "Guitarras de Coimbra - Ricardo Dias (Guitarra de Coimbra), Bruno Costa (Guitarra de Coimbra), Pedro Lopes (Viola), Ni Ferreirinha (Baixo) e Ricardo Dias (Acordeão)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+      "doc": "gc-v:6415702352396943019",
+      "citacao": "Ni Ferreirinha (viola / papel preponderante no desenvolvimento do Fado – Canção de Coimbra)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/02/evocacao-do-nascimento-de-carlos-paredes.html",
+      "doc": "gc-v:6913096023122990747",
+      "citacao": "Bruno Costa (Guitarra) / Ni Ferreirinha (Viola)"
+    },
+    {
+      "fonte": "cm-coimbra",
+      "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+      "doc": "cm-coimbra:w49adfd40b3069844",
+      "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Luís (Ni) Ferreirinha; variante: Luís Ferreirinha (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/14004763",
+          "doc": "discogs:w64d7048ef9430ae5",
+          "citacao": "Nome: Luís (Ni) Ferreirinha"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/14004763",
+          "doc": "discogs:w64d7048ef9430ae5",
+          "citacao": "Variações do nome: Luís Ferreirinha"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Discogs tem dois perfis: «Ni Ferreirinha» (artist/5201381) e «Luís (Ni) Ferreirinha» (artist/14004763)."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "na mesma ficha artística municipal (2022) surge «Luís Ferreirinha» no baixo acústico e «Ni Ferreirinha» na direção artística",
+      "data": "2022",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Baixo Acústico Luís Ferreirinha"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Direção Artística Ni Ferreirinha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "viola do Grupo de Fados do Coro dos Antigos Orfeonistas da UC, com Octávio Sérgio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "mais tarde o respectivo Grupo de Fados (com Manuel Mora [g.], Carlos Caiado, Custódio Moreirinhas e «Ni» Ferreirinha [vv.])"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Coro dos Antigos Orfeonistas no Japão (2007), nas violas com Nuno Botelho",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/coro-dos-antigos-orfeonistas-no-japao_29.html",
+          "doc": "gc-iii:2735660048231694259",
+          "citacao": "Coro dos Antigos Orfeonistas no Japão, em 2007."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/coro-dos-antigos-orfeonistas-no-japao_29.html",
+          "doc": "gc-iii:2735660048231694259",
+          "citacao": "Octávio Sérgio e Bruno Costa nas guitarras, Luís Ferreirinha e Nuno Botelho nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post diz «Luís Ferreirinha»; a identificação com Ni Ferreirinha apoia-se no Discogs e no programa municipal de 2022."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantar Coimbra – Encontro de Gerações (Orfeon Académico de Coimbra, 10 de novembro de 2006)",
+      "data": "2006-11-10",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/cantar-coimbra-encontro-de-geraes_12.html",
+          "doc": "gc-i:116334426522404813",
+          "citacao": "Cantar Coimbra - Encontro de Gerações, promovido pelo Orfeon Académico de Coimbra no dia 10 de Novembro. Paulo Alexandre, Luís Ferreirinha, Nuno Vaz Santos e Luís Barroso."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda com «Luís Ferreirinha»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo «República Carlos Paredes», TAGV, 30 de setembro de 2010 (baixo)",
+      "data": "2010-09-30",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/pepublica-carlos-paredes.html",
+          "doc": "gc-iii:4921223075740413593",
+          "citacao": "30 DE SETEMBRO DE 2010, PELAS 21H30, NO TAGV, EM COIMBRA"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/pepublica-carlos-paredes.html",
+          "doc": "gc-iii:4921223075740413593",
+          "citacao": "Ni Ferreirinha (Baixo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "disco de Fernando Gomes Alves (2011), acompanhado por Ricardo Dias (guitarra) e Luís Ferreirinha (viola)",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/12/finalmente-gomes-alves-volta-gravar.html",
+          "doc": "gc-iv:373158569893034003",
+          "citacao": "Agora foi acompanhado por Ricardo Dias, em guitarra e Luís Ferreirinha, em viola. Gravado pela ARTIS de Heinz Frieden."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/gomes-alves-disco.html",
+          "doc": "gc-iv:6488754893004798940",
+          "citacao": "É acompanhado por Ricardo Dias em guitarra e por Luís Ferreirinha em viola. Editora Public-Art de Heinz Frieden."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois posts dão a etiqueta como «ARTIS» e «Public-Art», ambas de Heinz Frieden."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "recital com Ricardo Dias em Caracas (Dia da Europa, 2014)",
+      "data": "2014-05",
+      "local": "Caracas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/guitarra-de-coimbra-na-venezuela.html",
+          "doc": "gc-v:4105253720569434663",
+          "citacao": "Interpretado pelo solista Ricardo Dias, na guitarra portuguesa, e por Luís Ferreira, na viola acústica"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/guitarra-de-coimbra-na-venezuela.html",
+          "doc": "gc-v:4105253720569434663",
+          "citacao": "Parabéns ao Ricardo Dias e ao Ni Ferreirinha"
+        }
+      ],
+      "conflito": false,
+      "nota": "A notícia da Lusa reproduzida no post chama ao viola «Luís Ferreira»; o autor do blogue felicita «Ni Ferreirinha»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "viola do Ricardo Dias Ensemble (estreia no TAGV a 16 de janeiro de 2015)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "Ni Ferreirinha (viola / papel preponderante no desenvolvimento do Fado – Canção de Coimbra)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/4033661",
+          "doc": "discogs:wfb5a079a47a5af98",
+          "citacao": "Ni Ferreirinha on viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra Fado», Ricardo Dias Ensemble (ARC Music EUCD 2530, 2014)",
+      "data": "2014",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/4033661",
+          "doc": "discogs:wfb5a079a47a5af98",
+          "citacao": "2014 · Coimbra Fado · ARC Music · CD, Album · Main"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6154915",
+          "doc": "discogs:w0c9e708c7c468269",
+          "citacao": "Editora: ARC Music – EUCD 2530"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participações nos CD «Sul» (2016) e «Guitarra Portuguesa (Armindo Fernandes e Amigos)» (Museu do Fado Discos, 2022)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/5201381",
+          "doc": "discogs:w6e226911752b4f8c",
+          "citacao": "2016 · Sul · Not On Label · CD, Album · Appearance"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/5201381",
+          "doc": "discogs:w6e226911752b4f8c",
+          "citacao": "2022 · Guitarra Portuguesa (Armindo Fernandes E Amigos) · Museu Do Fado Discos · CD, Album · Appearance"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD promocional «Fado de Coimbra», concerto na Sala Radio de Bucareste (junho de 2019), com Ricardo Dias e Nuno Correia da Silva (guitarra clássica)",
+      "data": "2019-06",
+      "local": "Bucareste",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "Classical Guitar – Luís (Ni) Ferreirinha"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "live la Sala Radio din ... iunie 2019"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Guitarras e guitarradas de Paredes», exterior da Torre de Anto, 19 de fevereiro de 2022, com Bruno Costa",
+      "data": "2022-02-19",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/02/evocacao-do-nascimento-de-carlos-paredes.html",
+          "doc": "gc-v:6913096023122990747",
+          "citacao": "19 de fevereiro | 16h00 | Exterior da Torre de Anto"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/02/evocacao-do-nascimento-de-carlos-paredes.html",
+          "doc": "gc-v:6913096023122990747",
+          "citacao": "Bruno Costa (Guitarra) / Ni Ferreirinha (Viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«(En)canto às Ilhas de Bruma | Serenata Património(s)», 1 de outubro de 2022: direção artística e viola",
+      "data": "2022-10-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Direção artística Ni Ferreirinha"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Viola Ni Ferreirinha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo «Imperfeito» de Francisco Costa, Convento São Francisco, 4 de novembro de 2022: baixo e direção artística",
+      "data": "2022-11-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Ni Ferreirinha (baixo e direção artística)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Grupo Raízes de Coimbra no àCapella (janeiro de 2012): no final, contributo de Luís Marques, Luís Ferreirinha, Victor Sá e António Dinis",
+      "data": "2012",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/grupo-raizes-de-coimbra-no-acapella-na.html",
+          "doc": "gc-iv:3361939228982901307",
+          "citacao": "No final Luís Marques, Luís Ferreirinha, Victor Sá e António Dinis deram o seu contributo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post diz «Luís Ferreirinha»."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "ricardo-dias-ensemble",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "Ni Ferreirinha (viola / papel preponderante no desenvolvimento do Fado – Canção de Coimbra)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/4033661",
+          "doc": "discogs:wfb5a079a47a5af98",
+          "citacao": "Ni Ferreirinha on viola"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Passa a integrar o Coro dos Antigos Orfeonistas da Universidade de Coimbra (AOUC) e mais tarde o respectivo Grupo de Fados (com Manuel Mora [g.], Carlos Caiado, Custódio Moreirinhas e «Ni» Ferreirinha [vv.])"
+        }
+      ],
+      "nota": "Grupo de Fados dos Antigos Orfeonistas"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "francisco-costa",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)"
+        }
+      ],
+      "nota": "espetáculo «Imperfeito», 2022 (baixo)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-vilhena",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/coro-dos-antigos-orfeonistas-no-japao_6840.html",
+          "doc": "gc-iii:3526361817647153012",
+          "citacao": "\"Tenho Barcos, Tenho Remos\", na voz de José Vilhena, acompanhado por Luís Ferreirinha."
+        }
+      ],
+      "nota": "Coro dos Antigos Orfeonistas no Japão, 2007; o post diz «Luís Ferreirinha»"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "ricardo-dias",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/gomes-alves-disco.html",
+          "doc": "gc-iv:6488754893004798940",
+          "citacao": "É acompanhado por Ricardo Dias em guitarra e por Luís Ferreirinha em viola."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/guitarra-de-coimbra-na-venezuela.html",
+          "doc": "gc-v:4105253720569434663",
+          "citacao": "Parabéns ao Ricardo Dias e ao Ni Ferreirinha"
+        }
+      ],
+      "nota": "disco de Gomes Alves (2011-2012); recital em Caracas (2014); Ricardo Dias Ensemble"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        }
+      ],
+      "nota": "digressão de 2004"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-romance",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+          "doc": "gc-i:115405640078927455",
+          "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_111421006060645085.html",
+          "doc": "gc-i:111421006060645085",
+          "citacao": "Actuações no \"Mês do Fado\". Grupo Romance: Luís Oliveira, Nuno Silva, João Barreiros e Luís Ferreirinha."
+        }
+      ],
+      "nota": "viola; 2005-2006"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://i.discogs.com/OTLaoO1ZmtTPY92bVwe3JnxAzZRdkSlxZZjEVBujTHM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyMDEz/ODEtMTQ4ODQ5MTI1/Ny01MTQ2LmpwZWc.jpeg",
+      "legenda": "Ni Ferreirinha. Imagem do perfil de artista «Ni Ferreirinha» no Discogs.",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/5201381",
+          "doc": "discogs:w6e226911752b4f8c",
+          "citacao": "Imagem: https://i.discogs.com/OTLaoO1ZmtTPY92bVwe3JnxAzZRdkSlxZZjEVBujTHM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyMDEz/ODEtMTQ4ODQ5MTI1/Ny01MTQ2LmpwZWc.jpeg"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Ni Ferreirinha",
+      "url": "https://www.discogs.com/artist/5201381"
+    },
+    {
+      "rotulo": "Discogs: Luís (Ni) Ferreirinha",
+      "url": "https://www.discogs.com/artist/14004763"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota_editor": "«Luís Ferreirinha» (Presença de Coimbra, Grupo Romance) e Ni Ferreirinha são a mesma pessoa: identificação do editor do arquivo (29-10-2026)."
+}

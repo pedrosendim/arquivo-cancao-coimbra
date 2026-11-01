@@ -1,0 +1,70 @@
+{
+  "id": "isabel-paredes",
+  "tipo": "pessoa",
+  "nome": "Isabel Paredes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (freguesia de Santa Cruz), 1896",
+      "data": "1896",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "goncalo-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-do-ceu-1872",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+        }
+      ],
+      "nota": "Maria do Céu é dita «companheira» de Gonçalo Paredes, não mulher."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

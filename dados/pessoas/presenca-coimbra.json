@@ -1,0 +1,145 @@
+{
+  "id": "presenca-coimbra",
+  "tipo": "grupo",
+  "nome": "Presença Coimbrã",
+  "nomes_alternativos": [
+    "Grupo Presença Coimbrã",
+    "grupo de fados e guitarras Presença Coimbrã"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+      "doc": "gc-i:111253690377399037",
+      "citacao": "O grupo de fados e guitarras \"Presença Coimbrã\" actuou na conceituada sala Fung Ping Shan Gallery do Museu da Universidade de Hong Kong. A \"lição coimbrã\" foi interpretada a cinco vozes, acompanhadas por três guitarras e três violas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+      "doc": "gc-i:111253690377399037",
+      "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+      "doc": "gc-i:111931726008145431",
+      "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "concerto na Fung Ping Shan Gallery do Museu da Universidade de Hong Kong (17 de dezembro de 2004), a cinco vozes com três guitarras e três violas (Jornal de Letras, 16 de fevereiro de 2005)",
+      "data": "2004-12-17",
+      "local": "Hong Kong",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "\"Fado de Coimbra chega a Hong Kong\". Este é o título de uma notícia, com esta fotografia inclusa, do suplemento do \"Jornal de Letras\", do dia 16 de Fevereiro de 2005"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "organizaram, no passado dia 17 de Dezembro, um concerto que levou o fado de Coimbra ao público de Hong Kong."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "O grupo de fados e guitarras \"Presença Coimbrã\" actuou na conceituada sala Fung Ping Shan Gallery do Museu da Universidade de Hong Kong. A \"lição coimbrã\" foi interpretada a cinco vozes, acompanhadas por três guitarras e três violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com o grupo Presença de Coimbra (Manuel Borralho): são formações diferentes, segundo as fontes."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressão a Macau em 2004, com antigos futebolistas da Académica",
+      "data": "2004",
+      "local": "Macau",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Como acompanhantes, estiveram josé Vilela e Nuno Tavares; este, como organizador da digressão. Macau foi o local base do passeio que contou ainda com a comitiva de algumas antigas glórias futebolísticas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-2004.html",
+          "doc": "gc-i:111996719553023085",
+          "citacao": "Grupo \"Presença Coimbrã\" em Macau, 2004.\n\nNa foto estão: Nuno Tavares, Carlos Caiado, José Ferreira, Manuel Mora, Octávio Sérgio, Sobral Torres e Custódio Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "participantes: Custódio Moreirinhas e Carlos Caiado (violas), Manuel Mora e Octávio Sérgio (guitarras), Ricardo Dias, Luís Ferreirinha; cantores José Mesquita, Paulo Amador, Sobral Torres, João Pinheiro e José Andrade Ferreira; Nuno Tavares organizou a digressão",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Como acompanhantes, estiveram josé Vilela e Nuno Tavares; este, como organizador da digressão. Macau foi o local base do passeio que contou ainda com a comitiva de algumas antigas glórias futebolísticas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Macau%2020042.jpg",
+      "legenda": "Presença Coimbrã em Hong Kong (dezembro de 2004): Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha; de pé, José Mesquita e Paulo Amador.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Foto%20Macau%202004%20Parte%20do%20Grupo%20a%20actuar%20em%20Macau%20no%20jantar.jpg",
+      "legenda": "Presença Coimbrã em Macau (2004): Custódio Moreirinhas e Carlos Caiado (violas), Manuel Mora e Octávio Sérgio (guitarras), Paulo Amador a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

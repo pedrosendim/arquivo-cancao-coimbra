@@ -1,0 +1,127 @@
+{
+  "id": "manasses-de-lacerda-zonophone-x-52063",
+  "titulo": "Fado Maria",
+  "formato": "disco de massa",
+  "editora": "Zonophone",
+  "referencia": "X-52063",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Maria (Maria tu és na terra)",
+      "obra": "",
+      "media": [
+        "manasses-fado-maria-zonophone-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCzf8vQct6371gOoww1Og30ovAhOzM-pMMEJ3ockclzxVjvIW4tJnOKvdgv3V1NCmfGgALhDtdrjkvl3LXkmLLIYBGN250sHgaVYgZcNc6WO8C5DKPCFvCE6QL3fXVpTLufFLV4jt0T6QM/s1600/Manass%25C3%25A9s+de+Lacerda+Fado+Maria+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+        "doc": "gc-v:1945448219212296869",
+        "citacao": "Disco de massa FADO MARIA cantado pelo Senhor Manassés de Lacerda."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Matriz Zonophone X-52063, gravada no Porto pelo ano de 1905, com piano, sem microfone",
+      "data": "1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+          "doc": "gc-i:116133516475734995",
+          "citacao": "\"Fado Maria, cantado pelo Senhor Manassés de Lacerda\", tenor, na matriz Zonophone X-52063, foi gravado pelo ano de 1905."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+          "doc": "gc-i:116133516475734995",
+          "citacao": "A gravação, acompanhada ao piano, foi protagonizada pelo próprio autor, o tenor Manassés de Lacerda, na cidade do Porto."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/935/manasses_de_lacerda_fado_maria",
+          "doc": "museu-do-fado:wad7f843e64f05ab1",
+          "citacao": "Fado Maria Manassés de Lacerda Editora: Zo. 52063"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disque Zonophone X-52062, Porto, sem data [ca. 1905], com piano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "Disco de massa FADO MARIA cantado pelo Senhor Manassés de Lacerda. Porto: Disque Zonophone X - 52062, s/d. [ca. 1905]. Com acompanhamento de piano."
+        }
+      ],
+      "conflito": true,
+      "nota": "Número diferente (X-52062) do indicado no post de 2006 e no Museu do Fado (X-52063)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Matriz primitiva do «Fado Maria», vulgarmente conhecido como «Fado Manassés»; com pequenas diferenças, a música do «Fado Monte Estoril» (1901) de Reynaldo Varella",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+          "doc": "gc-i:116133516475734995",
+          "citacao": "Rosto do disco de 78 rpm contendo a matriz sonora primitiva do FADO MARIA (Maria tu és na terra), vulgarmente conhecido pelo título de \"Fado Manassés\" (Trago comigo um pecado)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "Trata-se, com pequenas diferenças, da mesma música do FADO MONTE ESTORIL (1901), de Reynaldo Varella"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+      "doc": "gc-i:116133516475734995",
+      "citacao": "\"Fado Maria, cantado pelo Senhor Manassés de Lacerda\", tenor, na matriz Zonophone X-52063, foi gravado pelo ano de 1905."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+      "doc": "gc-v:1945448219212296869",
+      "citacao": "Disco de massa FADO MARIA cantado pelo Senhor Manassés de Lacerda."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/935/manasses_de_lacerda_fado_maria",
+      "doc": "museu-do-fado:wad7f843e64f05ab1",
+      "citacao": "Fado Maria Manassés de Lacerda Editora: Zo. 52063"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

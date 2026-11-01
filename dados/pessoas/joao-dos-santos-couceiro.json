@@ -1,0 +1,193 @@
+{
+  "id": "joao-dos-santos-couceiro",
+  "tipo": "pessoa",
+  "nome": "João dos Santos Couceiro",
+  "nomes_alternativos": [
+    "João Couceiro",
+    "J. dos Santos Couceiro"
+  ],
+  "papeis": [
+    "luthier",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "JOÃO DOS SANTOS COUCEIRO, nasceu em Coimbra no dia 29.03.1850 e suicidou-se no Rio de Janeiro a 3.04.1905."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Mestre de violaria em Coimbra e no Rio de Janeiro (1871 e ss.), professor de música e primoroso executante de viola de arame, rabeca e bandolim."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Antes de emigrar, participou na exposição industrial de Coimbra de 1869 com uma viola francesa de seis ordens e uma viola de arame [toeira], instrumentos muito aprimorados"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Emigrado para o Brasil em 1871, João dos Santos Couceiro estabeleceu-se como construtor de instrumentos musicais na rua Carioca, tendo casado com Eduarda Augusta Andrade."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Em Portugal, o sr. Couceiro apenas havia feito violas, violões e guitarras"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 29 de março de 1850",
+      "data": "1850-03-29",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "nasceu em Coimbra no dia 29.03.1850"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Rio de Janeiro, 3 de abril de 1905 (suicídio)",
+      "data": "1905-04-03",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "suicidou-se no Rio de Janeiro a 3.04.1905"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de prata na exposição distrital de Coimbra de 1869, por uma viola portuguesa e outra francesa",
+      "data": "1869",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "tendo sido premiado com a medalha de prata na exposição districtal de Coimbra, em 1869, por uma viola portugueza e outra franceza que havia construido e alli expoz."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, n.º 5989, 22.04.1905 (transcrição de Adamo Caetano no post)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Rio de Janeiro, a partir de 1871 (oficina na rua Carioca)",
+      "data": "1871",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Emigrado para o Brasil em 1871, João dos Santos Couceiro estabeleceu-se como construtor de instrumentos musicais na rua Carioca"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Estabelecimento de instrumentos de corda «Rabeca de Ouro», no Rio de Janeiro",
+      "data": "",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "estabelecimento denominado - Rabeca d'ouro - em optimas condições"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémios na Exposição Universal de Paris de 1889 (como representante do Brasil)",
+      "data": "1889",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/joo-dos-santos-couceiro.html",
+          "doc": "gc-i:114771467737655572",
+          "citacao": "com duas referências a Couceiro (como representante do Brasil!), que confirmam os prémios que obteve nessa exposição."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Um dos filhos de Couceiro, João, vem sumariamente mapeado como construtor estabelecido no Rio de Janeiro."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Entre cerca 1844-1845 e 1885 foi dirigida pelo mestre Couceiro, que nela deu formação aos seus filhos João e Joaquim."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenia-rita",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os filhos do casal António e Eugénia que conhecemos são os que foram registados nos assentos paroquiais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "2-JOÃO DOS SANTOS COUCEIRO, nasceu em Coimbra no dia 29.03.1850"
+        }
+      ],
+      "nota": "O post regista também um primeiro João dos Santos Couceiro, nascido a 13.04.1848, que terá falecido em tenra idade."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "rui-borralho",
+  "tipo": "pessoa",
+  "nome": "Rui Borralho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Viola no EP Fado Corrido de Coimbra de António Bernardino (Ofir AM 4.101)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+          "doc": "gc-i:113872260824886914",
+          "citacao": "acompanhado à guitarra por Nuno Guimarães e Manuel Borralho e, à viola, por Jorge Rino e Rui Borralho: EP “António Bernardino. Fado Corrido de Coimbra”, Porto, Ofir, AM 4.101), ano de 1967."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-borralho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Iniciou-se na viola de cordas de nylon, conjuntamente com seu irmão Rui Borralho"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "tendo tocado com seus irmãos José Borralho (gC), e Rui Borralho (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "o grupo inicial constituído com seus irmãos José e Rui Borralho"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsgBW_pKdeqWJX1EpeuPrpJQQdZsi77mj8zxUMk_4AbFIiVnuK-GZwpzjjAj82Nn52Dmvj8EyUKFB4wvYIMEKL45KZgs9jbktAYXTGM6Dg2jFmP0mcUpvzrYTakbfXyf-DhJ_Ongj7EcI/s1600/Guimaraes_3.jpg",
+      "legenda": "Cartão de sócio de Rui Borralho (Tuna Académica da Universidade de Coimbra), com fotografia. Pesquisa e digitalização: Adamo Caetano, José Nascimento e António Nascimento",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/estrelas-na-galaxia-sonora-coimbra-o_27.html",
+          "doc": "gc-v:8767370553587102018",
+          "citacao": "Cartão de sócio de Rui Borralho."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

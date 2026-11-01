@@ -1,0 +1,127 @@
+{
+  "id": "antonio-bernardino",
+  "tipo": "pessoa",
+  "nome": "António Bernardino",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1941",
+      "data": "1941",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "António Bernardino (1941-1996)"
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "António Bernardino (1941-1996)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (BMC, 2025)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1996",
+      "data": "1996",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "António Bernardino (1941-1996)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Voz das composições de Nuno Guimarães (ciclo de 1965-1968, segundo Jorge Cravo)",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Ao Ciclo dos Melos, seguiu-se o Ciclo Nuno Guimarães, guitarrista, compositor e poeta, que desenvolveu uma temática musical e textual original, gravada nas vozes de António Bernardino (1941-1996), José Manuel dos Santos (1943-1989) e Mário Soares da Veiga (n. 1945)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O mesmo texto situa o Ciclo Nuno Guimarães «entre 1965 e 1968»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Flores para Coimbra» (1969), com poesia de Manuel Alegre e um poema de Orlando de Carvalho",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "António Bernardino reaparece num disco de grande importância no decorrer da Crise Académica de 1969 – o LP “Flores para Coimbra” (1969) – com poesia de Manuel Alegre e um belo poema de autoria do lente de Direito, Orlando de Carvalho (1926-2000)."
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "e de António Bernardino (1941-1996) – com o LP “Flores para Coimbra” (1969)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e BMC (2025), que o liga ao «Movimento das Trovas»."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna)"
+        }
+      ],
+      "nota": "voz; serenata na Sé do Funchal, 30 de dezembro de 1968"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "nota": "cantor"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRv1-MJETrWqZQbUTlRqf2rOWDI4Dq_HW3SQ1xD-VF9M18IO6JwwwWHUNtOrZxoV_gPQ9KfTGXWjb_GI3kh4xRFoRL7VuzjZ04i0ZzXpqygDPriKw11qAEVxh9px46ceY7ygp/s1600-h/Antonio+Bernardino+Foto.jpg",
+      "legenda": "António Bernardino (Berna), no post que assinalou os 11 anos da sua morte.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-bernardino.html",
+          "doc": "gc-i:3188315035109185754",
+          "citacao": "Faz hoje 11 anos que morreu António Bernardino (Berna)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

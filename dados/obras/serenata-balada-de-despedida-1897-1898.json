@@ -1,0 +1,101 @@
+{
+  "id": "serenata-balada-de-despedida-1897-1898",
+  "titulo": "Serenata-Ballada de Despedida do V Anno Theologico-Juridico de 1897-1898",
+  "titulos_alternativos": [
+    "Corações novos, almas em flor",
+    "Balada da Despedida do 5.º Ano Jurídico de 1898"
+  ],
+  "genero": "balada",
+  "musica": [
+    "manuel-mansilha"
+  ],
+  "letra": [],
+  "ano": "1898",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música de Manuel Mansilha, letra de Manuel Dias Gonçalves Cerejeira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "SERENATA-BALLADA DE DESPEDIDA DO V ANNO THEOLOGICO-JURIDICO DE 1897-1898 (Corações novos, almas em flor), música de Manuel Mansilha, letra de Manuel Dias Gonçalves Cerejeira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Partitura impressa: Coimbra, Typ. Minerva Central, 1898; capa ilustrada por Nicolau Rijo Micalef Pace",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Coimbra: Typ. Minerva Central, 1898"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Ilustração da capa da partitura de Nicolau R[ijo] M[icalef] P[ace], ao tempo, segundanista da Faculdade de Teologia."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Récita «Os Bohemios», Teatro Príncipe Real (Coimbra), 26 de março de 1898",
+      "data": "1898-03-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "tendo sido estreada no palco do Teatro Príncipe Real (=Avenida) na noite de 26.03.1898."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "A peça tinha por título Os Bohemios."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Nunca gravada em disco, que se saiba",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "Que seja do nosso conhecimento, nenhuma das três baladas aqui referidas foi gravada em disco."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+      "doc": "gc-v:1295561237294318930",
+      "citacao": "A peça tinha por título Os Bohemios."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+      "doc": "gc-v:8578484018831533897",
+      "citacao": "Coimbra: Typ. Minerva Central, 1898"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

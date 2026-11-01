@@ -1,0 +1,83 @@
+{
+  "id": "grupo-torre-d-anto",
+  "tipo": "grupo",
+  "nome": "Grupo de Fados e Guitarradas Torre d'Anto",
+  "nomes_alternativos": [
+    "Grupo Torre d'Anto",
+    "Torre d'Anto"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html",
+      "doc": "gc-v:3520864908274944871",
+      "citacao": "É fundador do Grupo de Fados e Guitarradas \"Torre d'Anto\" e colaborou com\no Grupo \"Toada Coimbrã\""
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+      "doc": "gc-iv:8172468701112544794",
+      "citacao": "Ainda estudante, funda dois grupos de fados, o Grupo Académico de Fados e o Grupo Torre d’Anto, para além de colaborar com o “Toada Coimbrã”, com o qual se estreia na Sé Velha, numa Serenata Monumental da Queima das Fitas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado pelo cantor Paulo Saraiva (1964-2012), ainda estudante",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html",
+          "doc": "gc-v:3520864908274944871",
+          "citacao": "É fundador do Grupo de Fados e Guitarradas \"Torre d'Anto\" e colaborou com\no Grupo \"Toada Coimbrã\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "Ainda estudante, funda dois grupos de fados, o Grupo Académico de Fados e o Grupo Torre d’Anto, para além de colaborar com o “Toada Coimbrã”, com o qual se estreia na Sé Velha, numa Serenata Monumental da Queima das Fitas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Jorge Gomes esteve na génese do grupo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/joao-duarte-de-oliveira-e-paulo-saraiva.html",
+          "doc": "gc-v:5651454803161333981",
+          "citacao": "esteve na génese do grupo académico de fados de Coimbra, do grupo Torre d’Anto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "programa municipal de serenatas de verão: Pátio da Inquisição, Coimbra, 29 de agosto de 2009, «Torre d'Anto»",
+      "data": "2009-08-29",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "Dia 29, Sábado Pátio da Inquisição\n\nTorre d’Anto"
+        }
+      ],
+      "conflito": false,
+      "nota": "O programa não identifica os elementos; não se pode confirmar que seja a mesma formação fundada por Paulo Saraiva. Também não confundir com a «Tertúlia Académica Torre d'Anto» nem com o Grupo de Fado d'Anto da Secção de Fado da AAC (2019/2020)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "Não confundir com o Grupo de Fado d'Anto, da Secção de Fado da AAC, formado em 2020: são grupos diferentes, sem relação entre si, segundo o editor do arquivo (29-10-2026)."
+}

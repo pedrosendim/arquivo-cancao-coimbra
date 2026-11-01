@@ -1,0 +1,57 @@
+{
+  "id": "aquela-moca-da-aldeia",
+  "titulo": "Aquela Moça da Aldeia",
+  "titulos_alternativos": [
+    "Aquela moça de aldeia",
+    "Fado da Sé Velha"
+  ],
+  "genero": "fado",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "= Fado da Sé Velha, de Francisco Paulo Menano; título «que nunca existiu»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "AQUELA MOÇA DA ALDEIA (Aquela moça de aldeia) = Fado da Sé Velha, do Dr. Francisco Paulo Menano"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "como é o caso de \"Aquela Moça da Aldeia\" que nunca existiu"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra e música de António Menano",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Aquela Moça de Aldeia\n\nLetra e música de António Menano"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+      "doc": "gc-v:3115598909214321265",
+      "citacao": "AQUELA MOÇA DA ALDEIA (Aquela moça de aldeia) = Fado da Sé Velha, do Dr. Francisco Paulo Menano, indica erradamente António Menano."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

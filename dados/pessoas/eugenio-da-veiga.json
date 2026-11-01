@@ -1,0 +1,116 @@
+{
+  "id": "eugenio-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Eugénio da Veiga",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Ouvir-se-ão, também, quatro composições gravadas, em 1929, de Anthero da Veiga acompanhado à guitarra de bordões por seu filho Eugénio da Veiga."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhou o pai, Anthero da Veiga, em guitarra de bordões nas gravações de 1929",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "quatro composições gravadas, em 1929, de Anthero da Veiga acompanhado à guitarra de bordões por seu filho Eugénio da Veiga."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/fado-melodico-anthero-da-veiga-sound.html",
+          "doc": "gc-iii:142692770349065087",
+          "citacao": "acompanhado por Eugénio da Veiga em guitarra de bordões."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "acompanhado à guitarra de bordões por seu filho Eugénio da Veiga."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Em 1945 foi viver com seu filho Eugénio para Mogofores"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "quatro composições gravadas, em 1929, de Anthero da Veiga acompanhado à guitarra de bordões por seu filho Eugénio da Veiga."
+        }
+      ],
+      "nota": "Guitarra de bordões, gravações de 1929."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "inacia-soares-de-brito",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Era filho do grande guitarrista e compositor de Coimbra, Anthero Alte da Veiga (1866 – 1960) e de sua mulher a Sra. D. Inácia Soares de Brito, nascida no Brasil"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "antonio-madeira-arrais-de-brito",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "em casa dum tio de Eugénio, irmão de sua mãe, aproveitando os ares magníficos das Beiras. Era a casa do tio António Madeira Arrais de Brito."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju4RpYkiYkGx00U31YPFxxZCnpLxXr4eQImq8uhtxejk_y8aJOtdMzp28XV4B2cfIPqCx0l3rUv5hyphenhyphenML_A-ycBGog8GXA0qBojnNxCDqEnaSt06MaTUOaJTn_iHTxG4tPIfu4d7E05NPLx/s1600/AntheroVeiga+e+EugenioVeiga.jpg",
+      "legenda": "Eugénio da Veiga (na fotografia, tocando à esquerda de seu pai, Anthero Alte da Veiga).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "EUGÉNIO de Brito ALTE da VEIGA (na fotografia, tocando à esquerda de seu pai, Anthero Alte da Veiga)"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

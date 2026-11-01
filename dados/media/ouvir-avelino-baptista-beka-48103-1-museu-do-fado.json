@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-48103-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2175_49.mp3",
+  "titulo": "Balada do Mondego — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-48103",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4127.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4276/avelino_baptista_balada_do_mondego",
+      "doc": "museu-do-fado:w7aff8082bfac5d09",
+      "citacao": "Título: Balada do Mondego ... Editora: Beka 48103 48104 Referências: Beka-Grand-Record, 48103; 48103"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

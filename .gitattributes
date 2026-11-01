@@ -1,0 +1,4 @@
+# Tudo com fins de linha LF, como os scripts escrevem (também no Windows)
+* text=auto eol=lf
+*.png binary
+*.jpg binary

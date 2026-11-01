@@ -1,0 +1,27 @@
+{
+  "id": "eduarda-augusta-andrade",
+  "tipo": "pessoa",
+  "nome": "Eduarda Augusta Andrade",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joao-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Emigrado para o Brasil em 1871, João dos Santos Couceiro estabeleceu-se como construtor de instrumentos musicais na rua Carioca, tendo casado com Eduarda Augusta Andrade."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

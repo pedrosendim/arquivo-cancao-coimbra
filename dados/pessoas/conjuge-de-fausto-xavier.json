@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-fausto-xavier",
+  "tipo": "pessoa",
+  "nome": "Mulher de Fausto Xavier (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "fausto-xavier",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/correio-dos-leitores.html",
+          "doc": "gc-v:8154628853783990201",
+          "citacao": "Encontrei na sua recolha de conhecimentos o Dr Fausto Xavier. Deixou S. João de Loure onde tinha uma casa solarenga que era dos pais. Logo que se formou casou com uma irmã da minha mãe que era licenciada em farmácia ."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Carta de um leitor (sobrinho da mulher), publicada no «Correio dos leitores» do blogue V (2016); fonte de terceiros. A mesma carta diz «Tem dois filhos licenciados em medicina em Lisboa», sem os nomear."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

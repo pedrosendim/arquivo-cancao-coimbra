@@ -1,0 +1,530 @@
+{
+  "id": "jayme-de-abreu",
+  "tipo": "pessoa",
+  "nome": "Jayme de Abreu",
+  "nomes_alternativos": [
+    "Jaime de Abreu",
+    "Jaime Augusto Ferreira de Abreu",
+    "Jayme Augusto Ferreira de Abreu",
+    "Jayme Peralta",
+    "Jayme da Guitarra",
+    "Jayme Guitarrista",
+    "O Peralta"
+  ],
+  "papeis": [
+    "guitarrista",
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+      "doc": "gc-v:158394177049391851",
+      "citacao": "Jaime Augusto Ferreira de Abreu[1], nasceu em Fornos de Algodres, distrito da Guarda, às seis horas do dia 23 de Abril de 1860, tendo sido baptizado no dia 20 do mês de Maio do mesmo ano[2]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+      "doc": "gc-v:2816623883791002156",
+      "citacao": "Jayme fez em Coimbra o Lyceu (1879-1883), seguindo-se a Faculdade de Direito / UC entre os anos letivos de 1883-1884 e 1887-1888."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+      "doc": "gc-v:6088927314918066978",
+      "citacao": "foi um celebrado serenateiro, cantor de serenatas e fados e executante de bandolim e guitarra (cítara de 12 cordas). Conterrâneo dos irmãos Menano, distinguiu-se em Coimbra entre 1883-1889, como grande boémio, dirigente de uma estudantina que tinha o seu nome, fadista e serenateiro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+      "doc": "gc-v:158394177049391851",
+      "citacao": "Ficou célebre a actuação de Jaime de Abreu e da sua Estudantina, no Sarau que teve lugar no Teatro Académico, em Coimbra, no mês de Janeiro de 1885, a favor das vítimas do terramoto na Andaluzia"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+      "doc": "gc-v:2816623883791002156",
+      "citacao": "O seu perfil boémio viria a ser mimetizado e capitalizado pelo debutante Augusto Hylario, jovem viseense com quem certamente se cruzou entre 1886-1889."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+      "doc": "gc-v:2816623883791002156",
+      "citacao": "Profissionalmente Jayme trabalhou em Fornos de Algodres como subdelegado do Procurador Régio (Ministério Público), tendo exercido funções na administração local e regional. Nesta última condição, trabalhou em Castelo Branco, na Figueira da Foz e entre 1905-1914 no Governo Civil do Distrito de Viana do Castelo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+      "doc": "gc-v:2816623883791002156",
+      "citacao": "Contava o futuro ator Almeida Cruz que tinha sido Jayme a ensinar-lhe a cantar no estilo de Coimbra, acompanhando-o à guitarra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Sobrinha-neta: D. Maria de Lourdes de Almeida Castilho de Abreu Cortez Marques, que representou a família na doação de 2024",
+      "data": "2024-04-06",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "representada pela sobrinha-neta do cantor e guitarrista, D. Maria de Lourdes de Almeida Castilho de Abreu Cortez Marques"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Sobrinha-neta» não tem tipo de relação próprio."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Jaime Augusto Ferreira de Abreu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "JAIME Augusto Ferreira de ABREU (1860 – 1914). Guitarrista, cantor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Fornos de Algodres, 23 de abril de 1860 (batizado a 20 de maio)",
+      "data": "1860-04-23",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Jaime Augusto Ferreira de Abreu[1], nasceu em Fornos de Algodres, distrito da Guarda, às seis horas do dia 23 de Abril de 1860"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/01/passam-110-anos-sobre-o-falecimento-de.html",
+          "doc": "gc-v:2062997018495573453",
+          "citacao": "Jayme de Abreu (Fornos de Algodres, 23.04.1860 - Viana do Castelo, 24.02.1914)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/mais-um-retrato-de-jayme-de-abreu.html",
+          "doc": "gc-v:7489794752723373337",
+          "citacao": "(Fornos de Algodres, 23.04.1860 - Viana do Castelo, 24.02.1914)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Jayme de Abreu (1860 - 1945)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Registo de Baptismo n.º 16/1860, fls. 6v e 7, freguesia de Fornos de Algodres (citado no post de 2014)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1858",
+      "data": "1858",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Jaime de Abreu (1858 - 1945)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Fornos de Algodres (comprovado)",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "A naturalidade de Jaime de Abreu está de forma comprovada, esclarecida que era a vila de Fornos de Algodres."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "«um tal de Niza», segundo nota de Trindade Coelho em «In Illo Tempore»; José Niza (1999) ainda duvidava entre Fornos de Algodres e Nisa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Era o Jaime guitarrista, um tal de Niza, que tocava guitarra na perfeição"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Ficamos sem saber se Jayme era natural de Fornos de Algodres, terra de António Menano, ou de Nisa, no distrito de Portalegre"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 considera estranha esta falha de Trindade Coelho."
+    },
+    {
+      "campo": "morte",
+      "valor": "Viana do Castelo, 24 de fevereiro de 1914, sendo Secretário do Governo Civil",
+      "data": "1914-02-24",
+      "local": "Viana do Castelo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/01/passam-110-anos-sobre-o-falecimento-de.html",
+          "doc": "gc-v:2062997018495573453",
+          "citacao": "Viana do Castelo, 24.02.1914"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Encontravam-se na casa de habitação do cantor-guitarrista à data da sua morte em Viana do Castelo, a 24.02.1914."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Faleceu em Viana do Castelo em Fevereiro de 1914, ainda com 53 anos, quando ainda era Secretário do Governo Civil da cidade de Viana do Castelo."
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia do óbito no jornal Aurora do Lima, 25.02.1914 (post de fevereiro de 2020). Em abril de 2014 faltava ainda apurar o dia."
+    },
+    {
+      "campo": "morte",
+      "valor": "1945",
+      "data": "1945",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Jaime de Abreu (1858 - 1945)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Jayme de Abreu (1860 - 1945)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Coimbra (1879-1883); Faculdade de Direito da UC (1883-1884 a 1887-1888), curso concluído em 1888",
+      "data": "1888",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Jayme fez em Coimbra o Lyceu (1879-1883), seguindo-se a Faculdade de Direito / UC entre os anos letivos de 1883-1884 e 1887-1888."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "tendo acabado o curso de Direito no ano de 1888"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Concluído o curso de Direito em 1888"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formado em 1889; saiu de Coimbra em dezembro de 1890",
+      "data": "1889",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Formado em 1889, Jaime de Abreu saiu de Coimbra em Dezembro de 1890, deixando espaço aberto a Hilário."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Data da formatura: 28.06.1888 nos livros de registos dos graus da UC; 28.05.1888 segundo o jornal Aurora do Lima",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/noticia-do-obito-de-jayme-de-abreu-na.html",
+          "doc": "gc-v:6879701159484912329",
+          "citacao": "Há discrepância entre a data de formatura na FD/UC apontada pelo jornal (28.05.1888) e os livros de registos dos graus da UC (28.06.1888)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Orfeonista do Orfeon Académico (regência de João Marcelino Arroyo, 1880-1881)",
+      "data": "1880",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Pertenceu ao Orfeon Académico da regência de João Marcelino Arroyo em 1880-1881."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundou, ensaiou e dirigiu estudantinas; cantor solista e executante de bandolim e de cítara lusitana",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Admite-se que tenha aprendido música suficiente na sua terra natal, uma vez que em Coimbra se distinguiu como cantor solista (admissivelmente tenor), executante de bandolim e de cítara lusitana."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Fundou, ensaiou e dirigiu estudantinas / guitarradas de existência efémera. Foi um boémio-serenateiro de grande nomeada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sarau da sua Estudantina no Teatro Académico, janeiro de 1885, a favor das vítimas do terramoto da Andaluzia",
+      "data": "1885-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Ficou célebre a actuação de Jaime de Abreu e da sua Estudantina, no Sarau que teve lugar no Teatro Académico, em Coimbra, no mês de Janeiro de 1885"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Administrador do concelho da Figueira da Foz (1889); Secretário do Governo Civil de Viana do Castelo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "Terminado o curso de Direito, o Dr. Jaime de Abreu, foi administrador de concelho em Figueira da Foz em 1889, tendo vindo a falecer em 1914 quando era Secretário do Governo Civil de Viana do Castelo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Nas fotografias mais antigas, guitarrilha de pequenas dimensões (perdida); em 1910 comprou a sua última cítara lusitana a Roberto Joaquim da Rocha (Viana do Castelo), doada pela família ao Museu Académico de Coimbra em 6 de abril de 2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Nas fotografias mais antigas que chegaram ao nosso conhecimento, Jayme fez-se representar com uma guitarrilha de pequenas dimensões (ca. 42cm de corda vibrante)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Em 1910 Jayme comprou a sua última cítara lusitana num construtor de Viana do Castelo, Roberto Joaquim da Rocha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Os objetos doados pela família de Jayme de Abreu destinam-se a incorporação no Museu Académico de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Hipótese não confirmada: discos de massa Gramophone gravados em Lisboa em 1903 por um «Peralta»",
+      "data": "1903",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Sem provas concretas, e nunca tendo visto nem ouvido qualquer disco, suspeitamos que Jaime de Abreu, conhecido em Coimbra como O Peralta, possa ter gravado discos de massa de uma só face em Lisboa no ano de 1903 para editora Gramophone."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post lista uma série de discos Gramophone 62758 a 62777 do intérprete «Peralta»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Pista não confirmada: em 1903 um «Peralta» gravou em Paris vários discos de massa com melodias relacionadas com Coimbra",
+      "data": "1903",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Em 1903 um Peralta gravou em Paris vários discos de massa e nesses discos constam algumas melodias relacionadas com Coimbra. As etiquetas dos discos que vimos e ouvimos não adiantam informação que nos permita afirmar que o cantor Peralta era Jayme de Abreu"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Não se conhece nenhuma composição associada ao seu nome",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Até ao presente não se localizou nenhuma composição associada ao nome de Jayme de Abreu."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casado com D. Júlia A. d'Abreu, professora primária; sem descendência",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "O Dr. Jaime de Abreu foi casado com a Sra. D. Júlia A, d’Abreu[8], professora primária em Capareiros, Viana do Castelo, e não deixou descendência."
+        }
+      ],
+      "conflito": true,
+      "nota": "O próprio post indica que estes dados, do Geneall, necessitam de confirmação."
+    },
+    {
+      "campo": "outro",
+      "valor": "Faleceu solteiro e sem filhos legítimos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Jayme faleceu solteiro e sem filhos legítimos."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-hilario",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Em Coimbra ainda chegou a acompanhar o debutante Augusto Hylario que lhe copiou tiques e estilo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-de-almeida-cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Na Figueira ensinou a arte e acompanhou na primeira metade da década de 1890 o jovem ator e cantor Almeida Cruz"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Contava o futuro ator Almeida Cruz que tinha sido Jayme a ensinar-lhe a cantar no estilo de Coimbra, acompanhando-o à guitarra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Em convívios na Figueira da Foz, contando uns tenros nove anos, foi acompanhado pelo afamado antigo estudante da Faculdade de Direito da Universidade de Coimbra, guitarrista e cantor Jaime Augusto Ferreira de Abreu (1860-1914)"
+        }
+      ],
+      "nota": "Figueira da Foz, década de 1890."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj04-9i2GDbrCS5Nf7lmf7Z1VAws77k1wTnxIG2_leRhI5b-jRaEScxc8ztXlHUj4oRCikgOPGbBW75ubMBNmF0ce6piK_FfXZMe8OJ18rTEhs9GToTCEhwC2uxKUedDFig6yIDbOZx4Gc/s1600/jaime_augusto_ferreira_d_abreu_guitarrista_direito_1879_f.jpg",
+      "legenda": "Retrato de meio busto com guitarra do tipo portuense, datado de 1879 (acervo de Alexandre Ramires)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "Retrato de meio busto com guitarra do tipo portuense, de oficina desconhecida (Porto?, Coimbra?), datado de 1879, estando o retratado a frequentar o Lyceu de Coimbra, ao que tudo indica."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjXopTfH4hP6RMi29MZn_3eHVi7sZA7YambR0XnO_gsnZZreEmxfqbwcqaTyV_vWDKoMsE00CoGrr_KwMGS-6gJNPpQEpYHgH_WJDNX7Ufi02od-lXWTy4fmOTiJnpJRimefQTbTo7K3PVft3l2D1vmoYI_7S57sveIFJw55cCTuTD8BQ0U1nb975-Z=w384-h640",
+      "legenda": "Retrato de meio busto em capa e batina, com pasta de quintanista; cliché de Adriano da Silva & Sousa, Coimbra, 1888",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/mais-um-retrato-de-jayme-de-abreu.html",
+          "doc": "gc-v:7489794752723373337",
+          "citacao": "Retrato de meio busto do mítico estudante de Direito, guitarrista e cantor JAYME AUGUSTO FERREIRA DE ABREU (Fornos de Algodres, 23.04.1860 - Viana do Castelo, 24.02.1914), cliché de Adriano da Silva & Sousa, Coimbra, datado no verso de 02.08.1888."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Jaime de Abreu (Manuel Marques Inácio, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html"
+    },
+    {
+      "rotulo": "Terá Jayme de Abreu gravado discos? (2019)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html"
+    },
+    {
+      "rotulo": "Sobre a última guitarra de Jayme de Abreu (2024)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

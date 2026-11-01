@@ -1,0 +1,86 @@
+{
+  "id": "maria-de-lurdes-pessoa-eliseu-lopes",
+  "tipo": "pessoa",
+  "nome": "Maria de Lurdes Pessoa Eliseu Lopes",
+  "nomes_alternativos": [
+    "Lurdes"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Uma das cantoras do Rancho [das Tricanas] de Coimbra (1940)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Maria de Lurdes Pessoa Eliseu Lopes, filha de José das Neves Elyseu, casada com José de Sousa Lopes, uma das cantoras do rancho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "teve 6 filhos dos quais apenas um rapaz, Manuel Eliseu. Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "Irmã ou meia-irmã: a fonte não diz qual das filhas é a mais velha. Identificação com a «Lurdes» da lista feita na relação filho_de."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Maria de Lurdes Pessoa Eliseu Lopes, filha de José das Neves Elyseu"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "as feições são as de seu pai José Elyseu"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "Identificação com a «Lurdes» da lista das filhas pelo nome."
+    },
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-de-sousa-lopes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Maria de Lurdes Pessoa Eliseu Lopes, filha de José das Neves Elyseu, casada com José de Sousa Lopes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "luis-placido",
+  "tipo": "pessoa",
+  "nome": "Luís Plácido",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Note-se que no referido disco actuaram: Guitarra: Francisco de Vasconcelos, António Serrano Baptista e Luís Plácido."
+        }
+      ],
+      "nota": "guitarra (disco de 1991)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY7mlmxkOAI1j_W91X65EXp0pMUlp-Y9x7gRXjypnMp8RnOyUCLU6W6_9J26f7O0mmGtbbWK31tARv7sdHBdS1dY9H8QJBq7uBYiYVUrApewX4vDVq39laLhXRtl4cgHbNUU9Nhi1lbfo/s972/139724869_3419009648207827_6129509842221508960_o.jpg",
+      "legenda": "Caricatura (desenho), Livro de fitados de Direito, Coimbra, 1967, publicada na notícia do falecimento de Luís Plácido — não é fotografia",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/noticia-do-falecimento-de-luis-placido.html",
+          "doc": "gc-v:5756802327070348260",
+          "citacao": "Chega-nos a notícia do falecimento do jurista e guitarrista Dr. Luís Plácido ... Caricatura, Livro de fitados de Direito, Coimbra, 1967"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

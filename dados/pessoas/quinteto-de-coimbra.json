@@ -1,0 +1,140 @@
+{
+  "id": "quinteto-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Quinteto de Coimbra",
+  "nomes_alternativos": [],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+      "doc": "gc-i:111168647604498715",
+      "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+      "doc": "gc-i:111168647604498715",
+      "citacao": "Disco com alguns inéditos, o que é sempre de louvar. As vozes ouvem-se com muito agrado e a guitarra de Ricardo Dias mostra muita personalidade. Paredes, Brojo e Melo, bem interpretados. O disco acaba com o instrumental \"Homenagem\", do próprio Ricardo Dias."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/cristina-branco-e-o-quinteto-de-coimbra.html",
+      "doc": "gc-i:3758214216366059523",
+      "citacao": "Cristina Branco e o Quinteto de Coimbra na Quinta das Lágrimas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "CD Quinteto de Coimbra. Guitarra e Canção de Coimbra, Coimbra, Edição Quinteto de Coimbra/Casa de Fados, Lda., 2001",
+      "data": "2001",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "CD “Quinteto de Coimbra. Guitarra e Canção de Coimbra”, Coimbra, Edição Quinteto de Coimbra/Casa de Fados, Lda., ano de 2001"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD Guitarra E Canção De Coimbra, HM Música, 2001 (Discogs)",
+      "data": "2001",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/1841652",
+          "doc": "discogs:w875f8b5a7da4151a",
+          "citacao": "2001 · Guitarra E Canção De Coimbra · HM Música · CD, Album"
+        }
+      ],
+      "conflito": true,
+      "nota": "Editora diferente da indicada no blogue; o Discogs junta este CD ao artista do Coimbra Quintet dos anos 50."
+    },
+    {
+      "campo": "outro",
+      "valor": "formação: Ricardo Dias (guitarra), Nuno Botelho e Pedro Lopes (violas), Patrick Mendes e António Ataíde (vozes)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuação na FNAC (Diário de Coimbra, 2 de setembro de 2006)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/quinteto-de-coimbra-logo-na-fnac.html",
+          "doc": "gc-i:115722403811196296",
+          "citacao": "Quinteto de Coimbra, logo, na FNAC. Notícia do Diário de Coimbra de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "com a Região de Turismo do Centro, no restaurante «O Porquinho» (Diário as Beiras, 2007)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/o-quinteto-de-coimbra-com-regio-de.html",
+          "doc": "gc-i:6715168534206571573",
+          "citacao": "O Quinteto de Coimbra com a Região de Turismo do Centro. Foi no restaurante \"O Porquinho\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "com Cristina Branco na Quinta das Lágrimas (Diário as Beiras, 2007)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/cristina-branco-e-o-quinteto-de-coimbra.html",
+          "doc": "gc-i:3758214216366059523",
+          "citacao": "Cristina Branco e o Quinteto de Coimbra na Quinta das Lágrimas. Diário as Beiras de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Quinteto de Coimbra - Ricardo Dias.jpg",
+      "legenda": "Disco «Quinteto de Coimbra - Guitarra e Canção de Coimbra».",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "valsa-em-mi-menor-pedro-caldeira-cabral",
+  "titulo": "Valsa em Mi menor",
+  "titulos_alternativos": [],
+  "genero": "outro",
+  "musica": [
+    "pedro-caldeira-cabral"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Partitura publicada no blogue GC-I (2006), em sons reais (cordas, da mais fina: Lá, Sol, Ré, Lá, Sol, Dó)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/valsa-em-mi-menor.html",
+          "doc": "gc-i:115171156916937540",
+          "citacao": "Partitura de Valsa em Mi menor de Pedro Caldeira Cabral. Peça de muito bom efeito e bem construída. As notas representam sons reais, o que equivale a dizer que as cordas da guitarra são, a partir das mais finas, Lá, Sol, Ré, Lá, Sol, Dó."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/valsa-em-mi-menor.html",
+      "doc": "gc-i:115171156916937540",
+      "citacao": "Partitura de Valsa em Mi menor de Pedro Caldeira Cabral."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "\"Valsa em Mi Menor\""
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

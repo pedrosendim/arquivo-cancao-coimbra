@@ -1,0 +1,41 @@
+{
+  "id": "joao-pedro-monteiro",
+  "tipo": "pessoa",
+  "nome": "João Pedro Monteiro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Aeminium” – João Nuno Farinha a cantar; João Pedro Monteiro e Tiago Cunha à guitarra; Pedro Cunha à viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "Viola - Nuno Botelho\n\nGuitarra - João Pedro Monteiro\n\nVoz - Nuno Farinha\n\nVoz - José Daniel Vieira"
+        }
+      ],
+      "nota": "guitarra; anos 90 a 2009"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "fernando-rolim",
+  "tipo": "pessoa",
+  "nome": "Fernando Rolim",
+  "nomes_alternativos": [
+    "Fernando José Monteiro Rolim"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1931",
+      "data": "1931",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Fernando Rolim (n. 1931)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrado na «Segunda Geração de Oiro» da Canção de Coimbra; o mais fiel à matriz clássica, segundo Jorge Cravo",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Fernando Rolim foi quem mais se manteve fiel à matriz clássica, mas o seu legado discográfico reforça a sua importância nesta geração."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Fez parte daquela que foi designada por “Segunda Geração de Oiro da Canção de Coimbra”, ao lado dos cantores Luiz Goes, José Afonso e Fernando Rolim."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo (revista Fadista n.º 6, 2024) e voto de pesar por Machado Soares (AR, 2014), baseado em texto de Cravo."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Fernando José Monteiro Rolim (n. 1931), primeiro tenor, membro do Orfeon Académico e da TAUC, estudante da FM/UC"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "nota": "primeiro tenor"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte vocal estava a cargo de Fernando Machado Soares (FD/UC, tenor), Fernando Rolim (FM/UC, tenor), José Afonso (FL/UC, 2.º tenor), António Sutil Roque (FM/UC, tenor) e Luiz Goes (FM/UC, barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "nota": "tenor"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Fernando%20Rolim%203.jpg",
+      "legenda": "Fernando Rolim a cantar com o Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio (2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-de-fados-e-guitarras-de-coimbra_09.html",
+          "doc": "gc-i:115241018120486433",
+          "citacao": "Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio. Fernando Rolim foi o último a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

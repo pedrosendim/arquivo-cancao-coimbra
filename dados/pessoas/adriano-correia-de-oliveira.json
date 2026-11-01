@@ -1,0 +1,132 @@
+{
+  "id": "adriano-correia-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "Adriano Correia de Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1942",
+      "data": "1942",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "o Movimento das Trovas (com Adriano Correia de Oliveira [1942-1982])"
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "Adriano Correia de Oliveira (1942-1982)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (Biblioteca Municipal de Coimbra, 2025)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1982",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "o Movimento das Trovas (com Adriano Correia de Oliveira [1942-1982])"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Principal «cantor de serviço» do Canto de Resistência na Academia de Coimbra nos anos 60 e figura do Movimento das Trovas, segundo Jorge Cravo",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "O Canto de Resistência teve, então, como seu principal “cantor de serviço” na Academia de Coimbra, Adriano Correia de Oliveira – sem esquecer a guitarra de António Portugal (1931-1994); a Trova foi a fórmula revolucionária encontrada pelos estudantes para a difusão de novas mensagens e a poesia de Manuel Alegre (n. 1936) a bonita conjugação da palavra de intervenção social e política com música."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "influenciado_por",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "é com “Menino do Bairro Negro” e “Vampiros”, gravados no EP “Dr. José Afonso em Baladas de Coimbra” (1963) que José Afonso inicia o seu Canto de Resistência a partir da Canção de Coimbra, vindo a influenciar o “Movimento das Trovas” nas vozes de Adriano Correia de Oliveira (1942-1982), ao longo da década de 60"
+        }
+      ],
+      "nota": "Texto de Jorge Cravo («Este mês ouvimos… José Afonso», BMC, 2025): a influência é afirmada sobre o «Movimento das Trovas» «nas vozes de» Adriano. A rever pelo editor."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "nota": "cantor"
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "joaquim-gomes-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Adriano era filho de Joaquim Gomes de Oliveira e de Laura Correia"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "laura-correia",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Adriano era filho de Joaquim Gomes de Oliveira e de Laura Correia"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggaVB1xU30oPWQsnaRYwZpoUQKe1u86IxrGUgyVg6znFgcSnCNd3BLdoLim_5SnmBCWzpsRIw1XYd78oLKoAlBNBBoCdYtwDRG_6tVJqzVvODrRrQIb4diiD-Em_wJzjRfBssXeXMlBJhg/s1600/ACOliveira2.jpg",
+      "legenda": "Adriano Correia de Oliveira (1942 – 1982). Cantor, compositor, violista.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "ADRIANO CORREIA DE OLIVEIRA (1942 – 1982). Cantor, compositor, violista"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

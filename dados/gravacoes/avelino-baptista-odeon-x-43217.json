@@ -1,0 +1,92 @@
+{
+  "id": "avelino-baptista-odeon-x-43217",
+  "titulo": "A Serenata",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 43217 / X 43236",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "A Serenata",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-x-43217-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«A Serenata», por Avelino Baptista — etiqueta: «A Serenata / com acompanhamento de estudantina / Avelino Baptista / Lisboa /  / (disco a 76 voltas)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4328/avelino_baptista_a_serenata",
+          "doc": "museu-do-fado:w74b8cfee579acdb6",
+          "citacao": "Título: A Serenata ... Editora: Odeon X 43217 X 43236 Referências: xO364, MI; X 43217 ... Etiqueta: A Serenata / com acompanhamento de estudantina / Avelino Baptista / Lisboa /  / (disco a 76 voltas)"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wb638214778001dd9, museu-do-fado:wc818886170baf600"
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue refere «A Serenata, gravada por Avelino Baptista» entre composições adaptadas ao estilo conimbricense (o post não indica o número do disco)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4328/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:w74b8cfee579acdb6",
+      "citacao": "Título: A Serenata ... Editora: Odeon X 43217 X 43236 Referências: xO364, MI; X 43217"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3791/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:wb638214778001dd9",
+      "citacao": "Título: A Serenata ... Editora: Odeon X 43217 X 43236 Referências: xO364, MI; X 43217"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3703/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:wc818886170baf600",
+      "citacao": "Título: A Serenata ... Editora: Odeon X 43217 X 43236 Referências: xO364, MI; X 43217"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+      "doc": "gc-v:7480880341728619964",
+      "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

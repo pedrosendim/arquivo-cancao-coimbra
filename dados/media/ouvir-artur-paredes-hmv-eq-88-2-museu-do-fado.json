@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-88-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0684_13.mp3",
+  "titulo": "Variações em Lá Menor — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "variacoes-em-la-menor-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-88",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1362.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1351/artur_paredes_variacoes_em_la_menor",
+      "doc": "museu-do-fado:w77f668ba83337c68",
+      "citacao": "Título: Variações em lá menor ... Editora: Vi.81472, HMV EQ88,"
+    }
+  ],
+  "nota": "O exemplar digitalizado pelo Museu do Fado é da edição Victor 81472 (etiqueta «Gravado na Europa»); a ficha indica também HMV EQ88.",
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "joaquim-dos-santos-couceiro",
+  "tipo": "pessoa",
+  "nome": "Joaquim dos Santos Couceiro",
+  "nomes_alternativos": [
+    "Joaquim dos Sanctos Couceiro"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 14 de maio de 1855",
+      "data": "1855-05-14",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "3-JOAQUIM DOS SANTOS COUCEIRO, nasceu em Coimbra a 14.05.1855."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Mestre de violaria em Coimbra e no Rio de Janeiro; mais tarde ourives",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Mestre de violaria em Coimbra e no Rio de Janeiro."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Viria a abandonar a arte da violaria para se estabelecer como ourives."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os filhos do casal António e Eugénia que conhecemos são os que foram registados nos assentos paroquiais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "3-JOAQUIM DOS SANTOS COUCEIRO, nasceu em Coimbra a 14.05.1855."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenia-rita",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Os filhos do casal António e Eugénia que conhecemos são os que foram registados nos assentos paroquiais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "3-JOAQUIM DOS SANTOS COUCEIRO, nasceu em Coimbra a 14.05.1855."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joao-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ao que se julga após a morte de seu irmão João"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "dirigida pelo mestre Couceiro, que nela deu formação aos seus filhos João e Joaquim"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

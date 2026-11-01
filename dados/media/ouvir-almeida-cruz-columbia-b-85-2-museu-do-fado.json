@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-85-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0298_25.mp3",
+  "titulo": "Fado Triste — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-85",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0596.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/591/almeida_cruz_fado_triste",
+      "doc": "museu-do-fado:w344a6069dea2a673",
+      "citacao": "Título: Fado Triste ... Editora: Co. B-85 Referências: 11862-1-1; B85"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

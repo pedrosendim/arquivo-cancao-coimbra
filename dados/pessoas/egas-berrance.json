@@ -1,0 +1,32 @@
+{
+  "id": "egas-berrance",
+  "tipo": "pessoa",
+  "nome": "Egas Berrance",
+  "nomes_alternativos": [
+    "Egas Berrance Correia de Abreu"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Egas Berrance Correia de Abreu (1926-1997)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/se-velha.html",
+          "doc": "gc-v:3208355360981394791",
+          "citacao": "acompanhado à guitarra por Petrónio Ricciulli (1915-2003) e Egas Berrance Correia de Abreu (1926-1997)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

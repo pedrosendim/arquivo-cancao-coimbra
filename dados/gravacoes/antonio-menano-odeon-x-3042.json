@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-x-3042",
+  "titulo": "Fado Patriótico / Fado dos Namorados",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3042",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Patriótico",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3042-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Namorados",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3042-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Patriótico», por António Menano — etiqueta: «Fado Patriotico / [Ilegível] / Versos de [Ilegível] / António Menano / Acomp. de Orquestra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1156/antonio_menano_fado_patriotico",
+          "doc": "museu-do-fado:wad0a595186e0e3b5",
+          "citacao": "Título: Fado Patriótico ... Editora: Od. X3042 Referências: OG656, R, 3042A; X 3042a ... Etiqueta: Fado Patriotico / [Ilegível] / Versos de [Ilegível] / António Menano / Acomp. de Orquestra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Namorados», por António Menano — etiqueta: «Fado dos namorados / [Ilegível] / António Menano / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1157/antonio_menano_fado_dos_namorados",
+          "doc": "museu-do-fado:wd84ec27841f823dd",
+          "citacao": "Título: Fado dos Namorados ... Editora: Od. X3042, 136.818, EMI261283,EMICD8364452 Referências: OG688, R, 3042B; X 3042b ... Etiqueta: Fado dos namorados / [Ilegível] / António Menano / Acomp. de Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1156/antonio_menano_fado_patriotico",
+      "doc": "museu-do-fado:wad0a595186e0e3b5",
+      "citacao": "Título: Fado Patriótico ... Editora: Od. X3042 Referências: OG656, R, 3042A; X 3042a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1157/antonio_menano_fado_dos_namorados",
+      "doc": "museu-do-fado:wd84ec27841f823dd",
+      "citacao": "Título: Fado dos Namorados ... Editora: Od. X3042, 136.818, EMI261283,EMICD8364452 Referências: OG688, R, 3042B; X 3042b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

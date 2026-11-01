@@ -1,0 +1,498 @@
+{
+  "id": "carlos-paredes",
+  "tipo": "pessoa",
+  "nome": "Carlos Paredes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+      "doc": "gc-v:7731614956364981809",
+      "citacao": "Carlos Paredes nasceu em Coimbra, a 16 de Fevereiro de 1925. Filho de Artur Paredes, empregado bancário[1] e guitarrista, por sua vez também descendente de exímios guitarristas de Coimbra"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+      "doc": "gc-v:7731614956364981809",
+      "citacao": "Em 1934, a família muda-se para Lisboa e Carlos conclui a instrução primária no Jardim-Escola João de Deus, começando também a ter aulas de violino e piano, mas não se adapta aos instrumentos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+      "doc": "gc-v:7731614956364981809",
+      "citacao": "Então, abandona o violino e o piano para se dedicar por inteiro, sob a orientação do pai, à guitarra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+      "doc": "gc-v:7731614956364981809",
+      "citacao": "Com algum nome e carreira atrás de si, Carlos Paredes, edita finalmente, em 1962, o seu primeiro disco a solo, um EP intitulado \"Carlos Paredes\", com chancela da Alvorada[15]."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+      "doc": "gc-iii:5513966222208144572",
+      "citacao": "Carlos Paredes, que nasceu em Coimbra, a 16 de Fevereiro de 1925 e faleceu em Lisboa, a 23 de Julho de 2004, apesar de ter vivido grande parte da sua vida em Lisboa, manteve sempre um grande afecto por Coimbra"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 16 de fevereiro de 1925",
+      "data": "1925-02-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "CARLOS PAREDES nasceu em Coimbra a 16 de Fevereiro de 1925."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Carlos Paredes nasceu em Coimbra, a 16 de Fevereiro de 1925."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "Carlos Paredes, que nasceu em Coimbra, a 16 de Fevereiro de 1925"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 23 de julho de 2004",
+      "data": "2004-07-23",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "Faleceu em Lisboa a 23 de Julho de 2004."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "faleceu em Lisboa, a 23 de Julho de 2004"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Neto de Gonçalo Paredes e sobrinho-neto de Manuel Rodrigues Paredes; família de guitarristas de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Carlos Paredes nasceu em Coimbra em 1925. É filho de Artur Paredes, neto de Gonçalo Paredes e sobrinho-neto de Manuel Rodrigues Paredes, pelo que provém de uma família de destacados guitarristas de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aprende guitarra com o pai aos 4 anos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Carlos aprende a tocar guitarra portuguesa com o pai, com apenas 4 anos[3]"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto-base de 'A Nossa Rádio' (2007); a nota [3] de M. Marques Inácio considera-o um erro (ver facto seguinte)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a tocar guitarra aos 12 anos (entrevista ao JL, 1981)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[3] Trata-se de um erro, significativo, tendo em atenção que o próprio Carlos Paredes, em entrevista a António Duarte, em 1981, jornal JL, que começou a tocar guitarra aos 12 anos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Terá sido o avô Gonçalo a ensiná-lo a colocar os dedos na guitarra (Maria Leonor Nunes, citada por José Niza) — versão refutada pela própria fonte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "referindo um artigo de Maria Leonor Nunes, esta afirma que terá o avô Gonçalo, quem ensinou o neto Carlos a colocar os dedos na guitarra. Só que o avô, deixa o reino dos vivos em 1915, e o neto nasce em 1925!"
+        }
+      ],
+      "conflito": true,
+      "nota": "A fonte cita esta versão apenas para a refutar."
+    },
+    {
+      "campo": "residencia",
+      "valor": "A família muda-se para Lisboa em 1934",
+      "data": "1934",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Em 1934, a família muda-se para Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Passa a acompanhar regularmente o pai como segunda guitarra (1937)",
+      "data": "1937",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1937 ... Carlos Paredes passa a acompanhar regularmente o pai como executante de segunda guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "O ano resulta do cabeçalho da secção da cronologia em que a frase se encontra."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inicia em 1939 colaboração regular no programa do pai na Emissora Nacional",
+      "data": "1939",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Em 1939[5], inicia colaboração regular no programa que o pai fazia na Emissora Nacional."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "As emissões da Emissora Nacional com o pai tiveram lugar dez anos depois (década de 1940)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[5] Trata-se de outro erro. As emissões em causa, tiveram lugar dez anos depois da data apresentada."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "já óbvia para os auditores atentos dos programas dos anos 40 na EN"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações de 1957 a acompanhar o pai, retiradas do mercado a pedido de Artur Paredes",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Se excluirmos as gravações de 1957 em que acompanha o seu pai[12]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[12] Estes fonogramas foram retirados do mercado, a pedido de seu pai, Artur Paredes, insatisfeito com a sua qualidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro disco a solo: EP «Carlos Paredes», Alvorada AEP 60508, 1962, com Fernando Alvim (viola)",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "edita finalmente, em 1962, o seu primeiro disco a solo, um EP intitulado \"Carlos Paredes\", com chancela da Alvorada[15]. Com acompanhamento à viola de Fernando Alvim"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[15] EP, Alvorada, AEP 60508, 1962."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Preso pela PIDE em 1958, 18 meses detido (Aljube e Caxias)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "é preso pela PIDE, acusado de pertencer ao Partido Comunista Português, de que era de facto militante, e expulso da função pública. Durante os 18 meses em que esteve detido, primeiro no Aljube e depois na prisão de Caxias"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Legou em testamento três guitarras (construídas para Artur Paredes pela família Grácio) à cidade de Coimbra; entrega a 17 de dezembro de 2009",
+      "data": "2009-12-17",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "Carlos Paredes, exímio intérprete da guitarra portuguesa, deixou, em testamento, um legado de três das suas guitarras à cidade de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "A cerimónia da doação dos instrumentos realiza-se na próxima quinta-feira (dia 17 de Dezembro), às 17h30, no Museu Municipal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Afonso de Sousa considerado seu padrinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Considerado padrinho de Carlos Paredes, Afonso de Sousa recebe a família Paredes em Leiria para férias de verão com alguma regularidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "Filho do grande mestre da guitarra de Coimbra, Artur Paredes (1899 – 1980)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Filho de Artur Paredes, empregado bancário[1] e guitarrista"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Foi pai do guitarrista maior, intérprete único da guitarra portuguesa, no estilo que desenvolveu, o seu filho e mestre Carlos Paredes (1925 – 2004)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "goncalo-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "neto de Gonçalo Paredes (1860 – 1915) também ele guitarrista e compositor"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "avô do mestre maior da guitarra portuguesa, Carlos Paredes"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Carlos aprende a tocar guitarra portuguesa com o pai"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "«Foi com o meu pai que eu aprendi a tirar da guitarra sons mais violentos, como reacção ao pieguismo langoroso a que geralmente a guitarra portuguesa estava ligada»."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "todas elas construídas para Artur Paredes (pai e mestre de Carlos Paredes)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "Há mais versões deste Ré menor, pelo próprio e pelo filho Carlos Paredes (ensinado pelo próprio pai)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Este ensinou a seu filho Carlos, apenas o mínimo e essencial, para que este fosse aprendendo e por si fosse evoluindo, vendo o seu pai tocar."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Carlos Paredes passa a acompanhar regularmente o pai como executante de segunda guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "A verdade é que, nessa noite, Carlos Paredes se limitou a acompanhar o seu pai, sem direito a exibir o seu virtuosismo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes/Carlos Paredes (1.ª e 2.ª gC de concerto); Arménio Silva (violão)"
+        }
+      ],
+      "nota": "Como segunda guitarra, nos programas da Emissora Nacional (década de 1940) e nos EPs Alvorada (1957/1961)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "a primeira aparição conhecida em disco de Carlos Paredes acontece em 1958 como acompanhante à guitarra do cantor de Coimbra, Augusto Camacho Vieira, num EP intitulado \"Fado de Coimbra\"[13]"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "O fado foi gravado pela primeira vez em 1957 por Augusto Camacho, acompanhado à guitarra por Carlos Paredes e, à viola, por António Leão Ferreira Alves, disco que viria a ser editado no ano seguinte, em 1958."
+        }
+      ],
+      "nota": "EP «Fado de Coimbra», Columbia SLEM 2008, 1958 (nota [13] de D11)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "alice-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "O casal vem a ter dois filhos, Carlos Paredes nascido em 1925 e mais tarde uma rapariga, de nome Maria Helena."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/09/foi-ha-67-anos.html",
+          "doc": "gc-v:418585863031629098",
+          "citacao": "sua mãe, Alice Duarte Rosas"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "e de Alice Candeias Duarte Rosas[2], professora liceal"
+        }
+      ],
+      "nota": "O nome da mãe varia nas fontes: Alice Duarte Candeias / Alice Candeias Duarte Rosas / Alice Duarte Rosas."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Z-Vbrt1GVXLoWFXCYaeiEdptWEXX__Or_0S_gmMsjHhZzIgm-MGOJXi-YRULxy7acJV6mFVUL-mdixU9D_YGoHcbzWLb-tjmvtp6sRlPBZxdA6fRXNoMhDzvZKxQHDSxWFO10qlPhAX3/s1600/CParedes+Disco+Total.jpg",
+      "legenda": "Fotografia de Carlos Paredes da capa da colectânea «O Mundo Segundo Carlos Paredes, integral 1958 – 1993».",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "A fotografia que se apresenta sobre Carlos Paredes, é a da capa da magnífica colectânea de obras discográficas de Carlos Paredes sob o título de “O Mundo Segundo Carlos Paredes, integral 1958 – 1993”."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOhoaYXnaGJhUybId93zp4WYwlxQScCPU88Sny81OWrFbaWGyCb1XHaidM-E6C2xYKPRrxJyRNTYnoebHO42UB_G9vaWnCVcdCBWolN7npuiey9ZnJkCQ9OrviJYpaTLYFdmhojekgXWc/s1600-h/Carlos+Paredes.jpg",
+      "legenda": "Legado de Carlos Paredes no Museu Municipal de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "Legado de Carlos Paredes no Museu Municipal de Coimbra"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia anotada (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html"
+    },
+    {
+      "rotulo": "Legado de Carlos Paredes a Coimbra (2009)",
+      "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

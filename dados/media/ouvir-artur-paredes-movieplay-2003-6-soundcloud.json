@@ -1,0 +1,33 @@
+{
+  "id": "ouvir-artur-paredes-movieplay-2003-6-soundcloud",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio/cancao-do-ribeirinho-de-artur-paredes",
+  "titulo": "Balada do Mondego — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes",
+    "armenio-silva"
+  ],
+  "obras": [
+    "cancao-do-ribeirinho"
+  ],
+  "gravacao": "artur-paredes-movieplay-2003",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Escuta em contexto educativo (ficheiros preparados por Octávio Sérgio): ... https://soundcloud.com/oct-vio-s-rgio/cancao-do-ribeirinho-de-artur-paredes"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "6 - Balada do Mondego, música Artur paredes (sic). Título errado, trata-se de Canção do Ribeirinho, de Álvaro Cabral."
+    }
+  ],
+  "nota": "Segundo o blogue, a faixa 6 do CD tem título errado e é a Canção do Ribeirinho; liga-se o ficheiro «Canção do Ribeirinho» do mesmo post, que não indica de que disco foi tirado.",
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "guitarrilha-augusto-hilario-museu-academico",
+  "designacao": "Guitarrilha do tipo de Lisboa oferecida a Augusto Hilário pelo Ateneu Comercial de Lisboa (Museu Académico de Coimbra)",
+  "tipo": "guitarrilha (guitarra do tipo de Lisboa)",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "augusto-hilario",
+      "periodo": "1895-1896",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "A derradeira guitarra de Hilário foi-lhe ofertada por um grupo de sócios do Ateneu Comercial de Lisboa, em 2 de Junho de 1895, data de uma actuação do cantor naquela instituição."
+        }
+      ]
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Oferecida pelos sócios do Ateneu Comercial de Lisboa a 2 de junho de 1895",
+      "data": "1895-06-02",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "A derradeira guitarra de Hilário foi-lhe ofertada por um grupo de sócios do Ateneu Comercial de Lisboa, em 2 de Junho de 1895"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/atuacao-de-augusto-hylario-em-lisboa.html",
+          "doc": "gc-v:6430982705676367322",
+          "citacao": "Os sócios do Ateneu ofereceram-lhe uma guitarrilha, que décadas mais tarde viria a ser integrada no Museu Académico de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fabricada pelo construtor Augusto Vieira: caixa piriforme, tampo de casquinha, seis ordens metálicas, chapa de leque, escala em ressalto com 17 pontos, boca redonda, voluta de caracol; 74 cm de comprimento total, 36,5 cm de largura de caixa, 5,5 cm de ilharga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "O cordofone, fabricado pelo construtor Augusto Vieira, tem caixa piriforme, tampo de casquinha, seis ordens metálicas, chapa de leque, escala em ressalto com 17 pontos, boca redonda e voluta de caracol. Tem quase dimensões de requinta, apresentando um comprimento total de 74 cms, 36,5 cms de largura de caixa e 5,5 cms de ilharga."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Doada ao Museu Académico de Coimbra pelos herdeiros a 24 de junho de 1967, por intermédio de Maria Alice Trindade de Figueiredo, sobrinha-neta de Hilário",
+      "data": "1967-06-24",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "oferecida pelos herdeiros ao Museu Académico de Coimbra, em 24 de Junho de 1967."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Em 1967, a família, por intermédio da Srª Dª Maria Alice Trindade de Figueiredo, entregou ao Museu Académico de Coimbra uma das guitarras que o seu tio-avô dedilhara em muitas ocasiões e que lhe tinha sido oferecida pelo Ateneu Comercial de Lisboa quando ali se deslocou a cantar."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "dificilmente a sua sobrinha neta, Sra. D. Maria Alice Trindade de Figueiredo, teria doado a guitarra ao Museu."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Oferecida pela família no centenário do nascimento de Hilário (segundo Joaquim Pinho); não terá sido a guitarra que ele mais usou",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/artigo-do-diario-de-coimbra-de-hoje.html",
+          "doc": "gc-iv:8802541847404511252",
+          "citacao": "Outro facto, a guitarra que foi oferecida pela família do Hilário, no seu Centenário de nascimento, não foi a que mais utilizou!"
+        }
+      ],
+      "conflito": true,
+      "nota": "Comentário de Joaquim Pinho transcrito no post de 2011."
+    },
+    {
+      "campo": "outro",
+      "valor": "Uma das várias guitarras usadas por Hilário, tudo indica que a última; o post desaconselha tratá-la como «a guitarra de Hilário»",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/artigo-do-diario-de-coimbra-de-hoje.html",
+          "doc": "gc-iv:8802541847404511252",
+          "citacao": "esta guitarrilha é uma das várias guitarras usadas por Augusto Hilário ao longo da sua carreira de artista amador, tudo indica que a última."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+      "doc": "gc-i:111810453719110160",
+      "citacao": "oferecida pelos herdeiros ao Museu Académico de Coimbra, em 24 de Junho de 1967."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+      "doc": "gc-i:2061838669390888829",
+      "citacao": "Em 1967, a família, por intermédio da Srª Dª Maria Alice Trindade de Figueiredo, entregou ao Museu Académico de Coimbra uma das guitarras que o seu tio-avô dedilhara em muitas ocasiões e que lhe tinha sido oferecida pelo Ateneu Comercial de Lisboa quando ali se deslocou a cantar."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/artigo-do-diario-de-coimbra-de-hoje.html",
+      "doc": "gc-iv:8802541847404511252",
+      "citacao": "Outro facto, a guitarra que foi oferecida pela família do Hilário, no seu Centenário de nascimento, não foi a que mais utilizou!"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

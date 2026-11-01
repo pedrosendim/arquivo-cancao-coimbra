@@ -1,0 +1,61 @@
+{
+  "id": "duarte-costa",
+  "tipo": "pessoa",
+  "nome": "Duarte Costa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+      "doc": "gc-v:6740819375011916252",
+      "citacao": "Falava-se que Duarte Costa tivera em Coimbra uma escola de guitarra clássica (1964 e ss.)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+      "doc": "gc-v:6740819375011916252",
+      "citacao": "A escola de Lisboa foi fundada em 1953, a de Coimbra em 1964, a do Porto em 1968, e a de Faro em 1975."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "Escolas de guitarra Duarte Costa: Lisboa (1953), Coimbra (1964), Porto (1968), Faro (1975)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+          "doc": "gc-v:6740819375011916252",
+          "citacao": "A escola de Lisboa foi fundada em 1953, a de Coimbra em 1964, a do Porto em 1968, e a de Faro em 1975."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fábrica de guitarras privativa das escolas Duarte Costa (rótulos MALCATA e MULATA)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+          "doc": "gc-v:6740819375011916252",
+          "citacao": "MULATA / Fábrica de guitarras privativa das escolas / Duarte Costa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

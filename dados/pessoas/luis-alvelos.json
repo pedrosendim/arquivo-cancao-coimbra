@@ -1,0 +1,54 @@
+{
+  "id": "luis-alvelos",
+  "tipo": "pessoa",
+  "nome": "Luís Alvelos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "capas-negras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        }
+      ],
+      "nota": "voz"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Conjunto%203.jpg",
+      "legenda": "Luís Alvelos a cantar com o Grupo de Fados Capas Negras no Arco de Almedina (2005).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/lus-alvelos-cantar-com-o-grupo-de.html",
+          "doc": "gc-i:112622315993535830",
+          "citacao": "Luís Alvelos a cantar com o Grupo de Fados Capas Negras, ontem, no Arco de Almedina."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

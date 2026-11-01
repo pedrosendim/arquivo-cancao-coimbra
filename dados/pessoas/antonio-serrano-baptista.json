@@ -1,0 +1,38 @@
+{
+  "id": "antonio-serrano-baptista",
+  "tipo": "pessoa",
+  "nome": "António Serrano Baptista",
+  "nomes_alternativos": [
+    "Serrano Baptista",
+    "Serrano Batista"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Note-se que no referido disco actuaram: Guitarra: Francisco de Vasconcelos, António Serrano Baptista e Luís Plácido."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/sexta-feira-dia-13-pelas-20h00-o-grupo.html",
+          "doc": "gc-v:5269661221173394011",
+          "citacao": "Os Instrumentistas são: Alexandre Bateiras e Serrano Batista (Guitarras), João Gomes e Carlos Alberto Lima “Cabé” (Violas)."
+        }
+      ],
+      "nota": "guitarra (disco de 1991; formação de 2015)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "humberto-matias",
+  "tipo": "pessoa",
+  "nome": "Humberto Matias",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Manuel Portugal (nos créditos, com Simão Mota e Manuel Portugal)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3920",
+          "doc": "mpagdp:wfbbf99e995a871ca",
+          "citacao": "Variações em ré menor” de Manuel Portugal ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Armando Carvalho Homem (nos créditos, com Simão Mota e Manuel Portugal)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3921",
+          "doc": "mpagdp:w7dabf80ae81825b8",
+          "citacao": "Variações em ré menor” de Armando Carvalho Homem ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Raízes de Coimbra (Octávio Sérgio, Paulo Alexandre,\nArmando Luís de Carvalho Homem, Rui Pato, Humberto Matias, Heitor Lopes, Mário\nRovira)"
+        }
+      ],
+      "nota": "viola; 2007-2017"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

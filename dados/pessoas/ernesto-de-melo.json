@@ -1,0 +1,81 @@
+{
+  "id": "ernesto-de-melo",
+  "tipo": "pessoa",
+  "nome": "Ernesto de Melo",
+  "nomes_alternativos": [
+    "Ernesto Melo"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1944",
+      "data": "1944",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "irmãos Eduardo de Melo (n. 1939) e Ernesto de Melo (n. 1944)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "«Ciclo dos Melos» (1960-1965), com o irmão Eduardo, segundo Jorge Cravo",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "com o Ciclo dos Melos – irmãos Eduardo de Melo (n. 1939) e Ernesto de Melo (n. 1944) – entre 1960 e 1965"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quartet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "José Miguel Baptista (barítono), Eduardo de Melo (gC1), Ernesto de Melo (gC2, sendo gC1 em Raiz), Durval Moreirinhas (v)."
+        }
+      ],
+      "nota": "2.ª guitarra (gC2; gC1 em Raiz)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRQwZqtAGc1uMbsPGHx8sygvlbEDq0QHZlY_EkTPO0DEc2Q8JyvfOZhh6WmIDXhFFsfnprzAiDkS_HuMmHSL_Qqz1fTpcP18XtHQHXmx4ni6VzMWqsXkknRi43uT5O9dyXgUpTvq4HbEJD/s1600/Melo-Ernesto.jpg",
+      "legenda": "O cartão de sócio de Ernesto de Melo, naipe dos bandolins, servindo de presidente João Barros Madeira.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_95.html",
+          "doc": "gc-v:3472576530788616179",
+          "citacao": "O cartão de sócio de Ernesto de Melo, naipe dos bandolins, servindo de presidente João Barros Madeira, segundo guitarra no Coimbra Quartet"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

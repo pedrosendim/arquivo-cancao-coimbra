@@ -1,0 +1,49 @@
+{
+  "id": "mario-faria-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "Mário Faria da Fonseca",
+  "nomes_alternativos": [
+    "Mário Fonseca",
+    "Mário da Fonseca"
+  ],
+  "papeis": [
+    "violista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhou à viola todas as gravações de Edmundo Bettencourt na Columbia",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-sobre-mario-faria-da-fonseca.html",
+          "doc": "gc-v:3647209229263586252",
+          "citacao": "Discos em que participou: acompanhou à viola todas as gravações de Edmundo Bettencourt na editora Columbia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor das músicas Saudades de Coimbra, Canção do Mar Alto, Fado dos Olhos Claros e Alegria dos Céus",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-sobre-mario-faria-da-fonseca.html",
+          "doc": "gc-v:3647209229263586252",
+          "citacao": "Músicas de que foi autor: Saudades de Coimbra (Ó Coimbra do Mondego) Canção do Mar Alto (Fosse o meu destino o teu) Fado dos Olhos Claros (A luz dos teus olhos claros) Alegria dos Céus (Oh alegria dos céus)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "O «Mário Fonseca» da viola no disco Columbia J825 de Peres de Vasconcelos é esta pessoa: identificação confirmada pelo editor do arquivo (29-10-2026)."
+}

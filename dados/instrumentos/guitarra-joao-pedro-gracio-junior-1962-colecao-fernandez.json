@@ -1,0 +1,113 @@
+{
+  "id": "guitarra-joao-pedro-gracio-junior-1962-colecao-fernandez",
+  "designacao": "Guitarra de Lisboa de João Pedro Grácio Júnior, 1962 (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "joao-pedro-gracio-junior",
+  "ano": "1962",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "desde os anos 1990",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "When I received it in the 1990s"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Tampo de abeto (spruce), corpo de nogueira portuguesa, escala de ébano; instrumento simples, sem madrepérola nem embutidos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Spruce soundboard, Portuguese Walnut body, ebony fingerboard."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "It is a simple instrument, no mother of pearl or fancy inlays."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Esteve guardada durante anos num armário na zona da baía de São Francisco",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This is a guitarra had been sitting in a closet for yeasr in the San Francisco Bay Area."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Recebida por Ron Fernandez nos anos 1990; pequeno nivelamento de trastos, de resto original",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "When I received it in the 1990s I had to do some minor fert leveling but otherwise it is original."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/JPGracioface.jpg",
+      "legenda": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/JPGracioBk.jpg",
+      "legenda": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Joao Pedro Gracio Junior (1903-1967) Lisboa Fado Guitarra made 1962."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

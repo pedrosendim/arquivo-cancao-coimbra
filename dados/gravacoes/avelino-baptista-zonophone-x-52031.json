@@ -1,0 +1,128 @@
+{
+  "id": "avelino-baptista-zonophone-x-52031",
+  "titulo": "Noite serena / Que Saudade",
+  "formato": "78rpm",
+  "editora": "Zonophone",
+  "referencia": "X 52031 / X 52060",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Noite serena",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-zonophone-x-52031-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Que Saudade",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-zonophone-x-52031-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Noite serena», por Avelino Baptista — etiqueta: «Noite Serena (Canção Popular) / com acompanhamento de orchestra  / cantado pelo  / Snr. Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4043/avelino_baptista_noite_serena",
+          "doc": "museu-do-fado:w9f5e477c9e27055d",
+          "citacao": "Título: Noite serena ... Editora: Zonophone X 52060 X 52031 Referências: 7536f, X52060, Z; X-52060 ... Etiqueta: Noite Serena (Canção Popular) / com acompanhamento de orchestra  / cantado pelo  / Snr. Avelino Baptista / Lisboa "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação de Avelino Baptista referida no blogue a propósito da «Noite Serena»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/postal-para-frias-gonalvesnoite-serena.html",
+          "doc": "gc-i:113310650659140018",
+          "citacao": "lembremos a do cantor activo em Lisboa, Avelino Baptista, no 78 rpm Zo. 52060 (Noite Serena, ano de 1905)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Que Saudade», por Avelino Baptista — etiqueta: «Que Saudade / canção Popular (J. F. Alzamora) / cantada pelo / Sñr. Avelino Baptista / LIsboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4042/avelino_baptista_que_saudade",
+          "doc": "museu-do-fado:w57c66eda95d21bca",
+          "citacao": "Título: Que Saudade ... Editora: Zonophone X 52031 X 52060 Referências: 8302f, X52031, Z; X-52031 ... Etiqueta: Que Saudade / canção Popular (J. F. Alzamora) / cantada pelo / Sñr. Avelino Baptista / LIsboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Canção das festas de Coimbra (Rancho do Largo do Romal) gravada por Avelino Baptista, segundo o blogue",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/05/dia-internacional-dos-museus.html",
+          "doc": "gc-v:7859511072676814377",
+          "citacao": "Canção gravada a solo pelo barítono Avelino Baptista, Disque Zonophone X-52031"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4043/avelino_baptista_noite_serena",
+      "doc": "museu-do-fado:w9f5e477c9e27055d",
+      "citacao": "Título: Noite serena ... Editora: Zonophone X 52060 X 52031 Referências: 7536f, X52060, Z; X-52060"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/postal-para-frias-gonalvesnoite-serena.html",
+      "doc": "gc-i:113310650659140018",
+      "citacao": "lembremos a do cantor activo em Lisboa, Avelino Baptista, no 78 rpm Zo. 52060 (Noite Serena, ano de 1905)"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4042/avelino_baptista_que_saudade",
+      "doc": "museu-do-fado:w57c66eda95d21bca",
+      "citacao": "Título: Que Saudade ... Editora: Zonophone X 52031 X 52060 Referências: 8302f, X52031, Z; X-52031"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/05/dia-internacional-dos-museus.html",
+      "doc": "gc-v:7859511072676814377",
+      "citacao": "Canção gravada a solo pelo barítono Avelino Baptista, Disque Zonophone X-52031"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

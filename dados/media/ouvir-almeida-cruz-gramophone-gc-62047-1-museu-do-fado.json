@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-gramophone-gc-62047-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0300_04.mp3",
+  "titulo": "Maxixe Capital Federal — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-gramophone-gc-62047",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0600.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/595/almeida_cruz_maxixe_capital_federal",
+      "doc": "museu-do-fado:w00da4824647cb41b",
+      "citacao": "Título: Maxixe Capital Federal ... Editora: Gra. GC62047 Referências: Disque Pour Gramophone 8197f, 62047; G.C. 62047"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

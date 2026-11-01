@@ -1,0 +1,70 @@
+{
+  "id": "alexandre-augusto-de-albuquerque-mendes-de-pina-e-rezende",
+  "tipo": "pessoa",
+  "nome": "Alexandre Augusto de Albuquerque Mendes de Pina e Rezende",
+  "nomes_alternativos": [
+    "Alexandre Augusto Mendes de Pina e Rezende"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Alexandre Augusto de Albuquerque Mendes de Pina e Rezende",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Era filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, que fora Cônsul Honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende, de quem ficou órfão tinha apenas 10 anos de idade."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Alexandre Augusto Mendes de Pina e Rezende",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/alexandre-de-resende-e-jose-archer-de.html",
+          "doc": "gc-v:5671634226316842061",
+          "citacao": "onde seu pai Alexandre Augusto Mendes de Pina e Rezende, fidalgo abastado, fora Cônsul Honorário de Portugal. Aos 10 anos perde sua mãe D. Ana Duarte Gouveia de Rezende."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Cônsul Honorário de Portugal em Campinas",
+      "data": "",
+      "local": "Campinas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Era filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, que fora Cônsul Honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende, de quem ficou órfão tinha apenas 10 anos de idade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/alexandre-de-resende-e-jose-archer-de.html",
+          "doc": "gc-v:5671634226316842061",
+          "citacao": "onde seu pai Alexandre Augusto Mendes de Pina e Rezende, fidalgo abastado, fora Cônsul Honorário de Portugal. Aos 10 anos perde sua mãe D. Ana Duarte Gouveia de Rezende."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

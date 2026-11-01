@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-89",
+  "titulo": "Por que estás zangada / Fado Sepulveda",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-89",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Por que estás zangada",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-89-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Sepulveda",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-89-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Por que estás zangada», por Almeida Cruz — etiqueta: «Porque estás zangada? / Canção Portugueza, Popular / Almeida Cruz / e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/600/almeida_cruz_por_que_estas_zangada",
+          "doc": "museu-do-fado:wbcb692850acaff49",
+          "citacao": "Título: Por que estás zangada ... Editora: Co. B-89 Referências: 11808, 1-5; B89 ... Etiqueta: Porque estás zangada? / Canção Portugueza, Popular / Almeida Cruz / e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Por que estás zangada?, Columbia B-89, 11808»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Por que estás zangada?, Columbia B-89, 11808"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Sepulveda», por Almeida Cruz — etiqueta: «Fado Sepulveda / Fado [Ilegível] / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/601/almeida_cruz_fado_sepulveda",
+          "doc": "museu-do-fado:wab70cf220b202d84",
+          "citacao": "Título: Fado Sepulveda ... Editora: Co. B-89 Referências: 11870, 1-4; B89 ... Etiqueta: Fado Sepulveda / Fado [Ilegível] / Almeida Cruz "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Sepúlveda, Columbia B-89, 11870, música do fadista Júlio César Afonso Sepúlveda»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Sepúlveda, Columbia B-89, 11870, música do fadista Júlio César Afonso Sepúlveda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/600/almeida_cruz_por_que_estas_zangada",
+      "doc": "museu-do-fado:wbcb692850acaff49",
+      "citacao": "Título: Por que estás zangada ... Editora: Co. B-89 Referências: 11808, 1-5; B89"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Por que estás zangada?, Columbia B-89, 11808"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/601/almeida_cruz_fado_sepulveda",
+      "doc": "museu-do-fado:wab70cf220b202d84",
+      "citacao": "Título: Fado Sepulveda ... Editora: Co. B-89 Referências: 11870, 1-4; B89"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Sepúlveda, Columbia B-89, 11870, música do fadista Júlio César Afonso Sepúlveda"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

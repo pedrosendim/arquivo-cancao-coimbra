@@ -1,0 +1,49 @@
+{
+  "id": "guitarra-antonio-duarte-1905-pedro-caldeira-cabral",
+  "designacao": "Guitarra fabricada em 1905 por António Duarte (Porto), oferecida por Adelina Fernandes ao avô paterno de Pedro Caldeira Cabral, que a recebeu aos 10 anos",
+  "tipo": "guitarra",
+  "construtor": "antonio-duarte",
+  "ano": "1905",
+  "proprietarios": [
+    {
+      "pessoa": "pedro-caldeira-cabral",
+      "periodo": "recebida aos 10 anos; praticou com ela até aos 16",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Aos 10 anos recebeu como presente uma guitarra antiga, fabricada em 1905 por António Duarte, do Porto ... Com esse instrumento praticou intensamente até aos 16 anos"
+        }
+      ]
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Tinha sido oferecida ao avô paterno de Pedro Caldeira Cabral pela atriz e cantora de fado Adelina Fernandes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "a qual tinha sido oferecida ao avô paterno pela célebre actriz e cantora de fado, Adelina Fernandes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "pedro-caldeira-cabral",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "Aos 10 anos recebeu como presente uma guitarra antiga, fabricada em 1905 por António Duarte, do Porto, a qual tinha sido oferecida ao avô paterno pela célebre actriz e cantora de fado, Adelina Fernandes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "bento-martins-lobo",
+  "tipo": "pessoa",
+  "nome": "Bento Martins Lobo",
+  "nomes_alternativos": [
+    "Bento Martinez Lobo",
+    "Bento Galego",
+    "Bento Galiota",
+    "Bento Lobo"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "Bento Martins Lobo, oriundo de San Vicente de Nogueira, Pontevedra (batizado catolicamente a 12.07.1843 - Coimbra, 02.02.1913), popularmente conhecido por Bento Galego e Bento Galiota"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "domiciliara-se em Coimbra onde começara como aprendiz na oficina dos irmãos Francisco e Joaquim. Algures entre cerca 1865-1867 passara à categoria de oficial, isto é, ajudante de fabrico artesanal, não estando ainda «certificado» como violeiro autónomo pelo mestre Joaquim. Foi em 1870 que Bento Lobo passou a trabalhar como mestre."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/trespasse-da-oficina-dos-bruno-1870.html",
+      "doc": "gc-v:2548503384820285291",
+      "citacao": "Bento Martins Lobo, de alcunha Bento Galiota, passa a dirigir a oficina da família Bruno, no Paço do Conde, n.º 10. Manterá a casa aberta até cerca de 1912."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "Diz a tradição oral coimbrã que Bento Lobo fabricava em abundância instrumentos de luxo, instrumentos de preços acessíveis e «atrações» bizarras que expunha em vitrinas e vendia nas feiras e romarias dos municípios circunvizinhos de Coimbra, sem que tenha atingido a notabilidade dos seus mestres."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "San Vicente de Nogueira, Pontevedra (batizado a 12 de julho de 1843)",
+      "data": "1843-07-12",
+      "local": "Pontevedra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "oriundo de San Vicente de Nogueira, Pontevedra (batizado catolicamente a 12.07.1843"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 2 de fevereiro de 1913",
+      "data": "1913-02-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "Coimbra, 02.02.1913"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Dirigiu a oficina da família Bruno, no Paço do Conde, n.º 10, de 1870 até c. 1912",
+      "data": "1870",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/trespasse-da-oficina-dos-bruno-1870.html",
+          "doc": "gc-v:2548503384820285291",
+          "citacao": "passa a dirigir a oficina da família Bruno, no Paço do Conde, n.º 10. Manterá a casa aberta até cerca de 1912."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense n.º 2.419, de 01.10.1870, citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Publicitava que construía todos os instrumentos de corda, cítaras incluídas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/trespasse-da-oficina-dos-bruno-1870.html",
+          "doc": "gc-v:2548503384820285291",
+          "citacao": "Bento Lobo publicitar que estava em condiçõe de construir todos os instrumentos de corda que se lhe fossem encomendados, cítaras incluídas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Continuador da oficina dos Bruno, estabelecido na Rua das Solas (c. 1911)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/oficinas-de-violaria-estabelecidas-na.html",
+          "doc": "gc-v:2613138918124963746",
+          "citacao": "Bento Martins Lobo, antigo oficial e continuador da oficina dos irmãos Bruno/estabelecido na rua das Solas [Adelino Veiga]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Almanach da Republica: districto de Coimbra, s/d [ca. 1911], citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segundo Pedro Caldeira Cabral, o cavalete das suas violas toeiras tem o desenho uniforme do grupo de violeiros de Coimbra, com um «segredo» hoje esquecido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A construção do cavalete da Viola Toeira, com um desenho bastante uniforme em instrumentos de violeiros diferentes como António dos Santos, Augusto Nunes dos Santos, Bento Martins Lobo, António de Sousa ou Armando Neves, contém um segredo só conhecido e praticado por este grupo de violeiros"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "joaquim-wladislau-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "tendo dado formação profissional ao aprendiz Bento Martins Lobo"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "refere-se a Bento Martins [Martinez] Lobo como «meu official»"
+        }
+      ],
+      "nota": "Aprendiz e depois oficial."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "francisco-rodrigues-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "começara como aprendiz na oficina dos irmãos Francisco e Joaquim"
+        }
+      ],
+      "nota": "Aprendiz na oficina dos irmãos Bruno."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,150 @@
+{
+  "id": "artur-paredes-hmv-eq-148",
+  "titulo": "Rapsódia de Canções / Morena",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 148",
+  "ano": "1928",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra (solista)"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Rapsódia de Canções",
+      "obra": "rapsodia-de-cancoes-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-148-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Morena",
+      "obra": "morena-saldanha-junior",
+      "media": ["ouvir-artur-paredes-hmv-eq-148-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZMghZaQ3VYB9Uf2khdajNnHszXHaF3LpXQKds-KCqmFFdDJYQ0_8yG1GG-cKacJA5JROxc0aZT4eaj3pxofRGjdPi8phrcF2M0ZV2_5L1cQ_AlyjdryeU3FxKfRvv1KWsEtjbIHJgSFl0/s1600/Artur+Paredes+Morena+EQ+148+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Disco de 78 rpm HMV E. Q. 148, MORENA, música de J. Saldanha Júnior."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35529700",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Lisboa, 21-22 de outubro de 1928",
+      "data": "1928-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "A.2 - Gravações realizadas em Lisboa, 21 e 22 de outubro de 1928"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs data este disco de 1927."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Ano de edição: 1927 (Discogs)",
+      "data": "1927",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35529700",
+          "doc": "discogs:w638bafa572ce6fcc",
+          "citacao": "Data: 1927"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue situa as gravações em Lisboa, 21-22 de outubro de 1928."
+    },
+    {
+      "campo": "outro",
+      "valor": "Morena: master 7-63099",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "master 7-63099 – Morena. Refere Saldanha Júnior."
+        }
+      ],
+      "conflito": true,
+      "nota": "Número de master divergente dentro do mesmo post (secção A.2 vs. secção C)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Morena: master 7-69323; foi gravada outra prova, não editada",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice E.Q. 148, 7-69323. Foi ainda gravada outra prova, que não se editou."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As etiquetas mencionam apenas Artur Paredes e omitem os restantes instrumentistas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Menciona Artur Paredes, omite os restantes instrumentistas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Na etiqueta menciona-se apenas Artur Paredes, com omissão dos restantes instrumentistas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "A.2 - Gravações realizadas em Lisboa, 21 e 22 de outubro de 1928 Disco His Master’s Voice, E.Q. 148 - master 7-69322 – Rapsódia de Canções. Arr. de Artur Paredes. - master 7-63099 – Morena. Refere Saldanha Júnior."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/manasses-artur-paredes-e-cancao-da.html",
+      "doc": "gc-v:7444572383019409985",
+      "citacao": "RAPSÓDIA DE CANÇÕES, gravada em Lisboa, em 1928, no disco His Master's Voice EQ 148, com Afonso de Sousa (2º gC) e Guilherme Barbosa (v)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

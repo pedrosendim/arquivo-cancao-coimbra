@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-la-187801",
+  "titulo": "Fado Solitário / O meu menino",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187.801",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Solitário",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187801-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O meu menino",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187801-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Solitário», por António Menano — etiqueta: «Fado Solitario  / (Antonio Menano) / Dr. Antonio Menano / Guitarra João Fernandes  / Viola Mário Marques  / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1205/antonio_menano_fado_solitario",
+          "doc": "museu-do-fado:w7dc40a9e24e68b56",
+          "citacao": "Título: Fado Solitário ... Editora: Od.LA187.801, EMI2605983 Referências: OG1023, L, NR; LA 187801a ... Etiqueta: Fado Solitario  / (Antonio Menano) / Dr. Antonio Menano / Guitarra João Fernandes  / Viola Mário Marques  / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: João Fernandes (guitarra), Mário Marques (viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«O meu menino», por António Menano — etiqueta: «O meu menino / (António Menano) / Dr. António Menano / Guitarra João Fernandes / Viola Mário Marques / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1204/antonio_menano_o_meu_menino",
+          "doc": "museu-do-fado:w8e8d06094fb2cb57",
+          "citacao": "Título: O meu menino ... Editora: Od.LA187.801. EMI2605983 Referências: OG1006, L, NR; LA 187801b ... Etiqueta: O meu menino / (António Menano) / Dr. António Menano / Guitarra João Fernandes / Viola Mário Marques / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1205/antonio_menano_fado_solitario",
+      "doc": "museu-do-fado:w7dc40a9e24e68b56",
+      "citacao": "Título: Fado Solitário ... Editora: Od.LA187.801, EMI2605983 Referências: OG1023, L, NR; LA 187801a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1204/antonio_menano_o_meu_menino",
+      "doc": "museu-do-fado:w8e8d06094fb2cb57",
+      "citacao": "Título: O meu menino ... Editora: Od.LA187.801. EMI2605983 Referências: OG1006, L, NR; LA 187801b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

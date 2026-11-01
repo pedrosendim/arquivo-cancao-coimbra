@@ -1,0 +1,92 @@
+{
+  "id": "anthero-da-veiga-hmv-eq-267",
+  "titulo": "Variações do fado em ré menor / Fado Melódico",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "EQ 267",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "anthero-da-veiga",
+      "funcao": ""
+    },
+    {
+      "pessoa": "eugenio-da-veiga",
+      "funcao": "guitarra (acompanhamento)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações do fado em ré menor",
+      "obra": "",
+      "media": [
+        "ouvir-anthero-da-veiga-hmv-eq-267-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Melódico",
+      "obra": "",
+      "media": [
+        "ouvir-anthero-da-veiga-hmv-eq-267-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Variações do fado em ré menor», por Antero da Veiga — etiqueta: «Variações do Fado em ré menor / (Da Veiga) / Anthero da Veiga / com ac. de Guitarra por Eugénio da Veiga»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1925/antero_da_veiga_variacoes_do_fado_em_re_menor",
+          "doc": "museu-do-fado:w2fbd42f3473c5b0c",
+          "citacao": "Título: Variações do fado em ré menor ... Editora: HMV EQ267; [30-3101] Referências: BJ2682-I∆, R, 1, 30-3101; EQ 267 ... Etiqueta: Variações do Fado em ré menor / (Da Veiga) / Anthero da Veiga / com ac. de Guitarra por Eugénio da Veiga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Melódico», por Antero da Veiga — etiqueta: «Fado Melódico  / (da Veiga) / Anthero Da Viega  / com ac. de Guitarra por Eugénio da Veiga  / Guitarra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1926/antero_da_veiga_fado_melodico",
+          "doc": "museu-do-fado:w0a169a6405a9fc8a",
+          "citacao": "Título: Fado Melódico ... Editora: HMV EQ267 Referências: BJ2685-I∆, G, 1, 30-3102; EQ 267 ... Etiqueta: Fado Melódico  / (da Veiga) / Anthero Da Viega  / com ac. de Guitarra por Eugénio da Veiga  / Guitarra "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1925/antero_da_veiga_variacoes_do_fado_em_re_menor",
+      "doc": "museu-do-fado:w2fbd42f3473c5b0c",
+      "citacao": "Título: Variações do fado em ré menor ... Editora: HMV EQ267; [30-3101] Referências: BJ2682-I∆, R, 1, 30-3101; EQ 267"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1926/antero_da_veiga_fado_melodico",
+      "doc": "museu-do-fado:w0a169a6405a9fc8a",
+      "citacao": "Título: Fado Melódico ... Editora: HMV EQ267 Referências: BJ2685-I∆, G, 1, 30-3102; EQ 267"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

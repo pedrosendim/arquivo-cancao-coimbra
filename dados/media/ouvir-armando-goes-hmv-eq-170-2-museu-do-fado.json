@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-armando-goes-hmv-eq-170-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0436_32.mp3",
+  "titulo": "Fado Espanhol — Armando Goes",
+  "data": "",
+  "pessoas": [
+    "armando-goes"
+  ],
+  "obras": [],
+  "gravacao": "armando-goes-hmv-eq-170",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0870.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/857/armando_goes_fado_espanhol",
+      "doc": "museu-do-fado:w73d29a5bd1f9b877",
+      "citacao": "Título: Fado Espanhol ... Editora: HMV EQ170, Vi.33003 Referências: BN80-IV∆, R, 1, 7-62224; EQ 170"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

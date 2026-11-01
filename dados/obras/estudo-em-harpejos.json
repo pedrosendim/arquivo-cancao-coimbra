@@ -1,0 +1,38 @@
+{
+  "id": "estudo-em-harpejos",
+  "titulo": "Estudo em harpejos",
+  "titulos_alternativos": [],
+  "genero": "estudo",
+  "musica": [
+    "pedro-caldeira-cabral"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Partitura publicada no blogue GC-I (2006), em sons reais",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/partitura-de-estudo-em-harpejos-de.html",
+          "doc": "gc-i:115032438910016992",
+          "citacao": "Partitura de \"Estudo em harpejos\" de Pedro Caldeira Cabral. É uma belíssima peça para trabalhar, para aqueles que querem levar bem longe o estudo da guitarra. Os sons representados são os reais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/06/partitura-de-estudo-em-harpejos-de.html",
+      "doc": "gc-i:115032438910016992",
+      "citacao": "Partitura de \"Estudo em harpejos\" de Pedro Caldeira Cabral."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

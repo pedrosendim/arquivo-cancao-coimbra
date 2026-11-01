@@ -1,0 +1,97 @@
+{
+  "id": "armando-luis-de-carvalho-homem",
+  "tipo": "pessoa",
+  "nome": "Armando Luís de Carvalho Homem",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista",
+    "investigador"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1950",
+      "data": "1950",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "[15] O autor destas linhas (n. 1950) e Rui Manuel Gomes de CH (n. 1959)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Este texto de seu filho Armando Luís é uma homenagem a seu pai."
+        }
+      ],
+      "conflito": false,
+      "nota": "«O autor destas linhas» é Armando Luís de Carvalho Homem, autor da biografia do pai."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "armando-de-carvalho-homem",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Armando de Carvalho Homem com Mário Freitas (g), Paulo Alão (v), Horácio Miranda (c), e o filho Armando Luís de Carvalho Homem (v)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Este texto de seu filho Armando Luís é uma homenagem a seu pai."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-alcina-marques-pereira-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem] ... do casamento nascerão dois filhos[15]."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "[15] O autor destas linhas (n. 1950) e Rui Manuel Gomes de CH (n. 1959)."
+        }
+      ],
+      "nota": "«O autor destas linhas» é Armando Luís de Carvalho Homem."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/grupo-raizes-de-coimbra-em-viseu-no.html",
+          "doc": "gc-iii:3123655216103092970",
+          "citacao": "Grupo Raízes de Coimbra, em Viseu, no passado sábado, com os Antigos Tunos. Elementos do grupo: Humberto Matias (v), José Ourives (g), Alcides Freixo (g), Octávio Sérgio (g), Rui Pato (v), Armando Luís de Carvalho Homem (v), Mário Rovira (c), Rui Lucas (c) e Heitor Lopes (c)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Raízes de Coimbra (Octávio Sérgio, Paulo Alexandre,\nArmando Luís de Carvalho Homem, Rui Pato, Humberto Matias, Heitor Lopes, Mário\nRovira)"
+        }
+      ],
+      "nota": "viola; 2010-2017"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

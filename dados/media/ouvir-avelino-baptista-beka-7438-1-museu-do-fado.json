@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-7438-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0104_59.mp3",
+  "titulo": "Serenata de Coimbra — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-7438",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0209.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/203/avelino_baptista_serenata_de_coimbra",
+      "doc": "museu-do-fado:w2ca56934e83dd85c",
+      "citacao": "Título: Serenata de Coimbra ... Editora: Beka 7438 Referências: Disco “Beka” Grande, 479; 7438"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

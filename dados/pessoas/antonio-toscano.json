@@ -1,0 +1,67 @@
+{
+  "id": "antonio-toscano",
+  "tipo": "pessoa",
+  "nome": "António Toscano",
+  "nomes_alternativos": [
+    "António Simão Toscano"
+  ],
+  "papeis": [
+    "violista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António Simão Toscano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP Canções do Mar e da Vida (Luiz Goes, 1969)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+          "doc": "gc-v:7363514650320825950",
+          "citacao": "Canta Luiz Goes barítono, acompanhado por João Bagão (arranjos e solos de gC), Aires de Aguillar (2ª gC), António Toscano/Fernando Neto (vv) e João Gomes (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
+          "doc": "gc-v:765637730129187761",
+          "citacao": "Uma obra magistralmente acompanhada e musicada por António Andias (g.), João Gomes (v.), António Toscano (v.) e Durval Moreirinhas (v.)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+          "doc": "gc-v:7363514650320825950",
+          "citacao": "Canta Luiz Goes barítono, acompanhado por João Bagão (arranjos e solos de gC), Aires de Aguillar (2ª gC), António Toscano/Fernando Neto (vv) e João Gomes (v)."
+        }
+      ],
+      "nota": "viola nos LP «Canções do Mar e da Vida» (1969) e «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

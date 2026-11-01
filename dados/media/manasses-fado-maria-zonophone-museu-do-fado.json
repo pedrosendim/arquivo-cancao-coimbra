@@ -1,0 +1,22 @@
+{
+  "id": "manasses-fado-maria-zonophone-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0475_32.mp3",
+  "titulo": "«Fado Maria» – Manassés de Lacerda (Zonophone X-52063) – Arquivo Sonoro do Museu do Fado",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-zonophone-x-52063",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/935/manasses_de_lacerda_fado_maria",
+      "doc": "museu-do-fado:wad7f843e64f05ab1",
+      "citacao": "Fado Maria Manassés de Lacerda Editora: Zo. 52063"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

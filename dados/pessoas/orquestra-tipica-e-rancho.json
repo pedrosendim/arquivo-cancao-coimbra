@@ -1,0 +1,91 @@
+{
+  "id": "orquestra-tipica-e-rancho",
+  "tipo": "grupo",
+  "nome": "Orquestra Típica e Rancho",
+  "nomes_alternativos": [
+    "Orquestra Típica",
+    "Típica & Rancho",
+    "Orquestra Típica e Rancho da Secção de Fado"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+      "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+      "citacao": "A criação de um espaço de iniciação à guitarra clássica surge na tentativa de aglomerar as raparigas inscritas na Secção de Fado cujo número era deveras significativo. O facto é que nem todas estavam interessadas na aprendizagem daquele instrumento. Para isso, e vencendo alguma má vontade, criou-se um agrupamento misto - a Orquestra Típica e Rancho - cujo objectivo era dançar e cantar exclusivamente o folclore da região de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "agrupamento misto criado na Secção de Fado para dançar e cantar o folclore da região de Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "criou-se um agrupamento misto - a Orquestra Típica e Rancho - cujo objectivo era dançar e cantar exclusivamente o folclore da região de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Site oficial da Secção (cópia Arquivo.pt, 2005)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Queima das Fitas de 1981 (Tarde de Arte e Sarau), com o grupo de fados e a Orxestra Pitagórica",
+      "data": "1981-05",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A Secção de Fado teve uma grande participação em vários eventos da Queima nomeadamente na Tarde de Arte e no Sarau, através da participação do grupo de Fados, da Orquestra Típica e Rancho, do Aurelino Costa (poesia) e da Orxestra Pitagórica, que fez a sua estreia."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "um dos grupos da Secção de Fado da AAC",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/idalina-gomes-como-devem-ter-visto-nas.html",
+          "doc": "gc-i:116310676027004814",
+          "citacao": "Orquestra Típica e Rancho, um dos vários grupos que faz parte da Secção de Fado da AAC"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+          "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+          "citacao": "Grupo de Cordas e Orquestra Típica e Rancho"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha da Secção: seccao-de-fado-da-aac."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Bate co'a Chinela» (SF 012, 2000), recolha da Secção de Fado através da Orquestra Típica e Rancho",
+      "data": "2000",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/a-toutinegra-do-moinho.html",
+          "doc": "gc-v:1642315113044080624",
+          "citacao": "CD Bate co’a Chinela, Coimbra, SF 012, ano de 2000, faixa 4, recolha da Secção de Fado da AAC através da Orquestra Típica e Rancho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

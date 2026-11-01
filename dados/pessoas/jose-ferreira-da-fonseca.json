@@ -1,0 +1,32 @@
+{
+  "id": "jose-ferreira-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "José Ferreira da Fonseca",
+  "nomes_alternativos": [],
+  "papeis": [
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "Deu as primeiras lições de guitarra ao primo Pedro Caldeira Cabral (1958)",
+      "data": "1958",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Ainda na infância (1958) recebeu as primeiras lições de Guitarra de seu primo José Ferreira da Fonseca"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

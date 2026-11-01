@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-94-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0308_18.mp3",
+  "titulo": "Amélia — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-94",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0615.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/611/almeida_cruz_amelia",
+      "doc": "museu-do-fado:w2846f9119e6bf902",
+      "citacao": "Título: Amélia ... Editora: Co. B-94 Referências: 11833, 1-5; B94"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

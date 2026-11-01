@@ -1,0 +1,117 @@
+{
+  "id": "francisco-rodrigues-bruno",
+  "tipo": "pessoa",
+  "nome": "Francisco Rodrigues Bruno",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "FRANCISCO RODRIGUES BRUNO, violeiro, oficina do Paço do Conde. Filho do mestre José Rodrigues Bruno e de Maria Delphina, nasceu na cidade de Coimbra em 10.01.1817 e faleceu na freguesia de São Bartolomeu da referida cidade em 23.03.1869."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "Aparece nos rótulos da oficina do Paço do Conde na década de 1860 como «& irmão» [de Wladislau]."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 10 de janeiro de 1817",
+      "data": "1817-01-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "nasceu na cidade de Coimbra em 10.01.1817"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra (freguesia de São Bartolomeu), 23 de março de 1869",
+      "data": "1869-03-23",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "faleceu na freguesia de São Bartolomeu da referida cidade em 23.03.1869"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Violeiro na oficina do Paço do Conde (listado em 1856)",
+      "data": "1856",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "FRANCISCO RODRIGUES BRUNO, violeiro, oficina do Paço do Conde."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, n.º 247, 7.06.1856, citado no post."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-delphina",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "Filho do mestre José Rodrigues Bruno e de Maria Delphina, nasceu na cidade de Coimbra em 10.01.1817"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-rodrigues-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "Filho do mestre José Rodrigues Bruno e de Maria Delphina"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joaquim-wladislau-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "Aparece nos rótulos da oficina do Paço do Conde na década de 1860 como «& irmão» [de Wladislau]."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

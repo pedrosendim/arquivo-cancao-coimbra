@@ -1,0 +1,27 @@
+{
+  "id": "armando-vilaca-lacerda",
+  "tipo": "pessoa",
+  "nome": "Armando Vilaça Lacerda",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "deolinda-de-almeida-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/comentario-ao-post-do-dia-20-de-maio.html",
+          "doc": "gc-iv:896083329206967144",
+          "citacao": "Apenas a filha Deolinda Simões Vilaça Lacerda permaneceu em Coimbra, onde casou com Armando Vilaça Lacerda e foi funcionária da Câmara Municipal."
+        }
+      ],
+      "nota": "A fonte chama-lhe «Deolinda Simões Vilaça Lacerda», filha de Raul Simões."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

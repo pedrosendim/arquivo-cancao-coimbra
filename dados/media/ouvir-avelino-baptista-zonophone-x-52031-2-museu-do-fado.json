@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-zonophone-x-52031-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2058_00.mp3",
+  "titulo": "Que Saudade — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-zonophone-x-52031",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3893.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4042/avelino_baptista_que_saudade",
+      "doc": "museu-do-fado:w57c66eda95d21bca",
+      "citacao": "Título: Que Saudade ... Editora: Zonophone X 52031 X 52060 Referências: 8302f, X52031, Z; X-52031"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

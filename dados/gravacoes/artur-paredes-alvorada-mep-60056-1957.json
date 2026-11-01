@@ -1,0 +1,139 @@
+{
+  "id": "artur-paredes-alvorada-mep-60056-1957",
+  "titulo": "Artur Paredes (1.ª edição)",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60056",
+  "ano": "1957",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "armenio-silva",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em Ré Maior",
+      "obra": "variacoes-em-re-maior-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1957-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Balada do Mondego",
+      "obra": "sonhos-dourados",
+      "media": [
+        "paredes-balada-do-mondego-1957"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Cantares Portugueses",
+      "obra": "rapsodia-n-2-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1957-3-apple-music"]
+    },
+    {
+      "n": 4,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1957-4-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gQcmef8av1yXaJ71rudP2pNFHsczGMZJqz4T9OAc0saize2CwMDSFw6CuPXRIUcPz54vh48Q38Dbzu0QPtlfaBctYYP8ONfN9jChzR68v1SjeZEvf4zl9Xevx6-5cOfx7bDi7OzH08Ga/s1600/Artur+Predes+EP2+Capa+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Capa e contracapa do disco de 45 rpm EP ARTUR PAREDES, Alvorada, MEP 60056."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Desaprovado por Artur Paredes e retirado de circulação",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Este 45 rpm também foi desaprovado por Artur Paredes e retirado de circulação."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "Consequência: fazer retirar do mercado a versão original do disco que veio a ser o MEP 60056"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Motivo da retirada: Artur Paredes sentiu-se 'abafado' pela 2.ª guitarra (Carlos Paredes) em «Passatempo» e na «Rapsódia»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "Artur Paredes achou-se 'abafado' no «Passatempo»"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "O mesmo terá sentido Artur Paredes em relação á «Rapsódia»"
+        }
+      ],
+      "conflito": false,
+      "nota": "Interpretação de A. L. de Carvalho Homem (2006)."
+    },
+    {
+      "campo": "outro",
+      "valor": "As versões retiradas saíram ca. 1978 no LP Alvorada «Carlos Paredes / Artur Paredes»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "As peças em causa sairão do limbo ca. 1978 – ou seja, a 2 anos da morte de Artur Paredes –, no LP Carlos Paredes / Artur Paredes [8]."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "EP ARTUR PAREDES. Porto: Alvorada MEP 60056, 1957 (1.ª edição) Artur Paredes/Carlos Paredes (1.ª e 2.ª gC de concerto); Arménio Silva (violão) VARIAÇÕES EM RÉ MAIOR (guitarrada). Música e arranjo de Artur Paredes. BALADA DO MONDEGO (guitarrada). Menciona “popular”. Trata-se de SONHOS DOURADOS, música de José das Neves Elyseu. Arranjo de Artur Paredes. CANTARES PORTUGUESES (guitarrada). Seleção e arranjo de Artur Paredes. PASSATEMPO (guitarrada). Música e arranjo de Artur Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+      "doc": "gc-v:597665629924075444",
+      "citacao": "no EP Artur Paredes, Alvorada MEP 60056, 1957, com o estranho título «Balada do Mondego»"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

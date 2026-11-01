@@ -1,0 +1,165 @@
+{
+  "id": "adriano-correia-de-oliveira-orfeu-atep-6077",
+  "titulo": "Fados de Coimbra",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6077",
+  "ano": "1962",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "adriano-correia-de-oliveira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola (Minha Mãe)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Minha Mãe",
+      "obra": "minha-mae-jose-afonso",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6077-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Prece",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6077-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Senhora Partem Tão Tristes",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6077-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Desengano",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6077-4-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/F9xPWP4bg0Iu5knEeLfFkIfGCAZ_p_Nb2b2gsfOdA3M/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDQz/MTEtMTQwNTkxNzk1/Ni05ODEzLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/5904311",
+        "doc": "discogs:wd4fb45e305daafee",
+        "citacao": "Imagem (primary): https://i.discogs.com/F9xPWP4bg0Iu5knEeLfFkIfGCAZ_p_Nb2b2gsfOdA3M/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDQz/MTEtMTQwNTkxNzk1/Ni05ODEzLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/5904311",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5904311",
+          "doc": "discogs:wd4fb45e305daafee",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5904311",
+          "doc": "discogs:wd4fb45e305daafee",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1963 (Discogs)",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5904311",
+          "doc": "discogs:wd4fb45e305daafee",
+          "citacao": "Data: 1963"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1962."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1962 (blogue)",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "O mesmo tema foi gravado por Adriano Correia de Oliveira no EP \"Fados de Coimbra\", Porto, Orfeu, ATEP 6077, ano de 1962, acompanhado à viola por Rui Pato."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Porto: Orfeu, ATEP 6077, 1962"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1963."
+    },
+    {
+      "campo": "outro",
+      "valor": "Capa de Fernando Aroso (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5904311",
+          "doc": "discogs:wd4fb45e305daafee",
+          "citacao": "Cover – Fernando Aroso"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/5904311",
+      "doc": "discogs:wd4fb45e305daafee",
+      "citacao": "Editora: Orfeu – ATEP 6077"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "- Fados de Coimbra (EP, 1962) [Minha Mãe/Prece/Senhora, Partem Tão Tristes/Desengano] ATEP 6077"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

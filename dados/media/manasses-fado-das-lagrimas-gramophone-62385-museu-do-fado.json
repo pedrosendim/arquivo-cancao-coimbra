@@ -1,0 +1,22 @@
+{
+  "id": "manasses-fado-das-lagrimas-gramophone-62385-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0474_29.mp3",
+  "titulo": "«Fado das Lágrimas» – Manassés de Lacerda (Gramophone 62385) – Arquivo Sonoro do Museu do Fado",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-62385",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/932/manasses_de_lacerda_fado_das_lagrimas",
+      "doc": "museu-do-fado:w230c847b224650f0",
+      "citacao": "Fado das Lágrimas Manassés de Lacerda Editora: Gra.62385"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

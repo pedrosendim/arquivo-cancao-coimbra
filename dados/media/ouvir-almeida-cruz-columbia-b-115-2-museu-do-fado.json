@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-115-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0320_05.mp3",
+  "titulo": "Fado dos Desejos — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-115",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0640.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/635/almeida_cruz_fado_dos_desejos",
+      "doc": "museu-do-fado:wc4b0b706b8cb6e72",
+      "citacao": "Título: Fado dos Desejos ... Editora: Co. B-115 Referências: 11884-1-3; B115"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

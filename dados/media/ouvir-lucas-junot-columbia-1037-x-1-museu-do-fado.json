@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-1037-x-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1006_26.mp3",
+  "titulo": "Fado Resende — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-1037-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2001.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1993/lucas_junot_fado_resende",
+      "doc": "museu-do-fado:w59a09882990a96cb",
+      "citacao": "Título: Fado Resende ... Editora: Co. 1037X Referências: P194, W, 1-B-3; 1037-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

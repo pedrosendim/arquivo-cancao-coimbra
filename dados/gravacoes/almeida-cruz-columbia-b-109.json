@@ -1,0 +1,140 @@
+{
+  "id": "almeida-cruz-columbia-b-109",
+  "titulo": "Cobre-me cobre-me / Fado dos Cegos",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-109",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Cobre-me cobre-me",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-109-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Cegos",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-109-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Cobre-me cobre-me», por Almeida Cruz — etiqueta: «Cobre-me, Cobre-me / Canção portugueza / [Ilegível] / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/624/almeida_cruz_cobre_me_cobre_me",
+          "doc": "museu-do-fado:w819f64c99d7a6be0",
+          "citacao": "Título: Cobre-me cobre-me ... Editora: Co. B-109 Referências: 11807-1; B109 ... Etiqueta: Cobre-me, Cobre-me / Canção portugueza / [Ilegível] / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w1dda81594b4f9934"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Cobre-me, cobre-me, Columbia B-109, 11807»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Cobre-me, cobre-me, Columbia B-109, 11807"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Cegos», por Almeida Cruz — etiqueta: «Fado dos cegos / Fado Corrido   Popular  / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/625/almeida_cruz_fado_dos_cegos",
+          "doc": "museu-do-fado:wddc17777d1113fbc",
+          "citacao": "Título: Fado dos Cegos ... Editora: Co. B-109 Referências: 11869-1-2; B109 ... Etiqueta: Fado dos cegos / Fado Corrido   Popular  / Almeida Cruz "
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w7c6e1fe3d6bd069a"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado dos Cegos, Columbia B-109, 11869, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado dos Cegos, Columbia B-109, 11869, música popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/624/almeida_cruz_cobre_me_cobre_me",
+      "doc": "museu-do-fado:w819f64c99d7a6be0",
+      "citacao": "Título: Cobre-me cobre-me ... Editora: Co. B-109 Referências: 11807-1; B109"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2111/almeida_cruz_cobre_me_cobre_me",
+      "doc": "museu-do-fado:w1dda81594b4f9934",
+      "citacao": "Título: Cobre-me cobre-me ... Editora: Co. B-109 Referências: 11807-1-2; B109"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Cobre-me, cobre-me, Columbia B-109, 11807"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/625/almeida_cruz_fado_dos_cegos",
+      "doc": "museu-do-fado:wddc17777d1113fbc",
+      "citacao": "Título: Fado dos Cegos ... Editora: Co. B-109 Referências: 11869-1-2; B109"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2110/almeida_cruz_fado_dos_cegos",
+      "doc": "museu-do-fado:w7c6e1fe3d6bd069a",
+      "citacao": "Título: Fado dos Cegos ... Editora: Co. B-109 Referências: 11869-1-3; B109"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado dos Cegos, Columbia B-109, 11869, música popular"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

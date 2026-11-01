@@ -1,0 +1,75 @@
+{
+  "id": "guitarra-joao-palmeiro-lisboa-1994",
+  "designacao": "Guitarra de Lisboa de João Palmeiro, 1994, feita para Ron Fernandez",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "joao-palmeiro",
+  "ano": "1994",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This instrument was made for me by Senhor Palmeiro. I carefully kept it in my personal collection"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Tampo de abeto (spruce), escala de pau-santo (rosewood), nogueira portuguesa (Portuguese Walnut); acabamento a goma-laca, afinação e trastos por Ron Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994. It has a spruce soundboard, rosewood fingerboard, Portuguese Walnut. French Polished Finish, set-up and fret refinement by Ron Fernandez."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroLisboaFace.jpg",
+      "legenda": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroLisboaBack.jpg",
+      "legenda": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below are 2 photos of a João Palmeiro Lisboa style guitar made in 1994."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

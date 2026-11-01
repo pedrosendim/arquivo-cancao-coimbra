@@ -1,0 +1,27 @@
+{
+  "id": "isabel-mulher-de-jose-niza",
+  "tipo": "pessoa",
+  "nome": "Isabel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-niza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o_23.html",
+          "doc": "gc-v:8056278333509873889",
+          "citacao": "pedíssemos ao Zé Niza ou à Isabel, sua mulher"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-93-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0685_17.mp3",
+  "titulo": "Balada de Coimbra — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "balada-de-coimbra"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-93",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1363.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1353/artur_paredes_balada_de_coimbra",
+      "doc": "museu-do-fado:w7d45f7b3d35f120b",
+      "citacao": "Título: Balada de Coimbra ... Editora: HMV EQ93, MH36,JQ501,Vi.81701"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

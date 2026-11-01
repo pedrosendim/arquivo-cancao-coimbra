@@ -1,0 +1,670 @@
+{
+  "id": "raul-simoes",
+  "tipo": "pessoa",
+  "nome": "Raul Simões",
+  "nomes_alternativos": [
+    "Raúl Simões"
+  ],
+  "papeis": [
+    "luthier",
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+      "doc": "gc-v:7417946459085138620",
+      "citacao": "Raul Simões nasceu a 8 de Novembro de 1891 na freguesia da Sé Nova, Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+      "doc": "gc-v:7417946459085138620",
+      "citacao": "Em 1901 concluiu o ensino oficial e iniciou-se na arte de marcenaria, herdada de seu pai. Durante vários anos trabalhou para a Associação Académica da Universidade de Coimbra, desenvolvendo o gosto e o conhecimento pela construção de instrumentos e pelas práticas musicais."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+      "doc": "gc-v:7417946459085138620",
+      "citacao": "A partir de 1919 dedicou-se à construção e reparação de instrumentos de cordas e arco na sua oficina, cita na Rua Dr. Felipe Simões, nº 9, Bairro de Santana, Coimbra, atividade que desenvolveu até finais da década de 1970."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Nas décadas de 1920-1930 Artur Paredes tocou, ensaiou e gravou discos com guitarras fabricadas e aprimoradas por Raul Simões."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+      "doc": "gc-v:74750060412348144",
+      "citacao": "Nos finais da década de 1950, Raul Simões gravou para a Alvorada duas faixas com a cantadeira conimbricense Estrela Abrantes (EP Alvorada, 60.133, 1959)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+      "doc": "gc-v:7417946459085138620",
+      "citacao": "Como singular executante da arte do toque popular da toeira, recebeu na sua oficina Ernesto Veiga de Oliveira em 1965, que fixou breves apontamentos de afinação da viola e de exemplificação do toque."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+      "doc": "gc-v:7417946459085138620",
+      "citacao": "Raul Simões faleceu a 4 de Novembro de 1981 na freguesia dos Anjos, em Lisboa e a sua arte foi destinada ao esquecimento."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+      "doc": "gc-v:3875621728661417894",
+      "citacao": "O recheio da sua oficina foi comprado em 1982 pela CMC. Exibido em 2011, encontra-se atualmente no Museu Municipal de Coimbra/Núcleo Torre d’Anto."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (freguesia da Sé Nova), 8 de novembro de 1891",
+      "data": "1891-11-08",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Raul Simões nasceu a 8 de Novembro de 1891 na freguesia da Sé Nova, Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Raul Simões, nascido em Coimbra a 8.11.1891, falecido em Lisboa a 04.11.1981."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa (freguesia dos Anjos), 4 de novembro de 1981",
+      "data": "1981-11-04",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Raul Simões faleceu a 4 de Novembro de 1981 na freguesia dos Anjos, em Lisboa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "falecido em Lisboa a 04.11.1981"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de Joaquim Simões, natural de Cernache, e de Leopoldina de Jesus, natural de Assafarge",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Era filho de Joaquim Simões, natural de Cernache, e Leopoldina de Jesus, natural de Assafarge, concelho de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou a 14 de abril de 1917 com Emília de Jesus Almeida, natural de Miranda do Corvo; teve sete filhos",
+      "data": "1917-04-14",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "A 14 de Abril de 1917 casou com Emília de Jesus Almeida, natural de Miranda do Corvo, de 29 anos de idade. No Bairro de Santana construiu a casa, a oficina e criou sete filhos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Marceneiro; construtor e reparador de instrumentos de cordas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Raul Simões tinha por profissão marceneiro, dedicando-se à construção e reparação de instrumentos de cordas na oficina da sua residência, cita na Rua Dr. Felipe Simões, nº 9, Bairro de Santana."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "À semelhança de tantos outros violeiros portugueses que construíam, afinavam, consertavam e tocavam os seus instrumentos, Raul Simões começou como marceneiro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina na Rua Dr. Felipe Simões, n.º 9, Bairro de Santana, Coimbra: construção e reparação de instrumentos de cordas e arco, de 1919 até finais da década de 1970",
+      "data": "1919",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "A partir de 1919 dedicou-se à construção e reparação de instrumentos de cordas e arco na sua oficina, cita na Rua Dr. Felipe Simões, nº 9, Bairro de Santana, Coimbra, atividade que desenvolveu até finais da década de 1970."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Assistência técnica à Tuna Académica da Universidade de Coimbra (registo na oficina: «50 anos ao serviço da TAUC»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "No registo de construtor de instrumentos, afixado na oficina, podemos ler: “50 anos ao serviço da Tuna Académica da Universidade de Coimbra”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Foi técnico assistente da TAUC e dos grupos musicais que gravitavam na esfera daquele organismo universitário."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Diálogo e colaboração com Artur Paredes, das décadas de 1920 a inícios de 1950, na procura de melhorias da guitarra de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Ao longo de toda a década de 1920 e até à sua fixação profissional em Lisboa no ano de 1934, e pelo menos até aos alvores dos anos cinquenta, Artur Paredes desenvolveu um diálogo sistemático e prolongado com o mestre de violaria Raul Simões, focado na procura de melhorias que pudessem transformar a guitarra de Coimbra existente num cordofone de concerto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "persiste na memória familiar uma duradoura relação de trabalho entre Raul Simões e Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fabricou três variantes da guitarra de Coimbra: requinta da guitarra toeira (guitarrilha), guitarra toeira e guitarra de Coimbra moderna (de concerto)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Raul Simões fabricou três variantes da guitarra de Coimbra: a requinta da guitarra toeira ... a guitarra toeira de Coimbra, ou guitarra de modelo antigo ... a guitarra de Coimbra moderna (ou de concerto)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Aperfeiçoou a guitarra toeira na década de 1920 e fabricou-a com regularidade até meados da década de 1950",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Foi aperfeiçoado na década de 1920, na oficina de Raul Simões, construtor que fabricou este modelo com regularidade até meados da década de 1950."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra grande (15 ou 18 cordas): fabrico abandonado após o fim da Grande Guerra nas oficinas de Raul Simões e de Armando Neves",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "E havia a guitarra grande, que armava com 15 ou com 18 cordas, de timbre mais grave, cujas encomendas eram muito raras, cujo fabrico se abandonou após o fim da Grande Guerra nas oficinas de Raul Simões e de Armando Neves."
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do post sobre a guitarra de José Cochofel (gc-v, 2025): «Que se saiba, o violeiro Raul Simões, falecido em 1981, não fabricou guitarras de quinze cordas.»"
+    },
+    {
+      "campo": "atividade",
+      "valor": "Não fabricou guitarras de quinze cordas (segundo o que se sabe)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Que se saiba, o violeiro Raul Simões, falecido em 1981, não fabricou guitarras de quinze cordas."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto anterior (post de 2021 sobre a guitarra grande de 15 ou 18 cordas)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construía violões e fornecia grupos populares, o naipe de violas da TAUC e as violas de acompanhamento da Canção de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Fornecia grupos musicais populares da região de Coimbra, o naipe de violas da Tuna Académica da Universidade de Coimbra (TAUC), os violas de acompanhamento das formações de CC, bem como tunas e ranchos populares da Bairrada/Gândara."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Viola toeira (executante)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Para além de construtor de cordofones Raul Simões era um excelente executante de viola toeira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP Alvorada 60.133 (1959): viola toeira, com Estrela Abrantes (voz), «Estalado» e «Vira de Coimbra»",
+      "data": "1959-03-03",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Lado 2 Raul Simões (viola toeira) e Estrela Abrantes (voz), temas: “Estalado” e “Vira de Coimbra”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "gravados para a Alvorada a 3 de Março de 1959"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Recolha de Ernesto Veiga de Oliveira (1965): trechos do «Estalado» e do «Vira» em viola toeira (Museu Nacional de Etnologia)",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Nestas gravações Raul Simões executa trechos do “Estalado” (Malhão, na lição de Coimbra) e do “Vira” valseado, utilizando notável toque misto à base de ponteio, rasgado e percussão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Visita/fotografia de Ernesto Veiga de Oliveira na oficina: 1964",
+      "data": "1964",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/raul-simes-na-sua-oficina-em-1964.html",
+          "doc": "gc-i:111530195906176992",
+          "citacao": "Raul Simões na sua oficina em 1964, a tocar Viola Toeira. Fotografia tirada por Ernesto Veiga de Oliveira"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os posts de 2013 e 2014 situam em 1965 a receção de Ernesto Veiga de Oliveira na oficina e as gravações."
+    },
+    {
+      "campo": "outro",
+      "valor": "Visita/gravações de Ernesto Veiga de Oliveira na oficina: 1965",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Raul Simões recebeu na sua oficina Ernesto Veiga de Oliveira em 1965"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2005 data de 1964 a fotografia tirada por Veiga de Oliveira na oficina."
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarra toeira com que Artur Paredes gravou em 1927 (Museu Académico): fabricada na década de 1920 «possivelmente» por Raul Simões",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "trata-se de uma Guitarra Toeira de Coimbra fabricada na década de 1920, possivelmente por Raul Simões"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 2006 (gc-i). Ver a ficha do instrumento guitarra-artur-paredes-museu-academico."
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarra toeira com que Artur Paredes gravou em 1927: fabricada na década de 1920 por Raul Simões",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Foi com a guitarra toeira de Coimbra fabricada na década de 1920 por Raul Simões, que Artur Paredes gravou as famosas variações, canções e rapsódias em 1927"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 2014 (gc-v), sem reservas quanto à autoria."
+    },
+    {
+      "campo": "outro",
+      "valor": "Inscrição «Reformada em Abril de 1934» no interior da guitarra de Artur Paredes (Museu Académico), atribuída com dúvida a Raul Simões",
+      "data": "1934-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/em-destaque-inscricao-manuscrita-no.html",
+          "doc": "gc-v:2343453190989715868",
+          "citacao": "inscrição manuscrita no interior da guitarra de Artur Paredes/acervo do MAC, \"Reformada em Abril de 1934\" (Coimbra, Raul Simões?)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O próprio post coloca um ponto de interrogação na atribuição."
+    },
+    {
+      "campo": "outro",
+      "valor": "Executantes associados à sua obra: Artur Paredes, Afonso de Sousa, Flávio Rodrigues, Albano de Noronha, Jorge Alcino de Morais, António Carvalhal, José Amaral, Peres de Vasconcelos, Petrónio Ricciulli, João Bagão, entre outros",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Para além de Artur Paredes e Afonso de Sousa a obra de Raul Simões está associada a exímios executantes de guitarra como Flávio Rodrigues, Albano de Noronha, Jorge Alcino de Morais, António Carvalhal, José Amaral, Peres de Vasconcelos, Petrónio Ricciulli, primeiro grupo de António Brojo e João Bagão entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Armando Simões (1974): «o único guitarreiro existente em Coimbra»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "“Raul Simões – actualidade – é o único guitarreiro existente em Coimbra. Não começou pela arte, mas fez-se um bom guitarreiro como construtor e restaurador de instrumentos de corda, inclusivamente, instrumentos de arco” (Simões, 1974:130)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Armando Simões, A Guitarra. Bosquejo histórico (1974), p. 130, citado no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Espólio da oficina adquirido pela Câmara Municipal de Coimbra aos herdeiros em 1982; parte exposta em 2011 na exposição «Guitarras de Coimbra»",
+      "data": "1982",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Nesta exposição foi apresentada uma parte do espólio da oficina de Raul Simões, “o último guitarreiro de Coimbra”, adquirido pela Câmara Municipal aos seus herdeiros em 1982."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Para Pedro Caldeira Cabral, o registo discográfico de Raul Simões com Estrela Abrantes e os testemunhos gravados por Ernesto Veiga de Oliveira documentam a tradição da viola toeira nos contextos festivos da região de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "O conhecido registo discográfico de Raul Simões e Estrela Abrantes, bem como os testemunhos orais gravados por Ernesto Veiga de Oliveira, são documentos inegáveis dessa tradição"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Crítica do blogue: Pedro Caldeira Cabral nada acrescenta sobre Raul Simões no livro de 1999 e não apresentou nenhuma guitarra sua na exposição e catálogo de 2019",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "Porém, nada de relevante acrescenta sobre o papel de RS como construtor de violas toeiras e guitarras de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "No âmbito deste evento, PCC escreveu sobre a utilização da guitarra em Coimbra, mas estranhamente não apresentou nenhuma guitarra fabricada por RS nem destacou o papel original deste violeiro na definição de um modelo de guitarra que antecedeu em cerca de quinze anos os contributos dos irmãos Joaquim e João Pedro Grácio J."
+        }
+      ],
+      "conflito": false,
+      "nota": "António M. Nunes (blogue GC-V, 2023) sobre «A Guitarra Portuguesa» (1999) e «O Som da Saudade» (2019) de Pedro Caldeira Cabral."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joaquim-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Era filho de Joaquim Simões, natural de Cernache, e Leopoldina de Jesus, natural de Assafarge, concelho de Coimbra."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "leopoldina-de-jesus",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Era filho de Joaquim Simões, natural de Cernache, e Leopoldina de Jesus, natural de Assafarge, concelho de Coimbra."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "antonio-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Neto paterno de António Simões e de Luísa de Jesus, e materno de Manuel António e Mariana de Jesus."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "luisa-de-jesus",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Neto paterno de António Simões e de Luísa de Jesus, e materno de Manuel António e Mariana de Jesus."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "manuel-antonio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Neto paterno de António Simões e de Luísa de Jesus, e materno de Manuel António e Mariana de Jesus."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "mariana-de-jesus",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Neto paterno de António Simões e de Luísa de Jesus, e materno de Manuel António e Mariana de Jesus."
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "augusto-nunes-dos-santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "A comparação entre modelos assinados por ANS e Raul Simões tem provado que o último seguiu de perto as medidas e os procedimentos desta reputada oficina oitocentista."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "há indícios de que comprou instrumentos e material à entretanto encerrada oficina histórica de Augusto Nunes dos Santos."
+        }
+      ],
+      "nota": "Seguiu as medidas e procedimentos da oficina de Augusto Nunes dos Santos; as fontes não dizem que tenha sido seu aprendiz."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/AN%20Ral%20Simes%20com%20viola%20toeira.jpg",
+      "legenda": "Raul Simões na sua oficina em 1964, a tocar viola toeira. Fotografia de Ernesto Veiga de Oliveira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/raul-simes-na-sua-oficina-em-1964.html",
+          "doc": "gc-i:111530195906176992",
+          "citacao": "Raul Simões na sua oficina em 1964, a tocar Viola Toeira. Fotografia tirada por Ernesto Veiga de Oliveira"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx58ztwfMs5M5ENvhtTTED1rmS5y40DRz_wKn1qVp-2XtlXNwO3VAQ6weFRJENGg9hY716qzz4ABn20r7J14iP90Q2bncLKmy6rtmTT-_oPjxnUmNc5gM9bzbRKpkrLoI5ZAzUWvhL6kal/s1600/raul+sim%C3%B5es+1965.jpg",
+      "legenda": "Raul Simões com cerca de 66 anos de idade (fotografia publicada por Ernesto Veiga de Oliveira).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "em cima, com cerca de 66 anos de idade, fotografia publicada por Ernesto Veiga de Oliveira"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqVQdcR_1CK50YMG3sxv6TbHauCnGhYZ0KtKkxj3aa6yqXjB-yYkmx2N-WCO1I1NLj91nlQldLLGDkJR735nx-3d39Xov8wcV6rcToOxf5__T6p4aFNKbRiaFA170qt46N5TcdTUQeNSK/s1600/raul+sim%C3%B5es.png",
+      "legenda": "Raul Simões em tempos de juventude.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "em baixo, tempos de juventude com venerável bigode dos anos da 1.ª República."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Raul Simões, direito à memória (biografia por Dulce Simões, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html"
+    },
+    {
+      "rotulo": "Uma guerra perdida? As teimosias de Raul Simões (2020)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

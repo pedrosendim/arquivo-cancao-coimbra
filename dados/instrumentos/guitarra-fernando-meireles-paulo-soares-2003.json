@@ -1,0 +1,79 @@
+{
+  "id": "guitarra-fernando-meireles-paulo-soares-2003",
+  "designacao": "Guitarra de Paulo Soares, construída por Fernando Meireles em 2003",
+  "tipo": "guitarra",
+  "construtor": "fernando-meireles",
+  "ano": "2003",
+  "proprietarios": [
+    {
+      "pessoa": "paulo-soares",
+      "periodo": "desde 20 de fevereiro de 2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-paulo-soares.html",
+          "doc": "gc-i:111583159878430329",
+          "citacao": "Guitarra de Paulo Soares. Construção de Fernando Meireles em 2003."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Chegou às mãos de Paulo Soares a 20 de fevereiro de 2003, dia do início do I Festival da Guitarra de Coimbra",
+      "data": "2003-02-20",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-paulo-soares.html",
+          "doc": "gc-i:111583159878430329",
+          "citacao": "Veio parar a minhas mãos, curiosamente, no dia em que começou o I FESTIVAL DA GUITARRA DE COIMBRA, a 20 de Fevereiro de 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": "Comentário de Paulo Soares transcrito no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Paulo Soares, funciona bem até ao 22.º trasto",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-paulo-soares.html",
+          "doc": "gc-i:111583159878430329",
+          "citacao": "Funciona realmente bem até ao 22 trasto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/guitarra-Joj%202.jpg",
+      "legenda": "Guitarra de Paulo Soares, construção de Fernando Meireles em 2003.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-paulo-soares.html",
+          "doc": "gc-i:111583159878430329",
+          "citacao": "Guitarra de Paulo Soares. Construção de Fernando Meireles em 2003."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-paulo-soares.html",
+      "doc": "gc-i:111583159878430329",
+      "citacao": "Guitarra de Paulo Soares. Construção de Fernando Meireles em 2003."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

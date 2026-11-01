@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-jose-afonso-rapsodia-epf-5182-1962-3-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/no-lago-do-breu/829965885?i=829965935",
+  "titulo": "No Lago do Breu — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "rui-pato"
+  ],
+  "obras": [
+    "no-lago-do-breu"
+  ],
+  "gravacao": "jose-afonso-rapsodia-epf-5182-1962",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7c/64/3b/7c643bc8-37a4-bc5d-0673-8f23530ca85f/888608721523.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/no-lago-do-breu/829965885?i=829965935"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Baladas de Coimbra - EP», ℗ 2014 Entertain Me Europe LTD). EP digital com as mesmas quatro faixas, pela mesma ordem.",
+  "estado_revisao": "rascunho"
+}

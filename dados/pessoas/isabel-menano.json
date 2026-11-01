@@ -1,0 +1,29 @@
+{
+  "id": "isabel-menano",
+  "tipo": "pessoa",
+  "nome": "Isabel Menano",
+  "nomes_alternativos": [
+    "Dra. Isabel Menano"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "neto_de",
+      "alvo": "horacio-paulo-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "À Sra. Dra. Isabel Menano, neta do Dr. Horácio Menano"
+        }
+      ],
+      "nota": "A fonte não diz de qual dos filhos de Horácio é filha. DÚVIDA (revisão de 29.10.2026): há dois «Dr. Horácio Menano», o pai (horacio-paulo-menano, médico) e o filho homónimo (horacio-paulo-rey-colaco-menano, também médico, «Dr. Horácio Menano (filho)»); a frase, num post sobre Francisco Menano, não diz qual. A ligação ao pai, feita antes desta revisão, fica por confirmar."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

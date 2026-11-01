@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-carlos-figueiredo",
+  "tipo": "pessoa",
+  "nome": "Mulher de Carlos Figueiredo (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "carlos-figueiredo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Casado e com uma filha, viveu o resto dos seus dias na sua casa de Lisboa."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

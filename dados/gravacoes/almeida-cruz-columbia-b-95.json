@@ -1,0 +1,140 @@
+{
+  "id": "almeida-cruz-columbia-b-95",
+  "titulo": "As Carvoeiras / Fado das Saudades",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-95",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "As Carvoeiras",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-95-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado das Saudades",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-95-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«As Carvoeiras», por Almeida Cruz — etiqueta: «As Carvoeiras / Canção Portugueza - Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/612/almeida_cruz_as_carvoeiras",
+          "doc": "museu-do-fado:wec164e761cd6d1d6",
+          "citacao": "Título: As Carvoeiras ... Editora: Co. B-95 Referências: 11835; B95 ... Etiqueta: As Carvoeiras / Canção Portugueza - Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wbb973e4501c0b167"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «As carvoeiras, Columbia B-95, 11835, moda oriunda da Figueira da Foz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-As carvoeiras, Columbia B-95, 11835, moda oriunda da Figueira da Foz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Saudades», por Almeida Cruz — etiqueta: «Fado das Saudades / Fado / (A. Cruz) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/613/almeida_cruz_fado_das_saudades",
+          "doc": "museu-do-fado:wf0976b68af6319b9",
+          "citacao": "Título: Fado das Saudades ... Editora: Co. B-95 Referências: 11885; B95 ... Etiqueta: Fado das Saudades / Fado / (A. Cruz) / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w9a249dd9e9272e03"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado das Saudades, Columbia B-95, 11885, música de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado das Saudades, Columbia B-95, 11885, música de Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/612/almeida_cruz_as_carvoeiras",
+      "doc": "museu-do-fado:wec164e761cd6d1d6",
+      "citacao": "Título: As Carvoeiras ... Editora: Co. B-95 Referências: 11835; B95"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2118/almeida_cruz_as_carvoeiras",
+      "doc": "museu-do-fado:wbb973e4501c0b167",
+      "citacao": "Título: As Carvoeiras ... Editora: Co. B-95 Referências: 11835, 1- -3; B95"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-As carvoeiras, Columbia B-95, 11835, moda oriunda da Figueira da Foz"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/613/almeida_cruz_fado_das_saudades",
+      "doc": "museu-do-fado:wf0976b68af6319b9",
+      "citacao": "Título: Fado das Saudades ... Editora: Co. B-95 Referências: 11885; B95"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2119/almeida_cruz_fado_das_saudades",
+      "doc": "museu-do-fado:w9a249dd9e9272e03",
+      "citacao": "Título: Fado das Saudades ... Editora: Co. B-95 Referências: 11885, 1- -4; B95"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado das Saudades, Columbia B-95, 11885, música de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

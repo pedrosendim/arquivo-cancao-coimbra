@@ -1,0 +1,103 @@
+{
+  "id": "mario-garcia-afonso",
+  "tipo": "pessoa",
+  "nome": "Mário Garcia Afonso",
+  "nomes_alternativos": [
+    "Mário Afonso"
+  ],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "fundador e primeiro presidente da Secção de Fado da AAC (direção eleita a 24-2-1981; fez mais um mandato)",
+      "data": "1981-02-24",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A primeira direcção da Secção de Fado foi eleita em 24 de Fevereiro de 1981, sendo seu presidente o Mário Afonso, que fez mais um mandato."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/o-meu-livro-coimbra-guitarra-vai-sair.html",
+          "doc": "gc-ii:550748674572480753",
+          "citacao": "Mário Garcia Afonso (o primeiro presidente da secção de fado da AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Método de Cavaquinho», editado e reeditado pela Secção de Fado",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "A edição e reedição do “Método de Cavaquinho” da autoria do colega Mário Afonso"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "entrevistou o construtor Fernando Meireles no primeiro semestre de 1986, então sócio da Secção",
+      "data": "1986",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/revelao-meireles-entrevista-de-mrio.html",
+          "doc": "gc-i:115464170383861436",
+          "citacao": "Entrevista de Mário Afonso (à data dinâmico sócio da Secção de Fado da AAC) ao talentoso construtor de instrumentos musicais Fernando Meireles no primeiro semestre de 1986."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "autor das fotografias da edição canadiana do livro «Coimbra à Guitarra»",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/o-meu-livro-coimbra-guitarra-vai-sair.html",
+          "doc": "gc-ii:550748674572480753",
+          "citacao": "esta edição vai ter um conjunto de fotografias magníficas da autoria de Mário Garcia Afonso"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No início desse ano, fui contactado pelo Mário Afonso e pelo Joaquim (Quim) Reis para integrar um movimento cuja finalidade seria “restituir” o \"Fado de Coimbra\" à Academia e à cidade."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "sendo seu presidente o Mário Afonso, que fez mais um mandato"
+        }
+      ],
+      "nota": "Fundador (movimento de 1980) e primeiro presidente da Secção (direção eleita a 24-2-1981; dois mandatos); ainda sócio em 1986."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

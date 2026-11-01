@@ -1,0 +1,179 @@
+{
+  "id": "augusto-camacho-vieira-columbia-slem-2004",
+  "titulo": "Romantic Coimbra – Saudades do Choupal",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "SLEM 2004",
+  "ano": "1957",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "petronio-ricciuli",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "egas-berrance",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-figueiredo",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Sonhando",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Sé Velha",
+      "obra": "",
+      "media": ["ouvir-augusto-camacho-vieira-columbia-slem-2004-2-youtube"]
+    },
+    {
+      "n": 3,
+      "titulo": "Mágoa",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "A Tua Rua",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/jAhQLHXGOhwQ8-sS27WmMGIz91I1eW5k2Fo8KgkEPuc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODkxLTE1MjUwODE5/MDktODk0Mi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10212891",
+        "doc": "discogs:wbcd4fca36bc357ef",
+        "citacao": "Imagem (primary): https://i.discogs.com/jAhQLHXGOhwQ8-sS27WmMGIz91I1eW5k2Fo8KgkEPuc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEy/ODkxLTE1MjUwODE5/MDktODk0Mi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10212891",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10212891",
+          "doc": "discogs:wbcd4fca36bc357ef",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10212891",
+          "doc": "discogs:wbcd4fca36bc357ef",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1959 (Discogs)",
+      "data": "1959",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10212891",
+          "doc": "discogs:wbcd4fca36bc357ef",
+          "citacao": "Data: 1959"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1957."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1957 (blogue)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "Columbia SLEM 2004, 1957."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/se-velha.html",
+          "doc": "gc-v:3208355360981394791",
+          "citacao": "SLEM 2004, ano de 1957, reedição das quatro matrizes gravadas por Augusto Camacho Vieira em 1953;"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1959."
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: Petrónio Ricciulli e Egas Berrance (guitarras de Coimbra), Carlos Figueiredo (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "Petrónio Ricciulli e Egas Berrance (ggC); Carlos Figueiredo (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10212891",
+          "doc": "discogs:wbcd4fca36bc357ef",
+          "citacao": "Guitar – Carlos De Figueiredo Portuguese Guitar – Egas Berrance Portuguese Guitar – Petrónio Ricciulli"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10212891",
+      "doc": "discogs:wbcd4fca36bc357ef",
+      "citacao": "Editora: Columbia – SLEM 2004"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+      "doc": "gc-v:920248313425054771",
+      "citacao": "EP Romantic Coimbra, Saudades do Choupal, Lisboa, Columbia SLEM 2004, 1957. Texto na contracapa não assinado. Reedição de quatro registos de 78 rpm editados em 1954."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

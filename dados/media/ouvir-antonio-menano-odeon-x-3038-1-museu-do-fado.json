@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3038-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0600_01.mp3",
+  "titulo": "Fado da Morena — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3038",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1194.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1184/antonio_menano_fado_da_morena",
+      "doc": "museu-do-fado:wd5199304442657cc",
+      "citacao": "Título: Fado da Morena ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG652, R, 3038A; X 3038a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

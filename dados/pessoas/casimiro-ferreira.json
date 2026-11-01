@@ -1,0 +1,31 @@
+{
+  "id": "casimiro-ferreira",
+  "tipo": "pessoa",
+  "nome": "Casimiro Ferreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravou em 1960 o EP Fado Corrido de Coimbra (Rapsódia EPF 5.084), com António Portugal/Eduardo de Melo e Manuel Pepe/Paulo Alão",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Casimiro Ferreira gravou este tema em 1960, acompanhado por António Portugal/Eduardo de Melo (gg) e Manuel Pepe/Paulo Alão (vv): EP “Fado Corrido de Coimbra”, Rapsódia EPF 5.084, ano de 1960, faixa nº 1."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

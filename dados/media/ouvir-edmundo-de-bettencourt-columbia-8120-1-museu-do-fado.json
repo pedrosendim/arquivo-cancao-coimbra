@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8120-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0156_05.mp3",
+  "titulo": "Menina e Moça — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8120",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0312.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/307/edmundo_bettencourt_menina_e_moca",
+      "doc": "museu-do-fado:w6c0cd2fb90f8f6d8",
+      "citacao": "Título: Menina e moça ... Editora: Co. 8120"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

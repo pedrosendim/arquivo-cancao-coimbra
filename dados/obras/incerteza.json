@@ -1,0 +1,56 @@
+{
+  "id": "incerteza",
+  "titulo": "Incerteza",
+  "titulos_alternativos": [
+    "Não sei quem sejas que importa"
+  ],
+  "genero": "outro",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música e letra de Eduardo Manuel Tavares de Melo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "música e letra de Eduardo Manuel Tavares de Melo."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Incerteza\n\nLetra e música de Tavares de Melo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tavares de Melo declarou-se melindrado por não lhe ter sido pedida autorização",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "No caso de Incerteza, Tavares de Melo, que entretanto tinha regressado à ilha de São Miguel (1951), apreciou a gravação mas declarou-se melindrado com o facto de não lhe ter sido solicitada autorização."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "FPD 224 – INCERTEZA (Não sei quem sejas que importa), música e letra de Eduardo Manuel Tavares de Melo."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

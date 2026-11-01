@@ -1,0 +1,44 @@
+{
+  "id": "carlos-pedro",
+  "tipo": "pessoa",
+  "nome": "Carlos Pedro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-iii", "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html", "doc": "gc-iii:7972297881497883543", "citacao": "Em 1990 inicia o estudo do canto de Coimbra na secção de fado da AAC com o monitor Jorge Cravo."}], "nota": "Aluno de canto na Secção a partir de 1990."},
+    {"tipo": "aluno_de", "alvo": "jorge-cravo", "fontes": [{"fonte": "gc-iii", "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html", "doc": "gc-iii:7972297881497883543", "citacao": "Em 1990 inicia o estudo do canto de Coimbra na secção de fado da AAC com o monitor Jorge Cravo."}], "nota": "Canto, na Secção de Fado (1990)."},
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 1990 inicia o estudo do canto de Coimbra na secção de fado da AAC com o monitor Jorge Cravo. Em Setembro desse ano é fundador do grupo de fados de Coimbra “Alma Mater”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/curiosidades.html",
+          "doc": "gc-v:4090914074322095260",
+          "citacao": "Que o cantor Carlos Pedro, do grupo Alma Mater, ficou tão nervoso quando foi fazer a sua primeira serenata na Sé Velha que não conseguiu dormir na noite anterior?"
+        }
+      ],
+      "nota": "voz; fundador (1990), ainda no grupo em 2013"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

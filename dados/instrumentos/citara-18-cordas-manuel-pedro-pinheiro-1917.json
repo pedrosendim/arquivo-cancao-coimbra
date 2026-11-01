@@ -1,0 +1,49 @@
+{
+  "id": "citara-18-cordas-manuel-pedro-pinheiro-1917",
+  "designacao": "Cítara (guitarra) do tipo lisboeta de 18 cordas, fabricada no Rabaçal por Manuel Pedro Pinheiro em 1917 (documentada por Pedro Caldeira Cabral no catálogo «O Som da Saudade», 2019)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "",
+  "ano": "1917",
+  "proprietarios": [
+    {
+      "pessoa": "pedro-caldeira-cabral",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Posteriormente, tendo conseguido alargar a sua coleção, o referido autor divulgará na exposição e catálogo de 2019 (O som da saudade), no capítulo «as cítaras especiais», duas cítaras de mais de 12 cordas. ... Outro exemplar, mais tardio, é documentado pelo autor / colecionador nas páginas 114 a 115"
+        }
+      ]
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cítara do tipo lisboeta, datada de 1917, fabricada no Rabaçal por Manuel Pedro Pinheiro, com leque de 18 parafusos",
+      "data": "1917",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Outro exemplar, mais tardio, é documentado pelo autor / colecionador nas páginas 114 a 115, remetendo para uma cítara do tipo lisboeta, datada de 1917, fabricada no Rabaçal por Manuel Pedro Pinheiro, com leque de 18 parafusos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Pedro Caldeira Cabral, «O Som da Saudade, a cítara portuguesa» (Museu do Fado, 2019), pp. 114-115, capítulo «as cítaras especiais», citado no post. A fonte liga a divulgação desta cítara ao alargamento da coleção do autor («autor / colecionador»); confirmar a pertença no catálogo."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "remetendo para uma cítara do tipo lisboeta, datada de 1917, fabricada no Rabaçal por Manuel Pedro Pinheiro"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

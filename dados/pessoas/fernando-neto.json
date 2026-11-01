@@ -1,0 +1,46 @@
+{
+  "id": "fernando-neto",
+  "tipo": "pessoa",
+  "nome": "Fernando Neto",
+  "nomes_alternativos": [
+    "Fernando Neto Mateus da Silva"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Fernando Neto Mateus da Silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP Canções do Mar e da Vida (Luiz Goes, 1969)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+          "doc": "gc-v:7363514650320825950",
+          "citacao": "Canta Luiz Goes barítono, acompanhado por João Bagão (arranjos e solos de gC), Aires de Aguillar (2ª gC), António Toscano/Fernando Neto (vv) e João Gomes (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

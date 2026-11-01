@@ -1,0 +1,138 @@
+{
+  "id": "antonio-menano-odeon-187503",
+  "titulo": "Fado do Bussaco / Fado da Sé Velha",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "187.503 / 187.504",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Bussaco",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-187503-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Sé Velha",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-187503-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Bussaco», por António Menano — etiqueta: «Fado do Bussaco / (António Menano) / Com acompanhamento de Guitarras e Viola / António Menano / Paris»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1172/antonio_menano_fado_do_bussaco",
+          "doc": "museu-do-fado:wacee1139b0fe6109",
+          "citacao": "Título: Fado do Bussaco ... Editora: Od.187.503,187.816,Co.1083X,EMICD8364452 Referências: OG606, W, 1927; A 187503 ... Etiqueta: Fado do Bussaco / (António Menano) / Com acompanhamento de Guitarras e Viola / António Menano / Paris"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wa2be3fd268dd3690, museu-do-fado:wae7e95a0adc6ca34"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Sé Velha», por António Menano — etiqueta: «Fado da Sé Velha / (António Menano) / Com acompanhamento de Guitarra e Viola / António Menano / Paris»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1173/antonio_menano_fado_da_se_velha",
+          "doc": "museu-do-fado:w957594b1f720d65a",
+          "citacao": "Título: Fado da Sé Velha ... Editora: Od.187.504,187.816,Co.1083X,EMI261283,EMICD8364452,HTCD31 Referências: OG607, W, 1927; A 187504 ... Etiqueta: Fado da Sé Velha / (António Menano) / Com acompanhamento de Guitarra e Viola / António Menano / Paris"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w631ce66f5446c381, museu-do-fado:wda37acf310d70683"
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco da edição de Paris com um número de catálogo por face (187.503 / 187.504), segundo o inventário das etiquetas de António Menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "187.503 Og 606 – Fado do Bussaco (Dois beijos tiveste um dia) 187.504 Og 607 – Fado da Sé Velha (Se eu tivesse olhos assim)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "na edição de Paris cada face fonográfica tem o seu próprio número de catálogo, correspondendo as matrizes do número mais baixo ao que se poderia chamar a “face A” ou “lado 1"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1172/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:wacee1139b0fe6109",
+      "citacao": "Título: Fado do Bussaco ... Editora: Od.187.503,187.816,Co.1083X,EMICD8364452 Referências: OG606, W, 1927; A 187503"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2021/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:wa2be3fd268dd3690",
+      "citacao": "Título: Fado do Bussaco ... Editora: Od.187.503 Referências: OG606, W; A 187503"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4757/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:wae7e95a0adc6ca34",
+      "citacao": "Título: Fado do Bussaco ... Editora: Od.187.503 Referências: OG606, W; A 187503"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1173/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:w957594b1f720d65a",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Od.187.504,187.816,Co.1083X,EMI261283,EMICD8364452,HTCD31 Referências: OG607, W, 1927; A 187504"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4756/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:w631ce66f5446c381",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Od.187.504 Referências: OG607, W; A 187504"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2020/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:wda37acf310d70683",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Od.187.504 Referências: OG607, W; A 187504"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+      "doc": "gc-i:116584350941968291",
+      "citacao": "187.503 Og 606 – Fado do Bussaco (Dois beijos tiveste um dia) 187.504 Og 607 – Fado da Sé Velha (Se eu tivesse olhos assim)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

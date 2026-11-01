@@ -1,0 +1,198 @@
+{
+  "id": "fados-e-guitarradas-de-coimbra-alvorada-mep-60111",
+  "titulo": "Fados e Guitarradas de Coimbra",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60111",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-sutil-roque",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "fernando-machado-soares",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "creditado na faixa B2 (Discogs)"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "creditado na faixa B2 (Discogs)"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "creditado na faixa B2 (Discogs)"
+    },
+    {
+      "pessoa": "levi-baptista",
+      "funcao": "creditado na faixa B2 (Discogs)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Minhas Penas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Graça de Deus",
+      "obra": "",
+      "media": [
+        "disco-fados-e-guitarradas-de-coimbra-alvorada-mep-60111-graca-de-deus"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado da Noite",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Lá Maior",
+      "obra": "",
+      "media": [
+        "disco-fados-e-guitarradas-de-coimbra-alvorada-mep-60111-variacoes-em-la-maior"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/QncYotQXe7n226mnM9H2UXlij3Dog7JE3wlUDxX2ukE/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk1/NzYtMTM4MzMzMzky/My0yODI3LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/4909576",
+        "doc": "discogs:wb6be0831c2bcb48d",
+        "citacao": "Imagem (secondary): https://i.discogs.com/QncYotQXe7n226mnM9H2UXlij3Dog7JE3wlUDxX2ukE/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk1/NzYtMTM4MzMzMzky/My0yODI3LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/4909576",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4909576",
+          "doc": "discogs:wb6be0831c2bcb48d",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4909576",
+          "doc": "discogs:wb6be0831c2bcb48d",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1961 (Discogs)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4909576",
+          "doc": "discogs:wb6be0831c2bcb48d",
+          "citacao": "Data: 1961"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue refere a gravação de Machado Soares neste EP em 1956 e, noutro post, em 1958."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1956 (gravação de Machado Soares, blogue)",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/registos-fonogrficos-de-carlos-leal-e.html",
+          "doc": "gc-i:115151098147348832",
+          "citacao": "veio a ser gravado por Machado Soares em 1956 (EP Alvorada, MEP 60111)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do blogue indica 1958; o Discogs indica 1961."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1958 (gravação de Machado Soares, blogue)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/registos-fonograficos-do-estudante-da.html",
+          "doc": "gc-v:119080822074670890",
+          "citacao": "por Machado Soares em 1958 (EP Alvorada, MEP 60111)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do blogue indica 1956; o Discogs indica 1961."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos da faixa B2 no Discogs: António Portugal, Jorge Godinho, Levi Baptista, Manuel Pepe",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4909576",
+          "doc": "discogs:wb6be0831c2bcb48d",
+          "citacao": "B2 Variações Em Lá Maior — Fernando Machado Soares  [António Portugal, Jorge Godinho, Levi Baptista, Manuel Pepe (2) (Manuel Pepe), José Marques Amaral (Dr. José Amaral)]"
+        }
+      ],
+      "conflito": false,
+      "nota": "As funções (guitarra/viola) dos instrumentistas não vêm indicadas no Discogs nem foram encontradas nos blogues para este EP."
+    },
+    {
+      "campo": "outro",
+      "valor": "Outro vídeo de «Graça de Deus» indicado no Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4909576",
+          "doc": "discogs:wb6be0831c2bcb48d",
+          "citacao": "Vídeo: Graça de Deus Luís Góis — https://www.youtube.com/watch?v=tavoB43hNNg"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/4909576",
+      "doc": "discogs:wb6be0831c2bcb48d",
+      "citacao": "Editora: Alvorada – MEP 60111"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

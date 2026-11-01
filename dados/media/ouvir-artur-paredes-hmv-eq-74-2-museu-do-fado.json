@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-74-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0687_27.mp3",
+  "titulo": "Variações em Ré Menor — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "variacoes-em-re-menor-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-74",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1367.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1358/artur_paredes_variacoes_em_re_menor",
+      "doc": "museu-do-fado:wb1b02513148dd092",
+      "citacao": "Título: Variações em ré menor ... Editora: HMV EQ74, MH35,HTCD15"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

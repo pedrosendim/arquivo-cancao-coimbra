@@ -1,0 +1,89 @@
+{
+  "id": "alma-mater-seccao-de-fado-cd-sf005",
+  "titulo": "Alma Mater – Grupo de Fados de Coimbra",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "CD-SF 005",
+  "ano": "1995",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "alma-mater",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "carlos-pedro",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "pedro-anastacio",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "nuno-cadete",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-paulo-lopes",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "14 temas antigos; canta Carlos Pedro, guitarras de Pedro Anastácio e Nuno Cadete, viola de António Paulo",
+      "data": "1995",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte escreve «António Paulo»; liga-se à ficha antonio-paulo-lopes, viola do Alma Mater — identificação a confirmar."
+    },
+    {
+      "campo": "outro",
+      "valor": "faixa n.º 11: «Fado de Coimbra», na 2.ª versão de António Bernardino, com arranjo de acompanhamento de Pedro Anastácio",
+      "data": "1995",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/fado-de-coimbra-verso-armando-goes.html",
+          "doc": "gc-i:113858290414529250",
+          "citacao": "-CD “Alma Mater – Grupo de Fados de Coimbra”/Secção de Fado/AAC, CD-SF-005, ano de 1995, Faixa nº 11: canta Carlos Pedro, acompanhado por Pedro Anastácio/Nuno Cadete (gg) e António Paulo (v). O cantor segue a 2ª versão de António Bernardino, com arranjo de acompanhamento de Pedro Anastácio."
+        }
+      ],
+      "conflito": false,
+      "nota": "Alinhamento completo não arquivado; por isso a ficha não tem faixas."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+      "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+      "citacao": "“Alma Mater”"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,191 @@
+{
+  "id": "armando-neves",
+  "tipo": "pessoa",
+  "nome": "Armando Neves",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Testemunhos de coevos, como o do violeiro Armando Neves, que foi aprendiz e oficial de Augusto Nunes dos Santos, confirmam a referida oficina como palco de intensas conversas sobre os processos artesanais de construção e a qualidade dos cordofones (Simões: 1974)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Neves reclama para si a responsabilidade da tomada de medidas do modelo portuense e o fabrico de uma primeira réplica em madeira de nogueira para o estudante Lúcio Pais de Abranches, de Medicina."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+      "doc": "gc-i:113874235860244241",
+      "citacao": "Augusto Nunes dos Santos e Armando Neves trabalharam praticamente em simultâneo na definição de um modelo de maiores dimensões."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/oficinas-de-violaria-estabelecidas-na.html",
+      "doc": "gc-v:2613138918124963746",
+      "citacao": "Armando Neves, antigo oficial da casa de Augusto Nunes dos Santos/estabelecido na rua das Solas [Adelino Veiga]"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Tendo em conta que se trata do relato de um violeiro que se viria a estabelecer autonomamente e que trabalhou em Coimbra pelo menos até à década de 1940"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Aprendiz e oficial na oficina de Augusto Nunes dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "o do violeiro Armando Neves, que foi aprendiz e oficial de Augusto Nunes dos Santos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina própria na Rua das Solas (Adelino Veiga), Coimbra (c. 1911)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/oficinas-de-violaria-estabelecidas-na.html",
+          "doc": "gc-v:2613138918124963746",
+          "citacao": "Armando Neves, antigo oficial da casa de Augusto Nunes dos Santos/estabelecido na rua das Solas [Adelino Veiga]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Almanach da Republica: districto de Coimbra, s/d [ca. 1911], citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fabricou na sua oficina o modelo da guitarra toeira de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Foi também fabricado na oficina de Armando Neves."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaurou em 1945 uma guitarra toeira de Coimbra de violeiro não identificado",
+      "data": "1945",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Guitarra Toeira de Coimbra de violeiro não identificado, restaurada por Armando Neves, Coimbra, no ano de 1945."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reclamou ter feito em 1894 a primeira réplica da guitarra de 15 cordas de José Cochofel, com escudete elíptico para monograma (o post levanta dúvidas sobre essa autonomia)",
+      "data": "1894",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Esta primeira cópia, construída artesanalmente em Coimbra ainda em 1894, terá apresentado pela primeira vez uma gancha rematada por escudete elíptico, para aposição do monograma de prata do cliente, facécia que Neves reclama como sua."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "ficam dúvidas sobre a precoce autonomia que Armando Neves veio a reclamar perante o estudioso Armando Simões nas décadas de 1930-1940"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Informador do estudioso Armando Simões («A Guitarra», 1974)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "O estudioso Armando Simões conviveu bastante com o guitarreiro Armando Neves"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "O violeiro Armando Neves tinha chamado a atenção do estudioso Armando Simões"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segundo Pedro Caldeira Cabral, o cavalete das suas violas toeiras tem o desenho uniforme do grupo de violeiros de Coimbra, com um «segredo» hoje esquecido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A construção do cavalete da Viola Toeira, com um desenho bastante uniforme em instrumentos de violeiros diferentes como António dos Santos, Augusto Nunes dos Santos, Bento Martins Lobo, António de Sousa ou Armando Neves, contém um segredo só conhecido e praticado por este grupo de violeiros"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "augusto-nunes-dos-santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "o do violeiro Armando Neves, que foi aprendiz e oficial de Augusto Nunes dos Santos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/oficinas-de-violaria-estabelecidas-na.html",
+          "doc": "gc-v:2613138918124963746",
+          "citacao": "Armando Neves, antigo oficial da casa de Augusto Nunes dos Santos"
+        }
+      ],
+      "nota": "Aprendiz e oficial da oficina."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

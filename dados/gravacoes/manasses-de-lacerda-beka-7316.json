@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-beka-7316",
+  "titulo": "Canção da encosta",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7316",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção da encosta",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-beka-7316-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção da encosta», por Manassés de Lacerda — etiqueta: «Canção da Encosta / Canção / Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/920/manasses_de_lacerda_cancao_da_encosta",
+          "doc": "museu-do-fado:w135ebb39e327bb3b",
+          "citacao": "Título: Canção da encosta ... Editora: Beka 7316 Referências: Disco “Beka” Grande, 7316, ∆7; 7316 ... Etiqueta: Canção da Encosta / Canção / Manassés de Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/920/manasses_de_lacerda_cancao_da_encosta",
+      "doc": "museu-do-fado:w135ebb39e327bb3b",
+      "citacao": "Título: Canção da encosta ... Editora: Beka 7316 Referências: Disco “Beka” Grande, 7316, ∆7; 7316"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "manuel-alegre-de-melo-duarte",
+  "tipo": "pessoa",
+  "nome": "Manuel Alegre de Melo Duarte",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "francisco-jose-de-faria-e-melo-ferreira-duarte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-manuela-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "manuel-ribeiro-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "maria-teresa-alegre-de-melo-duarte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

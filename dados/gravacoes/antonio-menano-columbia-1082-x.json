@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-columbia-1082-x",
+  "titulo": "Solitário / O meu menino",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1082X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Solitário",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1082-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O meu menino",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1082-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Solitário», por António Menano — etiqueta: «Solitario / António Menano / Com Acompanhamento de / Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1166/antonio_menano_solitario",
+          "doc": "museu-do-fado:w9c223efec77ee62e",
+          "citacao": "Título: Solitário ... Editora: Co.1082X, Od. 136.804,EMICD8364452 Referências: OG593, N5, S, AD, 2; G-1082-X ... Etiqueta: Solitario / António Menano / Com Acompanhamento de / Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«O meu menino», por António Menano — etiqueta: «O meu menino / António Menano / Com Acompanhamento de / Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1167/antonio_menano_o_meu_menino",
+          "doc": "museu-do-fado:wbca3604b755ac645",
+          "citacao": "Título: O meu menino ... Editora: Co.1082X, Od.135.805,EMICD8364452 Referências: OG594, P, DS, 1, N5; G-1082-X ... Etiqueta: O meu menino / António Menano / Com Acompanhamento de / Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1166/antonio_menano_solitario",
+      "doc": "museu-do-fado:w9c223efec77ee62e",
+      "citacao": "Título: Solitário ... Editora: Co.1082X, Od. 136.804,EMICD8364452 Referências: OG593, N5, S, AD, 2; G-1082-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1167/antonio_menano_o_meu_menino",
+      "doc": "museu-do-fado:wbca3604b755ac645",
+      "citacao": "Título: O meu menino ... Editora: Co.1082X, Od.135.805,EMICD8364452 Referências: OG594, P, DS, 1, N5; G-1082-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

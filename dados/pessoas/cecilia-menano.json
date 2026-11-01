@@ -1,0 +1,72 @@
+{
+  "id": "cecilia-menano",
+  "tipo": "pessoa",
+  "nome": "Cecília Menano",
+  "nomes_alternativos": [
+    "Professora D. Cecília Menano"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Professora",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "a sua irmã a Professora D. Cecília Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "horacio-paulo-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "alice-schemidt-lafourcade-rey-colaco",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "horacio-paulo-rey-colaco-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "O Dr. Horácio Menano (filho) e a a sua irmã a Professora D. Cecília Menano, estão ainda entre nós."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-187503-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0594_29.mp3",
+  "titulo": "Fado do Bussaco — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-187503",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1181.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1172/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:wacee1139b0fe6109",
+      "citacao": "Título: Fado do Bussaco ... Editora: Od.187.503,187.816,Co.1083X,EMICD8364452 Referências: OG606, W, 1927; A 187503"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

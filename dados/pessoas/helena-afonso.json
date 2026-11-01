@@ -1,0 +1,75 @@
+{
+  "id": "helena-afonso",
+  "tipo": "pessoa",
+  "nome": "Helena Afonso",
+  "nomes_alternativos": [
+    "Maria Helena",
+    "Helena"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "29 de dezembro de 1953",
+      "data": "1953-12-29",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Nascimento dos dois filhos: José Manuel, em 18 de Janeiro e Maria Helena, em 29 de Dezembro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrada de 1953 da cronologia da AJA."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1954",
+      "data": "1954",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "José Manuel e Helena (nascida em 1954)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/homenagem-adriano-correia-de-oliveira.html",
+          "doc": "gc-i:9109929306434950179",
+          "citacao": "Helena Afonso (filha de José Afonso)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "já com dois filhos, José Manuel e Helena (nascida em 1954)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Nascimento dos dois filhos: José Manuel, em 18 de Janeiro e Maria Helena, em 29 de Dezembro."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

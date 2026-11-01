@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-la-187800",
+  "titulo": "Fado Manassés / Carta d'aldeia",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187.800",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Manassés",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187800-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Carta d'aldeia",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187800-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Manassés», por António Menano — etiqueta: «Fado Manéssés / (António Menano) / Dr. Antonio Menano  / Guitarra João Fernandes  / Viola Mário Marques  / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1194/antonio_menano_fado_manasses",
+          "doc": "museu-do-fado:wa4aac66a0a15aa26",
+          "citacao": "Título: Fado Manassés ... Editora: Od. LA187.800, Co.1091X,EMI2605983,HTCD31 Referências: OG1017, NR, W; LA 187800a ... Etiqueta: Fado Manéssés / (António Menano) / Dr. Antonio Menano  / Guitarra João Fernandes  / Viola Mário Marques  / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: João Fernandes (guitarra), Mário Marques (viola), Alfonso Corrêa Leite (piano)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Carta d'aldeia», por António Menano — etiqueta: «Carta d’Aldeia / (Coutinho d’Oliveira) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1195/antonio_menano_carta_daldeia",
+          "doc": "museu-do-fado:wab183fcb5f4772ad",
+          "citacao": "Título: Carta d'aldeia ... Editora: Od.LA187.800, Co.1091X Referências: OG1037, NR; LA 187800b ... Etiqueta: Carta d’Aldeia / (Coutinho d’Oliveira) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1194/antonio_menano_fado_manasses",
+      "doc": "museu-do-fado:wa4aac66a0a15aa26",
+      "citacao": "Título: Fado Manassés ... Editora: Od. LA187.800, Co.1091X,EMI2605983,HTCD31 Referências: OG1017, NR, W; LA 187800a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1195/antonio_menano_carta_daldeia",
+      "doc": "museu-do-fado:wab183fcb5f4772ad",
+      "citacao": "Título: Carta d'aldeia ... Editora: Od.LA187.800, Co.1091X Referências: OG1037, NR; LA 187800b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

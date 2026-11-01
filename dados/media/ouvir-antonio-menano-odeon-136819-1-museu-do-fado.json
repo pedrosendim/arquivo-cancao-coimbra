@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136819-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0598_37.mp3",
+  "titulo": "Um fado — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136819",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1190.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1180/antonio_menano_um_fado",
+      "doc": "museu-do-fado:wfe4aa9bf7351bb90",
+      "citacao": "Título: Um fado ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG673, R, S, 1; G-1086-x"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota": "A linha «Editora» do registo indica «Od.136.819, Co.1086X,EMI261283,EMICD8364452»; a linha «Referências» termina em «G-1086-x»."
+}

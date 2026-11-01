@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-x-3043",
+  "titulo": "Fado do Ceguinho / Fado Saudades",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3043",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Ceguinho",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3043-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Saudades",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3043-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Ceguinho», por António Menano — etiqueta: «Fado do Ceguinho / [Ilegível] / António Menano / Acomp. Guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1190/antonio_menano_fado_do_ceguinho",
+          "doc": "museu-do-fado:w779394a1f9cf8626",
+          "citacao": "Título: Fado do Ceguinho ... Editora: Od. X3043, 136.817, EMICD8346182 Referências: OG653, R, 3043A; X 3043a ... Etiqueta: Fado do Ceguinho / [Ilegível] / António Menano / Acomp. Guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Saudades», por António Menano — etiqueta: «Fado Saudades  / (Dr. Paulo de Sá) / Versos do Dr. Fernandes Martins / Antonio Menano  / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1191/antonio_menano_fado_saudades",
+          "doc": "museu-do-fado:w9ff197c992a90805",
+          "citacao": "Título: Fado Saudades ... Editora: Od. X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R, 3043B; X 3043b ... Etiqueta: Fado Saudades  / (Dr. Paulo de Sá) / Versos do Dr. Fernandes Martins / Antonio Menano  / Acomp. de Guitarra e Viola / "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1190/antonio_menano_fado_do_ceguinho",
+      "doc": "museu-do-fado:w779394a1f9cf8626",
+      "citacao": "Título: Fado do Ceguinho ... Editora: Od. X3043, 136.817, EMICD8346182 Referências: OG653, R, 3043A; X 3043a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1191/antonio_menano_fado_saudades",
+      "doc": "museu-do-fado:w9ff197c992a90805",
+      "citacao": "Título: Fado Saudades ... Editora: Od. X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R, 3043B; X 3043b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

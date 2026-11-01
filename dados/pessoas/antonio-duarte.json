@@ -1,0 +1,149 @@
+{
+  "id": "antonio-duarte",
+  "tipo": "pessoa",
+  "nome": "António Duarte",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/junto-3-fotos-da-guitarra-do-porto.html",
+      "doc": "gc-i:115750232735854495",
+      "citacao": "António Duarte já trabalhava em 1870 e ainda tinha oficina no começo do século XX."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Trata-se de uma cítara com escala de 17 pontos inteiros e 47 cm de tiro de corda, com voluta floral, fabricada na oficina portuense de António Duarte por volta de 1893-1894, que Cochofel utilizou em Coimbra e divulgou como cítara de concerto."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+      "doc": "gc-v:3875621728661417894",
+      "citacao": "Cordofone construído nas suas linhas estruturantes desde circa 1895 na oficina do mestre Augusto Nunes dos Santos tomando por base guitarras do Porto importadas da casa António Duarte."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/02/uma-rara-antonio-duarte-com-escudete.html",
+      "doc": "gc-v:2214832310372811070",
+      "citacao": "Parece ser anterior a 1919, data apontada para o falecimento do prestigiado violeiro portuense."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Oficina no Porto; casa fundada em 1870",
+      "data": "1870",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/junto-3-fotos-da-guitarra-do-porto.html",
+          "doc": "gc-i:115750232735854495",
+          "citacao": "Casa fundada em 1870"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/junto-3-fotos-da-guitarra-do-porto.html",
+          "doc": "gc-i:115750232735854495",
+          "citacao": "Armando Simões escreve no seu \"A Guitarra Portuguesa\", pág 118, que António Duarte já trabalhava em 1870"
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho de um leitor (Jorge Félix) publicado no blogue; o rótulo transcrito é de «António Duarte, Suc»."
+    },
+    {
+      "campo": "morte",
+      "valor": "1919 (data apontada)",
+      "data": "1919",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/02/uma-rara-antonio-duarte-com-escudete.html",
+          "doc": "gc-v:2214832310372811070",
+          "citacao": "Parece ser anterior a 1919, data apontada para o falecimento do prestigiado violeiro portuense."
+        }
+      ],
+      "conflito": true,
+      "nota": "Um leitor atribui-lhe uma guitarra feita em 1930 (ver facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Ainda construía em 1930, segundo um leitor (guitarra do Porto «construída ... em 1930, por Ant Duarte»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/junto-3-fotos-da-guitarra-do-porto.html",
+          "doc": "gc-i:115750232735854495",
+          "citacao": "foi construída para o Pai de meu Sogro, Sr José Mariani de VNGaia, em 1930, por Ant Duarte."
+        }
+      ],
+      "conflito": true,
+      "nota": "O rótulo dessa guitarra, transcrito no mesmo post, diz «António Duarte, Suc» (sucessor), o que pode explicar a divergência; fica para o editor."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fornecia guitarras do Porto a estudantes de Coimbra; os seus modelos estiveram na base da guitarra toeira de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Foi nesta oficina que se experimentou o primitivo modelo da guitarra toeira de Coimbra, segundo a opinião técnica de PCCabral a partir de modelos fabricados na casa portuense de António Duarte."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "O tiro de corda, com 470cms, aproxima-se das práticas usuais nas oficinas de António Duarte (abastecimento portuense a Coimbra) e de Augusto Nunes dos Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra fabricada em 1905, oferecida pela atriz e fadista Adelina Fernandes ao avô paterno de Pedro Caldeira Cabral, que a recebeu aos 10 anos",
+      "data": "1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Aos 10 anos recebeu como presente uma guitarra antiga, fabricada em 1905 por António Duarte, do Porto, a qual tinha sido oferecida ao avô paterno pela célebre actriz e cantora de fado, Adelina Fernandes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado. Ver a ficha guitarra-antonio-duarte-1905-pedro-caldeira-cabral."
+    },
+    {
+      "campo": "outro",
+      "valor": "Pedro Caldeira Cabral terá passado a admitir, em intervenções públicas, a influência das guitarras da oficina de António Duarte nas oficinas de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "PCC tinha vindo a rever a sua tese sobre as origens da guitarra de Coimbra, admitindo em intervenções públicas a ostensiva e notória influência que as guitarras das oficinas do Porto, nomeadamente da oficina de António Duarte, tinham exercido nas oficinas de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Relato de António M. Nunes (blogue GC-V, 2023) sobre intervenções públicas de Pedro Caldeira Cabral; não é texto dele."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

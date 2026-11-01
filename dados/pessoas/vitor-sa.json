@@ -1,0 +1,31 @@
+{
+  "id": "vitor-sa",
+  "tipo": "pessoa",
+  "nome": "Vítor Sá",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013, bloco do Fado ao Centro: «E alegre se fez triste» (Manuel Alegre / Francisco Filipe Martins)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Francisco Filipe Martins): Vitor Sá"
+        }
+      ],
+      "conflito": false,
+      "nota": "O programa grafa «Vitor Sá». Em 2012 um post sobre os Raízes de Coimbra refere um «Victor Sá» (gc-iv:3361939228982901307); a identidade não está confirmada."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

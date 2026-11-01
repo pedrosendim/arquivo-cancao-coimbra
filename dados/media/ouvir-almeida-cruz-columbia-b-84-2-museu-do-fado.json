@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-84-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0297_22.mp3",
+  "titulo": "Fado Académico — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-84",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0594.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/589/almeida_cruz_fado_academico",
+      "doc": "museu-do-fado:w7b07a6429f17a525",
+      "citacao": "Título: Fado Académico ... Editora: Co. B-84 Referências: 11842; B84"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

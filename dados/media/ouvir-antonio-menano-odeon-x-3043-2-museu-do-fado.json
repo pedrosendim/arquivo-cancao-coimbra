@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3043-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0603_08.mp3",
+  "titulo": "Fado Saudades — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3043",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1200.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1191/antonio_menano_fado_saudades",
+      "doc": "museu-do-fado:w9ff197c992a90805",
+      "citacao": "Título: Fado Saudades ... Editora: Od. X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R, 3043B; X 3043b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

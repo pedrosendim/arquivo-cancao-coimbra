@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-columbia-1091-x-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0606_14.mp3",
+  "titulo": "Carta d'aldeia — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-columbia-1091-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1206.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1197/antonio_menano_carta_daldeia",
+      "doc": "museu-do-fado:wc5128c6a3275e091",
+      "citacao": "Título: Carta d'aldeia ... Editora: Co.1091X Referências: 194466, W, 1-A-2; G-1091-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

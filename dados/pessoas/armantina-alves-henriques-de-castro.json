@@ -1,0 +1,57 @@
+{
+  "id": "armantina-alves-henriques-de-castro",
+  "tipo": "pessoa",
+  "nome": "Armantina Alves Henriques de Castro",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Licenciada em Farmácia",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "A Sra. Dra. Armantina Alves Henriques de Castro, licenciada em Farmácia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "mario-de-castro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "O casal vem a ter 2 filhos. A Sra. Dra. Armantina Alves Henriques de Castro, licenciada em Farmácia, e o Dr. Mário José de Castro, Licenciado em Música."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "virginia-alves-neves",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "contrai matrimónio com a Sra. D. Virgínia Alves Neves. O casal vem a ter 2 filhos. A Sra. Dra. Armantina Alves Henriques de Castro, licenciada em Farmácia, e o Dr. Mário José de Castro, Licenciado em Música."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

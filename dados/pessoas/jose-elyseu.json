@@ -1,0 +1,360 @@
+{
+  "id": "jose-elyseu",
+  "tipo": "pessoa",
+  "nome": "José Elyseu",
+  "nomes_alternativos": [
+    "José das Neves Elyseu",
+    "José Eliseu",
+    "Mestre José Elyseu"
+  ],
+  "papeis": [
+    "compositor",
+    "outro"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+      "doc": "gc-v:2168488409084825667",
+      "citacao": "JOSÉ das Neves ELYSEU, nasceu na Baixa de Coimbra, a 26 de Maio de 1872."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+      "doc": "gc-v:2168488409084825667",
+      "citacao": "Foi executante de rabeca e violino, ensaiador do Rancho do Patio da Inquisição, tendo participado activamente em Serentas Populares, em vários locais dos quais destacamos, Bencanta, Penacova e Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/02/rancho-de-jose-elyseu-em-lisboa-1906.html",
+      "doc": "gc-v:8997179995825714303",
+      "citacao": "Rancho de Coimbra, com 51 elementos, sendo 36 dançarinos e 15 músicos, da direção artística de António de Brito, direção musical de José das Neves Elyseu, que atuou em Lisboa a 11.06.1906."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+      "doc": "gc-v:2168488409084825667",
+      "citacao": "Foi regente da Tuna Académica de Coimbra (TAUC), no ano de 1908, substituindo o Regente Theóphilo Russel"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+      "doc": "gc-v:2168488409084825667",
+      "citacao": "Em 1914, vamos encontrá-lo fazendo parte de um quarteto que no cinema Sousa Bastos (antigo cinema D. Luís), fazia o acompanhamento dos filmes mudos da época[3]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/relembrando-os-grandes-vultos-jose.html",
+      "doc": "gc-v:7187022685258981953",
+      "citacao": "o famigerado mestre José das Neves Elyseu, autor de composições emblemáticas da CC como Balada de Coimbra, Não Ames (=Valsa em Fá) e Sonhos Dourados (=Balada do Mondego), popularizadas por Flávio Rodrigues da Silva, Fernando Rodrigues da Silva, Artur Paredes e Carlos Paredes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Genro: João de Oliveira Anjo, casado com uma das filhas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "João de Oliveira Anjo. Músico profissional do exército português, nasceu em Ilhavo em 14 de Maio de 1916, tendo vindo para Coimbra em 1938. Genro de José Elyseu."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "Casado com uma das filhas de José Elyseu"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Genro» não tem tipo de relação próprio; a fonte não diz com qual das filhas casou."
+    },
+    {
+      "campo": "outro",
+      "valor": "Cunhado: Joaquim Casimiro Pessoa, cantor e serenateiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Joaquim Casimiro Pessoa, cantor e serenateiro, cunhado de José Elyseu."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Cunhado» não tem tipo de relação próprio; a fonte não diz por que lado."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "José das Neves Elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "JOSÉ das Neves ELYSEU, nasceu na Baixa de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (Baixa), 26 de maio de 1872",
+      "data": "1872-05-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "JOSÉ das Neves ELYSEU, nasceu na Baixa de Coimbra, a 26 de Maio de 1872."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 13 de novembro de 1924",
+      "data": "1924-11-13",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Faleceu em Coimbra, a 13 de Novembro de 1924. Tinha 52 anos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário da Escola Agrícola de Coimbra; formação de regente agrícola (segundo a família)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Sabe-se que foi funcionário da Escola Agricola de Coimbra, professor, segundo algumas fontes, havendo na família o conhecimento de que a sua formação técnica era a de Regente Agrícola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Rabeca e violino",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Foi executante de rabeca e violino"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Ensaiador do Rancho do Pátio da Inquisição (Rancho Flor da Mocidade); direção musical do Rancho de Coimbra que atuou em Lisboa a 11 de junho de 1906",
+      "data": "1906-06-11",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "ensaiador do Rancho do Patio da Inquisição"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/02/rancho-de-jose-elyseu-em-lisboa-1906.html",
+          "doc": "gc-v:8997179995825714303",
+          "citacao": "direção musical de José das Neves Elyseu, que atuou em Lisboa a 11.06.1906."
+        }
+      ],
+      "conflito": false,
+      "nota": "Fonte citada no post de 2016: O Tribuno Popular, n.º 5206, de 13.06.1906."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Regente da Tuna Académica da Universidade de Coimbra em 1908",
+      "data": "1908",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Foi regente da Tuna Académica de Coimbra (TAUC), no ano de 1908"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do grupo de cordas que acompanhava os filmes mudos no cinema Sousa Bastos (1914; c. 1915)",
+      "data": "1914",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Em 1914, vamos encontrá-lo fazendo parte de um quarteto que no cinema Sousa Bastos (antigo cinema D. Luís), fazia o acompanhamento dos filmes mudos da época[3]."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/relembrando-os-grandes-vultos-jose.html",
+          "doc": "gc-v:7187022685258981953",
+          "citacao": "Sexteto de cordas (violino, violoncelo, rabecão) contratado para animar as sessões de projeção de filmes mudos no antigo teatro Sousa Bastos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Um post fala em quarteto, outro em sexteto (fotografia de c. 1915)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Compôs em 1903 «Não Ames», dedicada a Bencanta, também conhecida por «Canção da Bencanta» e «Valsa em Fá»",
+      "data": "1903",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "dedicou em 1903 a composição que inicialmente era cantada, e a que chamou “Não Ames”. É também conhecida por “Canção da Bencanta” e ainda, por “Valsa em Fa”[1]."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«Não Ames» foi durante muitos anos atribuída erradamente a Flávio Rodrigues da Silva",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/um-vislumbre-de-jose-elyseu.html",
+          "doc": "gc-v:669364490763888807",
+          "citacao": "A famosa valsa de José das Neves Elyeu, NÃO AMES, por longos anos atribuída erradamente ao guitarrista popular Flávio Rodrigues da Silva"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Repertório recolhido para a homenagem de 2002 com música sua: Balada do Mondego (1902), Marcha das Rosas, Canção do Mondego e Trigueiras da Beira Mar (1907), Beijo (1901), Coimbra a Lisboa e Jóia Querida (1904), Balada de Coimbra (1916), Sonhos Dourados (1903), Não Ames e Chora a Cantar (1903), Barquinho Ligeiro (1912), O teu Olhar (1907), Guitarra Geme (1919), Marcha do Rancho Flor da Mocidade (1902)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "1 – Balada do Mondego: música de José das Neves Elyseu, versos de Henrique Martins de Carvalho, 1902;"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "9 – Balada de Coimbra: música de José das Neves Elyseu, versos de Tito Bettencourt, 1916; 10 – Sonhos Dourados: música de José das Neves Elyseu, versos de Henrique Martins de Carvalho, 1903;"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "19 – Balada de Coimbra (versão instrumental): música de José das Neves Elyseu com adaptação de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista de um artigo de António M. Nunes (24.12.2005) reproduzida no post de 2014; a homenagem foi uma serenata a 7 de junho de 2002."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata de homenagem nas escadas da Igreja de São Tiago, Coimbra, 7 de junho de 2002",
+      "data": "2002-06-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Serenata de Homenagem a mestre José Elyseu, feita a 7 de Junho de 2002, nas escadas da Igreja de São Tiago, na Praça Velha, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "abel-ferreira-das-neves-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "Abel Ferreira das Neves Elyseu, compositor, pai de António das Neves Elyseu (1865-1931) e de José das Neves Elyseu (1872-1924)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "joaquim-augusto-das-neves-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "Joaquim Augusto das Neves Elyseu, irmão de Abel e tio dos manos António e José."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ7Ed5LnLiaggFWJi_LPoqPL1nU46fhTZq4CPXCyXlq0Da3Qmil1GdoxhaFak9Hu69LlUPol0rMX2QryJoHtT1J4zskHCvQ1iswsDvJm2NX2UMqyCaBNxArbE4pf-Q7rlnUd6sQX9z47pL/s1600/Jose+Elyseu.jpg",
+      "legenda": "Mestre José Elyseu (fotografia publicada em 1999 por A. M. Nunes e J. dos Santos Paulo, cedida por João de Oliveira Anjo)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "A fotografia de mestre José Eliseu, disponível no facebook da família Eliseu, é do nosso conhecimento desde 1999, data da sua publicação no livro dos Drs. António Manuel Nunes e José dos Santos Paulo, tendo na altura sido cedida pelo seu genro João de Oliveira Anjo."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfxY_ZxjE2DHfoDLcjSBJRSVHDXMO0z1_QMx52yUxliupcYFfEuGitylY3-JNgj37D3PGtUo90822nCLC3x3m-vvdt9FyQzvlps8Bb-AJ1r_P6_trZTjgiAcYf_nDNebzJ_oYYzjKyj5h2/s1600/eliseu.jpg",
+      "legenda": "Sexteto de cordas do teatro Sousa Bastos (c. 1915); ao centro, de pé, José das Neves Elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/relembrando-os-grandes-vultos-jose.html",
+          "doc": "gc-v:7187022685258981953",
+          "citacao": "Ao centro, de pé, com bigode de pontas reviradas, o famigerado mestre José das Neves Elyseu"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "José Elyseu (Manuel Marques Inácio, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html"
+    },
+    {
+      "rotulo": "Relembrando José Elyseu e José Trego (2015)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/relembrando-os-grandes-vultos-jose.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

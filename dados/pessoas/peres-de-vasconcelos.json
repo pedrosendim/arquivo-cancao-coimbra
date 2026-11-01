@@ -1,0 +1,60 @@
+{
+  "id": "peres-de-vasconcelos",
+  "tipo": "pessoa",
+  "nome": "Peres de Vasconcelos",
+  "nomes_alternativos": [
+    "Miguel A. Peres de Vasconcelos"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+      "doc": "gc-i:113908184282626130",
+      "citacao": "Miguel A. Peres de Vasconcelos, antigo estudante da UC e executante de guitarra, demora um ilustre desconhecido."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+      "doc": "gc-i:113908184282626130",
+      "citacao": "No final da década de 1920 (ano de 1928) gravou discos para a editora Columbia"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Discos Columbia (1928): variações para guitarra",
+      "data": "1928",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "No final da década de 1920 (ano de 1928) gravou discos para a editora Columbia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5qsAuUMJuMAT7wTZwhyGL9koDoLZJbYMn_H222_7Q7PeB_Zf37JaQoCEipFiLMwaQH4Fvx-AZDsF_6rs_8T7Zg-cGBVJOLwJTX0544OXxOpey7eK3GF93_I0C0Qz02cb4-fhEEkuDkSpC/s1600/Peres+de+Vasconcelos2.jpg",
+      "legenda": "Miguel Augusto Peres de Vasconcelos como Reitor do Liceu António Enes (Lourenço Marques): pormenor da fotografia de grupo publicada no mesmo post, onde é «a figura central, com casaco branco, identificado com o n.º 7»",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/peres-de-vasconcelos.html",
+          "doc": "gc-iv:6489852679150606282",
+          "citacao": "Foto de antigo estudante de Coimbra e executante de guitarra Miguel Augusto Peres de Vasconcelos. ... É a figura central, com casaco branco, identificado com o n.º 7."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

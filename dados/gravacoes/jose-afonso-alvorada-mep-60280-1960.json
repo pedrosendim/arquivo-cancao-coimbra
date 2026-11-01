@@ -1,0 +1,292 @@
+{
+  "id": "jose-afonso-alvorada-mep-60280-1960",
+  "titulo": "Coimbra",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60280",
+  "ano": "1960",
+  "local": "Coimbra (Emissor Regional)",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra (1.ª)"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "guitarra (2.ª) — segundo o blogue Guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "levi-baptista",
+      "funcao": "viola — segundo o blogue Guitarra de Coimbra"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "guitarra — só na etiqueta/Discogs (contestado)"
+    },
+    {
+      "pessoa": "paulo-alao",
+      "funcao": "viola — só na etiqueta/Discogs (contestado)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Mar Largo",
+      "obra": "mar-largo",
+      "media": [
+        "ouvir-jose-afonso-alvorada-mep-60280-1960-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Solitário",
+      "obra": "solitario",
+      "media": [
+        "ouvir-jose-afonso-alvorada-mep-60280-1960-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Aquela Moça da Aldeia",
+      "obra": "aquela-moca-da-aldeia"
+    },
+    {
+      "n": 4,
+      "titulo": "Balada",
+      "obra": "meu-bem"
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMTw4UsBllLTNBAY9shGFwbUssw69zMS38rQ6VSSDcdGTz0OjhKMYzpyuUq_aW7fVodVcFTLrgCE8FKOyClkGTunpWk0sRjBVooOkKBY_Ty6hUSVdBqysGQOfBJO37XbN6nq0g00p_13Ub/s1600/Melo-Jos%C3%A9+Afonso+Coimbra+capa+EP+1+(2).jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+        "doc": "gc-v:3115598909214321265",
+        "citacao": "EP JOSÉ AFONSO. COIMBRA. Porto: ALVORADA, MEP 60280, ano de 1956 [registo], editado em 1960"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "https://www.youtube.com/watch?v=et7kX9WJpg8",
+    "discogs": "https://www.discogs.com/release/15061790",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Registado em 1956 no Emissor Regional de Coimbra com o grupo de António Portugal; editado em 1960",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "EP JOSÉ AFONSO. COIMBRA. Porto: ALVORADA, MEP 60280, ano de 1956 [registo], editado em 1960"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "as quatro matrizes sonoras prensadas neste 45 rpm foram registadas por José Afonso com o grupo de António Portugal no Emissor Regional de Coimbra em 1956."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Gravação do EP Coimbra (Alvorada MEP 60280), que viria a ser publicado em 1960."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP, «Fados de Coimbra», editado em 1956",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Em 1956 é editado o seu primeiro EP, intitulado Fados de Coimbra."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Em 1956, Jorge Godinho acompanha com António Portugal (à guitarra), Manuel Pepe e Levy Baptista (à viola) o famoso Zeca Afonso no seu primeiro EP intitulado “Fados de Coimbra”, editado pela discográfica Alvorada"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Alinhamento com «Incerteza» em vez de «Solitário»",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "fados Incerteza (Tavares de Melo), Mar Largo (Paulo de Sá), Aquela Moça da Aldeia (António Menano) e Balada (música de Zeca Afonso sobre uma letra popular açoriana)."
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue Guitarra de Coimbra V (2016) situa «Incerteza» nas gravações de 1952-1953 (Melodia 15.090)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Alinhamento: Mar Largo, Solitário, Aquela Moça da Aldeia, Balada",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15061790",
+          "doc": "discogs:w347a63f955ff277b",
+          "citacao": "A1 Mar Largo\n\nA2 Solitário\n\nB1 Aquela Moça Da Aldeia\n\nB2 Balada"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "MAR LARGO (Ó mar largo, ó mar largo)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Instrumentistas reais: António Portugal e Jorge Godinho (guitarras), Manuel Pepe e Levi Baptista (violões de aço); os da etiqueta estão errados",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "António Portugal e Jorge Godinho (1.ª e 2.ª ggC), Manuel Pepe e Levi Baptista (violões de cordas de aço)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "Os instrumentistas efetivamente participantes na gravação são os que identificamos acima e não os que figuram na etiqueta do EP."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos indicados (etiqueta/Discogs): António Portugal e Eduardo de Melo (guitarra portuguesa), Manuel Pepe e Paulo Alão (guitarra acústica)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15061790",
+          "doc": "discogs:w347a63f955ff277b",
+          "citacao": "Acoustic Guitar – Manuel Pepe (2)\n\nAcoustic Guitar – Paulo Alão"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15061790",
+          "doc": "discogs:w347a63f955ff277b",
+          "citacao": "Portuguese Guitar – António Portugal\n\nPortuguese Guitar – Eduardo de Melo"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco em que José Afonso é acompanhado pela primeira vez só à viola (cronologia da AJA)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "É neste disco que José Afonso é acompanhado pela primeira vez só à viola."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação não destinada a edição comercial; José Niza obteve autorização para editar as matrizes em 1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "Levi Baptista recorda-se de acompanhar estas composições mas não se lembra do contexto em que decorreu a gravação, precisamente porque não se tratou de uma gravação destinada a edição comercial."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "José Niza acedeu aos arquivos sonoros do Emissor Regional e foi autorizado a editar estas matrizes, o que só veio a acontecer em 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo José Niza, terá sido o primeiro disco de 45 rpm de José Afonso",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Segundo José Niza, este terá sido o primeiro disco de 45 r.p.m. gravado por José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Editado em 1960 como primeiro EP («Coimbra»)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1960 é editado o seu primeiro EP, intitulado «Coimbra»."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+      "doc": "gc-v:3115598909214321265",
+      "citacao": "EP JOSÉ AFONSO. COIMBRA. Porto: ALVORADA, MEP 60280"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/15061790",
+      "doc": "discogs:w347a63f955ff277b",
+      "citacao": "Editora: Alvorada – MEP 60 280"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/cronologia/",
+      "doc": "aja:wddc15a953c5a5a5e",
+      "citacao": "Coimbra (Alvorada MEP 60280), gravado em 1956."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

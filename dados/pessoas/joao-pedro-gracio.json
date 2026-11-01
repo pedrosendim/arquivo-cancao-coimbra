@@ -1,0 +1,359 @@
+{
+  "id": "joao-pedro-gracio",
+  "tipo": "pessoa",
+  "nome": "João Pedro Grácio",
+  "nomes_alternativos": [
+    "João Pedro Grácio (Pai)",
+    "Grácio Pai",
+    "João Pedro Grácio [Senior]"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "jose-lucio",
+      "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+      "doc": "jose-lucio:wbd3b421be9bc7477",
+      "citacao": "Carpinteiro de profissão tinha a sua oficina na Rua da Boa Vista, certo decidiu formar uma Tuna com os amigos e como o dinheiro não abundava começou a aprender a arte de construir instrumentos musicais."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+      "doc": "gc-iii:1043737316722429170",
+      "citacao": "Conheço várias guitarras construídas tanto por João Pedro Grácio (Coimbrão, Leiria, 1872-Lisboa, 1962) como pelo seu filho João Pedro Grácio Junior (Lisboa, Cacém, 1903-1967) - pai de Gilberto Grácio"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/10/dia-mundial-da-musica-portugueses-na.html",
+      "doc": "gc-v:6966448096858137098",
+      "citacao": "estiveram presentes na Exposição Universal de Paris - 1900 os seguintes guitarreiros e violeiros portugueses: [João Pedro] Grácio / Lisboa: guitarras"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/06/arqueo-cordofones.html",
+      "doc": "gc-v:5707772483583036774",
+      "citacao": "proveniente da oficina de João Pedro Grácio [Senior], sita em Lisboa, no largo de S. Martinho, números 13-14, junto à cadeia do Limoeiro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+      "doc": "gc-v:2888130575025550327",
+      "citacao": "Bandolim da Guitarraria Leiriense, de João Pedro Grácio, Lisboa, sem data"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-o-primeiro-construtor.html",
+      "doc": "gc-i:111616660566874349",
+      "citacao": "João Pedro Grácio, o primeiro construtor de instrumentos de cordas - pai e avô - de uma Família de grandes Mestres no fabrico de guitarras, violas, violinos, bandolins, etc. Morreu em 1963 com 91 anos."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1872",
+      "data": "1872",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio (Coimbrão, Leiria, 1872-Lisboa, 1962)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "O livro diz de João Pedro Grácio (1872-1963)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Coimbrão, Leiria",
+      "data": "",
+      "local": "Coimbrão, Leiria",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio (Coimbrão, Leiria, 1872-Lisboa, 1962)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 1962",
+      "data": "1962",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "João Pedro Grácio (Coimbrão, Leiria, 1872-Lisboa, 1962)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1963, com 91 anos",
+      "data": "1963",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-o-primeiro-construtor.html",
+          "doc": "gc-i:111616660566874349",
+          "citacao": "Morreu em 1963 com 91 anos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "O livro diz de João Pedro Grácio (1872-1963)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post gc-v cita a obra Tempo de uma vida, de Gilberto Marques Grácio (Oeiras, 2021)."
+    },
+    {
+      "campo": "morte",
+      "valor": "4 de março de 1963",
+      "data": "1963-03-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu a 27 de Maio de 1872 e faleceu a 4 de Março de 1963."
+        }
+      ],
+      "conflito": true,
+      "nota": "Página «Violeiros e Guitarreiros Portugueses» do site de José Lúcio, cópia do Arquivo.pt de 31.01.2023."
+    },
+    {
+      "campo": "morte",
+      "valor": "1962",
+      "data": "1962",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "cinco dos doze filhos de João Pedro Grácio (1872-1962) foram construtores de instrumentos musicais"
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia do Museu do Fado sobre a Rua João Pedro Grácio (17.05.2024)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "27 de maio de 1872",
+      "data": "1872-05-27",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu a 27 de Maio de 1872 e faleceu a 4 de Março de 1963."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Carpinteiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Carpinteiro de profissão tinha a sua oficina na Rua da Boa Vista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina na Rua da Boavista (Lisboa), fundada em 1890",
+      "data": "1890",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "Fundou a sua oficina na Rua da Boavista em 1890 e alguns dos seus instrumentos foram premiados na Exposição Universal de Paris em 1900."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "tinha a sua oficina na Rua da Boa Vista"
+        }
+      ],
+      "conflito": false,
+      "nota": "José Lúcio não indica o ano."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1922 restabelece em Lisboa a Guitarraria Leiriense, no Largo de S. Martinho",
+      "data": "1922",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "Em 1922 restabelece na capital a Guitarraria Leiriense, no Largo de S. Martinho, oficina que fora fundada no início do século por João R. Rosa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Teve 12 filhos, 6 raparigas e 6 rapazes (Manuel, José, Ulisses, Joaquim, Victor e João); cinco foram construtores de instrumentos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "cinco dos doze filhos de João Pedro Grácio (1872-1962) foram construtores de instrumentos musicais"
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes não nomeiam as seis filhas. O Museu do Fado chama «José Pedro» ao filho que José Lúcio chama «José»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Primeiro construtor de instrumentos de cordas da família Grácio: guitarras, violas, violinos, bandolins",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-o-primeiro-construtor.html",
+          "doc": "gc-i:111616660566874349",
+          "citacao": "João Pedro Grácio, o primeiro construtor de instrumentos de cordas - pai e avô - de uma Família de grandes Mestres no fabrico de guitarras, violas, violinos, bandolins, etc."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina em Lisboa, no Largo de S. Martinho, n.os 13-14, junto à cadeia do Limoeiro",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/arqueo-cordofones.html",
+          "doc": "gc-v:5707772483583036774",
+          "citacao": "oficina de João Pedro Grácio [Senior], sita em Lisboa, no largo de S. Martinho, números 13-14, junto à cadeia do Limoeiro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarraria Leiriense, Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "Bandolim da Guitarraria Leiriense, de João Pedro Grácio, Lisboa, sem data"
+        }
+      ],
+      "conflito": false,
+      "nota": "O mesmo post refere «A Guitarria Leiriense não foi a única casa lisboeta a lançar-se no prolongamento das escalas de guitarra nos primeiros anos do século XX»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Presente na Exposição Universal de Paris de 1900, com guitarras (Lisboa)",
+      "data": "1900",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/10/dia-mundial-da-musica-portugueses-na.html",
+          "doc": "gc-v:6966448096858137098",
+          "citacao": "Segundo a revista A Arte Musical, n.º 36, edição de 30.06.1900, estiveram presentes na Exposição Universal de Paris - 1900 os seguintes guitarreiros e violeiros portugueses: [João Pedro] Grácio / Lisboa: guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": "A Arte Musical, n.º 36, 30.06.1900, citada no post. O prenome «[João Pedro]» é acrescento do autor do post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra-lyra feita em Lisboa nos inícios do século XX",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/a-viola-tem-o-s.html",
+          "doc": "gc-v:4203630905693785556",
+          "citacao": "Guitarra-lyra feita em Lisboa nos inícios do século XX por João Pedro Grácio (Pai)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Exemplar posto à venda em 2016 (skinnerinc.com), segundo o post."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Joo%20Pedro%20Grcio.jpg",
+      "legenda": "João Pedro Grácio, o primeiro construtor de instrumentos de cordas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-o-primeiro-construtor.html",
+          "doc": "gc-i:111616660566874349",
+          "citacao": "Foto obtida do site de José Lúcio."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Post com fotografia (2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joo-pedro-grcio-o-primeiro-construtor.html"
+    },
+    {
+      "rotulo": "Bandolim JPGrácio",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b112-11880-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0317_33.mp3",
+  "titulo": "Vira do Minho — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b112-11880",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0634.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/628/almeida_cruz_vira_do_minho",
+      "doc": "museu-do-fado:w678f1d18dd660c93",
+      "citacao": "Título: Vira do Minho ... Editora: Co. B-112,13.112 Referências: 11837; B112"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

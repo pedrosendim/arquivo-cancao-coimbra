@@ -1,0 +1,22 @@
+{
+  "id": "manasses-fado-da-pallida-madrugada-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0888_16.mp3",
+  "titulo": "«Fado da Pálida madrugada com variações de flauta» – Manassés de Lacerda (Gramophone 262163) – Arquivo Sonoro do Museu do Fado",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-262163",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1758/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
+      "doc": "museu-do-fado:w7a4544517be9655e",
+      "citacao": "Fado da Pálida madrugada com variações de flauta Manassés de Lacerda Editora: Gra.262163"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

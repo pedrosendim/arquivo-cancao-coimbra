@@ -1,0 +1,261 @@
+{
+  "id": "fernando-machado-soares",
+  "tipo": "pessoa",
+  "nome": "Fernando Machado Soares",
+  "nomes_alternativos": [
+    "Machado Soares"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "São Roque do Pico, Açores, 3 de setembro de 1930",
+      "data": "1930-09-03",
+      "local": "São Roque do Pico, Açores",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Natural de São Roque do Pico, Açores, onde nasceu a 3 de Setembro de 1930"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/noticia-do-obito-de-machado-soares.html",
+          "doc": "gc-v:1934231458179851899",
+          "citacao": "Nascido na freguesia e concelho de São Roque, da ilha do Pico, Açores, a 3 de setembro de 1930"
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da Assembleia da República (12-12-2014), que segundo o post se baseou em texto elaborado por Jorge Cravo; e notícia do óbito no GC-V, com informação transmitida por Jorge Cravo."
+    },
+    {
+      "campo": "morte",
+      "valor": "Almada, 7 de dezembro de 2014, com 84 anos",
+      "data": "2014-12-07",
+      "local": "Almada",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "voto de pesar pelo falecimento de Fernando Machado Soares (1930-2014) ... Faleceu no passado domingo, dia 7 de Dezembro, em Almada, com 84 anos, Fernando Machado Soares."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/noticia-do-obito-de-machado-soares.html",
+          "doc": "gc-v:1934231458179851899",
+          "citacao": "Informa-nos o Dr. Jorge Cravo que circula em alguns órgãos de imprensa a notícia do falecimento do Juiz Conselheiro jubilado Fernando Machado Soares. ... Ainda de acordo com a imprensa, terá falecido em Almada no dia 7 de dezembro, tendo ocorrido o funeral no dia 9 deste mês, notícia que ainda não conseguimos confirmar."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar baseado em texto de Jorge Cravo; a notícia do GC-V (10-12-2014) apresenta a data como ainda não confirmada."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Ponta Delgada; curso de Direito na Universidade de Coimbra, de 1952 a 1958",
+      "data": "1958",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "frequentou o Liceu de Ponta Delgada, chegando ao Continente, em 1952, para frequentar o curso jurídico na Universidade de Coimbra, que concluiu em 1958."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrado na «Segunda Geração de Oiro da Canção de Coimbra», com Luiz Goes, José Afonso e Fernando Rolim",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Fez parte daquela que foi designada por “Segunda Geração de Oiro da Canção de Coimbra”, ao lado dos cantores Luiz Goes, José Afonso e Fernando Rolim."
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Foi tão sério o reaprender do discurso estético-musical de EB que a sensibilidade de Machado Soares buscava o reencontro com o que de mais popular lhe chegava"
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo; e texto de Jorge Cravo na revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Orfeão Académico de Coimbra (digressões ao Brasil em 1954 e aos Estados Unidos em 1961) e Tuna Académica (deslocação a África em 1956)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Integrou o Orfeão Académico de Coimbra, tendo feito parte das digressões ao Brasil (1954) e aos Estados Unidos (1961), bem como a Tuna Académica de Coimbra, tendo-se deslocado a África em 1956."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiras gravações em 1956 («Fado da Noite» e «Balada do Entardecer») e, em 1958, «O que mais me prende ao mundo»",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Gravou, pela primeira vez, em 1956, vocalizando “Fado da Noite” e “Balada do Entardecer” e, em 1958, “O que mais me prende ao mundo”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor da música da «Balada do 6.º ano médico de 1958/59» («Coimbra tem mais encanto na hora da despedida»), com letra de Francisco Bandeira Mateus",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Foi autor da música da “Balada do 6º ano médico de 1958/59”, bem conhecida pelo refrão “Coimbra tem mais encanto na hora da despedida”, cuja letra é da autoria do então estudante de medicina Francisco Bandeira Mateus."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Mentor de uma nova postura poético-musical que culminaria nas gravações do Coimbra Quintet em Madrid, a que Luiz Goes deu voz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "foi uma personalidade importante como mentor de uma nova postura poético-musical que culminaria com o projecto, gravado em Madrid, do Coimbra Quintet, a que Luiz Goes deu voz, acompanhado por António Portugal (g.C), Jorge Godinho (g.C), Manuel Pepe (v.) e Levi Baptista (v.)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Nos primeiros anos da década de 1960, já magistrado, cantava aos fins de semana na república Baco, acompanhado por José Niza (gC) e Manuel Pepe, entre outros",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Igualmente nos primeiros anos da década de 60 as influências de Fernando Machado Soares se fizeram sentir quando, aos fins-de-semana, chegado de localidades onde exercia a sua carreira de magistrado, pernoitava na república Baco, e cantava acompanhado por José Niza (g.C) e Manuel Pepe, entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Magistrado; Juiz-Conselheiro do Supremo Tribunal de Justiça",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Juiz-Conselheiro do Supremo Tribunal de Justiça, manteve o seu gosto de cantar até ao fim da sua vida."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Tributo Amália Rodrigues «pela excelência da carreira artística» (2006)",
+      "data": "2006",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Em 2006 recebeu o Prémio Tributo Amália Rodrigues “pela excelência da carreira artística”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Voto de pesar da Assembleia da República, proposto por todas as bancadas, 12 de dezembro de 2014",
+      "data": "2014-12-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "Na sessão plenária da Assembleia da República (Lisboa), de 12.12.2014, foi apresentado um voto de pesar pelo falecimento de Fernando Machado Soares (1930-2014), proposto por todas as bancadas parlamentares. A proposta baseou-se em texto elaborado por Jorge Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte vocal estava a cargo de Fernando Machado Soares (FD/UC, tenor), Fernando Rolim (FM/UC, tenor), José Afonso (FL/UC, 2.º tenor), António Sutil Roque (FM/UC, tenor) e Luiz Goes (FM/UC, barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "nota": "tenor"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Para além de António Brojo e António Portugal (guitarras) e de Aurélio Reis e Mário de Castro (violas) integraram este grupo Luís Goes, José Afonso, Femando Machado Soares, Femando Rolim, Sutil Roque e Florêncio de Carvalho, entre outros."
+        }
+      ],
+      "nota": "segundo o texto da AJA; o blogue GC-V (2016) refere-o só como colaborador na fase final"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAblRSLoVovjuVTWOHinTD7Dwvhxul1oQCpEsbXg81UX6rbL3GXmA8ha0pLjx6lOvkQoqY87gJwrHBJMwCIhdtIsi65NlF-fwYfed7O54PFmsw4Cg7cUXmLvpu8b7TNyxSL0P0CQzov8w/s1600/Arquivo+Municipal+de+Lisboa+-+Ref+PT-AMLSB-FER-005194+-+Folha+1+%25282%2529.jpg",
+      "legenda": "Fotografia promocional do Coimbra Quintet junto à entrada da Torre d'Anto, Coimbra [ca. 1955-1956]. A contar do portão: Levy Baptista (v), António Portugal (gC1), Jorge Godinho (gC2), Machado Soares (a cantar) e José Afonso, atrás de Machado Soares, sem óculos (Arquivo Municipal de Lisboa, PT/AMLSB/FER/005194).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "São reconhecíveis a contar do portão: -Levy Baptista (v); -António Portugal (gC1); -Jorge Godinho (gC2); -Machado Soares (a cantar); -José Afonso, atrás de Machado Soares, sem óculos."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

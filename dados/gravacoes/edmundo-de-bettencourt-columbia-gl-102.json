@@ -1,0 +1,153 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-gl-102",
+  "titulo": "Samaritana / Canção do Alentejo (2.ª edição)",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "GL 102",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "disco-edmundo-de-bettencourt-columbia-gl-102-samaritana",
+        "ouvir-edmundo-de-bettencourt-columbia-gl-102-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Alentejo",
+      "obra": "",
+      "media": [
+        "disco-edmundo-de-bettencourt-columbia-gl-102-cancao-do-alentejo",
+        "ouvir-edmundo-de-bettencourt-columbia-gl-102-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/zzfnmN0Le4wxQpoU9XL3BERuhIb4vblSoKWGFRTwuHU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjA4/NjMtMTQ0MTU0MDUx/NS0yODY1LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6860863",
+        "doc": "discogs:we65ad01dd37d4901",
+        "citacao": "Imagem (primary): https://i.discogs.com/zzfnmN0Le4wxQpoU9XL3BERuhIb4vblSoKWGFRTwuHU/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjA4/NjMtMTQ0MTU0MDUx/NS0yODY1LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6860863",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM, Reissue",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6860863",
+          "doc": "discogs:we65ad01dd37d4901",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM, Reissue"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6860863",
+          "doc": "discogs:we65ad01dd37d4901",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição (etiqueta verde) do disco Columbia 8121",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Foram editados 5 discos de 78 rpm, todos com etiqueta castanha e, numa 2ª edição, todos com etiqueta verde e com um outro número de catálogo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado no Porto, em fevereiro de 1928, no Palácio dos Carrancas (blogue)",
+      "data": "1928-02",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A 1ª série de gravações teve lugar no Porto, em Fevereiro de 1928, no Palácio dos Carrancas, antiga Casa Real. Foi acompanhado à guitarra por Artur Paredes e Albano de Noronha e, à viola, por Mário Faria da Fonseca, mas os seus nomes não figuram nos discos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Samaritana: na etiqueta do 78 rpm Columbia 8121 (P 301)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/12/samaritana-foi-gravada-ha-91-anos-em.html",
+          "doc": "gc-v:7872305874615328642",
+          "citacao": "Na etiqueta do disco de 78 rpm Columbia 8121, P 301"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6860863",
+      "doc": "discogs:we65ad01dd37d4901",
+      "citacao": "Editora: Columbia – GL 102"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Disco Columbia, 8121 Disco Columbia, GL 102 P 301 – Samaritana (Dos amores do Redentor) P 309 – Canção do Alentejo (Lá vai Serpa, lá vai Moura)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ana-goes",
+  "tipo": "pessoa",
+  "nome": "Ana Goes",
+  "nomes_alternativos": [
+    "Dra. Ana Goes"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "À Dra. Ana Goes, sobrinha neta do Dr. Armando Goes, e filha do nosso Dr. Luiz Goes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

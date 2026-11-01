@@ -1,0 +1,112 @@
+{
+  "id": "lucas-junot-columbia-1035-x",
+  "titulo": "Triste / Vira de Coimbra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1035X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "lucas-junot",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Triste",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-1035-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Vira de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-1035-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Triste», por Lucas Junot — etiqueta: «Triste (Fado) / Dr. Lucas Junot, Tenor»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/906/lucas_junot_triste",
+          "doc": "museu-do-fado:w97da49504455f122",
+          "citacao": "Título: Triste ... Editora: Co. 1035X, 5.016 Referências: P189, W, 1-C-4; 1035-X ... Etiqueta: Triste (Fado) / Dr. Lucas Junot, Tenor / "
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w6d2811f50a3a1dc8, museu-do-fado:wed55810939267215"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Vira de Coimbra», por Lucas Junot — etiqueta: «Vira de Coimbra / Dr. Lucas Junot - Tenor»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/907/lucas_junot_vira_de_coimbra",
+          "doc": "museu-do-fado:w90c7e984f413fbdc",
+          "citacao": "Título: Vira de Coimbra ... Editora: Co. 1035X, 5.016 Referências: P192, W, 2-B-34; 1035-X ... Etiqueta: Vira de Coimbra / Dr. Lucas Junot - Tenor / "
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w28a7c9158fdd99c4, museu-do-fado:w62738ce059cdc8c8"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/906/lucas_junot_triste",
+      "doc": "museu-do-fado:w97da49504455f122",
+      "citacao": "Título: Triste ... Editora: Co. 1035X, 5.016 Referências: P189, W, 1-C-4; 1035-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1997/lucas_junot_triste",
+      "doc": "museu-do-fado:w6d2811f50a3a1dc8",
+      "citacao": "Título: Triste ... Editora: Co. 1035X Referências: P189, W, 1-C-1; 1035-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1995/lucas_junot_triste",
+      "doc": "museu-do-fado:wed55810939267215",
+      "citacao": "Título: Triste ... Editora: Co. 1035X Referências: P189, W, 1-C-1; 1035-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/907/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:w90c7e984f413fbdc",
+      "citacao": "Título: Vira de Coimbra ... Editora: Co. 1035X, 5.016 Referências: P192, W, 2-B-34; 1035-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1994/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:w28a7c9158fdd99c4",
+      "citacao": "Título: Vira de Coimbra ... Editora: Co. 1035X Referências: P192, W, 2-B-3; 1035-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1996/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:w62738ce059cdc8c8",
+      "citacao": "Título: Vira de Coimbra ... Editora: Co. 1035X Referências: P192, W, 2-B-1; 1035-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

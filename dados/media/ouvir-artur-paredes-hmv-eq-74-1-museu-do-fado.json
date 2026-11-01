@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-74-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0687_25.mp3",
+  "titulo": "Bailados do Minho — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "bailados-do-minho"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-74",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1368.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1357/artur_paredes_bailados_do_minho",
+      "doc": "museu-do-fado:wc577c1fb538330ad",
+      "citacao": "Título: Bailados do Minho ... Editora: HMV EQ74, MH35,HTCD15"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

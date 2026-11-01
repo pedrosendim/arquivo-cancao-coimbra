@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-armando-goes-hmv-b-4693-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0435_29.mp3",
+  "titulo": "Fado dos Busos — Armando Goes",
+  "data": "",
+  "pessoas": [
+    "armando-goes",
+    "albano-de-noronha",
+    "afonso-de-sousa"
+  ],
+  "obras": [],
+  "gravacao": "armando-goes-hmv-b-4693",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0868.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/854/armando_goes_fado_dos_busos",
+      "doc": "museu-do-fado:w633624a34eb20464",
+      "citacao": "Título: Fado dos Busos ... Editora: HMV B4693, EQ32"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

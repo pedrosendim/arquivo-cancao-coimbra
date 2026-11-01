@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136806-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0592_25.mp3",
+  "titulo": "Carta d'Aldeia — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136806",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1178.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1168/antonio_menano_carta_daldeia",
+      "doc": "museu-do-fado:w406632a488825ac8",
+      "citacao": "Título: Carta d'aldeia ... Editora: Od.136.806, EMICD8374952"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

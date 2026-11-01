@@ -1,0 +1,88 @@
+{
+  "id": "lucas-junot-columbia-5395",
+  "titulo": "Fado Sepulveda / Fado dos Passarinhos",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "5395",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "lucas-junot",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Sepulveda",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-5395-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Passarinhos",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-5395-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Sepulveda», por Lucas Junot — etiqueta: «Fado Sepulveda / [Ilegível] / Dr. Lucas Junot, Tenor / com acomp. de Guitarra [e viola]»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/912/lucas_junot_fado_sepulveda",
+          "doc": "museu-do-fado:w79c246c14d36f680",
+          "citacao": "Título: Fado Sepulveda ... Editora: Co. 5395, HTCD15 Referências: P190, W; 5395-B ... Etiqueta: Fado Sepulveda / [Ilegível] / Dr. Lucas Junot, Tenor / com acomp. de Guitarra [e viola]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Passarinhos», por Lucas Junot — etiqueta: «Fado dos passarinhos / (Dr. António Menano) / Dr. Lucas Junot - Tenor / com acomp. de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/913/lucas_junot_fado_dos_passarinhos",
+          "doc": "museu-do-fado:w0deb31e21711fd6a",
+          "citacao": "Título: Fado dos Passarinhos ... Editora: Co. 5395, HTCD15 Referências: P191, W; 5395-B ... Etiqueta: Fado dos passarinhos / (Dr. António Menano) / Dr. Lucas Junot - Tenor / com acomp. de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/912/lucas_junot_fado_sepulveda",
+      "doc": "museu-do-fado:w79c246c14d36f680",
+      "citacao": "Título: Fado Sepulveda ... Editora: Co. 5395, HTCD15 Referências: P190, W; 5395-B"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/913/lucas_junot_fado_dos_passarinhos",
+      "doc": "museu-do-fado:w0deb31e21711fd6a",
+      "citacao": "Título: Fado dos Passarinhos ... Editora: Co. 5395, HTCD15 Referências: P191, W; 5395-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

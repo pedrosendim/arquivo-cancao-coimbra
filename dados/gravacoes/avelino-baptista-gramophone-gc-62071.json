@@ -1,0 +1,86 @@
+{
+  "id": "avelino-baptista-gramophone-gc-62071",
+  "titulo": "Canção da Noite",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "GC-62071",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção da Noite",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-gramophone-gc-62071-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção da Noite», por Avelino Baptista — etiqueta: «Canção da Noite / cantada pelo / Sñr Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4908/avelino_baptista_cancao_da_noite",
+          "doc": "museu-do-fado:w291e0c14f3d6dd7f",
+          "citacao": "Título: Canção da Noite ... Editora: D.P. Gramophone GC -62071  Referências: Disque Pour Gramophone 8303F, 62071; GC - 62071 ... Etiqueta: Canção da Noite / cantada pelo / Sñr Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wb96ce2815ad09423"
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação referida no blogue entre as da música do «Fado das Trez Horas»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-das-trez-horas.html",
+          "doc": "gc-v:3821521697101920646",
+          "citacao": "Gravações na primeira década do século XX: Avelino Baptista, Canção da Noite, Disque Pour Gramophone GC-62071"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4908/avelino_baptista_cancao_da_noite",
+      "doc": "museu-do-fado:w291e0c14f3d6dd7f",
+      "citacao": "Título: Canção da Noite ... Editora: D.P. Gramophone GC -62071  Referências: Disque Pour Gramophone 8303F, 62071; GC - 62071"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3414/avelino_baptista_cancao_da_noite",
+      "doc": "museu-do-fado:wb96ce2815ad09423",
+      "citacao": "Título: Canção da Noite ... Editora: D.P. Gramophone GC -62071  Referências: Disque Pour Gramophone 8303f, 62071; GC - 62071"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-das-trez-horas.html",
+      "doc": "gc-v:3821521697101920646",
+      "citacao": "Gravações na primeira década do século XX: Avelino Baptista, Canção da Noite, Disque Pour Gramophone GC-62071"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

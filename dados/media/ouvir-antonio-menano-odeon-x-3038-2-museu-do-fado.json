@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3038-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0600_02.mp3",
+  "titulo": "Fado d'Anto — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3038",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1193.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1185/antonio_menano_fado_danto",
+      "doc": "museu-do-fado:w0b0a797661a38869",
+      "citacao": "Título: Fado d'Anto ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG657, R, 3038B; X 3038b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-ideal-6709-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1548_39.mp3",
+  "titulo": "Margarida — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-ideal-6709",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2875.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3070/avelino_baptista_margarida",
+      "doc": "museu-do-fado:wf1dd7fa72e80ff70",
+      "citacao": "Título: Margarida ... Editora: Disco Ideal 6709 6710 Referências: Disco “Ideal” Grande - Beka-Record, 6709; 6709"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-115",
+  "titulo": "O mangerico / Fado dos Desejos",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-115",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "O mangerico",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-115-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Desejos",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-115-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«O mangerico», por Almeida Cruz — etiqueta: «O Mangerico / Desgarrada - T. del Negro / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/634/almeida_cruz_o_mangerico",
+          "doc": "museu-do-fado:wac66e5cf31a5ecaf",
+          "citacao": "Título: O mangerico ... Editora: Co. B-115 Referências: 11839-1-1; B115 ... Etiqueta: O Mangerico / Desgarrada - T. del Negro / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «O Mangerico, Co.B-115, 11839, desgarrada»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-O Mangerico, Co.B-115, 11839, desgarrada"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Desejos», por Almeida Cruz — etiqueta: «Fado dos desejos  / Veiga Roldão  / Fado        Roldão  / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/635/almeida_cruz_fado_dos_desejos",
+          "doc": "museu-do-fado:wc4b0b706b8cb6e72",
+          "citacao": "Título: Fado dos Desejos ... Editora: Co. B-115 Referências: 11884-1-3; B115 ... Etiqueta: Fado dos desejos  / Veiga Roldão  / Fado        Roldão  / Almeida Cruz "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado dos Desejos, Columbia B-115, 11884-1, música do actor português e cantor Jorge Roldão»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado dos Desejos, Columbia B-115, 11884-1, música do actor português e cantor Jorge Roldão"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/634/almeida_cruz_o_mangerico",
+      "doc": "museu-do-fado:wac66e5cf31a5ecaf",
+      "citacao": "Título: O mangerico ... Editora: Co. B-115 Referências: 11839-1-1; B115"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-O Mangerico, Co.B-115, 11839, desgarrada"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/635/almeida_cruz_fado_dos_desejos",
+      "doc": "museu-do-fado:wc4b0b706b8cb6e72",
+      "citacao": "Título: Fado dos Desejos ... Editora: Co. B-115 Referências: 11884-1-3; B115"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado dos Desejos, Columbia B-115, 11884-1, música do actor português e cantor Jorge Roldão"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

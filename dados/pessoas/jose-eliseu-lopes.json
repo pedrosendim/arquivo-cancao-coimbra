@@ -1,0 +1,27 @@
+{
+  "id": "jose-eliseu-lopes",
+  "tipo": "pessoa",
+  "nome": "José Eliseu Lopes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "neto_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "José Eliseu Lopes, neto do músico José das Neves Elyseu e proprietário deste documento"
+        }
+      ],
+      "nota": "A fonte não diz de que filho/filha é filho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

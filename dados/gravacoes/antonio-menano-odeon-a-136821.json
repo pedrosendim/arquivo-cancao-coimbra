@@ -1,0 +1,128 @@
+{
+  "id": "antonio-menano-odeon-a-136821",
+  "titulo": "As Meninas dos Meus Olhos / Fado d'Aveiro",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136821",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "As Meninas dos Meus Olhos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado d'Aveiro",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/PmDbagpuBT3Ym41WSWlMyUuY-p4etsZJaMMSzC6--2c/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/NDI4LTE3NjE5Mjc4/ODktNDA3OC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35531428",
+        "doc": "discogs:w6291e22649cc73fa",
+        "citacao": "Imagem (secondary): https://i.discogs.com/PmDbagpuBT3Ym41WSWlMyUuY-p4etsZJaMMSzC6--2c/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/NDI4LTE3NjE5Mjc4/ODktNDA3OC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35531428",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531428",
+          "doc": "discogs:w6291e22649cc73fa",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531428",
+          "doc": "discogs:w6291e22649cc73fa",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531428",
+          "doc": "discogs:w6291e22649cc73fa",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Lisboa, primavera de 1928; instrumentistas não identificados (blogue)",
+      "data": "1928",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações concretizadas na cidade de Lisboa, durante a Primavera de 1928. Não está identificado o local onde decorreram as gravações, nem são conhecidos os instrumentistas intervenientes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 670: AS MENINAS DOS MEUS OLHOS (As meninas dos meus olhos)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 696: FADO D’AVEIRO (Se julgas que eu perco muito)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35531428",
+      "doc": "discogs:w6291e22649cc73fa",
+      "citacao": "Editora: Odeon – A 136821"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

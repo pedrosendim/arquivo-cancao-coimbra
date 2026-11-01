@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136819-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0598_38.mp3",
+  "titulo": "Fado da Mágua — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136819",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1189.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1181/antonio_menano_fado_da_magua",
+      "doc": "museu-do-fado:w446ed4c889d95dda",
+      "citacao": "Título: Fado da Mágua ... Editora: Od.136.819, Co.1086X,EMI261283,EMICD8364452 Referências: OG691, R, S, 3; G-1086-x"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota": "A linha «Editora» do registo indica «Od.136.819, Co.1086X,EMI261283,EMICD8364452»; a linha «Referências» termina em «G-1086-x»."
+}

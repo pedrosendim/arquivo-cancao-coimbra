@@ -1,0 +1,58 @@
+{
+  "id": "jorge-vaz-machado",
+  "tipo": "pessoa",
+  "nome": "Jorge Vaz Machado",
+  "nomes_alternativos": [
+    "Jorge Machado"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html", "doc": "gc-i:111386707668512688", "citacao": "Iniciou-se em 1991 na Secção de Fado da AAC."}], "nota": "Iniciou-se na Secção em 1991."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Integrou o Grupo Canção de Coimbra em 2002."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "o CD \"Prospecção\", editado em 2004, com Jorge Machado (voz) e Fernando Marques/Pedro Nunes (gg) e Manuel João Vaz (v)."
+        }
+      ],
+      "nota": "voz (barítono); desde 2002"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/espetaculo-de-apresentacao-cd-fernando.html",
+          "doc": "gc-v:2692217642666510466",
+          "citacao": "Grupo PRESENÇA DE COIMBRA: Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v), Tiago Ferraz de Oliveira (v), e os cantores Jorge Machado e Jorge Cravo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Presença de Coimbra (Manuel Borralho, José Ferraz de Oliveira, Manuel\nGouveia Ferreira, Tiago Ferraz de Oliveira, Jorge Machado, Jorge Cravo)"
+        }
+      ],
+      "nota": "voz, como «Jorge Machado»; 2016-2017"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "paulo-cortesao",
+  "tipo": "pessoa",
+  "nome": "Paulo Cortesão",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "pardalitos-do-mondego",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Cantores: Paulo Cortesão (Assistente Social); Nuno Castelhano (Advogado); Felisberto Queiroz (estudante de Engª Mecânica)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/foto-da-actuao-dos-pardalitos-do.html",
+          "doc": "gc-i:115271930039418055",
+          "citacao": "Foto da actuação dos Pardalitos do Mondego no dia 11/07 no Quebra Costas."
+        }
+      ],
+      "nota": "voz; formação de 2006"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

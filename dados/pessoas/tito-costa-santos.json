@@ -1,0 +1,50 @@
+{
+  "id": "tito-costa-santos",
+  "tipo": "pessoa",
+  "nome": "Tito Costa Santos",
+  "nomes_alternativos": [
+    "Costa Santos (Tito)"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias, Barros Ferreira, Alcindo Costa e Augusto Camacho; Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola; Francisco Vasconcelos e Alexandre Bateiras na guitarra."
+        }
+      ],
+      "nota": "voz (1991, 1997)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Tito%20Costa%20Santos%203.jpg",
+      "legenda": "Tito Costa Santos a cantar com o Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio (2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-de-fados-e-guitarras_115241033529736722.html",
+          "doc": "gc-i:115241033529736722",
+          "citacao": "Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio. Tito Costa Santos a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

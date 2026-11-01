@@ -1,0 +1,94 @@
+{
+  "id": "violao-raul-simoes-jose-mesquita",
+  "designacao": "Violão de seis ordens da oficina de Raul Simões (década de 1950), comprado por José Mesquita",
+  "tipo": "viola",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "jose-mesquita",
+      "periodo": "comprado entre 1955-1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Foi comprado pelo então estudante da Faculdade de Ciências da Universidade de Coimbra José Mesquita entre 1955-1957"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Hexacórdio fabricado na oficina de Raul Simões na década de 1950",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Hexacórdio fabricado na oficina conimbricense de Raul Simões, na década de 1950."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Pequeno restauro na década de 1980, na oficina de Luís Filipe Roxo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Sofreu um pequeno restauro na década de 1980, na oficina de Luís Filipe Roxo Ferreira (1940-2015)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Violão de caixa grande, próximo do modelo dito «bacalhau»; escala de 18 pontos em pau santo; rótulo original das décadas de 1930/1940",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "violão de caixa grande, aproximado ao modelo popularizado nos eventos musicais anuais da cidade de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "escala seccionada em 18 pontos, em pau santo, ligeiramente abaulada"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "rótulo original impresso, conforme design das décadas de 1930/1940 colado no interior"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "Descoberto mais um violão de seis ordens da oficina de Raul Simões."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

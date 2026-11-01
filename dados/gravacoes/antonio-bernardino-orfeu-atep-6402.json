@@ -1,0 +1,169 @@
+{
+  "id": "antonio-bernardino-orfeu-atep-6402",
+  "titulo": "Flores para Coimbra",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6402",
+  "ano": "1969",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "francisco-martins",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "luis-filipe-roxo",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Flores para Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6402-1-youtube",
+        "ouvir-antonio-bernardino-orfeu-atep-6402-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção com Lágrimas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Canção do Exílio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Trova da Planície",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6402-4-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/gVBOmEckhhRF25TAQDQ9-t9CpUoB7fRZ1dSWa9EXBl8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/MDM0LTE0OTA5MTgz/MjQtMTIzMy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10060034",
+        "doc": "discogs:w0546d04aebe86a77",
+        "citacao": "Imagem (secondary): https://i.discogs.com/gVBOmEckhhRF25TAQDQ9-t9CpUoB7fRZ1dSWa9EXBl8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/MDM0LTE0OTA5MTgz/MjQtMTIzMy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10060034",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060034",
+          "doc": "discogs:w0546d04aebe86a77",
+          "citacao": "Formato: 1 × Vinyl, 7\", EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060034",
+          "doc": "discogs:w0546d04aebe86a77",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1969 (Discogs)",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060034",
+          "doc": "discogs:w0546d04aebe86a77",
+          "citacao": "Data: 1969"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: António Portugal e Francisco Martins (guitarras), Luís Filipe (viola) (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060034",
+          "doc": "discogs:w0546d04aebe86a77",
+          "citacao": "ACOMPANHAMENTO: António Portugal (Guitarra), Francisco Martins (Guitarra) e Luís Filipe (Viola);"
+        }
+      ],
+      "conflito": false,
+      "nota": "Liga-se a luis-filipe-roxo porque a ficha desse violista o associa ao trabalho com António Portugal em «Flores para Coimbra» (1969); confirmar."
+    },
+    {
+      "campo": "outro",
+      "valor": "Arranjo de guitarra de Francisco Martins em Flores para Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/flores-para-coimbra.html",
+          "doc": "gc-iii:4503831732769604451",
+          "citacao": "-Flores para Coimbra (Que mil flores desabrochem), arranjo de Francisco Filipe Martins;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10060034",
+      "doc": "discogs:w0546d04aebe86a77",
+      "citacao": "Editora: Orfeu – ATEP 6402"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/07/nos-50-anos-da-gravacao-do-lp-flores.html",
+      "doc": "gc-v:8647259852848236287",
+      "citacao": "1-O EP FLORES PARA COIMBRA, Porto, Orfeu ATEP 6402, s/d. [1969]."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/05/flores-para-coimbra.html",
+      "doc": "gc-iii:4503831732769604451",
+      "citacao": "foi gravado no EP Flores para Coimbra. António Bernardino. Porto: Orfeu, ATEP 6402, ano de 1969, da editora Arnaldo Trindade."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

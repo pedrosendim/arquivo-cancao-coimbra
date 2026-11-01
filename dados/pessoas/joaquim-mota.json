@@ -1,0 +1,46 @@
+{
+  "id": "joaquim-mota",
+  "tipo": "pessoa",
+  "nome": "Joaquim Mota",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata em Santarém, 28 de junho de 2024, cantor do grupo Campa Rasa",
+      "data": "2024-06-28",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cantores: Joaquim Mota, Rui Ferreira e António José Rocha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cantores: Joaquim Mota, Rui Ferreira e António José Rocha"
+        }
+      ],
+      "nota": "voz (2024)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

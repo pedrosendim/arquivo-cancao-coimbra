@@ -1,0 +1,88 @@
+{
+  "id": "nuno-menano",
+  "tipo": "pessoa",
+  "nome": "Nuno Menano",
+  "nomes_alternativos": [
+    "António Nuno",
+    "Eng. Nuno Menano"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "novembro de 1927",
+      "data": "1927-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Nuno Menano, nascido em Novembro/1927, filho de António Menano e de Maria Henriqueta da Câmara Viterbo Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Engenheiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "O filho do cantor, Eng. Nuno Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Nuno Menano, nascido em Novembro/1927, filho de António Menano e de Maria Henriqueta da Câmara Viterbo Menano"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-henriqueta-da-camara-viterbo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Nuno Menano, nascido em Novembro/1927, filho de António Menano e de Maria Henriqueta da Câmara Viterbo Menano"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

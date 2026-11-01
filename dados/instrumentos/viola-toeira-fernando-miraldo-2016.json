@@ -1,0 +1,71 @@
+{
+  "id": "viola-toeira-fernando-miraldo-2016",
+  "designacao": "Viola toeira de Fernando Miraldo, inspirada na de José Rodrigues Bruno («Linda de morrer», 2016)",
+  "tipo": "viola toeira",
+  "construtor": "fernando-miraldo",
+  "ano": "2016",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Construída no segundo semestre de 2016",
+      "data": "2016",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+          "doc": "gc-v:6099637857077944428",
+          "citacao": "Ao longo do segundo semestre de 2016, Fernando Miraldo construiu mais uma viola toeira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Inspirada na toeira de José Rodrigues Bruno; experimentada por Amadeu Magalhães",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+          "doc": "gc-v:6099637857077944428",
+          "citacao": "Trata-se de uma Toeira inspirado na do José Rodrigues Bruno."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+          "doc": "gc-v:6099637857077944428",
+          "citacao": "do especialista Amadeu Magalhães que a tocou na passada terça feira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdctPkuUM2C057lABv66rDW2FW_3nLq5sMZ_dcMG8ntGXpNClzMuD1-lIAADDERpWgd0PCFgWNPxgvqHZdFZKnRXCMYQA_4w8qJEUxEgndI0jjPiwah101Zcs8raZkgSdQ-zuBpHzHdx8/s1600/IMG_20170115_112859735+%25282%2529.jpg",
+      "legenda": "A nova toeira de Fernando Miraldo, inspirada na de José Rodrigues Bruno (fotografia enviada pelo construtor).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+          "doc": "gc-v:6099637857077944428",
+          "citacao": "É com prazer que lhe envio algumas fotos da minha nova toeira"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+      "doc": "gc-v:6099637857077944428",
+      "citacao": "uma toeira da oficina Fernando Miraldo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "luisa-paulo-menano",
+  "tipo": "pessoa",
+  "nome": "Luísa Paulo Menano",
+  "nomes_alternativos": [
+    "Luísa"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-da-costa-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Deste casamento, nasceram seis raparigas, Albertina, Maria, Estefânia, Ana, Luísa, e Maria dos Prazeres. Ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano."
+        }
+      ],
+      "nota": "A fonte dá o nome próprio e diz que «ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano»."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "januaria-augusta-paulo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Deste casamento, nasceram seis raparigas, Albertina, Maria, Estefânia, Ana, Luísa, e Maria dos Prazeres. Ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano."
+        }
+      ],
+      "nota": "A fonte dá o nome próprio e diz que «ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano»."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Deste casamento, nasceram seis raparigas, Albertina, Maria, Estefânia, Ana, Luísa, e Maria dos Prazeres. Ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano."
+        }
+      ],
+      "nota": "A fonte dá o nome próprio e diz que «ao nome de todas, foi-lhe acrescentado o apelido Paulo Menano»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

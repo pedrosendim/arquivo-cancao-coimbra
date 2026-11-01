@@ -1,0 +1,39 @@
+{
+  "id": "isabel-mulher-de-armando-luis-de-carvalho-homem",
+  "tipo": "pessoa",
+  "nome": "Isabel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "armando-luis-de-carvalho-homem",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/carvalho-homem-com-esposa-isabel-em.html",
+          "doc": "gc-i:111016123554784795",
+          "citacao": "Carvalho Homem com a esposa Isabel, em 2004"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jorge-cravo-no-teatro-gil-_113305978359530328.html",
+          "doc": "gc-i:113305978359530328",
+          "citacao": "Armando Luís de Carvalho Homem e a esposa, Isabel."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/05/grupo-raizes-de-coimbra-no-espectaculo.html",
+          "doc": "gc-iii:2496442363513554069",
+          "citacao": "a esposa de A. L. Carvalho Homem, Isabel"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. Os filhos referidos numa legenda (2009) não se registam em ficha própria."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

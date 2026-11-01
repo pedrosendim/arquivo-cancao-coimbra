@@ -1,0 +1,29 @@
+{
+  "id": "jose-daniel-vieira",
+  "tipo": "pessoa",
+  "nome": "José Daniel Vieira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "Viola - Nuno Botelho\n\nGuitarra - João Pedro Monteiro\n\nVoz - Nuno Farinha\n\nVoz - José Daniel Vieira"
+        }
+      ],
+      "nota": "voz; Café Santa Cruz, abril de 2007"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

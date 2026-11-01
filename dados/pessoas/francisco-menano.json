@@ -1,0 +1,124 @@
+{
+  "id": "francisco-menano",
+  "tipo": "pessoa",
+  "nome": "Francisco Menano",
+  "nomes_alternativos": [
+    "Francisco Paulo Menano",
+    "Chico Menano"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+      "doc": "gc-v:3441302094536070733",
+      "citacao": "Retrato de FRANCISCO MENANO (1888-1970), bacharel pela FD / UC no ano da sua formatura (1912)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+      "doc": "gc-v:3441302094536070733",
+      "citacao": "Enquanto estudante foi guitarrista solista e compositor de sucessos"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1888",
+      "data": "1888",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "FRANCISCO MENANO (1888-1970)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1970",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "FRANCISCO MENANO (1888-1970)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "seus irmãos Horácio e António"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "estreado em 1915 pelos manos Francisco e António. Gravado com versões distintas por António Menano"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-da-costa-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "FRANCISCO PAULO MENANO, era filho de António da Costa Menano, negociante, e de Januária Augusta Paulo, proprietária, sendo um dos catorze[2] filhos do casal."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "januaria-augusta-paulo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "FRANCISCO PAULO MENANO, era filho de António da Costa Menano, negociante, e de Januária Augusta Paulo, proprietária, sendo um dos catorze[2] filhos do casal."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjlfSJwiaAAx3A7mj5oVzfzDY0WsQMRv-LJ7D69pHRR9uYwfxfajeoAL5dWij4llpn2LNEuIg_ShO6N-m_LUCp6rvXOnEWS1BNoRCloyMG2gc8fJ6ggqGYe4kWXbm6pRYDjA5upkNHSPk/s1600/Francisco+Menano.jpg",
+      "legenda": "Foto de Francisco Menano, tirada provavelmente nos alvores da década de 1950 (cedida por António Manuel Nunes)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/06/francisco-menano.html",
+          "doc": "gc-ii:3865128350456803370",
+          "citacao": "Foto de Francisco Menano, tirada provavelmente nos alvores da década de 1950. Foto gentilmente cedida por António Manuel Nunes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

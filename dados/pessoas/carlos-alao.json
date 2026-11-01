@@ -1,0 +1,46 @@
+{
+  "id": "carlos-alao",
+  "tipo": "pessoa",
+  "nome": "Carlos Alão",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Jurista; executante de viola e membro da TAUC em finais dos anos 60 / princípios dos 70",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/jos-alo-2006-da-associao-dos-antigos.html",
+          "doc": "gc-i:114713046652623156",
+          "citacao": "Carlos Alão, um jurista que foi também executante de viola e membro da TAUC em finais dos anos 60 / princípios dos 70"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "jose-tristao-eiras-de-bessa-alao",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/jos-alo-2006-da-associao-dos-antigos.html",
+          "doc": "gc-i:114713046652623156",
+          "citacao": "era o irmão mais velho de Paulo Alão – executante de viola não carente de apresentações – e de Carlos Alão"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

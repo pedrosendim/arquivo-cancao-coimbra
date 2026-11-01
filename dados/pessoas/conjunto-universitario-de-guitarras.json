@@ -1,0 +1,173 @@
+{
+  "id": "conjunto-universitario-de-guitarras",
+  "tipo": "grupo",
+  "nome": "Conjunto Universitário de Guitarras",
+  "nomes_alternativos": [
+    "CUG"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+      "doc": "gc-v:317687412411170614",
+      "citacao": "Formação masculina constituída por estudantes da Universidade do Porto, com actividade na década de 1960. Os seus elementos integraram o Orfeão Universitário do Porto como cantores, dirigentes, instrumentistas e animadores de variedades."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+      "doc": "gc-v:1552415873352881508",
+      "citacao": "O grupo de Beirão Reis distancia-se da nomenclatura comum, «grupo de fados do OUP» e constitui-se como grupo autónomo, agora com a designação «Conjunto Universitário de Guitarras» [da UP]. Com esta designação, o novo grupo teve intervenção em serenatas espontâneas, atuações em palco e gravou em 1966 dois EP's na Orfeu, mantendo atividade regular até 1969."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+      "doc": "gc-v:317687412411170614",
+      "citacao": "Os elementos dissidentes do Orfeão constituíram o Conjunto Universitário de Guitarras, que gravou dois EP(s) na Orfeu (cf. João Caramalho Domingues: 2011), tendo mantido intensa actividade até ca. 1969 e garantido as serenatas da Queima das Fitas do Porto."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+      "doc": "gc-v:317687412411170614",
+      "citacao": "Concordando com a análise de Armando Luís de Carvalho Homem, a ambiência sonora produzida pelos instrumentistas desta formação traduz influências do legado sonoro do Coimbra Quintet (1955-1958)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "constituído por dissidentes do Orfeão Universitário do Porto, após a digressão ao Brasil de 1965",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "Segundo Armando Luís de Carvalho Homem (1999) alguns dos elementos iniciais desta formação fizeram uma digressão ao Brasil no ano de 1965, tendo após o regresso ocorrido a queda da direcção do Orfeão que era presidida por Eduardo Beirão Reis. Os elementos dissidentes do Orfeão constituíram o Conjunto Universitário de Guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "atividade regular até 1969; garantiu as serenatas da Queima das Fitas do Porto",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "mantendo atividade regular até 1969"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "tendo mantido intensa actividade até ca. 1969 e garantido as serenatas da Queima das Fitas do Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação de 1965-1966: José Carlos Agrelos e Manuel Botelho Chaves (guitarras), Eduardo Beirão Reis (viola), Nuno Morgado e Manuel Gil da Mata (cantores)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "O conjunto era formado em 1965-1966 por - José Carlos Agrelos / Manuel Botelho Chaves (ggC), Eduardo Beirão Reis (v), Nuno Morgado (cantor) e Manuel Gil da Mata (cantor e compositor), não tendo este último participado nas gravações pelo facto de estar afónico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP Conjunto Universitário de Guitarras, Orfeu ATEP 6187, s/d [ca. 1965]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "EP CONJUNTO UNIVERSITÁRIO DE GUITARRAS. Porto: Orfeu, ATEP 6187, s/d [ca. 1965], canta Nuno Morgado, acompanhado por José Carlos Agrelos/Manuel Botelho Chaves (ggC) e Eduardo Beirão Reis (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "dois EP na Orfeu gravados em 1966",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "gravou em 1966 dois EP's na Orfeu"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6607024",
+          "doc": "discogs:wd45a633ed51903f4",
+          "citacao": "1966 · Conjunto Universitário De Guitarras · Orfeu ... 1966 · Fados · Orfeu"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP Conjunto Universitário de Guitarras. Fados, Orfeu ATEP 6218, s/d [ca. 1966]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "EP CONJUNTO UNIVERSITÁRIO DE GUITARRAS. FADOS. Porto: Orfeu, ATEP, 6218, s/d [ca. 1966], canta Nuno Morgado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Arménio Assis tocou uma das guitarras na gravação de pelo menos um dos EP",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Pelo menos na gravação de um dos EP's Arménio Assis esteve presente em estúdio com Agrelos e Botelho Chaves e executou ele, Arménio Assis, uma das guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8k1z3koGMcO3OYXoaqRTqyqVD_9fdowVeQrlgk_P1hwaFt4sdC7lV6-QEn2WVVrnuSvP7kIWqUytLj-vnJOnPXim8VpzW1FMlOFPKustKJrZJFOMQJJssEamnvnylzQ5uJQahbcIBZQPw/s1600/OUP_capa+%25282%2529.jpg",
+      "legenda": "Capa de um dos dois EP do Conjunto Universitário de Guitarras (Orfeu), com motivo de capa de Fernando Aroso.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "Capas e contracapas cartonadas dos 2 EP(s) produzidos pelo Conjunto Universitário de Guitarras, edição da etiqueta Orfeu, com motivos de capa de Fernando Aroso."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Conjunto Universitário De Guitarras",
+      "url": "https://www.discogs.com/artist/6607024"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

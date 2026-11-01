@@ -1,0 +1,63 @@
+{
+  "id": "antonio-das-neves-elyseu",
+  "tipo": "pessoa",
+  "nome": "António das Neves Elyseu",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "1865 – 1931",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "António das Neves Elyseu (1865-1931)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "abel-ferreira-das-neves-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "Abel Ferreira das Neves Elyseu, compositor, pai de António das Neves Elyseu (1865-1931)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "irmão de Abel e tio dos manos António e José"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "pai de António das Neves Elyseu (1865-1931) e de José das Neves Elyseu (1872-1924)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

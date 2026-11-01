@@ -1,0 +1,122 @@
+{
+  "id": "artur-paredes-hmv-eq-74",
+  "titulo": "Bailados do Minho / Variações em Ré Menor",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 74",
+  "ano": "1927",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra (solista)"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Bailados do Minho",
+      "obra": "bailados-do-minho",
+      "media": ["ouvir-artur-paredes-hmv-eq-74-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Ré Menor",
+      "obra": "variacoes-em-re-menor-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-74-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJFinU0wWXF-YC6uYjdpVUG93PYsgmPM0szx87gtCeFEzJ1U4d-K99kNjns6J-ecaLf8aAdox7BMSSLx_wOJfL4oyenEcXiZtUW-6o9K3hTYWys1MddIydOg1K09McYiMXd3lIo22L2gG/s1600/11a+Rodela+A.+Paredes+-+bailados+do+Minho+%2528p%2529+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Disco de 78 rpm HMV E. Q. 74, BAILADOS DO MINHO, de Antero da Veiga, versão de Artur Paredes."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/15204455",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Bailados do Minho gravado em Lisboa a 18 de maio de 1927",
+      "data": "1927-05-18",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "BAILADOS DO MINHO (guitarrada), música de Anthero Dias Alte da Veiga, disco His Master’s Voice E.Q. 74, 7-69280. Arranjo de Artur Paredes. Gravado em Lisboa a 18.05.1927. Editado outro exemplar M. H. 35."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Variações em Ré Menor: master 7-69261",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "master 7- 69261 – Variações em Ré Menor"
+        }
+      ],
+      "conflito": true,
+      "nota": "Número de master divergente dentro do mesmo post (secção A.1 vs. secção C)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Variações em Ré Menor: master 7-69281, gravado em Lisboa a 20 de maio de 1927 (outra edição B. J. 785-1, gravada a 19 de maio)",
+      "data": "1927-05-20",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "His Master’s Voice com várias edições: B. J. 785-1, gravado em Lisboa a 19.05.1927; e E.Q. 74, 7-69281. Gravado em Lisboa a 20.05.1927."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, E.Q. 74 - master 7- 69280 – Bailados do Minho. Refere Antero de Veiga. Menciona os instrumentistas. - master 7- 69261 – Variações em Ré Menor. Refere Artur Paredes e os instrumentistas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+      "doc": "gc-ii:6771089723538402965",
+      "citacao": "Artur Paredes só viria a gravar esta composição em Lisboa, no mês de Maio de 1927, no disco de 78 rpm His Master’s Voice E.Q. 74, acompanhado por Afonso de Sousa (g) e pelo relojoeiro e tocador de rabeca Guilherme Barbosa (v)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

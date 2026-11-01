@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-jose-afonso-orfeu-fpat-6011-1981-1-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=xTaCcZO69co",
+  "titulo": "Saudades de Coimbra — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "octavio-sergio",
+    "durval-moreirinhas"
+  ],
+  "obras": [
+    "saudades-de-coimbra-bettencourt"
+  ],
+  "gravacao": "jose-afonso-orfeu-fpat-6011-1981",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=xTaCcZO69co"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: «José Afonso - \"Saudades de Coimbra\" do disco \"Fados de Coimbra e outras canções\" (LP 1981)»",
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-86-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0299_01.mp3",
+  "titulo": "Fado do Coração — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-86",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0598.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/593/almeida_cruz_fado_do_coracao",
+      "doc": "museu-do-fado:w8d5ed5220fa3209e",
+      "citacao": "Título: Fado do Coração ... Editora: Co. B-86 Referências: 11864-1-1; B86"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

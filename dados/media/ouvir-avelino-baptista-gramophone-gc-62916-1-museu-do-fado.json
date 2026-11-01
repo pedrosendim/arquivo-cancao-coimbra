@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-gramophone-gc-62916-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1745_25.mp3",
+  "titulo": "Despedida de Coimbra — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-gramophone-gc-62916",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3269.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3436/avelino_baptista_despedida_de_coimbra",
+      "doc": "museu-do-fado:waf14079456463b25",
+      "citacao": "Título: Despedida de Coimbra ... Editora: D.P. Gramophone GC -62916  Referências: Disque Pour Gramophone 7508, 62916; GC - 62916"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

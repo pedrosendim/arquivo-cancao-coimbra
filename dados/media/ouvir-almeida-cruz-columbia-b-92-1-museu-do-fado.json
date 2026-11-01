@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-92-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0306_14.mp3",
+  "titulo": "Fado Hilário — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-92",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0612.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/607/almeida_cruz_fado_hilario",
+      "doc": "museu-do-fado:w2febe4cf4369289f",
+      "citacao": "Fado Hilário ... Almeida Cruz ... Editora: Co. B-92"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "antonio-menano-odeon-la-187808",
+  "titulo": "Fado Franklin / Fado da Ansiedade",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187808",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Franklin",
+      "obra": "",
+      "media": [
+        "disco-antonio-menano-odeon-la-187808-fado-franklin",
+        "ouvir-antonio-menano-odeon-la-187808-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Ansiedade",
+      "obra": "",
+      "media": [
+        "disco-antonio-menano-odeon-la-187808-fado-da-ansiedade",
+        "ouvir-antonio-menano-odeon-la-187808-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/BSGLs6g9fDyWTkWbtBXAbVtJO0BImQK_jgwQTCvvTIU/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjA4/NzAtMTQ3MjQ4MjU4/My04MTQ2LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7760870",
+        "doc": "discogs:w88f5a66250385191",
+        "citacao": "Imagem (primary): https://i.discogs.com/BSGLs6g9fDyWTkWbtBXAbVtJO0BImQK_jgwQTCvvTIU/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjA4/NzAtMTQ3MjQ4MjU4/My04MTQ2LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7760870",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7760870",
+          "doc": "discogs:w88f5a66250385191",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7760870",
+          "doc": "discogs:w88f5a66250385191",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7760870",
+          "doc": "discogs:w88f5a66250385191",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Berlim, 11 a 28 de dezembro de 1928: João Fernandes (guitarra) e Mário Marques (violão); nas peças assinaladas com asterisco, piano de Afonso Correia Leite (blogue)",
+      "data": "1928-12",
+      "local": "Berlim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "A terceira série fonográfica, ou registos berlinenses, ocorreu entre 11 e 28 de Dezembro de 1928, quase cinco meses após as gravações de Lisboa. O duo de guitarra e violão era formado por instrumentista do Fado de Lisboa, João Fernandes (g) e Mário Marques (v). Em algumas peças, que assinalaremos com asterisco no inventário, António Menano foi acompanhado ao piano por Afonso Correia Leite."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1020: FADO FRANKLIN (Não me queres, não admira)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1025: FADO DA ANCIEDADE (O mundo dá tanta volta)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: João Fernandes e Mario Marques",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7760870",
+          "doc": "discogs:w88f5a66250385191",
+          "citacao": "A Fado Franklin  [João Fernandes (2), Mario Marques (3), Franklin Godinho (F. Godinho)]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7760870",
+      "doc": "discogs:w88f5a66250385191",
+      "citacao": "Editora: Odeon – LA 187808"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

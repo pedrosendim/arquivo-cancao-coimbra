@@ -1,0 +1,127 @@
+{
+  "id": "antonio-menano-odeon-a-136806",
+  "titulo": "Carta d'Aldeia / Fado Manassés",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136806 / A 187500",
+  "ano": "",
+  "local": "França",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Carta d'Aldeia",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136806-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Manassés",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136806-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/1VlMkoQAJLeiSbd8GS5ehN5VvQ9ZQRAw0eowBNEXsBI/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODky/MzItMTQ5MzgxOTk3/NS0xNDg5LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/9989232",
+        "doc": "discogs:wa7de159fa88175d4",
+        "citacao": "Imagem (primary): https://i.discogs.com/1VlMkoQAJLeiSbd8GS5ehN5VvQ9ZQRAw0eowBNEXsBI/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODky/MzItMTQ5MzgxOTk3/NS0xNDg5LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/9989232",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9989232",
+          "doc": "discogs:wa7de159fa88175d4",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): France",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9989232",
+          "doc": "discogs:wa7de159fa88175d4",
+          "citacao": "País: France"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Os dois títulos foram gravados em Paris (maio de 1927) e de novo em Berlim (dezembro de 1928)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações efectuadas nos estúdios da Odeon em Paris, no mês de Maio de 1927, sendo o cantor acompanhado em Guitarra de Coimbra de 17 pontos, afinada ao natural, por Flávio Rodrigues da Silva (1902-1950), e no violão de cordas de aço por Augusto da Silva Louro (1902-1927)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 595: CARTA D’ALDEIA (Minha querida Maria) Og 603: FADO MANASSÉS (Trago comigo um pecado)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1017: FADO MANASSÉS (Trago comigo um pecado)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1037: CARTA D’ALDEIA (Minha querida Maria/Desejo saber)*"
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes não permitem saber de que sessão provêm as faixas deste disco."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9989232",
+      "doc": "discogs:wa7de159fa88175d4",
+      "citacao": "Editora: Odeon – A 136806"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9989232",
+      "doc": "discogs:wa7de159fa88175d4",
+      "citacao": "Editora: Odeon – A 187500"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

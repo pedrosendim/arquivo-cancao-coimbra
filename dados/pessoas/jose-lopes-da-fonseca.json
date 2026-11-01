@@ -1,0 +1,52 @@
+{
+  "id": "jose-lopes-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "José Lopes da Fonseca",
+  "nomes_alternativos": [
+    "Zé Trego",
+    "José Trego"
+  ],
+  "papeis": [
+    "violista",
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José Lopes da Fonseca (8/03/1883; 22/04/1976). Barbeiro, ... Entre os anos 30 e 40 acompanhou frequentemente Flávio Rodrigues."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "José Lopes da Fonseca demora uma das mais notáveis figuras da cultura popular coimbrã. ... Acompanhou por diversas vezes Flávio Rodrigues da Silva."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXgiSeSa-oNGqoqNHim1DHAamwVQqP8mO3LnwYHrkG8UTENXDgtXT0BsuSvaPbGRXf6REOGjUuxco4yrYVL1uWYi4SfdfV64OTCUiUtExJkiHHKKIY5fFoYIaCyZkppOP_wn0g9y9cLu0T/s1600/JoseTrego(JLopesdaFonseca).jpg",
+      "legenda": "José Lopes da Fonseca (Zé Trego), em idade avançada. Fotografia retirada do livro «Flávio Rodrigues da Silva, Fragmentos para uma Guitarra» (MinervaCoimbra, 2002), p. 61",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/jose-lopesda-fonseca-jose-trego-1883.html",
+          "doc": "gc-v:714642813462667538",
+          "citacao": "A fotografia que se apresenta, de José Lopes da Fonseca, em idade avançada, é retirada do livro dos Drs. António Manuel Nunes e José dos Santos Paulo"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

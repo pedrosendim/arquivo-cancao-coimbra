@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-113-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0318_36.mp3",
+  "titulo": "Fado da Noite — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-113",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0636.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/631/almeida_cruz_fado_da_noite",
+      "doc": "museu-do-fado:w546a320fc98123c2",
+      "citacao": "Título: Fado da Noite ... Editora: Co.B-113 Referências: 11882-1-2; B113"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

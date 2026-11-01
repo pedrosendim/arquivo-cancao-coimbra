@@ -1,0 +1,91 @@
+{
+  "id": "guitarra-oscar-cardoso-2001",
+  "designacao": "Guitarra de estilo de Lisboa com escala de 470 mm, de Óscar Cardoso, Lisboa, 2001 (feita para Ron Fernandez)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "oscar-cardoso",
+  "ano": "2001",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Oscar Cardos made this instrument for me."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarra de estilo de Lisboa com escala de 470 mm, feita em Lisboa em 2001",
+      "data": "2001",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Oscar Cardoso Lisbon style guitarra with a 470mm scale. Made in Lisbon, 2001."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Som rico, «almost like a harischord» (sic), segundo Ron Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "It has a rich sound, almost like a harischord."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/OscarCardosoFace.jpg",
+      "legenda": "Above: Oscar Cardoso Guitarra, made inLisboa 2001.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Oscar Cardoso Guitarra, made inLisboa 2001."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/OscarCardosoBack.jpg",
+      "legenda": "Above: Oscar Cardoso Guitarra, made inLisboa 2001.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Oscar Cardoso Guitarra, made inLisboa 2001."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Oscar Cardoso Lisbon style guitarra with a 470mm scale. Made in Lisbon, 2001."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

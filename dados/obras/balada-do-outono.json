@@ -1,0 +1,160 @@
+{
+  "id": "balada-do-outono",
+  "titulo": "Balada do Outono",
+  "titulos_alternativos": [
+    "Balada de Outono",
+    "Águas passadas do rio"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [
+    "jose-afonso"
+  ],
+  "ano": "1958",
+  "letra_texto": {
+    "fonte": "gc-i",
+    "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+    "doc": "gc-i:113815397765607682",
+    "citacao": "Águas passadas do rio,\nMeu sono vazio\nNão vão acordar;\nÁguas das fontes calai\nÓ ribeiras chorai\nQue eu não volto a cantar.\nRios que vão dar ao mar\nDeixem meus olhos secar\nÁguas das fontes calai\nÓ ribeiras chorai\nQue eu não volto a cantar.\nÁguas do rio correndo\nPoentes morrendo\nPràs bandas do mar;\nÁguas das fontes calai\nÓ ribeiras chorai\nQue eu não volto a cantar.\nRios que vão dar ao mar\nDeixem meus olhos secar\nÁguas das fontes calai\nÓ ribeiras chorai\nQue eu não volto a cantar."
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Primeira composição verdadeiramente da autoria de José Afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "Esta é a primeira composição verdadeiramente da autoria de José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composição de 1958",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "Incipit: Águas passadas do rio\n\nData: 1958"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/03/duas-reabordagens-da-obra-baladistica.html",
+          "doc": "gc-v:4436298673410635856",
+          "citacao": "BALADA DO OUTONO (Águas passadas do rio), música e letra de José Afonso. Composição de 1958, gravada pela primeira vez pelo próprio autor em 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título inicialmente pensado: Balada do Rio (Mondego)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "Parece que terá pensado em designá-la inicialmente por BALADA DO RIO (MONDEGO)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título preferido por José Afonso: Balada do Mondego",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "José Afonso teria preferido intitular a composição Balada do Mondego, mas a existência prévia desta designação noutras composições do repertório coimbrão levou-o a optar pelo título lhe fora sugerido pelo Dr. Francisco Menano."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título sugerido pelo Dr. António Menano",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "Em troca de ideias com o Dr. António Menano, recentemente regressado de Moçambique, José Afonso seguiu a sugestão de Balada do Outono"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Comércio do Funchal, 01/06/1970, citado no texto."
+    },
+    {
+      "campo": "outro",
+      "valor": "Título sugerido pelo Dr. Francisco Menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "optar pelo título lhe fora sugerido pelo Dr. Francisco Menano"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeira gravação: EP «Balada do Outono», Rapsódia EPF 5085, 12 de março de 1960, com António Portugal/Eduardo de Melo (guitarras) e Manuel Pepe/Paulo Alão (violas)",
+      "data": "1960-03-12",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "Balada gravada pela primeira vez nos inícios de 1960, por José Afonso, acompanhado à guitarra por António Portugal/Eduardo de Melo e, à viola, por Manuel Pepe/Paulo Alão: EP “Balada do Outono”, Rapsódia, EPF 5085 – EP0089F, de 12 de Março de 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Regravada em 1981 com Octávio Sérgio (guitarra) e Durval Moreirinhas (viola), arranjo de Octávio Sérgio",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "O autor voltou a gravar esta balada em 1981, acompanhado à guitarra por Octávio Sérgio e, à viola, por Durval Moreirinhas: LP “José Afonso – Fados de Coimbra”, Orfeu, FPAT 6011. O arranjo para guitarra de acompanhamento é de Octávio Sérgio"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+      "doc": "gc-i:113815397765607682",
+      "citacao": "BALADA DO OUTONO"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/balada-do-outono/",
+      "doc": "aja:wdbc39f95df119c2b",
+      "citacao": "Balada do Outono"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

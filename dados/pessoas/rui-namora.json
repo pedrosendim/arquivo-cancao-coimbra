@@ -1,0 +1,29 @@
+{
+  "id": "rui-namora",
+  "tipo": "pessoa",
+  "nome": "Rui Namora",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Alma Mater” – Carlos Pedro e Nuno Correia da Silva a cantar; Nuno Marques e Nuno Cadete à guitarra; António Paulo Lopes e Rui Namora à viola."
+        }
+      ],
+      "nota": "viola; coletânea «Baladas de Despedida – Anos 90»"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

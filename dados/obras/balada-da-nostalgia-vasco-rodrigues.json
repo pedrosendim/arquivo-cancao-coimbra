@@ -1,0 +1,38 @@
+{
+  "id": "balada-da-nostalgia-vasco-rodrigues",
+  "titulo": "Balada da Nostalgia",
+  "titulos_alternativos": [],
+  "genero": "balada",
+  "musica": [
+    "vasco-rodrigues"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "tema da autoria de Vasco Rodrigues",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola]) - \"Balada da Nostalgia\" (tema da autoria de Vasco Rodrigues) ... Gravado no Grémio Operário de Coimbra, no dia 6 de Setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": "A descrição não separa música e letra; registou-se Vasco Rodrigues em «música»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "mpagdp",
+      "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+      "doc": "mpagdp:wadd74b932e8e3744",
+      "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola]) - \"Balada da Nostalgia\" (tema da autoria de Vasco Rodrigues) ... Gravado no Grémio Operário de Coimbra, no dia 6 de Setembro de 2024"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

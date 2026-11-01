@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8122-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0154_26.mp3",
+  "titulo": "Inquietação — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8122",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0308.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/303/edmundo_bettencourt_inquietacao",
+      "doc": "museu-do-fado:we786c43463d588c6",
+      "citacao": "Título: Inquietação ... Editora: Co. 8122,GL103"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

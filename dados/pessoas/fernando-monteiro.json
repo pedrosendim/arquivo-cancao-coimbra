@@ -1,0 +1,36 @@
+{
+  "id": "fernando-monteiro",
+  "tipo": "pessoa",
+  "nome": "Fernando Monteiro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2025/02/falecimento-do-dr-fernando-monteiro.html", "doc": "gc-v:3057093833161646563", "citacao": "A partir de 1978 ensinou regularmente e discretamente GC na Escola [Municipal] do Chiado, nas escolas da SF / AAC e também num núcleo criado no Orfeon Académico."}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2020/01/falecimento-de-manuel-joao-vaz.html", "doc": "gc-v:5175455881994778921", "citacao": "Escolas da Secção de Fado da Associação Académica de Coimbra, à época orientadas pelo Mestre Fernando Monteiro"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html", "doc": "gc-i:113931791535386927", "citacao": "Posteriormente asseguraram esta escola Fernando Monteiro, Jorge Gomes e diversos discípulos daqueles dois formadores."}], "nota": "Professor de guitarra de Coimbra nas escolas da Secção, depois de João Moura; orientava-as por volta de 1991."},
+    {
+      "tipo": "membro_de",
+      "alvo": "cancioneiro-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/falecimento-do-dr-fernando-monteiro.html",
+          "doc": "gc-v:3057093833161646563",
+          "citacao": "Foi elemento da formação Cancioneiro de Coimbra, com a qual gravou um CD."
+        }
+      ],
+      "nota": "guitarra; CD de 1995"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

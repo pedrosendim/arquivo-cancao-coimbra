@@ -1,0 +1,30 @@
+{
+  "id": "afonso-rtp-maior-que-o-pensamento-primordios",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-primordios/",
+  "titulo": "Maior que o pensamento: Primórdios (RTP1, 2011)",
+  "data": "2011-04-23",
+  "pessoas": [
+    "jose-afonso",
+    "rui-pato",
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-primordios/",
+      "doc": "rtp-arquivos:wdaae2792a016dde6",
+      "citacao": "Programa documental de caráter biográfico dedicado à vida e obra de José Manuel Cerqueira Afonso dos Santos (Zeca Afonso)"
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-primordios/",
+      "doc": "rtp-arquivos:wdaae2792a016dde6",
+      "citacao": "com enfoque para a sua infância e estudos secundários em Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

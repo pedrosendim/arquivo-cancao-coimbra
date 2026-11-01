@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-gramophone-3-62292",
+  "titulo": "Fado das Lágrimas",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "3-62292",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Lágrimas",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-3-62292-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Lágrimas», por Manassés de Lacerda — etiqueta: «“Fado das Lágrimas” / cantado pelo Senhor Manasses Lacerda / Porto»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/928/manasses_de_lacerda_fado_das_lagrimas",
+          "doc": "museu-do-fado:w9325bd98af34b85c",
+          "citacao": "Título: Fado das Lágrimas ... Editora: Gra.3-62292,62385 Referências: Disque Pour Gramophone 8790o, 3-62292; G.C. 3-62292 ... Etiqueta: “Fado das Lágrimas” / cantado pelo Senhor Manasses Lacerda / Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/928/manasses_de_lacerda_fado_das_lagrimas",
+      "doc": "museu-do-fado:w9325bd98af34b85c",
+      "citacao": "Título: Fado das Lágrimas ... Editora: Gra.3-62292,62385 Referências: Disque Pour Gramophone 8790o, 3-62292; G.C. 3-62292"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

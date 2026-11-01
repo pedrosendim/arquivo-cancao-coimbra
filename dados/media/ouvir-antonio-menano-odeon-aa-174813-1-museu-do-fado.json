@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-aa-174813-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1162_47.mp3",
+  "titulo": "Resposta à carta 9 de Abril — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-aa-174813",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5521.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2303/antonio_menano_resposta_a_carta_9_de_abril",
+      "doc": "museu-do-fado:w8e06a2fc0144fe6a",
+      "citacao": "Título: Resposta à carta 9 de Abril ... Editora: Od.AA174.813a, EMI261283,EMICD8374952[12\"] Referências: XXOG1084-2, W, R; AA 174813a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "quarteto-de-coimbra-2024",
+  "tipo": "grupo",
+  "nome": "Quarteto de Coimbra (2024)",
+  "nomes_alternativos": [
+    "Grupo Quarteto de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+      "doc": "gc-v:3103881283986841572",
+      "citacao": "Grupo Quarteto de Coimbra:\n\nggC: Tiago Rodrigues e Simão Mota\n\nv: Vasco Rodrigues\n\nCantores: Fábio Almeida"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata em Santarém, Largo do Seminário, 28 de junho de 2024: Tiago Rodrigues e Simão Mota (guitarras), Vasco Rodrigues (viola), Fábio Almeida (voz)",
+      "data": "2024-06-28",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cartaz promocional da Serenata que terá lugar em Santarém, no dia 28 de junho de 2024, no Largo do Seminário, pelas 22:00h"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Quarteto de Coimbra:\n\nggC: Tiago Rodrigues e Simão Mota\n\nv: Vasco Rodrigues\n\nCantores: Fábio Almeida"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com o Quarteto de Coimbra de Carlos Costa (região do Porto, desde c. 1968)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhGb26o50OXuyqKWblDWzBiP3UuzdM76CuGq4BWwovYp7BhlLrOx1RJnG0peBrLTNhGa9YIiYfa6R1jerTEyIPc_qpK__97_YLIUocO5iRScIP4fCEnI1GiGBCpk6qMwBtZiKyHdV15dfD-ebSQKzYMpSs_98LUzdnOWeUY9VuhXCAeqaS5JJObVT9Pg/s2211/doc1.jpg",
+      "legenda": "Cartaz da Serenata em Santarém de 28 de junho de 2024 (com o Quarteto de Coimbra).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cartaz promocional da Serenata que terá lugar em Santarém, no dia 28 de junho de 2024, no Largo do Seminário, pelas 22:00h"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

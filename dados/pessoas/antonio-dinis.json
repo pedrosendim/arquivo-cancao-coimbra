@@ -1,0 +1,42 @@
+{
+  "id": "antonio-dinis",
+  "tipo": "pessoa",
+  "nome": "António Dinis",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "verdes-anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+          "doc": "gc-i:112173820518069874",
+          "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+        }
+      ],
+      "nota": "voz"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20111.jpg",
+      "legenda": "Grupo «Verdes Anos» no Arco de Almedina. António Dinis está a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos-no-arco-_112216074377338562.html",
+          "doc": "gc-i:112216074377338562",
+          "citacao": "Grupo \"Verdes Anos\" no Arco de Almedina, ontem. António Dinis está a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

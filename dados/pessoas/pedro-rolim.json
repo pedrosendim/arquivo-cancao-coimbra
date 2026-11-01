@@ -1,0 +1,27 @@
+{
+  "id": "pedro-rolim",
+  "tipo": "pessoa",
+  "nome": "Pedro Rolim",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "fernando-rolim",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra_8.html",
+          "doc": "gc-v:2445347139300080102",
+          "citacao": "Informa Pedro Rolim que esta sessão musical de Setúbal, que decorreu no teatro Luísa Todi, foi organizada por seu pai, Dr. Fernando Rolim"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "luis-catario",
+  "tipo": "pessoa",
+  "nome": "Luís Catario",
+  "nomes_alternativos": [
+    "Luís Cartario",
+    "Luís Cartário"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Por este grupo, que se mantém activo, passaram inúmeros estudantes de Coimbra: no canto, Luís Cartario, José Morgado, José Neves, Fernando Castro, António Pimentel, Rui Lucas, Fernando Silva e António Nogueira; na guitarra, Francisco Alte da Veiga, Nuno Maia Grego e Filipe Almeida. Actualmente, o grupo é constituído por João Moura, Domingos Mateus (guitarra), José Santos e Luís Veloso (viola), Vítor Barreto e Jaime Leite (vozes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP 10 anos... uma serenata, pelo Grupo de Fados e Guitarras de\nCoimbra, Porto, Edisco, GFC 001, GF 00002,1988, 1.200$00. Textos de\napresentação assinados por Luís Goes e Mário Afonso. Cantam António Nogueira,\nLuís Catario e Victor Silva. Guitarras: João Moura. Violas: José Santos.\nRegista 10 temas, sendo 8 cantados e 2 instrumentais. Apresenta 5 inéditos\n(face B)."
+        }
+      ],
+      "nota": "voz; LP de 1988"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

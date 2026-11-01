@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-angelo-fernandes-hmv-mq-190-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0355_33.mp3",
+  "titulo": "Quando procuro os teus olhos — Ângelo Fernandes",
+  "data": "",
+  "pessoas": [
+    "angelo-fernandes"
+  ],
+  "obras": [],
+  "gravacao": "angelo-fernandes-hmv-mq-190",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0709.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/705/angelo_fernandes_quando_procuro_os_teus_olhos",
+      "doc": "museu-do-fado:wc87dd8c4f8a9adb1",
+      "citacao": "Título: Quando procuro os teus olhos ... Editora: HMV MQ190 Referências: OPC1062-1; MQ 190"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

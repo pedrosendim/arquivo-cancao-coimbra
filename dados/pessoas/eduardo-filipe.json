@@ -1,0 +1,56 @@
+{
+  "id": "eduardo-filipe",
+  "tipo": "pessoa",
+  "nome": "Eduardo Filipe",
+  "nomes_alternativos": [
+    "Eduardo Filipe Santos"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "capas-negras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        }
+      ],
+      "nota": "voz"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijYFCYToo-Y6bu4YfXu5uvxPhHLYNluQy3P2UA54Yl7zM6l8TEWkmxt1zjTRNpEDwNy4e7aH7jIl3ngIYhMRfb10L97USjuPUjC7zmkJYXdIOARtN9pz7-LHJMvjvupbq21rLz1AmXkWY/s1600/NG7.jpg",
+      "legenda": "Eduardo Filipe, do grupo Capas Negras, interpreta O Tempo sem Sombras, acompanhado por António José Moreira (gC) e Rui Pato (v); em plano recuado, Luís Alvelos e Nuno Encarnação (v).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:424117042564170805",
+          "citacao": "Foto 6: Eduardo Filipe, do grupo Capas Negras, interpreta O Tempo sem Sombras, acompanhado por António José Moreira (gC) e Rui Pato (v), numa reactualização da versão original gravada em 1967. Em plano recuado, Luís Alvelos, que cantou Fado da Vida e Balada Triste, e Nuno Encarnação (v)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

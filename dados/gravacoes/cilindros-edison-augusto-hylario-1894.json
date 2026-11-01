@@ -1,0 +1,127 @@
+{
+  "id": "cilindros-edison-augusto-hylario-1894",
+  "titulo": "Cilindros Edison gravados ao vivo por Augusto Hylario (Coimbra, 1894)",
+  "formato": "cilindro",
+  "editora": "",
+  "referencia": "",
+  "ano": "1894",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "augusto-hilario",
+      "funcao": "voz e guitarra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Serenata [do Hylario]",
+      "obra": "fado-serenata-do-hylario",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravações ao vivo nas sessões de fonógrafo da Assembleia Recreativa (Praça Velha), em junho e outubro/novembro de 1894; cilindros comprados pelo público",
+      "data": "1894",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "Tocou guitarra (o cordofone que tinha na altura era uma guitarra do Porto), cantou e gravou o seu muito recente Fado Serenata [do Hylario] e diversas peças do seu repertório constituído por «fadinhos e canções populares» em cilindros que foram comprados pelo público ao longo das várias sessões."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/o-fonografo-em-coimbra-ii-1894.html",
+          "doc": "gc-v:4161618351655602619",
+          "citacao": "Dois dos temas multigravados foram o Vira do Minho e o Fado Serenata do Hylario."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Defensor do Povo (junho e outubro/novembro de 1894) e O Conimbricense n.º 4.878 (16.06.1894), citados nos posts."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessões entre 7 e 14 de julho de 1894 (Associação Recreativa da Praça do Comércio)",
+      "data": "1894-07",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Entre 7 e 14 de Julho de 1894 abrilhantou sessões de fonógrafo Edison na Associação Recreativa da Praça do Comércio (Praça Velha) e gravou ao vivo, em cilindros de cera, o Fado Serenata e outras árias."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Paradeiro desconhecido: cilindros desaparecidos e gravação não confirmada (M. Marques Inácio)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Nada se sabe de concreto sobre este assunto, até porque, os cilindros a terem existido, desapareceram."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Um dos cilindros esteve na coleção do Dr. Condorcet; rumores de outro numa entidade privada portuguesa (A. M. Nunes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "Há ainda rumores não confirmados quanto à possível existência de um cilindro gravado por Augusto Hylario numa entidade privada portuguesa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "pela voz do Dr. Condorcet, antigo estudante da UC e médico que chegara a ter na sua coleção particular um dos cilindros gravados por Hylario."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+      "doc": "gc-v:2911125403515478887",
+      "citacao": "Há ainda rumores não confirmados quanto à possível existência de um cilindro gravado por Augusto Hylario numa entidade privada portuguesa."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/10/o-fonografo-em-coimbra-ii-1894.html",
+      "doc": "gc-v:4161618351655602619",
+      "citacao": "Dois dos temas multigravados foram o Vira do Minho e o Fado Serenata do Hylario."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/gravacoes-de-augusto-hylario.html",
+      "doc": "gc-v:3253592642186548233",
+      "citacao": "Referência à atuação de Augusto Hylario como animador e protagonista de gravações em cilindros de cera Edison como cantor e guitarrista."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

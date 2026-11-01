@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-lxx-174801-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1160_43.mp3",
+  "titulo": "Nove d'Abril — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-lxx-174801",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5517.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2299/antonio_menano_nove_dabril",
+      "doc": "museu-do-fado:w40c09af27aaf2db4",
+      "citacao": "Título: Nove d’Abril ... Editora: Od. Lxx 174.801a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

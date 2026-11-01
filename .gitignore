@@ -1,0 +1,10 @@
+# Cópia privada das fontes (direitos dos autores) e índice gerado: nunca se publica
+arquivo/
+# Gerado pelo construir.py (na cópia local e na Cloudflare, a cada publicação)
+site/dados/base.json
+*.tmp
+__pycache__/
+.gstack/
+# Ferramentas da Cloudflare, se forem usadas localmente
+node_modules/
+.wrangler/

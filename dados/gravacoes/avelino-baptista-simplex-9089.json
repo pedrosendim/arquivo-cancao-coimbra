@@ -1,0 +1,74 @@
+{
+  "id": "avelino-baptista-simplex-9089",
+  "titulo": "Balada dos Estudantes",
+  "formato": "78rpm",
+  "editora": "Simplex",
+  "referencia": "9063 / 9089",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada dos Estudantes",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-simplex-9089-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Balada dos Estudantes», por Avelino Baptista — etiqueta: «Balada dos Estudantes / Canção / Avelino Baptista e coro  / Orchestra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4432/avelino_baptista_balada_dos_estudantes",
+          "doc": "museu-do-fado:w2badb48b22becaf7",
+          "citacao": "Título: Balada dos Estudantes ... Editora: D.S. Lisboa 9089 9063 Referências: 9089, E11U, 4 2 10A; 9089 ... Etiqueta: Balada dos Estudantes / Canção / Avelino Baptista e coro  / Orchestra"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Caninha Verde» (Duarte Silva, museu-do-fado:wbc5bd21039a54835)"
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue identifica o disco como «Disco Simplex Nº 9089» (Ballada dos Estudantes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/despedidas-do-ano-de-1892-os-cursos-de.html",
+          "doc": "gc-v:3845642821573382943",
+          "citacao": "BALLADA DOS ESTUDANTES (Adeus Coimbra, terra de encantos), Disco Simplex Nº 9089, com orquestra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4432/avelino_baptista_balada_dos_estudantes",
+      "doc": "museu-do-fado:w2badb48b22becaf7",
+      "citacao": "Título: Balada dos Estudantes ... Editora: D.S. Lisboa 9089 9063 Referências: 9089, E11U, 4 2 10A; 9089"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

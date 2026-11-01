@@ -1,0 +1,1898 @@
+{
+  "id": "pedro-caldeira-cabral",
+  "tipo": "pessoa",
+  "nome": "Pedro Caldeira Cabral",
+  "nomes_alternativos": [
+    "Pedro da Fonseca Caldeira Cabral",
+    "PCC",
+    "P. C. Cabral",
+    "P.C.Cabral"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor",
+    "investigador",
+    "colecionador",
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "pedro-caldeira-cabral",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "Pedro Caldeira Cabral, de seu nome completo Pedro da Fonseca Caldeira Cabral, nasceu em Lisboa, no dia 4 de Dezembro de 1950, no seio de uma família numerosa (9 irmãos) que tinha uma tradição de prática musical amadora exclusivamente no âmbito da música erudita."
+    },
+    {
+      "fonte": "pedro-caldeira-cabral",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "Ainda na infância (1958) recebeu as primeiras lições de Guitarra de seu primo José Ferreira da Fonseca, e logo se apaixonou pelo instrumento, tendo nos anos seguintes recebido lições do Dr. César Augusto Bordallo, médico e guitarrista da escola de Coimbra (no estilo de Artur Paredes, cujo reportório interpretava)."
+    },
+    {
+      "fonte": "pedro-caldeira-cabral",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "Aos 16 anos (1967) é convidado por Vicente da Câmara para actuar em directo nos programas de fado que este artista mantinha no Rádio Clube Português, em substituição de Raul Nery, tendo tocado como solista em público pela primeira vez, sendo acompanhado nessas funções por Fernando Alvim, na viola."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+      "doc": "gc-i:111715350957620835",
+      "citacao": "Entre 1967 e 1975, frequentou vários cursos de composição de música contemporânea, tendo trabalhado com Karel Goyvaerts, Constança Capdeville, José Alberto Gil e Jorge Peixinho. Sendo um autodidacta na Guitarra Portuguesa, desenvolveu como compositor, um estilo próprio fundado na tradição solística da Guitarra"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+      "doc": "gc-i:112602809798909313",
+      "citacao": "Nos anos 70 estudei musicologia na universidade e aprendi e especializei-me na disciplina que estuda os instrumentos (organologia). Nessa altura comecei a interessar-me por vários instrumentos. Chego à história da guitarra portuguesa através do meu interesse pela cítara europeia do século XVI"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+      "doc": "gc-i:111715350957620835",
+      "citacao": "Fundou e dirige desde 1987, o Centro de Estudos e Difusão de Música Antiga, e no seu âmbito coordena exposições-conferências sobre organologia musical antiga (séc. XIII a XVII), concertos didácticos em escolas e programas musicais para os vários grupos que dirige."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+      "doc": "gc-i:111715350957620835",
+      "citacao": "Em 1999 foi editado o livro \"A Guitarra Portuguesa\" de sua autoria, sendo esta a primeira obra monográfica sobre as origens e evolução histórica, estudo organológico e reportório do instrumento nacional."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+      "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+      "citacao": "Em 2019, Pedro Caldeira Cabral comissaria, no Museu do Fado, a exposição temporária \"O Som da Saudade - A Cítara Portuguesa\", uma viagem fascinante pela história da guitarra portuguesa, desde o século XVIII à actualidade."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Pedro da Fonseca Caldeira Cabral",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Pedro Caldeira Cabral, de seu nome completo Pedro da Fonseca Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, 4 de dezembro de 1950",
+      "data": "1950-12-04",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "nasceu em Lisboa, no dia 4 de Dezembro de 1950"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Nasceu em Lisboa em 1950."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/referenciacaode-fontes-editadas-no.html",
+          "doc": "gc-v:6373042181294306856",
+          "citacao": "Pedro Caldeira Cabral (n. 1950)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "outro",
+      "valor": "Família numerosa (9 irmãos), com tradição de prática musical amadora no âmbito da música erudita",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "no seio de uma família numerosa (9 irmãos) que tinha uma tradição de prática musical amadora exclusivamente no âmbito da música erudita"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Primeiras lições de guitarra em 1958 com o primo José Ferreira da Fonseca; depois lições do Dr. César Augusto Bordallo, guitarrista da escola de Coimbra",
+      "data": "1958",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Ainda na infância (1958) recebeu as primeiras lições de Guitarra de seu primo José Ferreira da Fonseca, e logo se apaixonou pelo instrumento, tendo nos anos seguintes recebido lições do Dr. César Augusto Bordallo, médico e guitarrista da escola de Coimbra (no estilo de Artur Paredes, cujo reportório interpretava)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado. Diverge da biografia de 2005 e da entrevista do Instituto Camões, que falam de aprendizagem autodidata na guitarra portuguesa."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Autodidata na guitarra portuguesa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Sendo um autodidacta na Guitarra Portuguesa"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602809798909313",
+          "citacao": "No princípio há uma aprendizagem autodidacta, mas faço a minha formação musical a vários níveis."
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002). Entrevista publicada no site do Instituto Camões, reproduzida no post. Ver o facto anterior (lições do primo e de César Augusto Bordallo)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Na infância, estudo da guitarra portuguesa, da guitarra clássica e da flauta doce; mais tarde, solfejo, contraponto e harmonia com o Prof. Artur Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Ainda na infância, inicia o estudo da Guitarra Portuguesa, da Guitarra Clássica e da Flauta doce. Mais tarde estuda solfejo, contraponto e harmonia com o Prof. Artur Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "A partir de 1970, estudo do alaúde, da viola da gamba e de outros instrumentos antigos de corda e de sopro",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "A partir de 1970 inicia o estudo do Alaúde, da Viola da Gamba e de outros instrumentos antigos de corda e de sopro"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Cursos de composição de música contemporânea entre 1967 e 1975 (Karel Goyvaerts, Constança Capdeville, José Alberto Gil, Jorge Peixinho)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Entre 1967 e 1975, frequentou vários cursos de composição de música contemporânea, tendo trabalhado com Karel Goyvaerts, Constança Capdeville, José Alberto Gil e Jorge Peixinho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudou musicologia na universidade nos anos 70 e especializou-se em organologia",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602809798909313",
+          "citacao": "Nos anos 70 estudei musicologia na universidade e aprendi e especializei-me na disciplina que estuda os instrumentos (organologia)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista publicada no site do Instituto Camões, reproduzida no post."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Regressa aos estudos na Universidade Nova de Lisboa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "regressa aos estudos, na Universidade Nova de Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Aos 10 anos recebeu uma guitarra fabricada em 1905 por António Duarte (Porto), com que praticou até aos 16; comprou então a primeira guitarra de modelo profissional, de João Pedro Grácio Júnior",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Aos 10 anos recebeu como presente uma guitarra antiga, fabricada em 1905 por António Duarte, do Porto ... Com esse instrumento praticou intensamente até aos 16 anos, altura em que comprou a sua primeira guitarra de modelo profissional de João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Atua em festas de amadores desde os 14 anos; frequenta casas de fado amador da linha de Cascais na segunda metade da década de 1960",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Apresentou-se em público em festas de amadores desde os 14 anos"
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Frequentou igualmente aos fins-de-semana as casas de fado amador da linha de Cascais, como \"O Cartola\", \"O Estribo\", o \"Vira Milho\" e o \"Galito\", durante a segunda metade da década de 60."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "estreia",
+      "valor": "1967: primeira atuação como solista em público, nos programas de fado de Vicente da Câmara no Rádio Clube Português, acompanhado à viola por Fernando Alvim",
+      "data": "1967",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Aos 16 anos (1967) é convidado por Vicente da Câmara para actuar em directo nos programas de fado que este artista mantinha no Rádio Clube Português, em substituição de Raul Nery, tendo tocado como solista em público pela primeira vez, sendo acompanhado nessas funções por Fernando Alvim, na viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "1967: início da atividade profissional no Mercado de Abril, a acompanhar João Braga e Vicente da Câmara; depois no restaurante típico «Abril em Portugal», com António Luís Gomes, Fernando Alvim e Helder Nery",
+      "data": "1967",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Nesse ano, inicia a actividade profissional no Mercado de Abril (mais tarde Mercado da Primavera) acompanhando os fadistas João Braga e Vicente da Câmara ... é convidado a tocar no restaurante típico “Abril em Portugal (Rua das Taipas), ao lado de António Luis Gomes (Guitarra), Fernando Alvim (Viola) e Helder Nery (Viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "1968: primeiro disco de guitarradas, no Conjunto de Guitarras de António Luís Gomes",
+      "data": "1968",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Em 1968 grava o seu primeiro disco de guitarradas integrado no Conjunto de Guitarras de António Luis Gomes, com o qual realiza programas de rádio e televisão."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "1969: elenco do restaurante típico «O Luso»; com Fernando Alvim, seleção e arranjo das canções dos candidatos do programa Zip-Zip (RTP)",
+      "data": "1969",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Em 1969 é convidado a integrar o elenco do novo Restaurante Típico “O Luso” ... Com Fernando Alvim, faz a selecção e arranjo das canções dos candidatos a apresentar “baladas” no célebre programa Zip-Zip, da RTP."
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discos de baladas e fados (José Labaredas, Lídia Rita, António Macedo, Rui Gomes, padre Fanhais), em que introduz a guitarra portuguesa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Grava inúmeros discos de baladas e fados, destacando-se os de José Labaredas, Lídia Rita, António Macedo, Rui Gomes e padre Fanhais, nos quais introduz também a guitarra portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro LP com o Conjunto de Guitarras de Fernando Alvim; Festival Singing Europe (Holanda), a acompanhar João Ferreira-Rosa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "grava o primeiro LP com o Conjunto de Guitarras de Fernando Alvim, deslocando-se ao Festival Internacional Singing Europe, na Holanda, para acompanhar João Ferreira-Rosa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Restaurante típico «O Timpanas»; digressão pela Alemanha em solo absoluto, com peças suas e de Carlos Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "No ano seguinte continua a sua actividade guitarrística no Restaurante Típico “O Timpanas”, realizando também nesse ano uma digressão em várias cidades da Alemanha (na qual se apresentava em solo absoluto, interpretando peças suas e de Carlos Paredes)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundou e dirigiu os grupos de música antiga La Batalla e Concerto Atlântico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "vindo mais tarde a fundar e dirigir os grupos La Batalla e Concerto Atlântico, especializados na interpretação da Música Antiga em instrumentos históricos."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/la-batalla/",
+          "doc": "rtp-arquivos:w9ab584dee2546c8e",
+          "citacao": "Programa de música clássica, apresentado por Pedro Caldeira Cabral, diretor musical do grupo, La Batalla"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/musicas-de-natal-do-periodo-quinhentista/",
+          "doc": "rtp-arquivos:w6b8a1a895417047f",
+          "citacao": "pelo grupo Concerto Atlântico, de Pedro Caldeira Cabral"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/esta-em-curso-um-processo-municipal-de.html",
+          "doc": "gc-v:4602884862921438960",
+          "citacao": "associados à acção investigativa, construtiva, performativa e restauracionista de Pedro Caldeira Cabral (ex: grupo La Batalla, 1983)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O blogue GC-V associa o grupo La Batalla a 1983; a ficha RTP de 1986 apresenta-o como diretor musical do grupo."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundou e dirigiu o Grupo Musica Ficta",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Também o “Grupo Musica Ficta” é fundado e dirigido por Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "premio",
+      "valor": "«Cantigas D'Amigo» (1984), com o grupo La Batalla: Prémio da Crítica para melhor disco do ano de música clássica",
+      "data": "1984",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "com o qual edita o “Cantigas D´Amigo” (1984) vencedor do Prémio da Crítica para melhor disco do ano de música clássica"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Acompanhou fadistas como Teresa Silva Carvalho e Ada de Castro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "em paralelo mantém o acompanhamento de fadistas como Teresa Silva Carvalho, Ada de Castro, entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundou em 1987 e dirige o Centro de Estudos e Difusão de Música Antiga (exposições-conferências de organologia, concertos didáticos)",
+      "data": "1987",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Fundou e dirige desde 1987, o Centro de Estudos e Difusão de Música Antiga, e no seu âmbito coordena exposições-conferências sobre organologia musical antiga (séc. XIII a XVII), concertos didácticos em escolas e programas musicais para os vários grupos que dirige."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Diretor do Festival de Música Medieval de Carrazeda de Ansiães (6.ª edição em 2007)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-pedro-caldeira-cabral/",
+          "doc": "rtp-arquivos:w0003f38ff765c719",
+          "citacao": "Entrevista a Pedro Caldeira Cabral, músico e Director do Festival de Música Medieval, a propósito da 6ª Edição do Festival que tem lugar em Carrazeda de Ansiães."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concertos como solista desde 1970 na Europa, nos Estados Unidos, em Macau e no Brasil",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Desde 1970 tem dado, na qualidade de solista, concertos nas principais salas e festivais da Europa, Estados Unidos da América, Macau e Brasil."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Membro do júri do 1.º Festival de Música do Mediterrâneo (Antalya, Turquia, 1986)",
+      "data": "1986",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Membro do júri do 1º Festival de Música do Mediterrâneo realizado em Antalya, Turquia (1986)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Programas de televisão na RTP, WDR, ZDF, NDR, BBC, Granada TV, ORTF, VPRO, TV Globo e TV Cultura",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Fez programas nas seguintes emissoras de Televisão: RTP (Portugal), WDR, ZDF e NDR (Alemanha), BBC e Granada TV (Inglaterra), ORTF (França), VPRO (Holanda) e TV Globo e TV Cultura de S. Paulo (Brasil)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Membro da primeira Comissão Diretiva da Academia da Guitarra Portuguesa e do Fado (Lisboa, 7 de abril de 1994)",
+      "data": "1994-04-07",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "Em 7 de Abril de 1994 institui-se em Lisboa a Academia da Guitarra Portuguesa e do Fado ... Integravam a primeira Comissão Directiva Luís Filipe Penedos, Fernando Seixas, José Anjos de Carvalho, Pedro Caldeira Cabral e Gilberto Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Solista em guitarra portuguesa na gravação do hino oficial da Expo'98, «Pangea», de Nuno Rebelo (janeiro de 1996)",
+      "data": "1996-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Participa em Janeiro de 1996, como solista em Guitarra Portuguesa, na gravação do CD com o hino oficial da Expo'98, \"Pangea\" da autoria de Nuno Rebelo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pré-produção e direção artística do Festival de Guitarra Portuguesa da Expo'98",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Fez a pré-produção e a direcção artística do Festival de Guitarra Portuguesa na EXPO'98."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Em 1998 fez a direcção artística do Festival de Guitarra Portuguesa da Expo'98."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Comissário das exposições «Portuguese Guitar Memories» (Praga, setembro de 2000) e «À descoberta da Guitarra» (Mosteiro dos Jerónimos, maio de 2001)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Comissariou as exposições monográficas \"Portuguese Guitar Memories\" apresentada no Convento de Santa Agnes de Boémia em Praga, República Checa em Setembro de 2000 e \"À descoberta da Guitarra\" no Mosteiro dos Jerónimos em Lisboa, em Maio de 2001."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Comissário da exposição «O Som da Saudade – A Cítara Portuguesa» (Museu do Fado, 2019), com cordofones da sua coleção privada e de colecionadores",
+      "data": "2019",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Em 2019, Pedro Caldeira Cabral comissaria, no Museu do Fado, a exposição temporária \"O Som da Saudade - A Cítara Portuguesa\""
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "Em 2019, no âmbito de uma exposição realizada no Museu do Fado, PCC organizou uma mostra de cordofones provenientes da sua coleção privada e emprestados por colecionadores"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construtor de instrumentos: construção integral de uma viola campaniça (trabalho didático incluído no livro de José Alberto Sardinha, 2001)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-alberto-sardinha-os-sons-e-as.html",
+          "doc": "gc-i:113123944523183036",
+          "citacao": "o trabalho didáctico de construção integral de um exemplar do cordofone por Pedro Caldeira Cabral"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/pedro-caldeira-cabral-2/",
+          "doc": "rtp-arquivos:w0407f1744b8d3a80",
+          "citacao": "mestre da guitarra portuguesa, construtor de instrumentos musicais e estudioso de música erudita"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Viola Campaniça. O outro Alentejo» (Tradisom, 2001), de José Alberto Sardinha, citado no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Colecionador: cítara de finais do século XVII (em restauro na oficina de Fernando Meireles em 2002); violão de sete ordens de Augusto Nunes dos Santos; guitarras portuguesas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/ctara-ctara-setecentista-fabricada-em.html",
+          "doc": "gc-i:113673883012510144",
+          "citacao": "Em 2002 Fernando Meireles tinha na sua oficina, para restauro, uma cítara da colecção de Pedro Caldeira Cabral, datável de finais do século XVII"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "um violão de sete ordens, da coleção Pedro Caldeira Cabral, fotografia no catálogo As idades do som (2006)"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/pedro-caldeira-cabral-4/",
+          "doc": "rtp-arquivos:wd24dc5f49e011a8c",
+          "citacao": "plano de várias guitarras portuguesas penduradas na parede, pertencentes à colecção de Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Colaboração na 2.ª edição (1983) e capítulo novo na 3.ª edição (janeiro de 2001) de Ernesto Veiga de Oliveira, «Os Instrumentos Musicais Populares Portugueses» (Fundação Calouste Gulbenkian)",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "tendo colaborado com o Dr. Ernesto Veiga de Oliveira na segunda edição de \"Os Instrumentos Musicais Populares Portugueses\" - Fundação Calouste Gulbenkian, Lisboa,1983 e na 3ª edição (capítulo novo) datada de Janeiro 2001."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Tese formulada pelo investigador e executante Pedro Caldeira Cabral na 2ª edição do livro de Veiga de Oliveira, a pedido do próprio Veiga de Oliveira: “Instrumentos Musicais Populares Portugueses”, Lisboa, Fundação Caloust Gulbenkian, 1983"
+        }
+      ],
+      "conflito": true,
+      "nota": "Datas das edições divergentes: ver o facto seguinte (2.ª edição em 1982; 3.ª edição em 2000)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Capítulo «Guitarra Portuguesa», in Ernesto Veiga de Oliveira, «Instrumentos Musicais Populares Portugueses», 3.ª ed., Lisboa, Gulbenkian/Museu Nacional de Etnologia, 2000, pp. 194-199; presença já na 2.ª edição, em 1982",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Cf. Pedro Caldeira Cabral, “Guitarra Portuguesa”, in Ernesto Veiga de Oliveira, “Instrumentos Musicais Populares Portugueses”, 3ª Edição, Lisboa, Fundação Caloust Gulbenkian/Museu Nacional de Etnologia, 2000, pp. 194-1999 (o autor já marcara presença na 2ª edição desta obra, em 1982)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "hodiernamente contestado em diversos aspectos por Pedro Caldeira Cabral (1982; 1999)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A fonte escreve «pp. 194-1999» (gralha provável de 194-199). Ver o facto anterior (1983; janeiro de 2001)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Guitarra Portuguesa», Alfragide, Ediclube, 1999 (coleção «Um Século de Fado»): primeira obra monográfica sobre o instrumento",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Em 1999 foi editado o livro \"A Guitarra Portuguesa\" de sua autoria, sendo esta a primeira obra monográfica sobre as origens e evolução histórica, estudo organológico e reportório do instrumento nacional."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Pedro Caldeira Cabral, A guitarra portuguesa (Alfragide: Ediclube, 1999, colecção «Um século de fado»)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/afonso-vieira-retrato-do-antigo.html",
+          "doc": "gc-i:114520406777292912",
+          "citacao": "Pedro Caldeira CABRAL, \"A Guitarra Portuguesa\", Alfragide, Ediclube, 1999"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/pedro-caldeira-cabral-2/",
+          "doc": "rtp-arquivos:w0407f1744b8d3a80",
+          "citacao": "autor do livro \"A Guitarra Portuguesa\", editado em 1999, sendo esta a primeira obra monográfica sobre as origens e evolução histórica"
+        }
+      ],
+      "conflito": true,
+      "nota": "Editora e local divergem entre fontes: ver os dois factos seguintes (Círculo de Leitores; Lisboa). Outros posts dão o título «Guitarra Portuguesa»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Guitarra Portuguesa», Alfragide, Círculo de Leitores, 1999",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "idem, “A Guitarra Portuguesa”, Alfragide, Círculo de Leitores, 1999"
+        }
+      ],
+      "conflito": true,
+      "nota": "Mesmo post que noutra passagem indica Ediclube."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Guitarra Portuguesa», Lisboa, Ediclube, 1999 (excerto biográfico das pp. 271-279)",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "(cf. Pedro Caldeira Cabral, “A Guitarra Portuguesa”, Lisboa, Ediclube, 1999, pp. 271-279)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Referência dada na página do Museu do Fado (local: Lisboa, em vez de Alfragide)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto «Memórias da Guitarra Portuguesa» (2002), sobre a história da guitarra, reproduzido no blogue em 2005",
+      "data": "2002",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Memórias da Guitarra Portuguesa Por Pedro Caldeira Cabral (Tirado da internet) ... Guitarra Portuguesa.Pedro Caldeira Cabral 2002"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, de programa de concerto («o programa de hoje»), reproduzido no blogue GC-I."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livreto do duplo CD de 2003 («Memórias da Guitarra Portuguesa» / «A Guitarra do Século XVIII»), onde reafirma as suas hipóteses sobre as origens da guitarra",
+      "data": "2003",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "No livreto do duplo CD de 2003, PCC reafirma as hipóteses germinais anteriores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«O Labirinto da Guitarra» (2012), citado como «Cabral 2012»",
+      "data": "2012",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/questoes-volta-do-guitarrinhobandurrinho.html",
+          "doc": "gc-v:4404780877859124258",
+          "citacao": "(citado Cabral 2012 http://www.scribd.com/doc/135333439/Pedro-Caldeira-Cabral-O-Labirinto-da-Guitarra)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Documento no Scribd, não arquivado."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Catálogo «O Som da Saudade, a cítara portuguesa» (Lisboa, Museu do Fado, 2019)",
+      "data": "2019",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "da qual se publicou um volumoso e ricamente ilustrado catálogo - O Som da Saudade, a cítara portuguesa (2019)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/08/uma-citara-de-jose-maria-miranda.html",
+          "doc": "gc-v:8407231898213646301",
+          "citacao": "[cf. catálogo O Som da Saudade, a cítara portuguesa, Lisboa, MF, 2019, p. 223)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/08/esplendoroso-amarelhe.html",
+          "doc": "gc-v:7350150597853550029",
+          "citacao": "Veja-se o caso das obras assinadas por Pedro Caldeira Cabral, respetivamente A Guitarra Portuguesa (1999) e o paradoxal título O Som da Saudade, a cítara portuguesa (2019)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto «Viola toeira, mistérios e segredos» (2022), no sítio de Orlando Trindade",
+      "data": "2022",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+          "doc": "gc-v:8291707980450393908",
+          "citacao": "«Viola toeira, mistérios e segredos» (2022), texto de Pedro Caldeira Cabral, sítio Orlando Trindade"
+        }
+      ],
+      "conflito": true,
+      "nota": "A página arquivada tem a data de 22 de maio de 2023 (facto seguinte)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Viola Toeira – Mistérios e Segredos», texto publicado no sítio de Orlando Trindade a 22 de maio de 2023",
+      "data": "2023-05-22",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A Viola Toeira – Mistérios e Segredos Maio 22, 2023 ... Texto por Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Pedro Caldeira Cabral. O blogue GC-V data-o de 2022 (facto anterior)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Comentário assinado «P.C.Cabral» no blogue (2017): da guitarra MM 277, original de Christian Claus, só se conservaram o fundo, as ilhargas e o braço",
+      "data": "2017-02-27",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/07/uma-guitarra-de-1802.html?showComment=1488190029402#c7068609626618378200",
+          "doc": "gc-v:c7068609626618378200",
+          "citacao": "do original de Christian Claus, só se conservou o fundo, as ilhargas e o braço, sendo a cabeça \"alargada\" para receber a chapa de leque e o tampo harmónico substituído por imitação grosseira"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral (comentário ao post «Uma guitarra de 1802?»)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discografia a solo (biografia de 2005): Guitarras de Portugal (Tecla, 1971); Encontros (Orfeu, 1982); A Guitarra nos salões do século XVIII (Orfeu, 1983); Pedro Caldeira Cabral (EMI, 1985); Duas Faces (EMI, 1987); Guitarra Portuguesa (GHA, 1991); Momentos da Guitarra (Fenn, 1992); Variações (Mediem/WDR, 1993); Música de Guitarra Inglesa (BMG/RCA Classics, 1998); Guitarra do Século XVIII, Memórias da Guitarra Portuguesa e Sons da Terra Quente (FM, 2000); The Enchanting Modinhas and the English Guitar (Radical Media, 2001)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "A sua discografia a solo inclui: Guitarras de Portugal, Tecla (1971); Encontros, Orfeu (1982); A Guitarra nos salões do século XVIII, Orfeu (1983); Pedro Caldeira Cabral, EMI (1985); Duas Faces, EMI (1987); Guitarra Portuguesa, GHA (1991); Momentos da Guitarra, Fenn,(1992); Variações, Mediem/WDR (1993); Música de Guitarra Inglesa, BMG/RCA Classics (1998); Guitarra do Século XVIII, F M, (2000); Memórias da Guitarra Portuguesa, F M (2000); Sons da Terra Quente, FM (2000) e The Enchanting Modinhas and the English Guitar, Radical Media (2001)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002). Várias datas e editoras divergem de outras fontes (ver os factos seguintes)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «A Guitarra Portuguesa nos salões do século XVIII» (Orfeu LPP 2 / Orfeu-Rádio Triunfo, 1983): peças de Silva Leite, Vidigal, Straub e Geminiani, numa guitarra inglesa de 1812 de Domingos Araújo",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/caldeira-cabral-pedro-caldeira-cabral.html",
+          "doc": "gc-i:111687482593988795",
+          "citacao": "A foto constitui um pormenor do motivo de capa do inédito e esgotado LP \"Pedro Caldeira Cabral. A Guitarra Portuguesa nos salões do século XVIII\", Orfeu/Rádio Triunfo, 1983."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/03/revivificacao-fonografica-da-citara.html",
+          "doc": "gc-v:5153046015634174266",
+          "citacao": "LP Pedro Caldeira Cabral, a guitarra portuguesa nos salões do século XVIII, Lisboa, Orfeu LPP 2, ano ede 1983. PCC toca neste disco uma english guitar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Cabral usa uma guitarra inglesa, de 1812, do Museu da Música, e com ela grava peças de Silva Leite, Vidigal, Rudolf Straub e Gemiani."
+        }
+      ],
+      "conflito": false,
+      "nota": "A biografia de 2005 dá o título «A Guitarra nos salões do século XVIII». Proprietário da guitarra de 1812: «núcleo museológico do Conservatório Nacional de Lisboa» (gc-i:111687482593988795) ou «Museu da Música» (gc-i:1259402797223755712)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Guitarra Portuguesa» (GHA), 1991",
+      "data": "1991",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Guitarra Portuguesa, GHA (1991)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Guitarra Portuguesa» (GHA, Bélgica), 1990, com Francisco Perez",
+      "data": "1990",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Outras edições se registam, nomeadamente internacionais com destaque para um CD para a etiqueta belga GHA, \"Guitarra Portuguesa\" (1990), com peças novas a solo e outras de autores tradicionais como Armandino e José Nunes, acompanhado por Francisco Perez."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Momentos da Guitarra» (Fenn), 1992",
+      "data": "1992",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Momentos da Guitarra, Fenn,(1992)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Momentos da Guitarra Portuguesa» (Alemanha), 1991, gravado ao vivo em Hamburgo (Festival Weltbeat)",
+      "data": "1991",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Na Alemanha sai o CD intitulado \"Momentos da Guitarra Portuguesa\" (1991), tendo sido gravado num concerto realizado ao vivo e ao ar livre em Hamburgo, no âmbito do Festival Weltbeat."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Variações» (Mediem/WDR), 1993",
+      "data": "1993",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Variações, Mediem/WDR (1993)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Variações – Guitarra Portuguesa» (World Network, Frankfurt, 1992), com Francisco Perez Andion (viola)",
+      "data": "1992",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602967473347390",
+          "citacao": "Capa do CD, \"Pedro Caldeira Cabral - Variações\", da etiqueta World Network, saído em 1992."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "CD Pedro Caldeira Cabral: Variações – Guitarra Portuguesa, ed. WORLD NETWORK BEST.-NR.: 54.038, NC 6759, Frankfurt, 1992, faixa 2"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Música de Guitarra Inglesa» (BMG/RCA Classics), 1998",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Música de Guitarra Inglesa, BMG/RCA Classics (1998)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Musica de Guitarra Inglesa. Século XVIII» (Os Sons da Expo 98, n.º 5, Lisboa, Diário de Notícias, 1998): Zuckert, Vidigal, Pereyra da Costa, Straub",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "CD “Musica de Guitarra Inglesa. Século XVIII”, Os Sons da Expo 98, Nº 5, Lisboa, Diário de Notícias, 1998 (recriações sobre Frederick Zuckert, Manuel José Vidigal, António Pereyra da Costa e Rudolf Straub)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Guitarra do Século XVIII» e «Memórias da Guitarra Portuguesa» (FM), 2000",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Guitarra do Século XVIII, F M, (2000); Memórias da Guitarra Portuguesa, F M (2000)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Duplo CD «Memórias da Guitarra Portuguesa (1) / A Guitarra do Século XVIII (2)» (Vila Verde, Tradisom, TRAD 034-035, 2003)",
+      "data": "2003",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/caldeira-cabral-pedro-caldeira-cabral.html",
+          "doc": "gc-i:111687482593988795",
+          "citacao": "duplo CD \"Pedro Caldeira Cabral. Memórias da Guitarra Portuguesa (nº 1). A Guitarra do século XVIII (nº 2), Vila Verde, Tradisom, 2003."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "PCC, CD “Memórias da Guitarra Portuguesa (1). A Guitarra do Século XVIII (2)”, Vila Verde, Tradisom, TRAD 034-035, 2003"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Duas Faces» (EMI-Valentim de Carvalho 1776171, 1987), com «Castro Daire»",
+      "data": "1987",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "«Castro Daire», de Pedro Caldeira Cabral (no LP Duas Faces, EMI-Valentim de Carvalho 1776171, s.d. [1987], lado 1, faixa 2"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Duplo CD «Labirinto da Guitarra e Antologia» (2013)",
+      "data": "2013",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/12/blog-post_5.html",
+          "doc": "gc-v:877852769662832504",
+          "citacao": "Duplo CD de Pedro Caldeira Cabral - Labirinto da Guitarra e Antologia"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-pedro-caldeira-cabral-2/",
+          "doc": "rtp-arquivos:w445b8695652e9b0d",
+          "citacao": "Entrevista ao músico Pedro Caldeira Cabral, sobre a edição do seu último trabalho \"Labirinto da Guitarra\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ano dado pela ficha RTP (entrevista de 25-12-2013) e pela data do post (5-12-2013)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Enquanto Há Força» de José Afonso (1978): participação",
+      "data": "1978",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "O álbum Enquanto Há Força, editado em 1978, de novo com Fausto, representa mais um exemplo da fase cronista do cantor ... Inclui as participações, entre outras, de Guilherme Inês, Carlos Zíngaro, Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Melro» de Janita Salomé (Orfeu, 1980): guitarra portuguesa, campaniça e viola; segunda guitarra nos fados de Coimbra (contracantos suprimidos na edição)",
+      "data": "1980",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/joo-eduardo-salom-vieira-nasceu-na-vila.html",
+          "doc": "gc-i:8639239499261253732",
+          "citacao": "o álbum tem a participação instrumental de Pedro Caldeira Cabral (guitarra portuguesa, campaniça e viola)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-janita-salom-melro_21.html",
+          "doc": "gc-i:111143636122887357",
+          "citacao": "Começa com \"Os Homens do Largo\", com um acompanhamento magistral à guitarra por Pedro Caldeira Cabral. ... Como segundo guitarra actuou o Pedro Caldeira Cabral. Fez imensos contracantos magníficos, absolutamente fora da vulgaridade, no entanto, o disco é editado sem esses contracantos."
+        }
+      ],
+      "conflito": false,
+      "nota": "O segundo post é um testemunho de Octávio Sérgio."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Braguesa» de Júlio Pereira (Sassetti, 1983): viola de gamba e ocarina",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/sons-da-braguesa-grande-plano-do-rosto.html",
+          "doc": "gc-i:113932185369875846",
+          "citacao": "LP \"Braguesa. Júlio Pereira\", Lisboa, Sassetti, TR-004, ano de 1983 ... Pedro Caldeira Cabral (viola de gamba, ocarina)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «A Cantar ao Sol» de Janita Salomé (1983): alaúde e ghaita; LP «Lavrar em Teu Peito» (1985): charamela, lira, flauta indiana e viola campaniça",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/joo-eduardo-salom-vieira-nasceu-na-vila.html",
+          "doc": "gc-i:8639239499261253732",
+          "citacao": "Pedro Caldeira Cabral (alaúde, ghaita) ... Pedro Caldeira Cabral (charamela, lira e flauta indiana, viola campaniça)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "«Internationaler Schallplatenpreis» (1993) para o CD «Variações»",
+      "data": "1993",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Atingido o prestígio internacional Pedro Caldeira Cabral recebe em 1993 o \"Internationaler Schallplatenpreis\" ao seu CD \"Variações\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor de numerosas peças para guitarra portuguesa (Baile dos Carêtos, Balada do Castanheiro, Balada da Oliveira, Valsa em Mi Menor, Variações sobre o Fado Alberto, entre outras)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Pedro Caldeira Cabral é autor de um grande número de peças para Guitarra Portuguesa, destaque para: \"Baile das Meninas\", \"Baile dos Carêtos\", \"Balada do Castanheiro\", \"Balada da Oliveira\""
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Peças suas gravadas por Ricardo Rocha: quatro no duplo CD «Voluptuária»; três no disco de guitarra de «Luminismo»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/ricardo-rocha-dedicado-uma-guitarra.html",
+          "doc": "gc-i:111785046554772917",
+          "citacao": "excepto oito (quatro de Carlos Paredes e quatro de Pedro Caldeira Cabral)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/pintar-musica-com-guitarra-e-com-piano.html",
+          "doc": "gc-iii:3380842108740905019",
+          "citacao": "interpreta dois temas de Carlos Paredes, três de Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "RTP 1, «A Guitarra Portuguesa» (série «Silêncio... que se vai Cantar o Fado», 1994): interpreta «Balada da Oliveira» e «Momentos e fragmentos»",
+      "data": "1994-02-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa-parte-ii/",
+          "doc": "rtp-arquivos:w4d7afbb10f739b51",
+          "citacao": "Atuação de Pedro Caldeira Cabral na guitarra portuguesa, que interpreta o fado instrumental \"Balada da Oliveira\" e \"Momentos e fragmentos\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Conimbriga, 3 de junho de 2006: solista em guitarra (de Coimbra) com a Orquestra Clássica do Centro (Virgílio Caseiro); programa com o seu «Baile dos Caretos» (orquestração de Marco Santos)",
+      "data": "2006-06-03",
+      "local": "Conimbriga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/concerto-nas-runas-de-conimbriga-com.html",
+          "doc": "gc-i:114918658273962030",
+          "citacao": "Concerto nas ruínas de Conimbriga com a Orquestra Clássica do Centro, dirigida por Virgílio Caseiro, com Pedro Caldeira Cabral solista de Guitarra Portuguesa. Dia 3 de Junho pelas 21 horas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/pedro-caldeira-cabral-e-orquestra.html",
+          "doc": "gc-i:114938326824090670",
+          "citacao": "tendo como solista em guitarra (de Coimbra), Pedro Caldeira Cabral ... terminando com Baile dos Caretos, da autoria do solista e com orquestração de Marco Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Coimbra, auditório dos Hospitais da Universidade: concerto-lição «A guitarra conta a sua história», a 18 de outubro de 2006 (com Joaquim António Silva e Duncan Fox; Orquestra Clássica do Centro)",
+      "data": "2006-10-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/pedro-caldeira-cabral-no-concerto-lio.html",
+          "doc": "gc-i:116484615214496443",
+          "citacao": "Pedro Caldeira Cabral no concerto-lição que deu, em Coimbra, a 18 de Outubro passado, no auditório dos hospitais da Universidade de Coimbra, com o título - A guitarra conta a sua história. Teve a colaboração de Joaquim António Silva e Duncan Fox."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/concerto-de-pedro-caldeira-cabral-18.html",
+          "doc": "gc-i:116485199623865161",
+          "citacao": "Concerto de Pedro Caldeira Cabral a 18 de Outubro no auditório do Hospital da Universidade de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do mesmo dia dá 10 de outubro (facto seguinte)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Coimbra, auditório do Hospital da Universidade: concerto a 10 de outubro (2006), com instrumentos expostos que mostravam a evolução até à guitarra portuguesa atual",
+      "data": "2006-10-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/concerto-de-pedro-caldeira-cabral-10.html",
+          "doc": "gc-i:116485172409133177",
+          "citacao": "Concerto de Pedro Caldeira Cabral a 10 de Outubro no auditório do Hospital da Universidade de Coimbra. Os instrumentos de corda em exposição no palco mostraram a evolução destes até chegarem à guitarra portuguesa actual."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post publicado a 30-11-2006, juntamente com outros que dão 18 de outubro (facto anterior)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Orientou os workshops «Encontros com a Guitarra» I e II da Orquestra Clássica do Centro (Coimbra, dezembro de 2006 e março de 2007)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/orquestra-clssica-do-centro.html",
+          "doc": "gc-i:1891789137076570525",
+          "citacao": "os workshops Encontros com a Guitarra I e II, sob orientação de Pedro Caldeira Cabral"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em Dezembro de 2006 e Março de 2007, participa nos workshops “Encontros com a Guitarra Portuguesa” sob a orientação de Pedro Caldeira Cabral."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto nos I Encontros Internacionais da Guitarra Portuguesa (Orquestra Clássica do Centro, 2007)",
+      "data": "2007",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/orquestra-clssica-do-centro.html",
+          "doc": "gc-i:1891789137076570525",
+          "citacao": "em 2007, os I Encontros Internacionais da Guitarra Portuguesa, com o Alto Patrocínio da Caixa Geral de Depósitos, que contaram com a participação em Concerto de verdadeiros mestres da guitarra, como sejam António Chaínho e Fernando Alvim, Pedro Caldeira Cabral, entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Festival Guitarra Portuguesa (Faro, Teatro Lethes): construtor, conferencista (origem da guitarra, fabrico e afinações) e concertista",
+      "data": "",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/festival-de-guitarra-portuguesa-do.html",
+          "doc": "gc-iii:8385615416849938716",
+          "citacao": "uma dezena de construtores – Fernando Meireles, Óscar Cardoso, Pedro Caldeira Cabral ... e Pedro Caldeira Cabral (origem da guitarra, fabrico e afinações)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 21-06-2010 («Com início no passado dia 10 de Junho»)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Palestra sobre a viola toeira no Museu Municipal Santos Rocha (Figueira da Foz), 4 de maio de 2019",
+      "data": "2019-05-04",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/05/palestra-sobre-viola-toeira-na-figueira.html",
+          "doc": "gc-v:6003018147994988023",
+          "citacao": "Local: Museu Municipal Santos Rocha Data: 4 de maio de 2019 ... Orador: Pedro Caldeira Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Um dos profissionais do fado que passaram a usar a guitarra do modelo de Coimbra; segundo Nuno Cristo (2014), depois de José Fontes Rocha (1966-1969)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+          "doc": "gc-v:4359239364460704320",
+          "citacao": "Mas outros nomes vão aparecendo como Carlos Gonçalves, Pedro Caldeira Cabral, António Chainho e António Luís Gomes, assunto que foi explorado em trabalho académico de envergadura por Nuno Cristo (2014)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/referenciacaode-fontes-editadas-no.html",
+          "doc": "gc-v:6373042181294306856",
+          "citacao": "Nuno Cristo confirma os primeiros usos em contextos privados e pouco após públicos por José Fontes Rocha, por 1966, 1968, 1969, seguido de Pedro Caldeira Cabral."
+        }
+      ],
+      "conflito": true,
+      "nota": "José Fontes Rocha afirmou ter sido o primeiro; o facto seguinte regista que Pedro Caldeira Cabral disputa essa primazia."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Disputa com José Fontes Rocha as primeiras incursões da guitarra de Coimbra no meio do fado",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/referenciacaode-fontes-editadas-no.html",
+          "doc": "gc-v:6373042181294306856",
+          "citacao": "poderia ter tentado interpretar os sentidos do empenho de Pedro Caldeira Cabral em disputar as primeiras incursões com Fontes Rocha"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto anterior."
+    },
+    {
+      "campo": "outro",
+      "valor": "Tese sobre as origens: a guitarra portuguesa descende da cítara europeia do Renascimento, filiada na cítola medieval",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Tendo como origem directa a Cítara europeia do Renascimento, por sua vez filiada na Cítola Medieval, a actual Guitarra Portuguesa sofreu importantes modificações técnicas no último século"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "Pedro Caldeira Cabral, com base em dados por ele próprio entretanto descobertos e estudados, pôde formular uma nova hipótese acerca das origens e filiação desta nossa guitarra actual."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "O ângulo de análise formulado por Caldeira Cabral é corroborado pelo etnólogo José Alberto Sardinha"
+        }
+      ],
+      "conflito": false,
+      "nota": "O primeiro excerto é texto de Pedro Caldeira Cabral (2002). O segundo é de Ernesto Veiga de Oliveira, reproduzido no blogue."
+    },
+    {
+      "campo": "outro",
+      "valor": "No texto de 2002: até ao século XIX o instrumento foi conhecido na Europa como Cítara (Portugal e Espanha), Cetra, Cistre, Cittern, Cister e Zittern; em Portugal, uso documentado desde o século XIII (cítola) e no século XVI (cítara), primeiro na corte",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "O instrumento a que damos hoje o nome de Guitarra Portuguesa foi conhecido até ao século XIX em toda a Europa sob os nomes de Cítara (Portugal e Espanha), Cetra (Itália e Córsega), Cistre (França), Cittern (Ilhas Britânicas), Cister e Zittern (Alemanha e Países Baixos)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Em Portugal, o seu uso está documentado desde o século XIII (Cítola), nas mãos de Trovadores e Menestréis, e no século XVI (Cítara), estando de início confinado aos círculos da côrte"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "No início do século XVIII, Ribeiro Sanches (médico famoso e vítima da Inquisição) recebia lições de Cítara na cidade da Guarda"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «Memórias da Guitarra Portuguesa» (2002), reproduzido no blogue GC-I."
+    },
+    {
+      "campo": "outro",
+      "valor": "No texto de 2002: a guitarra «inglesa» chega a Portugal c. 1760, acolhida pela burguesia mercantil do Porto; nunca se populariza e desaparece no fim do século XIX, com a revitalização da cítara popular associada ao fado de Lisboa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "É nesta época (ca.1760) que chega a Portugal a chamada Guitarra \"Inglesa\", um tipo de Cítara europeia cuja estrutura interna foi modificada por construtores ingleses e alemães, a qual é acolhida com grande entusiasmo pela nova sociedade burguesa mercantil instalada na cidade do Porto"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Esta Guitarra tem uma difusão limitada aos círculos da alta sociedade, nunca se popularizando e acaba por desaparecer no fim do século XIX com a revitalização da Cítara popular, causada pela associação desta com o Fado de Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «Memórias da Guitarra Portuguesa» (2002), reproduzido no blogue GC-I. Noutro post o blogue escreve que «Entre o século XVIII e os inícios do século XIX, a Guitarra Inglesa era conhecida e tocada em Coimbra» (gc-i:5467810229276199087)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Na entrevista do Instituto Camões: a guitarra portuguesa é completamente diferente das outras guitarras na afinação, na técnica de execução e no funcionamento mecânico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602809798909313",
+          "citacao": "É um instrumento completamente diferente das outras guitarras em termos de afinação, em termos de técnica de execução, em termos de forma de funcionamento mecânico."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista publicada no site do Instituto Camões, reproduzida no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "No texto sobre a viola toeira: modelo tradicional da Beira Litoral e Beira Alta, do sub-tipo das violas de arame; instrumento de acompanhamento ligado aos contextos festivos da região de Coimbra (Vira de Coimbra, Estalado)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "O cordofone actualmente designado por “Viola Toeira” é um modelo de fabrico tradicional das regiões da Beira Litoral e Beira Alta, pertencente ao sub-tipo das violas de arame da família das guitarras hispânicas"
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Os dados até agora recolhidos em testemunhos escritos e orais comprovam a associação deste modelo a contextos festivos tradicionais da região de Coimbra e, nomeadamente, às formas vocais-coreográficas do Vira de Coimbra e do Estalado, entre outras."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade). O blogue GC-V (gc-v:8291707980450393908) nota que são referidas danças «que não estão mapeadas no cancioneiro de Coimbra»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Polémica com Rui Vieira Nery sobre as origens da guitarra («Para uma História do Fado», 2004)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "Rui Viera Nery, “Para uma História do Fado”, Lisboa, Público, 2004, págs. 280-281 (aqui em polémica insanável Nery versus Caldeira Cabral)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo António M. Nunes, «A Guitarra Portuguesa» (1999) reproduz a data de 1870 para a entrada da guitarra em Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/afonso-vieira-retrato-do-antigo.html",
+          "doc": "gc-i:114520406777292912",
+          "citacao": "Pedro Caldeira CABRAL, \"A Guitarra Portuguesa\", Alfragide, Ediclube, 1999, erro reproduzido a partir de Armando Simões"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "-a reiteração da consensualidade que aponta o ano de 1870 para a entrada da guitarra na cidade de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão atribuída ao livro de 1999; o blogue contesta-a (facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Posição do blogue: a guitarra inglesa e a cítara eram conhecidas e tocadas em Coimbra pelo menos desde a segunda metade do século XVIII",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/08/reencontro-com-joao-de-deus-em-bd.html",
+          "doc": "gc-v:3004613242520360808",
+          "citacao": "Coube a Armando Leça lançar a bola de neve (Música popular portuguesa: 1947), transformada numa avalanche por Ernesto Veiga de Oliveira (Instrumentos musicais portugueses: 1966), Armando Simões (A guitarra: 1974) e Pedro Caldeira Cabral (A guitarra portuguesa: 1999). A guitarra inglesa e a cítara lusitana foram conhecidas e tocadas em Coimbra pelo menos desde a segunda metade do século XVIII."
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência entre o livro de 1999 e o blogue GC-V (ver o facto anterior)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Crítica do blogue: o livro de 1999 não individualiza a guitarra toeira de Coimbra e nada acrescenta sobre Raul Simões",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "-a não individualização da guitarra-toeira ou guitarra-banza de Coimbra. Neste particular, o trabalho de Caldeira Cabral representa um recuo, quando comparado com os elementos avançados em 1974 por Armando Simões."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "Porém, nada de relevante acrescenta sobre o papel de RS como construtor de violas toeiras e guitarras de Coimbra, parecendo desconhecer que a guitarra de Coimbra já existia antes da sua reforma pela dupla Arthur Paredes / João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Revisão posterior da sua tese sobre as origens da guitarra de Coimbra: admite em intervenções públicas a influência das oficinas do Porto, nomeadamente de António Duarte",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "PCC tinha vindo a rever a sua tese sobre as origens da guitarra de Coimbra, admitindo em intervenções públicas a ostensiva e notória influência que as guitarras das oficinas do Porto, nomeadamente da oficina de António Duarte, tinham exercido nas oficinas de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Octávio Sérgio não consta do mapeamento de guitarristas do livro de 1999 (pp. 232-285)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/gravo-logo-existo.html",
+          "doc": "gc-v:2133104022036893910",
+          "citacao": "Estranhamente, Octávio Sérgio e a sua obra não constam no mapeamento apresentado por Pedro Caldeira Cabral - A guitarra Portuguesa, Alfragide, Ediclube, 1999, pp. 232-285"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "jose-ferreira-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "recebeu as primeiras lições de Guitarra de seu primo José Ferreira da Fonseca"
+        }
+      ],
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "tipo": "primo_de",
+      "alvo": "jose-ferreira-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "recebeu as primeiras lições de Guitarra de seu primo José Ferreira da Fonseca"
+        }
+      ],
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "cesar-augusto-bordallo",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "tendo nos anos seguintes recebido lições do Dr. César Augusto Bordallo, médico e guitarrista da escola de Coimbra"
+        }
+      ],
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "artur-santos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Mais tarde estuda solfejo, contraponto e harmonia com o Prof. Artur Santos."
+        }
+      ],
+      "nota": "Solfejo, contraponto e harmonia. Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "acompanhado à guitarra por Octávio Sérgio e Pedro Caldeira Cabral, e à viola, por Durval Moreirinhas"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-janita-salom-melro_21.html",
+          "doc": "gc-i:111143636122887357",
+          "citacao": "Eu fiz o acompanhamento dos fados à guitarra e o Durval Moreirinhas tocou viola. Como segundo guitarra actuou o Pedro Caldeira Cabral."
+        }
+      ],
+      "nota": "Gravação dos fados de Coimbra do LP «Melro» de Janita Salomé (1980): Octávio Sérgio primeira guitarra, Pedro Caldeira Cabral segunda guitarra."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "acompanhado à guitarra por Octávio Sérgio e Pedro Caldeira Cabral, e à viola, por Durval Moreirinhas"
+        }
+      ],
+      "nota": "LP «Melro» de Janita Salomé (1980)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "paulo-soares",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Tocou com inúmeros artistas, como Mariza, Dulce Pontes, Pedro Caldeira Cabral"
+        }
+      ],
+      "nota": "Frase da biografia de Paulo Soares."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Caldeira%20Cabral%20com%20Guitarra%20inglesa1.jpg",
+      "legenda": "Pedro Caldeira Cabral com guitarra inglesa (foto extraída da internet, publicada no blogue GC-I em 2005)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/pedro-caldeira-cabral-com-guitarra.html",
+          "doc": "gc-i:111715368435005462",
+          "citacao": "Pedro Caldeira Cabral com guitarra inglesa. Foto extraída da internet."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Caldeira%20Cabral%20com%20Guitarra%20inglesa.jpg",
+      "legenda": "Pedro Caldeira Cabral a dedilhar uma guitarra inglesa de 1812 (Domingos Araújo): pormenor da capa do LP «A Guitarra Portuguesa nos salões do século XVIII» (1983)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/caldeira-cabral-pedro-caldeira-cabral.html",
+          "doc": "gc-i:111687482593988795",
+          "citacao": "Pedro Caldeira Cabral a dedilhar uma Guitarra Inglesa, com escala de 12 pontos ... A foto constitui um pormenor do motivo de capa do inédito e esgotado LP"
+        }
+      ]
+    },
+    {
+      "url": "https://www.museudofado.pt/media/2019/12/0.82243900%201222902257.jpg",
+      "legenda": "Pedro Caldeira Cabral (galeria de imagens da página do Museu do Fado)",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Conheça melhor: Pedro Caldeira Cabral"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Caldeira%20Cabral%20e%20Paquito.jpg",
+      "legenda": "Pedro Caldeira Cabral com Francisco Perez (Paquito): fotografia do caderno do CD «Variações»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/caldeira-cabral-com-francisco-perez.html",
+          "doc": "gc-i:112603155722307520",
+          "citacao": "Caldeira Cabral com Francisco Perez. Foto do caderno do CD, \"Pedro Caldeira Cabral - Variações\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Museu do Fado: biografia (excerto de «A Guitarra Portuguesa», 1999)",
+      "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral"
+    },
+    {
+      "rotulo": "Texto de Pedro Caldeira Cabral: «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade)",
+      "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/"
+    },
+    {
+      "rotulo": "Texto de Pedro Caldeira Cabral: «Memórias da Guitarra Portuguesa» (2002), no blogue GC-I",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html"
+    },
+    {
+      "rotulo": "Entrevista do Instituto Camões, reproduzida no blogue GC-I",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html"
+    },
+    {
+      "rotulo": "RTP Arquivos: entrevista (Antena 1, 1986)",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-pedro-caldeira-cabral-3/"
+    },
+    {
+      "rotulo": "RTP Arquivos: entrevista sobre «Labirinto da Guitarra» (2013)",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-pedro-caldeira-cabral/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

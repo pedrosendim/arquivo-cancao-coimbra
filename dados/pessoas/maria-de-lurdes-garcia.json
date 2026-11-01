@@ -1,0 +1,39 @@
+{
+  "id": "maria-de-lurdes-garcia",
+  "tipo": "pessoa",
+  "nome": "Maria de Lurdes Garcia",
+  "nomes_alternativos": [
+    "Lurdes Garcia"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "solista no CD «Olhar Coimbra» (Secção de Fado da AAC, 1998)",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "Lurdes Garcia (solista) e coros femininos em 11 temas tradicionais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/a-barquinha.html",
+          "doc": "gc-v:7037767787066774237",
+          "citacao": "solos de Maria de Lurdes Garcia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,407 @@
+{
+  "id": "manuel-mansilha",
+  "tipo": "pessoa",
+  "nome": "Manuel Mansilha",
+  "nomes_alternativos": [
+    "Manuel Teixeira de Sampaio Mansilha"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+      "doc": "gc-v:8578484018831533897",
+      "citacao": "Frequentou a FD / UC entre 1891-1892 e 1898-1899. Segundo a tradição oral e dados registados por Octaviano de Sá, Mansilha foi um dos mais distintos solistas de guitarra da década de 1890, tendo sido responsável pela iniciação de Augusto Hylario."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+      "doc": "gc-i:113827518392308132",
+      "citacao": "Aluno de Direito diplomado em 1898, com formação musical, além de bom executante de bandolim na TAUC, foi a mais importante figura da Canção de Coimbra na década de 1890."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+      "doc": "gc-i:112619193689518122",
+      "citacao": "Manuel Mansilha criou, assim, a justa fama do melhor guitarrista da Academia, e nas noites das suas saídas em serenata pela ruas desta Coimbra lendária tinha uma multidão a admirá-lo, e, mesmo, a aclamá-lo[6]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+      "doc": "gc-v:1295561237294318930",
+      "citacao": "Escreveu os acompanhamentos musicais o estudante, tauquiano e afamado solista de guitarra Manuel Mansilha, tendo regido a orquestra Francisco Luís de Macedo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+      "doc": "gc-i:113827518392308132",
+      "citacao": "Formado em 1898, peregrinou por Angola e Macau até se radicar na terra natal onde continuou a tocar guitarra quase até falecer."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+      "doc": "gc-i:113827518392308132",
+      "citacao": "Com a afirmação de Artur Paredes na década de 1920, velhos guitarristas como João Duarte de Oliveira, Francisco Menano, João de Deus Filho e Borges de Sousa, não hesitavam em afirmar que o Paredes até poderia ser muito revolucionário mas \"Mansilha havia só um.\""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Sobrinho-neto: Manuel Francisco Fernandes de Mansilha, antigo presidente da TAUC, que doou objetos do tio ao Museu Académico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/02/falecimento-do-antigo-presidente-da.html",
+          "doc": "gc-v:217781384561761732",
+          "citacao": "Dr. Manuel Francisco Fernandes de Mansilha"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/02/falecimento-do-antigo-presidente-da.html",
+          "doc": "gc-v:217781384561761732",
+          "citacao": "era sobrinho neto do guitarrista e também tauquiano Manuel Mansilha, tendo sido responsável pela doação de objetos de seu tio ao Museu Académico (MAC)."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Sobrinho-neto» não tem tipo de relação próprio."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Manuel Teixeira de Sampaio Mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Retrato do estudante da FD / UC Manuel Teixeira de Sampaio Mansilha (1875-1956), nascido e falecido no municipio de Alijó"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Alijó, 29 de novembro de 1875",
+      "data": "1875-11-29",
+      "local": "Alijó",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha, nasceu em Alijó no dia 29 de Novembro de 1875"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha (1875-1956)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Alijó, 29 de novembro de 1876; filho do médico José Teixeira de Sampaio e de Guilhermina Mansilha",
+      "data": "1876-11-29",
+      "local": "Alijó",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha, filho do médico José Teixeira de Sampaio e de Guilhermina Mansilha, nasceu em Alijó, em 29 de Novembro de 1876."
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota [1] de António M. Nunes à crónica de Octaviano de Sá."
+    },
+    {
+      "campo": "morte",
+      "valor": "Alijó, 28 de novembro de 1956",
+      "data": "1956-11-28",
+      "local": "Alijó",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "tendo falecido em Alijó a 28 de Novembro de 1956."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Alijó, 28 de setembro de 1856, sem filhos, viúvo de Alzira Malheiro Vaz",
+      "local": "Alijó",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Faleceu em Alijó, em 28 de Setembro de 1856, sem filhos, e deixando viúva Alzira Malheiro Vaz."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ano tal como impresso na nota [1] do post de 2005; a crónica transcrita, de 18 de outubro de 1956, diz que Mansilha faleceu «há pouco»."
+    },
+    {
+      "campo": "morte",
+      "valor": "1965",
+      "data": "1965",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha (1875 – 1965)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Faculdade de Direito da UC, formado em 1898",
+      "data": "1898",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "Aluno de Direito diplomado em 1898"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "No ano lectivo de 1897-1898, concluía o curso de Direito na Universidade de Coimbra, o quintanista Manuel Teixeira de Sampaio Mansilha, natural de Alijó[1]."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Manuel Mansilha, natural de Alijó, forma-se em Direito e Teologia, no ano de 1898."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Frequentou a Faculdade de Direito entre 1891-1892 e 1898-1899",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Frequentou a FD / UC entre 1891-1892 e 1898-1899."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Bandolinista da TAUC; liderou durante quase oito anos o Grupo Manuel Mansilha, que acompanhou a Tuna em digressões",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Liderou durante quase oito anos o Grupo Manuel Mansilha, onde alinhava o guitarrista Manuel Joaquim Correia. Este grupo acompanhou a Tuna com regularidade em Lamego, Braga, Vila Real, Tomar, Viseu, Leiria, Figueira da Foz, Coimbra. Mansilha também era bandolinista na Tuna."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Deixou nome nos palcos, bem como nas ruas e tascas de Coimbra, na liderança de uma troupe musical com o seu nome."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Concertista de guitarra em afinação natural e compositor de inúmeras peças, quase todas perdidas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "distinguindo-se como compositor de inúmeras peças (quase todas perdidas ou entradas anónimas no repertório da CC) e como concertista de guitarra em afinação natural."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Afinação natural, que usou até à morte",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "A Guitarra do Porto era dedilhada em afinação natural e foi esse dispositivo de afinação que Mansilha utilizou até à sua morte em 1956."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra do Porto, fabricada no Porto pela década de 1890, hoje no Museu Académico de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Exemplar de uma Guitarra do Porto que pertenceu ao antigo estudante Dr. Manuel Mansilha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "A sua guitarra encontra-se depositada no Museu Académico de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Secretário Geral do Governo de Angola (nomeado a 22 de novembro de 1900) e de Macau; advogado em Alijó",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Formado em Direito no ano de 1898, dedicou-se à advocacia na sua terra natal. Em 22 de Novembro de 1900 foi nomeado Secretário Geral do Governo de Angola. Desempenhou idêntico cargo em Macau."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Obras conhecidas: «Variações de Coimbra em Lá Maior» (gravadas por Ricardo Borges de Sousa) e a Balada de Despedida do 5.º Ano de 1898 (letra de Gonçalves Cerejeira); o «Fado Mansilha» em mi menor parece perdido",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "De Mansilha se conhecem umas Variações de Coimbra em Lá Maior, gravadas por Borges de Sousa, e a Balada da Despedida do 5º Ano Jurídico de 1898, com letra do seu amigo Gonçalves Cerejeira (Corações novos, almas em flor)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "Armando Simões refere muito um célebre \"Fado Mansilha\" em Mi menor cujo rasto parece perdido."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Até ao presente apenas foi possível resgatar Fado em Lá Maior, a partir de uma gravação de Ricardo Borges de Sousa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Escreveu os acompanhamentos musicais da récita «Os Bohemios» (estreada a 26 de março de 1898)",
+      "data": "1898-03-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "A récita de despedida do V ano Teológico-Jurídico foi escrita e ensaiada ao longo de 1897-1898, tendo sido estreada no palco do Teatro Príncipe Real (=Avenida) na noite de 26.03.1898."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-composicao-de-manuel-mansilha-1898.html",
+          "doc": "gc-v:1295561237294318930",
+          "citacao": "Escreveu os acompanhamentos musicais o estudante, tauquiano e afamado solista de guitarra Manuel Mansilha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-teixeira-de-sampaio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha, filho do médico José Teixeira de Sampaio e de Guilhermina Mansilha"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "guilhermina-mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Manuel Teixeira de Sampaio Mansilha, filho do médico José Teixeira de Sampaio e de Guilhermina Mansilha"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRybXqAlS196h6tXp6HibGGFBUMUIyrqVA6yf8cuXhUu81OWVenHfpwYXzvvfdjsSdI4dkgNBfigBpJyF9ecHSKQg0a778bDIZzu4lJebWoUF2dmdkcnLyWknpRgx2ChDI_I39SINxsM7xSbg7DJ6kCeS5h9EJCrWGcXl3LnIKElZGG0E1mQnQoBykybU/s1021/manuel-teixeira-de-sampaio-mansilha-1898-f-1.jpg",
+      "legenda": "Retrato do estudante Manuel Teixeira de Sampaio Mansilha; carte visite assinada pelo próprio, 1898 (coleção Adamo Caetano / Tunauc)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Retrato do estudante da FD / UC Manuel Teixeira de Sampaio Mansilha (1875-1956)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "Fonte: carte visite assinada pelo próprio, com data de 1898."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Dr. Manuel Mansilha (António M. Nunes, 2006)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html"
+    },
+    {
+      "rotulo": "Crónica de Octaviano de Sá (1956)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html"
+    },
+    {
+      "rotulo": "Manuel Mansilha em fim de curso (2023)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

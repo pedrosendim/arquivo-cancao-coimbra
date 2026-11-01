@@ -1,0 +1,117 @@
+{
+  "id": "guitarra-afonso-de-sousa-1937",
+  "designacao": "Guitarra de Coimbra de Afonso de Sousa, de 1937 (oficina Grácio), Museu Académico",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "",
+  "ano": "1937",
+  "proprietarios": [
+    {
+      "pessoa": "afonso-de-sousa",
+      "periodo": "finais da década de 30 e anos 40",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Mais atrás figura a guitarra utilizada por Afonso de Sousa entre finais da décda de 30 e os anos 40, que em Novembro de 1989 fizemos depositar no Museu Académico."
+        }
+      ],
+      "nota": "O post diz «utilizada»."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Construtor: oficina de João Pedro Grácio, com data de 1937",
+      "data": "1937",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Proveniente da oficina de João Pedro Grácio, com data de 1937, apresenta ainda escala de 17 pontos."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Construtor: adquirida por Afonso de Sousa a João Pedro Grácio Júnior em 1937",
+      "data": "1937",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "uma guitarra adquirida por Afonso de Sousa a João Pedro Grácio Júnior em 1937: o braço continua a manter 17 pontos, mas a ilharga foi alteada e a voluta daquiriu um configuração elementar em lágrima de aresta viva."
+        }
+      ],
+      "conflito": true,
+      "nota": "Os dois posts descrevem uma guitarra de Afonso de Sousa de 1937 com 17 pontos; não dizem expressamente que é o mesmo exemplar."
+    },
+    {
+      "campo": "outro",
+      "valor": "Estádio intermédio entre a guitarra toeira e a guitarra Paredes/Grácio: voluta em lágrima de aresta, ilharga alteada, 17 pontos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Representa um estádio intermédio de evolução entre a Guitarra Toeira e a Guitarra Paredes/Grácio."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "A voluta passou do oval clássico a lágrima em aresta agressiva, ainda afastada da fixação operada a partir de 1940. A ilharga sofreu alteamento bem visível"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Depositada no Museu Académico em novembro de 1989",
+      "data": "1989-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "que em Novembro de 1989 fizemos depositar no Museu Académico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarras%20de%20Afonso%20de%20Sousa.jpg",
+      "legenda": "Aspecto do expositor do Museu Académico dedicado ao Afonso de Sousa (em 1.º plano a guitarra toeira de Raul Simões; mais atrás a guitarra de 1937)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Aspecto do expositor do Museu Académico dedicado ao Afonso de Sousa."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+      "doc": "gc-i:113883259360177144",
+      "citacao": "Esta 2ª guitarra de Afonso de Sousa constitui um documento organológico da maior importância para o estudo da evolução da Guitarra de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

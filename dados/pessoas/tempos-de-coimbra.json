@@ -1,0 +1,75 @@
+{
+  "id": "tempos-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Tempos de Coimbra",
+  "nomes_alternativos": [
+    "Grupo Tempos de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+      "doc": "gc-v:1436266136812530715",
+      "citacao": "Tempos de Coimbra\n\nGrupo constituído por Paulo Pinto (voz), Pedro Paredes (gC), e Filipe Ribeiro/Paulo Rodrigues (vv)"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994: Paulo Pinto (voz), Pedro Paredes (guitarra), Filipe Ribeiro e Paulo Rodrigues (violas)",
+      "data": "1994-05-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Formações juniores presentes na SMQF de 6 de maio de 1994"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Tempos de Coimbra\n\nGrupo constituído por Paulo Pinto (voz), Pedro Paredes (gC), e Filipe Ribeiro/Paulo Rodrigues (vv)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "segundo um comentário anónimo ao post, a formação era Paulo Pinto (voz), Pedro Paredes e Filipe Ribeiro (guitarras), Eduardo Sousa (viola) e também Paulo Rodrigues (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:c8963120559448179678",
+          "citacao": "Grupo \"Tempos de Coimbra\":"
+        }
+      ],
+      "conflito": true,
+      "nota": "Comentário de leitor (fiabilidade variável): põe Filipe Ribeiro na guitarra, não na viola, e acrescenta Eduardo Sousa."
+    },
+    {
+      "campo": "outro",
+      "valor": "Filipe Ribeiro na viola, segundo o post",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Tempos de Coimbra\n\nGrupo constituído por Paulo Pinto (voz), Pedro Paredes (gC), e Filipe Ribeiro/Paulo Rodrigues (vv)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

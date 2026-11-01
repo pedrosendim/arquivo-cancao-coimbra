@@ -1,0 +1,33 @@
+{
+  "id": "lucinda-freixo",
+  "tipo": "pessoa",
+  "nome": "Lucinda Freixo",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "alcides-freixo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/alcides-freixo.html",
+          "doc": "gc-v:1018920548008319760",
+          "citacao": "Na foto, com a esposa D. Lucinda Freixo, num jantar dos Antigos Tunos, em Dezembro de 2010."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antigos-tunos-na-madeira.html",
+          "doc": "gc-i:116580227937067359",
+          "citacao": "Alcides Freixo com a esposa"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

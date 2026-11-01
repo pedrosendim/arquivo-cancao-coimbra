@@ -1,0 +1,321 @@
+{
+  "id": "grupo-presenca-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Presença de Coimbra",
+  "nomes_alternativos": [
+    "Grupo Presença de Coimbra",
+    "GPC",
+    "Grupo de Manuel Borralho"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Manuel Borralho, José Ferraz de Oliveira e Manuel Gouveia Ferreira constituem uma solidíssima formação instrumental, tendo já no activo 24 anos de trabalho conjunto – tempo este acrescido dos antecedentes na década de 60"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:6800273436579906074",
+      "citacao": "O blogue Guitarra de Coimbra distingue a originalidade do CD Folha a Folha (1999) e o contributo relevante da formação Presença de Coimbra para a renovação da Canção de Coimbra enquanto género artístico reconhecido pela Unesco"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "50 anos do grupo assinalados em 2017 («1967-2017»)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Nos 50 anos dos PRESENÇA DE COIMBRA (1967-2017)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Em 2005, Armando Luís de Carvalho Homem contava «24 anos de trabalho conjunto» ao trio instrumental, «acrescido dos antecedentes na década de 60» (ver biografia)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação em meados da década de 1990: Manuel Borralho e José Ferraz de Oliveira (guitarras), Manuel Gouveia Ferreira (viola), cantores Fernando Gomes Alves e José Horácio Miranda; Jorge Cravo integra o grupo a partir de 1994",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "a partir de 1994, passou a integrar o Grupo Presença de Coimbra (GPC), constituído por Manuel Borralho e José Ferraz de Oliveira, nas guitarras, e Manuel Gouveia Ferreira na viola, e os cantores Fernando Gomes Alves e José Horácio Miranda."
+        }
+      ],
+      "conflito": false,
+      "nota": "Só têm ficha Jorge Cravo e Manuel Borralho (relação membro_de nas fichas deles)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «folha a folha – canto e guitarra de Coimbra», com Jorge Cravo e participação de Luiz Goes, poesia de José Manuel Mendes, Numérica NUM 49, 1999",
+      "data": "1999",
+      "local": "Paços de Brandão",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Interpretações vocais pelo tenor Jorge Cravo e pelo barítono Luiz Goes. Parte instrumental a cargo do trio Manuel Borralho (gC1), Ferraz de Oliveira (gC2), Gouveia Ferreira (v). Textos de José Manuel Mendes e Jorge Cravo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "CD Folha a Folha, pelo Grupo Presença de Coimbra, Numérica, NUM 49P&C, gravado no Aurastudio, Paços de Brandão, 1999."
+        }
+      ],
+      "conflito": false,
+      "nota": "Estúdio: o post de 2018 diz gravado «nos estúdios Numérica» (misturas no Aurastúdio); o de 2026 diz «gravado no Aurastudio»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Canções d'Inquietude», com Jorge Cravo, 2005 (14 temas vocais e 3 guitarradas de Manuel Borralho)",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Jorge Cravo – que este ano completa um quarto de século como intérprete da Canção Coimbrã – e o grupo «Presença de Coimbra» regressam com Canções d’Inquietude; o novo álbum compreende 14 temas vocais e 3 guitarradas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «por dentro das flores», poesia de Vítor Matos e Sá, Edisco ECD 401, 2024 (gravado 2019-2021), com Manuel Borralho, José Ferraz de Oliveira, Manuel Gouveia Ferreira e Tiago Ferraz de Oliveira",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/por-dentro-das-flores.html",
+          "doc": "gc-v:1403020400799042504",
+          "citacao": "Gravado entre 2019 e 2021, só agora se dá a ver e a ouvir o CD por dentro das flores, canto e guitarra de Coimbra, Grupo Presença de Coimbra, poesia de Vítor Matos e Sá, Porto, Edisco ECD 401, 2024."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/por-dentro-das-flores.html",
+          "doc": "gc-v:1403020400799042504",
+          "citacao": "As instrumentações e acompanhamentos de gC e v estiveram a cargo de Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v) e Tiago Ferraz de Oliveira (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "o grupo de Manuel Borralho teve atividade juvenil entre 1967 e 1970 e reorganizou-se em 1981",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/07/musicas-que-estao-na-memoria-o-grupo.html",
+          "doc": "gc-v:2319193470775728568",
+          "citacao": "Embora com descontinuidade, o Grupo de Manuel Borralho teve atividade artística juvenil entre 1967-1970, tendo-se reorganizado em 1981."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas gravadas no Emissor Regional do Centro da RDP no início dos anos 80, ainda como «futuros Presença de Coimbra», a acompanhar Gomes Alves e José Manuel Santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/em-torno-de-manuel-gouveiaferreira-1947.html",
+          "doc": "gc-v:500972107859972140",
+          "citacao": "em duas ocasiões estiveram presentes\nos futuros «Presença de Coimbra», acompanhando Gomes Alves e José Manuel\nSantos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem (2019)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "programa «Cantos e Contos de Coimbra» (RTP2, 1982), ainda sem este nome, a acompanhar Gomes Alves",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/em-torno-de-manuel-gouveiaferreira-1947.html",
+          "doc": "gc-v:500972107859972140",
+          "citacao": "Ainda sem este nome,\no «Presença de Coimbra» actua, de novo acompanhando Gomes Alves."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Serenata ao Fado», Theatro Circo, Braga, 12 de abril de 2007: Manuel Borralho e José Ferraz de Oliveira (guitarras), Manuel Gouveia Ferreira (viola), Jorge Cravo (canto)",
+      "data": "2007-04-12",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/blog-post.html",
+          "doc": "gc-ii:2475900174978547625",
+          "citacao": "Presença de Coimbra, constituído por Manuel Borralho e José Ferraz de Oliveira nas guitarras, Manuel Gouveia Ferreira na viola e Jorge Cravo a cantar"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "III Serenata ao Fado (2010), anunciado como «Presença Coimbrã»: Manuel Borralho, José Ferraz e Manuel Gouveia",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/10/iii-serenata-ao-fado.html",
+          "doc": "gc-iii:8540303905758513046",
+          "citacao": "Actuação do Grupo “Presença Coimbrã\", integrando os seguintes elementos: Manuel Borralho (guitarra), José Ferraz (guitarra) e Manuel Gouveia (viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com o grupo «Presença Coimbrã» da digressão a Macau e Hong Kong de 2004 (ficha presenca-coimbra), que tinha outros elementos."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "recital de homenagem a Nuno Guimarães, Coimbra, 5 de novembro de 2016: Manuel Borralho, José Ferraz de Oliveira, Manuel Gouveia Ferreira, Tiago Ferraz de Oliveira; cantores Jorge Machado e Jorge Cravo",
+      "data": "2016-11-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/espetaculo-de-apresentacao-cd-fernando.html",
+          "doc": "gc-v:2692217642666510466",
+          "citacao": "Grupo PRESENÇA DE COIMBRA: Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v), Tiago Ferraz de Oliveira (v), e os cantores Jorge Machado e Jorge Cravo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Revisitando Nuno Guimarães», Perosinho, Vila Nova de Gaia, 9 de setembro de 2017",
+      "data": "2017-09-09",
+      "local": "Vila Nova de Gaia",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Presença de Coimbra (Manuel Borralho, José Ferraz de Oliveira, Manuel\nGouveia Ferreira, Tiago Ferraz de Oliveira, Jorge Machado, Jorge Cravo)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Mário Correia (Facebook) reproduzido no blogue."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD de repertório instrumental de guitarra de Coimbra (13 títulos), apresentado na Ordem dos Médicos, Porto, 24 de maio de 2018",
+      "data": "2018-05-24",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/07/musicas-que-estao-na-memoria-o-grupo.html",
+          "doc": "gc-v:2319193470775728568",
+          "citacao": "O Grupo Presença de Coimbra acaba de lançar um novo CD com repertório instrumental de Guitarra de Coimbra.\n\nA primeira apresentação pública teve lugar na sede da Ordem dos Médicos, na cidade do Porto, em 24 de maio de 2018."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "morte de Manuel Gouveia Ferreira, viola do grupo, a 17 de novembro de 2019; o grupo tocou duas vezes a Balada de Coimbra no velório",
+      "data": "2019-11-17",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/falecimento-de-manuel-gouveia-ferreira.html",
+          "doc": "gc-v:7088253602856907028",
+          "citacao": "Durante do velório o grupo Presença de Coimbra tocou duas vezes a Balada de Coimbra, de José Elyseu, a pedido do falecido."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto de Verão da Secção Regional do Norte da Ordem dos Médicos (julho de 2022)",
+      "data": "2022-07",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/atuacao-do-grupo-presenca-de-coimbra.html",
+          "doc": "gc-v:1813809565626644144",
+          "citacao": "o Grupo Presença de\nCoimbra, ao qual tenho a honra e o gosto de pertencer, vai participar no\nConcerto de Verão da Secção Regional do Norte da Ordem dos Médicos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Mensagem de José Ferraz de Oliveira reproduzida no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "apresentação do disco «por dentro das flores» na Faculdade de Letras da Universidade de Coimbra, 21 de março de 2026",
+      "data": "2026-03-21",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/por-dentro-das-flores.html",
+          "doc": "gc-v:2706464594328665875",
+          "citacao": "Grupo Presença de Coimbra convida V. Ex.ª para a apresentação do seu\ndisco “por dentro das flores”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4MUIS64FL0iU2G2aaUQ2nEKc9H-ZBts0DFDA2EIAsAr3C46H1n3I_Z-GNqgEInN6RPtjzKfj03a-CqzoASHnsTpfPu4h6PrXuTd-oBWjn4EEgo28PJcJg402TMHQokWYg8mauaPhuN0/s1600/DSC05651+%25282%2529+-+C%25C3%25B3pia+-+C%25C3%25B3pia.jpg",
+      "legenda": "Presença de Coimbra no recital de homenagem a Nuno Guimarães (Coimbra, 5 de novembro de 2016).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/espetaculo-de-apresentacao-cd-fernando.html",
+          "doc": "gc-v:2692217642666510466",
+          "citacao": "Grupo PRESENÇA DE COIMBRA: Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v), Tiago Ferraz de Oliveira (v), e os cantores Jorge Machado e Jorge Cravo."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Cravo%20Capa.jpg",
+      "legenda": "Capa do CD «Canções d'Inquietude» (2005): Jorge Cravo com o grupo Presença de Coimbra (Manuel Borralho e José Ferraz de Oliveira, guitarras; Manuel Gouveia Ferreira, viola).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/capa-do-cd-canes-dinquietude-com-jorge.html",
+          "doc": "gc-i:113535484480873133",
+          "citacao": "Capa do CD \"Canções d'Inquietude\", com Jorge Cravo a cantar e acompanhado pelo Grupo \"Presença de Coimbra\", constituído por Manuel Borralho e José Ferraz de Oliveira nas guitarras e Manuel Gouveia Ferreira na viola."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Distinção do CD Folha a Folha e dos 50 anos dos Presença de Coimbra (GC-V, 2018)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

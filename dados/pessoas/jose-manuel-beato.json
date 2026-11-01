@@ -1,0 +1,50 @@
+{
+  "id": "jose-manuel-beato",
+  "tipo": "pessoa",
+  "nome": "José Manuel Beato",
+  "nomes_alternativos": [
+    "José Beato"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarto-crescente",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/no-passado-sbado-actuou-o-grupo-quarto.html",
+          "doc": "gc-i:925217000977996577",
+          "citacao": "No passado Sábado, actuou o Grupo \"Quarto Crescente\" (fotos 1, 2 e 3), com os seguintes elementos: - Ricardo Dias - Guitarra - Paulo Larguesa - Viola - Patrick Mendes - Voz - José Manuel Beato - Voz"
+        }
+      ],
+      "nota": "voz (1994, 2007)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/J%20Beato%203.jpg",
+      "legenda": "José Beato a cantar com o grupo Quarto Crescente na Galeria Almedina (2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-quarto-crescente-na-galeria_23.html",
+          "doc": "gc-i:115361036350136903",
+          "citacao": "Grupo Quarto Crescente na Galeria Almedina, este sábado. José Beato a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

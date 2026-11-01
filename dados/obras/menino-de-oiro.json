@@ -1,0 +1,57 @@
+{
+  "id": "menino-de-oiro",
+  "titulo": "Menino d'Oiro",
+  "titulos_alternativos": [
+    "Menino de Oiro",
+    "O meu menino é d'oiro"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [
+    "jose-afonso"
+  ],
+  "ano": "1959",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Composta em 1959",
+      "data": "1959",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Menino d’Oiro (1959)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada em outubro de 1962 com Rui Pato (EP Baladas de Coimbra, Rapsódia EPF 5.182)",
+      "data": "1962-10",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Em outubro de 1962 grava com Rui Pato o EP Baladas de Coimbra. Menino d’Oiro, Porto: Rapsódia EPF 5.182"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "Menino de Oiro (O meu menino é d’oiro), música e letra de José Afonso dedicadas a seu filho nascido em 1953"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

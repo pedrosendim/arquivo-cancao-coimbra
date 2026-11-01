@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3042-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0586_14.mp3",
+  "titulo": "Fado dos Namorados — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3042",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1166.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1157/antonio_menano_fado_dos_namorados",
+      "doc": "museu-do-fado:wd84ec27841f823dd",
+      "citacao": "Título: Fado dos Namorados ... Editora: Od. X3042, 136.818, EMI261283,EMICD8364452 Referências: OG688, R, 3042B; X 3042b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

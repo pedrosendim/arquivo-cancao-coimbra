@@ -1,0 +1,39 @@
+{
+  "id": "manuel-joao-vaz",
+  "tipo": "pessoa",
+  "nome": "Manuel João Vaz",
+  "nomes_alternativos": [
+    "Manuel Vaz",
+    "Manuel João Mendes Macor dos Santos Vaz"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html", "doc": "gc-i:111386707668512688", "citacao": "tendo frequentado as escolas da Secção de Fado da AAC"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2020/01/falecimento-de-manuel-joao-vaz.html", "doc": "gc-v:5175455881994778921", "citacao": "Inicialmente, acompanhou vários elementos das Escolas da Secção de Fado da Associação Académica de Coimbra, à época orientadas pelo Mestre Fernando Monteiro"}], "nota": "Frequentou as escolas da Secção (viola, a partir de 1991)."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Ingressou no Grupo Canção de Coimbra em 1997."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "o CD \"Prospecção\", editado em 2004, com Jorge Machado (voz) e Fernando Marques/Pedro Nunes (gg) e Manuel João Vaz (v)."
+        }
+      ],
+      "nota": "viola; desde 1997"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

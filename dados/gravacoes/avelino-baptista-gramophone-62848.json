@@ -1,0 +1,72 @@
+{
+  "id": "avelino-baptista-gramophone-62848",
+  "titulo": "O Mondego",
+  "formato": "disco de massa",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "62848",
+  "ano": "",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "O Mondego (canção popular de Coimbra)",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxYVC-f3_f5ml_7Vqj_0CktEVOkdHqjFcZ4jUY0LNXo4wALGXQdVIs3XIEeX44KYn0W_Afivu2TuiVWvaez7e-pgupy-s0grN_a4AfHhmNp8hF-2P9vFtpDfFqlrMRq6ZChoI_Aiql_s6Z/s1600/O+Mondego+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+        "doc": "gc-v:1945448219212296869",
+        "citacao": "Disco de massa O MONDEGO, canção popular de Coimbra, cantado pelo Snr. Avelino Baptista"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Lisboa, sem data [ca. 1903]; sem especificação de autorias",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "Disco de massa O MONDEGO, canção popular de Coimbra, cantado pelo Snr. Avelino Baptista"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "Lisboa: Disque Pour Gramophone 62848, s/d. [ca. 1903]. Sem especificação de autoria(s)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+      "doc": "gc-v:1945448219212296869",
+      "citacao": "Disco de massa O MONDEGO, canção popular de Coimbra, cantado pelo Snr. Avelino Baptista"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

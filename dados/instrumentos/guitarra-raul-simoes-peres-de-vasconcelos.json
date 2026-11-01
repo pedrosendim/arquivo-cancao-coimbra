@@ -1,0 +1,79 @@
+{
+  "id": "guitarra-raul-simoes-peres-de-vasconcelos",
+  "designacao": "Guitarra toeira de Coimbra de Peres de Vasconcelos, da oficina de Raul Simões (Museu Académico)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "peres-de-vasconcelos",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "encontrar a guitarra de Peres de Vasconcelos depositada no Museu Académico"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Escala de 17 trastos ligeiramente abaulada, voluta oval, ilharga baixa (6 cm ao atadilho, 5 cm ao cepo); tipicamente anos 20; dois cavaletes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Guitarra Toeira de Coimbra, com escala de 17 trastos ligeiramente abaulada, voluta oval clássica, decoração austera, ilharga baixa (6 cms ao atadilho, 5 cms ao cepo), proveniente da oficina do violeiro Raul Simões. Cordofone tipicamente anos 20. Facto insólito, apresenta dois cavaletes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Depositada no Museu Académico de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "não deixou de constituir uma boa surpresa encontrar a guitarra de Peres de Vasconcelos depositada no Museu Académico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarra%20de%20Peres%20de%20Vasconcelos.jpg",
+      "legenda": "Guitarra de Peres de Vasconcelos, depositada no Museu Académico.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Imagem: guitarra depositada no Museu Académico"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+      "doc": "gc-i:113908184282626130",
+      "citacao": "proveniente da oficina do violeiro Raul Simões"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

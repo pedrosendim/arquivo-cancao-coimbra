@@ -1,0 +1,30 @@
+{
+  "id": "ouvir-jose-afonso-alvorada-mep-60280-1960-2-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/solit%C3%A1rio/835106404?i=835106489",
+  "titulo": "Solitário — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-portugal",
+    "jorge-godinho",
+    "manuel-pepe",
+    "levi-baptista",
+    "eduardo-de-melo",
+    "paulo-alao"
+  ],
+  "obras": [
+    "solitario"
+  ],
+  "gravacao": "jose-afonso-alvorada-mep-60280-1960",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4e/ab/c0/4eabc033-4e82-f5c8-cb65-96878eca5960/888608750622.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/solit%C3%A1rio/835106404?i=835106489"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Solitário - Single», ℗ 2014 Entertain Me Europe LTD). José Afonso gravou «Solitário» também em 78 rpm (1953, segundo o título de um vídeo do YouTube); não se sabe qual das gravações é esta.",
+  "estado_revisao": "rascunho"
+}

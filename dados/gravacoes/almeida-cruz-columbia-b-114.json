@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-114",
+  "titulo": "Ora vai tu / Fado Balada",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-114",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Ora vai tu",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-114-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Balada",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-114-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Ora vai tu», por Almeida Cruz — etiqueta: «Ora vae tu / Canção Portugueza - Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/632/almeida_cruz_ora_vai_tu",
+          "doc": "museu-do-fado:waef5dd0315d99b6d",
+          "citacao": "Título: Ora vai tu ... Editora: Co. B-114 Referências: 11834-1-1; B114 ... Etiqueta: Ora vae tu / Canção Portugueza - Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Ora vai tu, Columbia B-114, 11834, canção tradicional portuguesa»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Ora vai tu, Columbia B-114, 11834, canção tradicional portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Balada», por Almeida Cruz — etiqueta: «Fado Ballada / Fado - A. Cruz / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/633/almeida_cruz_fado_balada",
+          "doc": "museu-do-fado:w2677da9694dbc58c",
+          "citacao": "Título: Fado Balada ... Editora: Co. B-114 Referências: 11883-1-1; B114 ... Etiqueta: Fado Ballada / Fado - A. Cruz / Almeida Cruz"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Balada, Columbia B-114, 11888, música de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Balada, Columbia B-114, 11888, música de Almeida Cruz"
+        }
+      ],
+      "conflito": true,
+      "nota": "O número que o blogue dá a seguir ao disco difere da matriz indicada no registo do Museu do Fado. O registo do Museu do Fado indica «Editora: Co. B-114» e «Referências: 11883-1-1; B114»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/632/almeida_cruz_ora_vai_tu",
+      "doc": "museu-do-fado:waef5dd0315d99b6d",
+      "citacao": "Título: Ora vai tu ... Editora: Co. B-114 Referências: 11834-1-1; B114"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Ora vai tu, Columbia B-114, 11834, canção tradicional portuguesa"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/633/almeida_cruz_fado_balada",
+      "doc": "museu-do-fado:w2677da9694dbc58c",
+      "citacao": "Título: Fado Balada ... Editora: Co. B-114 Referências: 11883-1-1; B114"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Balada, Columbia B-114, 11888, música de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

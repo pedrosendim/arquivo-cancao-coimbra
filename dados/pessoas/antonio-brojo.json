@@ -1,0 +1,96 @@
+{
+  "id": "antonio-brojo",
+  "tipo": "pessoa",
+  "nome": "António Brojo",
+  "nomes_alternativos": [
+    "António Pinho de Brojo",
+    "Pinho Brojo",
+    "António Pinho Brojo"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "António Pinho de Brojo (1927-1999), guitarrista titular, recém-licenciado em Farmácia pela UP, com anteriores colaborações nos grupos de José Amaral, Carvalho Homem e João Bagão"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "nota": "guitarrista titular (gC1), 1951-1954"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "ainda que uma vez ou outra acompanhasse o Zeca Afonso, sobretudo em férias"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "E nessa altura acompanhei-o, por exemplo na “Balada do Outono”"
+        }
+      ],
+      "nota": "1.ª guitarra nas gravações Melodia de 1952-1953 (15.090 e 15.097); acompanhou-o depois ocasionalmente, já na fase das baladas (testemunho do próprio)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Tempos%20de%20Coimbra%2013%20Brojo.jpg",
+      "legenda": "António Brojo. Foto do «Tempo(s) de Coimbra».",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/antnio-brojo.html",
+          "doc": "gc-i:111445651010945088",
+          "citacao": "António Brojo. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

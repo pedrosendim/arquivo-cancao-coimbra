@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187801-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0610_21.mp3",
+  "titulo": "O meu menino — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187801",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1214.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1204/antonio_menano_o_meu_menino",
+      "doc": "museu-do-fado:w8e8d06094fb2cb57",
+      "citacao": "Título: O meu menino ... Editora: Od.LA187.801. EMI2605983 Referências: OG1006, L, NR; LA 187801b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

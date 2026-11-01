@@ -1,0 +1,165 @@
+{
+  "id": "artur-paredes-alvorada-mld-8017",
+  "titulo": "Artur Paredes (10 polegadas)",
+  "formato": "LP",
+  "editora": "Alvorada",
+  "referencia": "MLD 8017",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "armenio-silva",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Desfolhada",
+      "obra": "desfolhada",
+      "media": ["ouvir-artur-paredes-alvorada-mld-8017-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Dança",
+      "obra": "danca-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mld-8017-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Variações Em Ré Menor N.º 2",
+      "obra": "variacoes-em-re-menor-n-2-artur-paredes",
+      "media": [
+        "disco-artur-paredes-alvorada-mld-8017-variacoes-em-re-menor-n-o-2"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Variações Em Mi Menor",
+      "obra": "variacoes-em-mi-menor-artur-paredes",
+      "media": [
+        "disco-artur-paredes-alvorada-mld-8017-variacoes-em-mi-menor"
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "Variações Em Ré Maior",
+      "obra": "variacoes-em-re-maior-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mld-8017-5-soundcloud"]
+    },
+    {
+      "n": 6,
+      "titulo": "Canção Do Ribeirinho",
+      "obra": "cancao-do-ribeirinho",
+      "media": ["ouvir-artur-paredes-alvorada-mld-8017-6-soundcloud"]
+    },
+    {
+      "n": 7,
+      "titulo": "Rapsódia N.º 2",
+      "obra": "rapsodia-n-2-artur-paredes",
+      "media": [
+        "disco-artur-paredes-alvorada-mld-8017-rapsodia-n-o-2"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": [
+        "disco-artur-paredes-alvorada-mld-8017-passatempo"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/ImAckRnwpX_RdJBV9BWPQ64o7ru-pEoRFPj4sgQvgrA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ2/NDAzLTE1MjMzNzY3/ODgtNzk3NS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/11846403",
+        "doc": "discogs:w3dd533b591a34a46",
+        "citacao": "Imagem (secondary): https://i.discogs.com/ImAckRnwpX_RdJBV9BWPQ64o7ru-pEoRFPj4sgQvgrA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ2/NDAzLTE1MjMzNzY3/ODgtNzk3NS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/11846403",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 10\", 33 ⅓ RPM, Compilation",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11846403",
+          "doc": "discogs:w3dd533b591a34a46",
+          "citacao": "Formato: 1 × Vinyl, 10\", 33 ⅓ RPM, Compilation"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11846403",
+          "doc": "discogs:w3dd533b591a34a46",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Compilação dos dois primeiros EP de Artur Paredes (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11846403",
+          "doc": "discogs:w3dd533b591a34a46",
+          "citacao": "Compilation of the first 2 EP's of Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: Arménio Silva e Carlos Paredes (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11846403",
+          "doc": "discogs:w3dd533b591a34a46",
+          "citacao": "Accompanied By – Arménio Silva Accompanied By – Carlos Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não se encontrou referência a este número de catálogo nos blogues; a lista de faixas corresponde à edição de 1961 do MEP 60056 (Canção do Ribeirinho, Rapsódia n.º 2)."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11846403",
+      "doc": "discogs:w3dd533b591a34a46",
+      "citacao": "Editora: Alvorada – MLD 8017"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,190 @@
+{
+  "id": "artur-paredes-alvorada-mep-60056-1961",
+  "titulo": "Artur Paredes (edição de 1961)",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60056",
+  "ano": "1961",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "armenio-silva",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em Ré Maior",
+      "obra": "variacoes-em-re-maior-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1961-1-soundcloud"]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Ribeirinho",
+      "obra": "cancao-do-ribeirinho",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1961-2-soundcloud"]
+    },
+    {
+      "n": 3,
+      "titulo": "Rapsódia n.º 2",
+      "obra": "rapsodia-n-2-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1961-3-soundcloud"]
+    },
+    {
+      "n": 4,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60056-1961-4-soundcloud"]
+    }
+  ],
+  "capa": {
+    "url": "http://photos1.blogger.com/img/258/3919/1024/Artur%20Paredes%20EP%20azul.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-i",
+        "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-artur-paredes-da-etiqueta.html",
+        "doc": "gc-i:112586552949521090",
+        "citacao": "Capa do EP \"Artur Paredes\", da etiqueta Alvorada e saído em 1961."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7646936",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "«Canção do Ribeirinho» substitui «Balada do Mondego»; «Rapsódia n.º 2» é nova versão de «Cantares Portugueses»; «Passatempo» em versão diferente da de 1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Esta composição substitui “Balada do Mondego”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Trata-se de uma nova versão da mesma música referida no fonograma anterior como “Cantares Portugueses”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "PASSATEMPO (guitarrada), música e arranjo de Artur Paredes. Trata-se de uma versão diferente da gravada em 1957."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Variações em Ré Maior: por esclarecer se é nova versão",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Não tivemos o ensejo de comparar o registo de 1957 com o de 1961, ficando por esclarecer se Artur Paredes gravou nova versão."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Variações em Ré Maior: única faixa que terá ficado tal e qual do EP primitivo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "Ou seja: do EP primitivo terão ficado tal-qual apenas as «Variações em Ré Maior»."
+        }
+      ],
+      "conflito": true,
+      "nota": "A. L. de Carvalho Homem (2006)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Número de catálogo grafado «MEP 600056» na nótula de 2006",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "MEP 600056 [capa de fundo azul-claro]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Provável gralha; a mesma nótula escreve depois MEP 60056."
+    },
+    {
+      "campo": "outro",
+      "valor": "O Discogs regista com data de 1957 um MEP 60056 com o alinhamento desta edição (Variações em Ré Menor [sic], Canção do Ribeirinho, Rapsódia n.º 2, Passatempo)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7646936",
+          "doc": "discogs:wdbe7226e912d2653",
+          "citacao": "Editora: Alvorada – MEP 60056"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7646936",
+          "doc": "discogs:wdbe7226e912d2653",
+          "citacao": "Data: 1957"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7646936",
+          "doc": "discogs:wdbe7226e912d2653",
+          "citacao": "A1 Variações Em Ré Menor A2 Canção Do Ribeirinho B1 Rapsódia Nº 2 B2 Passatempo"
+        }
+      ],
+      "conflito": true,
+      "nota": "Segundo os blogues, este alinhamento é o da edição de 1961; o Discogs data-o de 1957 e chama «Ré Menor» à faixa que os blogues dão como «Variações em Ré Maior». Ligação ao Discogs feita pelo alinhamento."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "A mesma formação voltou a estúdio, tendo sido editado em 1961 um novo EP, que mantinha o motivo de capa, o título de 1957 e o mesmo número de catálogo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "EP ARTUR PAREDES. Porto: ALVORADA, MEP 60056, 1961"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+      "doc": "gc-i:116656793633803313",
+      "citacao": "b) o MEP 60056 contém «Variações em Ré Maior», «Canção do Ribeirinho», «Rapsódia n.º 2» e «Passatempo»"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-artur-paredes-da-etiqueta.html",
+      "doc": "gc-i:112586552949521090",
+      "citacao": "Capa do EP \"Artur Paredes\", da etiqueta Alvorada e saído em 1961."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

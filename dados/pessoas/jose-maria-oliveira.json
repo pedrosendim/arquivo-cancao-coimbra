@@ -1,0 +1,41 @@
+{
+  "id": "jose-maria-oliveira",
+  "tipo": "pessoa",
+  "nome": "José Maria Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "ecos-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+          "doc": "gc-i:116136187245084730",
+          "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-na-igreja-matriz.html",
+          "doc": "gc-i:116136252018825702",
+          "citacao": "Grupo Ecos de Coimbra na Igreja Matriz de Goa, Índia, em Fevereiro de 2006. Canta Joaquim Rogério. Viola Maurício Monteiro e guitarra, José Maria Oliveira."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/o-grupo-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:3993957054683374503",
+          "citacao": "O grupo de Guitarra e Canto de Coimbra \"Ecos de Coimbra\", vai comemorar vinte anos de existência."
+        }
+      ],
+      "nota": "guitarra; 2004-2008"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

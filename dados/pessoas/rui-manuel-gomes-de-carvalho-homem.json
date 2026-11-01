@@ -1,0 +1,71 @@
+{
+  "id": "rui-manuel-gomes-de-carvalho-homem",
+  "tipo": "pessoa",
+  "nome": "Rui Manuel Gomes de Carvalho Homem",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "armando-de-carvalho-homem",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem], também beirã (natural de Oliveira de Frades) e farmacêutica diplomada pela então Escola Superior de Farmácia/UC no mesmo ano de 1945; do casamento nascerão dois filhos"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "[15] O autor destas linhas (n. 1950) e Rui Manuel Gomes de CH (n. 1959)."
+        }
+      ],
+      "nota": "A nota [15] escreve «Rui Manuel Gomes de CH»; «CH» abrevia Carvalho Homem no mesmo texto."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-alcina-marques-pereira-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem], também beirã (natural de Oliveira de Frades) e farmacêutica diplomada pela então Escola Superior de Farmácia/UC no mesmo ano de 1945; do casamento nascerão dois filhos"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "[15] O autor destas linhas (n. 1950) e Rui Manuel Gomes de CH (n. 1959)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "armando-luis-de-carvalho-homem",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "[15] O autor destas linhas (n. 1950) e Rui Manuel Gomes de CH (n. 1959)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Este texto de seu filho Armando Luís é uma homenagem a seu pai."
+        }
+      ],
+      "nota": "«O autor destas linhas» é Armando Luís de Carvalho Homem."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

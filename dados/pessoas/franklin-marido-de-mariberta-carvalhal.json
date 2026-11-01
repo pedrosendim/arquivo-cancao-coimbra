@@ -1,0 +1,35 @@
+{
+  "id": "franklin-marido-de-mariberta-carvalhal",
+  "tipo": "pessoa",
+  "nome": "Franklin",
+  "nomes_alternativos": [
+    "Eng. Franklin"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "mariberta-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/02/memorial-de-mariberta-carvalhal.html",
+          "doc": "gc-v:1767073416581608153",
+          "citacao": "tomava conta do marido, o Eng. Franklin, que se encontrava em cadeira de rodas"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Mariberta Carvalhal, viúva, é mãe de duas filhas."
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. O post de 2006 já diz Mariberta «viúva»; o memorial de 2024 recorda uma visita anterior. As fontes não dizem se é o pai das duas filhas."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

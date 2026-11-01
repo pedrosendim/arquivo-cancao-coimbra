@@ -1,0 +1,201 @@
+{
+  "id": "cordis-2-2011",
+  "titulo": "Cordis 2 – Piano e Guitarra Portuguesa",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "",
+  "ano": "2011",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "cordis",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "bruno-costa",
+      "funcao": "guitarra portuguesa"
+    },
+    {
+      "pessoa": "paulo-figueiredo",
+      "funcao": "piano"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção da Primavera",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Ré Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Despertar",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Lá Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Variações em Lá",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Caminhos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Presente Perfeito",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Canção do Encantamento",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Frustração",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Movimento Perpétuo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Exercício de Jorge Gomes",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Nas Asas da Saudade",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Hora de Nós",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2q0d9PCS0bwfSd740ZuaJZmkXiGDLQzaOiig_8rcMyrq8gFx_2Wj1K4n59EZMHHmYlc1BsdbDznCZhvEwR8EQ0X0OaGgyY6YapjPvZGJY6quW27dcgO0Up9O4_C49c_F5u6fUFg6aO6wO/s1600/Cordis-2-1.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-iv",
+        "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/cordis-2.html",
+        "doc": "gc-iv:5257858841926532335",
+        "citacao": "E aí está ele, de facto, como mais um disco a não perder."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10444582",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato e país (Discogs): 1 × CD, Album; Portugal; digipak triplo",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10444582",
+          "doc": "discogs:wced1e18409602d56",
+          "citacao": "Formato: 1 × CD, Album País: Portugal"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10444582",
+          "doc": "discogs:wced1e18409602d56",
+          "citacao": "Packaged in a trifold digipak"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2011 (Discogs)",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10444582",
+          "doc": "discogs:wced1e18409602d56",
+          "citacao": "Data: 2011"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Concerto de lançamento no Teatro Académico de Gil Vicente, Coimbra, a 30 de setembro",
+      "data": "2011-09-30",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/cordis-2.html",
+          "doc": "gc-iv:2437711381869058567",
+          "citacao": "concerto-lançamento do CD CORDIS2 no TAGV - Coimbra no próximo dia 30 de Setembro, pelas 21.30h."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/cordis-2.html",
+          "doc": "gc-iv:5257858841926532335",
+          "citacao": "Foi um retumbante êxito o lançamento do Cordis 2 no Teatro Gil Vicente, em Coimbra, com Bruno Costa à guitarra e Paulo Figueiredo ao piano, com mais alguns amigos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Participaram no disco Luís Formiga (bateria), Luís Oliveira (contrabaixo) e Edjam (sax e flauta)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/bruno-costa-e-paulo-figueiredo-de-novo.html",
+          "doc": "gc-iv:8731496596313363141",
+          "citacao": "os músicos Luís Formiga (bateria), Luís Oliveira (contrabaixo) e Edjam (sax e flauta), todos eles participantes no novo CD CORDIS 2"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10444582",
+      "doc": "discogs:wced1e18409602d56",
+      "citacao": "Título: Cordis 2 - Piano E Guitarra Portuguesa Artistas: Cordis (2) Editora: Not On Label – none"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8121-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0155_03.mp3",
+  "titulo": "Samaritana — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8121",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0310.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/305/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:we80463a7e634c917",
+      "citacao": "Título: Samaritana ... Editora: Co. 8121 Referências: P301, 32584; 8121"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

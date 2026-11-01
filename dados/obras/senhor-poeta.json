@@ -1,0 +1,39 @@
+{
+  "id": "senhor-poeta",
+  "titulo": "Senhor Poeta",
+  "titulos_alternativos": [
+    "Meu amor é marinheiro"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [],
+  "ano": "1960",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Composta em 1960",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Senhor Poeta (1960)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "Senhor Poeta (Meu amor é marinheiro), música de José Afonso, quadra de Manuel Alegre, oitavas de António Barahona."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

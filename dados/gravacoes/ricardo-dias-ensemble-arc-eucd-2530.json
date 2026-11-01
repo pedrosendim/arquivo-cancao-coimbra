@@ -1,0 +1,165 @@
+{
+  "id": "ricardo-dias-ensemble-arc-eucd-2530",
+  "titulo": "Coimbra Fado",
+  "formato": "CD",
+  "editora": "ARC Music",
+  "referencia": "EUCD 2530",
+  "ano": "2014",
+  "local": "UK",
+  "interpretes": [
+    {
+      "pessoa": "ricardo-dias-ensemble",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "ni-ferreirinha",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Saudades De Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Sede E Morte",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Tenho Barcos, Tenho Remos",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Verdes Anos / Canto Do Amanhecer",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-4-apple-music"
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "Olhos Claros",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-5-apple-music"
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Balada De Outono",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-6-apple-music"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Dança",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-7-apple-music"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Homem So, Meu Irmao",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-8-apple-music"
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "Cançao De Embalar",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-9-apple-music"
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "Inquietaçao",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-10-apple-music"
+      ]
+    },
+    {
+      "n": 11,
+      "titulo": "Re Menor",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-11-apple-music"
+      ]
+    },
+    {
+      "n": 12,
+      "titulo": "E Alegre Se Fez Triste",
+      "obra": "",
+      "media": [
+        "ouvir-ricardo-dias-ensemble-arc-eucd-2530-12-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/evz6ARnfg70CX6xrVc_FpFUKYhB_5PoliJxS9t_Qf2Y/rs:fit/g:sm/q:90/h:341/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTQ5/MTUtMTQxMjQ0NzQy/OS05NDEyLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6154915",
+        "doc": "discogs:w0c9e708c7c468269",
+        "citacao": "Imagem (primary): https://i.discogs.com/evz6ARnfg70CX6xrVc_FpFUKYhB_5PoliJxS9t_Qf2Y/rs:fit/g:sm/q:90/h:341/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTQ5/MTUtMTQxMjQ0NzQy/OS05NDEyLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6154915",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Licenciado por Ricardo Dias (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6154915",
+          "doc": "discogs:w0c9e708c7c468269",
+          "citacao": "Licensed From Ricardo Dias"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6154915",
+      "doc": "discogs:w0c9e708c7c468269",
+      "citacao": "Editora: ARC Music – EUCD 2530"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+      "doc": "gc-v:6415702352396943019",
+      "citacao": "Temos um CD que está a ser distribuído por todo o mundo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

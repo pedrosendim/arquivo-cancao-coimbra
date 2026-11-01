@@ -1,0 +1,94 @@
+{
+  "id": "almeida-cruz-columbia-b-92",
+  "titulo": "Fado Hilário",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-92",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-92-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Caninha Verde",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-92-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Fado Hilário por Almeida Cruz, editora Columbia B-92 (Arquivo Sonoro do Museu do Fado)",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/607/almeida_cruz_fado_hilario",
+          "doc": "museu-do-fado:w2febe4cf4369289f",
+          "citacao": "Fado Hilário ... Almeida Cruz ... Editora: Co. B-92"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco Columbia «Caninha verde / Fado Hilário», circa 1912 (discografia do Dicionário Cravo Albin citada no post)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Caninha verde/Fado Hilário • Columbia • 78"
+        }
+      ],
+      "conflito": false,
+      "nota": "A lista está datada «[Circa 1912]» no post; o post coloca as gravações no Rio de Janeiro em 1908-1911 e em Lisboa em 1914."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/607/almeida_cruz_fado_hilario",
+      "doc": "museu-do-fado:w2febe4cf4369289f",
+      "citacao": "Fado Hilário ... Almeida Cruz ... Editora: Co. B-92"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Caninha verde/Fado Hilário • Columbia • 78"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/606/almeida_cruz_caninha_verde",
+      "doc": "museu-do-fado:w73da5a29d54ac046",
+      "citacao": "Título: Caninha Verde ... Editora: Co. B-92 Referências: 11831-1-4; B92"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

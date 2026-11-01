@@ -1,0 +1,437 @@
+{
+  "id": "goncalo-paredes",
+  "tipo": "pessoa",
+  "nome": "Gonçalo Paredes",
+  "nomes_alternativos": [
+    "Gonçalo Rodrigues Paredes"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+      "doc": "gc-v:5472433292246116899",
+      "citacao": "GONÇALO Rodrigues PAREDES, nasceu em Coimbra na Rua das Solas, pelas dez horas da manhã do dia 12 de Agosto de 1873, tendo sido baptizado na Igreja Paroquial de S. Bartolomeu"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+      "doc": "gc-v:5472433292246116899",
+      "citacao": "Em 1890, com 17 anos esteve matriculado no Liceu Central de Coimbra com o nº 83 e inscrito no ano lectivo de 1890/1891 nas disciplinas de Matemática, História e Desenho."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+      "doc": "gc-v:5472433292246116899",
+      "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+      "doc": "gc-v:5472433292246116899",
+      "citacao": "Foi contemporâneo de mestre José Eliseu (1872 - 1924) o que diz muito sobre esta geração de jovens compositores e músicos dos finais do século XIX. A peça instrumental “Valsa de Outros Tempos” de Gonçalo Paredes, com uma segunda parte de seu filho Artur Paredes datada de 1923, é ainda hoje uma relíquia no repertório da música de Coimbra"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+      "doc": "gc-v:5472433292246116899",
+      "citacao": "Gonçalo Paredes suicidou-se aos 41 anos, foi sepultado no dia 20 de Abril de 1915, tem o registo de enterramento no cemitério da Conchada, em Coimbra"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Gonçalo Rodrigues Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "GONÇALO Rodrigues PAREDES"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, Rua das Solas, 12 de agosto de 1873 (batizado na igreja de S. Bartolomeu)",
+      "data": "1873-08-12",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "GONÇALO Rodrigues PAREDES, nasceu em Coimbra na Rua das Solas, pelas dez horas da manhã do dia 12 de Agosto de 1873"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Apresentam-se pela primeira vez as datas correctas[3] de nascimento e falecimento"
+        }
+      ],
+      "conflito": true,
+      "nota": "Manuel Marques Inácio (2014), com base no registo de batismo (Arquivo da Universidade de Coimbra, PT/AUC/PAR/CBR19/002/0012)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1860",
+      "data": "1860",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "neto de Gonçalo Paredes (1860 – 1915) também ele guitarrista e compositor"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Gonçalo Paredes (1860 - 1915)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "tal como o foram Gonçalo Paredes (1860 – 1915)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de fevereiro de 2014 do mesmo autor, anterior à investigação publicada em abril de 2014. A mesma data (1860) surge nos posts de Manuel Marques Inácio sobre Augusto Hilário (janeiro de 2013) e Jaime de Abreu (abril de 2014), onde Gonçalo Paredes é dado como contemporâneo."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "c. 1875 (segundo Pedro Caldeira Cabral, 1999)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Na página 182, linha 30, refere “Mas foi com Gonçalo Paredes (ca. 1875 – ca. 1935)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Pedro Caldeira Cabral, Guitarra Portuguesa (Ediclube, 1999), citado em nota no post de 2014."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "? 1860 (segundo a Enciclopédia da Música em Portugal no Século XX)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "refere “Gonçalo Paredes (n ?, ? 1860; m. 1920) ou (c. 1875 – c. 1950) segundo Caldeira Cabral (1999).”"
+        }
+      ],
+      "conflito": true,
+      "nota": "Enciclopédia da Música em Portugal no Século XX, vol. L-P, citada em nota no post de 2014."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 18 de abril de 1915 (suicídio, aos 41 anos; sepultado no cemitério da Conchada a 20 de abril)",
+      "data": "1915-04-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Suicidou-se na sua cidade natal, a 18 de Abril de 1915[2]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-3-1979_111137772921198240.html",
+          "doc": "gc-i:111137772921198240",
+          "citacao": "o pai, Gonçalo Paredes, morreu em 1915"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/tomas-alcaide-carlos-paredes-jose.html",
+          "doc": "gc-v:7322378400071431857",
+          "citacao": "Gonçalo Paredes (1860 – 1915)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Data documentada na Gazeta de Coimbra n.º 390, de 21 de abril de 1915 (citada no post de 2014)."
+    },
+    {
+      "campo": "morte",
+      "valor": "c. 1935 / c. 1950 (segundo Pedro Caldeira Cabral, 1999)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Mas foi com Gonçalo Paredes (ca. 1875 – ca. 1935). Mas na página 238, linha 12, a propósito de Artur Paredes, diz-nos que “ … seu pai Gonçalo Rodrigues Paredes (ca. 1875 – ca. 1950)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Duas datas diferentes no mesmo livro de Caldeira Cabral, citadas em nota no post de 2014."
+    },
+    {
+      "campo": "morte",
+      "valor": "1920 (segundo a Enciclopédia da Música em Portugal no Século XX)",
+      "data": "1920",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes (n ?, ? 1860; m. 1920)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Data e circunstâncias por desvendar (2006); há quem fale em assassinato",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "A data e as circunstâncias da morte do pai do guitarrista, Gonçalo Paredes, continuam por desvendar. Há quem fale em assassinato, relato oral que nunca consegui confirmar."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de A. M. Nunes (2006), anterior à investigação de 2014."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu Central de Coimbra (anos letivos de 1890/1891 a 1893/1894)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Em 1890, com 17 anos esteve matriculado no Liceu Central de Coimbra com o nº 83"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Depois em 1893/1894, está inscrito com o nº 91 em Física e Filosofia."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Nunca esteve inscrito na Universidade de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Nunca esteve inscrito na Universidade de Coimbra. Foi no entanto difundido o erro sistemático relativo à sua “licenciatura na Universidade de Coimbra em 1912”"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formou-se na Universidade [de Coimbra] em 1912",
+      "data": "1912",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Seu pai – Gonçalo Rodrigues Paredes, que se formou na Universidade em 1912"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de José Niza (1999), transcrito em 2005. O post de 2014 (D8) considera-o um erro."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Terá aprendido a tocar com o pai, António Paredes (depoimento de Carlos Paredes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "segundo depoimentos de seu neto Carlos Paredes, seu avô terá aprendido a tocar com seu bisavô António Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": "Condicional na fonte."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário público; aspirante de Finanças",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "O pai, Gonçalo Paredes funcionário público"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Nos finais do ano 1914 Gonçalo Paredes, de profissão aspirante de Finanças"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista e compositor do final do século XIX e princípio do século XX",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "desta figura de guitarrista e compositor do final do século XIX princípio do século XX"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "filho de Gonçalo Paredes, um dos maiores guitarrista de Coimbra do seu tempo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Terá pertencido, com o irmão Manuel, à Troupe Musical Infante da Câmara (1891); informação não confirmada",
+      "data": "1891",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Refere-se que neste ano de 1891, Gonçalo e seu irmão Manuel, terão pertencido a uma Troupe Musical Infante da Câmara, formada nesse ano, em Coimbra. Não foi ainda possível averiguar sobre a fiabilidade desta informação"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor da 1.ª parte da «Valsa de Outros Tempos»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "A 1ª parte desta valsa é da autoria de Gonçalo Paredes, pai de Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Companheira Maria do Céu (n. 1872), mãe de Isabel (n. 1896) e de Artur (n. 1899); casou a 16 de janeiro de 1904 com Maria de Jesus Baptista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo casa depois a 16 de Janeiro de 1904, na situação de solteiro, com Maria de Jesus Baptista, já viúva de João Antunes do Vale."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Seus pais, António Rodrigues Paredes e Teresa Morgado, residentes na freguesia de S. Bartolomeu"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes, teve uma irmã mais velha de nome Maria, nascida em 1872 e um irmão mais novo Manuel Rodrigues Paredes, que veio a ser ajudante de notário em Coimbra, tendo sido também um guitarrista e compositor de nomeada."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "teresa-morgado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Seus pais, António Rodrigues Paredes e Teresa Morgado, residentes na freguesia de S. Bartolomeu"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "joaquim-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "sendo avós do lado paterno, Joaquim Rodrigues Paredes e Maria Teresa Silva"
+        }
+      ],
+      "nota": "Avô paterno."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "maria-teresa-silva",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "sendo avós do lado paterno, Joaquim Rodrigues Paredes e Maria Teresa Silva"
+        }
+      ],
+      "nota": "Avó paterna."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia (Manuel Marques Inácio, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "horacio-paulo-rey-colaco-menano",
+  "tipo": "pessoa",
+  "nome": "Horácio Paulo Rey Colaço Menano",
+  "nomes_alternativos": [
+    "Horácio Menano (filho)",
+    "Dr. Horácio Menano (filho)"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Médico no Instituto Gulbenkian de Ciência",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "O filho mais velho, Horácio Paulo Rey Colaço Menano, seguiu as pisadas do pai, e veio a ser médico no Instituto Gulbenkian da Ciência"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "horacio-paulo-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "alice-schemidt-lafourcade-rey-colaco",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

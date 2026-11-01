@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-113",
+  "titulo": "Jovens sereias / Fado da Noite",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-113",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Jovens sereias",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-113-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Noite",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-113-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Jovens sereias», por Almeida Cruz — etiqueta: «Jovens Sereias  / Canção Portugueza - Popular  / Almeida Cruz e coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/630/almeida_cruz_jovens_sereias",
+          "doc": "museu-do-fado:wd4a56c002c772d81",
+          "citacao": "Título: Jovens sereias ... Editora: Co.B-113 Referências: 11838-1-1; B113 ... Etiqueta: Jovens Sereias  / Canção Portugueza - Popular  / Almeida Cruz e coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Jovens sereias, Columbia B-113, 11838, valsa popular de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Jovens sereias, Columbia B-113, 11838, valsa popular de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Noite», por Almeida Cruz — etiqueta: «Fado da Noite / Fado - A. Cruz / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/631/almeida_cruz_fado_da_noite",
+          "doc": "museu-do-fado:w546a320fc98123c2",
+          "citacao": "Título: Fado da Noite ... Editora: Co.B-113 Referências: 11882-1-2; B113 ... Etiqueta: Fado da Noite / Fado - A. Cruz / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado da Noite, Columbia B-113, 11882, música de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado da Noite, Columbia B-113, 11882, música de Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/630/almeida_cruz_jovens_sereias",
+      "doc": "museu-do-fado:wd4a56c002c772d81",
+      "citacao": "Título: Jovens sereias ... Editora: Co.B-113 Referências: 11838-1-1; B113"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Jovens sereias, Columbia B-113, 11838, valsa popular de Coimbra"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/631/almeida_cruz_fado_da_noite",
+      "doc": "museu-do-fado:w546a320fc98123c2",
+      "citacao": "Título: Fado da Noite ... Editora: Co.B-113 Referências: 11882-1-2; B113"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado da Noite, Columbia B-113, 11882, música de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

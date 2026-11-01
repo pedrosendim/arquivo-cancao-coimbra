@@ -1,0 +1,162 @@
+{
+  "id": "conjunto-universitario-de-guitarras-orfeu-atep-6218",
+  "titulo": "Fados (Conjunto Universitário de Guitarras)",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6218",
+  "ano": "1966",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "conjunto-universitario-de-guitarras",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "nuno-morgado",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "jose-carlos-agrelos",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-botelho-chaves",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "eduardo-beirao-reis",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Sugestão",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "O Teu Olhar",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Canção da Beira",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Cativeiro",
+      "obra": "",
+      "media": ["ouvir-conjunto-universitario-de-guitarras-orfeu-atep-6218-4-soundcloud"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/FAVUz2K7FTlBe8HE4dBCgJoXlRH-Z3ziBxS-p2QMHE8/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDE3LTE3MjA4MTU4/MzgtMTM2MS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/31205017",
+        "doc": "discogs:wfbedbe24824c99cc",
+        "citacao": "Imagem (secondary): https://i.discogs.com/FAVUz2K7FTlBe8HE4dBCgJoXlRH-Z3ziBxS-p2QMHE8/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDE3LTE3MjA4MTU4/MzgtMTM2MS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/31205017",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/31205017",
+          "doc": "discogs:wfbedbe24824c99cc",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/31205017",
+          "doc": "discogs:wfbedbe24824c99cc",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1966 (Discogs)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/31205017",
+          "doc": "discogs:wfbedbe24824c99cc",
+          "citacao": "Data: 1966"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarras de Coimbra: José Carlos Agrelos/Manuel Botelho Chaves; viola: Eduardo Beirão Reis (blogue)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "acompanhado por José Carlos Agrelos/Manuel Botelho Chaves (guitarras de Coimbra) e Eduardo Beirão Reis (v). Trechos"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs credita os três como «Acoustic Guitar»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Beirão Reis, José Carlos Agrelos e Manuel Botelho Chaves como «Acoustic Guitar»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/31205017",
+          "doc": "discogs:wfbedbe24824c99cc",
+          "citacao": "Acoustic Guitar – Beirão Reis Acoustic Guitar – José Carlos Agrelos Acoustic Guitar – Manuel Botelho Chaves Vocals – Nuno Morgado"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica José Carlos Agrelos e Manuel Botelho Chaves em guitarras de Coimbra e Eduardo Beirão Reis na viola."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/31205017",
+      "doc": "discogs:wfbedbe24824c99cc",
+      "citacao": "Editora: Orfeu – ATEP 6218"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+      "doc": "gc-v:317687412411170614",
+      "citacao": "EP Conjunto Universitário de Guitarras. Porto: Orfeu ATEP 6218, s/d [ca. 1966], canta Nuno Morgado, acompanhado por José Carlos Agrelos/Manuel Botelho Chaves (guitarras de Coimbra) e Eduardo Beirão Reis (v)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-109-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0315_30.mp3",
+  "titulo": "Fado dos Cegos — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-109",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0630.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/625/almeida_cruz_fado_dos_cegos",
+      "doc": "museu-do-fado:wddc17777d1113fbc",
+      "citacao": "Título: Fado dos Cegos ... Editora: Co. B-109 Referências: 11869-1-2; B109"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,518 @@
+{
+  "id": "joaquim-gracio",
+  "tipo": "pessoa",
+  "nome": "Joaquim Grácio",
+  "nomes_alternativos": [
+    "Kim Grácio",
+    "Quim Grácio",
+    "Joaquim (Kim) Grácio",
+    "Joachim Gracio"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html",
+      "doc": "gc-i:111616622126028074",
+      "citacao": "Joaquim (Kim) Grácio, irmão de João Pedro Grácio Júnior, segue também as pisadas do pai, na construção de instrumentos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Sem abandonar a oficina paterna, Joaquim Grácio tomou de renda uma lojinha com balcão na rua do Salvador, em plena alta de Coimbra, onde passava alguns dias com a porta aberta."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Foi a partir deste ponto que Artur Paredes iniciou uma aproximação a Joaquim Grácio, mostrando-lhe uma das suas guitarras adquiridas a Raul Simões que obviamente serviu de modelo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+      "doc": "gc-i:113881386756994797",
+      "citacao": "o instrumento foi largamente restaurado e reconstruído em 1931 por Joaquim Grácio, confirmando cronologicamente aquilo que temos insistentemente escrito sobre o assunto quanto à parceria Artur Paredes/Joaquim Grácio nas décadas de 1930-1940"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Entre a lojinha de Coimbra, a casa de família em Leiria e a guitarraria estabelecida em Lisboa, Joaquim Grácio foi tentando satisfazer os pedidos do persistente Artur Paredes. Alargamento do diapasão, robustecimento dos trastos (os famosos T), modificação das cabeças das tarraxas (remate em flecha), aumento da caixa harmónica (diâmetro e altura)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+      "doc": "gc-i:1259402797223755712",
+      "citacao": "A partir desta “filial” conimbricense Artur Paredes desenvolve duradouros contactos com o construtor Kim Grácio, os quais se prolongarão até à entrada da década de 1950."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html",
+      "doc": "gc-i:111616622126028074",
+      "citacao": "Emigrou para os Estados Unidos da América, onde trabalhou vários anos. Regressado a Portugal depois da reforma, manteve-se ainda activo até ao fim da vida."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbrão, 21 de maio de 1912",
+      "data": "1912-05-21",
+      "local": "Coimbrão (Leiria)",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu em Coimbrão no dia 21 de Maio de 1912."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "brothers “Kim” Grácio (1912-1994) and João Pedro Grácio Jr. (1903-1967)"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Nuno Cristo (2014) e o site Fernandez Music dão só o ano."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Coimbrão",
+      "data": "",
+      "local": "Coimbrão (Leiria)",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu em Coimbrão no dia 21 de Maio de 1912."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1994",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "brothers “Kim” Grácio (1912-1994) and João Pedro Grácio Jr. (1903-1967)"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou em Lisboa com Laura Augusta; 3 filhos (2 raparigas e 1 rapaz), nenhum seguiu a arte",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "casou em Lisboa com Laura Augusta de quem teve 3 filhos, 2 raparigas e 1 rapaz. Nenhum dos filhos seguiu a arte de construir instrumentos musicais."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não nomeia os filhos."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Estados Unidos, a partir de 1961, durante 15 anos; aperfeiçoou a construção de violinos e arcos",
+      "data": "1961",
+      "local": "Estados Unidos",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Foi para os Estados Unidos em 1961 onde viveu durante 15 anos, aprendendo e aperfeiçoando a técnica de construção de violinos e respectivos arcos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Área de Chicago (EUA), durante alguns anos, onde fazia reparações de violinos",
+      "data": "",
+      "local": "Chicago (EUA)",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I have been told by Luis Penedo who knew Kim Gracio that Kim had immigrated to the Chicago area for a number of years where he worked doing violin repairs."
+        }
+      ],
+      "conflito": false,
+      "nota": "Informação de Luís Penedo, transmitida por Ron Fernandez."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Rótulo de uma guitarra de Lisboa sua com o endereço da oficina: Rua 3, Bairro Santa Engrácia 37 r/c. Dt.º, Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra.The guitarra label shows his shop at: Rua 3, Bairro Santa Engrácia 37 r/c. Dt.º, Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do instrumento: guitarra-kim-gracio-colecao-fernandez."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez, um dos construtores de guitarras portuguesas mais aclamados, também conhecido como «Joachim Gracio»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Gracio was one of the most highly acclaimed makers of Portuguese guitars, he was a member of the Graçio instrument making family. He is also known as Joachim Gracio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Loja com balcão na Rua do Salvador, alta de Coimbra (finais dos anos 20)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Joaquim Grácio tomou de renda uma lojinha com balcão na rua do Salvador, em plena alta de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Em finais dos anos 20 havia membros da Família Grácio que tinham na Alta de Coimbra uma pequena oficina de venda ao público, mais precisamente na Rua do S. Salvador"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina em Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+          "doc": "gc-i:111868810968441528",
+          "citacao": "Provém da oficina Lisboeta de Kim Grácio"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "a guitarraria estabelecida em Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaurou e reconstruiu em 1931 a guitarra que Artur Paredes usara nas gravações de 1927",
+      "data": "1931",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "o instrumento foi largamente restaurado e reconstruído em 1931 por Joaquim Grácio"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Um sinal mais recuado deste encontro entre Artur Paredes e Kim Grácio teve lugar em 1931, quando o construtor reformou substancialmente a guitarra que o tocador usara nas gravações de 1927 (depositada no Museu Académico em 1960)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1935 já tinha aplicado elementos decorativos (remate da cabeça em lágrima, sanefas em plástico) que Raul Simões rejeitara",
+      "data": "1935",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Em 1935 Joaquim Grácio já tinha aplicado dois elementos decorativos que Raul Simões rejeitara ... O remate da cabeça passa de uma elegante oval perfeita para uma lágrima de aresta viva, pouco espessa ... As elegantes sanefas em madeira são agora em plástico branco"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Novo modelo de guitarra de Coimbra desenhado e construído com Artur Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/jos-maria-amaral-1919-2001-executante.html",
+          "doc": "gc-i:113486160111655416",
+          "citacao": "Amaral dedilha uma Guitarra de Coimbra da primeira geração do novo modelo desenhado e construído por Joaquim Grácio/Artur Paredes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "(idealizada por Artur Paredes/Joaquim Grácio, e não por João Pedro Grácio Júnior, como Gilberto Grácio gosta de contar)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver em joao-pedro-gracio-junior a versão que atribui a reforma à dupla Arthur Paredes / João Pedro Grácio Júnior."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Aplicação experimental da «alma» (como no violino) em guitarras do novo modelo, na segunda metade da década de 1940",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "dispositivo que Artur Paredes e Kim Grácio chegaram a aplicar experimentalmente em guitarras do novo modelo, na segunda metade da década de 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Estados Unidos da América (emigrado, vários anos); regressou a Portugal depois da reforma",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html",
+          "doc": "gc-i:111616622126028074",
+          "citacao": "Emigrou para os Estados Unidos da América, onde trabalhou vários anos. Regressado a Portugal depois da reforma"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As guitarras do Coimbra Quintet (António Portugal, Jorge Godinho), adquiridas c. 1954-1955, seriam da oficina de Quim Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/02/le-fado-des-etudiants.html",
+          "doc": "gc-v:7954284963438252272",
+          "citacao": "As guitarras, adquiridas cerca 1954-1955 seriam da oficina de Quim Grácio."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Não se sabe se as guitarras de António Portugal e Jorge Godinho seriam ambas da oficina de João Pedro Grácio Júnior ou se uma delas seria de Kim Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Não se sabe ao certo se ambas seriam da oficina de João Pedro Grácio Júnior, ou se uma delas seria da mão de Kim Grácio, atendendo a que os dois irmãos fabricavam nessa época o mesmo modelo, pese embora com ligeiras variantes."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Coimbra de Jorge Godinho (grupo de 1961) parece ser da sua oficina; perdeu-se, atacada pelo caruncho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/ate-sempre-presidente.html",
+          "doc": "gc-v:8507682347854841055",
+          "citacao": "A guitarra de Coimbra de Jorge Godinho parece ser proveniente da oficina de Joaquim Grácio. Segundo informes da Dra. Ana Maria Lopes, este cordofone pereceu, atacado pelo caruncho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Coimbra construída por Kim Grácio que pertenceu a António Portugal",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Simão Mota usa uma guitarra de Coimbra construída por Kim Grácio que pertenceu ao guitarrista e compositor António Portugal."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/bloco-de-notas-15-1981.html",
+          "doc": "gc-i:111970388104634720",
+          "citacao": "Toquei com a guitarra de António Portugal, de construção Kim Grácio"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois posts (2005 e 2023) não dizem expressamente que se trata do mesmo instrumento."
+    },
+    {
+      "campo": "outro",
+      "valor": "Não é tratado no livro Tempo de uma vida, de Gilberto Marques Grácio (2021)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "Não se fala de outro muito importante Grácio, Joaquim."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "joao-pedro-gracio-junior",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html",
+          "doc": "gc-i:111616622126028074",
+          "citacao": "Joaquim (Kim) Grácio, irmão de João Pedro Grácio Júnior"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "quando Joaquim Grácio e seu irmão João Pedro Grácio J. começaram a prestar colaboração a Arthur Paredes"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "worked in close collaboration with two Grácio brothers, first with “Kim” and then with João Pedro Jr."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "margarida-de-jesus",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Kim%20Grcio.jpg",
+      "legenda": "Joaquim (Kim) Grácio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html",
+          "doc": "gc-i:111616622126028074",
+          "citacao": "Foto do site de José Lúcio."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Post com fotografia (2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/joaquim-kim-grcio-irmo-de-joo-pedro.html"
+    },
+    {
+      "rotulo": "A Canção de Coimbra no século XIX (1840-1900), 2.ª parte",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

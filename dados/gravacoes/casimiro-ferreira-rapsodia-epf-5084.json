@@ -1,0 +1,162 @@
+{
+  "id": "casimiro-ferreira-rapsodia-epf-5084",
+  "titulo": "Fado Corrido de Coimbra",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.084",
+  "ano": "1960",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "casimiro-ferreira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "paulo-alao",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "O Meu Menino",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Nuvens Brancas",
+      "obra": "",
+      "media": ["ouvir-casimiro-ferreira-rapsodia-epf-5084-2-youtube"]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado Corrido de Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Ré Menor",
+      "obra": "",
+      "media": ["ouvir-casimiro-ferreira-rapsodia-epf-5084-4-youtube"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/c0pYr3lm_yes-INPbv0wh3lKK0SEarv4uBxH6lw-CXg/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/MzY5LTE1MTc0MzEw/NzMtMzI0My5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/11500369",
+        "doc": "discogs:w9473cf8f99215fe7",
+        "citacao": "Imagem (secondary): https://i.discogs.com/c0pYr3lm_yes-INPbv0wh3lKK0SEarv4uBxH6lw-CXg/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/MzY5LTE1MTc0MzEw/NzMtMzI0My5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/11500369",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11500369",
+          "doc": "discogs:w9473cf8f99215fe7",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11500369",
+          "doc": "discogs:w9473cf8f99215fe7",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1960 (Discogs)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11500369",
+          "doc": "discogs:w9473cf8f99215fe7",
+          "citacao": "Data: 1960"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Parte instrumental: António Portugal e Eduardo Melo (guitarras), Manuel Pepe e Paulo Alão (violas de cordas de nylon)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "O registo de Casimiro Ferreira, da primeira metade de sessenta, foi editado no EPF 5.084 Rapsódia, com o título Fado Corrido de Coimbra. Asseguraram a parte instrumental António Portugal e Eduardo Melo (guitarras), Manuel Pepe e Paulo Alão (violas de cordas de nylon)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Variações em Ré Menor: versão «miscelânica» de António Portugal das n.º 1 e n.º 3 de Flávio Rodrigues",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "lado 2, faixa 2) gravará uma versão ‘miscelânica’ das n.º 1 e n.º 3"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11500369",
+      "doc": "discogs:w9473cf8f99215fe7",
+      "citacao": "Editora: Rapsódia – EPF 5.084"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+      "doc": "gc-i:8566259942871870690",
+      "citacao": "Casimiro Ferreira gravou este tema em 1960, acompanhado por António Portugal/Eduardo de Melo (gg) e Manuel Pepe/Paulo Alão (vv): EP “Fado Corrido de Coimbra”, Rapsódia EPF 5.084, ano de 1960, faixa nº 1."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "abel-augusto-ferreira",
+  "tipo": "pessoa",
+  "nome": "Abel Augusto Ferreira",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Formou-se em Direito, em Coimbra, em 1903",
+      "data": "1903",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "o irmão mais velho, Abel Augusto Ferreira, que viria a formar-se em Direito, em Coimbra, em 1903"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Padrinho de batismo do irmão Manassés",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "sendo seu padrinho o irmão mais velho, Abel Augusto Ferreira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "manasses-de-lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "sendo seu padrinho o irmão mais velho, Abel Augusto Ferreira"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

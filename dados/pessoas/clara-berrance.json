@@ -1,0 +1,27 @@
+{
+  "id": "clara-berrance",
+  "tipo": "pessoa",
+  "nome": "Clara Berrance",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "egas-berrance",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/egas-berrance.html",
+          "doc": "gc-v:5475879109536332395",
+          "citacao": "viveu na Figueira da Foz, com a Sra. D. Helena Berrance e a filha D. Clara Berrance."
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe. Prestou informações para o post (agradecimentos)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

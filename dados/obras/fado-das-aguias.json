@@ -1,0 +1,147 @@
+{
+  "id": "fado-das-aguias",
+  "titulo": "Fado das Águias",
+  "titulos_alternativos": [
+    "Ó águia que vais tão alta",
+    "Fado das Lágrimas"
+  ],
+  "genero": "fado",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Atribuído a José Afonso (letra e música) na reedição «De Capa e Batina»",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Fado das Águias\n\nLetra e música de José Afonso"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os blogues e a AJA consideram esta atribuição um erro."
+    },
+    {
+      "campo": "outro",
+      "valor": "Lição conimbricense do Fado das Lágrimas, de João Salustiano Monteiro (João Black); na lição de José Afonso, 1.ª estrofe de Camilo Castelo Branco e 2.ª de Fernando Lemos Quintela",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Refere José Afonso como autor. Menção errada de título e de autorias. Lição conimbricense do Fado das Lágrimas, da autoria de João Salustiano Monteiro (cf. Fado João Black). Na lição José Afonso, 1.ª estrofe de Camilo Castelo Branco, 2.ª estrofe de Fernando Lemos Quintela."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música atribuível a Manassés de Lacerda (Fado das Lágrimas)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+          "doc": "gc-iv:3869478767060763956",
+          "citacao": "FADO DAS LÁGRIMAS (vulgo Fado das Águias)\n\nMúsica: atribuível a Manassés de Lacerda Ferreira Botelho (1885-1962)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Edição de 17.6.2012, depois revista pelo próprio blogue (ver facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Música: variante do Fado João Black, cujo autor é João Black",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/11/fado-das-lagrimas.html",
+          "doc": "gc-iv:7077305466542466041",
+          "citacao": "fica demonstrado que a música do Fado das Lágrimas deve ser considerada uma variante do Fado João Black, cujo autor é o próprio João Black."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música original de João Black, adaptada por Manassés de Lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Fado das Águias, menciona erradamente José Afonso como autor. Música original de João S. Monteiro, vulgo João Black, adaptada por Manassés de Lacerda em período anterior ao nascimento de José Afonso."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra: 1.ª quadra de Camilo Castelo Branco; 2.ª quadra de Fernando Quintela (1946), feita a pedido de Augusto Camacho",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/excerto-de-uma-comunicacao-proferida-em-09nov03-em-coimbra-no-seminario-a-cancao-de-coimbra-e-os-seus-cultores-por-jose-anjos-de-carvalho/",
+          "doc": "aja:wd4993fc63a078825",
+          "citacao": "A letra deste fado não é de José Afonso. A 1ª quadra é de Camilo de Castelo Branco"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/excerto-de-uma-comunicacao-proferida-em-09nov03-em-coimbra-no-seminario-a-cancao-de-coimbra-e-os-seus-cultores-por-jose-anjos-de-carvalho/",
+          "doc": "aja:wd4993fc63a078825",
+          "citacao": "A 2ª quadra deste fado data de 1946, é da autoria de Fernando Quintela, o Poeta Quintela"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "José Afonso aprendeu a música com Augusto Camacho Vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "A música da obra designada na gravação como Fado das Águias fora aprendida por José Afonso com Augusto Camacho Vieira, sendo à época desconhecida a origem e autoria desta composição."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A atribuição a José Afonso é um erro",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/60-anos-depois-no-pedra-nova/",
+          "doc": "aja:w86b0401cb71bb8ca",
+          "citacao": "“Fado das Águias”,cuja letra e música era atribuída a José Afonso, um erro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "FPD 219 – FADO DAS ÁGUIAS (Ó águia que vais tão alta)= Fado das Lágrimas."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/excerto-de-uma-comunicacao-proferida-em-09nov03-em-coimbra-no-seminario-a-cancao-de-coimbra-e-os-seus-cultores-por-jose-anjos-de-carvalho/",
+      "doc": "aja:wd4993fc63a078825",
+      "citacao": "FADO DAS ÁGUIAS (Ó águia que vais tão alta)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

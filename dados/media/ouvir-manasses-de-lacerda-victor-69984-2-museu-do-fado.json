@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-victor-69984-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0478_39.mp3",
+  "titulo": "Fado Ciumento — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-victor-69984",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0952.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/941/manasses_de_lacerda_fado_ciumento",
+      "doc": "museu-do-fado:wb51def9ec97b7bd3",
+      "citacao": "Título: Fado Ciumento ... Editora: Vi.69984, Referências: 17685u, A69984B[coroa]; 69984-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

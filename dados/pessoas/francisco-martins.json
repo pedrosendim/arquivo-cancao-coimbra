@@ -1,0 +1,43 @@
+{
+  "id": "francisco-martins",
+  "tipo": "pessoa",
+  "nome": "Francisco Martins",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "2.ª guitarra no EP Fados de Coimbra de António Bernardino (Orfeu ATEP 6184)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "-EP “Fados de Coimbra”, Porto, Orfeu, ATEP 6184, ano de 1964, canta António Bernardino acompanhado por António Portugal/Francisco Martins (gg) e Jorge Moutinho (v);"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTcDO986BHOyhkN5RC1av3EJl23QyPdcX-Zpa9G0CXgI67zSqNK2NGcvTgetTWr5QVMxh6VzSiy0P3WeI5iYE7lU5LgVbDAr9uWLpTjd3WH-WGgysa0nd0_fNpv8_Nj1pXrHC1-n8keYBs/s1600/FMartins.jpg",
+      "legenda": "Francisco Martins: única imagem da notícia do seu falecimento no blogue (2014), sem legenda própria",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/francisco-martins.html",
+          "doc": "gc-v:8532648174551460144",
+          "citacao": "Morreu Francisco Martins, um dos últimos grandes intérpretes e criador da Guitarra e do Fado de Coimbra."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

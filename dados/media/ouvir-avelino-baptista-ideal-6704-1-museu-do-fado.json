@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-ideal-6704-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0107_33.mp3",
+  "titulo": "Fado da Aurora — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-ideal-6704",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0216.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/209/avelino_baptista_fado_da_aurora",
+      "doc": "museu-do-fado:w2797d85884ce9052",
+      "citacao": "Título: Fado da Aurora ... Editora: Id.Gr.6704 Referências: Disco “Ideal” Grande - Beka-Record, 6704; 6704"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

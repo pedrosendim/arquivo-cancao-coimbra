@@ -1,0 +1,112 @@
+{
+  "id": "grupo-de-manuel-branquinho",
+  "tipo": "grupo",
+  "nome": "Grupo de Manuel Branquinho",
+  "nomes_alternativos": [
+    "grupo de Manuel Branquinho"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/a-orquestra-academica-ligeira-da-tauc.html",
+      "doc": "gc-v:4123726652008074155",
+      "citacao": "O primeiro grupo a dar colaboração à OLA foi o de Manuel Branquinho: Manuel Branquinho (1º gC), António de Almeida Santos (2º gC), Alfredo Caseiro da Rocha (v), garantindo as vozes Anarolino Pacheco Fernandes, Alcides Santos e o próprio Manuel Duarte Branquinho."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+      "doc": "gc-v:1324171695999053016",
+      "citacao": "Vídeo da homenagem ao cantor Manassés de Lacerda em Sabrosa (09.11.1968)\n\nHomenagem pública promovida pela Associação dos Antigos Estudantes de Coimbra no Brasil na casa onde nasceu o cantor Manassés de Lacerda, Sabrosa."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+      "doc": "gc-v:1324171695999053016",
+      "citacao": "Atuou o GRUPO DE MANUEL BRANQUINHO, constituído por Manuel Branquinho (1º gC e voz), Gabriel Ferreira (2º gC) e Jorge Gomes (v)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "primeiro grupo a colaborar com a Orquestra Ligeira Académica (OLA) da TAUC (1948-1956): Manuel Branquinho e António de Almeida Santos (guitarras), Alfredo Caseiro da Rocha (viola), vozes de Anarolino Pacheco Fernandes, Alcides Santos e Manuel Branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/a-orquestra-academica-ligeira-da-tauc.html",
+          "doc": "gc-v:4123726652008074155",
+          "citacao": "O primeiro grupo a dar colaboração à OLA foi o de Manuel Branquinho: Manuel Branquinho (1º gC), António de Almeida Santos (2º gC), Alfredo Caseiro da Rocha (v), garantindo as vozes Anarolino Pacheco Fernandes, Alcides Santos e o próprio Manuel Duarte Branquinho."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/a-orquestra-academica-ligeira-da-tauc.html",
+          "doc": "gc-v:4123726652008074155",
+          "citacao": "Nas digressões fora de Coimbra, a OLA era acompanhada por formações de guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "homenagem a Manassés de Lacerda em Sabrosa, 9 de novembro de 1968 (Associação dos Antigos Estudantes de Coimbra no Brasil): Manuel Branquinho (1.ª guitarra e voz), Gabriel Ferreira (2.ª guitarra), Jorge Gomes (viola); filmado pela RTP",
+      "data": "1968-11-09",
+      "local": "Sabrosa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "Vídeo da homenagem ao cantor Manassés de Lacerda em Sabrosa (09.11.1968)\n\nHomenagem pública promovida pela Associação dos Antigos Estudantes de Coimbra no Brasil na casa onde nasceu o cantor Manassés de Lacerda, Sabrosa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "Atuou o GRUPO DE MANUEL BRANQUINHO, constituído por Manuel Branquinho (1º gC e voz), Gabriel Ferreira (2º gC) e Jorge Gomes (v)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "O Dr. Jorge Serra confirma Gabriel Ferreira como o 2º guitarra presente no filme."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "homenagem a Lucas Junot promovida pela Associação dos Antigos Estudantes de Coimbra, 25 de junho de 1970, com Jorge Gomes",
+      "data": "1970-06-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "No dia 25 de Junho de 1970 a Associação dos Antigos Estudantes de Coimbra promoveu uma sentida homenagem a este importante cantor da Escola Ultra-Romântica"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "tendo actuado Manuel Julião (voz e viola), o grupo de Manuel Branquinho (com Jorge Gomes) e o Grupo de Hermínio Menino."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "RTP Arquivos: Homenagem a Manassés de Lacerda Botelho (1968)",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manasses-de-lacerda-botelho/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

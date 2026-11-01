@@ -1,0 +1,53 @@
+{
+  "id": "duarte-silva",
+  "tipo": "pessoa",
+  "nome": "Duarte Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+      "doc": "gc-v:3594199943360181960",
+      "citacao": "FADO [SERENATA DO] HYLARIO, música de Augusto Hylario (omisso), gravado pelo Senhor Duarte Silva, «portuguese baritono», cidade do Porto / Portugal, Gramophone 62867, novembro / dezembro de 1900 (omisso)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravou o «Fado [Serenata do] Hylario» no Porto, novembro/dezembro de 1900 (Gramophone 62867), o mais antigo disco de massa conhecido com música relacionada com Coimbra",
+      "data": "1900",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "gravado pelo Senhor Duarte Silva, «portuguese baritono», cidade do Porto / Portugal, Gramophone 62867, novembro / dezembro de 1900 (omisso)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Barítono («portuguese baritono», na etiqueta do disco de 1900)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "gravado pelo Senhor Duarte Silva, «portuguese baritono»"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

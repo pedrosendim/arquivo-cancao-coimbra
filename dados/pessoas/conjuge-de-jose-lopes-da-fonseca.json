@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-jose-lopes-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "Mulher de José Lopes da Fonseca (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/cantavam-e-tocavam-em-coimbra-em-1930.html",
+          "doc": "gc-v:7208676335184441888",
+          "citacao": "José Lopes da Fonseca, de 47 anos de idade, casado, contínuo na escola Normal, residente na Rua do Salvador."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Estado civil «casado» no Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931, citado no post. As fontes não dizem quem é a mãe dos filhos de José Trego."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

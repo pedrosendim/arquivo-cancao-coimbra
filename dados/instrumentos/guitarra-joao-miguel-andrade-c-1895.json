@@ -1,0 +1,77 @@
+{
+  "id": "guitarra-joao-miguel-andrade-c-1895",
+  "designacao": "Guitarra de Lisboa de João Miguel Andrade, Lisboa, c. 1895 (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "joao-miguel-andrade",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Feita em Lisboa por volta de 1895; guitarra de tamanho de bandolim, de corpo muito mais estreito do que as outras da coleção",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Joao Manuel Andrade Portuguese guitar, made in Lisbon around 1895. Many of these mandolin size guitarras were imported into England. Notice how the shape of the body is different than the other instrument on this page--the body is much narrower."
+        }
+      ],
+      "conflito": false,
+      "nota": "A página principal grafa o construtor «Joao Manuel Andrade» (ver a divergência na ficha joao-miguel-andrade). Outra página do site mostra uma guitarra Andrade da coleção (ficha guitarra-joao-miguel-andrade-colecao-fernandez); as fontes não dizem se é o mesmo instrumento."
+    },
+    {
+      "campo": "outro",
+      "valor": "Som mais próximo do bandolim do que da guitarra portuguesa moderna",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The sound of this instrument is more liked a mandolin than like the modern Portuguese guitar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/JMAndradeFace.jpg",
+      "legenda": "Above: Joao Manuel Andrade, Lisboa, ca. 1895.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Joao Manuel Andrade, Lisboa, ca. 1895."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/JMAndradeBack.jpg",
+      "legenda": "Above: Joao Manuel Andrade, Lisboa, ca. 1895.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Joao Manuel Andrade, Lisboa, ca. 1895."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Joao Manuel Andrade Portuguese guitar, made in Lisbon around 1895."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

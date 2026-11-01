@@ -1,0 +1,82 @@
+{
+  "id": "avelino-baptista-gramophone-62833",
+  "titulo": "Fado Hilario",
+  "formato": "disco de massa",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "62833",
+  "ano": "",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilario",
+      "obra": "",
+      "media": [
+        "avelino-baptista-fado-hilario-soundcloud"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMmob1aBAJcf4yBAXYzT7WnnZOX8t9gHdXRfgqRGCfa-sJvXnGK-yfiOItum031ZNaAPlrXsJZc-i3nRewc6lgMg_Em-oue5inH5WD0EMdMRqAkpIRZyG5JLgjhca8X-L6KJp7-YFGOrQ-/s1600/Fado+Hil%25C3%25A1rio+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+        "doc": "gc-v:1945448219212296869",
+        "citacao": "FADO HILARIO (sic!), cantado pelo Snr. Avelino Baptista. Lisboa: Disque Pour Gramophone 62833"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Lisboa, sem data [ca. 1903]; sem especificação de autorias",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "FADO HILARIO (sic!), cantado pelo Snr. Avelino Baptista. Lisboa: Disque Pour Gramophone 62833, s/d. [ca. 1903]. Sem especificação de autorias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Lição que junta o Fado Serenata do Hylario (1894), o Último Fado (1895) e de novo o Fado Serenata, diferente da versão de Manassés de Lacerda / António Menano / Luiz Goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "Músicas de Augusto Hylario da Costa Alves. Em rigor, lição insólita e pouco conhecida que junta numa única peça o Fado Serenata do Hilário (1894), o Último Fado [do Hylario] (1895), e para finalizar, o Fado Serenata do Hylario (1894), apresentando uma versão diferente daquela a que nos habituaram Manassés de Lacerda/António Menano/Luiz Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+      "doc": "gc-v:1945448219212296869",
+      "citacao": "FADO HILARIO (sic!), cantado pelo Snr. Avelino Baptista. Lisboa: Disque Pour Gramophone 62833"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

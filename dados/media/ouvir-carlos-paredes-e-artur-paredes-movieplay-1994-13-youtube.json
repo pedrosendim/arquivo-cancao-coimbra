@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-13-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=UApsNAWXBdE",
+  "titulo": "Balada do Mondego — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes"
+  ],
+  "obras": [
+    "sonhos-dourados"
+  ],
+  "gravacao": "carlos-paredes-e-artur-paredes-movieplay-1994",
+  "miniatura": "https://i.ytimg.com/vi/UApsNAWXBdE/hqdefault.jpg",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=UApsNAWXBdE"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: vídeo «Artur Paredes - \"Balada do Mondego\" do disco \"Carlos Paredes / Artur Paredes\" (LP 1972)» (canal DoTempoDosSonhos).",
+  "estado_revisao": "rascunho"
+}

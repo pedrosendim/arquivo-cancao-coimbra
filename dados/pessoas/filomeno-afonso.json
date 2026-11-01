@@ -1,0 +1,48 @@
+{
+  "id": "filomeno-afonso",
+  "tipo": "pessoa",
+  "nome": "Filomeno Afonso",
+  "nomes_alternativos": [
+    "Tio Filomeno"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Notário e presidente da Câmara Municipal de Belmonte",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "tio Filomeno Afonso, notário e presidente da Câmara Municipal de Belmonte"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tio-avô de José Manuel, filho de José Afonso, com quem este regressou de Moçambique em 1973",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "O filho mais velho, José Manuel, só voltará com o tio-avô Filomeno quando este regressar de vez a Portugal em 1973."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Tio-avô» não tem tipo de relação próprio."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "custodio-moreirinhas-filho",
+  "tipo": "pessoa",
+  "nome": "Custódio Moreirinhas",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "custodio-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
+        }
+      ],
+      "nota": "Homónimo do pai; o sufixo do identificador serve apenas para distinguir as fichas."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Custódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        }
+      ],
+      "nota": "viola; digressão a Macau e Hong Kong (2004)"
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "raizes-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Raízes de Coimbra",
+  "nomes_alternativos": [
+    "Grupo Raízes de Coimbra",
+    "Grupo de Fados e guitarradas Raízes de Coimbra",
+    "Grupo de Fados dos Antigos Tunos"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+      "doc": "gc-i:8430172402558970393",
+      "citacao": "Grupo \"Raízes de Coimbra\" a actuar em Barcouço, na passada terça-feira, conjuntamente com os Antigos Tunos da Universidade de Coimbra. Fazem parte deste grupo: Heitor Lopes e Mário Rovira no canto; Octávio Sérgio e Alcides Freixo nas guitarras; Humberto Matias na viola."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/blog-post_11.html",
+      "doc": "gc-i:1584308518897453935",
+      "citacao": "Actuação do grupo \"Raízes de Coimbra\" no àCapella, na quinta-feira passada. Grupo constituído por Luís Filipe, Alcides Freixo, Octávio Sérgio, Humberto Matias, nos instrumentos; Heitor Lopes e Mário Rovira nas vozes."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/encontros-internacionais-de-guitarra.html",
+      "doc": "gc-ii:1064019680887059335",
+      "citacao": "O grupo Raízes de Coimbra, nas fotos, da esquerda para a direita, constituído por Humberto Matias (v), Armando Luís de Carvalho Homem (v), Octávio Sérgio (g), José Ourives (g), Alcides Freixo (g) e Luís Filipe (v)."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-raizes-de-coimbra-na-grande-noite.html",
+      "doc": "gc-iv:5165778009861039048",
+      "citacao": "Cantores: Rui Lucas, Mário Rovira e Heitor Lopes; Carlos Carranca, José Henrique Dias e José Mesquita como convidados do ISEP. Violas: Armando Luís de Carvalho Homem, Rui Pato e Humberto Matias. Guitarras: Paulo Alexandre, Alcides Freixo e Octávio Sérgio."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/07/heitor-lopes-na-se-de-faro-em-15-de.html",
+      "doc": "gc-v:8071117840284049812",
+      "citacao": "Grupo Raízes de Coimbra com Rui Pato (v), Octávio Sérgio (g), Francisco Dias (g), Humberto Matias (v), Heitor Lopes (c), Mário Rovira (c) e Nuno Oliveira (c)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+      "doc": "gc-v:356613865380152505",
+      "citacao": "Alinhamento do grupo Raízes de Coimbra: Santarém, 4 de Julho de 2025 Tempo que não passa - Heitor Lopes Fado das minhas penas - Mário Rovira Variações em Lá M de António das Águas - Octávio Sérgio Branca Luz do Luar - Nuno Oliveira Teu nome - Heitor Lopes Aguarela Portuguesa - Paulo Alexandre Vira de Coimbra - Mário Rovira Meu menino, meu anjo - Nuno Oliveira Variações em Ré m de Carvalho Homem - Simão Mota"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Grupo de guitarra e canto de Coimbra que atua com os Antigos Tunos da Universidade de Coimbra",
+      "data": "2007-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+          "doc": "gc-i:8430172402558970393",
+          "citacao": "a actuar em Barcouço, na passada terça-feira, conjuntamente com os Antigos Tunos da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Grande Noite do Fado Académico, Alfândega do Porto",
+      "data": "2011-11",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-raizes-de-coimbra-na-grande-noite.html",
+          "doc": "gc-iv:5165778009861039048",
+          "citacao": "Grupo \"Raízes de Coimbra\" na Grande Noite do Fado Académico, no sábado passado, na Alfândega do Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sé de Faro (15 de junho)",
+      "data": "2013-06-15",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/heitor-lopes-na-se-de-faro-em-15-de.html",
+          "doc": "gc-v:8071117840284049812",
+          "citacao": "Heitor Lopes na Sé de Faro, em 15 de Junho deste ano de 2013."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Serenata monumental de Santarém» (4 de julho)",
+      "data": "2025-07-04",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+          "doc": "gc-v:356613865380152505",
+          "citacao": "Cartaz da «Serenata monumental de Santarém», que teve lugar em Santarém no dia 4 de julho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "o habitual Grupo de Fados dos Antigos Tunos da Universidade de Coimbra, a eles associado",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/antigos-tunos-e-o-grupo-razes-de.html",
+          "doc": "gc-ii:1021007060527485368",
+          "citacao": "Antigos Tunos e o grupo Raízes de Coimbra a eles associado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Ega (novembro de 2007): José Freitas, Alcides Freixo, Octávio Sérgio, Humberto Matias e Luís Filipe; cantaram Heitor Lopes e Mário Rovira",
+      "data": "2007-11",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/esta-tarde-em-ega-pedido-do-comum-amigo.html",
+          "doc": "gc-i:3499661072843255683",
+          "citacao": "Instrumentistas: José Freitas (v), Alcides Freixo (g), Octávio Sérgio (g), Humberto Matias (v) e Luís Filipe (v). Cantaram Heitor Lopes e Mário Rovira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "duas serenatas nas ilhas do Faial e do Pico, Açores (julho de 2008)",
+      "data": "2008-07",
+      "local": "Açores",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/o-grupo-de-guitarra-e-canto-de-coimbra_03.html",
+          "doc": "gc-ii:3835780349629100",
+          "citacao": "O grupo de Guitarra e Canto de Coimbra \"Raízes de Coimbra\" vai até às ilhas do Faial e Pico, Açores, para efectuar duas serenatas, conjuntamente com artistas locais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "morte de José Freitas, viola do grupo (3 de julho de 2009)",
+      "data": "2009-07-03",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/morreu-no-passado-dia-3-jose-freitas.html",
+          "doc": "gc-iii:1078302803381106830",
+          "citacao": "Morreu no passado dia 3, José Freitas, viola do grupo Raízes de Coimbra, até a doença o impedir de dar a sua colaboração."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "António Andias junta-se ao grupo (julho de 2010)",
+      "data": "2010-07",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-andias-no-grupo-raizes-de.html",
+          "doc": "gc-iii:4529248304542610131",
+          "citacao": "António Andias no grupo Raízes de Coimbra. Foi com imenso júbilo que recebemos tão ilustre contributo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viseu, com os Antigos Tunos (setembro de 2010)",
+      "data": "2010-09",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/grupo-raizes-de-coimbra-em-viseu-no.html",
+          "doc": "gc-iii:3123655216103092970",
+          "citacao": "Grupo Raízes de Coimbra, em Viseu, no passado sábado, com os Antigos Tunos. Elementos do grupo: Humberto Matias (v), José Ourives (g), Alcides Freixo (g), Octávio Sérgio (g), Rui Pato (v), Armando Luís de Carvalho Homem (v), Mário Rovira (c), Rui Lucas (c) e Heitor Lopes (c)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Biblioteca Joanina, comemoração dos 60 anos do Museu Académico (maio de 2011)",
+      "data": "2011-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/grupo-raizes-de-coimbra-na-biblioteca.html",
+          "doc": "gc-iv:4243544640214959827",
+          "citacao": "Grupo \"Raízes de Coimbra\" na Biblioteca Joanina, no passado sábado, na comemoração dos 60 anos do Museu Académico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Góis, lançamento do livro «Com o cachimbo de meu pai», de Carlos Carranca (2011)",
+      "data": "2011",
+      "local": "Góis",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-raizes-de-coimbra-em-gois-no.html",
+          "doc": "gc-iv:1210167001722690175",
+          "citacao": "Grupo Raízes de Coimbra em Góis, no lançamento do livro de poesia \"Com o cachimbo de meu pai\", de Carlos Carranca."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Feira, digressão dos Antigos Tunos (novembro de 2011)",
+      "data": "2011-11",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-de-fados-e-guitarradas-raizes-de.html",
+          "doc": "gc-iv:7880531746411140152",
+          "citacao": "Grupo de Fados e guitarradas \"Raízes de Coimbra\" na Feira, ontem, numa digressão dos Antigos Tunos. Foram Alcides Freixo (g), Humberto Matias (v), Octávio Sérgio (g) e Paulo Alexandre (g). Cantaram Heitor Lopes, Rui Lucas e Mário Rovira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Revisitando Nuno Guimarães», Perosinho, Vila Nova de Gaia, 9 de setembro de 2017: Octávio Sérgio, Paulo Alexandre, Armando Luís de Carvalho Homem, Rui Pato, Humberto Matias, Heitor Lopes, Mário Rovira",
+      "data": "2017-09-09",
+      "local": "Vila Nova de Gaia",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Raízes de Coimbra (Octávio Sérgio, Paulo Alexandre,\nArmando Luís de Carvalho Homem, Rui Pato, Humberto Matias, Heitor Lopes, Mário\nRovira)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Mário Correia (Facebook) reproduzido no blogue."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg934I2496Uc5UNt6Nvwg2fB9c46qN148ifeel1j7L7-luQzn0WzYLW9iiWv5xHdKBzZAHi_bmWv29VGj5mxwzZfSMcEIsaU-GNkQF3CkLx-TwyhqGrJl4S8OMddmiw9H6sd0fl/s1600-h/Avo+Maio+2007+Grupo.jpg",
+      "legenda": "Raízes de Coimbra em Avô (maio de 2007), com os Antigos Tunos: Octávio Sérgio e Alcides Freixo (guitarras), Humberto Matias (viola), Mário Rovira e Heitor Lopes (canto).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Grupo Raízes de Coimbra, em Avô, no sábado passado, integrado num espectáculo dos Antigos Tunos da Universidade de Coimbra."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn5ho8xiTCnk1DgXitsGp1hkezmVRS0KWb8_xPtkARiiLehtkScryK4A8OwKtQAEo9ctG7pBiJ9an0fFjrWBN9jazZVH5vtLAD01szWz9bIP-IqWm2-MnIEF9fzp53iXcXgIYV/s1600-h/Raizes+de+Coimbra+Tuna+Barcouco+2007+1.jpg",
+      "legenda": "Raízes de Coimbra em Barcouço (abril de 2007), com os Antigos Tunos da Universidade de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/grupo-razes-de-coimbra-actuar-em.html",
+          "doc": "gc-i:8430172402558970393",
+          "citacao": "Grupo \"Raízes de Coimbra\" a actuar em Barcouço, na passada terça-feira, conjuntamente com os Antigos Tunos da Universidade de Coimbra."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

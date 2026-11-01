@@ -1,0 +1,92 @@
+{
+  "id": "anthero-da-veiga-hmv-eq-266",
+  "titulo": "Cantos regionais portugueses. Miscelanea nº2 / Bailes regionais portugueses",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "EQ 266",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "anthero-da-veiga",
+      "funcao": ""
+    },
+    {
+      "pessoa": "eugenio-da-veiga",
+      "funcao": "guitarra (acompanhamento)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Cantos regionais portugueses. Miscelanea nº2",
+      "obra": "",
+      "media": [
+        "ouvir-anthero-da-veiga-hmv-eq-266-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Bailes regionais portugueses",
+      "obra": "",
+      "media": [
+        "ouvir-anthero-da-veiga-hmv-eq-266-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Cantos regionais portugueses. Miscelanea nº2», por Antero da Veiga — etiqueta: «Cantos Regionais Portuguezes / Miscelanea nº2 (Da Veiga) / Anthero da Veiga / com ac. de Guitarra por Eugénio da Veiga / Guitarra»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1923/antero_da_veiga_cantos_regionais_portugueses_miscelanea_no2",
+          "doc": "museu-do-fado:w16e717543d510e6c",
+          "citacao": "Título: Cantos regionais portugueses. Miscelanea nº2 ... Editora: HMV EQ266; [30-3099]  Referências: BJ2681-I∆, R, 1, 30-3099; EQ 266 ... Etiqueta: Cantos Regionais Portuguezes / Miscelanea nº2 (Da Veiga) / Anthero da Veiga / com ac. de Guitarra por Eugénio da Veiga / Guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Bailes regionais portugueses», por Antero da Veiga — etiqueta: «Bailes Regionais Portuguezes / Miscelanea Nº3 (da Veiga) / Anthero da Veiga / com ac. de guitarra por Eugénio da Veiga»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1924/antero_da_veiga_bailes_regionais_portugueses",
+          "doc": "museu-do-fado:wce018e444e55fd55",
+          "citacao": "Título: Bailes regionais portugueses ... Editora: HMV EQ266; [30-3100] Referências: BJ2684-I∆, G, 1, 30-3100; EQ 266 ... Etiqueta: Bailes Regionais Portuguezes / Miscelanea Nº3 (da Veiga) / Anthero da Veiga / com ac. de guitarra por Eugénio da Veiga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1923/antero_da_veiga_cantos_regionais_portugueses_miscelanea_no2",
+      "doc": "museu-do-fado:w16e717543d510e6c",
+      "citacao": "Título: Cantos regionais portugueses. Miscelanea nº2 ... Editora: HMV EQ266; [30-3099]  Referências: BJ2681-I∆, R, 1, 30-3099; EQ 266"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1924/antero_da_veiga_bailes_regionais_portugueses",
+      "doc": "museu-do-fado:wce018e444e55fd55",
+      "citacao": "Título: Bailes regionais portugueses ... Editora: HMV EQ266; [30-3100] Referências: BJ2684-I∆, G, 1, 30-3100; EQ 266"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

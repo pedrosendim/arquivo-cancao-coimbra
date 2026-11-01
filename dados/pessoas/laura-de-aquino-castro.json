@@ -1,0 +1,27 @@
+{
+  "id": "laura-de-aquino-castro",
+  "tipo": "pessoa",
+  "nome": "Laura de Aquino Castro",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "eduardo-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "EDUARDO DOS SANTOS COUCEIRO, nasceu no Rio de Janeiro em 1890 e faleceu em data não averiguada. Casou com Laura de Aquino Castro em 4.01.1908 no Rio de Janeiro."
+        }
+      ],
+      "nota": "Casamento no Rio de Janeiro, 4 de janeiro de 1908."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

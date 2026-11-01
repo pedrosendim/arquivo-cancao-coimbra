@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manuel-rodrigues-paredes-columbia-j-830-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0689_35.mp3",
+  "titulo": "Fado em fá sustenido menor — Manuel Rodrigues Paredes",
+  "data": "",
+  "pessoas": [
+    "manuel-rodrigues-paredes"
+  ],
+  "obras": [],
+  "gravacao": "manuel-rodrigues-paredes-columbia-j-830",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1372.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1361/manuel_rodrigues_paredes_fado_em_fa_sustenido_menor",
+      "doc": "museu-do-fado:w23bbb850ab994baf",
+      "citacao": "Título: Fado em fá sustenido menor ... Editora: Co.J830 Referências: WP279, W, 32609, P279; J830"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

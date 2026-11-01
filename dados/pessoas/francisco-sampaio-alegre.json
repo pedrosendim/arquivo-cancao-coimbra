@@ -1,0 +1,48 @@
+{
+  "id": "francisco-sampaio-alegre",
+  "tipo": "pessoa",
+  "nome": "Francisco Sampaio Alegre",
+  "nomes_alternativos": [
+    "Francisco Alegre"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Francisco Sampaio Alegre",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Era filho de Francisco Sampaio Alegre"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Francisco Alegre",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "filho de Francisco Alegre e de Júlia Ribeiro Alegre"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

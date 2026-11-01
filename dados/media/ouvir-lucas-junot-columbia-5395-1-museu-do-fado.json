@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-5395-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0464_09.mp3",
+  "titulo": "Fado Sepulveda — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-5395",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0924.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/912/lucas_junot_fado_sepulveda",
+      "doc": "museu-do-fado:w79c246c14d36f680",
+      "citacao": "Título: Fado Sepulveda ... Editora: Co. 5395, HTCD15 Referências: P190, W; 5395-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

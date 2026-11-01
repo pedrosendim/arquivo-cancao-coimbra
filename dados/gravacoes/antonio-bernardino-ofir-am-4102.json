@@ -1,0 +1,142 @@
+{
+  "id": "antonio-bernardino-ofir-am-4102",
+  "titulo": "Baladas",
+  "formato": "EP",
+  "editora": "Ofir",
+  "referencia": "AM 4.102",
+  "ano": "1967",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "nuno-guimaraes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Cartas de Amor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Canção dos Marinheiros",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "O Tempo sem Sombras",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-ofir-am-4102-3-youtube"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Saudade",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/7NIGZlR-S5WgHXdwf91pi3-m-8LpYMDge_qIzJ5Fnzs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/ODMzLTE0OTEwMDk4/NjgtNTcwNS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10064833",
+        "doc": "discogs:wc66c88bda38a24bc",
+        "citacao": "Imagem (secondary): https://i.discogs.com/7NIGZlR-S5WgHXdwf91pi3-m-8LpYMDge_qIzJ5Fnzs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/ODMzLTE0OTEwMDk4/NjgtNTcwNS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10064833",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064833",
+          "doc": "discogs:wc66c88bda38a24bc",
+          "citacao": "Formato: 1 × Vinyl, 7\", EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064833",
+          "doc": "discogs:wc66c88bda38a24bc",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1967 (Discogs)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064833",
+          "doc": "discogs:wc66c88bda38a24bc",
+          "citacao": "Data: 1967"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento «à Guitarra e Viola pelo Dr. Nuno Guimarães e Rui Pato» (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064833",
+          "doc": "discogs:wc66c88bda38a24bc",
+          "citacao": "ACOMPANHAMENTO: à Guitarra e Viola pelo Dr. Nuno Guimarães e Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10064833",
+      "doc": "discogs:wc66c88bda38a24bc",
+      "citacao": "Editora: Ofir – AM 4.102"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+      "doc": "gc-v:5310750683617065434",
+      "citacao": "EP BALADAS POR ANTÓNIO BERNARDINO, Porto, Ofir AM 4.102, 1967, com António Bernardino (voz), Nuno Guimarães (gC) e Rui Pato (v)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-84",
+  "titulo": "Senhor da Serra / Fado Académico",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-84",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Senhor da Serra",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-84-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Académico",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-84-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Senhor da Serra», por Almeida Cruz — etiqueta: «Senhor da Serra / Canção Portugueza - Popular / Almeida Cruz e coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/588/almeida_cruz_senhor_da_serra",
+          "doc": "museu-do-fado:wa0f7d26ca89d2d1b",
+          "citacao": "Título: Senhor da Serra ... Editora: Co. B-84 Referências: 11799; B84 ... Etiqueta: Senhor da Serra / Canção Portugueza - Popular / Almeida Cruz e coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Senhor de Serra (canção), Columbia B-84, canção de romaria tradicional da Beira Litoral»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Senhor de Serra (canção), Columbia B-84, canção de romaria tradicional da Beira Litoral"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Académico», por Almeida Cruz — etiqueta: «Fado académico / Fado / (Ferreira) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/589/almeida_cruz_fado_academico",
+          "doc": "museu-do-fado:w7b07a6429f17a525",
+          "citacao": "Título: Fado Académico ... Editora: Co. B-84 Referências: 11842; B84 ... Etiqueta: Fado académico / Fado / (Ferreira) / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Académico, Columbia B-84»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Académico, Columbia B-84"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/588/almeida_cruz_senhor_da_serra",
+      "doc": "museu-do-fado:wa0f7d26ca89d2d1b",
+      "citacao": "Título: Senhor da Serra ... Editora: Co. B-84 Referências: 11799; B84"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Senhor de Serra (canção), Columbia B-84, canção de romaria tradicional da Beira Litoral"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/589/almeida_cruz_fado_academico",
+      "doc": "museu-do-fado:w7b07a6429f17a525",
+      "citacao": "Título: Fado Académico ... Editora: Co. B-84 Referências: 11842; B84"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Académico, Columbia B-84"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

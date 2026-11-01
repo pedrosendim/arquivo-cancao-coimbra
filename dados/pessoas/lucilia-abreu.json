@@ -1,0 +1,36 @@
+{
+  "id": "lucilia-abreu",
+  "tipo": "pessoa",
+  "nome": "Lucília Abreu",
+  "nomes_alternativos": [
+    "Dra. Lucília Abreu",
+    "Lucília"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "florencio-neto-de-carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/breve-perfil-do-arquitecto-florncio.html",
+          "doc": "gc-i:111775883892639625",
+          "citacao": "Iniciado o namoro, Lucília e Florêncio celebram casamento no Porto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/florncio-neto-de-carvalho-alpiara-1924.html",
+          "doc": "gc-i:113561361385345100",
+          "citacao": "Documento cedido pela viúva Dra. Lucília Abreu."
+        }
+      ],
+      "nota": "O perfil de 2005 dá só o nome próprio; o post de 2005-12 identifica a viúva como Dra. Lucília Abreu."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

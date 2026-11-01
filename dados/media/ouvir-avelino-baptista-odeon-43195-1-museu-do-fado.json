@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-43195-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1888_30.mp3",
+  "titulo": "Canção à Flora — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-43195",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3556.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3705/avelino_baptista_cancao_a_flora",
+      "doc": "museu-do-fado:w9b950bede5cfdcd6",
+      "citacao": "Título: Canção à Flora ... Editora: Odeon 43195 43257 Referências: Disco Odeon, XO365, 43195; 43195"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "custodio-moreirinhas",
+  "tipo": "pessoa",
+  "nome": "Custódio Moreirinhas",
+  "nomes_alternativos": [
+    "Tenente Custódio Moreirinhas"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "A «Balada das Alpenduradas», de Jorge Tuna, foi baseada num tema seu",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/04/jorge-tuna-com-durval-moreirinhas-em.html",
+          "doc": "gc-iii:c3532747592666331486",
+          "citacao": "Foi baseada num tema do tenete Custódio M."
+        }
+      ],
+      "conflito": false,
+      "nota": "Comentário no blogue."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1889",
+      "data": "1889",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1964",
+      "data": "1964",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Deu as «primeiras letras» da guitarra a Jorge Tuna (com Júlio Ribeiro)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "As «primeiras letras» da Guitarra aprendeu-as com Júlio Ribeiro e com o tenente Custódio Moreirinhas"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post é sobre Jorge Tuna."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

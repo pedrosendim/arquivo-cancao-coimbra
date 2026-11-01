@@ -1,0 +1,30 @@
+{
+  "id": "jose-teixeira-de-sampaio",
+  "tipo": "pessoa",
+  "nome": "José Teixeira de Sampaio",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Médico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "filho do médico José Teixeira de Sampaio"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

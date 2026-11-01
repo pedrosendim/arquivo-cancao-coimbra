@@ -1,0 +1,172 @@
+{
+  "id": "augusto-camacho-vieira-columbia-slem-2028",
+  "titulo": "Fado do Mondego",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "SLEM 2028",
+  "ano": "1960",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "joao-bagao",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Segredo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Mondego",
+      "obra": "",
+      "media": ["ouvir-augusto-camacho-vieira-columbia-slem-2028-2-youtube"]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado da Ansiedade",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Toada do Penedo da Saudade",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/-ONmKIj1-Mat6p2yFLYmPlKM1yzoG3KmFzpEFKtXyb4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE3/NzQ3LTE1NTU4MDEz/NjMtNTgxNS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13517747",
+        "doc": "discogs:w9bc6e2ceed97e9bb",
+        "citacao": "Imagem (primary): https://i.discogs.com/-ONmKIj1-Mat6p2yFLYmPlKM1yzoG3KmFzpEFKtXyb4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE3/NzQ3LTE1NTU4MDEz/NjMtNTgxNS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13517747",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13517747",
+          "doc": "discogs:w9bc6e2ceed97e9bb",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13517747",
+          "doc": "discogs:w9bc6e2ceed97e9bb",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1959 (Discogs)",
+      "data": "1959",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13517747",
+          "doc": "discogs:w9bc6e2ceed97e9bb",
+          "citacao": "Data: 1959"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica edição em fevereiro de 1960."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: editado em fevereiro de 1960 (blogue)",
+      "data": "1960-02",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/augusto-camacho-fado-do-mondego-sound.html",
+          "doc": "gc-iii:4297518674941773060",
+          "citacao": "Estas duas gravações fazem parte do EP Columbia, SLEM 2028, editado em Fevereiro de 1960."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "COLUMBIA SLEM 2028 (ano de 1960)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1959."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravação original em março de 1959 (J. Anjos de Carvalho, no blogue)",
+      "data": "1959-03",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/augusto-camacho-fado-do-mondego-sound.html",
+          "doc": "gc-iii:4297518674941773060",
+          "citacao": "A gravação original ocorreu em Março de 1959"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: João Bagão e Fernando Xavier (guitarras de Coimbra), António Leão Ferreira Alves (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "João Bagão e Fernando Xavier (ggC); António Leão Ferreira Alves (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Fernando Xavier e António Leão Ferreira Alves não têm ficha no arquivo."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13517747",
+      "doc": "discogs:w9bc6e2ceed97e9bb",
+      "citacao": "Editora: Columbia – SLEM 2028"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+      "doc": "gc-v:920248313425054771",
+      "citacao": "EP Fado do Mondego, Lisboa, COLUMBIA SLEM 2028 (ano de 1960)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

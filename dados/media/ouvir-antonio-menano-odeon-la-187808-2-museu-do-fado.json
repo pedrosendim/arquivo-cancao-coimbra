@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187808-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0612_26.mp3",
+  "titulo": "Fado da Ansiedade — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187808",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1218.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1209/antonio_menano_fado_da_ansiedade",
+      "doc": "museu-do-fado:w6294d91b034ecc75",
+      "citacao": "Título: Fado da Ansiedade ... Editora: Od. LA187.808, EMI2605983,EMICD8346182,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

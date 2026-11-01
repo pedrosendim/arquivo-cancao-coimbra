@@ -1,0 +1,289 @@
+{
+  "id": "rui-pato",
+  "tipo": "pessoa",
+  "nome": "Rui Pato",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Rui de Melo Pato",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "com um filho (Rui de Melo Pato) que nasce em 1946"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1946",
+      "data": "1946",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "com um filho (Rui de Melo Pato) que nasce em 1946"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Rui Pato sobre o pai, reproduzido no blogue."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1946",
+      "data": "1946",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "acompanhado por Rui Pato (n. 1946)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, «Este mês ouvimos… José Afonso» (Biblioteca Municipal de Coimbra, agosto de 2025). A reportagem da Lusa citada na relação com José Afonso diz que «tinha 16 anos quando, em 1961» começou a acompanhá-lo; o editor deve confrontar as duas indicações."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto no livrete do CD «folha a folha» (Jorge Cravo / Grupo Presença de Coimbra, Numérica, 1999)",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Booklet com fotografias, biografias e textos de Manuel Alegre, Rui Pato, Miguel Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "viola com «um papel muito importante» nos discos de José Afonso «Cantares do andarilho», «Contos velhos, rumos novos» e «Menina dos olhos tristes»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
+          "doc": "mpagdp:w3727eb9700537669",
+          "citacao": "A partir daí várias colaborações se seguiram, tendo a viola de Rui Pato um papel muito importante nos discos \"Cantares do andarilho\", \"Contos velhos, rumos novos\" e \"Menina dos olhos tristes\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto «Sobre o artista» do registo de 2011."
+    },
+    {
+      "campo": "outro",
+      "valor": "A PIDE não o deixou embarcar para Londres, onde ia ser gravado «Traz um amigo também», como represália pela participação na greve estudantil de 1969",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
+          "doc": "mpagdp:w3727eb9700537669",
+          "citacao": "A continuação trabalho conjunto foi interrompida pelo regime nas gravações de \"Traz um amigo também\". A PIDE não deixou Rui Pato embarcar para Londres, onde ia ser gravado o disco, como represália pela sua participação na greve estudantil de 1969."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto «Sobre o artista» do registo de 2011."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Coimbra, 2 de julho de 2024: «Dor na planície» (viola, com Octávio Sérgio)",
+      "data": "2024-07-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7438",
+          "doc": "mpagdp:w3c9c85931d97a54e",
+          "citacao": "Rui Pato (viola) e Octávio Sérgio (guitarra portuguesa) - \"Dor na planície\" (música de Octávio Sérgio) ... Gravado em Coimbra, no dia 2 de julho de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, 24 de março de 2011: «Selecção de baladas do Zeca» (realização de Nélia Marquez Martins)",
+      "data": "2011-03-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
+          "doc": "mpagdp:w3727eb9700537669",
+          "citacao": "Rui Pato - “Selecção de baladas do Zeca” ... Filmado em Coimbra, a 24 de Março de 2011 ... Realização: Nélia Marquez Martins"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ],
+      "nota": "viola; serenata na Sé do Funchal, 30 de dezembro de 1968"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/grupo-raizes-de-coimbra-em-viseu-no.html",
+          "doc": "gc-iii:3123655216103092970",
+          "citacao": "Elementos do grupo: Humberto Matias (v), José Ourives (g), Alcides Freixo (g), Octávio Sérgio (g), Rui Pato (v), Armando Luís de Carvalho Homem (v), Mário Rovira (c), Rui Lucas (c) e Heitor Lopes (c)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/grupo-raizes-de-coimbra-no-acapella-na.html",
+          "doc": "gc-iv:3361939228982901307",
+          "citacao": "Grupo Raízes de Coimbra no àCapella, na sexta-feira passada, com Paulo Alexandre, Octávio Sérgio e Alcides Freixo em guitarra, Humberto Matias e Rui Pato em viola"
+        }
+      ],
+      "nota": "viola; 2010-2017"
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "albano-da-rocha-pato",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Albano da Rocha Pato (1924-1983), repórter de O Primeiro de Janeiro / delegação de Coimbra, pai do viola Rui Pato"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/06/rui-pato-teve-amabilidade-de-me-enviar.html",
+          "doc": "gc-ii:1524290595427325597",
+          "citacao": "Rui Pato teve a amabilidade de me enviar esta foto tirada por seu pai, Albano da Rocha Pato"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "casado e com um filho (Rui de Melo Pato) que nasce em 1946"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-cravo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "participou no sarau comemorativo dos 20 anos da Crise Académica de 1969, tendo sido acompanhado por Rui Pato, numa homenagem a José Afonso, cantando: Menino d’Oiro, Senhor Poeta e No Lago do Breu."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "A 10 de Novembro de 2002 participa no Centenário do Nascimento de Flávio Rodrigues da Silva, cantando É Tão Lindo o Teu Olhar (música atribuível ao homenageado), sendo acompanhado por Jorge Gomes e Frias Gonçalves nas guitarras e Rui Pato à viola."
+        }
+      ],
+      "nota": "viola; sarau dos 20 anos da Crise Académica de 1969 e centenário de Flávio Rodrigues (10-11-2002)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        }
+      ],
+      "nota": "viola (fotografia do espetáculo no CCB)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/jose-afonso.html",
+          "doc": "gc-iv:8334078135708839830",
+          "citacao": "O médico Rui Pato tinha 16 anos quando, em 1961, começou a acompanhar José Afonso à viola, participando na gravação dos primeiros discos e em muitos espetáculos."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+          "doc": "gc-iii:854211484143292539",
+          "citacao": "José Afonso gravou esta canção em 1962, acompanhado exclusivamente à viola de cordas de nylon por Rui Pato"
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "Na sua fase coimbrã, e acompanhado por Rui Pato (n. 1946), José Afonso deixou-nos, como legado para a Canção de Coimbra"
+        },
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
+          "doc": "mpagdp:w3727eb9700537669",
+          "citacao": "Músico, iniciou em 1962, com 16 anos, uma estreita colaboração com José Afonso. Rui Pato acompanhou o cantor pela primeira vez à viola na gravação do \"Menino d'oiro\"."
+        }
+      ],
+      "nota": "Divergência: a reportagem da Lusa (2012) situa o início em 1961; o blogue Guitarra de Coimbra V (2018) cita Rui Pato a dizer que a gravação de outubro de 1962 foi «o primeiro contacto que tive com o Zeca Afonso». O texto «Sobre o artista» de A Música Portuguesa a Gostar Dela Própria (2011) diz que iniciou a colaboração «em 1962, com 16 anos» e que o acompanhou pela primeira vez na gravação do «Menino d'oiro»."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Tempos%20de%20Coimbra%2010%20Rui%20Pato.jpg",
+      "legenda": "Rui Pato. Foto do «Tempo(s) de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/rui-pato.html",
+          "doc": "gc-i:111445636466870984",
+          "citacao": "Rui Pato. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

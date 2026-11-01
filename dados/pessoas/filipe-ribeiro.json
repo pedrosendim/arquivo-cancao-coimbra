@@ -1,0 +1,35 @@
+{
+  "id": "filipe-ribeiro",
+  "tipo": "pessoa",
+  "nome": "Filipe Ribeiro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tempos-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Tempos de Coimbra\n\nGrupo constituído por Paulo Pinto (voz), Pedro Paredes (gC), e Filipe Ribeiro/Paulo Rodrigues (vv)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:c8963120559448179678",
+          "citacao": "Grupo \"Tempos de Coimbra\":"
+        }
+      ],
+      "nota": "viola segundo o post, guitarra segundo um comentário; Serenata Monumental de 1994"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

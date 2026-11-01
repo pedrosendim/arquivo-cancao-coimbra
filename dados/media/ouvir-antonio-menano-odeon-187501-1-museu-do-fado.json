@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-187501-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0593_27.mp3",
+  "titulo": "Fado da Praia — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-187501",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1179.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1170/antonio_menano_fado_da_praia",
+      "doc": "museu-do-fado:w3dd6684726457934",
+      "citacao": "Título: Fado da Praia ... Editora: Od.187.501, 187.502,LA187.813,EMI260593,EMICD8364452 Referências: OG604, W; A 187501"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

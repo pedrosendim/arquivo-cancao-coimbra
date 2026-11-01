@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-manuel-branquinho",
+  "tipo": "pessoa",
+  "nome": "Mulher de Manuel Branquinho (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Por lá casou, nasceram os seus filhos"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Casou no Brasil. As fontes não dizem se é a mãe de Ricardo Fernandes Branquinho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

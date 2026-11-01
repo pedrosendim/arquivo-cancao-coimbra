@@ -1,0 +1,38 @@
+{
+  "id": "cristina-cruz",
+  "tipo": "pessoa",
+  "nome": "Cristina Cruz",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "cantou com o Grupo Raízes de Coimbra no àCapella (janeiro de 2012), apresentada como «uma voz feminina» e novidade",
+      "data": "2012",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/grupo-raizes-de-coimbra-no-acapella-na.html",
+          "doc": "gc-iv:3361939228982901307",
+          "citacao": "Grupo Raízes de Coimbra no àCapella, na sexta-feira passada"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/grupo-raizes-de-coimbra-no-acapella-na.html",
+          "doc": "gc-iv:3361939228982901307",
+          "citacao": "Como novidade, ouviu-se uma voz feminina, Cristina Cruz, da qual não ficou, infelizmente, nenhum registo fotográfico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

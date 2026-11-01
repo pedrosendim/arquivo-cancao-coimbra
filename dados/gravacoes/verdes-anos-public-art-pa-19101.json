@@ -1,0 +1,71 @@
+{
+  "id": "verdes-anos-public-art-pa-19101",
+  "titulo": "Verdes Anos",
+  "formato": "CD",
+  "editora": "Public-Art Editora",
+  "referencia": "pa-19101",
+  "ano": "2001",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "verdes-anos",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "antonio-dinis",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "goncalo-mendes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "miguel-drago",
+      "funcao": "guitarra"
+    },
+    {
+      "pessoa": "luis-barroso",
+      "funcao": "guitarra"
+    },
+    {
+      "pessoa": "rui-seoane",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Vozes: António Dinis, Gonçalo Mendes. Guitarras: Miguel Drago e Luís Barroso. Violas: João Pedro Martins e Rui Seoane. 19 temas, 4 novos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Vozes: António Dinis, Gonçalo Mendes. Guitarras: Miguel Drago e Luís Barroso. Violas: João Pedro Martins e Rui Seoane. Regista 19 temas, sendo novos 4."
+        }
+      ],
+      "conflito": false,
+      "nota": "João Pedro Martins não foi ligado a nenhuma ficha (pode ou não ser o «João Martins» do grupo)."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Verdes Anos, Grupo de Fados e Guitarradas de Coimbra, Public-Art Editora, pa-19101, ano de 2001."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

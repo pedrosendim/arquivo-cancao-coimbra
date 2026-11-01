@@ -1,0 +1,107 @@
+{
+  "id": "duarte-silva-gramophone-62867-1900",
+  "titulo": "Fado [Serenata do] Hylario",
+  "formato": "disco de massa",
+  "editora": "Gramophone",
+  "referencia": "62867",
+  "ano": "1900",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "duarte-silva",
+      "funcao": "voz (barítono)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado [Serenata do] Hylario",
+      "obra": "fado-serenata-do-hylario",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/a/AVvXsEioDfI27fpkzEKFHAf71Gnb3FTSFAMxKWUSf6hqqLsBB9ENr_163mXH87Zff1MDi8rJZO8fwJt_XnfeHigU2QwbkZMYGH-RRqi_56uJTUcY9Icnn2WFxwsDv9h8h7rAFCptnR3k7NV0BGwLjIYH_LhY_Sbe7dC77xV8ygqDunlZrngELLHOcewbCjFv=w640-h640",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+        "doc": "gc-v:3594199943360181960",
+        "citacao": "Parte central do mais antigo disco de massa que se conhece com registo de música relacionada com Coimbra"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Porto, novembro/dezembro de 1900; berliner plano de face única, etiqueta gravada a sulco quente",
+      "data": "1900",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "Parte central do mais antigo disco de massa que se conhece com registo de música relacionada com Coimbra (berliner plano, de face única, com a etiqueta gravada a sulco quente)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "Gramophone 62867, novembro / dezembro de 1900 (omisso)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O mais antigo disco de massa conhecido com música relacionada com Coimbra; exemplar da coleção José Moças / TradiSom, muito desgastado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "Encontra-se bastante desgastado, sendo impossível reconstituir toda a letra cantada (3 quadras)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "Pertence à coleção de José Moças / editora TradiSom."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Primeiros discos gravados no Porto no outono/inverno de 1900",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/velhas-frituras.html",
+          "doc": "gc-v:3419130853387302621",
+          "citacao": "Os primeiros discos, gravados na cidade do Porto, no outono/inverno de 1900, foram precedidos por uma indústria expressiva de cilindros Edison gravados entre 1894-1900, dos quais pouco ou nada se sabe."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+      "doc": "gc-v:3594199943360181960",
+      "citacao": "Pertence à coleção de José Moças / editora TradiSom."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

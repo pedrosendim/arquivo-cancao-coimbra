@@ -1,0 +1,110 @@
+{
+  "id": "minha-mae-jose-afonso",
+  "titulo": "Minha Mãe",
+  "titulos_alternativos": [
+    "Ó minha mãe, minha mãe"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [
+    "jose-afonso"
+  ],
+  "ano": "",
+  "letra_texto": {
+    "fonte": "gc-i",
+    "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+    "doc": "gc-i:2563501984106623261",
+    "citacao": "Ó minha mãe, minha mãe,\nÓ minha mãe, minha amada,\nQuem tem uma mãe tem tudo,\nQuem não tem mãe não tem nada.\nLa-ra-rã; La-ra-rã-la; La-ra-rã; La-ra-rã-la\nLa-ra-rã; La-ra-rã-la; La-ra-rã; La-ra-rã-la\nQuem não tem mãe, não tem nada,\nQuem a perde é pobrezinho,\nÓ minha mãe, minha mãe,\nOnde estás que estou sozinho?\nLa-ra-rã, etc.\nEstou sozinho no mar largo,\nSem medo à noite cerrada\nÓ minha mãe, minha mãe,\nÓ minha mãe, minha amada.\nLa-ra-rã, etc."
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Letra: 1.ª quadra popular; 2.ª e 3.ª quadras de José Afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "Letra: 1ª quadra popular; 2ª e 3ª quadras de José Manuel Cerqueira Afonso dos Santos (1929-1987)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Data: 1960-1961",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "Incipit: Ó minha mãe, minha mãe\n\nData: 1960-1961"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composta em 1959 (período 1958-1961)",
+      "data": "1959",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "É neste período que José Afonso compõe Balada do Outono (1958), Menino d’Oiro (1959), Minhã Mãe (1959)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A autoria da música levanta dúvidas (melodia semelhante relatada por Alcindo Costa)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "A autoria da música, oficialmente reclamada por José Afonso (1929-1987), levanta algumas dúvidas, pois o Juiz Conselheiro Alcindo Costa (relato de 18/06/2003) diz ter aprendido uma melodia semelhante a esta por volta dos sete anos em Trás-os-Montes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeira gravação conhecida: teatro da Faculdade de Letras, verão de 1961, com José Niza e Durval Moreirinhas (violas); LP Coimbra Orfeon of Portugal, Monitor MP-596, 1962",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "A primeira gravação conhecida deste tema foi efectuada por José Afonso no teatro da Faculdade de Letras da Universidade de Coimbra no Verão de de 1961, sendo o cantor acompanhado à viola por José Niza e Durval Moreirinhas: LP \"Coimbra Orfeon of Portugal\", USA, Monitor MP-596, ano de 1962"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+      "doc": "gc-i:2563501984106623261",
+      "citacao": "MINHA MÃE"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/minha-mae-2/",
+      "doc": "aja:w7b39f24914b0f5b6",
+      "citacao": "Minha mãe"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

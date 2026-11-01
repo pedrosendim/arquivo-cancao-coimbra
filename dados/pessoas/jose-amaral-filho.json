@@ -1,0 +1,50 @@
+{
+  "id": "jose-amaral-filho",
+  "tipo": "pessoa",
+  "nome": "José Amaral (filho)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cedeu ao blogue informações e documentos sobre o pai",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jose-amaral.html",
+          "doc": "gc-v:5972168961880202009",
+          "citacao": "Os restantes foram-me cedidos em tempo por seu filho o Dr. José Amaral."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-maria-amaral",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jose-amaral.html",
+          "doc": "gc-v:5972168961880202009",
+          "citacao": "por seu filho o Dr. José Amaral"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/dr_03.html",
+          "doc": "gc-i:113366891614319883",
+          "citacao": "o Dr. José Amaral (filho)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

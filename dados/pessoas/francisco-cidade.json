@@ -1,0 +1,29 @@
+{
+  "id": "francisco-cidade",
+  "tipo": "pessoa",
+  "nome": "Francisco Cidade",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fado-maio",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "A guitarrada “Variações em mi menor”, de Anselmo Batista, ecoou pelo recinto, interpretada pelo próprio, acompanhado por Francisco Zagalo, na guitarra, e Luís Carvalho, na viola. A primeira noite do FESTUNA foi presenteada com a estreia do original “Canção de um Tempo”, apresentada pela primeira vez, na voz de Francisco Cidade."
+        }
+      ],
+      "nota": "voz; FESTUNA 2023"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

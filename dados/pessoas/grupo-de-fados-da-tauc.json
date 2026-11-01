@@ -1,0 +1,112 @@
+{
+  "id": "grupo-de-fados-da-tauc",
+  "tipo": "grupo",
+  "nome": "Grupo de Fados da TAUC",
+  "nomes_alternativos": [
+    "grupo de fados da Tuna Académica da Universidade de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+      "doc": "gc-iii:1214458622098257184",
+      "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/02/tauc-em-conjunto-com-reitoria-da.html",
+      "doc": "gc-iii:3212153033557475897",
+      "citacao": "Participarão a Orquestra e o grupo de Fados da TAUC, e serão recolhidos donativos que reverterão para as vítimas do temporal na Madeira."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "serenata na Sé do Funchal, 30 de dezembro de 1968, na digressão de fim de ano da TAUC: José Manuel dos Santos e António Bernardino (vozes), Manuel Borralho e José Ferraz (guitarras), Rui Pato e José Borralho (violas)",
+      "data": "1968-12-30",
+      "local": "Funchal",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho de Rui Pato publicado no blogue."
+    },
+    {
+      "campo": "outro",
+      "valor": "Adamo Caetano canta no Grupo de Fados da TAUC (2006)",
+      "data": "2006",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "Adamo Caetano colocou a viola de acompanhamento debaixo da cama e canta no Grupo de Fados da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "notícia no Diário de Coimbra, 10 de agosto de 2006",
+      "data": "2006-08-10",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/jornais-em-tempo-de-frias_115741585457598821.html",
+          "doc": "gc-i:115741585457598821",
+          "citacao": "Diário de Coimbra de 10 de Agosto de 2006. Grupo de Fados da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo com a Orquestra da TAUC na Biblioteca Joanina, 2 de março de 2010, a favor das vítimas do temporal na Madeira",
+      "data": "2010-03-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/tauc-em-conjunto-com-reitoria-da.html",
+          "doc": "gc-iii:3212153033557475897",
+          "citacao": "A TAUC, em conjunto com a Reitoria da Universidade de Coimbra, vai promover um espectáculo musical no dia 2 de Março de 2010, que decorrerá na Biblioteca Joanina pelas 21h30."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/tauc-em-conjunto-com-reitoria-da.html",
+          "doc": "gc-iii:3212153033557475897",
+          "citacao": "Participarão a Orquestra e o grupo de Fados da TAUC, e serão recolhidos donativos que reverterão para as vítimas do temporal na Madeira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_pgpmARJl6DUbFWfAFap4c8tTveEvRdjhTdxnSbpdy6_ZhlLUEKtIi_fF9soaBF6mW-f-rLlUGJDH2nMAVrb-8SNnjQoZwSsiYl26D_Ih_WuKe8ZH-gf6NQt23HVDG0lYYPX4GslOYRvv/s1600/RPato%252CBerna%252CMeJBorralho%252CJFe.jpg",
+      "legenda": "Grupo de fados da TAUC em serenata na Sé do Funchal, 30 de dezembro de 1968 (António Bernardino; Manuel Borralho e José Ferraz, guitarras; Rui Pato e José Borralho, violas).",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

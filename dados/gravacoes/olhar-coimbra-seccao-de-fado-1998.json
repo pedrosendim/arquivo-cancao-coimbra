@@ -1,0 +1,141 @@
+{
+  "id": "olhar-coimbra-seccao-de-fado-1998",
+  "titulo": "Olhar Coimbra",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "",
+  "ano": "1998",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "seccao-de-fado-da-aac",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "jorge-gomes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-ralha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "maria-de-lurdes-garcia",
+      "funcao": "voz (solista)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 2,
+      "titulo": "Sereno corre o Mondego",
+      "obra": "",
+      "media": [
+        "ouvir-olhar-coimbra-seccao-de-fado-1998-2-apple-music"
+      ]
+    },
+    {
+      "n": 11,
+      "titulo": "Toutinegra do Moinho",
+      "obra": "",
+      "media": [
+        "ouvir-olhar-coimbra-seccao-de-fado-1998-11-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "11 temas tradicionais, na maioria ligados às serenatas populares; Isabel Pinto (flauta), Pedro Lopes (viola), Jorge Pessoa (cavaquinho) e coros femininos",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "Isabel Pinto (flauta), Pedro Lopes (viola), Jorge Pessoa (cavaquinho), Lurdes Garcia (solista) e coros femininos em 11 temas tradicionais, na sua maioria ligados às serenatas populares"
+        }
+      ],
+      "conflito": false,
+      "nota": "Pedro Lopes não foi ligado a ficha (há homónimo no arquivo; identificação por confirmar)."
+    },
+    {
+      "campo": "outro",
+      "valor": "a faixa 2 corresponde a «A Barquinha», com o título modificado e indicação de «popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/a-barquinha.html",
+          "doc": "gc-v:7037767787066774237",
+          "citacao": "faixa nº 2, com o título modificado para “Sereno corre o Mondego” e indicação de “popular”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "contém a quadra do «Barquinho ligeiro» atribuída a Antero de Quental",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/11/barquinho-ligeiro.html",
+          "doc": "galaxia-sonora-coimbra:523240812053013889",
+          "citacao": "Esta quadra está gravada no CD «Olhar Coimbra», da Secção de Fado da AAC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "gravação da SF/AAC dos finais da década de 1990 com «Barquinho ligeiro», recuperada através de António Ralha / Jorge Gomes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/12/solfas-harmonizadas-por-costa-pinheiro.html",
+          "doc": "gc-v:2530387110811909357",
+          "citacao": "Consta numa gravação efetuada pela SF /AAC nos finais da década de 1990, recuperada através de António Ralha / Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não diz se é o CD «Olhar Coimbra»; fica registado aqui para revisão."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+      "doc": "gc-i:112139186031286402",
+      "citacao": "CD Olhar Coimbra, Coimbra, Secção de Fado da AAC, ano de 1998, com Jorge Gomes/António Ralha (gg), Isabel Pinto (flauta), Pedro Lopes (viola), Jorge Pessoa (cavaquinho), Lurdes Garcia (solista) e coros femininos em 11 temas tradicionais, na sua maioria ligados às serenatas populares"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/04/a-barquinha.html",
+      "doc": "gc-v:7037767787066774237",
+      "citacao": "-Cd Olhar Coimbra, Coimbra: Secção de Fado da AAC, ano de 1998, faixa nº 2, com o título modificado para “Sereno corre o Mondego” e indicação de “popular”, solos de Maria de Lurdes Garcia. Guitarras de António Ralha e Jorge Gomes;"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/a-toutinegra-do-moinho.html",
+      "doc": "gc-v:1642315113044080624",
+      "citacao": "interpretação de Maria de Lurdes Garcia no CD Olhar Coimbra, Coimbra, SFAAC, ano de 1998, faixa 11, com guitarras de António Ralha/Jorge Gomes"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+      "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+      "citacao": "“Olhar Coimbra”"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

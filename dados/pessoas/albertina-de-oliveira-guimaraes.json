@@ -1,0 +1,30 @@
+{
+  "id": "albertina-de-oliveira-guimaraes",
+  "tipo": "pessoa",
+  "nome": "Albertina de Oliveira Guimarães",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "homenagem",
+      "valor": "Homenageada pelo filho na «Elegia à Mãe» (1964-1965)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "O tema constitui homenagem à mãe do artista, Albertina de Oliveira Guimarães."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

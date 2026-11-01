@@ -1,0 +1,32 @@
+{
+  "id": "ouvir-artur-paredes-alvorada-mep-60056-1957-3-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/raps%C3%B3dia-n-%C2%BA-2/1872977925?i=1872979053",
+  "titulo": "Cantares Portugueses — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes",
+    "armenio-silva"
+  ],
+  "obras": [
+    "rapsodia-n-2-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-alvorada-mep-60056-1957",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/85/4e/33854ecf-0f6f-0a85-b012-93b1ed17c142/820200097095.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/raps%C3%B3dia-n-%C2%BA-2/1872977925?i=1872979053"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Trata-se de uma nova versão da mesma música referida no fonograma anterior como “Cantares Portugueses”."
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: álbum «Entre as raridades e a obra em suporte vinil (1957-1961)» de Artur Paredes (℗ 2025 Tradisom), faixa 20 «Rapsódia n.º 2». O título na plataforma («Rapsódia n.º 2») difere do da faixa; o blogue diz que a Rapsódia n.º 2 é nova versão da música chamada «Cantares Portugueses» no EP de 1957 (ver citação). A faixa 24 «Rapsódia n.º 2 II» é outra versão. A plataforma não indica a edição.",
+  "estado_revisao": "rascunho"
+}

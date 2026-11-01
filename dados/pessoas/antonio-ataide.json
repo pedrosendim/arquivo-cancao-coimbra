@@ -1,0 +1,35 @@
+{
+  "id": "antonio-ataide",
+  "tipo": "pessoa",
+  "nome": "António Ataíde",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quinteto-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "nota": "voz"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

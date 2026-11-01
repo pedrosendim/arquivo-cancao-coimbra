@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-la-187803",
+  "titulo": "Fado dos Passarinhos / Fases da lua",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187803",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Passarinhos",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187803-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fases da lua",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187803-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Passarinhos», por António Menano — etiqueta: «Fado dos Passarinhos  / (Antonio Menano) / Dr. Antonio Menano  / Guitarra João Fernandes  / Viola Mario Marques  / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1201/antonio_menano_fado_dos_passarinhos",
+          "doc": "museu-do-fado:we594cf90b038050e",
+          "citacao": "Título: Fado dos Passarinhos ... Editora: Od. LA 187803a Referências: OG1009, L, NR; LA 187803a ... Etiqueta: Fado dos Passarinhos  / (Antonio Menano) / Dr. Antonio Menano  / Guitarra João Fernandes  / Viola Mario Marques  / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: João Fernandes (guitarra), Mário Marques (viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fases da lua», por António Menano — etiqueta: «Fazes Da Lua / (Antonio Menano) / Dr. Antonio Menano  / Guitarra Joao Fernandes  / Viola Mario Marques  / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1200/antonio_menano_fases_da_lua",
+          "doc": "museu-do-fado:wb32c3b7cc42f85f2",
+          "citacao": "Título: Fases da lua ... Editora: Od. LA 187803b Referências: OG1019, L, NR; LA 187803b ... Etiqueta: Fazes Da Lua / (Antonio Menano) / Dr. Antonio Menano  / Guitarra Joao Fernandes  / Viola Mario Marques  / Berlin  / "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1201/antonio_menano_fado_dos_passarinhos",
+      "doc": "museu-do-fado:we594cf90b038050e",
+      "citacao": "Título: Fado dos Passarinhos ... Editora: Od. LA 187803a Referências: OG1009, L, NR; LA 187803a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1200/antonio_menano_fases_da_lua",
+      "doc": "museu-do-fado:wb32c3b7cc42f85f2",
+      "citacao": "Título: Fases da lua ... Editora: Od. LA 187803b Referências: OG1019, L, NR; LA 187803b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

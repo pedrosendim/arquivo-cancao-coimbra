@@ -1,0 +1,88 @@
+{
+  "id": "manuel-rodrigues-paredes-columbia-j-831",
+  "titulo": "Fado em mi menor / Maxixe poiarense",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "J 831",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manuel-rodrigues-paredes",
+      "funcao": "guitarra (solo)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado em mi menor",
+      "obra": "",
+      "media": [
+        "ouvir-manuel-rodrigues-paredes-columbia-j-831-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Maxixe poiarense",
+      "obra": "",
+      "media": [
+        "ouvir-manuel-rodrigues-paredes-columbia-j-831-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado em mi menor», por Manuel Rodrigues Paredes — etiqueta: «Fado em mi menor / (Música de Manuel Rodrigues Paredes) / Solo de guitarra  Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1364/manuel_rodrigues_paredes_fado_em_mi_menor",
+          "doc": "museu-do-fado:w762bc7860fe4f910",
+          "citacao": "Título: Fado em mi menor ... Editora: Co.J831 Referências: WP283, W, 32623, P283; J831 ... Etiqueta: Fado em mi menor / (Música de Manuel Rodrigues Paredes) / Solo de guitarra  Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho) / "
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: Ernesto H. de Carvalho (viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Maxixe poiarense», por Manuel Rodrigues Paredes — etiqueta: «Maxixe Poiarense  / (Musica da Manuel Rodrigues Paredes) / Solo de guitarra   Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1363/manuel_rodrigues_paredes_maxixe_poiarense",
+          "doc": "museu-do-fado:w644a16603b2f58b1",
+          "citacao": "Título: Maxixe poiarense ... Editora: Co.J831 Referências: WP285, W, 32617, P285; J831 ... Etiqueta: Maxixe Poiarense  / (Musica da Manuel Rodrigues Paredes) / Solo de guitarra   Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1364/manuel_rodrigues_paredes_fado_em_mi_menor",
+      "doc": "museu-do-fado:w762bc7860fe4f910",
+      "citacao": "Título: Fado em mi menor ... Editora: Co.J831 Referências: WP283, W, 32623, P283; J831"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1363/manuel_rodrigues_paredes_maxixe_poiarense",
+      "doc": "museu-do-fado:w644a16603b2f58b1",
+      "citacao": "Título: Maxixe poiarense ... Editora: Co.J831 Referências: WP285, W, 32617, P285; J831"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

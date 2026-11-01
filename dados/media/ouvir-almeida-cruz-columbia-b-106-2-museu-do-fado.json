@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-106-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2676_75.mp3",
+  "titulo": "O prior e o padre cura — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-106",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4900.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5268/almeida_cruz_o_prior_e_o_padre_cura",
+      "doc": "museu-do-fado:wbc077ae58069ddaf",
+      "citacao": "Título: O prior e o padre cura ... Editora: Columbia B 106 B 106 Referências: 11865, 1-, 11865; B106"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

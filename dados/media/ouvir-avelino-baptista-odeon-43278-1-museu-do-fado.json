@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-43278-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1125_04.mp3",
+  "titulo": "Fado das Mãos pequeninas — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-43278",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5526.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2230/avelino_baptista_fado_das_maos_pequeninas",
+      "doc": "museu-do-fado:w0f1da99cb49889e7",
+      "citacao": "Título: Fado das Mãos pequeninas ... Editora: Od. 43278 Referências: XO419, 43278; 43278"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

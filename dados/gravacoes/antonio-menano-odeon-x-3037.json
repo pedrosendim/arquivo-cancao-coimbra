@@ -1,0 +1,117 @@
+{
+  "id": "antonio-menano-odeon-x-3037",
+  "titulo": "Fado Triste / Fado Antigo (edição brasileira)",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3037",
+  "ano": "",
+  "local": "Brasil",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Triste",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Antigo",
+      "obra": "fado-postumo-do-hylario",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/NfmktS_q9jDWdpDgZ63BosUDuxWeMY7cdLeSMDz_Mpw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI1/OTEwLTE2NTkwMjQx/OTQtMTg0MS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/24025910",
+        "doc": "discogs:wf4b04b7fb8cc0be2",
+        "citacao": "Imagem (primary): https://i.discogs.com/NfmktS_q9jDWdpDgZ63BosUDuxWeMY7cdLeSMDz_Mpw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDI1/OTEwLTE2NTkwMjQx/OTQtMTg0MS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/24025910",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/24025910",
+          "doc": "discogs:wf4b04b7fb8cc0be2",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Brazil",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/24025910",
+          "doc": "discogs:wf4b04b7fb8cc0be2",
+          "citacao": "País: Brazil"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Fado Antigo (Maria, minha Maria): sessão de Lisboa, primavera de 1928 (Og 671); Fado Triste gravado em Lisboa (Og 689) e de novo em Berlim (Og 1018)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações concretizadas na cidade de Lisboa, durante a Primavera de 1928. Não está identificado o local onde decorreram as gravações, nem são conhecidos os instrumentistas intervenientes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 671: FADO ANTIGO (Maria, minha Maria)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 689: FADO TRISTE (Minha mãe é pobrezinha)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1018: FADO TRISTE (Minha mãe é pobrezinha)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não se sabe de que sessão provém o Fado Triste deste disco."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/24025910",
+      "doc": "discogs:wf4b04b7fb8cc0be2",
+      "citacao": "Editora: Odeon – X3037"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

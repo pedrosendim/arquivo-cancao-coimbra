@@ -1,0 +1,27 @@
+{
+  "id": "margarida-mulher-de-manuel-ribeiro-alegre",
+  "tipo": "pessoa",
+  "nome": "Margarida",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "manuel-ribeiro-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

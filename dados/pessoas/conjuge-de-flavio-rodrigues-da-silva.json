@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-flavio-rodrigues-da-silva",
+  "tipo": "pessoa",
+  "nome": "Mulher de Flávio Rodrigues da Silva (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/cantavam-e-tocavam-em-coimbra-em-1930.html",
+          "doc": "gc-v:7208676335184441888",
+          "citacao": "Flávio Rodrigues da Silva, de 26 anos de idade, casado, barbeiro, residente no Largo do Castelo."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Estado civil «casado» no Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931, citado no post."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

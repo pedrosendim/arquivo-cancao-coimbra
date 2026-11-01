@@ -1,0 +1,35 @@
+{
+  "id": "joao-martins",
+  "tipo": "pessoa",
+  "nome": "João Martins",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "verdes-anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+          "doc": "gc-i:112173820518069874",
+          "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/joo-martins-do-grupo-d-os-verdes-anos.html",
+          "doc": "gc-ii:1418397540126251295",
+          "citacao": "João Martins, do grupo d'Os Verdes Anos"
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

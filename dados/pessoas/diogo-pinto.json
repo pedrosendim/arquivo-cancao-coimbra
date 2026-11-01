@@ -1,0 +1,29 @@
+{
+  "id": "diogo-pinto",
+  "tipo": "pessoa",
+  "nome": "Diogo Pinto",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "inquietacao",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "Fundado em 2022, o conjunto Inquietação é composto por Guilherme Miranda e Daniel Lopes, na Guitarra de Coimbra, Eduardo Neves, na Viola de acompanhamento, e Diogo Pinto, o cantor. Com a homenagem a Edmundo de Bettencourt, o grupo “representa a sua geração e a componente identitária da Canção de Coimbra”, como dá a conhecer a nota de imprensa emitida pela SF/AAC."
+        }
+      ],
+      "nota": "voz; 2023"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,1278 @@
+{
+  "id": "flavio-rodrigues-da-silva",
+  "tipo": "pessoa",
+  "nome": "Flávio Rodrigues da Silva",
+  "nomes_alternativos": [
+    "Flávio Rodrigues",
+    "Flávio da Guitarra",
+    "o barbeiro da Velha Alta"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Flávio Rodrigues da Silva, filho de António Rodrigues da Silva e de Olívia de Campos, nasceu na cidade de Coimbra, Rua dos Militares, a 29 de Outubro de 1902, e faleceu na mesma cidade a 23 de Agosto de 1950. Barbeiro de profissão, gravou discos na casa Odeon, Paris, em Maio de 1927. Guitarrista notável e compositor, formou inúmeros discípulos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+      "doc": "gc-i:112967093114590702",
+      "citacao": "O Flávio, ... mestre-futrica com profissão de barbeiro também chamado o “Flávio da Guitarra”. Era filho de outro grande guitarrista, o António Rodrigues da Silva[23]. Morou a meio da Rua dos Militares, muito perto da Feira dos Lázaros. Ensinou muitas gerações de estudantes a tocar guitarra de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "doc": "gc-i:113544803961572695",
+      "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923), tendo dado espectáculos, serenatas, e gravados discos Odeon em Paris, a solo e com António Menano, tendo na aocasião Flávio interpretado variações e uma versão instrumental da Marcha da Rainha Santa"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/e-mistinguett.html",
+      "doc": "gc-v:9006409337037665533",
+      "citacao": "Vem ao caso que na primavera de 1927 dois humildes instrumentistas populares salatinas foram de comboio a Paris gravar umas guitarradas e acompanhar o Dr. António Menano em espetáculos e gravações nos estúdios da Odeon. Eram eles o barbeiro Flávio Rodrigues, tangedor de guitarra, e o empregado dos correios Augusto Louro, tocador de violão."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+      "doc": "gc-i:113370173660515952",
+      "citacao": "Homem do povo de Coimbra, barbeiro de profissão e grande virtuoso da guitarra, é outro dos grandes vultos do foro musical coimbrão, mestre de guitarra de várias gerações de estudantes nas décadas de 30 e de 40. Gravou alguns discos de guitarradas em 1927, participou na 1ª se´rie de registos de António Menano em Paris, e é autor de diversas peças e variações"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "O barbeiro Flávio Rodrigues da Silva (Coimbra, 29/10/1902; idem, 23/08/1950) continua a ser um mestre muito requisitado pelos aprendizes de guitarra. Toca frequentemente na sua barbearia, na Bufa Sapateira, no Avenida, no Grémio Literário, no Grupo Recreativo de Celas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/e-mistinguett.html",
+      "doc": "gc-v:9006409337037665533",
+      "citacao": "Flávio voltou, viveu do pouco que rendia o ofício das barbas e cabelos e ensinou os estudantes que lhe perguntavam onde pisar os dedos. Paris e o sorriso de Mistinguett foram com ele para Celas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/o-ensinoaprendizagem-da-guitarra-de.html",
+      "doc": "gc-v:3045550126776079135",
+      "citacao": "Ao contrário da família Paredes, os irmãos Rodrigues da Silva sempre tiveram disponibilidade e abertura para, de forma direta e intencional, transmitir ensinamentos a quem quisesse aprender guitarra de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Flávio Rodrigues da Silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Flávio Rodrigues da Silva, filho de António Rodrigues da Silva e de Olívia de Campos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "[23] Flávio Rodrigues da Silva (1902-1950), barbeiro, guitarrista e compositor amador."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, Rua dos Militares, 29 de Outubro de 1902",
+      "data": "1902-10-29",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "nasceu na cidade de Coimbra, Rua dos Militares, a 29 de Outubro de 1902"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "O barbeiro Flávio Rodrigues da Silva (Coimbra, 29/10/1902; idem, 23/08/1950)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Flávio Rodrigues nasceu em Coimbra em 1902 e morreu em 1950, com apenas 48 anos de idade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Coimbra",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "nasceu na cidade de Coimbra, Rua dos Militares"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 23 de Agosto de 1950",
+      "data": "1950-08-23",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "e faleceu na mesma cidade a 23 de Agosto de 1950"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:2712520702035375656",
+          "citacao": "O irmão Flávio Rodrigues da Silva (1902 - 1950) de quem apresentaremos uma curta resenha biográfica a 23 de Agosto, no sexagésimo quarto aniversário do seu falecimento em Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/dasmemorias-da-cancao-de-coimbra-por.html",
+          "doc": "gc-v:119665382177207533",
+          "citacao": "pois nasceu em 1902 e faleceu em 1950, em idade de 48 anos. Flávio estava, outrossim, muito envelhecido pela doença, aparentando uma idade biológica que ainda não lhe batera à porta."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Barbeiro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "O Flávio, ... mestre-futrica com profissão de barbeiro também chamado o “Flávio da Guitarra”."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Barbeiro de profissão, gravou discos na casa Odeon, Paris, em Maio de 1927."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "os irmãos Rodrigues da Silva, o Flávio, «o barbeiro da Velha Alta» e o Fernando, «o barbeiro da Académica»."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Rua dos Militares, Coimbra (\"a meio da Rua dos Militares, muito perto da Feira dos Lázaros\")",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Morou a meio da Rua dos Militares, muito perto da Feira dos Lázaros."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Largo do Castelo, Coimbra (Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/cantavam-e-tocavam-em-coimbra-em-1930.html",
+          "doc": "gc-v:7208676335184441888",
+          "citacao": "segundo dados registados no Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931. ... Flávio Rodrigues da Silva, de 26 anos de idade, casado, barbeiro, residente no Largo do Castelo. Guitarrista, gravou discos com António Menano."
+        }
+      ],
+      "conflito": false,
+      "nota": "Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931, citado no post. O anuário regista-o como casado."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Bairro das Sete Fontes, Celas (a família foi transferida compulsivamente da velha Alta)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 8 de Dezembro foi oficialmente inaugurado o Bairro das Sete Fontes, em Celas, para onde o Estado transferiu compulsivamente dezenas de desalojados da velha Alta, entre eles a família Flávio Rodrigues."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/e-mistinguett.html",
+          "doc": "gc-v:9006409337037665533",
+          "citacao": "Paris e o sorriso de Mistinguett foram com ele para Celas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia (gc-i:116638481779194072) a entrada figura sob o ano de 1947."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Terá aprendido a tocar com José Lopes da Fonseca (Zé Trego), colega de seu pai",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/jose-lopesda-fonseca-jose-trego-1883.html",
+          "doc": "gc-v:714642813462667538",
+          "citacao": "O próprio compositor e guitarrista Flávio Rodrigues da Silva (1902 – 1950), terá aprendido a tocar com este mestre barbeiro, colega de seu pai, António Rodrigues da Silva, antes de se estabelecer por conta própria"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jose-trego.html",
+          "doc": "gc-v:554992119074950083",
+          "citacao": "Diz-se que o célebre também barbeiro instrumentista de guitarra, compositor e mestre de tantos estudantes, Flávio Rodrigues (1902 – 1950) terá aprendido a tocar com o amigo Zé Trego, colega de seu pai António Rodrigues da Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes usam o condicional («terá aprendido», «Diz-se»)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Seguiu a veia familiar na barbearia e nos cordofones, nas quais o pai era mestre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:2712520702035375656",
+          "citacao": "Fernando, tal como o seu irmão Flávio já o fizera, seguiu a veia familiar na barbearia e nos cordofones, nas quais seu pai era mestre."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Trio Coimbra, com Augusto da Silva Louro e José Maria dos Santos (por 1923)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "a ligação definitiva do violão à guitarra só viria a consagrar-se na década de 1920, em duos e trios: ... -Flávio Rodrigues (g) e Augusto da Silva Louro/José Maria dos Santos (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações na Odeon, Paris, na primeira quinzena de dezembro de 1926 (duo com Augusto Louro, com António Menano)",
+      "data": "1926-12",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/antonio-menano-em-paris-1926.html",
+          "doc": "gc-v:2429690862671069749",
+          "citacao": "Esta crónica de O Comércio do Porto, de 18.12.1926, confirma que as gravações parisienses tiveram lugar na primeira quinzena de dezembro de 1926, e a edição comercial em 1927."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/antonio-menano-em-paris-1926.html",
+          "doc": "gc-v:2429690862671069749",
+          "citacao": "a identidade do duo instrumental que viajou de Coimbra para Paris de comboio e participou nas gravações: o barbeiro guitarrista Flávio Rodrigues da Silva e o viola de acompanhamento e funcionário dos correios Augusto Louro."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Mais uma notícia de imprensa a confirmar que as primeiras gravações de António Menano e do duo Flávio Rodrigues/Augusto Louro tiveram lugar em Paris, na casa Odéon, em dezembro de 1926 e não em 1927como foi voz corrente."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Commercio do Porto, 18.12.1926, e O Despertar (Coimbra), 24.11.1926, citados nos posts. Os posts de 2016-2017 corrigem a data de 1927."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações na Odeon, Paris, em maio de 1927 (a solo e a acompanhar António Menano, com Augusto Louro)",
+      "data": "1927-05",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Barbeiro de profissão, gravou discos na casa Odeon, Paris, em Maio de 1927."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+          "doc": "gc-v:597665629924075444",
+          "citacao": "Em maio de 1927, durante a sua estadia em Paris, o duo de guitarra e violão formado por Flávio Rodrigues da Silva e Augusto Louro não se limitou a acompanhar as gravações de António Menano na Odeon. Houve convívios artísticos e o próprio Flávio gravou a solo diversos instrumentais na mesma editora."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações efectuadas nos estúdios da Odeon em Paris, no mês de Maio de 1927, sendo o cantor acompanhado em Guitarra de Coimbra de 17 pontos, afinada ao natural, por Flávio Rodrigues da Silva (1902-1950)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "António Menano gravou na Odeon de Paris, em Maio de 1927, acompanhado por Flávio Rodrigues da Silva e Augusto Louro."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações em Paris na primavera de 1927",
+      "data": "1927",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/e-mistinguett.html",
+          "doc": "gc-v:9006409337037665533",
+          "citacao": "Vem ao caso que na primavera de 1927 dois humildes instrumentistas populares salatinas foram de comboio a Paris gravar umas guitarradas e acompanhar o Dr. António Menano"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "as gravações de Flávio Rodrigues decorreram na Primavera de 1927, estando presente Augusto Louro."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Odeon Og. 582 (136.298), «Fados corridos (em Ré menor)», Paris, 1927, seleção e arranjo de Flávio Rodrigues, com Augusto Louro (v)",
+      "data": "1927",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "Etiqueta do disco Odeon Og. 582 (136.298), FADOS CORRIDOS (EM RÉ MENOR), Paris, 1927, seleção e arranjo de Flávio Rodrigues (gC), acompanhado por Augusto Louro (v). Gravação acústica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Odeon Og. 601 (A 187000) e Og. 602 (A 187001), «Variações em Ré menor» I e II parte, Paris, 1927, com Augusto Louro (v)",
+      "data": "1927",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "Etiqueta do disco de massa Odeon Og. 601 (A 187000), VARIAÇÕES EM RÉ MENOR I PARTE, Paris, 1927, com Flávio Rodrigues (gC) e Augusto Louro (v). Gravação acústica. Etiqueta do disco de massa Odeon Og. 602 (A 187001), VARIAÇÕES EM RÉ MENOR II PARTE, com Flávio Rodrigues (gC) e Augusto Louro (v). Gravação acústica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Odeon 136.292, Og 570, «Canção do Poeta» (versão de «Sonhos Dourados», de José Elyseu), Paris, maio de 1927, com Augusto Louro (v)",
+      "data": "1927-05",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+          "doc": "gc-v:597665629924075444",
+          "citacao": "Um instrumental de difícil acesso gravado por Flávio Rodrigues (g), acompanhado por Augusto Louro (v) foi CANÇÃO DO POETA, com autoria omissa na etiqueta fonográfica: disco de 78 rpm, Odeon 136.292, Og 570, Paris, maio de 1927. A música é uma versão flaviana um tanto livre de uma canção popularizada em Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/07/sonhos-dourados.html",
+          "doc": "gc-v:7856607907213839712",
+          "citacao": "Em 1927 Flávio Rodrigues gravaria em Paris uma primeira versão instrumental, com o título modificado para Canção do Poeta, com omissão de autoria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "5 variações registadas em 1927",
+      "data": "1927",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/proposta-de-reedio-fonogrfica.html",
+          "doc": "gc-i:113430013992414670",
+          "citacao": "-Flávio Rodrigues da Silva, com 5 variações registadas em 1927;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhou António Menano nas gravações de Paris; terá participado apenas na sessão de Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-13.html",
+          "doc": "gc-v:3128225641968121608",
+          "citacao": "Para as gravações de Paris foram identificados os instrumentistas conimbricenses Flávio Rodrigues da Silva (gC) e Augusto da Silva Louro (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "De acordo com os relatos orais mantidos pelos familiares de Flávio Rodrigues e Augusto Louro, estes instrumentistas conimbricenses de guitarra e violão apenas participaram na sessão de Paris."
+        }
+      ],
+      "conflito": false,
+      "nota": "O livro de 2002 (pp. 19-20, citado em gc-i:116523122528887795) não se atreveu a afirmar que o guitarrista de Paris fora Flávio; o post diz que dados posteriores a 2002 o confirmam."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou em Paris com Lucas Junot (testemunho de Luís Salatina)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Era o Lucas Junot. Foi cantor do Orfeon. Era fanhoso. Ele trouxe para Coimbra as canções da Beira Baixa. Foi gravar a Paris com o Flávio Rodrigues[22]."
+        }
+      ],
+      "conflito": true,
+      "nota": "Testemunho oral reproduzido no post; a nota [22] do mesmo post contesta-o."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Lucas Junot não gravou discos com Flávio Rodrigues (rumor da tradição oral salatina)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Mantemos no texto as declarações de Luís Salatina, frisando que não são correctas. Junot não gravou quaisquer discos com Flávio Rodrigues, embora tal rumor corra na tradição oral coimbrã salatina."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Recolhas de Armando Leça (1939-1940): guitarrada(s) com o irmão Fernando no violão",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/armando-leca-em-coimbra-1939.html",
+          "doc": "gc-v:7598766524592715091",
+          "citacao": "No meio destas gravações foi tomado pelo menos um registo de uma guitarrada com Flávio Rodrigues (guitarra toeira de Coimbra) e seu irmão Fernando Rodrigues (violão de cordas de aço), que ainda não consegui ouvir."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/correio-dos-leitores-eu-sou-bisneto-do.html",
+          "doc": "gc-v:1203597160627151558",
+          "citacao": "de quem ouvimos recentemente dois solos de guitarra (com seu irmão Fernando no violão) gravados em 1939/1940 pelo musicólogo Armando Leça."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2014 fala de «pelo menos um registo» ainda não ouvido; o de 2017 refere «dois solos de guitarra» já ouvidos."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuação do trio de Flávio Rodrigues (notícia de O Despertar, 3 de maio de 1930)",
+      "data": "1930",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Atuação do trio de Flávio Rodrigues, in O Despertar\", Coimbra, Ano XIV, n.º 1334, 3 de Maio de 1930, p. 4."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Despertar, Coimbra, Ano XIV, n.º 1334, 3 de maio de 1930, p. 4, reproduzido no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuação do trio de Flávio Rodrigues em Lisboa (notícia de O Despertar, 16 de julho de 1930)",
+      "data": "1930",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Atuação do trio de Flávio Rodrigues em Lisboa, in \"O Despertar\", Coimbra, Ano XIV, n.º 1355, 16 de Julho de 1930, p. 2"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Despertar, Coimbra, Ano XIV, n.º 1355, 16 de julho de 1930, p. 2, reproduzido no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Guitarradas no intervalo da opereta «Viúva Alegre em Cascais», Teatro Avenida, acompanhado ao violão pelo irmão Fernando",
+      "data": "1938-05-16",
+      "local": "Coimbra, Teatro Avenida",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 16 de Maio estreou-se no Teatro Avenida a opereta Viúva Alegre em Cascais, representada pelo Grupo Cénico do Ateneu Ferroviário em favor da Associação dos Diabéticos Pobres. No intervalo interpretou guitarradas Flávio Rodrigues da Silva, acompanhado no violão por seu irmão Fernando Rodrigues (cf. Diário de Coimbra, de 16/05/1938)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Diário de Coimbra, 16/05/1938, citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Toca na sua barbearia, na Bufa Sapateira, no Avenida, no Grémio Literário e no Grupo Recreativo de Celas; mestre muito requisitado",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "O barbeiro Flávio Rodrigues da Silva (Coimbra, 29/10/1902; idem, 23/08/1950) continua a ser um mestre muito requisitado pelos aprendizes de guitarra. Toca frequentemente na sua barbearia, na Bufa Sapateira, no Avenida, no Grémio Literário, no Grupo Recreativo de Celas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada sob o ano de 1945 na cronologia do post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Repertório: Variações em Ré Menor I e II, Marcha da Rainha Santa (César Maggliano), Chula do Douro, O Beijo (Cipriano Pio), Não Ames (Valsa em Fá), Fado em Dó (Borges de Sousa), Valsa em Sol, Marcha Turca, Marcha Militar",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Convertido ao método Paredes, dotado de excelente ouvido e de notável sentido de ritmo, faz furor com as suas Variações em Ré Menor I e II, Marcha da Rainha Santa (César Maggliano), Chula do Douro (adaptação de Antero da Veiga), O Beijo (Cipriano Pio), Não Ames (vulgo Valsa em Fá, de José Eliseu), Fado em Dó (Borges de Sousa), Valsa em Sol, Marcha Turca (Mozart), Marcha Militar (Schubert)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Esta peça, datável de 1907, era da autoria do barbeiro Cipriano Pio, tendo inspirado uma variação muito tocada por Flávio Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada sob o ano de 1945 na cronologia do post."
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Guitarra em afinação natural (gravações de Paris)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "acompanhado à guitarra em afinação natural por Flávio Rodrigues da Silva e no violão aço por Augusto da Silva Louro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "acompanhado em Guitarra de Coimbra de 17 pontos, afinada ao natural, por Flávio Rodrigues da Silva"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/proposta-de-reedio-fonogrfica.html",
+          "doc": "gc-i:113430013992414670",
+          "citacao": "a guitarra tocada em afinação natural (Antero da Veiga, Flávio Rodrigues da Silva, Ricardo Borges de Sousa)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Convertido ao método Paredes (cronologia, entrada de 1945)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Convertido ao método Paredes, dotado de excelente ouvido e de notável sentido de ritmo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Cf. o facto sobre a afinação natural nas gravações de 1927 e a afirmação de que até à sua morte a adoção do modelo parediano de guitarra seria impensável."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra toeira de Coimbra, associada à oficina de Raul Simões; usada até 1950; depositada no Museu Académico",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Este cordofone fabricou-se nas oficinas conimbricenses até aos inícios da década de 1950, tendo sido o seu último representante Raul Simões: ... guitarra de Flávio Rodrigues da Silva, utilizada pelo tocador ate 1950, todas depositadas no Museu Académico."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Na obra Flávio Rodrigues da Silva. Fragmentos para uma guitarra reproduziram uma imagem da guitarra associada à oficina de Raul Simões e uma ficha técnica com detalhes de construção. As guitarras de Raul Simões estão ainda associadas a executantes como Flávio Rodrigues da Silva"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/armando-leca-em-coimbra-1939.html",
+          "doc": "gc-v:7598766524592715091",
+          "citacao": "Flávio Rodrigues (guitarra toeira de Coimbra)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Até à sua morte, a adoção do modelo parediano de guitarra seria impensável nos círculos de cultores de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Até à morte do tocador popular Flávio Rodrigues, a adopção do modelo parediano seria impensável."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/dr.html",
+          "doc": "gc-i:115289634641745710",
+          "citacao": "Nos meios populares locais menos afectos a Artur Paredes e mais dados à herança de Flávio Rodrigues, por muitos anos se argumentou que o novo modelo de guitarra não se adequava a incarnar convenientemente as tradições musicais de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Ensinou guitarra a muitas gerações de estudantes (décadas de 30 e 40), na sua barbearia",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Ensinou muitas gerações de estudantes a tocar guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "mestre de guitarra de várias gerações de estudantes nas décadas de 30 e de 40"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Guitarrista notável e compositor, formou inúmeros discípulos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/dasmemorias-da-cancao-de-coimbra-por.html",
+          "doc": "gc-v:119665382177207533",
+          "citacao": "O almejado “curso” de guitarra nunca chegou a arrancar, pelo que os jovens aprendizes faziam as suas lides iniciáticas na vizinha barbearia de Flávio Rodrigues da Silva."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/revoluo-do-mtodo-e-perturbao-das.html",
+          "doc": "gc-i:111654854122327159",
+          "citacao": "— Flávio Rodrigues, o inspirado barbeiro-guitarrista, chegou a ensinar a sua arte maior;"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "O Flávio Rodrigues era um bom professor, foi sempre um bocadinho independente e não costumava acompanhar os estudantes nas serenatas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Figura mitificada por gerações de estudantes; a continuidade do ensino pelo irmão Fernando prolongou a ideia da sua ação",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/o-ensinoaprendizagem-da-guitarra-de.html",
+          "doc": "gc-v:3045550126776079135",
+          "citacao": "Aliás a figura de Flávio Rodrigues da Silva foi, durante muito tempo, mitificada por algumas gerações de estudantes. Este facto levou a que, apesar da grande disponibilidade que sempre teve para ensinar, se criasse a ideia de que Flávio tivesse tido uma ação mais prolongada no tempo do que aquela que na realidade teve. A criação deste mito deve-se, em grande medida, ao facto do seu irmão Fernando Rodrigues da Silva ter dado continuidade ao trabalho iniciado por Flávio Rodrigues da Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Frequentadores da barbearia: José Régio e outros elementos da Presença",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Era comum encontrar o José Régio (e outros elementos da então novel revista literária ‘A Presença’) na barbearia do Flávio Rodrigues, a aguardar vez, dedilhando destramente a viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ativo na Sociedade Tradicional Futrica, com ligações ao meio estudantil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/dasmemorias-da-cancao-de-coimbra-por.html",
+          "doc": "gc-v:119665382177207533",
+          "citacao": "Activos na Sociedade Tradicional Futrica, mas com ligações ao meio estudantil, homens como José Lopes da Fonseca e Flávio Rodrigues da Silva ajudavam a fazer a ligação entre o passado e o presente."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«Valsa em Fá» atribuída a Flávio Rodrigues",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/revoluo-do-mtodo-e-perturbao-das.html",
+          "doc": "gc-i:111654854122327159",
+          "citacao": "em EP que inclui ainda a Valsa em Fá de Flávio Rodrigues"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Armando Luís de Carvalho Homem (2005). Ver o facto seguinte."
+    },
+    {
+      "campo": "outro",
+      "valor": "«Valsa em Fá» é «Não Ames», de José Elyseu, em arranjo de Flávio Rodrigues; atribuída erradamente a Flávio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Não Ames, cuja melodia originou uma valsa erradamente atribuída a Flávio Rodrigues da Silva (=Valsa em Fá Maior)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/um-vislumbre-de-jose-elyseu.html",
+          "doc": "gc-v:669364490763888807",
+          "citacao": "A famosa valsa de José das Neves Elyeu, NÃO AMES, por longos anos atribuída erradamente ao guitarrista popular Flávio Rodrigues da Silva (vide \"Valsa em Fá\")"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra_26.html",
+          "doc": "gc-v:6930350165687949746",
+          "citacao": "Título original NÃO AMES, também conhecida por CANÇÃO DA BENCANTA (1903), música de José das Neves Elyseu, arranjo para guitarra de Coimbra de Flávio Rodrigues da Silva."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/programa-da-serenata-popular-ontem-nas.html",
+          "doc": "gc-i:111784734612804973",
+          "citacao": "\"Não me ames\", posta em guitarra por Flávio Rodrigues com o nome de \"Valsa em Fá\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/contracapa-do-ep-guitarras-de-coimbra.html",
+          "doc": "gc-i:113166905020394121",
+          "citacao": "-Valsa em Fá, onde se lê \"Valsa em Fá\", deve ler-se \"Não Ames\"; onde se lê \"Flávio Rodrigues\", deve ler-se José das Neves Elyseu;"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Apreciação crítica: acompanhamentos dos discos de António Menano considerados rudimentares",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/registos-fonogrficos-de-carlos-leal-e.html",
+          "doc": "gc-i:115151098147348832",
+          "citacao": "são os desempenhos rudimentaríssimos audíveis nos discos de José Paradela de Oliveira, José Dias, António Batoque, António Menano e Elísio de Matos. Estamos a falar de nomes habitualmente exaltados como Flávio Rodrigues (voz Menano)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Memória preservada pela Sociedade Tradicional Académica; nomeação obrigatória nas autobiografias de académicos oposicionistas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "Expulsos os futricas, a Sociedade Tradicional Académica apenas admite Artur Paredes e Carlos Paredes, abrindo ainda excepção à memória d barbeiro Flávio Rodrigues. O último passaria a nomeação obrigatória nas autobiografias dos académicos oposicionistas do Estado Novo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem na sede do Rancho das Tricanas de Coimbra, a 28 de Maio, com Armando Simões e Antero da Veiga",
+      "data": "1949-05-28",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 28 de Maio realizou-se uma homenagem, na sede do Rancho das Tricanas de Coimbra, a Flávio Rodrigues. Colaboraram nesta homenagem o veterinário Armando Simões e Antero da Veiga."
+        }
+      ],
+      "conflito": false,
+      "nota": "O ano (1949) resulta da secção da cronologia onde a entrada figura."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Dossiê «Flávio Rodrigues da Silva (1902-1950)», Comissão Os Salatinas [1993], para atribuição do seu nome a uma rua",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/01/no-cantinho-da-gaveta-2-dossie.html",
+          "doc": "gc-v:5478339606482033427",
+          "citacao": "Dossiê policopiado contendo o processo documental «Flávio Rodrigues da Silva (1902-1950), Coimbra, Comissão Os Salatinas [1993]», 97 folhas, apresentado à CMC para fins de atribuição do nome do barbeiro-guitarrista a uma rua da cidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Primeiro centenário do nascimento (1902-2002), promovido pelos Salatinas; homenagem da Câmara Municipal de Coimbra; homenagem em Coimbra, novembro de 2002",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cidade-universitria-enquanto-no-fica.html",
+          "doc": "gc-i:114753190661696963",
+          "citacao": "organizações como o \"Primeiro Centenário do Guitarrista Flávio Rodrigues da Silva (1902-2002)\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/flvio-rodrigues-da-silva-fragmentos.html",
+          "doc": "gc-i:111185506827295850",
+          "citacao": "Foi em boa hora que os \"Salatinas\" se dispuseram a comemorar o primeiro centenário do nascimento de Flávio Rodrigues."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/centenrios-do-nascimento-de-armando.html",
+          "doc": "gc-i:115419861341790780",
+          "citacao": "as homenagens feitas a Augusto Hilário (CMViseu), António Menano (CMFornos de Algodres), Nuno Guimarães (CMVila Nova de Gaia), Flávio Rodrigues (CMCoimbra)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tocou-o na Homenagem a Flávio Rodrigues (Coimbra, Nov.2002)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "catálogo \"Centenário do nascimento do guitarrista Flávio Rodrigues da Silva (1902-2002)\", Coimbra, Edição da Câmara Municipal de Coimbra, 2002."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Livro «Flávio Rodrigues da Silva. Fragmentos para uma guitarra», de António Manuel Nunes e José dos Santos Paulo, MinervaCoimbra, 2002",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/flvio-rodrigues-da-silva-fragmentos.html",
+          "doc": "gc-i:111185506827295850",
+          "citacao": "\"Flávio Rodrigues da Silva - Fragmentos para uma guitarra\". Livro escrito por António Manuel Nunes e José dos Santos Paulo e editado pela MinervaCoimbra, em 2002."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Em 2001-2002 José Paulo trabalhou horas incontáveis no estudo e transcrição do repertório de Flávio Rodrigues da Silva sem receber honorários."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "O mesmo livro referido como edição da MinervaCoimbra de 1999",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "no seu livro “Flávio Rodrigues da Silva, Fragmentos para uma guitarra”, página 36, edição da MinervaCoimbta, de 1999."
+        }
+      ],
+      "conflito": true,
+      "nota": "Provável gralha no post; os restantes posts indicam 2002. Registado por divergir."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "CD de homenagem «Flávio Rodrigues da Silva, Coimbra, Velha Alta», por José Paulo, Aurélio Reis, Eduardo Aroso e Manuel Rocha",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "CD Flávio Rodrigues da Silva, Coimbra, Velha Alta (2010, com Aurélio dos Reis e Eduardo Aroso)"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/disco-de-homenagem-flavio-rodrigues-com.html",
+          "doc": "gc-iv:6870674672924499807",
+          "citacao": "Disco de homenagem a Flávio Rodrigues, com a participação de José Paulo em guitarra, Aurélio Reis e Eduardo Aroso em viola e Manuel Rocha em violino."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Placa alusiva a Flávio Rodrigues em Celas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/fogueiras-de-s.html",
+          "doc": "gc-i:2368299126982423343",
+          "citacao": "Segui depois para Celas, onde o ambiente era muito fraco. Dei de caras com a placa alusiva a Flávio Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Texto de Manuel Dias no Diário de Coimbra, 24 de novembro de 2006",
+      "data": "2006-11-24",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/flvio-rodrigues-no-dirio-de-coimbra-de.html",
+          "doc": "gc-i:116438373324421610",
+          "citacao": "Flávio Rodrigues no Diário de Coimbra de hoje, num texto de Manuel Dias, um seu contemporâneo e amigo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Flávio Rodrigues da Silva, filho de António Rodrigues da Silva e de Olívia de Campos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/viagem-aos-lugares-da-memria-das.html",
+          "doc": "gc-i:112967093114590702",
+          "citacao": "Era filho de outro grande guitarrista, o António Rodrigues da Silva[23]."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "fernando-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Fernando Rodrigues da Silva (19-01-1915; 2-12-1964), irmão de Flávio Rodrigues"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:2712520702035375656",
+          "citacao": "O irmão Flávio Rodrigues da Silva (1902 - 1950)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/jose-lopesda-fonseca-jose-trego-1883.html",
+          "doc": "gc-v:714642813462667538",
+          "citacao": "O próprio compositor e guitarrista Flávio Rodrigues da Silva (1902 – 1950), terá aprendido a tocar com este mestre barbeiro"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jose-trego.html",
+          "doc": "gc-v:554992119074950083",
+          "citacao": "Flávio Rodrigues (1902 – 1950) terá aprendido a tocar com o amigo Zé Trego"
+        }
+      ],
+      "nota": "Relação em condicional nas fontes («terá aprendido», «Diz-se»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/e-mistinguett.html",
+          "doc": "gc-v:9006409337037665533",
+          "citacao": "foram de comboio a Paris gravar umas guitarradas e acompanhar o Dr. António Menano em espetáculos e gravações nos estúdios da Odeon. Eram eles o barbeiro Flávio Rodrigues, tangedor de guitarra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "acompanhado à guitarra em afinação natural por Flávio Rodrigues da Silva"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-da-silva-moreira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Carlos da Silva Moreira (dito “Rouxinol de Coimbra”, 25/11/1904; 19/05/1976). Alfaiate de profissão, cobrador e funcionário municipal, tenor aplaudido, serenateiro e intérprete de canções populares. Foi acompanhado regularmente por Flávio Rodrigues;"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "alexandre-louro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Alexandre Louro (1899-1985), cantor de temas como Ó Águia, O Beijo, Balada de Coimbra e Noite Serena. Terá ficado célebre, de acordo com o relato familiar, numa festa dada no Casino do Estoril por alturas da celebração do Armistício/Tratado de Versalhes, em que foi acompanhado por Flávio Rodrigues da Silva"
+        }
+      ],
+      "nota": "Segundo «relato familiar», em condicional na fonte."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
+          "doc": "gc-v:2387969368640592301",
+          "citacao": "Augusto Camacho Vieira vem confirmado num seu depoimento de 2005 no blogue Guitarra de Coimbra. ... Camacho se refere a aplausos ... «Recordo dessa altura os futricas Fernando Rodrigues, tocador de viola, e seu irmão Flávio Rodrigues. ... a arte genial do Flávio, que me arrebatou a acompanhar-me no \"Fado das Águias\""
+        }
+      ],
+      "nota": "Testemunho do próprio cantor, citado no post."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "olivia-de-campos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Flávio Rodrigues da Silva, filho de António Rodrigues da Silva e de Olívia de Campos, nasceu na cidade de Coimbra"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/x/blogger/6011/903/1024/639602/Flavio%20Rodrigues%20D%20Beiras%2024-11-2006.jpg",
+      "legenda": "Flávio Rodrigues no Diário de Coimbra de hoje, num texto de Manuel Dias, um seu contemporâneo e amigo.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/flvio-rodrigues-no-dirio-de-coimbra-de.html",
+          "doc": "gc-i:116438373324421610",
+          "citacao": "Flávio Rodrigues no Diário de Coimbra de hoje, num texto de Manuel Dias, um seu contemporâneo e amigo."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Flvio Rodrigues - Antnio Nunes.jpg",
+      "legenda": "\"Flávio Rodrigues da Silva - Fragmentos para uma guitarra\". Livro escrito por António Manuel Nunes e José dos Santos Paulo e editado pela MinervaCoimbra, em 2002.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/flvio-rodrigues-da-silva-fragmentos.html",
+          "doc": "gc-i:111185506827295850",
+          "citacao": "\"Flávio Rodrigues da Silva - Fragmentos para uma guitarra\". Livro escrito por António Manuel Nunes e José dos Santos Paulo e editado pela MinervaCoimbra, em 2002."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhuvXpwp_Rfufqcm6CUbADth1PeYiLbfKTwGkohX3mowCiUktpOLfQM6PxAGGTATOZ7J_8-Iqc-o0GyvSECwN6lpk8yzefy5TEY7C4WawA4tmcqztqli3RFxfatP0_9an4zROfZ0f2qlU/s1600/Flavio.jpg",
+      "legenda": "Dossiê policopiado contendo o processo documental «Flávio Rodrigues da Silva (1902-1950), Coimbra, Comissão Os Salatinas [1993]»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/01/no-cantinho-da-gaveta-2-dossie.html",
+          "doc": "gc-v:5478339606482033427",
+          "citacao": "Dossiê policopiado contendo o processo documental «Flávio Rodrigues da Silva (1902-1950), Coimbra, Comissão Os Salatinas [1993]»"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgilbwWoZ7Jw1kSLbWv91shQzw5g0rJ9Pk1RDf90oDJN_6_-Cxf0qPCdFLhSDyLJnYEf55d94-cd5ihzpPV6sFGlCXuJ7yY05k2iAW_-kOtWVYN3A0TWBtgrJN4t-Y5T2RL6VzrrIlO_g4/s1600/O+Despertar+3+Maio+1930+p4+%25282%2529.jpg",
+      "legenda": "Atuação do trio de Flávio Rodrigues, in O Despertar, Coimbra, Ano XIV, n.º 1334, 3 de Maio de 1930, p. 4.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Atuação do trio de Flávio Rodrigues, in O Despertar\", Coimbra, Ano XIV, n.º 1334, 3 de Maio de 1930, p. 4."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4WKuEl_uwwlRBj6o52Ces9boP17Y3hfqImOzcE0oF4be2EigZhDVaawZbf6ovIJrP28LJDDXj1wtKdrpqnLFdlOiwmQ3RFBfGCLYspHXkDkTmioZZPuLrmzQucSPOqjcarGrxijSlymg/s1600/O+Despertar+16+Julho+1930+p2+%25282%2529.jpg",
+      "legenda": "Atuação do trio de Flávio Rodrigues em Lisboa, in \"O Despertar\", Coimbra, Ano XIV, n.º 1355, 16 de Julho de 1930, p. 2",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Atuação do trio de Flávio Rodrigues em Lisboa, in \"O Despertar\", Coimbra, Ano XIV, n.º 1355, 16 de Julho de 1930, p. 2"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZhZbixuS0DnXMP9OcPl-1xRCQWTJ2gg9zNVnJwvtI2m7ucNCCSZdHK4_gsdW6DIkHFFA9oETbR52FxDUGOJW-wuCp13jX0h6Ubijb-g-idRCYyb3l3TfsqqxqowgtS3j1tpW9YYkXcw/s1600/O+Despertar+24+Novembro+1926+p2+%25282%2529.jpg",
+      "legenda": "Fonte: O Despertar, Coimbra, Ano X, n.º 986, 24 de Novembro de 1926, p. 2. Mais uma notícia de imprensa a confirmar que as primeiras gravações de António Menano e do duo Flávio Rodrigues/Augusto Louro tiveram lugar em Paris, na casa Odéon, em dezembro de 1926",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "Fonte: O Despertar, Coimbra, Ano X, n.º 986, 24 de Novembro de 1926, p. 2. Mais uma notícia de imprensa a confirmar que as primeiras gravações de António Menano e do duo Flávio Rodrigues/Augusto Louro tiveram lugar em Paris, na casa Odéon, em dezembro de 1926"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqXtBiPGkLe4TTPYekajOupvx2uu_wHnBmsoCz4YvLkrkT_padloew0Us-gYzQWIopzMWHBXcwGiQDUegusVvh7Hn-XRVHHBn-W8StuA01VpyVYcwHeoz8iUFGFCiUfjNof4xcp6yhyphenhyphenZUL/s1600/164a+Rodela+Flavio+%2526+Louro+Fados+Corridos+%25282%2529.jpg",
+      "legenda": "Etiqueta do disco Odeon Og. 582 (136.298), FADOS CORRIDOS (EM RÉ MENOR), Paris, 1927, seleção e arranjo de Flávio Rodrigues (gC), acompanhado por Augusto Louro (v).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "Etiqueta do disco Odeon Og. 582 (136.298), FADOS CORRIDOS (EM RÉ MENOR), Paris, 1927, seleção e arranjo de Flávio Rodrigues (gC), acompanhado por Augusto Louro (v)."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhK5LoKhL1xtF_syFrp8ppcDZz8xitJlygIOkkYUb5xeE8XM94bCpCix2fCgNp7rT0iucki19fcf3sJRfOykEbLuPocgfCxESaiWIRhNwYBWb5fZnyVUJHjKhznJ8EqaDumUI9S9foOQ-/s1600/334a+4a+Rodela+Var.+em+R%25C3%25A9+menor+I+Parte+-+Fl%25C3%25A1vio+%2526+Louro+%25282%2529.jpg",
+      "legenda": "Etiqueta do disco de massa Odeon Og. 601 (A 187000), VARIAÇÕES EM RÉ MENOR I PARTE, Paris, 1927, com Flávio Rodrigues (gC) e Augusto Louro (v).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "Etiqueta do disco de massa Odeon Og. 601 (A 187000), VARIAÇÕES EM RÉ MENOR I PARTE, Paris, 1927, com Flávio Rodrigues (gC) e Augusto Louro (v)."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejEML9u-UcPTVlEgox4ZERkSo3rmtDVU5Dzq2OYJ_nmNh5MPQ88oEasfrySW7Ad58cYmvX1VtcWXSd0Sq-gYvreskOsDt6njfkxcyduXjUwV_oamGIUFvUkPpih7hfp4An18ENGrJtXVR/s1600/334b+4b+Rodela+Var.+em+R%25C3%25A9+menor+II+Parte+-+Fl%25C3%25A1vio+%2526+Louro+%25282%2529.jpg",
+      "legenda": "Etiqueta do disco de massa Odeon Og. 602 (A 187001), VARIAÇÕES EM RÉ MENOR II PARTE, com Flávio Rodrigues (gC) e Augusto Louro (v).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "Etiqueta do disco de massa Odeon Og. 602 (A 187001), VARIAÇÕES EM RÉ MENOR II PARTE, com Flávio Rodrigues (gC) e Augusto Louro (v)."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9bDhxsy7_7P7pIhPiCcjJb3afgThHnewigpOXFeFS197kKxbElJMBkhTrylyqjwfOUqeBuuPYyDU4bPwb0Ecpqlo6-7l3ixMTaBprTyiapf8_Zo9du0SHTsc9cTEC3picXOoo_Sz8B7U/s1600/JPauloDiscoAReis1.jpg",
+      "legenda": "Disco de homenagem a Flávio Rodrigues, com a participação de José Paulo em guitarra, Aurélio Reis e Eduardo Aroso em viola e Manuel Rocha em violino.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/disco-de-homenagem-flavio-rodrigues-com.html",
+          "doc": "gc-iv:6870674672924499807",
+          "citacao": "Disco de homenagem a Flávio Rodrigues, com a participação de José Paulo em guitarra, Aurélio Reis e Eduardo Aroso em viola e Manuel Rocha em violino."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Livro «Flávio Rodrigues da Silva - Fragmentos para uma guitarra» (anúncio no blogue)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/flvio-rodrigues-da-silva-fragmentos.html"
+    },
+    {
+      "rotulo": "Cronologia «Canções e Guitarradas nas décadas de 1930-1940» (nota biográfica)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html"
+    },
+    {
+      "rotulo": "Dossiê da Comissão Os Salatinas [1993]",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/01/no-cantinho-da-gaveta-2-dossie.html"
+    },
+    {
+      "rotulo": "Gravações Odeon de 1927 (etiquetas e escuta)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

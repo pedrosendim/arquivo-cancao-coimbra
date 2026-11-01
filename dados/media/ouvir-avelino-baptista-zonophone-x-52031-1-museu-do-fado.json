@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-zonophone-x-52031-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2058_01.mp3",
+  "titulo": "Noite serena — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-zonophone-x-52031",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3894.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4043/avelino_baptista_noite_serena",
+      "doc": "museu-do-fado:w9f5e477c9e27055d",
+      "citacao": "Título: Noite serena ... Editora: Zonophone X 52060 X 52031 Referências: 7536f, X52060, Z; X-52060"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

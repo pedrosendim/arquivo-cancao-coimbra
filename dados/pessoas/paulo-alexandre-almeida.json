@@ -1,0 +1,35 @@
+{
+  "id": "paulo-alexandre-almeida",
+  "tipo": "pessoa",
+  "nome": "Paulo Alexandre Almeida",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "pardalitos-do-mondego",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/concerto-de-os-pardalitos-do-mondego.html",
+          "doc": "gc-v:3566949018486895299",
+          "citacao": "Paulo Alexandre Almeida, executante de gC nesta formação"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "A parte instrumental esteve à responsabilidade de Francisco Viana (gC1), Paulo Alexandre Almeida (gC2), Arnaldo Tomás (v) e José Augusto Reis (v), numa abordagem que abrange reprodução de instrumentações originais e assina arranjos do próprio grupo."
+        }
+      ],
+      "nota": "2.ª guitarra; CD de 2018 e concerto de 2019"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

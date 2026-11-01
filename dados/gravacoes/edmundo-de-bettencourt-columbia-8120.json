@@ -1,0 +1,183 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-8120",
+  "titulo": "Menina e Moça / Fado da Sugestão",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8120",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Menina e Moça",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8120-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Sugestão",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8120-2-museu-do-fado",
+        "ouvir-edmundo-de-bettencourt-columbia-8120-2-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/TynkWJkyc6Fcn7oYBfmz8ojY-U12hbuMl9wEytAvpt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/MzQwLTE1NTI4MTk3/MDEtODk0OS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13364340",
+        "doc": "discogs:w43d3ae7a936b4ab1",
+        "citacao": "Imagem (secondary): https://i.discogs.com/TynkWJkyc6Fcn7oYBfmz8ojY-U12hbuMl9wEytAvpt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/MzQwLTE1NTI4MTk3/MDEtODk0OS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13364340",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364340",
+          "doc": "discogs:w43d3ae7a936b4ab1",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364340",
+          "doc": "discogs:w43d3ae7a936b4ab1",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364340",
+          "doc": "discogs:w43d3ae7a936b4ab1",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado no Porto, em fevereiro de 1928, no Palácio dos Carrancas (blogue)",
+      "data": "1928-02",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A 1ª série de gravações teve lugar no Porto, em Fevereiro de 1928, no Palácio dos Carrancas, antiga Casa Real. Foi acompanhado à guitarra por Artur Paredes e Albano de Noronha e, à viola, por Mário Faria da Fonseca, mas os seus nomes não figuram nos discos."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica Lisboa como local da gravação."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Lisboa, fevereiro de 1928 (Discogs)",
+      "data": "1928-02",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364340",
+          "doc": "discogs:w43d3ae7a936b4ab1",
+          "citacao": "Recorded in Lisboa, Feb. 1928"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue (J. Anjos de Carvalho) indica o Porto, Palácio dos Carrancas."
+    },
+    {
+      "campo": "outro",
+      "valor": "2.ª edição (etiqueta verde) com o número Columbia GL 101",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Foram editados 5 discos de 78 rpm, todos com etiqueta castanha e, numa 2ª edição, todos com etiqueta verde e com um outro número de catálogo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: guitarra portuguesa Albano de Noronha e Artur Paredes; viola Mario da Fonseca",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364340",
+          "doc": "discogs:w43d3ae7a936b4ab1",
+          "citacao": "Portuguese Guitar – Albano De Noronha Portuguese Guitar – Artur Paredes Tenor Vocals – Edmundo De Bettencourt Viola – Mario Da Fonseca"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13364340",
+      "doc": "discogs:w43d3ae7a936b4ab1",
+      "citacao": "Editora: Columbia – 8120"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Disco Columbia, 8120 Disco Columbia, GL 101 P 300 – Menina e Moça (Coimbra, menina e moça) P 308 – Fado da Sugestão (Não digas não, dize sim)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

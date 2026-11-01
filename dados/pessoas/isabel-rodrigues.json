@@ -1,0 +1,29 @@
+{
+  "id": "isabel-rodrigues",
+  "tipo": "pessoa",
+  "nome": "Isabel Rodrigues",
+  "nomes_alternativos": [
+    "Isabel Rodriguês"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:c6231748289457560906",
+          "citacao": "a irmã de Flávio Ridrigues - Isabel Rodriguês"
+        }
+      ],
+      "nota": "Só num comentário de leitor (Sérgio Azeredo, 2015), fiabilidade a confirmar."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

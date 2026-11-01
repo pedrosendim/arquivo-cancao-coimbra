@@ -1,0 +1,38 @@
+{
+  "id": "joao-carlos-oliveira",
+  "tipo": "pessoa",
+  "nome": "João Carlos Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os dois executantes de viola, João Carlos Oliveira (sócio da Orquestra Típica e da Estudantina) e Jorge Mira Marques (antigo elemento da Orxestra Pitagórica e das Escolas da Secção de Fado), também andavam ligados a grupos da Secção de Fado da AAC."}], "nota": "Ligado a grupos da Secção (Orquestra Típica e Estudantina), anos 80."},
+    {"tipo": "membro_de", "alvo": "estudantina-universitaria-de-coimbra", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "João Carlos Oliveira (sócio da Orquestra Típica e da Estudantina)"}], "nota": ""},
+    {"tipo": "membro_de", "alvo": "orquestra-tipica-e-rancho", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "João Carlos Oliveira (sócio da Orquestra Típica e da Estudantina)"}], "nota": ""},
+    {
+      "tipo": "membro_de",
+      "alvo": "toada-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/noites-da-cano-de-coimbra.html",
+          "doc": "gc-i:111853057304618429",
+          "citacao": "Actuou o grupo, \"Toada Coimbrã\". Na foto, João Carlos Oliveira, António José Vicente, joão Paulo Sousa e Jorge Mira Marques. A cantar, Alcides de Sá Esteves."
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

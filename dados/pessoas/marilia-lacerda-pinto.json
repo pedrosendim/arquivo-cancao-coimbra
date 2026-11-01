@@ -1,0 +1,50 @@
+{
+  "id": "marilia-lacerda-pinto",
+  "tipo": "pessoa",
+  "nome": "Marília Lacerda Pinto",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Descerrou em Sabrosa, a 9 de novembro de 1968, a placa na casa natal do pai",
+      "data": "1968-11-09",
+      "local": "Sabrosa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/memorial-manasses-de-lacerda.html",
+          "doc": "gc-v:86275727472336137",
+          "citacao": "Placa descerrada em cerimónia pública realizada no dia 9.11.1968"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manasses-de-lacerda-botelho/",
+          "doc": "rtp-arquivos:wf1512588ac04f7d2",
+          "citacao": "filha de Manassés de Lacerda descerra placa comemorativa na casa onde o compositor nasce"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manasses-de-lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/memorial-manasses-de-lacerda.html",
+          "doc": "gc-v:86275727472336137",
+          "citacao": "a filha do homenageado Marília Lacerda Pinto"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

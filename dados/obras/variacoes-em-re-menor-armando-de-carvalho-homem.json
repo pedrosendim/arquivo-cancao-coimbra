@@ -1,0 +1,44 @@
+{
+  "id": "variacoes-em-re-menor-armando-de-carvalho-homem",
+  "titulo": "Variações em Ré menor",
+  "titulos_alternativos": [],
+  "genero": "variacoes",
+  "musica": [
+    "armando-de-carvalho-homem"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Título do registo de A Música Portuguesa a Gostar Dela Própria (2018): «Variações em ré menor» de Armando Carvalho Homem",
+      "data": "2018-12-27",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3921",
+          "doc": "mpagdp:w7dabf80ae81825b8",
+          "citacao": "Variações em ré menor” de Armando Carvalho Homem ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": "O registo escreve «Armando Carvalho Homem»; o blogue GC-I atribui as «Variações em Ré menor» a Armando de Carvalho Homem. A identificação das duas formas do nome deve ser confirmada pelo editor (não confundir com o filho, Armando Luís de Carvalho Homem)."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/partitura-das-variaes-em-r-menor-1-de_11.html",
+      "doc": "gc-i:111584680042797516",
+      "citacao": "Partitura das \"Variações em Ré menor\" (1) de Armando de Carvalho Homem."
+    },
+    {
+      "fonte": "mpagdp",
+      "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3921",
+      "doc": "mpagdp:w7dabf80ae81825b8",
+      "citacao": "Variações em ré menor” de Armando Carvalho Homem ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

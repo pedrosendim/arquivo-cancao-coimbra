@@ -1,0 +1,53 @@
+{
+  "id": "fernanda-alte-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Fernanda",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Deste casamento nasceram seis filhos, dois dos quais, viriam a falecer. Francisco, falecido com tenra idade e cujo nome voltou a ser dado ao irmão mais novo, e Antero, que faleceu aos 27 anos. Ficaram duas raparigas, Inácia Maria e Fernanda, e dois rapazes, Eugénio e Francisco, o irmão mais jovem."
+        }
+      ],
+      "nota": "A fonte dá só o nome próprio; o apelido no identificador serve apenas para distinguir a ficha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "inacia-soares-de-brito",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Deste casamento nasceram seis filhos, dois dos quais, viriam a falecer. Francisco, falecido com tenra idade e cujo nome voltou a ser dado ao irmão mais novo, e Antero, que faleceu aos 27 anos. Ficaram duas raparigas, Inácia Maria e Fernanda, e dois rapazes, Eugénio e Francisco, o irmão mais jovem."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Deste casamento nasceram seis filhos, dois dos quais, viriam a falecer. Francisco, falecido com tenra idade e cujo nome voltou a ser dado ao irmão mais novo, e Antero, que faleceu aos 27 anos. Ficaram duas raparigas, Inácia Maria e Fernanda, e dois rapazes, Eugénio e Francisco, o irmão mais jovem."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

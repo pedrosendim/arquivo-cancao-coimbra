@@ -1,0 +1,111 @@
+{
+  "id": "antonio-pinto-de-carvalho",
+  "tipo": "pessoa",
+  "nome": "António Pinto de Carvalho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "jose-lucio",
+      "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+      "doc": "jose-lucio:wbd3b421be9bc7477",
+      "citacao": "António Pinto de Carvalho (Celeirós, Braga, guitarras, etc.)"
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "In 1996 I again visited Palmeiro and Antonio Pinto de Carvalho who made me a few instruments."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/08/pintura-guitarras-e-camoes.html",
+      "doc": "gc-v:942203720812585266",
+      "citacao": "Aqui ficam algumas fotografias das guitarras do tipo de Lisboa com etiqueta do fabricante António Pinto de Carvalho."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Celeirós, Braga; guitarras, etc. (lista de violeiros e guitarreiros de José Lúcio)",
+      "data": "",
+      "local": "Celeirós, Braga",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "António Pinto de Carvalho (Celeirós, Braga, guitarras, etc.)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fez alguns instrumentos para Ron Fernandez (1996)",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1996 I again visited Palmeiro and Antonio Pinto de Carvalho who made me a few instruments."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarras do tipo de Lisboa com a sua etiqueta, pintadas por Norberto Nunes, na exposição «E vós, Tágides minhas» (MUSA, Sintra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/pintura-guitarras-e-camoes.html",
+          "doc": "gc-v:942203720812585266",
+          "citacao": "um surpreendente encontro com trabalhos do pintor Norberto Nunes e a exposição \"E vós, Tágides minhas\""
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/pintura-guitarras-e-camoes.html",
+          "doc": "gc-v:942203720812585266",
+          "citacao": "guitarras pintadas como motivos alusivos aos cantos de Os Lusíadas"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/pintura-guitarras-e-camoes.html",
+          "doc": "gc-v:942203720812585266",
+          "citacao": "Aqui ficam algumas fotografias das guitarras do tipo de Lisboa com etiqueta do fabricante António Pinto de Carvalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de agosto de 2017."
+    },
+    {
+      "campo": "outro",
+      "valor": "Um leitor do blogue comprou uma guitarra de Coimbra barata de António Pinto de Carvalho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/grupo-verdes-anos-em-digressao-alemanha.html?showComment=1340342142073#c7497327119506868151",
+          "doc": "gc-iv:c7497327119506868151",
+          "citacao": "gostaria de aprender a tocar guitarra de Coimbra. Comprei uma (baratinha, de António Pinto de Carvalho)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Comentário de Alano da Rocha (2012); fonte de terceiros."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

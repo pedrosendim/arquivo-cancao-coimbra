@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-7439-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0104_60.mp3",
+  "titulo": "Fado Estoril — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-7439",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0210.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/204/avelino_baptista_fado_estoril",
+      "doc": "museu-do-fado:w8bf24a67eb77afef",
+      "citacao": "Título: Fado Estoril ... Editora: Beka 7439 Referências: Disco “Beka” Grande, 485; 7439"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "coimbra-quintet-philips-430703-pe",
+  "titulo": "Serenata de Coimbra 2",
+  "formato": "EP",
+  "editora": "Philips",
+  "referencia": "430 703 PE",
+  "ano": "1957",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "coimbra-quintet",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "violão"
+    },
+    {
+      "pessoa": "levi-baptista",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Estudante",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-430703-pe-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Aguarela Portuguesa",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-430703-pe-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "O Meu Desejo (Mi Deseo)",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-430703-pe-3-apple-music"]
+    },
+    {
+      "n": 4,
+      "titulo": "Toada Beirã",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-430703-pe-4-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/8zoOFljfc5Cu0iAL-Tb6_zyhahjNpGx0KP2GvLlt-_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTQ2/ODQtMTQ2Njc3NjM2/My0yNDQwLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/8694684",
+        "doc": "discogs:w1dc687336d88d804",
+        "citacao": "Imagem (primary): https://i.discogs.com/8zoOFljfc5Cu0iAL-Tb6_zyhahjNpGx0KP2GvLlt-_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTQ2/ODQtMTQ2Njc3NjM2/My0yNDQwLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/8694684",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8694684",
+          "doc": "discogs:w1dc687336d88d804",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Netherlands",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8694684",
+          "doc": "discogs:w1dc687336d88d804",
+          "citacao": "País: Netherlands"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1957 (Discogs)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8694684",
+          "doc": "discogs:w1dc687336d88d804",
+          "citacao": "Data: 1957"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Madrid, teatro Príncipe Real, inícios de março de 1957 (blogue)",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "registos fonográficos tiveram lugar em Madrid, no teatro Príncipe Real, nos inícios de março de 1957."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Luiz Goes (barítono), António Portugal (1.ª guitarra), Jorge Godinho (2.ª guitarra), Manuel Pepe e Levi Baptista (violões de cordas de aço)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Luiz Fernando de Sousa Pires de Goes (1933-2012), barítono solista, acompanhado por António Jorge Moreira Portugal (1931-1994), solista de guitarra de Coimbra de concerto; António Jorge Maia Godinho Marques (1935-1972), 2.º executante de guitarra de Coimbra de concerto; Manuel Gomes Pepe (1930-2008?, violão de cordas de aço), Levi Casimiro Baptista (violão de cordas de aço)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/8694684",
+      "doc": "discogs:w1dc687336d88d804",
+      "citacao": "Editora: Philips – 430 703 PE"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "IV-EP SERENATA DE COIMBRA 2. Madrid: PHILIPS, 430 703 PE, 1957"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/relao-das-gravaes-em-que-participou.html",
+      "doc": "gc-ii:6857776083216296472",
+      "citacao": "SERENATA DE COIMBRA - 2 Coimbra Quintet Philips, EP 430 703 PE – 1957"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-peres-de-vasconcelos-columbia-j-829-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0970_27.mp3",
+  "titulo": "Variações em fá menor — Miguel A. Peres de Vasconcelos",
+  "data": "",
+  "pessoas": [
+    "peres-de-vasconcelos"
+  ],
+  "obras": [],
+  "gravacao": "peres-de-vasconcelos-columbia-j-829",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1930.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1922/miguel_a_peres_de_vasconcelos_variacoes_em_fa_menor",
+      "doc": "museu-do-fado:w8c3a498fb49ac2a5",
+      "citacao": "Título: Variações em fá menor ... Editora: Co.J829;  Referências: WP298, W, 32673; J829"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

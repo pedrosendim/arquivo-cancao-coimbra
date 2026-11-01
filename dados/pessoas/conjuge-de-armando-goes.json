@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-armando-goes",
+  "tipo": "pessoa",
+  "nome": "Mulher de Armando Goes (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Pelo meio, Armando Goes casa, mas o casamento termina numa separação dolorosa para o médico cantor."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

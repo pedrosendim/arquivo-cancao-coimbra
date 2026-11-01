@@ -1,0 +1,162 @@
+{
+  "id": "antonio-menano-odeon-x-3039",
+  "titulo": "Fado do Hilário / Fado do Emigrante (edição brasileira)",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3039",
+  "ano": "1928",
+  "local": "Brasil",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3039-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Emigrante",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3039-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/rBhs29SX_takBrOU1ySAwKjqV6q5ejX49MlC6bO3sh4/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE3/NTItMTQ3MjQ4Mjgw/Mi04MTk5LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7761752",
+        "doc": "discogs:w5a57c2ae8c094cac",
+        "citacao": "Imagem (primary): https://i.discogs.com/rBhs29SX_takBrOU1ySAwKjqV6q5ejX49MlC6bO3sh4/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE3/NTItMTQ3MjQ4Mjgw/Mi04MTk5LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7761752",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761752",
+          "doc": "discogs:w5a57c2ae8c094cac",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Brazil",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761752",
+          "doc": "discogs:w5a57c2ae8c094cac",
+          "citacao": "País: Brazil"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761752",
+          "doc": "discogs:w5a57c2ae8c094cac",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Fado do Emigrante: «Registo Paris 1927» (Discogs)",
+      "data": "1927",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761752",
+          "doc": "discogs:w5a57c2ae8c094cac",
+          "citacao": "Fado Do Emigrante - (Vou-me embora vou deixar-te) - With Portuguese Guitar and Viola - Registo Paris 1927"
+        }
+      ],
+      "conflito": true,
+      "nota": "O inventário do blogue não inclui o Fado do Emigrante na sessão de Paris."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Fado do Emigrante: gravado nas sessões de Lisboa (primavera de 1928, Og 692) e de Berlim (dezembro de 1928, Og 1005), não na de Paris (blogue)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 692: FADO DO EMIGRANTE (Vou-me embora, vou deixar-te)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1005: FADO DO EMIGRANTE (Vou-me embora, vou deixar-te)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica «Registo Paris 1927»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Fado do Hilário: «Registo Lisboa 1928» (Discogs); o blogue inventaria-o na sessão de Lisboa (Og 654)",
+      "data": "1928",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761752",
+          "doc": "discogs:w5a57c2ae8c094cac",
+          "citacao": "Fado Do Hilario or Fado Hilario - (A minha capa velhinha) - Registo Lisboa 1928"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 654: FADO DO HILÁRIO (A minha capa velhinha)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7761752",
+      "doc": "discogs:w5a57c2ae8c094cac",
+      "citacao": "Editora: Odeon – x 3039"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

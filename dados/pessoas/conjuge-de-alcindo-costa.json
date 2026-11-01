@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-alcindo-costa",
+  "tipo": "pessoa",
+  "nome": "Mulher de Alcindo Costa (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "alcindo-costa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/dia-do-antigo-estudante-de_113185300229354378.html",
+          "doc": "gc-i:113185300229354378",
+          "citacao": "Fátima Lencastre, presidente da AAEC em Lisboa e Alcindo Costa com a esposa."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legenda de fotografia (Dia do Antigo Estudante de Coimbra, 2005); a identificação com a ficha alcindo-costa faz-se pelo nome."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

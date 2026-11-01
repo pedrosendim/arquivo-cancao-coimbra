@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-odeon-a-136067",
+  "titulo": "Fado da Beira",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136.067",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Beira",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-a-136067-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Beira», por Avelino Baptista — etiqueta: «Fado da Beira / Fado / Com acompanhamento de Guitarras / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/232/avelino_baptista_fado_da_beira",
+          "doc": "museu-do-fado:w75b3bf167282a287",
+          "citacao": "Título: Fado da Beira ... Editora: Od.A136.067 Referências: Disco Odeon, A136067; A 136067 ... Etiqueta: Fado da Beira / Fado / Com acompanhamento de Guitarras / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, a música é a do «Fado Posthumo do Hylario»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "«Fado Posthumo do Hylario» (Lindas noites de luar) ... Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/232/avelino_baptista_fado_da_beira",
+      "doc": "museu-do-fado:w75b3bf167282a287",
+      "citacao": "Título: Fado da Beira ... Editora: Od.A136.067 Referências: Disco Odeon, A136067; A 136067"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+      "doc": "gc-v:1881977297519692243",
+      "citacao": "«Fado Posthumo do Hylario» (Lindas noites de luar) ... Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "solitario",
+  "titulo": "Solitário",
+  "titulos_alternativos": [
+    "Dizem que as mães querem mais"
+  ],
+  "genero": "fado",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Autor: Francisco Paulo Menano (a etiqueta indica erradamente António Menano)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "SOLITÁRIO (Dizem que as mães querem mais), do Dr. Francisco Paulo Menano, indica erradamente como autor António Menano."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra e música de António Menano",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Solitário\n\nLetra e música de António Menano"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+      "doc": "gc-v:3115598909214321265",
+      "citacao": "SOLITÁRIO (Dizem que as mães querem mais)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

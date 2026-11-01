@@ -1,0 +1,27 @@
+{
+  "id": "maria-eugenia-de-manique-e-mello-correia",
+  "tipo": "pessoa",
+  "nome": "Maria Eugénia de Manique e Mello Correia",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-cochofel",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/dr-cochofel.html",
+          "doc": "gc-v:1081947515419323443",
+          "citacao": "tendo sido casado com Maria Eugénia de Manique e Mello Correia (11.09.1895)"
+        }
+      ],
+      "nota": "A fonte indica entre parênteses «11.09.1895», sem dizer se é a data do casamento."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

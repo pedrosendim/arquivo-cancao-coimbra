@@ -1,0 +1,24 @@
+{
+  "id": "caldeira-cabral-rtp-a-guitarra-portuguesa-1994-parte-ii",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa-parte-ii/",
+  "titulo": "A Guitarra Portuguesa – Parte II (RTP 1, série «Silêncio... que se vai Cantar o Fado», 1994): Pedro Caldeira Cabral toca «Balada da Oliveira» e «Momentos e fragmentos»",
+  "data": "1994-02-11",
+  "pessoas": [
+    "pedro-caldeira-cabral"
+  ],
+  "obras": [
+    "balada-da-oliveira"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa-parte-ii/",
+      "doc": "rtp-arquivos:w4d7afbb10f739b51",
+      "citacao": "Atuação de Pedro Caldeira Cabral na guitarra portuguesa, que interpreta o fado instrumental \"Balada da Oliveira\" e \"Momentos e fragmentos\"."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

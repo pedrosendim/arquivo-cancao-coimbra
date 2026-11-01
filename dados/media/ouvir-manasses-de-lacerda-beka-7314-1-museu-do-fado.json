@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-beka-7314-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0467_15.mp3",
+  "titulo": "Fado das Ruas — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-beka-7314",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0930.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/918/manasses_de_lacerda_fado_das_ruas",
+      "doc": "museu-do-fado:w2f059dc0174769d2",
+      "citacao": "Título: Fado das Ruas ... Editora: Beka 7314 Referências: Disco “Beka” Grande, 7314, ∆7; 7314"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

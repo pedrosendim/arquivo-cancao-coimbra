@@ -1,0 +1,140 @@
+{
+  "id": "antonio-menano-odeon-aa-50800",
+  "titulo": "Fado das Fogueiras / Carta de Longe",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "AA 50800",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Fogueiras",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-aa-50800-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Carta de Longe",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-aa-50800-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/fF0V_CuAc4uG2zIoMGQW_UaPWyV_QZNl9DBjMM_6iKo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA0/NDAxLTE1ODgwNzE4/NjEtNDE1Mi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/15204401",
+        "doc": "discogs:w6d31ba4018da2cc4",
+        "citacao": "Imagem (secondary): https://i.discogs.com/fF0V_CuAc4uG2zIoMGQW_UaPWyV_QZNl9DBjMM_6iKo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA0/NDAxLTE1ODgwNzE4/NjEtNDE1Mi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/15204401",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15204401",
+          "doc": "discogs:w6d31ba4018da2cc4",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15204401",
+          "doc": "discogs:w6d31ba4018da2cc4",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15204401",
+          "doc": "discogs:w6d31ba4018da2cc4",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica disco de 30 cm."
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco de 30 cm (matrizes xxOg 674 e xxOg 675, sessão de Lisboa, primavera de 1928)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "As matrizes de “Fado das Fogueiras” e “Carta de Longe são precedidas de “xx”, dado tratar-se de um disco de 30 cms."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "xxOg 674: FADO DAS FOGUEIRAS (entraste com ar cansado) xxOg 675: CARTA DE LONGE (Minha adorada mulher)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica disco de 10 polegadas."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Lisboa, primavera de 1928; instrumentistas não identificados (blogue)",
+      "data": "1928",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações concretizadas na cidade de Lisboa, durante a Primavera de 1928. Não está identificado o local onde decorreram as gravações, nem são conhecidos os instrumentistas intervenientes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/15204401",
+      "doc": "discogs:w6d31ba4018da2cc4",
+      "citacao": "Editora: Odeon – AA 50800"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

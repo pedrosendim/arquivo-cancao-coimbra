@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-luis-carvalhal",
+  "tipo": "pessoa",
+  "nome": "Mulher de Luís Carvalhal (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "luis-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Luís Carvalhal faleceu no Rio de Janeiro, em 18 de Novembro de 1995, casado, pai de uma filha e de um filho."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "joao-de-oliveira-anjo",
+  "tipo": "pessoa",
+  "nome": "João de Oliveira Anjo",
+  "nomes_alternativos": [
+    "Maestro João de Oliveira Anjo",
+    "João Anjo"
+  ],
+  "papeis": [
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Ílhavo, 14 de maio de 1916",
+      "data": "1916-05-14",
+      "local": "Ílhavo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "nasceu em Ilhavo em 14 de Maio de 1916, tendo vindo para Coimbra em 1938"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Músico profissional do exército português",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "João de Oliveira Anjo. Músico profissional do exército português"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Genro de José Elyseu, casado com uma das filhas deste",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Genro de José Elyseu."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "Casado com uma das filhas de José Elyseu"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "advertira que a música era de seu sogro, José das Neves Elyseu"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Genro» não tem tipo de relação próprio; a fonte não diz com qual das filhas casou."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

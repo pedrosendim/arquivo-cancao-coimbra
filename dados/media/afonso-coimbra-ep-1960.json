@@ -1,0 +1,27 @@
+{
+  "id": "afonso-coimbra-ep-1960",
+  "tipo": "audio",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=et7kX9WJpg8",
+  "titulo": "José Afonso — Coimbra (EP Alvorada MEP 60280)",
+  "data": "",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [
+    "mar-largo",
+    "solitario",
+    "aquela-moca-da-aldeia",
+    "meu-bem"
+  ],
+  "gravacao": "jose-afonso-alvorada-mep-60280-1960",
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/15061790",
+      "doc": "discogs:w347a63f955ff277b",
+      "citacao": "Vídeo: José Afonso - Coimbra - 1960 — https://www.youtube.com/watch?v=et7kX9WJpg8"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

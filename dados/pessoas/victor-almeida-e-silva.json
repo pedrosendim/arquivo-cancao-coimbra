@@ -1,0 +1,64 @@
+{
+  "id": "victor-almeida-e-silva",
+  "tipo": "pessoa",
+  "nome": "Victor Almeida e Silva",
+  "nomes_alternativos": [
+    "Victor Silva",
+    "Victor de Almeida e Silva",
+    "Vítor Almeida e Silva"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/07/falecimento-de-victor-almeida-e-silva.html",
+          "doc": "gc-v:2834028697811221596",
+          "citacao": "Na década de 1980 cantou com formações da Academia do Porto, tendo colaborado com o \"grupo de João Moura\" e com os \"Praxis Nova\". Entre 1987 e 1991 cantou frequentemente na Sé Velha de Coimbra e no palco do teatro académico Gil Vicente."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva. Guitarra: Paulo Soares. Violas: Carlos Costa e Luís Carlos Santos. Regista 13 temas, sendo 10 cantados e 3 instrumentais. Apresenta 4 inéditos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/jos-alo-2006-da-associao-dos-antigos.html",
+          "doc": "gc-i:114713046652623156",
+          "citacao": "o absolute beginner Vítor [Almeida e] Silva, estudante de Economia que mais tarde se transferiria para Coimbra, integrando aí diversos grupos, com realce para o Praxis Nova, com quem participou num LP (ca. 1989) e gravou um CD de originais (ca. 1996)."
+        }
+      ],
+      "nota": "voz; LP de 1991, CD de 1998"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Na Primavera\nde 1988, nos estúdios Edisco, gravou, com trinta anos, o seu primeiro, e\ninfelizmente único disco da Canção de Coimbra, intitulado “10 anos … uma\nSerenata”, ao lado de João Moura (guitarra), José Santos (viola), e os cantores\nVictor Silva e Luís Cartário que constituíam o “Grupo de Fados e Guitarras de\nCoimbra”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/07/falecimento-de-victor-almeida-e-silva.html",
+          "doc": "gc-v:2834028697811221596",
+          "citacao": "tendo colaborado com o \"grupo de João Moura\""
+        }
+      ],
+      "nota": "voz; LP de 1988"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

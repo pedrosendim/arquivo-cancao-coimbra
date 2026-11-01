@@ -1,0 +1,91 @@
+{
+  "id": "trovas-do-minho",
+  "tipo": "grupo",
+  "nome": "Trovas do Minho",
+  "nomes_alternativos": [
+    "Trovas do Minho – Grupo de Fados e Cantares de Coimbra",
+    "Grupo Trovas do Minho"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/blog-post.html",
+      "doc": "gc-iv:610710572577008623",
+      "citacao": "O Grupo Trovas do Minho - Grupo de Fados e Cantares de Coimbra - é constituído por indivíduos que após terminarem a sua formação académica ou actividade profissional, se fixaram na Região do Minho."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/blog-post.html",
+      "doc": "gc-iv:610710572577008623",
+      "citacao": "Quis o destino que uma ilustre freguesia do Concelho de Guimarães, Serzedelo, fosse o elemento unificador deste projecto, não só por se tratar do local de residência da maior parte dos seus elementos"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/blog-post.html",
+      "doc": "gc-iv:610710572577008623",
+      "citacao": "pretendemos representar o estilo musical \"Canção de Coimbra\" na nossa área de influência; invocando a nossa região; o Minho"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "grupo de antigos estudantes e profissionais fixados no Minho, com sede em Serzedelo (Guimarães)",
+      "local": "Guimarães",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/blog-post.html",
+          "doc": "gc-iv:610710572577008623",
+          "citacao": "O Grupo Trovas do Minho - Grupo de Fados e Cantares de Coimbra - é constituído por indivíduos que após terminarem a sua formação académica ou actividade profissional, se fixaram na Região do Minho."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/blog-post.html",
+          "doc": "gc-iv:610710572577008623",
+          "citacao": "Quis o destino que uma ilustre freguesia do Concelho de Guimarães, Serzedelo, fosse o elemento unificador deste projecto, não só por se tratar do local de residência da maior parte dos seus elementos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Apresentação do próprio grupo, divulgada no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo na Capital Europeia da Cultura, Paços dos Duques de Bragança, Guimarães, 1 de dezembro de 2012",
+      "data": "2012-12-01",
+      "local": "Guimarães",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/11/os-trovas-do-minho-grupo-de-fados-e.html",
+          "doc": "gc-iv:6333238275736963113",
+          "citacao": "Os Trovas do Minho – Grupo de Fados e Cantares de Coimbra, terão o privilégio\nde efetuar um espetáculo no âmbito da Capital Europeia da Cultura - Cidade de\nGuimarães.\n\nEste espetáculo será realizado dia 1 de Dezembro, pelas 21h30,\nnos Paços dos Duques de Bragança, junto ao Castelo de Guimarães"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "noite de fados na Pousada de Viana do Castelo, Monte de Santa Luzia, 3 de agosto de 2013",
+      "data": "2013-08-03",
+      "local": "Viana do Castelo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/os-trovas-do-minho-grupo-de-fados-e.html",
+          "doc": "gc-v:3068390304286015942",
+          "citacao": "Os Trovas do Minho – Grupo de Fados e Cantares de Coimbra...aos olhos do\n\nMinho, irão promover uma noite de Fados, no Restaurante da Pousada de\n\nViana do Castelo, Monte de Santa Luzia, dia 3 de Agosto (próximo Sábado)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

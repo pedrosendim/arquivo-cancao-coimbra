@@ -1,0 +1,43 @@
+{
+  "id": "eduardo-aroso",
+  "tipo": "pessoa",
+  "nome": "Eduardo Aroso",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista",
+    "compositor",
+    "poeta"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Estes dois jovens (José Carlos Teixeira – Guitarra e\nEduardo Aroso – Viola) começaram a caminhar regularmente entre a Ladeira das\nAlpenduradas e o Alto de S. João onde vivia um já então veterano do Fado de\nCoimbra (Victor Nunes – Cantor)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 1: Apresentação particular da Tertúlia do Fado de Coimbra em\n1974. Guitarras: Álvaro Aroso e José Carlos Teixeira; Viola: Eduardo Aroso;\nCantor: Victor Nunes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 5: Fotografia de Apresentação, Sé Velha de Coimbra, 1993.\nSentados - José dos Santos Paulo (viola), José Carlos Teixeira (guitarra),\nÁlvaro Aroso (guitarra), Eduardo Aroso (viola). De pé – Cantores: José Miguel\nBaptista, Joaquim Matos, Vítor Nunes e Nuno de Carvalho."
+        }
+      ],
+      "nota": "viola; fundador, 1972-1994"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

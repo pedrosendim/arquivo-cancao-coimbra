@@ -1,0 +1,71 @@
+{
+  "id": "francisco-perez-andion",
+  "tipo": "pessoa",
+  "nome": "Francisco Perez Andion",
+  "nomes_alternativos": [
+    "Paquito",
+    "Francisco Perez"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Viola no CD «Pedro Caldeira Cabral – Variações» (World Network, 1992)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602809798909313",
+          "citacao": "Contracapa do CD \"Pedro Caldeira Cabral - Variações\", da etiqueta World Network, saído em 1992. Acompanha-o à viola, Francisco Perez Andion, Paquito."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanha Pedro Caldeira Cabral no CD «Guitarra Portuguesa» (GHA, 1990)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "\"Guitarra Portuguesa\" (1990), com peças novas a solo e outras de autores tradicionais como Armandino e José Nunes, acompanhado por Francisco Perez."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Museu do Fado (parágrafos posteriores ao excerto do livro de 1999)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "pedro-caldeira-cabral",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-cd-pedro-caldeira-cabral.html",
+          "doc": "gc-i:112602809798909313",
+          "citacao": "Acompanha-o à viola, Francisco Perez Andion, Paquito."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "acompanhado por Francisco Perez"
+        }
+      ],
+      "nota": "À viola."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

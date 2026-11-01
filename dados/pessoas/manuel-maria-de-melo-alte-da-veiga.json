@@ -1,0 +1,127 @@
+{
+  "id": "manuel-maria-de-melo-alte-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Manuel Maria de Melo Alte da Veiga",
+  "nomes_alternativos": [
+    "Manuel Alte da Veiga",
+    "Manuel Maria d'Alte da Veiga",
+    "Prof. Doutor Manuel Alte da Veiga"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Mogofores, 4 de janeiro de 1941",
+      "data": "1941-01-04",
+      "local": "Mogofores",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "O mais novo, Manuel Maria de Melo Alte da Veiga, nasce a 4 de Janeiro de 1941, em Mogofores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Aprendeu guitarra com o pai, Eugénio da Veiga",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Eugénio da Veiga ensinou os seus filhos Luiz e Manuel a dedilharem a guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Executou as Variações em Ré menor de Anthero da Veiga na guitarra deste",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/10/encontors-de-guitarra-portuguesa-2010.html",
+          "doc": "gc-iii:7379716066222470685",
+          "citacao": "Manuel Alte da Veiga executando Variações em Ré menor, de Anthero da Veiga, na guitarra deste."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "O mais novo, Manuel Maria de Melo Alte da Veiga, nasce a 4 de Janeiro de 1941, em Mogofores."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-isabel-de-menezes-e-melo-vaz-de-sampaio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "O mais novo, Manuel Maria de Melo Alte da Veiga, nasce a 4 de Janeiro de 1941, em Mogofores."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/fado-dos-milagres.html",
+          "doc": "gc-ii:7021173048894583102",
+          "citacao": "Ao seu neto e afilhado muito querido, Manuel Maria d’Alte da Veiga"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "A data confirmada pelo seu neto, Prof. Manuel Alte da Veiga"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Eugénio da Veiga ensinou os seus filhos Luiz e Manuel a dedilharem a guitarra"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

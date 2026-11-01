@@ -1,0 +1,130 @@
+{
+  "id": "armando-marta-rapsodia-epf-5205",
+  "titulo": "Coimbra Serenade",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.205",
+  "ano": "1963",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "armando-marta",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "ernesto-de-melo",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada da Moleirinha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Os Teus Olhos",
+      "obra": "",
+      "media": ["ouvir-armando-marta-rapsodia-epf-5205-2-youtube"]
+    },
+    {
+      "n": 3,
+      "titulo": "Balada das Águas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Balada do 6.º Ano Médico",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/BZWNvBikjB37KuSFYYYmyWPAq9Lsu8mVsR7dX82fieg/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDc3/NjAtMTM3NDI0MTY1/MS01MjYzLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/4747760",
+        "doc": "discogs:wf969da529e9acaa8",
+        "citacao": "Imagem (secondary): https://i.discogs.com/BZWNvBikjB37KuSFYYYmyWPAq9Lsu8mVsR7dX82fieg/rs:fit/g:sm/q:90/h:399/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDc3/NjAtMTM3NDI0MTY1/MS01MjYzLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/4747760",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\"",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4747760",
+          "doc": "discogs:wf969da529e9acaa8",
+          "citacao": "Formato: 1 × Vinyl, 7\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4747760",
+          "doc": "discogs:wf969da529e9acaa8",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1963 (Discogs)",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4747760",
+          "doc": "discogs:wf969da529e9acaa8",
+          "citacao": "Data: 1963"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/4747760",
+      "doc": "discogs:wf969da529e9acaa8",
+      "citacao": "Editora: Rapsódia – EPF 5.205"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+      "doc": "gc-v:5164846926243495276",
+      "citacao": "EP COIMBRA SERENADE. ARMANDO MARTA. Porto: RAPSÓDIA, EPF 5.205, 1963 Eduardo de Melo/Ernesto de Melo (1.ª e 2.ª guitarras de Coimbra); Durval Moreirinhas (v nylon); arranjos de acompanhamento de Eduardo de Melo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

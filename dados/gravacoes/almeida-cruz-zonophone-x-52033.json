@@ -1,0 +1,80 @@
+{
+  "id": "almeida-cruz-zonophone-x-52033",
+  "titulo": "Fado Polémico",
+  "formato": "78rpm",
+  "editora": "Zonophone",
+  "referencia": "X 52033",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Polémico",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-zonophone-x-52033-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Polémico», por Almeida Cruz — etiqueta: «Fado Polémio / cantado por / Sr. Almeida Cruz / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/636/almeida_cruz_fado_polemico",
+          "doc": "museu-do-fado:we06726ece6dcd01e",
+          "citacao": "Título: Fado Polémico ... Editora: Zo. X52033 Referências: 8261fi, X52033; X-52033 ... Etiqueta: Fado Polémio / cantado por / Sr. Almeida Cruz / Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Boémio (?), Zonophone X52033.»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Boémio (?), Zonophone X52033."
+        }
+      ],
+      "conflito": true,
+      "nota": "Título no blogue: «Fado Boémio (?)»; no Museu do Fado: «Fado Polémico» (etiqueta: «Fado Polémio»). O registo do Museu do Fado indica «Editora: Zo. X52033» e «Referências: 8261fi, X52033; X-52033»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/636/almeida_cruz_fado_polemico",
+      "doc": "museu-do-fado:we06726ece6dcd01e",
+      "citacao": "Título: Fado Polémico ... Editora: Zo. X52033 Referências: 8261fi, X52033; X-52033"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Boémio (?), Zonophone X52033."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

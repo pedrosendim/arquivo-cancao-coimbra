@@ -1,0 +1,202 @@
+{
+  "id": "seccao-de-fado-apresenta-2000",
+  "titulo": "Secção De Fado Apresenta...",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "",
+  "ano": "2000",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "seccao-de-fado-da-aac",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Vira De Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Cana Real Das Canas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Eu Quero Cagar",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Kalinka",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Carteiro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Canção Dos Anjos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Desilusão De Um Poeta",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Mudança I",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "O Vos Omnes",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Versos Para Uma Canção",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Canção Do Mar E Da Poesia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Encadeia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Quadrilha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Balada Dos Meus Amores",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Maio de 78",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/miHvQLIgE4XqrRRTThYI6C0Bfc0K03ML8teFe3U85c0/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE3/MDM1LTE1MTk0OTMy/OTMtNDAwNi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/11617035",
+        "doc": "discogs:w3f1b9fe26e5edfb3",
+        "citacao": "Imagem (primary): https://i.discogs.com/miHvQLIgE4XqrRRTThYI6C0Bfc0K03ML8teFe3U85c0/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE3/MDM1LTE1MTk0OTMy/OTMtNDAwNi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/11617035",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11617035",
+          "doc": "discogs:w3f1b9fe26e5edfb3",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2000 (Discogs)",
+      "data": "2000",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11617035",
+          "doc": "discogs:w3f1b9fe26e5edfb3",
+          "citacao": "Data: 2000"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "disco anunciado pelo site da Secção como reunindo dois temas de cada um dos seus oito grupos",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "estando em preparação o CD “A Secção de Fado apresenta...”, que engloba dois temas dos seus oito grupos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11617035",
+      "doc": "discogs:w3f1b9fe26e5edfb3",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – none"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11617035",
+      "doc": "discogs:w3f1b9fe26e5edfb3",
+      "citacao": "Formato: 1 × CD, Album"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11617035",
+      "doc": "discogs:w3f1b9fe26e5edfb3",
+      "citacao": "Faixas: 1 ... 16"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+      "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+      "citacao": "estando em preparação o CD “A Secção de Fado apresenta...”, que engloba dois temas dos seus oito grupos."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

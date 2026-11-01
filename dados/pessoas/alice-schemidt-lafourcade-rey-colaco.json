@@ -1,0 +1,68 @@
+{
+  "id": "alice-schemidt-lafourcade-rey-colaco",
+  "tipo": "pessoa",
+  "nome": "Alice Schemidt Lafourcade Rey Colaço",
+  "nomes_alternativos": [
+    "Alice Rey Colaço"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "11 de outubro de 1893",
+      "data": "1893-10-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Casa em Lisboa, na Igreja da Estrela, a 28 de Junho de 1924, com a Sra. D. Alice Schemidt Lafourcade Rey Colaço, nascida a 11 de Outubro de 1893."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Filha do compositor Rey Colaço (segundo outro post)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Virá a casar com uma filha do compositor Rey Colaço."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2014 sobre António Menano diz que Horácio casou com «uma filha do compositor Rey Colaço», sem a nomear."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "horacio-paulo-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Casa em Lisboa, na Igreja da Estrela, a 28 de Junho de 1924, com a Sra. D. Alice Schemidt Lafourcade Rey Colaço, nascida a 11 de Outubro de 1893."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": "Casamento na Igreja da Estrela, Lisboa, 28 de junho de 1924."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

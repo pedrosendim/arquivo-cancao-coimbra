@@ -1,0 +1,32 @@
+{
+  "id": "luis-de-castro-pereira-cabral",
+  "tipo": "pessoa",
+  "nome": "Luís de Castro Pereira Cabral",
+  "nomes_alternativos": [
+    "Luís da Feira"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Notário em Coimbra, com cartório e residência no Campo da Feira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "notário Luís de Castro Pereira Cabral, conhecido pelo Luís da Feira, por ter cartório e residência no Campo de Feira"
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo José Niza, Fado de Coimbra II, citado no post."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "inacia-soares-de-brito",
+  "tipo": "pessoa",
+  "nome": "Inácia Soares de Brito",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Nascida no Brasil",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Era filho do grande guitarrista e compositor de Coimbra, Anthero Alte da Veiga (1866 – 1960) e de sua mulher a Sra. D. Inácia Soares de Brito, nascida no Brasil"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aluna de José Viana da Mota; profundos conhecimentos musicais",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "dotada de profundos conhecimentos musicais, tendo sido aluna do célebre professor e compositor José Viana da Mota"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Natural da Chamusca da Beira (segundo outro post)",
+      "data": "",
+      "local": "Chamusca da Beira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "já então casado com Inácia Soares de Brito, da Chamusca da Beira"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post sobre Eugénio da Veiga diz que nasceu no Brasil; o post sobre Anthero diz «da Chamusca da Beira» (pode referir-se só à residência)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Era filho do grande guitarrista e compositor de Coimbra, Anthero Alte da Veiga (1866 – 1960) e de sua mulher a Sra. D. Inácia Soares de Brito, nascida no Brasil"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "já então casado com Inácia Soares de Brito, da Chamusca da Beira"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

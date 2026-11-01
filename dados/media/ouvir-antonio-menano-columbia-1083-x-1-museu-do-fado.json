@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-columbia-1083-x-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0595_31.mp3",
+  "titulo": "Fado do Bussaco — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-columbia-1083-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1184.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1174/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:w53173205abdafbac",
+      "citacao": "Título: Fado do Bussaco ... Editora: Co.1083X, EMICD8364452 Referências: OG606, P, AD, 2, W; G-1083-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

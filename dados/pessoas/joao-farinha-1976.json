@@ -1,0 +1,511 @@
+{
+  "id": "joao-farinha-1976",
+  "tipo": "pessoa",
+  "nome": "João Farinha",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "O encontro aconteceu cedo, muito cedo e por via familiar. Com o pai, João Farinha entrou, menino ainda, no mundo fascinante do fado de Coimbra, privando com alguns dos nomes maiores da canção coimbrã da segunda metade do século XX."
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "JOÃO FARINHA, was born in Coimbra, Portugal, in January of 1976."
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "da aprendizagem marcada pelo Conservatório de Música de Coimbra, pela batuta do maestro Virgílio Caseiro e pelo coro masculino da Secção de Fado da AAC - Schola Cantorum, João Farinha há de ser um dos artistas na criação do projeto Fado Ao Centro"
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "que entretanto tinha fundado, com João Monteiro e Pedro Cunha o grupo de fado ÆMINIUM (1998), mas também o Grupo Coimbra Ensemble (2005) e cantado no Coro dos Antigos Orfeonistas da Universidade de Coimbra (2006)"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html",
+      "doc": "gc-ii:6391499531088337897",
+      "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "Presente em mais de uma dezena de títulos discográficos, as composições originais do artista, já se fizeram ouvir nos palcos do mundo"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, janeiro de 1976",
+      "data": "1976-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "JOÃO FARINHA, was born in Coimbra, Portugal, in January of 1976."
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6023709",
+          "doc": "discogs:wbb02036f1f26fa47",
+          "citacao": "Portuguese fado singer and songwriter (Coimbra, Jan. 1976)"
+        },
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "JOÃO FARINHA, Gründer des Fado Ao Centro, wurde 1976 in Coimbra geboren"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Conservatório de Música de Coimbra; maestro Virgílio Caseiro; coro masculino da Secção de Fado da AAC (Schola Cantorum)",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "da aprendizagem marcada pelo Conservatório de Música de Coimbra, pela batuta do maestro Virgílio Caseiro e pelo coro masculino da Secção de Fado da AAC - Schola Cantorum"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Conservatório de Música de Coimbra a partir de 2001 (aulas de canto)",
+      "data": "2001",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "2001 trat er dem Coimbra Music Conservatory bei, wo er seine Stimme im Gesangsunterricht perfektionierte"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto em alemão do município de Gelsenkirchen (apresentação do grupo Fado ao Centro)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "fundou o grupo de fado ÆMINIUM, com João Monteiro e Pedro Cunha (1998)",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "que entretanto tinha fundado, com João Monteiro e Pedro Cunha o grupo de fado ÆMINIUM (1998)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Grupo Coimbra Ensemble (2005)",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "mas também o Grupo Coimbra Ensemble (2005)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "cantou no Coro dos Antigos Orfeonistas da Universidade de Coimbra (2006)",
+      "data": "2006",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "cantado no Coro dos Antigos Orfeonistas da Universidade de Coimbra (2006)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "cantor do grupo «Coimbra», com Ricardo Dias (guitarra) e Pedro Lopes (viola)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html",
+          "doc": "gc-ii:6391499531088337897",
+          "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/capa-contracapa-e-parte-do-caderno-do.html",
+          "doc": "gc-ii:6915606530316536542",
+          "citacao": "João Farinha na voz, Ricardo Dias na guitarra de Coimbra e Pedro Lopes na viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "um dos fundadores do Fado ao Centro (trio original: João Farinha, Luís Barroso e Luís Carlos)",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"
+        },
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "JOÃO FARINHA, Gründer des Fado Ao Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "atuações desde 1998; acompanhou artistas como Raquel Tavares, Cristina Branco, Camané e Mariza",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "ist sie seit 1998 auf der ganzen Welt und in Tausenden von Shows aufgetreten und hat Künst-"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto alemão, de apresentação do grupo, continua «…ler wie Raquel Tavares, Cristina Branco, Camané und Mariza begleitet» (palavra «Künstler» partida na linha)."
+    },
+    {
+      "campo": "outro",
+      "valor": "compositor de temas do fado de Coimbra como Maria, Penélope, Fado Estudantina e Pepa",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "ist auch Komponist und verantwortlich für einige der erfolgreichsten modernen Themen des Fado de Coimbra, wie zum Beispiel: Maria, Penélope, Fado Estudantina oder Pepa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«Maria» (letra de Antero de Quental, música de João Farinha)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Maria (Letra: Antero de Quental / Música: João Farinha)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Maria  [Antero de Quental, João Farinha (2)]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/maria-grupo-de-fados-de-medicina-do.html",
+          "doc": "gc-v:2828667880785916239",
+          "citacao": "chamou-nos a atenção a performance da composição de João Farinha, MARIA"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2014 refere a interpretação de «Maria» pelo Grupo de Fados de Medicina do Porto."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra» (HM Música hm007cd, 2008), com Ricardo Dias e Pedro Lopes",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Editora: HM Música – hm007cd"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Band [Coimbra], Vocals – João Farinha (2)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "2CD «Fado de Coimbra (Fados & Guitarradas Volume 2)», Fado ao Centro, 2011",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6023709",
+          "doc": "discogs:wbb02036f1f26fa47",
+          "citacao": "2011 · Fado De Coimbra (Fados & Guitarradas Volume 2) · Fado Ao Centro · 2xCD, Album · Main"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Clássicos do Fado de Coimbra», Fado ao Centro, 2015 (voz)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16024589",
+          "doc": "discogs:wbf0d9d50ac50f252",
+          "citacao": "Vocals – João Farinha (2)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "álbum «Sim» (2018)",
+      "data": "2018",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "SIM 2018"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "álbum «Solto» (2020)",
+      "data": "2020",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "SOLTO 2020"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "«Solto» distinguido pela Antena 1",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "Distinguido pela Antena 1, Solto apresenta João Farinha num momento de descoberta e liberdade criativa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o site oficial; o tipo de distinção não é especificado."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "álbum «Ao Vivo» (2022), gravado ao vivo em Coimbra",
+      "data": "2022",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "AO VIVO 2022"
+        },
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "Gravado ao vivo em Coimbra, este álbum reúne clássicos e novas interpretações"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "álbum «A Conta Que Deus Fez» (2024)",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "A CONTA QUE DEUS FEZ 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "inauguração de um fontanário no largo da Sé Velha, com Luís Barroso e Luís Carlos, do Fado ao Centro (Diário de Coimbra, 21-12-2011)",
+      "data": "2011",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/joao-farinha-luis-barroso-e-luis-carlos.html",
+          "doc": "gc-iv:1108776797248206076",
+          "citacao": "João Farinha, Luís Barroso e Luís Carlos, do Fado ao Centro, contribuiramm com a sua arte para a inauguração de um fontanário no largo da Sé Velha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "escadas da Igreja de Santiago, com Luís Barroso (g) e Luís Carlos (v) (Diário de Coimbra, junho de 2012)",
+      "data": "2012",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/joao-farinha-c-luis-barroso-g-e-luis.html",
+          "doc": "gc-iv:4053923630858853141",
+          "citacao": "João Farinha (c), Luís Barroso (g) e Luís Carlos (v), vão estar amanhã nas escadas da Igreja de Santiago."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013, no bloco do Fado ao Centro: «Sim» (Fernando Pessoa / João Farinha)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Sim (Letra: Fernando Pessoa / Música: João Farinha): João Farinha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«João Farinha, Músico, Fado ao Centro» em notícia da RTP sobre o fado de Coimbra e os turistas (19-02-2017)",
+      "data": "2017-02-19",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fado-de-coimbra-atrai-turistas/",
+          "doc": "rtp-arquivos:w35725c4f740db1a8",
+          "citacao": "João Farinha, Músico, Fado ao Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "fado-ao-centro",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"
+        },
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "JOÃO FARINHA, Gründer des Fado Ao Centro"
+        }
+      ],
+      "nota": "voz; fundador"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-grupo-de-fados",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html",
+          "doc": "gc-ii:6391499531088337897",
+          "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."
+        }
+      ],
+      "nota": "voz (2008-2009)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://images.zoogletools.com/s:bzglfiles/u/511660/54934393c52d7614d88cb05ac12ddf9366abb7c5/original/dsc-9538.jpg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0Ijo3ODcsInRvcCI6OTU2LCJ3aWR0aCI6MjM5MCwiaGVpZ2h0IjoyMzkwfV0sWyJyZXNpemUiLDUwMF0sWyJtYXgiXSxbIndlIl1d/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "legenda": "João Farinha. Fotografia que acompanha a biografia («Bio») no site oficial do cantor.",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "JOÃO FARINHA, was born in Coimbra, Portugal, in January of 1976."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Site oficial de João Farinha",
+      "url": "https://joao-farinha.com/"
+    },
+    {
+      "rotulo": "Spotify: João Farinha",
+      "url": "https://open.spotify.com/artist/2QJhqspDQAb43rTkAynUdf"
+    },
+    {
+      "rotulo": "Discogs: João Farinha (2)",
+      "url": "https://www.discogs.com/artist/6023709"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

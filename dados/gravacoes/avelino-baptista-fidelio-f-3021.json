@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-fidelio-f-3021",
+  "titulo": "Saudade",
+  "formato": "78rpm",
+  "editora": "Fidelio",
+  "referencia": "F 3020 / F 3021",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Saudade",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-fidelio-f-3021-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Saudade», por Avelino Baptista — etiqueta: «Saudade  / Canção de Coimbra  / com acomp. de Estudantina / Avelino Baptista  / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4449/avelino_baptista_saudade",
+          "doc": "museu-do-fado:w1c3a56e0d65011cd",
+          "citacao": "Título: Saudade ... Editora: Fidelio F 3021 F 3020 Referências: Og233, F3021; F3021 ... Etiqueta: Saudade  / Canção de Coimbra  / com acomp. de Estudantina / Avelino Baptista  / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Fado Graciosão» (Isabel Costa, Avelino Baptista, museu-do-fado:w470ed0d4fee6992a)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4449/avelino_baptista_saudade",
+      "doc": "museu-do-fado:w1c3a56e0d65011cd",
+      "citacao": "Título: Saudade ... Editora: Fidelio F 3021 F 3020 Referências: Og233, F3021; F3021"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

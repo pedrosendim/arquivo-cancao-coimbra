@@ -1,0 +1,24 @@
+{
+  "id": "manasses-fado-hilario-gramophone-62384-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0477_37.mp3",
+  "titulo": "«Fado Hilário» – Manassés de Lacerda (Gramophone 62384, outro exemplar) – Arquivo Sonoro do Museu do Fado",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [
+    "fado-hilario-moderno"
+  ],
+  "gravacao": "manasses-de-lacerda-gramophone-62384",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/939/manasses_de_lacerda_fado_hilario",
+      "doc": "museu-do-fado:w38c2068196f69836",
+      "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra. 62384"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

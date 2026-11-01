@@ -1,0 +1,208 @@
+{
+  "id": "nuno-dias",
+  "tipo": "pessoa",
+  "nome": "Nuno Dias",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "cantor",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/05/cancoes-pagas-um-disco-gravado-por-nuno.html",
+      "doc": "gc-v:617394938779813570",
+      "citacao": "Nuno Dias é um antigo guitarrista formado nas escolas de Coimbra, professor de música e elemento do Coro do São Carlos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+      "doc": "gc-i:116656793633803313",
+      "citacao": "a interpretação de «Passatempo» por Bruno Costa / Nuno Dias (gg.) / João Brito / António Paulino (vv.), inserta no CD Cordas do Mondego"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-n_114429013282456317.html",
+      "doc": "gc-i:114429013282456317",
+      "citacao": "Nuno Dias na guitarra e Fernando Lima na viola, abriram a sessão de guitarradas, tocando Despertar e Variações sob uma dança popular, de Carlos Paredes e Balada da Oliveira de Pedro Caldeira Cabral."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/06/no-cinquentnario-de-cancoes-de-amor-e.html",
+      "doc": "gc-v:6158755089448000673",
+      "citacao": "Nuno Dias formou-se nas escolas coimbrãs de guitarra e teve atividade conhecida e reconhecida como instrumentista. Neste projeto deixa a guitarra debaixo da cama e aposta na interpretação vocal, assinando testemunho como baixo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/espetaculo-entre-mulheres.html",
+      "doc": "gc-v:4709860448661842975",
+      "citacao": "O guitarrista Nuno Dias (gC) participa no espetáculo Entre Mulheres + Ensemble d'Elite, em Lisboa, no Museu Nacional da Música, dia 14 de julho, pelas 18:00h."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Formado nas escolas de guitarra de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/05/cancoes-pagas-um-disco-gravado-por-nuno.html",
+          "doc": "gc-v:617394938779813570",
+          "citacao": "Nuno Dias é um antigo guitarrista formado nas escolas de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de música e elemento do Coro do São Carlos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/05/cancoes-pagas-um-disco-gravado-por-nuno.html",
+          "doc": "gc-v:617394938779813570",
+          "citacao": "professor de música e elemento do Coro do São Carlos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarrista no CD «Cordas do Mondego» (Secção de Fado da AAC, 1999)",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Cordas do Mondego, Coimbra, Secção de Fado da AAC, 1999. Recupera 13 peças instrumentais do repertório Artur Paredes. Guitarras por Bruno Costa, Nuno Dias"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "a interpretação de «Passatempo» por Bruno Costa / Nuno Dias (gg.) / João Brito / António Paulino (vv.), inserta no CD Cordas do Mondego"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Canções Pagãs / O Cancioneiro de Luiz Goes» (2016), como cantor (baixo), com Luís Figueiredo ao piano: 16 títulos do repertório gravado por Luiz Goes entre 1967 e 1971",
+      "data": "2016",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/no-cinquentnario-de-cancoes-de-amor-e.html",
+          "doc": "gc-v:6158755089448000673",
+          "citacao": "partilhando o discretíssimo projeto CD CANÇÕES PAGÃS / O CANCIONEIRO DE LUIZ GOES, 2016, 16 faixas sonoras do repertório fixado fonograficamente por Luiz Goes entre 1967 e 1971, acompanhado ao piano por Luís Figueiredo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Guitarradas no Café Santa Cruz",
+      "data": "2005-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/na-semana-passada-tocaram-se.html",
+          "doc": "gc-i:111420758405596375",
+          "citacao": "Na semana passada tocaram-se guitarradas no Café Santa Cruz. Estiveram presentes: David, Henrique Fraga, Manuel Campos Coroa, Manuel Fernandes Campos Coroa, Jorge Gomes, Paulino e Nuno Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a Gilberto Grácio no Café Santa Cruz (encerramento do Mês do Fado), com Fernando Lima (viola)",
+      "data": "2006-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-n_114429013282456317.html",
+          "doc": "gc-i:114429013282456317",
+          "citacao": "Homenagem a Gilberto Grácio no Café Santa Cruz, ontem. Encerramento do Mês do Fado. Nuno Dias na guitarra e Fernando Lima na viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata na escadaria da Igreja de Santo António dos Olivais com o Grupo Coimbra de Sempre (17 de julho)",
+      "data": "2007-07-17",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/07/aqui-vo-em-anexo-as-fotos-da-serenata.html",
+          "doc": "gc-i:3611060615263027786",
+          "citacao": "Serenata de ontem (17 de Julho), na escadaria da Igreja de Santo António dos Olivais, em Coimbra com o Grupo Coimbra de Sempre, onde pontifica a voz de Dominique Ventura, (com António Paulino na viola e Nuno Dias na guitarra)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo «Entre Mulheres + Ensemble d'Elite», Museu Nacional da Música, Lisboa (14 de julho): 4 canções populares com arranjos seus",
+      "data": "2022-07-14",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/espetaculo-entre-mulheres.html",
+          "doc": "gc-v:4709860448661842975",
+          "citacao": "participa no espetáculo Entre Mulheres + Ensemble d'Elite, em Lisboa, no Museu Nacional da Música, dia 14 de julho, pelas 18:00h."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/espetaculo-entre-mulheres.html",
+          "doc": "gc-v:4709860448661842975",
+          "citacao": "Na 1.ª parte Nuno Dias interpretará 4 canções populares, com arranjos de sua própria autoria, do Minho, de Trás-os-Montes e da Beira Baixa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Entrevista de Joana Patacas no «ProArte Entrevista» (3-4-2024): «Um encontro entre o canto lírico e a Guitarra de Coimbra e Canção de Coimbra»",
+      "data": "2024-04-03",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/uma-entrevista-de-nuno-dias.html",
+          "doc": "gc-v:4059370903268889874",
+          "citacao": "Em destaque no ProArte Entrevista, entrevista de Joana Patacas a Nuno Dias, edição de 3.04.2024: Um encontro entre o canto lírico e a Guitarra de Coimbra e Canção de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "bruno-costa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "a interpretação de «Passatempo» por Bruno Costa / Nuno Dias (gg.) / João Brito / António Paulino (vv.), inserta no CD Cordas do Mondego"
+        }
+      ],
+      "nota": "As duas guitarras de «Passatempo» no CD Cordas do Mondego (1999)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

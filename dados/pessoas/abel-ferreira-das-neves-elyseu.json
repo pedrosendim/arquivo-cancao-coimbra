@@ -1,0 +1,32 @@
+{
+  "id": "abel-ferreira-das-neves-elyseu",
+  "tipo": "pessoa",
+  "nome": "Abel Ferreira das Neves Elyseu",
+  "nomes_alternativos": [],
+  "papeis": [
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Compositor, da família de pintores e músicos Elyseu",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "A família dos pintores e músicos ELYSEU está presente com três nomes: Abel Ferreira das Neves Elyseu, compositor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

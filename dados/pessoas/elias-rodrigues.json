@@ -1,0 +1,41 @@
+{
+  "id": "elias-rodrigues",
+  "tipo": "pessoa",
+  "nome": "Elias Rodrigues",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-guitarra-e-canto-de-coimbra-santarem",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Grupo anfitrião (GGCC) constituído por João Luís Madeira Lopes, António Madeira Lopes, Fernando Martinho (guitarras) e Elias Rodrigues (viola)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-de-santarm.html",
+          "doc": "gc-i:111698146756272372",
+          "citacao": "Grupo de Santarém. À guitarra: João Luís, António Madeira Lopes e Fernando Martinho. À viola, Elias Rodrigues."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Texto enviado por Elias Rodrigues do GGCC de Santarém."
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

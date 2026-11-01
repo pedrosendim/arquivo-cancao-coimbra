@@ -1,0 +1,115 @@
+{
+  "id": "conjunto-de-fados-do-orfeao",
+  "tipo": "grupo",
+  "nome": "Conjunto de Fados do Orfeão",
+  "nomes_alternativos": [
+    "Conjunto de Fados do Orfeão Universitário do Porto",
+    "Conjunto de Fados do OUP"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+      "doc": "gc-v:7982659814858470913",
+      "citacao": "Na digressão africana de 1962 a Direção do OUP não tinha conseguido mobilizar um grupo de «fados e guitarradas». Foi no decurso da viagem, no Pátria, que Beirão Reis desafiou vários colegas no sentido de começarem a ensaiar repertório para apresentação nos saraus artísticos nas cidades angolanas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+      "doc": "gc-v:1552415873352881508",
+      "citacao": "A designação «conjunto» foi empregue no verão de 1962, por elementos do OUP numa digressão a Angola. O grupo masculino junior constituído na circunstância por Beirão Reis foi designado «Conjunto de Fados do Orfeão» [do OUP]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+      "doc": "gc-v:7982659814858470913",
+      "citacao": "Formação de estudantes da UP que acompanhou o OUP a Angola no mês de agosto de 1962 [19 a 31]. Embarcados em Lisboa, no navio Pátria, os orfeonistas atuaram em Luanda, Lobito, Moçâmedes, Silva Porto, Sá da Bandeira, Nova Lisboa e Benguela."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+      "doc": "gc-v:7982659814858470913",
+      "citacao": "Além de Beirão Reis (v), integraram o então designado «Conjunto de Fados do Orfeão», os cantores Raul Barros Leite, Filipe Gameiro dos Santos e Rogério Silva, os guitarras Sebastião Carneiro e Rui de Castro, e o viola Jaime Filho."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "constituído por Beirão Reis durante a viagem do OUP a Angola, no navio Pátria (agosto de 1962)",
+      "data": "1962-08",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "A designação «conjunto» foi empregue no verão de 1962, por elementos do OUP numa digressão a Angola. O grupo masculino junior constituído na circunstância por Beirão Reis foi designado «Conjunto de Fados do Orfeão» [do OUP]."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "Na digressão africana de 1962 a Direção do OUP não tinha conseguido mobilizar um grupo de «fados e guitarradas». Foi no decurso da viagem, no Pátria, que Beirão Reis desafiou vários colegas no sentido de começarem a ensaiar repertório para apresentação nos saraus artísticos nas cidades angolanas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "saraus em Angola, 19 a 31 de agosto de 1962: Luanda, Lobito, Moçâmedes, Silva Porto, Sá da Bandeira, Nova Lisboa e Benguela",
+      "data": "1962-08",
+      "local": "Angola",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "Formação de estudantes da UP que acompanhou o OUP a Angola no mês de agosto de 1962 [19 a 31]. Embarcados em Lisboa, no navio Pátria, os orfeonistas atuaram em Luanda, Lobito, Moçâmedes, Silva Porto, Sá da Bandeira, Nova Lisboa e Benguela."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "A partir do sarau dado no Lobito, em 19 de agosto, o improvisado «conjunto» assegurou um número de palco com o formato 3 composições / 4 composições"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Beirão Reis descreveu a formação no artigo «Dos mais castiços de todos», revista Orfeão (OUP), n.os 2-4, janeiro-março de 1963",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "Beirão Reis detalhou a formação e prestação deste grupo na revista Orfeão, edição do OUP, no artigo «Dos mais castiços de todos», n.º 2 / janeiro de 1963; n.º 3 / fevereiro de 1963; n.º 4 / março de 1963."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgugXUcbQ0dTc2DPoRhPl-35zIr46GcepiVJHhQSKDMLmFMJfhyphenhyphen99QXDe-iPlF6nd6AAFMcFqysLgIHFNg5xZrtNZ-EToNDeQJ-W8B46kFbAS_jEm3PpaQ4mqk4Dk8QfusoqQHbrXxdZ1Nk1HmNtKmnJ74H5kaLioMvycOlyi4QMtS5dNgA9yUtNayro/s612/grupoOUP.jpg",
+      "legenda": "Formação de estudantes da Universidade do Porto que acompanhou o OUP a Angola em agosto de 1962 (fotografia da revista Orfeão, n.º 2, janeiro de 1963).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "Fonte: fotografia publicada na revista Orfeão, ano I, n.º 2, janeiro de 1963."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187806-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0607_15.mp3",
+  "titulo": "Carta das trincheiras — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187806",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1208.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1198/antonio_menano_carta_das_trincheiras",
+      "doc": "museu-do-fado:wdf910e3ee40be08e",
+      "citacao": "Título: Carta das trincheiras ... Editora: Od.LA187.806, EMICD8346182,HTCD31 Referências: OG1015, L, NR; LA 187806a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

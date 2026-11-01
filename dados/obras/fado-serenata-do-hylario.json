@@ -1,0 +1,201 @@
+{
+  "id": "fado-serenata-do-hylario",
+  "titulo": "Fado Serenata do Hylario",
+  "titulos_alternativos": [
+    "Fado Serenata do Hilário",
+    "Fado Serenata",
+    "Foge lua envergonhada"
+  ],
+  "genero": "fado",
+  "musica": [
+    "augusto-hilario"
+  ],
+  "letra": [],
+  "ano": "1894",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Partitura editada pela Casa Neuparth & C.ª (Lisboa): «Dedicado ás Damas Portuguezas | Coimbra 1894 | Música de Augusto Hylario (Estudante de Medicina)»",
+      "data": "1894",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-serenata-do-hylario.html",
+          "doc": "galaxia-sonora-coimbra:1634787681358037900",
+          "citacao": "Edição da Casa Neuparth & C.ª n.º 97 e 99 da Rua Nova do Almada, Lisboa"
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-serenata-do-hylario.html",
+          "doc": "galaxia-sonora-coimbra:1634787681358037900",
+          "citacao": "«Dedicado ás DAMAS PORTUGUEZAS» | Coimbra 1894 | Música de Augusto Hylario | (Estudante de Medicina)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Publicado no Cancioneiro de Músicas Populares de César das Neves e Gualdino de Campos, vol. I (1893), p. 280, n.º 143",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-serenata-de-augusto-hylario-143.html",
+          "doc": "galaxia-sonora-coimbra:7289571269103747817",
+          "citacao": "Fonte: Neves, César das e Pais, Gualdim, Cancioneiro de Músicas Populares, vol. I, Empresa Editora, Porto, 1893, p. 280, n.º 143."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "O «Fado Serenata» foi publicado no Cancioneiro de Músicas Populares, César das Neves, 1893, Vol. I página 280, com o n.º 143"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Improvisado por Hilário numa noite de serenatas no Largo de São João de Almedina, na primavera de 1894",
+      "data": "1894",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Na Primavera de 1894 conviveu assiduamente com o guitarrista Antero da Veiga e numa noite de serenatas improvisou o Fado Serenata no Largo de São João de Almedina."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra de 26 quadras em redondilha maior; incipit «Foge lua envergonhada»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "“FADO SERENATA DO HYLÁRIO”. Em que a letra compreende 26 quadras em redondilha maior."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8204525654998571512",
+          "citacao": "Fado serenata do Hylario (Foge lua envergonhada retira-te lá do céu) CMP César das Neves 143"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ária para solista masculino, em compasso 2/4 e tom de Fá Maior, com uma só parte musical",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "O “fado-serenata” hilariano era uma ária destinada a solista masculino, em compasso 2/4 e tom de Fá Maior, silábica, com uma só parte musical."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado por Hilário em cilindros Edison nas sessões de fonógrafo de Coimbra (1894)",
+      "data": "1894",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "cantou e gravou o seu muito recente Fado Serenata [do Hylario]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/o-fonografo-em-coimbra-ii-1894.html",
+          "doc": "gc-v:4161618351655602619",
+          "citacao": "Dois dos temas multigravados foram o Vira do Minho e o Fado Serenata do Hylario."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado pelo barítono Duarte Silva no Porto (Gramophone 62867, novembro/dezembro de 1900)",
+      "data": "1900",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/o-mais-antigo-disco-de-massa-que-se.html",
+          "doc": "gc-v:3594199943360181960",
+          "citacao": "FADO [SERENATA DO] HYLARIO, música de Augusto Hylario (omisso), gravado pelo Senhor Duarte Silva, «portuguese baritono», cidade do Porto / Portugal, Gramophone 62867, novembro / dezembro de 1900 (omisso)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Base, com «O Último Fado», do chamado «Fado Hilário Moderno»",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "o «Fado Hilário moderno» resultou da junção ou colagem (por simples adição em sequência) de duas composições musicais (fados) da autoria de Augusto Hylario - o «Fado Serenata» e «O último fado» (por esta ordem)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Serviu de base temática, com «Às Estrelas», ao Fado n.º 3 (Hylario) de Alexandre Rey Colaço",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8204525654998571512",
+          "citacao": "«Às estrelas» e «Fado serenata do Hylario» (e uma terceira composição não identificada) servem de bases temáticas ao Fado n.º 3 (Hylario) de Alexandre Rey Colaço."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-serenata-do-hylario.html",
+      "doc": "galaxia-sonora-coimbra:1634787681358037900",
+      "citacao": "Edição da Casa Neuparth & C.ª n.º 97 e 99 da Rua Nova do Almada, Lisboa"
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-serenata-de-augusto-hylario-143.html",
+      "doc": "galaxia-sonora-coimbra:7289571269103747817",
+      "citacao": "Fonte: Neves, César das e Pais, Gualdim, Cancioneiro de Músicas Populares, vol. I, Empresa Editora, Porto, 1893, p. 280, n.º 143."
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "citacao": "O «Fado Serenata» foi publicado no Cancioneiro de Músicas Populares, César das Neves, 1893, Vol. I página 280, com o n.º 143"
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:8204525654998571512",
+      "citacao": "Fado serenata do Hylario (Foge lua envergonhada retira-te lá do céu) CMP César das Neves 143"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "manuel-gouveia-ferreira",
+  "tipo": "pessoa",
+  "nome": "Manuel Gouveia Ferreira",
+  "nomes_alternativos": [
+    "Manuel António Gouveia Ferreira",
+    "Gouveia Ferreira",
+    "Manuel Gouveia"
+  ],
+  "papeis": [
+    "violista",
+    "compositor",
+    "letrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Folha a Folha, pelo Grupo Presença de Coimbra, Numérica, NUM 49P&C, gravado no Aurastudio, Paços de Brandão, 1999. Textos de apresentação assinados por Manuel Alegre, Rui Pato, Miguel Porto e Armando Luís de Carvalho Homem. Insere biografias dos intervenientes e fotografias. Vozes de Jorge Cravo e Luís Goes. Guitarras a cargo de Manuel Borralho e José Ferraz de Oliveira. Viola a cargo de Manuel Gouveia Ferreira. Regista 14 temas inéditos, dos quais 3 são instrumentais."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/falecimento-de-manuel-gouveia-ferreira.html",
+          "doc": "gc-v:7088253602856907028",
+          "citacao": "Destacou-se como jurisconsulto, dirigente associativo e executante de viola de cordas de nylon na formação Presença de Coimbra. Com este grupo participou em inúmeros espetáculos e homenagens, tendo gravado vários CDs."
+        }
+      ],
+      "nota": "viola; desde 1981 até à morte em 2019"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

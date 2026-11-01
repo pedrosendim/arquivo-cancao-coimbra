@@ -1,0 +1,45 @@
+{
+  "id": "diogo-ferreira",
+  "tipo": "pessoa",
+  "nome": "Diogo Ferreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "presidente da Secção de Fado da AAC (2024)",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "Para Diogo Ferreira, presidente da SF/AAC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "Para Diogo Ferreira, presidente da SF/AAC"
+        }
+      ],
+      "nota": "Presidente da Secção (2024)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

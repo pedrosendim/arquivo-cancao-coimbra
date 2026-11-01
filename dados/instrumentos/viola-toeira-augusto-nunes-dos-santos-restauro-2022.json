@@ -1,0 +1,102 @@
+{
+  "id": "viola-toeira-augusto-nunes-dos-santos-restauro-2022",
+  "designacao": "Viola toeira da oficina de Augusto Nunes dos Santos, restaurada por Orlando Trindade em 2022 com colaboração de Pedro Caldeira Cabral",
+  "tipo": "viola toeira",
+  "construtor": "augusto-nunes-dos-santos",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Restaurada por Orlando Trindade em 2022, com colaboração e textos de Pedro Caldeira Cabral (estudo, conservação e restauro historicamente fundamentado)",
+      "data": "2022",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+          "doc": "gc-v:8291707980450393908",
+          "citacao": "Registo de uma intervenção de Orlando Trindade no âmbito do estudo, conservação e restauro historicamente fundamentado de uma viola toeira fabricada na oficina de Augusto Nunes dos Santos. Intervenção realizada em 2022, com colaboração e textos de Pedro Caldeira Cabral (PCC)."
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Viola Toeira de Augusto Nunes dos Santos restaurada por Orlando Trindade em 2022"
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes não indicam o proprietário nem a coleção; não se sabe se coincide com outra viola de Augusto Nunes dos Santos já catalogada (ex.: viola-toeira-augusto-nunes-dos-santos-raul-simoes, no Museu Nacional de Etnologia)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Pedro Caldeira Cabral, o cavalete das violas toeiras de Coimbra é uma peça em arco, de corte prismático invertido, com canais interiores, que esconde a verdadeira pestana (arame de alpaca transversal); o contra-cavalete das reproduções modernas descaracteriza o modelo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Trata-se de uma peça de madeira em forma de arco, com um corte transversal prismático invertido, provido de canais na superfície interior (ductos de perfil trapezoidal) e que esconde a verdadeira pestana"
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A utilização de um contra-cavalete, tantas vezes hoje aplicado nas reproduções modernas da Viola Toeira, descaracteriza a identidade particular deste modelo"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade). Observação geral sobre o modelo, a partir dos restauros de Orlando Trindade. O blogue GC-V levanta dúvidas sobre o arame transversal e os «bigodes» (facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue GC-V levanta dúvidas sobre as especificidades atribuídas ao arame transversal no interior do cavalete, sobre os «bigodes» e sobre as danças populares referidas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+          "doc": "gc-v:8291707980450393908",
+          "citacao": "E ficam algumas dúvidas. São referidas danças populares portuguesas que não estão mapeadas no cancioneiro de Coimbra, são atribuídas especificidades a um arame transversal montado no interior do cavalete e são referidos bigodes."
+        }
+      ],
+      "conflito": true,
+      "nota": "António M. Nunes (blogue GC-V, 2023), sobre o texto e o documentário do restauro."
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Nos exemplares mais antigos, Pedro Caldeira Cabral deteta um temperamento «em tons meãos» (mesotónico) a par de um temperamento igual",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Nos exemplares mais antigos foi possível detectar, a par com o uso de um temperamento “em tons meãos” ou mezzatónico (com meios tons maiores e menores) um temperamento igual"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade). Observação geral sobre violas toeiras antigas."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+      "doc": "gc-v:8291707980450393908",
+      "citacao": "uma viola toeira fabricada na oficina de Augusto Nunes dos Santos. Intervenção realizada em 2022"
+    },
+    {
+      "fonte": "pedro-caldeira-cabral",
+      "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+      "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+      "citacao": "Viola Toeira de Augusto Nunes dos Santos restaurada por Orlando Trindade em 2022"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

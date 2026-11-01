@@ -1,0 +1,247 @@
+{
+  "id": "guitarras-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Guitarras de Coimbra",
+  "nomes_alternativos": [
+    "Associação Cultural Guitarras de Coimbra",
+    "Grupo Guitarras de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "O Grupo “Guitarras de Coimbra” editou, igualmente, um trabalho\ndiscográfico de homenagem a estes dois grandes mestres da Guitarra Portuguesa\nem 2009, com Fernando Rolim, intitulado “As guitarras… António Brojo e António\nPortugal”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "Morreu ontem, António de Jesus, guitarrista do grupo \"Guitarras de Coimbra\"."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "associação cultural fundada por António de Jesus, 1.ª guitarra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra d'ontem e Coimbra d'hoje» (dezembro de 2001) e «Coimbra sempre menina e moça»",
+      "data": "2001-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «As guitarras… António Brojo e António Portugal» (2009), com Fernando Rolim",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "O Grupo “Guitarras de Coimbra” editou, igualmente, um trabalho\ndiscográfico de homenagem a estes dois grandes mestres da Guitarra Portuguesa\nem 2009, com Fernando Rolim, intitulado “As guitarras… António Brojo e António\nPortugal”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas municipais de verão: Escadaria da Igreja de Santo António dos Olivais, Coimbra, 25 de agosto de 2009",
+      "data": "2009-08-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "Dia 25, Terça Escadaria da Igreja de Santo António dos Olivais\n\nGuitarras de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "morte de António de Jesus, guitarrista do grupo (agosto de 2014)",
+      "data": "2014-08",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Morreu ontem, António de Jesus, guitarrista do grupo \"Guitarras de Coimbra\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação indicada em 2014: António de Jesus, Alcides Freixo e Alexandre Cortesão (guitarras); Fernando Plácido, Aníbal Moreira e Bernardino Gonçalves (violas); José Miranda e José Neves (vozes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata na Praça 8 de Maio, Coimbra (julho de 2006), apresentada por Sansão Coelho, com António de Jesus e Alexandre Cortesão (guitarras), Bernardino Gonçalves e Fernando Plácido (violas), Aníbal Moreira (viola baixo)",
+      "data": "2006-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-de-fados-e-guitarras_115241127195817624.html",
+          "doc": "gc-i:115241127195817624",
+          "citacao": "Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio. Sansão Coelho apresenta o grupo. António de Jesus e Alexandre Cortesão (gg); Bernardino Gonçalves e Fernando Plácido (vv); Aníbal Moreira (viola baixo)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2006 chama ao grupo «Grupo de Fados e Guitarras de Coimbra»; os instrumentistas coincidem com os do grupo Guitarras de Coimbra indicados em 2014. Confirmar a designação (há outro grupo com aquele nome, fundado em 1978)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Noite dos Museus, escadas da Igreja de S. Salvador, Coimbra, maio de 2007: António Jesus e Alexandre Cortesão (guitarras), Bernardino Gonçalves (viola), Emanuel Maia, Abel João, Felisberto Queirós e Joaquim Afonso (vozes)",
+      "data": "2007-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "MILENÁRIO DA RELAL REPÚBLICA PALÁCIO DA LOUCURA, Sábado e Domingo, dias 19 e 20 de Maio de 2007."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "Na Noite dos Museus, em Coimbra proporcionou-se também grande espectáculo de Canção de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "Nas escadas da Igreja de S. Salvador, actuou o Grupo Guitarras de Coimbra com: - António Jesus (Guitarra) - Alexandre Cortesão (Guitarra) - Bernardino Gonçalves (Viola) - Emanuel Maia (Voz) - Abel João (Voz) - Felisberto Queirós (Voz) - Joaquim Afonso (Voz)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de Rui Lopes no blogue. O texto não indica qual dos dois dias (19 ou 20 de maio de 2007)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «10 Anos a Cantar Coimbra», «rectrospectiva de dez anos do grupo»: António Jesus e Alexandre Cortesão (guitarras), Bernardino Gonçalves (viola); cantam Abel João, Emanuel Maia, Felisberto Queirós, Joaquim Afonso, Mário Pais e Vitor Sá; colaboram Carlos Jesus (guitarra) e Paulo Larguesa (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/cd-10-anos-cantar-coimbra-do-grupo.html",
+          "doc": "gc-ii:3330690236129739138",
+          "citacao": "CD \"10 Anos a Cantar Coimbra\", do grupo \"Guitarras de Coimbra\". António Jesus e Alexandre Cortesão nas guitarras; Bernardino Gonçalves na viola. Cantam Abel João, Emanuel Maia, Felisberto Queirós, Joaquim Afonso, Mário Pais e Vitor Sá. Colaboram ainda Carlos Jesus na guitarra e Paulo Larguesa na viola. É uma rectrospectiva de dez anos do grupo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post (7 de dezembro de 2008) não indica o ano de edição do CD."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Grande Noite do Fado de Coimbra, Praça 8 de Maio, Coimbra, 11 de julho de 2009 (Associação Cultural «Coimbra Menina e Moça», Ciclo de Homenagens a António Portugal e Pinho Brojo), com o Grupo «Guitarra e Canto de Coimbra» de Santarém; cantores do grupo: Emanuel Maia, Victor Sá, Mário Pais, Joaquim Afonso e João Rebelo",
+      "data": "2009-07-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "No dia 11 de Julho a Associação Cultural “Coimbra Menina e Moça” irá apresentar frente à Igreja de Santa Cruz a Grande Noite do Fado de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "À noite, na Praça 8 de Maio pelas 22,00h o espectáculo terá a participação do Grupo “Guitarra e Canto de Coimbra” de Santarém e do grupo de fados “Guitarras de Coimbra” que acompanhará os grandes cantores do Fado de Coimbra: ... para além dos seus cantores: Emanuel Maia, Victor Sá, Mário Pais, Joaquim Afonso e João Rebelo."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html?showComment=1247002401951#c1856905893786847346",
+          "doc": "gc-iii:c1856905893786847346",
+          "citacao": "Dia 11 de Julho de 2009"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio no post (Alexandre Cortesão, 11-06-2009) e programa publicado em comentário pelo mesmo (07-07-2009)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Grande Noite do Fado de Coimbra», Praça 8 de Maio (frente à Igreja de Santa Cruz), Coimbra, «dia 2 de Junho», iniciativa da Associação Cultural «Coimbra Menina e Moça» e do grupo: António de Jesus, Alexandre Cortesão e Bernardino Gonçalves, com os cantores Emanuel Maia, Felisberto Queiroz, João Rebelo, Joaquim Afonso, Mário Pais e Victor Sá",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/grande-noite-do-fado-de-coimbra.html",
+          "doc": "gc-iii:8833058828148821377",
+          "citacao": "No próximo dia 2 de Junho, pelas 22h00, terá lugar a já tradicional “Grande Noite do Fado de Coimbra”, uma iniciativa da Associação Cultural “Coimbra Menina e Moça” e do Grupo de Fados “Guitarras de Coimbra\", com o apoio da Empresa Municipal de Turismo de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/grande-noite-do-fado-de-coimbra.html",
+          "doc": "gc-iii:8833058828148821377",
+          "citacao": "Com o Grupo “Guitarras de Coimbra” (António de Jesus, Alexandre Cortesão e Bernardino Gonçalves) actuarão os cantores Emanuel Maia, Felisberto Queiroz, João Rebelo, Joaquim Afonso, Mário Pais e Victor Sá"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio enviado por «Tito» Costa Santos. O texto diz «No próximo dia 2 de Junho» sem indicar o ano, mas o post tem data de 24-06-2010: data por confirmar."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Instrumentistas%208%20com%20Sansao%20Coelho.jpg",
+      "legenda": "Serenata na Praça 8 de Maio (julho de 2006), apresentada por Sansão Coelho: António de Jesus e Alexandre Cortesão (guitarras), Bernardino Gonçalves e Fernando Plácido (violas), Aníbal Moreira (viola baixo).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-de-fados-e-guitarras_115241127195817624.html",
+          "doc": "gc-i:115241127195817624",
+          "citacao": "Sansão Coelho apresenta o grupo. António de Jesus e Alexandre Cortesão (gg); Bernardino Gonçalves e Fernando Plácido (vv); Aníbal Moreira (viola baixo)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

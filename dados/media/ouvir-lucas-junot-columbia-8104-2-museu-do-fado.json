@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-8104-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0465_12.mp3",
+  "titulo": "Fado Corrido de Coimbra — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-8104",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0927.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/915/lucas_junot_fado_corrido_de_coimbra",
+      "doc": "museu-do-fado:wc232b84e3bbd3d6c",
+      "citacao": "Título: Fado Corrido de Coimbra ... Editora: Co. 8104, 1037X Referências: 196, W, 27255, P196; 8104"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

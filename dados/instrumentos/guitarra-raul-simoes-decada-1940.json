@@ -1,0 +1,87 @@
+{
+  "id": "guitarra-raul-simoes-decada-1940",
+  "designacao": "Guitarra de Coimbra assinada por Raul Simões, datável da década de 1940 (em restauro na oficina de Fernando Meireles)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Em restauro na oficina de Fernando Meireles (2020)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Tudo isto para trazer à luz do dia mais uma bela e graciosa guitarra de Coimbra assinada por Raul Simões, em restauro na oficina de Fernando Meireles."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fundo e ilhargas em mogno, tampo em pinho abeto, escala e espelho em pau santo; fabrico datável da década de 1940",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "O fundo e as ilhargas são em mogno. O tempo superior em pinho abeto. A escala em pau santo. A cabeça possivelmente em nogueira. O espelho é também em pau santo. Fabrico datável da década de 1940, atendendo ao leque com pináculos ou flechas e aos trastos metálicos em forma de T."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Caixa com 37 cm de largura máxima; ilhargas entre 7 e 5,4 cm; voluta oval; comprimento total 84,2 cm",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "A caixa tem 37cms de largura máxima, oscilando as ilhargas entre 7cms e 5,4cms."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "O comprimento total, do atadilho à voluta é de 84,2cms."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCgX77eufq1tUDl9ZQKffr4durt5T9r3q9VtS_gr-hbv4cV0c1vd2pKt3jdO-_8jOBWWurPPC9aduc7j3iSeOMwW2-1-atHcyINeWGurbrh6vnfyqYjg14aUYgdN2-ND2gVHyVRjYRh4/s4608/IMG_1745.JPG",
+      "legenda": "Guitarra de Coimbra assinada por Raul Simões, em restauro na oficina de Fernando Meireles (2020).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "Trabalho feito com a colaboração de Fernando Meireles"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "Existem algumas guitarras da mão de Raul Simões no Museu Académico de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

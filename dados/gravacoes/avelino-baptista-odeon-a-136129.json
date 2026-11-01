@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-odeon-a-136129",
+  "titulo": "Canção Tricana I",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136129 / A 136130",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção Tricana I",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-a-136129-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção Tricana I», por Avelino Baptista — etiqueta: «Canção Tricana I / Com acomp. d’Orchestra / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3965/avelino_baptista_cancao_tricana_i",
+          "doc": "museu-do-fado:wd97fb2e57a6a6b22",
+          "citacao": "Título: Canção Tricana I ... Editora: Odeon A 136129 A 136130 Referências: Disco Odeon, A136129; A 136129 ... Etiqueta: Canção Tricana I / Com acomp. d’Orchestra / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Não ames» (Avelino Baptista, museu-do-fado:w833dae2b534cd906)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3965/avelino_baptista_cancao_tricana_i",
+      "doc": "museu-do-fado:wd97fb2e57a6a6b22",
+      "citacao": "Título: Canção Tricana I ... Editora: Odeon A 136129 A 136130 Referências: Disco Odeon, A136129; A 136129"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

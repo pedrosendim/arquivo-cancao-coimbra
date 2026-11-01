@@ -1,0 +1,29 @@
+{
+  "id": "jose-vilhena",
+  "tipo": "pessoa",
+  "nome": "José Vilhena",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+        }
+      ],
+      "nota": "voz; agosto de 2009"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

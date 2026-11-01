@@ -1,0 +1,29 @@
+{
+  "id": "amandio-marques-ferreira",
+  "tipo": "pessoa",
+  "nome": "Amândio Marques Ferreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "cancioneiro-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        }
+      ],
+      "nota": "voz; CD de 1995"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "antonio-menano-odeon-136807",
+  "titulo": "Canção da Beira / Fado Saudades",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "136.807",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção da Beira",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136807-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Saudades",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136807-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção da Beira», por António Menano — etiqueta: «Canção da Beira / António Menano / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1189/antonio_menano_cancao_da_beira",
+          "doc": "museu-do-fado:wcdb2ea45ae6cc444",
+          "citacao": "Título: Canção da Beira ... Editora: Od.136.807,EMI261283,EMICD8374962 Referências: OG690, R; A 136807a ... Etiqueta: Canção da Beira / António Menano / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wedf8bac0d3635ebd"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Saudades», por António Menano — etiqueta: «Fado Saudades  / (Letra do Dr. Fernandes Martins) / (Musica de Dr.Paulo de Sá) / Antonio Menano  / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1188/antonio_menano_fado_saudades",
+          "doc": "museu-do-fado:w03ba203693fcf96c",
+          "citacao": "Título: Fado Saudades ... Editora: Od.136.807, A187.500, X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R; A 136807b ... Etiqueta: Fado Saudades  / (Letra do Dr. Fernandes Martins) / (Musica de Dr.Paulo de Sá) / Antonio Menano  / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wbd17fbe8eccdaf20"
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o inventário das etiquetas, as letras «a» e «b» das faces aparecem trocadas neste disco",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "o facto é que “a” e “b” aparecem trocadas nos discos correspondentes a “Canção da Beira”/“Fado Saudades”e “Um Fado”/”Fado da Mágoa”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1189/antonio_menano_cancao_da_beira",
+      "doc": "museu-do-fado:wcdb2ea45ae6cc444",
+      "citacao": "Título: Canção da Beira ... Editora: Od.136.807,EMI261283,EMICD8374962 Referências: OG690, R; A 136807a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2017/antonio_menano_cancao_da_beira",
+      "doc": "museu-do-fado:wedf8bac0d3635ebd",
+      "citacao": "Título: Canção da Beira ... Editora: Od.136.807 Referências: OG690, R; A 136807a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1188/antonio_menano_fado_saudades",
+      "doc": "museu-do-fado:w03ba203693fcf96c",
+      "citacao": "Título: Fado Saudades ... Editora: Od.136.807, A187.500, X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R; A 136807b"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2016/antonio_menano_fado_saudades",
+      "doc": "museu-do-fado:wbd17fbe8eccdaf20",
+      "citacao": "Título: Fado Saudades ... Editora: Od.136.807 Referências: OG655, R; A 136807b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

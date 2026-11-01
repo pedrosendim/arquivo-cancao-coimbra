@@ -1,0 +1,120 @@
+{
+  "id": "orlando-trindade",
+  "tipo": "pessoa",
+  "nome": "Orlando Trindade",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/na-oficina-de-orlando-trindade.html",
+      "doc": "gc-v:8024096084436885039",
+      "citacao": "Momentos na oficina de Orlando Trindade, um dos mais reputados mestres portugueses nas artes da violaria, detentor de conhecimentos especializados na construção, restauro historicamente fundamentado e reconstrução de cordofones segundo procedimentos amigos da natureza."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Contatos com Rui Cochofel, bisneto de José Cochofel, que viria a colocar a guitarra na oficina de Orlando Trindade para restauro, vieram finalmente possibilitar uma compreensão visual e organológica do misterioso cordofone."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Oficina nas Caldas da Rainha (visita de 13 de abril de 2022)",
+      "data": "2022-04-13",
+      "local": "Caldas da Rainha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/na-oficina-de-orlando-trindade.html",
+          "doc": "gc-v:8024096084436885039",
+          "citacao": "Dia 13 de abril de 2022, algures nas Caldas da Rainha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construção, restauro historicamente fundamentado e reconstrução de cordofones",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/na-oficina-de-orlando-trindade.html",
+          "doc": "gc-v:8024096084436885039",
+          "citacao": "detentor de conhecimentos especializados na construção, restauro historicamente fundamentado e reconstrução de cordofones"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restauro da guitarra (cítara) de 15 cordas de José Cochofel (2025)",
+      "data": "2025-07-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "No dia 11 de julho de 2025 fomos propositadamente à oficina de Orlando Trindade visitar esta velha dama"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restauro de violas toeiras históricas do Museu Nacional da Música e de coleções particulares, em colaboração com o investigador Pedro Caldeira Cabral",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Graças ao recente trabalho de restauro de exemplares históricos das colecções do Museu Nacional da Música e de diversas colecções particulares, realizado pelo Mestre Violeiro Orlando Trindade em colaboração estreita com o investigador Pedro Caldera Cabral"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos», publicado no sítio de Orlando Trindade (a fonte escreve «Caldera»)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restauro, em 2022, de uma viola toeira da oficina de Augusto Nunes dos Santos, com colaboração e textos de Pedro Caldeira Cabral",
+      "data": "2022",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+          "doc": "gc-v:8291707980450393908",
+          "citacao": "Registo de uma intervenção de Orlando Trindade no âmbito do estudo, conservação e restauro historicamente fundamentado de uma viola toeira fabricada na oficina de Augusto Nunes dos Santos. Intervenção realizada em 2022, com colaboração e textos de Pedro Caldeira Cabral (PCC)."
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Viola Toeira de Augusto Nunes dos Santos restaurada por Orlando Trindade em 2022"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver a ficha viola-toeira-augusto-nunes-dos-santos-restauro-2022."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Sítio de Orlando Trindade: «A Viola Toeira – Mistérios e Segredos» (texto de Pedro Caldeira Cabral)",
+      "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

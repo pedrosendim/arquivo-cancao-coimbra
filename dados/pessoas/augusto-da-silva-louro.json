@@ -1,0 +1,50 @@
+{
+  "id": "augusto-da-silva-louro",
+  "tipo": "pessoa",
+  "nome": "Augusto da Silva Louro",
+  "nomes_alternativos": [
+    "Augusto Louro"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Augusto da Silva Louro (1902-1927). Funcionário dos correios da Alta e executante de violão. Acompanhou Flávio Rodrigues e com ele gravou discos;"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-9.html",
+          "doc": "gc-v:6442988415927921883",
+          "citacao": "seleção e arranjo de Flávio Rodrigues (gC), acompanhado por Augusto Louro (v)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

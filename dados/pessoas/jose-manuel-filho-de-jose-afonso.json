@@ -1,0 +1,104 @@
+{
+  "id": "jose-manuel-filho-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "José Manuel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "18 de janeiro de 1953",
+      "data": "1953-01-18",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Nascimento dos dois filhos: José Manuel, em 18 de Janeiro e Maria Helena, em 29 de Dezembro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrada de 1953 da cronologia da AJA."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Janeiro de 1953",
+      "data": "1953-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em Janeiro de 1953 nasce-lhe o primeiro filho, José Manuel."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "17 de janeiro de 1952 (testemunho de Carlos Couceiro, padrinho)",
+      "data": "1952-01-17",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "vim a ser seu compadre, padrinho do seu primeiro filho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "E eu disse 17 de Janeiro de 1952."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Regressou de Moçambique em 1973, com o tio-avô Filomeno",
+      "data": "1973",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "O filho mais velho, José Manuel, só voltará com o tio-avô Filomeno quando este regressar de vez a Portugal em 1973."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Tio-avô» (Filomeno Afonso) não tem tipo de relação próprio."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em Janeiro de 1953 nasce-lhe o primeiro filho, José Manuel."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Nascimento dos dois filhos: José Manuel, em 18 de Janeiro"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "guitarra-fernando-miraldo-paulo-soares",
+  "designacao": "Guitarra de Coimbra de braço/cabeça laminado, de Fernando Miraldo, exemplar de Paulo Soares (2015-2016)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "fernando-miraldo",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "paulo-soares",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Este tipo de guitarra foi pensado pelo instrumentista Paulo Soares (Jojó), estando fabricados três exemplares, o de Paulo Soares, o de Octávio Sérgio e outro do próprio construtor."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Braço/cabeça laminado reforçado por barra de alumínio; ilhargas espessas de três lâminas (2015-2016)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "lançou-se na construção de uma guitarra de Coimbra com braço/cabeça laminado, reforçado por barra de alumínio e ilhargas espessas à base de três lâminas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tipo pensado por Paulo Soares; três exemplares: Paulo Soares, Octávio Sérgio e o próprio construtor",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+          "doc": "gc-v:5165005216521559525",
+          "citacao": "Este tipo de guitarra foi pensado pelo instrumentista Paulo Soares (Jojó), estando fabricados três exemplares, o de Paulo Soares, o de Octávio Sérgio e outro do próprio construtor."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Em 2015-2016 Fernando Miraldo refinou a construção de violas toeiras e lançou-se na construção de uma guitarra de Coimbra"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

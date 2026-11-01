@@ -1,0 +1,104 @@
+{
+  "id": "guitarra-antonio-duarte-jose-cochofel",
+  "designacao": "Cítara (guitarra) de 15 cordas de José Cochofel, da oficina portuense de António Duarte (c. 1893-1894)",
+  "tipo": "guitarra",
+  "construtor": "antonio-duarte",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "jose-cochofel",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Está finalmente vista a mítica guitarra do estudante de Direito e conceituado executante José Cochofel."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada na oficina portuense de António Duarte por volta de 1893-1894; escala de 17 pontos, tiro de corda de 47 cm, voluta floral",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Trata-se de uma cítara com escala de 17 pontos inteiros e 47 cm de tiro de corda, com voluta floral, fabricada na oficina portuense de António Duarte por volta de 1893-1894, que Cochofel utilizou em Coimbra e divulgou como cítara de concerto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Levada c. 1894 à oficina de Augusto Nunes dos Santos, onde foi replicada",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "por volta de 1894, o Dr. José Cochofel apareceu na oficina de Augusto Nunes dos Santos com uma guitarra fabricada no Porto, de quinze cordas, que causou impacto e foi replicada."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho do violeiro Armando Neves recolhido por Armando Simões (A guitarra, 1974), citado no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Em restauro na oficina de Orlando Trindade (2025): desencordoada, leque para 15 parafusos com um em falta, fissuras",
+      "data": "2025-07-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "que viria a colocar a guitarra na oficina de Orlando Trindade para restauro"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Está desencordoada. O leque metálico preparado para 15 parafusos, tem um em falta. Há fissuras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guardada pela família; o bisneto Rui Cochofel levou-a a restauro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Contatos com Rui Cochofel, bisneto de José Cochofel, que viria a colocar a guitarra na oficina de Orlando Trindade para restauro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "A guitarra do Dr. Cochofel"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

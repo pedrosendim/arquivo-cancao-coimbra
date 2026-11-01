@@ -1,0 +1,61 @@
+{
+  "id": "viola-toeira-fernando-meireles",
+  "designacao": "Viola toeira de Fernando Meireles, fundamentada na escola dos Brunos",
+  "tipo": "viola toeira",
+  "construtor": "fernando-meireles",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Viola toeira fundamentada na escola dos Brunos, «feita secundum artem»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "A cara da cachopa: uma viola toeira Meireles, fundamentada na escola dos Brunos, feita secundum artem."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSCwySL827mvo_aVfKrY6tCWDMk2zbMZY1Kv3xwioHJy4gpDm_Muj1a2WzZkvpTdh9A1L26LIVPtd-KRUSl8wQmsXlAD7uwZArAybI5eO6Sy64cRnD5EMm7FSrBpgTRc7j9QaY5a0eXiRg/s1600/Meireles_um.jpg",
+      "legenda": "A cara da cachopa: uma viola toeira Meireles, fundamentada na escola dos Brunos.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "A cara da cachopa: uma viola toeira Meireles, fundamentada na escola dos Brunos, feita secundum artem. Fotografia disponível na página de facebook do construtor."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhznGy5lM6gCXQF_V_wCTKR-jlkG2mpD2BU5461przKo2xrnWqwWw0IhHPoSYJ3O8r7fC2C8sOf9FxiSTlA_OrQJ4-Iuev3w0Cmh5EXyF9BY2gJ7JsG4y_ew03KBlijo2rdoQlsrMAZYy29/s1600/Meireles-dois.jpg",
+      "legenda": "As costas da cachopa (viola toeira Meireles).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "As costas da cachopa."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+      "doc": "gc-v:1125454164327086962",
+      "citacao": "uma viola toeira Meireles, fundamentada na escola dos Brunos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-jose-afonso-rapsodia-epf-5182-1962-4-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=SRjs0O-tMsc",
+  "titulo": "Senhor Poeta — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "rui-pato"
+  ],
+  "obras": [
+    "senhor-poeta"
+  ],
+  "gravacao": "jose-afonso-rapsodia-epf-5182-1962",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=SRjs0O-tMsc"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: «José Afonso - \"Senhor Poeta\" do disco \"Baladas de Coimbra\" (EP 1962)»",
+  "estado_revisao": "rascunho"
+}

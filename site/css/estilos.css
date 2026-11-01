@@ -1,0 +1,58 @@
+/* =====================================================================================
+   Estilo Museu, o design do site: redefine os tokens de estilo.css e afina alguns componentes.
+   Aplica-se com data-estilo="museu" no <html> (index.html).
+   ===================================================================================== */
+:root[data-estilo="museu"] {
+  --fundo: #efede8; --fundo-2: #e8e5de; --superficie: #f7f6f2; --superficie-2: #f2f0eb; --linha: #cfcac0; --linha-forte: #1a1a1a;
+  --texto: #161616; --texto-2: #48463f; --texto-3: #7b776d; --ouro: #b4441f; --ouro-forte: #8f3416; --ouro-suave: rgba(180, 68, 31, .09);
+  --marca-texto: rgba(180, 68, 31, .16); --vinho: #b4441f; --azul: #2f5d7c;
+  --f-titulo: "IBM Plex Serif", Georgia, serif; --f-ui: "IBM Plex Sans", Inter, sans-serif; --f-leitura: "IBM Plex Serif", Georgia, serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, monospace; --r: 0px; color-scheme: light;
+}
+:root[data-estilo="museu"][data-theme="dark"] {
+  --fundo: #161614; --fundo-2: #1c1c19; --superficie: #20201d; --superficie-2: #262622; --linha: #3a3933; --linha-forte: #ecebe6;
+  --texto: #ecebe6; --texto-2: #b6b3a9; --texto-3: #85827a; --ouro: #e3825b; --ouro-forte: #f2a07f; --ouro-suave: rgba(227, 130, 91, .12); color-scheme: dark;
+}
+[data-estilo="museu"] h1 { font-weight: 400; letter-spacing: -.015em; }
+[data-estilo="museu"] h2, [data-estilo="museu"] h3 { font-weight: 500; }
+[data-estilo="museu"] .sobretitulo, [data-estilo="museu"] .nav-grupo, [data-estilo="museu"] .meta, [data-estilo="museu"] .selo,
+[data-estilo="museu"] table.factos th, [data-estilo="museu"] .quando, [data-estilo="museu"] .botao, [data-estilo="museu"] .ficha {
+  font-family: var(--f-mono); }
+[data-estilo="museu"] .sobretitulo { color: var(--texto-3); letter-spacing: .06em; }
+[data-estilo="museu"] .sobretitulo::before { content: "N.º 01 — "; color: var(--ouro); }
+[data-estilo="museu"] .conteudo { counter-reset: seccao; }
+[data-estilo="museu"] .seccao > h2 { border-bottom: 0; border-top: 1px solid var(--linha-forte); padding: 12px 0 0; counter-increment: seccao; }
+[data-estilo="museu"] .seccao > h2::before { content: counter(seccao, decimal-leading-zero); font: 500 12px var(--f-mono); color: var(--ouro); margin-right: 14px; align-self: center; }
+[data-estilo="museu"] .lateral { background: var(--fundo); border-right: 1px solid var(--linha-forte); }
+[data-estilo="museu"] #nav a { font: 400 12.5px var(--f-mono); text-transform: uppercase; letter-spacing: .04em; border-radius: 0; }
+[data-estilo="museu"] #nav a.ativo { background: none; color: var(--texto); font-weight: 600; }
+[data-estilo="museu"] #nav a.ativo::after { content: "■"; margin-left: auto; color: var(--ouro); font-size: 10px; }
+[data-estilo="museu"] .cartao { border: 0; border-top: 1px solid var(--linha-forte); border-radius: 0; background: none; }
+[data-estilo="museu"] a.cartao:hover { transform: none; box-shadow: none; }
+[data-estilo="museu"] a.cartao:hover h3 { color: var(--ouro); }
+[data-estilo="museu"] .retrato { border: 1px solid var(--linha); margin: 12px 0 0; }
+[data-estilo="museu"] .cartao-corpo { padding: 10px 0 14px; }
+[data-estilo="museu"] .botao, [data-estilo="museu"] .ficha, [data-estilo="museu"] .campo, [data-estilo="museu"] .selo { border-radius: 0; text-transform: uppercase; font-size: 11px; letter-spacing: .05em; }
+[data-estilo="museu"] .botao { border-color: var(--texto); }
+[data-estilo="museu"] .botao.primario { background: var(--texto); border-color: var(--texto); color: var(--fundo); }
+[data-estilo="museu"] .numeros { border: 0; border-top: 1px solid var(--linha-forte); border-bottom: 1px solid var(--linha-forte); border-radius: 0; background: none; }
+[data-estilo="museu"] .numeros a { border-right-color: var(--linha); border-bottom: 0; }
+[data-estilo="museu"] .numeros b { font: 500 30px var(--f-mono); color: var(--texto); }
+[data-estilo="museu"] .numeros span { font-family: var(--f-mono); text-transform: uppercase; font-size: 11px; }
+[data-estilo="museu"] .biografia blockquote { border-left-width: 1px; }
+[data-estilo="museu"] .mosaico a { border: 1px solid var(--linha-forte); filter: sepia(.25); }
+/* modo de edição: o que se escreve lê-se como foi escrito, sem maiúsculas forçadas */
+[data-estilo="museu"] .caixa-edicao { border-radius: 0; }
+[data-estilo="museu"] .caixa-edicao .campo, [data-estilo="museu"] .ligar-ficha .campo { text-transform: none; font-size: 14px; letter-spacing: 0; }
+[data-estilo="museu"] .editor-texto .titulo { font: 500 20px var(--f-titulo); }
+
+/* ------------------------------------------------------------------ mosaico de retratos (início) */
+.heroi.com-mosaico { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 40px; align-items: center; }
+.heroi.com-mosaico .numeros { grid-column: 1 / -1; }
+.mosaico { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.mosaico a { aspect-ratio: 1; background: var(--fundo-2) center/cover no-repeat; border-radius: 8px; position: relative; overflow: hidden; transition: transform .2s; }
+.mosaico a:hover { transform: scale(1.04); z-index: 1; text-decoration: none; }
+.mosaico a span { position: absolute; inset: auto 0 0 0; padding: 18px 6px 5px; font: 600 11px/1.2 var(--f-ui); color: #fff;
+  background: linear-gradient(transparent, rgba(0, 0, 0, .78)); opacity: 0; transition: opacity .2s; }
+.mosaico a:hover span { opacity: 1; }
+@media (max-width: 900px) { .heroi.com-mosaico { grid-template-columns: 1fr; } .mosaico { grid-template-columns: repeat(4, 1fr); } }

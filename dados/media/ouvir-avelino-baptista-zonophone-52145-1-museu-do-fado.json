@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-zonophone-52145-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0110_39.mp3",
+  "titulo": "Canção à lua — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-zonophone-52145",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0221.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/215/avelino_baptista_cancao_a_lua",
+      "doc": "museu-do-fado:w23531724d1ef876c",
+      "citacao": "Título: Canção à lua ... Editora: Zo.52145 Referências: 9424u, X52145; X-52145"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

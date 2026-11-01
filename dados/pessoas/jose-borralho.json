@@ -1,0 +1,48 @@
+{
+  "id": "jose-borralho",
+  "tipo": "pessoa",
+  "nome": "José Borralho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-borralho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "tendo tocado com seus irmãos José Borralho (gC), e Rui Borralho (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "o grupo inicial constituído com seus irmãos José e Rui Borralho"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ],
+      "nota": "viola, segundo Rui Pato (Funchal, 30 de dezembro de 1968); outras fontes dão José Borralho como guitarra (gC)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

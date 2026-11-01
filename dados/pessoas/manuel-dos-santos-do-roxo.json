@@ -1,0 +1,30 @@
+{
+  "id": "manuel-dos-santos-do-roxo",
+  "tipo": "pessoa",
+  "nome": "Manuel dos Santos",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Lugar do Roxo",
+      "data": "",
+      "local": "Roxo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ANTÓNIO DOS SANTOS [COUCEIRO] era filho de Manuel dos Santos, do lugar do Roxo, e de Maria Rita, do Botão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

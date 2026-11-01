@@ -1,0 +1,171 @@
+{
+  "id": "guitarra-artur-paredes-museu-academico",
+  "designacao": "Guitarra toeira de Coimbra de Artur Paredes (Museu Académico), reconstruída por Joaquim Grácio em 1931",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "artur-paredes",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "Guitarra Toeira de Coimbra que pertenceu a Artur Paredes."
+        }
+      ],
+      "nota": "Ofertada ao Museu Académico em 1960."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada na década de 1920, possivelmente por Raul Simões; 17 pontos, ilharga baixa, voluta oval",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "trata-se de uma Guitarra Toeira de Coimbra fabricada na década de 1920, possivelmente por Raul Simões, com ilharga baixa, ornamentação austera, escala longa, voluta oval sem arestas, sistema de escoramento de tampo com 2 travessas, 17 pontos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Construtor não identificado com certeza neste post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Fabricada na década de 1920 por Raul Simões",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Foi com a guitarra toeira de Coimbra fabricada na década de 1920 por Raul Simões, que Artur Paredes gravou as famosas variações, canções e rapsódias em 1927"
+        }
+      ],
+      "conflito": true,
+      "nota": "Este post (2014) atribui sem reservas a construção a Raul Simões."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Artur Paredes gravou com ela as variações, canções e rapsódias de 1927 e as gravações para a voz de Edmundo Bettencourt",
+      "data": "1927",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "b) foi com esta guitarra que Artur Paredes gravou as suas famosas variações, canções e rapsódias em 1927; c) foi com ela que Artur Paredes fez a gravações para a voz de Edmundo Bettencourt"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Afonso de Sousa gravou com ela as suas peças instrumentais em 1929",
+      "data": "1929",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "d) foi com ela que Afonso de Sousa gravou as suas próprias peças instrumentais em 1929."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Largamente restaurada e reconstruída em 1931 por Joaquim (Kim) Grácio",
+      "data": "1931",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "o instrumento foi largamente restaurado e reconstruído em 1931 por Joaquim Grácio"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "Um sinal mais recuado deste encontro entre Artur Paredes e Kim Grácio teve lugar em 1931, quando o construtor reformou substancialmente a guitarra que o tocador usara nas gravações de 1927 (depositada no Museu Académico em 1960)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Oferecida por Artur Paredes ao Museu Académico em 1960, por iniciativa de Afonso de Sousa",
+      "data": "1960",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "por iniciativa de Afonso de Sousa, Artur Paredes ofertou esta guitarra ao Museu Académico em 1960"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Restaurada por Gilberto Grácio em 1996",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "estando a guitarra degradada, foi restaurada por Gilberto Grácio em 1996."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarra%20de%20Artur%20Paredes.2.jpg",
+      "legenda": "Guitarra Toeira de Coimbra que pertenceu a Artur Paredes.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "Imagem: Museu Académico"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+      "doc": "gc-i:113881386756994797",
+      "citacao": "De todos os cordofones da colecção do Museu Académico é sem margem para dúvidas o mais importante"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+      "doc": "gc-i:1259402797223755712",
+      "citacao": "quando o construtor reformou substancialmente a guitarra que o tocador usara nas gravações de 1927"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

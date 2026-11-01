@@ -1,0 +1,100 @@
+{
+  "id": "peres-de-vasconcelos-columbia-j-829",
+  "titulo": "Variações sobre o fado em ré menor / Variações em fá menor",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "J 829",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "peres-de-vasconcelos",
+      "funcao": "guitarra (solo)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações sobre o fado em ré menor",
+      "obra": "",
+      "media": [
+        "ouvir-peres-de-vasconcelos-columbia-j-829-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em fá menor",
+      "obra": "",
+      "media": [
+        "ouvir-peres-de-vasconcelos-columbia-j-829-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Variações sobre o fado em ré menor», por Miguel A. Peres de Vasconcelos — etiqueta: «Variações sobre o fado em ré menor / (composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de  / guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1921/miguel_a_peres_de_vasconcelos_variacoes_sobre_o_fado_em_re_menor",
+          "doc": "museu-do-fado:w3f14bc5ef81e9436",
+          "citacao": "Título: Variações sobre o fado em ré menor ... Editora: Co.J829;   Referências: WP297, W, 32668, P297; J829 ... Etiqueta: Variações sobre o fado em ré menor / (composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de  / guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w7e1203b548b7529f"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Variações em fá menor», por Miguel A. Peres de Vasconcelos — etiqueta: «Variações em fá menor / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de / guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1922/miguel_a_peres_de_vasconcelos_variacoes_em_fa_menor",
+          "doc": "museu-do-fado:w8c3a498fb49ac2a5",
+          "citacao": "Título: Variações em fá menor ... Editora: Co.J829;  Referências: WP298, W, 32673; J829 ... Etiqueta: Variações em fá menor / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de / guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wa1f2e75eec0c82a3"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1921/miguel_a_peres_de_vasconcelos_variacoes_sobre_o_fado_em_re_menor",
+      "doc": "museu-do-fado:w3f14bc5ef81e9436",
+      "citacao": "Título: Variações sobre o fado em ré menor ... Editora: Co.J829;   Referências: WP297, W, 32668, P297; J829"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4721/miguel_a_peres_de_vasconcelos_variacoes_sobre_o_fado_em_re_menor",
+      "doc": "museu-do-fado:w7e1203b548b7529f",
+      "citacao": "Título: Variações sobre o fado em ré menor ... Editora: Co.J829;   Referências: WP297, W, 32668, P297; J829"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1922/miguel_a_peres_de_vasconcelos_variacoes_em_fa_menor",
+      "doc": "museu-do-fado:w8c3a498fb49ac2a5",
+      "citacao": "Título: Variações em fá menor ... Editora: Co.J829;  Referências: WP298, W, 32673; J829"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4720/miguel_a_peres_de_vasconcelos_variacoes_em_fa_menor",
+      "doc": "museu-do-fado:wa1f2e75eec0c82a3",
+      "citacao": "Título: Variações em fá menor ... Editora: Co.J829;  Referências: WP298, W, 32673, P298; J829"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

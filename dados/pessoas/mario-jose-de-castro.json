@@ -1,0 +1,103 @@
+{
+  "id": "mario-jose-de-castro",
+  "tipo": "pessoa",
+  "nome": "Mário José de Castro",
+  "nomes_alternativos": [
+    "Mário de Castro (filho)",
+    "Mário José de Castro [Filho]"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Licenciado em Música",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "o Dr. Mário José de Castro, Licenciado em Música"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Viola",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:116637465870871135",
+          "citacao": "Mário José de Castro [Filho] (v.)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Posteriormente, viriam a ser\nintegrados na Tertúlia do Fado de Coimbra o Mário José de Castro (Viola)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Viola por Mário José de Castro."
+        }
+      ],
+      "nota": "viola; fotografia de 1981 e LP de 1982"
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "mario-de-castro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "O casal vem a ter 2 filhos. A Sra. Dra. Armantina Alves Henriques de Castro, licenciada em Farmácia, e o Dr. Mário José de Castro, Licenciado em Música."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Ao Dr. Mário de Castro (filho), que se disponibilizou em nos ajudar a melhorar, a presente resenha biográfica de seu Pai"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "virginia-alves-neves",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "contrai matrimónio com a Sra. D. Virgínia Alves Neves. O casal vem a ter 2 filhos. A Sra. Dra. Armantina Alves Henriques de Castro, licenciada em Farmácia, e o Dr. Mário José de Castro, Licenciado em Música."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

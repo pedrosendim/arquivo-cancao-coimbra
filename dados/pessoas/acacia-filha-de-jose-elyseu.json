@@ -1,0 +1,40 @@
+{
+  "id": "acacia-filha-de-jose-elyseu",
+  "tipo": "pessoa",
+  "nome": "Acácia",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "teve 6 filhos dos quais apenas um rapaz, Manuel Eliseu. Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "Irmã ou meia-irmã: a fonte não diz qual das filhas é a mais velha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "A fonte não diz quem é a mãe de cada filha."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

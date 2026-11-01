@@ -1,0 +1,30 @@
+{
+  "id": "flavio-mi-menor-frias-goncalves",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=ZixWE20GU_c",
+  "titulo": "«Mi Menor» de Flávio Rodrigues, pelo trio Frias Gonçalves, Octávio Sérgio e Humberto Matias",
+  "data": "2008",
+  "pessoas": [
+    "flavio-rodrigues-da-silva"
+  ],
+  "obras": [
+    "mi-menor-flavio-rodrigues"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/blog-post_04.html",
+      "doc": "gc-iii:6792205514263346913",
+      "citacao": "um vídeo com o “Mi Menor de Flávio Rodrigues” (que à altura não estava disponível), interpretado pelo trio Frias Gonçalves, Octávio Sérgio e Humberto Matias."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/07/frias-goncalves-em-gota-dagua-video-de.html",
+      "doc": "gc-v:356513150713750819",
+      "citacao": "E ainda no \"Mi Menor\" de Flávio Rodrigues (2008), com Octávio Sérgio e Humberto Matias"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

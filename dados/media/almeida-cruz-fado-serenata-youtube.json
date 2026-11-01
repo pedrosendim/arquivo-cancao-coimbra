@@ -1,0 +1,30 @@
+{
+  "id": "almeida-cruz-fado-serenata-youtube",
+  "tipo": "audio",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=2BMcjLl2Ti8",
+  "titulo": "«Fado Serenata» – Almeida Cruz com piano (Columbia B 112-11880) – vídeo editado por João Távora",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [
+    "fado-serenata-eu-tenho-um-grande-ciume"
+  ],
+  "gravacao": "almeida-cruz-columbia-b112-11880",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+      "doc": "gc-v:643756313646546986",
+      "citacao": "FADO SERENATA, Columbia B 112-11880, tenor António de Almeida Cruz, https://www.youtube.com/watch?v=2BMcjLl2Ti8"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "vídeo editado por João Távora, 2.04.2014, https://www.youtube.com/watch?v=2BMcjLl2Ti8."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

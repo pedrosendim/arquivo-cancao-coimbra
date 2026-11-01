@@ -1,0 +1,30 @@
+{
+  "id": "leopoldina-de-jesus",
+  "tipo": "pessoa",
+  "nome": "Leopoldina de Jesus",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Assafarge, concelho de Coimbra",
+      "data": "",
+      "local": "Assafarge",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Leopoldina de Jesus, natural de Assafarge, concelho de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

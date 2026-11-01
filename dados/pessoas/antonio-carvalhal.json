@@ -1,0 +1,107 @@
+{
+  "id": "antonio-carvalhal",
+  "tipo": "pessoa",
+  "nome": "António Carvalhal",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+      "doc": "gc-i:111706514803399736",
+      "citacao": "Pertenceu ao guitarrista António Carvalhal."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1909",
+      "data": "1909",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Dr. António Carvalhal (1909-1982)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1982",
+      "data": "1982",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Dr. António Carvalhal (1909-1982)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "alvaro-da-silva-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "O casal Carvalhal domiciliou-se em Esposende, local onde foram sucessivamente gerados António Carvalhal (1909-1982), Álvaro Carvalhal (1911-1950), Luís Carvalhal (1913-1995), Joaquim Carvalhal (1915-1995) e Mariberta Carvalhal (1918"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Sendo a viúva Eugénia Abreu doméstica e inábil para os negócios, o filho mais velho, António Carvalhal, tentou assumir-se como \"chefe de família\"."
+        }
+      ],
+      "nota": "«O casal Carvalhal» é Álvaro da Silva Carvalhal e Eugénia Abreu, casados em 1907 (mesmo post)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenia-abreu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "O casal Carvalhal domiciliou-se em Esposende, local onde foram sucessivamente gerados António Carvalhal (1909-1982), Álvaro Carvalhal (1911-1950), Luís Carvalhal (1913-1995), Joaquim Carvalhal (1915-1995) e Mariberta Carvalhal (1918"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Sendo a viúva Eugénia Abreu doméstica e inábil para os negócios, o filho mais velho, António Carvalhal, tentou assumir-se como \"chefe de família\"."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Antnio%20Carvalhal.jpg",
+      "legenda": "Serenata nas escadarias da Sé Velha, inícios de junho de 1941. O guitarrista central é António Abreu de Almeida Carvalhal (1909-1982). Fotografia publicada em O Século Ilustrado, n.º 182, 28.06.1941; espólio de António Carvalhal.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+          "doc": "gc-i:114183579814693208",
+          "citacao": "O guitarrista central é o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal (1909-1982)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

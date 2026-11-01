@@ -1,0 +1,56 @@
+{
+  "id": "contos-velhinhos",
+  "titulo": "Contos Velhinhos",
+  "titulos_alternativos": [
+    "Contos velhinhos de amor"
+  ],
+  "genero": "outro",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música e letra de Ângelo Vieira Araújo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "música e letra de Ângelo Vieira Araújo. Menção correta de título e de autoria."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Contos Velhinhos\n\nLetra e música de Ângelo Araújo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fernando Rolim passou a José Afonso o tema já ensaiado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "passou a José Afonso o já bem ensaiado Contos Velhinhos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "FPD 223 – CONTOS VELHINHOS (Contos velhinhos de amor), música e letra de Ângelo Vieira Araújo."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

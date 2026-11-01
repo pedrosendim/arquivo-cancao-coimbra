@@ -1,0 +1,40 @@
+{
+  "id": "francisco-paulo-filho-de-antonio-menano",
+  "tipo": "pessoa",
+  "nome": "Francisco Paulo",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-henriqueta-da-camara-viterbo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

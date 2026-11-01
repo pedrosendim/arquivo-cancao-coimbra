@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-108-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0314_28.mp3",
+  "titulo": "Fado da Mouraria — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-108",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0627.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/623/almeida_cruz_fado_da_mouraria",
+      "doc": "museu-do-fado:w336c7a8956f46411",
+      "citacao": "Título: Fado da Mouraria ... Editora: Co. B-108 Referências: 11868, 1-C-1; B108"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

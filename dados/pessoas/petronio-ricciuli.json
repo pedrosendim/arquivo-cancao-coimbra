@@ -1,0 +1,51 @@
+{
+  "id": "petronio-ricciuli",
+  "tipo": "pessoa",
+  "nome": "Petrónio Ricciuli",
+  "nomes_alternativos": [
+    "Ricciulli",
+    "Petrónio Ricciulli"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/retrato-de-famlia-o-guitarrista.html",
+          "doc": "gc-i:113415055345724635",
+          "citacao": "Na 2ª metade da década de 1940, Ricciulli frequentou regularmente os irmãos barbeiros e ensinantes de Guitarra de Coimbra Flávio e Fernando Rodrigues da Silva com quem aprendeu a \"arte\" de dedilhar guitarra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/petronio-ricciuli.html",
+          "doc": "gc-v:3569653449940106088",
+          "citacao": "Os três, Petrónio, Carlos Figueiredo e Egas, tinham sido alunos, dos irmãos Flávio e Fernando Rodrigues"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik6lL3LEbV_hGANt8gs-DtKFoZ4yrdvry7zm6DBHqoxPOczVzxzu3KH7KDS_Ih-fwRCriCshr-RviVac_Kcw5yoszzJSge_tgzyKH2mmH6IYSovWcIZ4gBtUbGB7xTKc_zoStk8uj-0CkL/s1600/Petronio+Ricciulli.jpg",
+      "legenda": "Petrónio Ricciulli (1915-2003), guitarrista, por volta dos 38 anos. Fotografia cedida pela filha, Dra. Manuela Ricciulli",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
+          "doc": "gc-v:3877914886718455376",
+          "citacao": "PETRÓNIO RICCIULLI (1915 – 2003). Guitarrista ... cedeu para este texto uma fotografia de seu Pai, dessa época, que na altura teria os seus 38 anos"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

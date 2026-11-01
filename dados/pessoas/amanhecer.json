@@ -1,0 +1,67 @@
+{
+  "id": "amanhecer",
+  "tipo": "grupo",
+  "nome": "Amanhecer",
+  "nomes_alternativos": [
+    "grupo Amanhecer"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+      "doc": "jornal-a-cabra:w31744dde946cd5f4",
+      "citacao": "Para “eternizar Coimbra em cada acorde”, segundo Pedro Andrade, um dos apresentadores do evento, o grupo Amanhecer subiu ao palco da Gala do XVIII Mês do Fado. Este grupo, surgido no seio da Estudantina Universitária de Coimbra, convidou a mesma para participar na interpretação do seu original – “Balada a Coimbra”."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "grupo surgido no seio da Estudantina Universitária de Coimbra (Secção de Fado da AAC)",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Para “eternizar Coimbra em cada acorde”, segundo Pedro Andrade, um dos apresentadores do evento, o grupo Amanhecer subiu ao palco da Gala do XVIII Mês do Fado. Este grupo, surgido no seio da Estudantina Universitária de Coimbra, convidou a mesma para participar na interpretação do seu original – “Balada a Coimbra”."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "contou com a participação da Estudantina Universitária de Coimbra e de cinco grupos de fado, todos pertencentes à SF/AAC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Gala do XVIII Mês do Fado da Secção de Fado da AAC, Teatro Académico de Gil Vicente, 25 de novembro de 2022, com o original «Balada a Coimbra» (com a Estudantina)",
+      "data": "2022-11-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "No dia 25 de novembro, no Teatro Académico Gil Vicente, decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Para “eternizar Coimbra em cada acorde”, segundo Pedro Andrade, um dos apresentadores do evento, o grupo Amanhecer subiu ao palco da Gala do XVIII Mês do Fado. Este grupo, surgido no seio da Estudantina Universitária de Coimbra, convidou a mesma para participar na interpretação do seu original – “Balada a Coimbra”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

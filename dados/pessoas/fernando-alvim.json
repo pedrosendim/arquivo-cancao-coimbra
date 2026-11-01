@@ -1,0 +1,50 @@
+{
+  "id": "fernando-alvim",
+  "tipo": "pessoa",
+  "nome": "Fernando Alvim",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP Guitarra Portuguesa de Carlos Paredes (Columbia SPMX 5002, 1967)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+          "doc": "gc-v:5310750683617065434",
+          "citacao": "LP GUITARRA PORTUGUESA, Lisboa, Columbia SPMX 5002, 1967. Carlos Paredes (g) e Fernando Alvim (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "pedro-caldeira-cabral",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Além de Carlos Paredes, acompanhou vários guitarristas tais como: Artur Paredes, João Torre do Vale, Pedro Caldeira Cabral"
+        },
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "sendo acompanhado nessas funções por Fernando Alvim, na viola"
+        }
+      ],
+      "nota": "À viola. Em 1967, na primeira atuação de Pedro Caldeira Cabral como solista (Rádio Clube Português), segundo o excerto autobiográfico de «A Guitarra Portuguesa» (1999) reproduzido no Museu do Fado."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

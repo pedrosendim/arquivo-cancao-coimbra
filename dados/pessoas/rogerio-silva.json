@@ -1,0 +1,37 @@
+{
+  "id": "rogerio-silva",
+  "tipo": "pessoa",
+  "nome": "Rogério Silva",
+  "nomes_alternativos": [
+    "Rogério Jesus Silva"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-fados-do-orfeao",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Esta formação era constituída por: Sebastião Carneiro (gC1), Rui de Castro (gC2), Raul Barros Leite / Rogério Silva / Filipe Gameiro dos Santos (cantores), Eduardo Beirão Reis (v) e Jaime Filho (v)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/grupo-que-foi-com-o-oup-angola-em-1962.html",
+          "doc": "gc-v:7982659814858470913",
+          "citacao": "Além de Beirão Reis (v), integraram o então designado «Conjunto de Fados do Orfeão», os cantores Raul Barros Leite, Filipe Gameiro dos Santos e Rogério Silva, os guitarras Sebastião Carneiro e Rui de Castro, e o viola Jaime Filho."
+        }
+      ],
+      "nota": "voz; Angola, 1962"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

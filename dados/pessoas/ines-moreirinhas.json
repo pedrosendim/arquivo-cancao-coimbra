@@ -1,0 +1,52 @@
+{
+  "id": "ines-moreirinhas",
+  "tipo": "pessoa",
+  "nome": "Inês Moreirinhas",
+  "nomes_alternativos": [
+    "Inês"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Rapada, Oliveira do Hospital",
+      "data": "",
+      "local": "Rapada, Oliveira do Hospital",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/bloco-de-notas-10-1979.html",
+          "doc": "gc-i:111500118659506234",
+          "citacao": "Estive na Rapada, Oliveira do Hospital, terra da Inês, esposa de Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/bloco-de-notas-10-1979.html",
+          "doc": "gc-i:111500118659506234",
+          "citacao": "terra da Inês, esposa de Durval Moreirinhas"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/brasil-1993.html",
+          "doc": "gc-i:111223548659861127",
+          "citacao": "Grupo com as respectivas mulheres: António Bernardino, Maria Eugénia, Maria Virgínia, Armando Marta, Octávio Sérgio, Inês Moreirinhas, Isabel Azevedo e Durval Moreirinhas."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

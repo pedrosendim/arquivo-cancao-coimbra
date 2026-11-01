@@ -1,0 +1,165 @@
+{
+  "id": "cordis",
+  "tipo": "grupo",
+  "nome": "Cordis",
+  "nomes_alternativos": [
+    "CORDIS"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/apresentao-dos-ii-encontros.html",
+      "doc": "gc-ii:4004370617445220843",
+      "citacao": "Posteriormente Bruno Costa fez parceria com Paulo Figueiredo no piano e aqui a surpresa foi total. Pouca gente iria imaginar que dois instrumentos tão díspares se encaixassem tão bem."
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/artist/7080016",
+      "doc": "discogs:w75c1b324450f679a",
+      "citacao": "Band from Portugal. Debuted in September 2008."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+      "doc": "gc-ii:8341781972803406558",
+      "citacao": "Este é o nome do mais recente trabalho em que o piano de Paulo Figueiredo e a guitarra portuguesa de Bruno Costa se cruzam com paixão e intensidade, mostrando, através de uma nova abordagem estética, facetas desconhecidas de alguns clássicos da guitarra de Coimbra."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/bruno-costa-e-paulo-figueiredo-de-novo.html",
+      "doc": "gc-iv:8731496596313363141",
+      "citacao": "Comigo e com o Bruno Costa vão estar em palco os músicos Luís Formiga (bateria), Luís Oliveira (contrabaixo) e Edjam (sax e flauta), todos eles participantes no novo CD CORDIS 2"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/10/cordis-em-dvd.html",
+      "doc": "gc-v:892306301284297928",
+      "citacao": "Concerto de Lançamento do primeiro DVD do CORDIS, agendado para o dia 15 de novembro próximo, pelas 21.30h, no Teatro Académico de Gil Vicente em Coimbra!"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "estreia",
+      "valor": "Estreia em setembro de 2008, com o lançamento do primeiro CD no Pavilhão Centro de Portugal (12 de setembro)",
+      "data": "2008-09",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/7080016",
+          "doc": "discogs:w75c1b324450f679a",
+          "citacao": "Debuted in September 2008."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+          "doc": "gc-ii:8341781972803406558",
+          "citacao": "Lançamento Cd : “CORDIS” – piano e guitarra portuguesa Dia 12 de Setembro / 21h30 / Pavilhão Centro de Portugal / Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Duo de guitarra portuguesa (Bruno Costa) e piano (Paulo Figueiredo)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discografia no Discogs: «Piano e Guitarra Portuguesa» (2008), «Cordis 2» (2011), «Terceiro» (2015), «Reflexo» (2020)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/7080016",
+          "doc": "discogs:w75c1b324450f679a",
+          "citacao": "2008 · Piano E Guitarra Portuguesa · Not On Label · CD, Album · Main ... 2011 · Cordis 2 - Piano E Guitarra Portuguesa · Not On Label ... 2015 · Terceiro · Not On Label ... 2020 · Reflexo · Not On Label"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "DVD ao vivo, lançado no «CORDIS Pack Triplo» com os dois primeiros CD",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/10/cordis-em-dvd.html",
+          "doc": "gc-v:892306301284297928",
+          "citacao": "CORDIS Pack Triplo que agora lançamos (DVD ao vivo + cd CORDIS piano & guitarra portuguesa + cd CORDIS 2)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto em quinteto no Festival das Artes, Quinta das Lágrimas (18 de julho)",
+      "data": "2011-07-18",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/bruno-costa-e-paulo-figueiredo-de-novo.html",
+          "doc": "gc-iv:8731496596313363141",
+          "citacao": "espectáculo do CORDIS em Quinteto no Festival das Artes, no próximo dia 18 de Julho, 2ª feira, pelas 21.30h, no Anfiteatro Colina Camões - Quinta das Lágrimas, Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto com Cuca Roseta e o Quarteto Opus Quatro no encerramento do 5.º Festival das Artes",
+      "data": "2013-07-23",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/cordis-e-cuca-roseta.html",
+          "doc": "gc-v:5414899123087051794",
+          "citacao": "convidar-vos para o concerto CORDIS & Cuca Roseta (com Quarteto OPUS QUATRO) que encerrará o 5º Festival das Artes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT586msa8MJo0_VRO2yPjEbLZgQPiNm5TZfjzoAw1HOseNd1ubUrhTm6dZCCuvf_4KDv88RrzoSeVyoCCaDtTLqQk7RVySd0hVO74A59TcgCf5R4Ss3bdwBrNuSv3pg2NPAMqhpJFS78Tc/s1600-h/OCCBrCosPauFiguDB4-9-08.gif",
+      "legenda": "Bruno Costa na guitarra de Coimbra e Paulo Figueiredo no piano (recorte do Diário as Beiras, 4-9-2008, foto de Gonçalo Manuel Martins)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/bruno-costa-na-guitarra-de-coimbra-e.html",
+          "doc": "gc-ii:448459868892838292",
+          "citacao": "Bruno Costa na guitarra de Coimbra e Paulo Figueiredo no piano, juntaram-se e gravaram um disco que vai ser lançado no próximo dia 12, no Pavilhão Centro de Portugal. Diário as Beiras de hoje, com texto de Lídia Pereira e foto de Gonçalo Manuel Martins."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Cordis no Discogs",
+      "url": "https://www.discogs.com/artist/7080016"
+    },
+    {
+      "rotulo": "Vídeo promocional do DVD (YouTube)",
+      "url": "https://www.youtube.com/watch?v=l-xCx9zxif8"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

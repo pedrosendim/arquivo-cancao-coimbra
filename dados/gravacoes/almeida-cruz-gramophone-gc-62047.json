@@ -1,0 +1,80 @@
+{
+  "id": "almeida-cruz-gramophone-gc-62047",
+  "titulo": "Maxixe Capital Federal",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "GC 62047",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Maxixe Capital Federal",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-gramophone-gc-62047-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Maxixe Capital Federal», por Almeida Cruz — etiqueta: «Maxixe Capital Fédéral  / Canção popular Brazileira  / cantada pelo  / Sñr. Almeida Cruz  / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/595/almeida_cruz_maxixe_capital_federal",
+          "doc": "museu-do-fado:w00da4824647cb41b",
+          "citacao": "Título: Maxixe Capital Federal ... Editora: Gra. GC62047 Referências: Disque Pour Gramophone 8197f, 62047; G.C. 62047 ... Etiqueta: Maxixe Capital Fédéral  / Canção popular Brazileira  / cantada pelo  / Sñr. Almeida Cruz  / Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Maxixe Capital Federal, Gramophone GC62047, 9251F»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Maxixe Capital Federal, Gramophone GC62047, 9251F"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 9251F; o registo do Museu do Fado indica 8197f. O registo do Museu do Fado indica «Editora: Gra. GC62047» e «Referências: Disque Pour Gramophone 8197f, 62047; G.C. 62047»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/595/almeida_cruz_maxixe_capital_federal",
+      "doc": "museu-do-fado:w00da4824647cb41b",
+      "citacao": "Título: Maxixe Capital Federal ... Editora: Gra. GC62047 Referências: Disque Pour Gramophone 8197f, 62047; G.C. 62047"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Maxixe Capital Federal, Gramophone GC62047, 9251F"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

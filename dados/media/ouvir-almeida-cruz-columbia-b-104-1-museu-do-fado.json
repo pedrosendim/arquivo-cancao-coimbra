@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-104-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0311_37.mp3",
+  "titulo": "Moro à beira do mar — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-104",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0621.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/616/almeida_cruz_moro_a_beira_do_mar",
+      "doc": "museu-do-fado:w9b9bc7ce543894ec",
+      "citacao": "Título: Moro à beira do mar ... Editora: Co. B-104 Referências: 11800-1-4; B104"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

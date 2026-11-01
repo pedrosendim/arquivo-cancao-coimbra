@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-48106-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1203_19.mp3",
+  "titulo": "Canção à Flora — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-48106",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5467.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2382/avelino_baptista_cancao_a_flora",
+      "doc": "museu-do-fado:w5db796f632b73e34",
+      "citacao": "Título: Canção à Flora ... Editora: Beka 48106 48107 Referências: Beka-Grand-Record, 48106; 48106"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

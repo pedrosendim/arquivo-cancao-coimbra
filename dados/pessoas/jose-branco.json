@@ -1,0 +1,46 @@
+{
+  "id": "jose-branco",
+  "tipo": "pessoa",
+  "nome": "José Branco",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013, bloco do Fado ao Centro: «Feiticeira» (Ângelo de Araújo)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Feiticeira (Angelo de Araújo): José Branco"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "2CD «Fado de Coimbra (Fados & Guitarradas Volume 2)» (Fado ao Centro, 2011): «Feiticeira»",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10872795",
+          "doc": "discogs:waedde0e700c4b9e8",
+          "citacao": "1-12 Feiticeira — José Branco"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

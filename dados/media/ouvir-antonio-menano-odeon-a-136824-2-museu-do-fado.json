@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136824-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0597_36.mp3",
+  "titulo": "Fado d'Anto — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136824",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1188.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1179/antonio_menano_fado_danto",
+      "doc": "museu-do-fado:w21d7c5a3d8e62d42",
+      "citacao": "Título: Fado d'Anto ... Editora: Od.136.824, X3038,EMI261283,EMICD8364452,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

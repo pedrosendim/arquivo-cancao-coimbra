@@ -1,0 +1,32 @@
+{
+  "id": "artur-santos",
+  "tipo": "pessoa",
+  "nome": "Artur Santos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "Professor de solfejo, contraponto e harmonia de Pedro Caldeira Cabral",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/memrias-da-guitarra-portuguesa-por.html",
+          "doc": "gc-i:111715350957620835",
+          "citacao": "Mais tarde estuda solfejo, contraponto e harmonia com o Prof. Artur Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia sem autor indicado, reproduzida no post a seguir ao texto «Memórias da Guitarra Portuguesa» (2002)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

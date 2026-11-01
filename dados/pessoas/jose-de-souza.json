@@ -1,0 +1,30 @@
+{
+  "id": "jose-de-souza",
+  "tipo": "pessoa",
+  "nome": "José de Souza",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Proprietário em Maceira",
+      "data": "",
+      "local": "Maceira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa, filho de José de Souza, proprietário em Maceira, e de Rosália Coelho de Sousa, nasceu na Quinta do Paraíso, Maceira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

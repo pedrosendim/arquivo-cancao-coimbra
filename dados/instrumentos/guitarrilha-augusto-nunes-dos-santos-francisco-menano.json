@@ -1,0 +1,117 @@
+{
+  "id": "guitarrilha-augusto-nunes-dos-santos-francisco-menano",
+  "designacao": "Guitarrilha de tipo Coimbra de Francisco Menano, de Augusto Nunes dos Santos (etiqueta de 1905), Museu Académico",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "augusto-nunes-dos-santos",
+  "ano": "1905",
+  "proprietarios": [
+    {
+      "pessoa": "francisco-menano",
+      "periodo": "desde 1905",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "Guitarrilha de Tipo Coimbra, adquirida pelo Dr. Francisco Paulo Menano quando veio de Fornos de Algodres para o Liceu de Coimbra em 1905."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada por Augusto Nunes dos Santos; etiqueta com a data de 1905",
+      "data": "1905",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "Foi fabricada pelo afamado violeiro local Augusto Nunes dos Santos, ostentando na etiqueta a data de 1905."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ilharga baixa (5,3 cm ao cepo; 6,5 cm ao atadilho), escala longa plana, voluta oval sem arestas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "apresenta ilharga a tender para o baixo (5,3 cms ao cepo; 6,5 cms ao atadilho), escala longa de orientação plana, voluta oval sem arestas salientes, contraste entre ilhargas escuras e tampo superior claro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Usada por Francisco Menano em serenatas, atuações com o Orfeon e nas Fogueiras de São João",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "Francisco Menano utilizou-a em serenatas, actuações de palco em complemento de digressões do Orfeon e nas Fogueiras de São João do Largo de São João de Almedina."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "No Museu Académico de Coimbra (legado/oferta de Francisco Menano)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "Legaria ao Museu Académico de Coimbra uma guitarra de juventude, comprada na oficina de Augusto Nunes dos Santos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "uma guitarra de Coimbra que pertenceu ao Dr. Francisco Menano quando frequentou em Coimbra o Liceu e a FD/UC [1905-1912], oferecida pelo próprio ao Museu Académico de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Um post diz «legaria», outro «oferecida pelo próprio»; nenhum dá a data."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarilha%20F.%20Menano.6.jpg",
+      "legenda": "Guitarrilha de F. Menano (Museu Académico, espólio do Dr. Francisco Menano).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+          "doc": "gc-i:113874235860244241",
+          "citacao": "Imagem: Museu Académico, espólio do Dr. Francisco Menano"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-f_113874235860244241.html",
+      "doc": "gc-i:113874235860244241",
+      "citacao": "Guitarrilha de F. Menano"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

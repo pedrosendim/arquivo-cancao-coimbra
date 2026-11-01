@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-84-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0297_21.mp3",
+  "titulo": "Senhor da Serra — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-84",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0593.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/588/almeida_cruz_senhor_da_serra",
+      "doc": "museu-do-fado:wa0f7d26ca89d2d1b",
+      "citacao": "Título: Senhor da Serra ... Editora: Co. B-84 Referências: 11799; B84"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,152 @@
+{
+  "id": "francisco-zagalo-melancolia-2024",
+  "titulo": "Melancolia",
+  "formato": "CD",
+  "editora": "edição de autor",
+  "referencia": "",
+  "ano": "2024",
+  "local": "Portugal",
+  "interpretes": [
+    {
+      "pessoa": "francisco-zagalo",
+      "funcao": "autor / intérprete"
+    },
+    {
+      "pessoa": "simao-mota",
+      "funcao": "intérprete (faixas 5-7, 10-11)"
+    },
+    {
+      "pessoa": "tiago-jose-rodrigues",
+      "funcao": "intérprete (faixas 5, 7, 11)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Melancolia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Mar da Figueira",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Quinta do Braçal",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Ré Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "O Ano da Morte de Inês de Castro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Um Diálogo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Variações em Lá Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Harmonia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Solitude",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Revelação",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Dança do Entardecer",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Balada da Quinta da Nogueira",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/C1r-4hwgMrRNwY20bM7TqQ2aPCv95mihYySIOtI28lU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk2/NzQ1LTE3MzgyNDM4/MjktMTkwMC5wbmc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/32996745",
+        "doc": "discogs:w152b31106d322779",
+        "citacao": "Imagem (primary): https://i.discogs.com/C1r-4hwgMrRNwY20bM7TqQ2aPCv95mihYySIOtI28lU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk2/NzQ1LTE3MzgyNDM4/MjktMTkwMC5wbmc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/32996745",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Data (Discogs): 2024-04-01; todos os temas compostos por Francisco Zagalo; participam também Anselmo Batista e Luís Carvalho",
+      "data": "2024-04-01",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Data: 2024-04-01"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Harmonia — Francisco Zagalo, Anselmo Batista, Luís Carvalho  [Francisco Zagalo]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/32996745",
+      "doc": "discogs:w152b31106d322779",
+      "citacao": "Editora: Author's release – none"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/32996745",
+      "doc": "discogs:w152b31106d322779",
+      "citacao": "Artistas: Francisco Zagalo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

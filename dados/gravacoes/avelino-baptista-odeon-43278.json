@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-odeon-43278",
+  "titulo": "Fado das Mãos pequeninas",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "43278",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Mãos pequeninas",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-43278-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Mãos pequeninas», por Avelino Baptista — etiqueta: «Fado das Mãos Pequeninas / Com acomp. de guitarras e violas / Avelino Baptista / Lisboa /  / (disco a 76 voltas)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2230/avelino_baptista_fado_das_maos_pequeninas",
+          "doc": "museu-do-fado:w0f1da99cb49889e7",
+          "citacao": "Título: Fado das Mãos pequeninas ... Editora: Od. 43278 Referências: XO419, 43278; 43278 ... Etiqueta: Fado das Mãos Pequeninas / Com acomp. de guitarras e violas / Avelino Baptista / Lisboa /  / (disco a 76 voltas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação referida no blogue a propósito do «Fado Bohemio», melodia depois gravada com adaptações ao estilo de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-bohemio.html",
+          "doc": "gc-v:6187178448161919603",
+          "citacao": "Avelino Baptista, Fado das Mãos Pequeninas (As tuas mãos pequeninas), Disco Odeon n.º 43278; idem, Fado das Mãos Pequeninas, Odeon n.º 80509b ... Em 1926-1927 foram efetuadas gravações desta melodia, com adaptações ao estilo de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2230/avelino_baptista_fado_das_maos_pequeninas",
+      "doc": "museu-do-fado:w0f1da99cb49889e7",
+      "citacao": "Título: Fado das Mãos pequeninas ... Editora: Od. 43278 Referências: XO419, 43278; 43278"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-bohemio.html",
+      "doc": "gc-v:6187178448161919603",
+      "citacao": "Avelino Baptista, Fado das Mãos Pequeninas (As tuas mãos pequeninas), Disco Odeon n.º 43278; idem, Fado das Mãos Pequeninas, Odeon n.º 80509b ... Em 1926-1927 foram efetuadas gravações desta melodia, com adaptações ao estilo de Coimbra"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

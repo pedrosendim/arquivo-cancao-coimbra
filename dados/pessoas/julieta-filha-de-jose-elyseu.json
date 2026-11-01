@@ -1,0 +1,80 @@
+{
+  "id": "julieta-filha-de-jose-elyseu",
+  "tipo": "pessoa",
+  "nome": "Julieta",
+  "nomes_alternativos": [
+    "Julieta Eliseu"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joao-de-oliveira-anjo",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/as-contas-do-meu-rosario.html",
+          "doc": "gc-iii:7007353784480971919",
+          "citacao": "Casado com Julieta Eliseu, filha do mítico compositor, José das Neves Eliseu, viveu os últimos anos marcado pela perda da esposa e da filha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "Casado com uma das filhas de José Elyseu"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/as-contas-do-meu-rosario.html?showComment=1268358212155#c6512986277665336782",
+          "doc": "gc-iii:c6512986277665336782",
+          "citacao": "a sua esposa D. Julieta não era filha do célebre violista popular José Trego"
+        }
+      ],
+      "nota": "Mulher de João de Oliveira Anjo (João Anjo). O comentário (Eduardo Aroso, 2010) acrescenta que era filha «de José Elyseu» e não de José Trego. A fonte refere também uma filha do casal, sem a nomear."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "maria-de-lurdes-pessoa-eliseu-lopes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "Irmãs (ou meias-irmãs: a fonte diz que a mais velha é meia-irmã das restantes, sem dizer qual é a mais velha)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "manuel-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "teve 6 filhos dos quais apenas um rapaz, Manuel Eliseu. Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "Irmã ou meia-irmã: a fonte não diz qual das filhas é a mais velha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "Das cinco filhas Julieta, Antónia, Lurdes, Acácia e Vitória, apenas a mais velha é meia irmã das restantes."
+        }
+      ],
+      "nota": "A fonte não diz quem é a mãe de cada filha."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

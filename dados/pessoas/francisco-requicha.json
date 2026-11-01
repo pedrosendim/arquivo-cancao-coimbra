@@ -1,0 +1,63 @@
+{
+  "id": "francisco-requicha",
+  "tipo": "pessoa",
+  "nome": "Francisco Requicha",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "viola no Grupo de Canto e Guitarra (2008) e no Grupo de Fados da Secção (2009); homenagem a Artur Paredes (2010)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "Francisco Requicha (v)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/grupo-de-fados-da-seccao-de-fado-da.html",
+          "doc": "gc-ii:1499048720668716907",
+          "citacao": "Francisco Requicha na viola"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Francisco Requicha em viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Terminou a sessão com quatro associados da Secção de Fado da Academia Coimbrã"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/grupo-de-fados-da-seccao-de-fado-da.html",
+          "doc": "gc-ii:1499048720668716907",
+          "citacao": "Grupo de Fados da Secção de Fado da Associação Académica de Coimbra"
+        }
+      ],
+      "nota": "Viola no Grupo de Canto e Guitarra / Grupo de Fados da Secção (2008-2009); associado em 2010."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

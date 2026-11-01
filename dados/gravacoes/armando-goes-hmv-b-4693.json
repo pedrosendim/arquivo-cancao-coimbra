@@ -1,0 +1,161 @@
+{
+  "id": "armando-goes-hmv-b-4693",
+  "titulo": "Fado dos Busos / Fado da Pátria",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "B 4693",
+  "ano": "1927",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "armando-goes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Busos",
+      "obra": "",
+      "media": [
+        "ouvir-armando-goes-hmv-b-4693-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Pátria",
+      "obra": "",
+      "media": [
+        "ouvir-armando-goes-hmv-b-4693-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/AqF4yYtomcl0gRxgtg0sX-2zZS6qlgRAKh5dYyFp6y8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMw/Nzc0LTE3NjE5MjQx/MDEtMTEzOC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35530774",
+        "doc": "discogs:w494301315a97f417",
+        "citacao": "Imagem (secondary): https://i.discogs.com/AqF4yYtomcl0gRxgtg0sX-2zZS6qlgRAKh5dYyFp6y8/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMw/Nzc0LTE3NjE5MjQx/MDEtMTEzOC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35530774",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530774",
+          "doc": "discogs:w494301315a97f417",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530774",
+          "doc": "discogs:w494301315a97f417",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1929 (Discogs)",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530774",
+          "doc": "discogs:w494301315a97f417",
+          "citacao": "Data: 1929"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue data a gravação de maio de 1927."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: maio de 1927 (gravação, blogue)",
+      "data": "1927-05",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+          "doc": "gc-i:112890085746767465",
+          "citacao": "Gravado por Armando Goes, em Maio de 1927, acompanhado à guitarra por Albano de Noronha e, à viola, por Afonso de Sousa (disco His Master’s Voice, B 4693, posteriormente sob o nº de catálogo HMV, E.Q. 32)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1929."
+    },
+    {
+      "campo": "outro",
+      "valor": "Número de catálogo inicial B 4693, depois HMV E.Q. 32",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+          "doc": "gc-i:112890085746767465",
+          "citacao": "[1] Este disco era, inicialmente, o His Master’s Voice, B 4693"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Afonso de Sousa (violão), Albano de Noronha (guitarra portuguesa)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530774",
+          "doc": "discogs:w494301315a97f417",
+          "citacao": "Acoustic Guitar – Afonso de Sousa Portuguese Guitar – Albano De Noronha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35530774",
+      "doc": "discogs:w494301315a97f417",
+      "citacao": "Editora: His Master's Voice – 4693"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+      "doc": "gc-i:112890085746767465",
+      "citacao": "Disco His Master’s Voice, E.Q. 32[1] 7-62161 – FADO DOS BUSOS (De ser Maria o teu nome)[2] 7-62162 – FADO DA PÁTRIA (Bandeira das cinco chagas)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "manuel-rodrigues-paredes",
+  "tipo": "pessoa",
+  "nome": "Manuel Rodrigues Paredes",
+  "nomes_alternativos": [
+    "Manuel Paredes"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista e compositor de nomeada; ajudante de notário em Coimbra",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "um irmão mais novo Manuel Rodrigues Paredes, que veio a ser ajudante de notário em Coimbra, tendo sido também um guitarrista e compositor de nomeada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tio de Artur Paredes; polarizou o ramo familiar de Coimbra com que Artur Paredes cortou relações",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "o pesado corte de relações com o ramo familiar de Coimbra, polarizado por seu tio, o guitarrista Manuel Rodrigues Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/os-paredes-da-guitarra-uma-familia-de.html",
+          "doc": "gc-v:691655989350074567",
+          "citacao": "António Rodrigues Paredes (Vacariça, 1843 - Coimbra, ca. 1905): carpinteiro. Pai de Gonçalo e de Manuel."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/12/entre-deus-pai-e-deus-filho.html",
+          "doc": "gc-v:1448916606371673362",
+          "citacao": "António Rodrigues Paredes, pai dos guitarristas Gonçalo Paredes e Manuel Paredes"
+        }
+      ],
+      "nota": "As fontes não nomeiam a mãe de Manuel; Teresa Morgado é dada como mãe de Gonçalo."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

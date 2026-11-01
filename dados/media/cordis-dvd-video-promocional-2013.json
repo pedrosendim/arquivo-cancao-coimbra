@@ -1,0 +1,23 @@
+{
+  "id": "cordis-dvd-video-promocional-2013",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=l-xCx9zxif8",
+  "titulo": "Cordis – vídeo promocional do concerto de lançamento do primeiro DVD (TAGV, 15-11-2013)",
+  "data": "2013",
+  "pessoas": [
+    "cordis",
+    "bruno-costa"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/10/cordis-em-dvd.html",
+      "doc": "gc-v:892306301284297928",
+      "citacao": "Vejam aqui o vídeo promocional do concerto http://www.youtube.com/watch?v=l-xCx9zxif8&feature=youtu.be Bruno Costa"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

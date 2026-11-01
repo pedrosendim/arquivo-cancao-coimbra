@@ -1,0 +1,114 @@
+{
+  "id": "antonio-menano-odeon-136809",
+  "titulo": "Fado Espanhol / O beijo",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "136.809 / 136.810",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Espanhol",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136809-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O beijo",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136809-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Espanhol», por António Menano — etiqueta: «Fado Hespanhol  / (Antonio Menano) / Com acompanhamento de guitarra e viola  / Antonio Menano  / Paris»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1160/antonio_menano_fado_espanhol",
+          "doc": "museu-do-fado:w5cfdc9c4bd4a9c0d",
+          "citacao": "Título: Fado Espanhol ... Editora: Od.136.809,EMI261283 Referências: OG576, N5, 1927; A 136809 ... Etiqueta: Fado Hespanhol  / (Antonio Menano) / Com acompanhamento de guitarra e viola  / Antonio Menano  / Paris"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«O beijo», por António Menano — etiqueta: «O Beijo / Canção (António Menano) / Com acompanhamento de Guitarra e Viola / António Menano / Paris»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1161/antonio_menano_o_beijo",
+          "doc": "museu-do-fado:wadbcd56e9a45a9f2",
+          "citacao": "Título: O beijo ... Editora: Od.136.810,EMI261283,EMICD8374952 Referências: OG577, N5, 1927; A 136810 ... Etiqueta: O Beijo / Canção (António Menano) / Com acompanhamento de Guitarra e Viola / António Menano / Paris"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco da edição de Paris com um número de catálogo por face (136.809 / 136.810), segundo o inventário das etiquetas de António Menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "136.809 Og 576 – Fado Hespanhol (Gosto de cantar o fado) 136.810 Og 577 – O Beijo (À minha amada, na praia)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+          "doc": "gc-i:116584350941968291",
+          "citacao": "na edição de Paris cada face fonográfica tem o seu próprio número de catálogo, correspondendo as matrizes do número mais baixo ao que se poderia chamar a “face A” ou “lado 1"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1160/antonio_menano_fado_espanhol",
+      "doc": "museu-do-fado:w5cfdc9c4bd4a9c0d",
+      "citacao": "Título: Fado Espanhol ... Editora: Od.136.809,EMI261283 Referências: OG576, N5, 1927; A 136809"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1161/antonio_menano_o_beijo",
+      "doc": "museu-do-fado:wadbcd56e9a45a9f2",
+      "citacao": "Título: O beijo ... Editora: Od.136.810,EMI261283,EMICD8374952 Referências: OG577, N5, 1927; A 136810"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menanofornos-de-algodres.html",
+      "doc": "gc-i:116584350941968291",
+      "citacao": "136.809 Og 576 – Fado Hespanhol (Gosto de cantar o fado) 136.810 Og 577 – O Beijo (À minha amada, na praia)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

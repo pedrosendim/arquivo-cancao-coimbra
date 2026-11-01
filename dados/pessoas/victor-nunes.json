@@ -1,0 +1,43 @@
+{
+  "id": "victor-nunes",
+  "tipo": "pessoa",
+  "nome": "Victor Nunes",
+  "nomes_alternativos": [
+    "Vítor Nunes"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Estes dois jovens (José Carlos Teixeira – Guitarra e\nEduardo Aroso – Viola) começaram a caminhar regularmente entre a Ladeira das\nAlpenduradas e o Alto de S. João onde vivia um já então veterano do Fado de\nCoimbra (Victor Nunes – Cantor)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 1: Apresentação particular da Tertúlia do Fado de Coimbra em\n1974. Guitarras: Álvaro Aroso e José Carlos Teixeira; Viola: Eduardo Aroso;\nCantor: Victor Nunes."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/victor-nunes-cantor-da-tertulia-do-fado.html",
+          "doc": "gc-ii:8115104448521948735",
+          "citacao": "Victor Nunes, cantor da Tertúlia do Fado de Coimbra, homenageado em Coja."
+        }
+      ],
+      "nota": "voz; desde os inícios (1972)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "amelia-de-faria",
+  "tipo": "pessoa",
+  "nome": "Amélia de Faria",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "alfredo-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Casou com Amélia de Faria em 19.06.1909 no Rio de Janeiro."
+        }
+      ],
+      "nota": "Casamento no Rio de Janeiro, 19 de junho de 1909."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

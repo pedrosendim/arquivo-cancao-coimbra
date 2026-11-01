@@ -1,0 +1,217 @@
+{
+  "id": "carlos-paredes-e-artur-paredes-lp-alvorada",
+  "titulo": "Carlos Paredes / Artur Paredes",
+  "formato": "LP",
+  "editora": "Alvorada",
+  "referencia": "",
+  "ano": "",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Despertar",
+      "obra": "",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-1-youtube"]
+    },
+    {
+      "n": 2,
+      "titulo": "Acção",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Frustração",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações Em Si Menor",
+      "obra": "",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-4-youtube"]
+    },
+    {
+      "n": 5,
+      "titulo": "Variações Em Lá Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Danças Portuguesas N.º 1",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Desfolhada",
+      "obra": "desfolhada",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-7-apple-music"]
+    },
+    {
+      "n": 8,
+      "titulo": "Variações Em Ré Menor N.º 2",
+      "obra": "variacoes-em-re-menor-n-2-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-8-youtube"]
+    },
+    {
+      "n": 9,
+      "titulo": "Variações Em Mi Menor",
+      "obra": "variacoes-em-mi-menor-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-9-apple-music"]
+    },
+    {
+      "n": 10,
+      "titulo": "Balada Do Mondego",
+      "obra": "sonhos-dourados",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-10-youtube"]
+    },
+    {
+      "n": 11,
+      "titulo": "Cantares Portugueses",
+      "obra": "rapsodia-n-2-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-11-youtube"]
+    },
+    {
+      "n": 12,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-12-youtube"]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/5fEoBzvIiCBQmehOjAs1E4",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/34166371",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Sem data; c. 1978",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "[8] Edição ALVORADA, LP S 08 88, s.d."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ano aproximado: deixado só no valor."
+    },
+    {
+      "campo": "outro",
+      "valor": "Número de catálogo: LP S 08 88",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "[8] Edição ALVORADA, LP S 08 88, s.d.; os temas em causa estão na face B, faixas 4, 5 e 6."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Número de catálogo: LP-S-04-88",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "LP CARLOS PAREDES E ARTUR PAREDES, Lisboa, LP-S-04-88, s/d. [ca. 1978]"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Mistura de títulos de diferentes datas (registos de 1957 e de 1961)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "onde já aconteceu a mistura de títulos de diferentes datas, mistura essa que não foi corrigida"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica (P) 1957 para todas as faixas de Artur Paredes (B1 a B6)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Número de catálogo: LP-S-04-88; data 1979 (Discogs)",
+      "data": "1979",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/34166371",
+          "doc": "discogs:wb4aff6df37773b75",
+          "citacao": "Editora: Alvorada – LP-S-04-88"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/34166371",
+          "doc": "discogs:wb4aff6df37773b75",
+          "citacao": "Data: 1979"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os blogues dão o ano como c. 1978 (sem data no disco) e um deles grafa o número LP S 08 88."
+    },
+    {
+      "campo": "outro",
+      "valor": "Datas de fonograma no Discogs: (P) 1957 para as faixas de Artur Paredes (B1-B6), (P) 1962 e (P) 1963 para as de Carlos Paredes",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/34166371",
+          "doc": "discogs:wb4aff6df37773b75",
+          "citacao": "(P) 1957 (tracks B1 to B6) (P) 1962 (tracks A4 to A6) (P) 1963 (tracks A1 to A3)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica mistura de registos de 1957 e de 1961 nas faixas de Artur Paredes."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+      "doc": "gc-i:116656793633803313",
+      "citacao": "As peças em causa sairão do limbo ca. 1978 – ou seja, a 2 anos da morte de Artur Paredes –, no LP Carlos Paredes / Artur Paredes [8]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "LP CARLOS PAREDES E ARTUR PAREDES, Lisboa, LP-S-04-88, s/d. [ca. 1978]"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/34166371",
+      "doc": "discogs:wb4aff6df37773b75",
+      "citacao": "Faixas: A1 Despertar — Carlos Paredes [Carlos Paredes] A2 Acção — Carlos Paredes [Carlos Paredes] A3 Frustração — Carlos Paredes [Carlos Paredes] A4 Variações Em Si Menor — Carlos Paredes [Carlos Paredes] A5 Variações Em Lá Menor — Carlos Paredes [Carlos Paredes] A6 Danças Portuguesas N.º 1 — Carlos Paredes [Carlos Paredes] B1 Desfolhada — Artur Paredes [Folk (Popular)] B2 Variações Em Ré Menor N.º 2 — Artur Paredes [Artur Paredes] B3 Variações Em Mi Menor — Artur Paredes [Artur Paredes] B4 Balada Do Mondego — Artur Paredes [Artur Paredes] B5 Cantares Portugueses — Artur Paredes [Artur Paredes] B6 Passatempo — Artur Paredes [Artur Paredes]"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,176 @@
+{
+  "id": "fado-postumo-do-hylario",
+  "titulo": "Fado Póstumo do Hylario",
+  "titulos_alternativos": [
+    "Fado Posthumo do Hylario",
+    "Fado Phostumo do Hylário",
+    "Lindas noites de luar",
+    "Fado do 28",
+    "Fado de São Pedro do Sul",
+    "Fado da Beira",
+    "Fado da Aurora",
+    "Fado Antigo (Maria, minha Maria)"
+  ],
+  "genero": "fado",
+  "musica": [
+    "augusto-hilario"
+  ],
+  "letra": [
+    "luis-osorio"
+  ],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Publicado no Cancioneiro de Músicas Populares de César das Neves, vol. III (1898), p. 208, n.º 529",
+      "data": "1898",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-posthumo-do-hylario.html",
+          "doc": "galaxia-sonora-coimbra:5109837901902874571",
+          "citacao": "Fonte: Neves, César das e Pais, Gualdim, Cancioneiro de Músicas Populares, vol.3, Empresa Editora, Porto, 1898, p. 208, n.º 529"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o recoletor Manuel Maria Corte-Real, seria a última música feita por Hilário, com letra de Luiz Osório; feita nos finais de 1895 e aperfeiçoada no início de 1896",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "Segundo testemunho assertivo do mesmo Corte-Real esta música seria a última feita por Augusto Hylario [anote-se feita e não adaptada a partir de composição precedente de autor desconhecido], com letra do antigo estudante da UC Luiz Osório. Aceitando a fiabilidade deste testemnunho, a obra teria sido feita nos finais de 1895 e aperfeiçoada nos inícios de 1896, pouco antes do falecimento de Augusto Hylario."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra de 13 quadras de Luís Osório da Cunha Pereira de Castro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "“FADO PÓSTUMO DO HYLÁRIO”. A letra é constituída por 13 quadras da autoria do estudante da Universidade de Coimbra, Luís Osório da Cunha Pereira de Castro (1860 – 1890)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música atribuída a Augusto Hylario (Corte-Real, 1898; Galáxia Sonora, 2020; A. M. Nunes, 2023)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "o chamado «Fado de São Pedro do Sul» tem como matriz uma composição precedente, recolhida por um antigo associado da TAUC, Manuel Maria Corte-Real, e divulgada no «Cancioneiro de Músicas Populares», de Cesar das Neves, em 1898, com título atribuído pelo mesmo Corte-Real de «Fado Posthumo do Hylario» (Lindas noites de luar)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música atribuída a Reynaldo Varella, com o título «Fado de São Pedro do Sul» (aceite em 2018 no Repertório da Canção de Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "Um pouco antes, em 2018, os autores do repositório Repertório da Canção de Coimbra, composições estróficas, em face dos dados disponíveis tinham aceitado a atribuição a Varella"
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-posthumo-do-hylario.html",
+          "doc": "galaxia-sonora-coimbra:5109837901902874571",
+          "citacao": "reclamado pelo guitarrista Reynaldo Varella e gravado pelo próprio (canto e guitarra solo), no disco de massa Homokord 9233."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Publicado quase sem diferenças como «Fado do 28» em «12 Cantos Populares 12 Fados para piano» (Eduardo da Fonseca, Porto)",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-posthumo-do-hylario.html",
+          "doc": "galaxia-sonora-coimbra:5109837901902874571",
+          "citacao": "surge publicada, praticamente sem diferenças, sob o nome «Fado do 28», em «12 Cantos Populares 12 Fados para piano» (2.ª série) 3.ª edição, Eduardo da Fonseca"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado com outros títulos e sem indicação de autoria: «Fado da Beira» (Avelino Baptista, Odeon A.136.067), «Fado da Aurora» (Avelino Baptista, Beka 6704), «Fado de São Pedro do Sul» (Reynaldo Varella, Homokord 9233), «Fado Antigo» (António Menano, década de 1920)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "O cantor de sucessos e rei do disco Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067, e Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "Reynaldo Varella gravaria a mesma música, intitulando-a Fado [de] S.[ão] Pedro do Sul (Eu não quero nem brincando), Homokord 9233, novamente sem indicação alguma de autorias."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "a música andaria na tradição oral conimbricense, tendo sido gravada na década de 1920 por António Menano como «Fado Antigo»."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Recolhida já fortemente popularizada em 1896-1897, em Sinfães",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "a música já estaria fortemente popularizada em 1896-1897 pois o recoletor surpreendeu-a não na Beira Litoral mas em Sinfães."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/fado-posthumo-do-hylario.html",
+      "doc": "galaxia-sonora-coimbra:5109837901902874571",
+      "citacao": "reclamado pelo guitarrista Reynaldo Varella e gravado pelo próprio (canto e guitarra solo), no disco de massa Homokord 9233."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+      "doc": "gc-v:1881977297519692243",
+      "citacao": "a música andaria na tradição oral conimbricense, tendo sido gravada na década de 1920 por António Menano como «Fado Antigo»."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+      "doc": "gc-v:8663414541731534926",
+      "citacao": "“FADO PÓSTUMO DO HYLÁRIO”. A letra é constituída por 13 quadras da autoria do estudante da Universidade de Coimbra, Luís Osório da Cunha Pereira de Castro (1860 – 1890)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

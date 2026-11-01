@@ -1,0 +1,57 @@
+{
+  "id": "filomeno-francisco-maria-de-melo-alte-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Filomeno Francisco Maria de Melo Alte da Veiga",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Mogofores, 12 de maio de 1931",
+      "data": "1931-05-12",
+      "local": "Mogofores",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Desse casamento nascem o filho mais velho, Filomeno Francisco Maria de Melo Alte da Veiga, que vê a luz do dia em Mogofores, a 12 de Maio de 1931."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Desse casamento nascem o filho mais velho, Filomeno Francisco Maria de Melo Alte da Veiga, que vê a luz do dia em Mogofores, a 12 de Maio de 1931."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-isabel-de-menezes-e-melo-vaz-de-sampaio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Desse casamento nascem o filho mais velho, Filomeno Francisco Maria de Melo Alte da Veiga, que vê a luz do dia em Mogofores, a 12 de Maio de 1931."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

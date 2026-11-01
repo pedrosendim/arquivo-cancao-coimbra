@@ -1,0 +1,88 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-1072-x",
+  "titulo": "Menina e moça / Fado da Sugestão",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1072X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Menina e moça",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-1072-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Sugestão",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-1072-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Menina e moça», por Edmundo Bettencourt — etiqueta: «Menina e Moça (Fado) / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de Guitarra / Portuguesa e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/291/edmundo_bettencourt_menina_e_moca",
+          "doc": "museu-do-fado:wd2d12b0719dab04f",
+          "citacao": "Título: Menina e moça ... Editora: Co. 1072X, 8120,GL101,HTCD15 Referências: P300, P, AS, 1-B-1, WE; 1072-X ... Etiqueta: Menina e Moça (Fado) / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de Guitarra / Portuguesa e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Sugestão», por Edmundo Bettencourt — etiqueta: «Fado da Sugestão / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de Guitarra / Portuguesa e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/290/edmundo_bettencourt_fado_da_sugestao",
+          "doc": "museu-do-fado:wcd9660a2de5d640b",
+          "citacao": "Título: Fado da Sugestão ... Editora: Co. 1072X, 8120,GL101,HTCD15 Referências: P308, W, P, AS, 1-B-2; 1072-X ... Etiqueta: Fado da Sugestão / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de Guitarra / Portuguesa e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/291/edmundo_bettencourt_menina_e_moca",
+      "doc": "museu-do-fado:wd2d12b0719dab04f",
+      "citacao": "Título: Menina e moça ... Editora: Co. 1072X, 8120,GL101,HTCD15 Referências: P300, P, AS, 1-B-1, WE; 1072-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/290/edmundo_bettencourt_fado_da_sugestao",
+      "doc": "museu-do-fado:wcd9660a2de5d640b",
+      "citacao": "Título: Fado da Sugestão ... Editora: Co. 1072X, 8120,GL101,HTCD15 Referências: P308, W, P, AS, 1-B-2; 1072-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

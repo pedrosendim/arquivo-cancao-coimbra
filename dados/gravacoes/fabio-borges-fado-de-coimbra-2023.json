@@ -1,0 +1,209 @@
+{
+  "id": "fabio-borges-fado-de-coimbra-2023",
+  "titulo": "Fado de Coimbra",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "",
+  "ano": "2023",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "fabio-borges",
+      "funcao": "voz; produção"
+    },
+    {
+      "pessoa": "ricardo-dias",
+      "funcao": "guitarra portuguesa"
+    },
+    {
+      "pessoa": "paulo-larguesa",
+      "funcao": "viola (Discogs: «12-String Acoustic Guitar»)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Águias",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Alentejo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Toada Beirã",
+      "obra": "",
+      "media": [
+        "ouvir-fabio-borges-fado-de-coimbra-2023-3-youtube"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Fado Corrido de Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "O Meu Fado",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Asas Brancas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Fado dos Olhos Claros",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Minha Mãe",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Ao Cair da Tarde (Balada do Florêncio)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Os Teus Olhos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Quando os Sinos Dobram",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Balada da Despedida do 5.º Ano Jurídico de 88/89 (Sentes que um Tempo Acabou)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Balada da Despedida do 6.º Ano Médico de 1958 (Coimbra Tem Mais Encanto)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Coimbra (Abril em Portugal)",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/EcX6nGb-nIisgTZ5z6EhON0ygpJZ9PqjtDKXU3EonjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU2/NzI3LTE3MDAzNTc3/NjctOTA0OC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/28956727",
+        "doc": "discogs:w5d9bf2a671caeb73",
+        "citacao": "Imagem (secondary): https://i.discogs.com/EcX6nGb-nIisgTZ5z6EhON0ygpJZ9PqjtDKXU3EonjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTU2/NzI3LTE3MDAzNTc3/NjctOTA0OC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/28956727",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato e país (Discogs): 1 × CD, Album, Stereo; Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/28956727",
+          "doc": "discogs:w5d9bf2a671caeb73",
+          "citacao": "Formato: 1 × CD, Album, Stereo País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2023 (Discogs)",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/28956727",
+          "doc": "discogs:w5d9bf2a671caeb73",
+          "citacao": "Data: 2023"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos técnicos (Discogs): mistura e masterização de Leonardo Patrício; gravação de Susana Brochado",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/28956727",
+          "doc": "discogs:w5d9bf2a671caeb73",
+          "citacao": "Mixed By, Mastered By – Leonardo Patrício Portuguese Guitar – Ricardo Dias (12) Recorded By – Susana Brochado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Primeiro disco do cantor, apresentado no programa «Vozes da Lusofonia» (Antena 1), ep. 48, 10 de dezembro de 2023",
+      "data": "2023-12-10",
+      "fontes": [
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Vozes da Lusofonia Episódio 48 - de 10 dez 2023 ... Fábio Borges e o cd Fado De Coimbra"
+        },
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Este primeiro disco representa o ponto de partida que sempre sonhei"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/28956727",
+      "doc": "discogs:w5d9bf2a671caeb73",
+      "citacao": "Título: Fado de Coimbra Artistas: Fábio Borges (2) (Fábio Borges) Editora: Not On Label – none"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

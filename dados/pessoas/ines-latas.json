@@ -1,0 +1,46 @@
+{
+  "id": "ines-latas",
+  "tipo": "pessoa",
+  "nome": "Inês Latas",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Seminário Maior de Coimbra, 7 de setembro de 2024: «Encadeia» (guitarra clássica, com o Grupo de Cordas da Secção de Fado)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7439",
+          "doc": "mpagdp:wdd1c1a98a0e87c85",
+          "citacao": "Grupo de Cordas da Secção de Fado - \"Encadeia\" ... Gravado em no Seminário Maior de Coimbra, no dia 7 de Setembro de 2024 ... Inês Latas - Guitarra clássica"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7439",
+          "doc": "mpagdp:wdd1c1a98a0e87c85",
+          "citacao": "Grupo de Cordas da Secção de Fado - \"Encadeia\" ... Gravado em no Seminário Maior de Coimbra, no dia 7 de Setembro de 2024 ... Inês Latas - Guitarra clássica"
+        }
+      ],
+      "nota": "guitarra clássica; Formação indicada no registo de 7 de setembro de 2024 (A Música Portuguesa a Gostar Dela Própria)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

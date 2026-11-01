@@ -1,0 +1,66 @@
+{
+  "id": "meu-bem",
+  "titulo": "Meu Bem",
+  "titulos_alternativos": [
+    "Balada",
+    "Ó meu bem se tu te fores",
+    "Canção Longe"
+  ],
+  "genero": "cancao",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Popular da ilha Terceira (a etiqueta indica erradamente José Afonso como autor)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "BALADA (Ó meu bem se tu te fores), =MEU BEM, popular da ilha Terceira, indica erradamente como autor José Afonso."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra popular açoriana, música de José Afonso",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Balada\n\nLetra popular açoriana – Música de José Afonso"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música popular açoriana com arranjo de José Afonso; gravada por José Afonso como «Balada» (1954) e, em 1964, como «Canção Longe»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6695480932625824753",
+          "citacao": "CANÇÃO LONGE (Ó meu bem se tu te fores), música popular açoriana/ilha Terceira, correspondente à modinha MEU BEM, gravada na década de 1950 por José Afonso (=Balada: 1954) e Luiz Goes (=Canção Açoriana: 1957), com arranjo musical de José Afonso."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+      "doc": "gc-v:3115598909214321265",
+      "citacao": "BALADA (Ó meu bem se tu te fores), =MEU BEM, popular da ilha Terceira, indica erradamente como autor José Afonso."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

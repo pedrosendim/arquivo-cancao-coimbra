@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-columbia-1082-x-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0591_21.mp3",
+  "titulo": "Solitário — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-columbia-1082-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1175.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1166/antonio_menano_solitario",
+      "doc": "museu-do-fado:w9c223efec77ee62e",
+      "citacao": "Título: Solitário ... Editora: Co.1082X, Od. 136.804,EMICD8364452 Referências: OG593, N5, S, AD, 2; G-1082-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

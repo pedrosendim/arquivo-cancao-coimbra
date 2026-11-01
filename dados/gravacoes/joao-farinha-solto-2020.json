@@ -1,0 +1,51 @@
+{
+  "id": "joao-farinha-solto-2020",
+  "titulo": "Solto",
+  "formato": "",
+  "editora": "",
+  "referencia": "",
+  "ano": "2020",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "joao-farinha-1976",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/4HDspi6zE5IsdD035QLn61",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "premio",
+      "valor": "distinguido pela Antena 1",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "Distinguido pela Antena 1, Solto apresenta João Farinha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/albums",
+      "doc": "joao-farinha-site:w721ab9f9105a5aae",
+      "citacao": "SOLTO 2020"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

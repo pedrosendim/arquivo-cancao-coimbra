@@ -1,0 +1,82 @@
+{
+  "id": "florencio-neto-de-carvalho",
+  "tipo": "pessoa",
+  "nome": "Florêncio Neto de Carvalho",
+  "nomes_alternativos": [
+    "Florêncio de Carvalho"
+  ],
+  "papeis": [
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Para além de António Brojo e António Portugal (guitarras) e de Aurélio Reis e Mário de Castro (violas) integraram este grupo Luís Goes, José Afonso, Femando Machado Soares, Femando Rolim, Sutil Roque e Florêncio de Carvalho, entre outros."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Florêncio Neto de Carvalho foi uma figura nuclear na preparação dos cantores"
+        }
+      ],
+      "nota": "segundo o texto da AJA; o blogue GC-V (2016) refere-o como colaborador e preparador dos cantores"
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "florencio-carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/breve-perfil-do-arquitecto-florncio.html",
+          "doc": "gc-i:111775883892639625",
+          "citacao": "Era filho de Florêncio Carvalho, republicano e anticlerical"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/breve-perfil-do-arquitecto-florncio.html",
+          "doc": "gc-i:111775883892639625",
+          "citacao": "Filho único de abastados proprietários ribatejanos"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "francisca-parreira-neto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/breve-perfil-do-arquitecto-florncio.html",
+          "doc": "gc-i:111775883892639625",
+          "citacao": "vizinho de José Relvas, e de Francisca Parreira Neto, de ocupação doméstica."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/AN%20Florencio.jpg",
+      "legenda": "Florêncio Neto de Carvalho (Alpiarça, 1924; Porto, 1981). Foto tirada no último ano do Liceu de Santarém; documento cedido pela viúva, Dra. Lucília Abreu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/florncio-neto-de-carvalho-alpiara-1924.html",
+          "doc": "gc-i:113561361385345100",
+          "citacao": "Florêncio Neto de Carvalho (Alpiarça, 1924; Porto, 1981), intérprete, compositor e ensaiador da CC. Foto tirada no último ano do Liceu de Santarém"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

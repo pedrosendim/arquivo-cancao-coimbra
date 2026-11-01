@@ -1,0 +1,299 @@
+{
+  "id": "guitarra-baritono-gilberto-gracio-carlos-paredes",
+  "designacao": "Guitarra barítono («citolão», «guitarrão», «cítara barítono-baixo») de Gilberto Grácio para Carlos Paredes",
+  "tipo": "guitarra barítono",
+  "construtor": "gilberto-gracio",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "carlos-paredes",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "Este cordofone integra o acervo do Museu da Cidade de Lisboa, por disposição testamentária de Carlos Paredes"
+        }
+      ],
+      "nota": "Pedida por Carlos Paredes; hoje no Museu da Cidade de Lisboa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Pensada por Carlos Paredes em 1969-1970 e construída por Gilberto Grácio em 1970",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "cítara barítono-baixo [guitarrão] pensada e sugerida por Carlos Paredes em 1969-1970 e construída pelo mestre Gilberto Grácio em 1970."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+          "doc": "gc-i:112051755876842351",
+          "citacao": "Confundem o \"guitolão\" com o \"guitarrão\" ou \"guitarra portuguesa barítono\", construído em 1970, a pedido de Carlos Paredes."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Encomendada por Carlos Paredes a Gilberto Grácio em 1972",
+      "data": "1972",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+          "doc": "gc-iii:1141358223538667584",
+          "citacao": "Em 1972 Carlos *Paredes encomenda a ao construtor Gilberto *Grácio uma guitarra grave"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Morais; a nota final do mesmo post diz que já em 1970 Carlos Paredes usara o guitarrão. Noutro post Manuel Morais escreve «Desconheço a data em que Carlos Paredes encomendou» o instrumento."
+    },
+    {
+      "campo": "outro",
+      "valor": "Origem numa conversa de Carlos Paredes com Gilberto Grácio em 1970 (relato de Gilberto Grácio)",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/apresentao-do-guitolo-no-museu-do-fado.html",
+          "doc": "gc-i:112079233708132084",
+          "citacao": "Resultou de uma conversa com Carlos Paredes em 1970 onde, timidamente como era apanágio dele, mostrou vontade de ter uma guitarra com o braço mais comprido, pois lhe dava mais espaço de execução e outras afinações."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-guitolo.html",
+          "doc": "gc-i:116484238888413880",
+          "citacao": "Carlos Paredes em 1970, numa conversa tida com Gilberto Grácio, mostrou-lhe o desejo de ter uma Guitarra Barítono"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Caixa de tamanho normal, modelo de Coimbra, braço mais comprido seis polegadas de escala (relato de Gilberto Grácio)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/apresentao-do-guitolo-no-museu-do-fado.html",
+          "doc": "gc-i:112079233708132084",
+          "citacao": "Tinha um projecto antigo que começou por ser uma guitarra barítono, com caixa de tamanho normal, modelo de Coimbra, e com o braço mais comprido seis polegadas de escala."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Forma da guitarra de Coimbra dos Grácio com volumetria ampliada (braço, escala, altura e largura da caixa); 27 pontos; 1 metro de comprimento total, 56 cm de tiro de corda",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "Segue no essencial a forma e a ergonomia da gC dos Grácio, mas com volumetria ampliada ao nível do comprimento do braço, extensão da escala, altura e largura da caixa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "O diapasão, pronunciadamente plano, está subdividido em 27 pontos, 23 inteiros e 4 meios pontos agudos. O comprimento total atinge 1 metro, com 56cm de tiro de corda."
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do relato de Gilberto Grácio quanto à caixa («de tamanho normal»)."
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Fá3/Fá3; Dó2/Dó2; Lá2/Lá2; Fá2/Fá2; Dó3/Dó2; Sol2/Sol1 (do agudo para o grave)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "graças à gentil informação de Luísa Amaro, a afinação que o Mestre optou neste instrumento (do agudo para o grave): Fá3/Fá3; Dó2/Dó2; Lá2/Lá2; Fá2/Fá2; Dó3/Dó2; Sol2/Sol1"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+          "doc": "gc-iii:1141358223538667584",
+          "citacao": "uma guitarra grave com a afinação Fá 3/Fá 3, Dó 2/Dó 2, Lá 2/Lá 2, Fá 2/Fá 2, Dó 3/Dó 2, Sol 2/Sol 1"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP Meu País (1970), com a soprano Cecília de Melo",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "Foi utilizada por Carlos Paredes em dois registos fonográficos conhecidos, com a soprano Cecília de Melo (LP Meu País: 1970)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+          "doc": "gc-iii:1141358223538667584",
+          "citacao": "Já em 1970 Carlos Paredes havia utilizado o guitarrão para acompanhar Cecília de Melo, num LP com 12 peças, de nome genérico \"Meu País\"."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou «uma música» com a cantora Sofia de Melo e o poeta Manuel Alegre",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+          "doc": "gc-i:111696253640346453",
+          "citacao": "Gilberto Grácio fez um protótipo, isto é, uma guitarra de Coimbra com um braço maior e o Carlos Paredes ainda gravou uma música com esse instrumento, com a cantora Sofia de Melo e o poeta Manuel Alegre"
+        }
+      ],
+      "conflito": true,
+      "nota": "Relato de António Eustáquio no artigo de Isabel Damião (O Primeiro de Janeiro); diverge no nome da cantora (Cecília de Melo noutros posts)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP Manuel Alegre com Carlos Paredes «É Preciso um País» (Decca/A Voz e o Texto, SLPDR 4000, 1974), gravado a 19 de julho de 1974 para a Valentim de Carvalho",
+      "data": "1974-07-19",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "No entanto a 19 de Julho de 1974 fez uma gravação, para a casa Valentim de Carvalho, já com este instrumento"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "Neste disco, intitulado Manuel Alegre com Carlos Paredes \"É Preciso um País\" (LP, Decca/A Voz e o Texto, SLPDR 4000, 1974)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "como voz de fundo num LP da responsabilidade de Manuel Alegre [LP É preciso um País: 1974]."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Carlos Paredes pô-la de parte em 1974/75 (relato de Gilberto Grácio)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/apresentao-do-guitolo-no-museu-do-fado.html",
+          "doc": "gc-i:112079233708132084",
+          "citacao": "Esta guitarra foi tocada ainda por Carlos Paredes mas em 1974/75 ele pô-la de parte, sem eu saber por quê."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Designações: «citolão» (Carlos Paredes), «guitarrão», «guitarra portuguesa barítono-baixo»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+          "doc": "gc-iii:1141358223538667584",
+          "citacao": "a que dá o nome de “citolão”"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+          "doc": "gc-iii:1141358223538667584",
+          "citacao": "O nome indicado para o instrumento é \"Guitarra portuguesa barítono-baixo\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "No acervo do Museu da Cidade de Lisboa por disposição testamentária de Carlos Paredes; exposta no Museu do Fado entre junho e dezembro de 2025",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "Este cordofone integra o acervo do Museu da Cidade de Lisboa, por disposição testamentária de Carlos Paredes, podendo ser observado no Museu do Fado /Lisboa entre junho-dezembro de 2025."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmxwlAFbz5EgAhSlAI8dM8hyphenhyphenByFKyIkzLjr4LBaxErgmOdR06tUB8AcyHJd35p3JrklUhMldiTidCwrITonSAfWQ9A7jWfNXl48mH7DYBdMlVOnJpEkcK3QDmzvlujeh99suyyKdDg9yPg0KRWhJnph3E38YleuWAgwi3vKL6DhBJzRf1QL2zRl99mDVg/s1030/guitarra%C3%A3oBB.jpg",
+      "legenda": "A tanto famosa quanto pouco conhecida cítara barítono-baixo [guitarrão]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+          "doc": "gc-v:7519704993961031470",
+          "citacao": "Fotografia: página de facebook do Museu do Fado"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/08/a-famosa-baritono-baixo.html",
+      "doc": "gc-v:7519704993961031470",
+      "citacao": "A tanto famosa quanto pouco conhecida cítara barítono-baixo [guitarrão]"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/06/guitarrao.html",
+      "doc": "gc-iii:1141358223538667584",
+      "citacao": "a que dá o nome de “citolão” e que chega a utilizar numa gravação discográfica de 1974 em que acompanha o poeta Manuel Alegre."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+      "doc": "gc-i:112051755876842351",
+      "citacao": "Tratou-se apenas de uma guitarra com o braço mais comprido, tornando-se a sonoridade mais grave, por esse facto. Foi com ela que Carlos Paredes gravou com Cecília Melo e Manuel Alegre."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

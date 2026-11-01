@@ -1,0 +1,86 @@
+{
+  "id": "conjunto-de-antonio-portugal",
+  "tipo": "grupo",
+  "nome": "Conjunto de António Portugal",
+  "nomes_alternativos": [],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+      "doc": "gc-v:1552415873352881508",
+      "citacao": "A moda dos conjuntos chegaria a Coimbra. A revista Rádio e Televisão, edição de 30 de janeiro de 1965, entrevista António Portugal e difunde informação sobre um grupo recém-constituído, colocando em destaque que é designado por «Conjunto de António Portugal»."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+      "doc": "gc-v:1552415873352881508",
+      "citacao": "Este grupo desenvolveu intensa atividade entre 1965-1966, tendo garantido gravações vocais e instrumentais de cunho progressista, notando-se em António Bernardino grande cuidado com a clareza fonética e a intensidade vocal e em Portugal / Borralho uma postura experimentalista e consagradora de novidades muito sixties"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "grupo recém-constituído em janeiro de 1965",
+      "data": "1965-01",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "A revista Rádio e Televisão, edição de 30 de janeiro de 1965, entrevista António Portugal e difunde informação sobre um grupo recém-constituído"
+        }
+      ],
+      "conflito": false,
+      "nota": "Rádio e Televisão, 30 de janeiro de 1965, citada no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "intensa atividade entre 1965 e 1966",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Este grupo desenvolveu intensa atividade entre 1965-1966"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "elementos: António Portugal (gC1), Manuel Gonçalves Borralho (gC2), Rui Pato (v), Adriano Correia de Oliveira e António Bernardino (cantores)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "gravações vocais e instrumentais de cunho progressista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "tendo garantido gravações vocais e instrumentais de cunho progressista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

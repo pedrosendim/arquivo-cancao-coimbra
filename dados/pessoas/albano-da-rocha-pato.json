@@ -1,0 +1,136 @@
+{
+  "id": "albano-da-rocha-pato",
+  "tipo": "pessoa",
+  "nome": "Albano da Rocha Pato",
+  "nomes_alternativos": [
+    "Rocha Pato"
+  ],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "S. João da Azenha, Avelãs de Caminho, 25 de setembro de 1923",
+      "data": "1923-09-25",
+      "local": "S. João da Azenha, Avelãs de Caminho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "ALBANO DA ROCHA PATO, nascido em S. João da Azenha, Avelãs de Caminho, no dia 25 de Setembro de 1923"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Rui Pato reproduzido no blogue."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1924",
+      "data": "1924",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Albano da Rocha Pato (1924-1983)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1 de abril de 1982, subitamente, com 57 anos",
+      "data": "1982-04-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "vem a falecer subitamente com 57 anos em 1 de Abril de 1982"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1983",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Albano da Rocha Pato (1924-1983)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Jornalista, repórter de «O Primeiro de Janeiro» em Coimbra; depois no «Diário Popular»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "repórter de O Primeiro de Janeiro / delegação de Coimbra, pai do viola Rui Pato"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "vai trabalhar para o Diário Popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fixou-se em Coimbra em 1945, casado e com um filho, Rui de Melo Pato, nascido em 1946",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Rocha Pato instala-se em Coimbra no ano de 1945 casado e com um filho (Rui de Melo Pato) que nasce em 1946."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não nomeia a mulher."
+    },
+    {
+      "campo": "outro",
+      "valor": "Amigo de José Afonso; apresentou-lhe o filho Rui",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Por ter apresentado seu filho Rui ao cantor-autor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

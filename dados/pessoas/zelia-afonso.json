@@ -1,0 +1,123 @@
+{
+  "id": "zelia-afonso",
+  "tipo": "pessoa",
+  "nome": "Zélia Afonso",
+  "nomes_alternativos": [
+    "Maria Zélia Agostinho",
+    "Zélia"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Maria Zélia Agostinho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Casamento com Maria Zélia Agostinho: 4 de Janeiro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Fuzeta",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "namora com Zélia, natural da Fuzeta, que será a sua segunda mulher."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento com José Afonso a 4 de janeiro de 1964",
+      "data": "1964-01-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1964 ... Casamento com Maria Zélia Agostinho: 4 de Janeiro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia da AJA baseada na Tábua Cronológica de João Afonso dos Santos (José Afonso – Um Olhar Fraterno)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento com José Afonso em 1962",
+      "data": "1962",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+          "doc": "gc-v:2009294952652613066",
+          "citacao": "Em 1962, casa com a Maria Zélia, nascida na Fuzeta, Algarve."
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência com a cronologia da AJA (4 de janeiro de 1964). Post do blogue V sobre José Afonso e Ernesto Pinto Lobo (2014)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Em 1994 recusou a condecoração póstuma de José Afonso com a Ordem da Liberdade",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1994, o Presidente da República Mário Soares tentou de novo condecorar, postumamente, José Afonso com a Ordem da Liberdade, mas a mulher, Zélia, recusou"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Casamento com Maria Zélia Agostinho: 4 de Janeiro."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "namora com Zélia, natural da Fuzeta, que será a sua segunda mulher."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/falencia-da-movieplay/",
+          "doc": "rtp-arquivos:w95978e88c968aa28",
+          "citacao": "declarações de Zélia Afonso, mulher de Zeca Afonso"
+        }
+      ],
+      "nota": "Segundo casamento (1964)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

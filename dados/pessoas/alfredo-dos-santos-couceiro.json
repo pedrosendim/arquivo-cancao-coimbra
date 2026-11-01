@@ -1,0 +1,116 @@
+{
+  "id": "alfredo-dos-santos-couceiro",
+  "tipo": "pessoa",
+  "nome": "Alfredo dos Santos Couceiro",
+  "nomes_alternativos": [
+    "Alfredo Couceiro"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Rio de Janeiro, 3 de agosto de 1884",
+      "data": "1884-08-03",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ALFREDO DOS SANTOS COUCEIRO, nascido no Rio de Janeiro em 3.08.1884 e falecido em Presópolis no ano de 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Presópolis, 1960",
+      "data": "1960",
+      "local": "Presópolis",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "ALFREDO DOS SANTOS COUCEIRO, nascido no Rio de Janeiro em 3.08.1884 e falecido em Presópolis no ano de 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Sucedeu ao pai na direção da loja Rabeca de Ouro",
+      "data": "",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Sucedeu a seu pai na direção da loja de instrumentos e artigos de música Rabeca de Ouro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Alfredo existiu mas foi filho de João e neto de António."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Do referido casal estão averiguados os seguintes descendentes"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eduarda-augusta-andrade",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Emigrado para o Brasil em 1871, João dos Santos Couceiro estabeleceu-se como construtor de instrumentos musicais na rua Carioca, tendo casado com Eduarda Augusta Andrade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Do referido casal estão averiguados os seguintes descendentes"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Alfredo existiu mas foi filho de João e neto de António."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

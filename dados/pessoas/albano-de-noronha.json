@@ -1,0 +1,85 @@
+{
+  "id": "albano-de-noronha",
+  "tipo": "pessoa",
+  "nome": "Albano de Noronha",
+  "nomes_alternativos": [
+    "Félix Albano de Noronha",
+    "Felix Albano de Noronha"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Margão (Índia), 22 de setembro de 1902",
+      "data": "1902-09-22",
+      "local": "Margão",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "Félix Albano de Noronha, compositor e guitarrista de Coimbra, que nasceu em Margão, Índia, a 22 de Setembro de 1902"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 1 de janeiro de 1968",
+      "data": "1968-01-01",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "faleceu em Lisboa a 1 de Janeiro de 1968"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "Foi segundo guitarra do grande mestre Artur Paredes (1899 - 1980), e depois, face ao seu real valor e desempenho, autonomizou-se como primeiro guitarra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Embora assegurasse a guitarra de acompanhamento no grupo de Artur Paredes (1926-1928), Felix Albano de Noronha preferia atuar como solista."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid81kkj3pO4QC3Q_y5ASV98lryF071zyehxcaKq5Tf_4LvlZ-ZiNXb5v7hn_l5mx2DxWJQpDXOdNzXYWyY6gScTm6XDpok1T0JMg0jsBxzvU5NGGIOyNtFQy2j-6p_d_sUQeSA9b-o9SUC/s1600/Albano+de+Noronha.jpg",
+      "legenda": "Félix Albano de Noronha, compositor e guitarrista de Coimbra (imagem do post evocativo de 1 de janeiro de 2013).",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "esta grande figura da música de Coimbra, Félix Albano de Noronha, compositor e guitarrista de Coimbra"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

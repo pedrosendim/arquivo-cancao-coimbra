@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-beka-7319-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0470_21.mp3",
+  "titulo": "Fado do Povo — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-beka-7319",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0936.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/924/manasses_de_lacerda_fado_do_povo",
+      "doc": "museu-do-fado:w3cf5ef06d141bbf2",
+      "citacao": "Título: Fado do Povo ... Editora: Beka 7319 Referências: Disco “Beka” Grande, 7319, ∆7; 7319"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

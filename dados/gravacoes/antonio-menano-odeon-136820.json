@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-136820",
+  "titulo": "A maior dor / Fado das Três horas",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "136.820",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "A maior dor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136820-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado das Três horas",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-136820-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«A maior dor», por António Menano — etiqueta: «A Maior Dôr / (Canção) (Paulo de Sá) / António Menano»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1182/antonio_menano_a_maior_dor",
+          "doc": "museu-do-fado:we28c23fc28bf8f4a",
+          "citacao": "Título: A maior dor ... Editora: Od.136.820, EMICD8364452 Referências: OG672, R, A; 136820 ... Etiqueta: A Maior Dôr / (Canção) (Paulo de Sá) / António Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Três horas», por António Menano — etiqueta: «Fado das 3 horas / António Menano»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1183/antonio_menano_fado_das_tres_horas",
+          "doc": "museu-do-fado:wd272af79249960c1",
+          "citacao": "Título: Fado das Três horas ... Editora: Od.136.820, EMI261283,EMICD8364452 Referências: OG693, R, B; 136820 ... Etiqueta: Fado das 3 horas / António Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1182/antonio_menano_a_maior_dor",
+      "doc": "museu-do-fado:we28c23fc28bf8f4a",
+      "citacao": "Título: A maior dor ... Editora: Od.136.820, EMICD8364452 Referências: OG672, R, A; 136820"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1183/antonio_menano_fado_das_tres_horas",
+      "doc": "museu-do-fado:wd272af79249960c1",
+      "citacao": "Título: Fado das Três horas ... Editora: Od.136.820, EMI261283,EMICD8364452 Referências: OG693, R, B; 136820"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-peres-de-vasconcelos-columbia-j-825-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0969_25.mp3",
+  "titulo": "Variações em mi menor — Miguel A. Peres de Vasconcelos",
+  "data": "",
+  "pessoas": [
+    "peres-de-vasconcelos",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "peres-de-vasconcelos-columbia-j-825",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1928.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1920/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+      "doc": "museu-do-fado:w04c13c1e416db40c",
+      "citacao": "Título: Variações em mi menor ... Editora: Co.J825 Referências: WP329, W, 32577, P329; J825"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "emanuel-maia",
+  "tipo": "pessoa",
+  "nome": "Emanuel Maia",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+      "doc": "gc-i:4447627553230988654",
+      "citacao": "Nas escadas da Igreja de S. Salvador, actuou o Grupo Guitarras de Coimbra com: ... - Emanuel Maia (Voz)"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/cd-10-anos-cantar-coimbra-do-grupo.html",
+      "doc": "gc-ii:3330690236129739138",
+      "citacao": "CD \"10 Anos a Cantar Coimbra\", do grupo \"Guitarras de Coimbra\". António Jesus e Alexandre Cortesão nas guitarras; Bernardino Gonçalves na viola. Cantam Abel João, Emanuel Maia, Felisberto Queirós, Joaquim Afonso, Mário Pais e Vitor Sá."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+      "doc": "gc-iii:2845487607254924548",
+      "citacao": "À noite, na Praça 8 de Maio pelas 22,00h o espectáculo terá a participação do Grupo “Guitarra e Canto de Coimbra” de Santarém e do grupo de fados “Guitarras de Coimbra” que acompanhará os grandes cantores do Fado de Coimbra: ... para além dos seus cantores: Emanuel Maia, Victor Sá, Mário Pais, Joaquim Afonso e João Rebelo."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/grande-noite-do-fado-de-coimbra.html",
+      "doc": "gc-iii:8833058828148821377",
+      "citacao": "Com o Grupo “Guitarras de Coimbra” (António de Jesus, Alexandre Cortesão e Bernardino Gonçalves) actuarão os cantores Emanuel Maia, Felisberto Queiroz, João Rebelo, Joaquim Afonso, Mário Pais e Victor Sá"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Noite dos Museus, escadas da Igreja de S. Salvador, Coimbra, maio de 2007: voz no Grupo Guitarras de Coimbra (com António Jesus e Alexandre Cortesão, guitarras; Bernardino Gonçalves, viola; Abel João, Felisberto Queirós e Joaquim Afonso, vozes)",
+      "data": "2007-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "MILENÁRIO DA RELAL REPÚBLICA PALÁCIO DA LOUCURA, Sábado e Domingo, dias 19 e 20 de Maio de 2007."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "Na Noite dos Museus, em Coimbra proporcionou-se também grande espectáculo de Canção de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "Nas escadas da Igreja de S. Salvador, actuou o Grupo Guitarras de Coimbra com: - António Jesus (Guitarra) - Alexandre Cortesão (Guitarra) - Bernardino Gonçalves (Viola) - Emanuel Maia (Voz) - Abel João (Voz) - Felisberto Queirós (Voz) - Joaquim Afonso (Voz)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de Rui Lopes no blogue. O texto não indica qual dos dois dias (19 ou 20 de maio de 2007)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «10 Anos a Cantar Coimbra», do grupo Guitarras de Coimbra, «rectrospectiva de dez anos do grupo»: um dos cantores",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/cd-10-anos-cantar-coimbra-do-grupo.html",
+          "doc": "gc-ii:3330690236129739138",
+          "citacao": "CD \"10 Anos a Cantar Coimbra\", do grupo \"Guitarras de Coimbra\". António Jesus e Alexandre Cortesão nas guitarras; Bernardino Gonçalves na viola. Cantam Abel João, Emanuel Maia, Felisberto Queirós, Joaquim Afonso, Mário Pais e Vitor Sá. Colaboram ainda Carlos Jesus na guitarra e Paulo Larguesa na viola. É uma rectrospectiva de dez anos do grupo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post (7 de dezembro de 2008) não indica o ano de edição do CD."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Grande Noite do Fado de Coimbra, Praça 8 de Maio (frente à Igreja de Santa Cruz), Coimbra, 11 de julho de 2009, no Ciclo de Homenagens a António Portugal e Pinho Brojo da Associação Cultural «Coimbra Menina e Moça»: um dos cantores do grupo «Guitarras de Coimbra»",
+      "data": "2009-07-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "No dia 11 de Julho a Associação Cultural “Coimbra Menina e Moça” irá apresentar frente à Igreja de Santa Cruz a Grande Noite do Fado de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "para além dos seus cantores: Emanuel Maia, Victor Sá, Mário Pais, Joaquim Afonso e João Rebelo."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html?showComment=1247002401951#c1856905893786847346",
+          "doc": "gc-iii:c1856905893786847346",
+          "citacao": "Dia 11 de Julho de 2009"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html?showComment=1247002401951#c1856905893786847346",
+          "doc": "gc-iii:c1856905893786847346",
+          "citacao": "Presença dos cantores: Fernando Rolim, Luís Goes, Tito Costa Santos, José H. Dias, Anarolino Fernandes, Sutil Roque, Camacho Vieira, Napoleão Amorim, Victor Sá, Mário Pais, Joaquim Afonso, Emanuel Maia, e João Rebelo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio no post (Alexandre Cortesão, 11-06-2009) e programa publicado em comentário pelo mesmo Alexandre Cortesão (07-07-2009). Não há relato posterior da atuação no arquivo."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Grande Noite do Fado de Coimbra», Praça 8 de Maio (frente à Igreja de Santa Cruz), Coimbra, «dia 2 de Junho», com o Grupo «Guitarras de Coimbra» (António de Jesus, Alexandre Cortesão e Bernardino Gonçalves)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/grande-noite-do-fado-de-coimbra.html",
+          "doc": "gc-iii:8833058828148821377",
+          "citacao": "No próximo dia 2 de Junho, pelas 22h00, terá lugar a já tradicional “Grande Noite do Fado de Coimbra”, uma iniciativa da Associação Cultural “Coimbra Menina e Moça” e do Grupo de Fados “Guitarras de Coimbra\", com o apoio da Empresa Municipal de Turismo de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/grande-noite-do-fado-de-coimbra.html",
+          "doc": "gc-iii:8833058828148821377",
+          "citacao": "Com o Grupo “Guitarras de Coimbra” (António de Jesus, Alexandre Cortesão e Bernardino Gonçalves) actuarão os cantores Emanuel Maia, Felisberto Queiroz, João Rebelo, Joaquim Afonso, Mário Pais e Victor Sá"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio enviado por «Tito» Costa Santos. O texto diz «No próximo dia 2 de Junho» sem indicar o ano, mas o post tem data de 24-06-2010 (posterior a 2 de junho): data por confirmar."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "do grupo de fados “Guitarras de Coimbra” que acompanhará os grandes cantores do Fado de Coimbra: ... para além dos seus cantores: Emanuel Maia, Victor Sá, Mário Pais, Joaquim Afonso e João Rebelo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/milenrio-da-relal-repblica-palcio-da.html",
+          "doc": "gc-i:4447627553230988654",
+          "citacao": "actuou o Grupo Guitarras de Coimbra com: ... - Emanuel Maia (Voz)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/cd-10-anos-cantar-coimbra-do-grupo.html",
+          "doc": "gc-ii:3330690236129739138",
+          "citacao": "CD \"10 Anos a Cantar Coimbra\", do grupo \"Guitarras de Coimbra\". ... Cantam Abel João, Emanuel Maia"
+        }
+      ],
+      "nota": "voz (2007-2010)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

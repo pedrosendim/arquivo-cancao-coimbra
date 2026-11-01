@@ -1,0 +1,422 @@
+{
+  "id": "augusto-nunes-dos-santos",
+  "tipo": "pessoa",
+  "nome": "Augusto Nunes dos Santos",
+  "nomes_alternativos": [
+    "Augusto dos Santos"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "AUGUSTO NUNES DOS SANTOS (1859-1915), filho legítimo de Justiniano dos Santos e de Ana de Jesus, nasceu na freguesia de S. Bartolomeu, Coimbra no dia 21.05.1859."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "Terá começado como aprendiz na famosa oficina de violaria de António dos Santos Couceiro ... onde foi oficial e mais tarde reputado mestre."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "Era genro de António dos Santos Couceiro, tendo contraído matrimónio com sua filha Maria da Conceição Santos Couceiro (1858-1935), natural de Coimbra, na igreja de Santa Cruz, no dia 10.05.1883."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Não está ainda apurado em que data Couceiro trespassou o negócio a favor de seu genro, mas terá sido entre 1885-1887, pois em 1884 ainda participou na exposição industrial de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "A sua oficina, à entrada da rua Direita, era regularmente visitada por instrumentistas, membros de ranchos populares e tunas. Forneceu a TAUC."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "Foi nesta oficina que se experimentou o primitivo modelo da guitarra toeira de Coimbra, segundo a opinião técnica de PCCabral a partir de modelos fabricados na casa portuense de António Duarte."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "Veio a falecer em Coimbra no dia 22.12.1915 e foi sepultado no cemitério da Conchada."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (freguesia de S. Bartolomeu), 21 de maio de 1859",
+      "data": "1859-05-21",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "nasceu na freguesia de S. Bartolomeu, Coimbra no dia 21.05.1859"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post sobre os Couceiro (2016) indica as datas 1858-1915."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1858 (datas indicadas: 1858-1915)",
+      "data": "1858",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Couceiro ministrou formação especializada a seu genro Augusto Nunes dos Santos (1858-1915)."
+        }
+      ],
+      "conflito": true,
+      "nota": "O registo biográfico de 10.04.2016 indica 21.05.1859."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 22 de dezembro de 1915; sepultado no cemitério da Conchada",
+      "data": "1915-12-22",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Veio a falecer em Coimbra no dia 22.12.1915 e foi sepultado no cemitério da Conchada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de Justiniano dos Santos e de Ana de Jesus",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "filho legítimo de Justiniano dos Santos e de Ana de Jesus"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou a 10 de maio de 1883 com Maria da Conceição Santos Couceiro, filha de António dos Santos Couceiro",
+      "data": "1883-05-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "tendo contraído matrimónio com sua filha Maria da Conceição Santos Couceiro (1858-1935), natural de Coimbra, na igreja de Santa Cruz, no dia 10.05.1883"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina à entrada da Rua Direita (n.º 18), Coimbra; a mais importante oficina de formação de mestres de violaria de Coimbra entre c. 1880-1910",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/a-oficina-do-mestre-de-violaria-augusto.html",
+          "doc": "gc-v:3587412463887172055",
+          "citacao": "esta terá sido a mais importante oficina de formação de mestres de violaria de Coimbra com atividade conhecida entre ca. 1880-1910. Tinha a sua sede na baixinha, na Rua Direita, n.º 18."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Oficina herdada de António Augusto dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/a-oficina-do-mestre-de-violaria-augusto.html",
+          "doc": "gc-v:3587412463887172055",
+          "citacao": "Herdada da mão de António Augusto dos Santos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts dão o nome do antecessor (e sogro) como António dos Santos Couceiro."
+    },
+    {
+      "campo": "outro",
+      "valor": "Oficina herdada de António dos Santos Couceiro (sogro)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/oficinas-de-violaria-estabelecidas-na.html",
+          "doc": "gc-v:2613138918124963746",
+          "citacao": "Augusto Nunes dos Santos, construtor e proprietário da oficina de herdada de António dos Santos Couceiro"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Nunes dos Santos manteve a oficina em plena atividade até dezembro de 1915."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 dá o nome «António Augusto dos Santos»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Obra extensa e variada: violões, cavaquinhos, bandolins, rabecas, violas toeiras, guitarrinhos, violoncelos, rabecões, alaúdes, banjos, guitarras de 12 e 15 cordas, bandurras",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "ANS e os oficiais que com ele aprenderam a arte deixou extensa e variada obra: violões de seis e mais ordens, cavaquinhos, bandolins italianos e aportuguesados, rabecas, violas toeiras, guitarrinhos de quatro e oito cordas, violoncelos, rabecões, alaúdes, banjos, guitarras de 12 e 15 cordas, bandurr(i)as."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Personalizações e experiências com o apoio de Simões Barbas: guitarras de concerto de 15 cordas, cabeças com voluta oval para monogramas, violas toeiras com cabeça de guitarra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Desenvolveu personalizações e experiências com o apoio do concertista e lente de música da UC Simões Barbas e de outros estudantes: violões para orquestra e concerto solístico com seis a onze cordas; guitarrinhos de oito cordas; guitarras de concerto, com 15 cordas; cabeças de guitarra com voluta oval para fixação de monogramas de prata dos respetivos tocadores"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Terá sido o primeiro construtor português a aplicar cabeças de guitarra na viola de arame (antes de 1915)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "ANS terá sido o primeiro construtor português a aplicar cabeças de guitarra na viola de arame, ainda em data anterior a 1915."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Modelo da guitarra toeira de Coimbra estabilizado c. 1895-1905, tomando por base guitarras do Porto da casa António Duarte",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "a guitarra toeira de Coimbra, ou guitarra de modelo antigo que estava estabilizada entre cerca 1895-1905 pelo violeiro Augusto Nunes dos Santos (Coimbra)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
+          "doc": "gc-v:3875621728661417894",
+          "citacao": "Cordofone construído nas suas linhas estruturantes desde circa 1895 na oficina do mestre Augusto Nunes dos Santos tomando por base guitarras do Porto importadas da casa António Duarte."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Replicou em 1894 a guitarra de 15 cordas do Porto trazida por José Cochofel",
+      "data": "1894",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Cochofel foi o responsável pela divulgação e replicação do modelo na oficina de Augusto Nunes dos Santos, em 1894"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Formou oficiais que depois se estabeleceram por conta própria (entre eles Armando Neves)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Ao longo da década de 1890 manteve publicidade nos periódicos locais e ministrou formação a oficiais que depois se foram estabelecer por conta própria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Desconhece-se o destino do espólio da oficina",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Não existe informação sobre o destino do espólio desta oficina."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segundo Pedro Caldeira Cabral, o cavalete das suas violas toeiras tem o desenho uniforme do grupo de violeiros de Coimbra (António dos Santos, Bento Martins Lobo, António de Sousa, Armando Neves), com um «segredo» hoje esquecido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "A construção do cavalete da Viola Toeira, com um desenho bastante uniforme em instrumentos de violeiros diferentes como António dos Santos, Augusto Nunes dos Santos, Bento Martins Lobo, António de Sousa ou Armando Neves, contém um segredo só conhecido e praticado por este grupo de violeiros e, actualmente, esquecido e negligenciado pelos modernos reprodutores do instrumento."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Pedro Caldeira Cabral, «A Viola Toeira – Mistérios e Segredos» (sítio Orlando Trindade). O blogue GC-V (gc-v:8291707980450393908) manifesta dúvidas sobre o arame transversal no interior do cavalete e sobre os «bigodes»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Uma viola toeira da sua oficina foi restaurada por Orlando Trindade em 2022, com colaboração e textos de Pedro Caldeira Cabral",
+      "data": "2022",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://orlandotrindade.pt/a-viola-toeira-misterios-e-segredos/",
+          "doc": "pedro-caldeira-cabral:wfad1df056bcb0d17",
+          "citacao": "Viola Toeira de Augusto Nunes dos Santos restaurada por Orlando Trindade em 2022"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/conhcer-e-compreender-viola-de-arame-de.html",
+          "doc": "gc-v:8291707980450393908",
+          "citacao": "Registo de uma intervenção de Orlando Trindade no âmbito do estudo, conservação e restauro historicamente fundamentado de uma viola toeira fabricada na oficina de Augusto Nunes dos Santos. Intervenção realizada em 2022, com colaboração e textos de Pedro Caldeira Cabral (PCC)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver a ficha viola-toeira-augusto-nunes-dos-santos-restauro-2022."
+    },
+    {
+      "campo": "outro",
+      "valor": "Violão de sete ordens da sua oficina na coleção de Pedro Caldeira Cabral (fotografado no catálogo «As idades do som», 2006)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "um violão de sete ordens, da coleção Pedro Caldeira Cabral, fotografia no catálogo As idades do som (2006)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Da lista de «obras sinalizadas» da oficina."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "Terá começado como aprendiz na famosa oficina de violaria de António dos Santos Couceiro"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Couceiro ministrou formação especializada a seu genro Augusto Nunes dos Santos (1858-1915)."
+        }
+      ],
+      "nota": "Aprendiz, oficial e depois mestre da oficina; era também genro de António dos Santos Couceiro."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "justiniano-dos-santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "filho legítimo de Justiniano dos Santos e de Ana de Jesus"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "ana-de-jesus",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "filho legítimo de Justiniano dos Santos e de Ana de Jesus"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia de Augusto Nunes dos Santos (2016)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html"
+    },
+    {
+      "rotulo": "Anúncio da oficina em O Defensor do Povo (1894)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/10/a-oficina-do-mestre-de-violaria-augusto.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

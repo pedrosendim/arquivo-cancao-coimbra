@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-89-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0303__8.mp3",
+  "titulo": "Fado Sepulveda — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-89",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0606.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/601/almeida_cruz_fado_sepulveda",
+      "doc": "museu-do-fado:wab70cf220b202d84",
+      "citacao": "Título: Fado Sepulveda ... Editora: Co. B-89 Referências: 11870, 1-4; B89"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

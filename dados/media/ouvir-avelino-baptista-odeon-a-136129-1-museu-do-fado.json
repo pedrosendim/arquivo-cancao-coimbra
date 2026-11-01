@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-a-136129-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2019_54.mp3",
+  "titulo": "Canção Tricana I — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-a-136129",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3816.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3965/avelino_baptista_cancao_tricana_i",
+      "doc": "museu-do-fado:wd97fb2e57a6a6b22",
+      "citacao": "Título: Canção Tricana I ... Editora: Odeon A 136129 A 136130 Referências: Disco Odeon, A136129; A 136129"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

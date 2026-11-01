@@ -1,0 +1,46 @@
+{
+  "id": "joao-afonso-sousa",
+  "tipo": "pessoa",
+  "nome": "João Afonso Sousa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), escadas Monumentais, Coimbra, 7 de setembro de 2024: «Menino d'Oiro» (viola)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7435",
+          "doc": "mpagdp:w235f2e32df964811",
+          "citacao": "Constança Peixoto (voz) acompanhada por João Afonso Sousa (viola) e João Alves (guitarra portuguesa) - \"Menino d'Oiro\" (letra e música: Zeca Afonso) ... Gravado nas escadas Monumentais, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "constanca-peixoto",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7435",
+          "doc": "mpagdp:w235f2e32df964811",
+          "citacao": "Constança Peixoto (voz) acompanhada por João Afonso Sousa (viola) e João Alves (guitarra portuguesa) - \"Menino d'Oiro\" (letra e música: Zeca Afonso) ... Gravado nas escadas Monumentais, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "nota": "viola; gravação de 7 de setembro de 2024"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

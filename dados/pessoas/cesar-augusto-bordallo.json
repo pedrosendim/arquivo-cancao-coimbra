@@ -1,0 +1,65 @@
+{
+  "id": "cesar-augusto-bordallo",
+  "tipo": "pessoa",
+  "nome": "César Augusto Bordallo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Médico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Dr. César Augusto Bordallo, médico e guitarrista da escola de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista da escola de Coimbra, no estilo de Artur Paredes, cujo repertório interpretava",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "Dr. César Augusto Bordallo, médico e guitarrista da escola de Coimbra (no estilo de Artur Paredes, cujo reportório interpretava)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Deu lições de guitarra a Pedro Caldeira Cabral (anos seguintes a 1958)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "pedro-caldeira-cabral",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "tendo nos anos seguintes recebido lições do Dr. César Augusto Bordallo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Excerto autobiográfico de Pedro Caldeira Cabral, «A Guitarra Portuguesa» (Ediclube, 1999), pp. 271-279, reproduzido na página do Museu do Fado."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

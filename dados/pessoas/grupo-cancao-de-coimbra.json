@@ -1,0 +1,239 @@
+{
+  "id": "grupo-cancao-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Grupo Canção de Coimbra",
+  "nomes_alternativos": [
+    "Canção de Coimbra (grupo da TAUC)",
+    "Grupo de Fados Canção de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "A par da aprendizagem musical forma, no seio da TAUC, o Grupo Canção de Coimbra, passando a apresentar-se com regularidade nos principais eventos académicos, em diversos espectáculos por todo o país e estrangeiro destacando-se as presenças nas digressões a França, Eslováquia e Macau."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+      "doc": "gc-i:111386707668512688",
+      "citacao": "Os elementos da formação Canção de Coimbra, activos na Academia de Coimbra entre 1995-1999, afirmaram-se no seio da TAUC"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+      "doc": "gc-i:111386707668512688",
+      "citacao": "A conclusão das formaturas e a dispersão geo-profissional ditaram uma espécie de pousio voluntário encerrado em 2002 com a definição de objectivos apostados no campo da inovação."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+      "doc": "gc-i:111386707668512688",
+      "citacao": "Por onde nos levam o barítono Jorge Machado, os guitarristas Fernando Marques/Pedro Nunes, o viola Manuel Vaz, o cravista Nuno Oliveira, vencedores que foram da primeira edição do Prémio de Inéditos Edmundo Bettencourt 2004?"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+      "doc": "gc-i:115513431538098899",
+      "citacao": "Este disco foi galardoardo com o 1º Prémio de Inéditos Edmundo Bettencourt da Câmara Municipal de Coimbra em 2004, tendo aparecido no mercado durante o 1º semestre de 2005."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "formado no seio da TAUC por Fernando Marques, que começara a aprender guitarra em 1992",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "A par da aprendizagem musical forma, no seio da TAUC, o Grupo Canção de Coimbra, passando a apresentar-se com regularidade nos principais eventos académicos, em diversos espectáculos por todo o país e estrangeiro destacando-se as presenças nas digressões a França, Eslováquia e Macau."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "ativo na Academia de Coimbra entre 1995 e 1999, no seio da TAUC; digressões a França, Eslováquia e Macau",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Os elementos da formação Canção de Coimbra, activos na Academia de Coimbra entre 1995-1999, afirmaram-se no seio da TAUC"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "A par da aprendizagem musical forma, no seio da TAUC, o Grupo Canção de Coimbra, passando a apresentar-se com regularidade nos principais eventos académicos, em diversos espectáculos por todo o país e estrangeiro destacando-se as presenças nas digressões a França, Eslováquia e Macau."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participação na coletânea «Baladas de Despedida – Anos 90»: Pedro Pimenta (canto), Francisco Dias Marques e Pedro Nunes (guitarras), José Carlos Nunes e Manuel João Vaz (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "“Grupo Canção de Coimbra” – Pedro Pimenta a cantar; Francisco Dias Marques e Pedro Nunes à guitarra; José Carlos Nunes e Manuel João Vaz à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "A coletânea escreve «Francisco Dias Marques»; a biografia do grupo no mesmo blogue (agosto de 2004) chama ao guitarrista Fernando Dias Marques. Confirmar se se trata da mesma pessoa."
+    },
+    {
+      "campo": "outro",
+      "valor": "pausa após as formaturas, encerrada em 2002",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "A conclusão das formaturas e a dispersão geo-profissional ditaram uma espécie de pousio voluntário encerrado em 2002 com a definição de objectivos apostados no campo da inovação."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Memorial de Edmundo de Bettencourt, Câmara Municipal de Coimbra, 1 de fevereiro de 2003",
+      "data": "2003-02-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Apresentei o espectáculo do grupo e ouvi-o com renovado agrado no dia 1 de Fevereiro de 2003, no Memorial de Edmundo de Bettencourt, promovido pela Câmara Municipal de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "1.º Prémio de Inéditos Edmundo Bettencourt (Câmara Municipal de Coimbra), julho de 2004",
+      "data": "2004-07",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Após a atribuição oficial do galardão, em Julho de 2004, durante as Festas da Cidade de da Rainha Santa"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Por onde nos levam o barítono Jorge Machado, os guitarristas Fernando Marques/Pedro Nunes, o viola Manuel Vaz, o cravista Nuno Oliveira, vencedores que foram da primeira edição do Prémio de Inéditos Edmundo Bettencourt 2004?"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em Julho de 2004, enquanto membro do Grupo Canção de Coimbra, vence a primeira edição do prémio Edmundo Bettencourt que teve como resultado a gravação e comercialização do trabalho discográfico “Prospecção”."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "Este disco foi galardoardo com o 1º Prémio de Inéditos Edmundo Bettencourt da Câmara Municipal de Coimbra em 2004, tendo aparecido no mercado durante o 1º semestre de 2005."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Prospecção» (2004, no mercado no 1.º semestre de 2005): Jorge Machado (voz), Fernando Marques e Pedro Nunes (guitarras), Manuel João Vaz (viola), arranjos de Nuno Oliveira",
+      "data": "2004",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "o CD \"Prospecção\", editado em 2004, com Jorge Machado (voz) e Fernando Marques/Pedro Nunes (gg) e Manuel João Vaz (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "Este disco foi galardoardo com o 1º Prémio de Inéditos Edmundo Bettencourt da Câmara Municipal de Coimbra em 2004, tendo aparecido no mercado durante o 1º semestre de 2005."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Por onde nos levam o barítono Jorge Machado, os guitarristas Fernando Marques/Pedro Nunes, o viola Manuel Vaz, o cravista Nuno Oliveira, vencedores que foram da primeira edição do Prémio de Inéditos Edmundo Bettencourt 2004?"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "ciclo «Tudo isto é Fado?», novembro de 2007, com Kátia Guerreiro",
+      "data": "2007-11",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em Novembro de 2007, participou no \"Ambassador’s Concert Series 2007/8\" a convite do Instituto Camões e da Embaixada de Portugal em Praga. No mesmo mês, participa no ciclo \"Tudo isto é Fado?\", integrando o Grupo Canção de Coimbra num espectáculo que contou, igualmente, com a presença da fadista Kátia Guerreiro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata de 2012 organizada pelo Fado ao Centro",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "- Grupo de Fados \"Canção de\nCoimbra\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "ORGANIZAÇÃO: Fado ao Centro® - Centro Cultural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Levar%20para%20frias...%20(2).jpg",
+      "legenda": "CD «Prospecção» (2004) do Grupo Canção de Coimbra, sugerido por Adamo Caetano.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "o CD \"Prospecção\", editado em 2004, com Jorge Machado (voz) e Fernando Marques/Pedro Nunes (gg) e Manuel João Vaz (v)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

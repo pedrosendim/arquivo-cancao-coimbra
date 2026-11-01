@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-anthero-da-veiga-hmv-eq-267-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0972_30.mp3",
+  "titulo": "Variações do fado em ré menor — Antero da Veiga",
+  "data": "",
+  "pessoas": [
+    "anthero-da-veiga",
+    "eugenio-da-veiga"
+  ],
+  "obras": [],
+  "gravacao": "anthero-da-veiga-hmv-eq-267",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1933.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1925/antero_da_veiga_variacoes_do_fado_em_re_menor",
+      "doc": "museu-do-fado:w2fbd42f3473c5b0c",
+      "citacao": "Título: Variações do fado em ré menor ... Editora: HMV EQ267; [30-3101] Referências: BJ2682-I∆, R, 1, 30-3101; EQ 267"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

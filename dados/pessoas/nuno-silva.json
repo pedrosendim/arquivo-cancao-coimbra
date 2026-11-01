@@ -1,0 +1,41 @@
+{
+  "id": "nuno-silva",
+  "tipo": "pessoa",
+  "nome": "Nuno Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela.html",
+          "doc": "gc-i:116468079034271080",
+          "citacao": "O Grupo Alma Mater em digressão pela Suiça. Nesta foto vemos Nuno Silva, um dos cantores do grupo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-de-fados-de-coimbra-_111913604845474988.html",
+          "doc": "gc-i:111913604845474988",
+          "citacao": "Grupo de Fados de Coimbra \"Alma Mater\", nas Galerias Almedina.\n\nNa foto, Fernando Marques e António Paulo Lopes, nos instrumentos. Nuno Silva a cantar."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Alma Mater\n\n6 - Balada da Torre D'Anto (Luiz Goes): Carlos Pedro\n\n7 - Canto do Amanhecer (Carlos Paredes): Nuno Cadete\n\n8 - Amar Incerto (Virgilio Caseiro): Nuno Silva"
+        }
+      ],
+      "nota": "voz; 2005-2006 e 2013"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

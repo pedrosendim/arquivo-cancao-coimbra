@@ -1,0 +1,50 @@
+{
+  "id": "deolinda-de-almeida-simoes",
+  "tipo": "pessoa",
+  "nome": "Deolinda de Almeida Simões",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "11 de agosto de 1922, freguesia da Sé Nova, Coimbra",
+      "data": "1922-08-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "criou sete filhos: ... Deolinda de Almeida Simões, nascida a 11 de Agosto de 1922"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "naturais da freguesia da Sé Nova, Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "raul-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "criou sete filhos: ... Deolinda de Almeida Simões, nascida a 11 de Agosto de 1922"
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe. Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

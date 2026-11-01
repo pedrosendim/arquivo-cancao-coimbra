@@ -1,0 +1,27 @@
+{
+  "id": "maria-manuel-fernandes",
+  "tipo": "pessoa",
+  "nome": "Maria Manuel Fernandes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "anarolino-pacheco-fernandes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/anarolino-fernandes.html",
+          "doc": "gc-v:8800037393532855262",
+          "citacao": "Sra. D. Maria Manuel Fernandes, viúva do engº Anarolino Fernandes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

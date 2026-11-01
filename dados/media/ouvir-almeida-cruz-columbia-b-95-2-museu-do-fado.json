@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-95-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0309_20.mp3",
+  "titulo": "Fado das Saudades — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-95",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0617.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/613/almeida_cruz_fado_das_saudades",
+      "doc": "museu-do-fado:wf0976b68af6319b9",
+      "citacao": "Título: Fado das Saudades ... Editora: Co. B-95 Referências: 11885; B95"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "joao-sousa",
+  "tipo": "pessoa",
+  "nome": "João Sousa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "presidente da Secção de Fado da AAC (2023)",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "De acordo com o presidente da Secção de Fado (SF/AAC), João Sousa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "De acordo com o presidente da Secção de Fado (SF/AAC), João Sousa"
+        }
+      ],
+      "nota": "Presidente da Secção (2023)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

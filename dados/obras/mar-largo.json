@@ -1,0 +1,42 @@
+{
+  "id": "mar-largo",
+  "titulo": "Mar Largo",
+  "titulos_alternativos": [
+    "Ó mar largo, ó mar largo"
+  ],
+  "genero": "fado",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Letra e música de Paulo de Sá",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Mar Largo\n\nLetra e música de Paulo de Sá"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "do Dr. Paulo Correia de Sá."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+      "doc": "gc-v:3115598909214321265",
+      "citacao": "MAR LARGO (Ó mar largo, ó mar largo), do Dr. Paulo Correia de Sá."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "viola-10-cordas-luis-filipe-roxo",
+  "designacao": "Viola de 10 cordas construída e tocada por Luís Filipe Roxo",
+  "tipo": "viola",
+  "construtor": "luis-filipe-roxo",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "luis-filipe-roxo",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Está com a viola de 10 cordas, uma obra sua."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Construída pelo próprio («uma obra sua»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Está com a viola de 10 cordas, uma obra sua."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZlwwsam3fBwLP_fH1tvy8mERVumcHfN3f4_LloRhHkeLZetuCrGOm3XyFWTVsL5ElLHx0QgSOBpv2e8NzFpQ8G-5UoxvaL4Mj9vyZm2ESjhiaezOV8CNdFkECUYzeF_aIBlyZjrZjxvL/s1600/Luis+Filipe+Coletanea+Tempos+de+Coimbra.jpg",
+      "legenda": "Luís Filipe Roxo com a viola de 10 cordas, obra sua (caderno dos LPs «Tempo(s) de Coimbra»; a foto está invertida).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Curiosamente, a foto está ao contrário. Puseram o Luís Filipe a tocar como canhoto. Está com a viola de 10 cordas, uma obra sua."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+      "doc": "gc-v:2633524903173911739",
+      "citacao": "Está com a viola de 10 cordas, uma obra sua."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

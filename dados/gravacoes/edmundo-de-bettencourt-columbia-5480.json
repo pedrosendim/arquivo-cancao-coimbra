@@ -1,0 +1,88 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-5480",
+  "titulo": "Fado dos Olhos claros / Alegria dos céus",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "5480",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Olhos claros",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5480-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Alegria dos céus",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5480-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Olhos claros», por Edmundo Bettencourt — etiqueta: «Fado dos Olhos Claros / (Letra de Edmundo Bettencourt / Música de Mário F. Fonseca) / Dr. Edmundo Bettencourt / acomp. de Guitarras e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/301/edmundo_bettencourt_fado_dos_olhos_claros",
+          "doc": "museu-do-fado:w68d8ffd07a4bd5eb",
+          "citacao": "Título: Fado dos Olhos claros ... Editora: Co. 5480 Referências: P470-I, W; 5480-B ... Etiqueta: Fado dos Olhos Claros / (Letra de Edmundo Bettencourt / Música de Mário F. Fonseca) / Dr. Edmundo Bettencourt / acomp. de Guitarras e Viola / "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Alegria dos céus», por Edmundo Bettencourt — etiqueta: «Alegria dos Céus / (Letra de Campos Figueiredo / Música de Mário F. Fonseca) / Dr. Edmundo de Bettencourt / acomp de Guitarras e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/300/edmundo_bettencourt_alegria_dos_ceus",
+          "doc": "museu-do-fado:wd870b1ca00668af8",
+          "citacao": "Título: Alegria dos céus ... Editora: Co. 5480, B, BL1000, GL106 Referências: P633-2, W; 5480-B ... Etiqueta: Alegria dos Céus / (Letra de Campos Figueiredo / Música de Mário F. Fonseca) / Dr. Edmundo de Bettencourt / acomp de Guitarras e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/301/edmundo_bettencourt_fado_dos_olhos_claros",
+      "doc": "museu-do-fado:w68d8ffd07a4bd5eb",
+      "citacao": "Título: Fado dos Olhos claros ... Editora: Co. 5480 Referências: P470-I, W; 5480-B"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/300/edmundo_bettencourt_alegria_dos_ceus",
+      "doc": "museu-do-fado:wd870b1ca00668af8",
+      "citacao": "Título: Alegria dos céus ... Editora: Co. 5480, B, BL1000, GL106 Referências: P633-2, W; 5480-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

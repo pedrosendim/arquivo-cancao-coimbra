@@ -1,0 +1,74 @@
+{
+  "id": "avelino-baptista-simplex-9052",
+  "titulo": "Fado Hilário",
+  "formato": "78rpm",
+  "editora": "Simplex",
+  "referencia": "9052",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-simplex-9052-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Hilário», por Avelino Baptista — etiqueta: «Fado Hilário / Avelino Baptista»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/219/avelino_baptista_fado_hilario",
+          "doc": "museu-do-fado:w90c2201d33c2f28f",
+          "citacao": "Título: Fado Hilário ... Editora: Simp. 9052 Referências: 4710A, E7U, 1201, 9052; 9052 ... Etiqueta: Fado Hilário / Avelino Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue refere esta gravação de Avelino Baptista (Simplex 9052) entre as do Fado Serenata do Hylário",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/em-cima-foto-central-retrato-de.html",
+          "doc": "gc-v:2477669935490166788",
+          "citacao": "pelo cantor Avelino Baptista, em Lisboa, a 4 de Maio de 1906 (Simplex 9052)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/219/avelino_baptista_fado_hilario",
+      "doc": "museu-do-fado:w90c2201d33c2f28f",
+      "citacao": "Título: Fado Hilário ... Editora: Simp. 9052 Referências: 4710A, E7U, 1201, 9052; 9052"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

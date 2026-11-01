@@ -1,0 +1,73 @@
+{
+  "id": "eugenio-maria-de-melo-alte-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Eugénio Maria de Melo Alte da Veiga",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "15 de setembro de 1935",
+      "data": "1935-09-15",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A 15 de Setembro de 1935, nasce Eugénio Maria de Melo Alte da Veiga, recentemente falecido a 5 de Março deste ano de 2014"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "5 de março de 2014",
+      "data": "2014-03-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A 15 de Setembro de 1935, nasce Eugénio Maria de Melo Alte da Veiga, recentemente falecido a 5 de Março deste ano de 2014"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A 15 de Setembro de 1935, nasce Eugénio Maria de Melo Alte da Veiga, recentemente falecido a 5 de Março deste ano de 2014"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-isabel-de-menezes-e-melo-vaz-de-sampaio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A 15 de Setembro de 1935, nasce Eugénio Maria de Melo Alte da Veiga, recentemente falecido a 5 de Março deste ano de 2014"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

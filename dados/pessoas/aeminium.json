@@ -1,0 +1,243 @@
+{
+  "id": "aeminium",
+  "tipo": "grupo",
+  "nome": "Aeminium",
+  "nomes_alternativos": [
+    "Grupo Aeminium",
+    "Grupo de Fados Aeminium",
+    "Grupo de Fado de Coimbra Aeminium",
+    "AEMINIUM Canção de Coimbra",
+    "Grupo de Fados Æminium"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+      "doc": "gc-i:111240318094235573",
+      "citacao": "Grupo “Aeminium” – João Nuno Farinha a cantar; João Pedro Monteiro e Tiago Cunha à guitarra; Pedro Cunha à viola."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/aeminium-grupo-de-fado-de-coimbra.html",
+      "doc": "gc-i:111861366803901000",
+      "citacao": "\"AEMINIUM\", Grupo de Fado de Coimbra. João Pedro Monteiro na guitarra, Pedro Cunha na viola; João Nuno Farinha e Luís Toscano no canto.\n\nFoto tirada do site deste grupo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+      "doc": "gc-i:1951383992681670585",
+      "citacao": "A Secção de Fado da AAC (ver http://www.seccaodefado.com/) promoveu Abril como o mês da Canção de Coimbra, com actuações no Café Santa Cruz. Ontem (dia 18/04/2007) actuou o Grupo Aeminium"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/o-grupo-aeminium-lana-o-seu-primeiro.html",
+      "doc": "gc-ii:5785571023326184502",
+      "citacao": "O grupo AEMINIUM lança o seu primeiro trabalho em Disco, no seu décimo aniversário. Diário de Coimbra de hoje, com texto de Joana Martins."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+      "doc": "gc-iii:8671632157540955508",
+      "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "participação na coletânea «Baladas de Despedida – Anos 90»: João Nuno Farinha (canto), João Pedro Monteiro e Tiago Cunha (guitarras), Pedro Cunha (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Aeminium” – João Nuno Farinha a cantar; João Pedro Monteiro e Tiago Cunha à guitarra; Pedro Cunha à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "desfile de moda noticiado no Diário de Coimbra (junho de 2005)",
+      "data": "2005-06",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/aeminium-grupo-de-fados-de-coimbra.html",
+          "doc": "gc-i:111800633692121811",
+          "citacao": "\"AEMINIUM, Grupo de Fados de Coimbra, abrilhantou o desfile\". É este o texto escrito por baixo desta foto, saída hoje no Diário de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Café Santa Cruz, 18 de abril de 2007, no mês da Canção de Coimbra promovido pela Secção de Fado da AAC",
+      "data": "2007-04-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "A Secção de Fado da AAC (ver http://www.seccaodefado.com/) promoveu Abril como o mês da Canção de Coimbra, com actuações no Café Santa Cruz. Ontem (dia 18/04/2007) actuou o Grupo Aeminium"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "Viola - Nuno Botelho\n\nGuitarra - João Pedro Monteiro\n\nVoz - Nuno Farinha\n\nVoz - José Daniel Vieira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuações na Quinta das Lágrimas (verão de 2007)",
+      "data": "2007",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/07/grupo-aeminium-cano-de-coimbra-na.html",
+          "doc": "gc-i:8836724558376487499",
+          "citacao": "Grupo AEMINIUM Canção de Coimbra na Quinta das Lágrimas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/o-grupo-aeminium-cano-de-coimbra.html",
+          "doc": "gc-i:4876757258878483664",
+          "citacao": "O grupo \"AEMINIUM Canção de Coimbra\" continua a actuar na Quinta das Lágrimas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Galeria Almedina, 2 de setembro de 2008 (serenatas de verão da Câmara)",
+      "data": "2008-09-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/para-quem-gosta-do-fadocano-de-coimbra.html",
+          "doc": "gc-ii:7056097420504653156",
+          "citacao": "2 de Setembro – Galeria Almedina – Aeminium - site em: http://www.aeminium.cc/"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "primeiro disco lançado em dezembro de 2008, no décimo aniversário do grupo",
+      "data": "2008-12",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/o-grupo-aeminium-lana-o-seu-primeiro.html",
+          "doc": "gc-ii:5785571023326184502",
+          "citacao": "O grupo AEMINIUM lança o seu primeiro trabalho em Disco, no seu décimo aniversário. Diário de Coimbra de hoje, com texto de Joana Martins."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/o-grupo-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:8320698419563466320",
+          "citacao": "O grupo de Guitarra e Canto de Coimbra AEMINIUM no lançamento do seu primeiro trabalho discográfico."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/aeminium.html",
+          "doc": "gc-iv:722478390244384563",
+          "citacao": "Disco do grupo AEMINIUM, que só agora veio ao meu conhecimento. No CD aparece a data de 2008. Encontra-se à venda no Fado ao Centro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Adro da Igreja de Santa Cruz, 18 de agosto de 2009: João Pedro Monteiro (guitarra), Pedro Cunha (viola), João Nuno Farinha, José Vilhena e Luís Toscano (voz)",
+      "data": "2009-08-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata de 2012 organizada pelo Fado ao Centro",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "- Grupo de Fados \"Aeminium\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "ORGANIZAÇÃO: Fado ao Centro® - Centro Cultural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAdGaNa48WZtIdny5OoYNKW0bq3UjuSoMSE00Habac0mmHtIX8AjS75sx5xW1oaC0HacMeOci6Md2Qsa9H7nyJArerpKjHM5wIscA8sQjfyQ9vTH3DaAj2q-7Mhj7k2ZvITttmMJmqyQU/s1600-h/AEMINIUMJPMonteiroPCunhaJNFarinhaLToscano.jpg",
+      "legenda": "Grupo de Fados Æminium (cartaz de agosto de 2009): João Pedro Monteiro (guitarra), Pedro Cunha (viola), João Nuno Farinha, José Vilhena e Luís Toscano (voz).",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/AEMINIUM%20Grupo%20Monteiro%20foto%20Lyon%202000.jpg",
+      "legenda": "Aeminium, foto do site do grupo: João Pedro Monteiro (guitarra), Pedro Cunha (viola), João Nuno Farinha e Luís Toscano (canto).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/aeminium-grupo-de-fado-de-coimbra.html",
+          "doc": "gc-i:111861366803901000",
+          "citacao": "\"AEMINIUM\", Grupo de Fado de Coimbra. João Pedro Monteiro na guitarra, Pedro Cunha na viola; João Nuno Farinha e Luís Toscano no canto.\n\nFoto tirada do site deste grupo."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqNc6ujGqB0SHT572O_HGFBCTmoScwbbS1A6tEpIObY0HrURh25h0Ro72NDT4OWre41-7bfey2Q8xIN6gvtZe50QNCmfwnMEjviiCBvSIfG1GsDMPd6TGb_B0YFh5OLRk4B2Y/s1600-h/Aeminium+1.jpg",
+      "legenda": "Grupo Aeminium no Café Santa Cruz, 18 de abril de 2007 (foto de Rui Lopes).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "A Secção de Fado da AAC (ver http://www.seccaodefado.com/) promoveu Abril como o mês da Canção de Coimbra, com actuações no Café Santa Cruz. Ontem (dia 18/04/2007) actuou o Grupo Aeminium"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

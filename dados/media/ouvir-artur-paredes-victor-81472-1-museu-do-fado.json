@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-artur-paredes-victor-81472-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0684_13.mp3",
+  "titulo": "Variações em lá menor — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes"
+  ],
+  "obras": [],
+  "gravacao": "artur-paredes-victor-81472",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1362.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1351/artur_paredes_variacoes_em_la_menor",
+      "doc": "museu-do-fado:w77f668ba83337c68",
+      "citacao": "Título: Variações em lá menor ... Editora: Vi.81472, HMV EQ88, Referências: BJ763-II∆, VE, 3, D, 46819; 81472-A"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

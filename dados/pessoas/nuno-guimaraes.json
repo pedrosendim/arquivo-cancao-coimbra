@@ -1,0 +1,103 @@
+{
+  "id": "nuno-guimaraes",
+  "tipo": "pessoa",
+  "nome": "Nuno Guimarães",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra de Coimbra no EP Baladas por António Bernardino (Ofir AM 4.102, 1967)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+          "doc": "gc-v:5310750683617065434",
+          "citacao": "EP BALADAS POR ANTÓNIO BERNARDINO, Porto, Ofir AM 4.102, 1967, com António Bernardino (voz), Nuno Guimarães (gC) e Rui Pato (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1942",
+      "data": "1942",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "o Ciclo Nuno Guimarães (1942-1973) que decorreu entre 1965 e 1968"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1973",
+      "data": "1973",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "o Ciclo Nuno Guimarães (1942-1973)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "«Ciclo Nuno Guimarães» (1965-1968): guitarrista, compositor e poeta cuja obra foi gravada nas vozes de António Bernardino, José Manuel dos Santos e Mário Soares da Veiga, segundo Jorge Cravo",
+      "data": "1965",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Ao Ciclo dos Melos, seguiu-se o Ciclo Nuno Guimarães, guitarrista, compositor e poeta, que desenvolveu uma temática musical e textual original, gravada nas vozes de António Bernardino (1941-1996), José Manuel dos Santos (1943-1989) e Mário Soares da Veiga (n. 1945). Renovação não só numa lírica de grande depuração da palavra, com poemas longe das duas quadras e algum sentido interventivo, mas também, no acompanhamento, com a guitarra a permitir a primazia da viola em algumas passagens instrumentais"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O mesmo blogue cita o estudo de Cravo de 2009 (pp. 89-102) sobre a obra de Nuno Guimarães."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "albertina-de-oliveira-guimaraes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "O tema constitui homenagem à mãe do artista, Albertina de Oliveira Guimarães."
+        }
+      ],
+      "nota": "Ficha da composição «Elegia à Mãe», de Nuno Guimarães; «o artista» é o autor."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Nuno%20Guimares%202.jpg",
+      "legenda": "Nuno Guimarães. Foto tirada do livro «Recordando Nuno Guimarães»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/nuno-guimares_20.html",
+          "doc": "gc-i:111403608347662110",
+          "citacao": "Nuno Guimarães. Foto tirada do livro \"Recordando Nuno Guimarães\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

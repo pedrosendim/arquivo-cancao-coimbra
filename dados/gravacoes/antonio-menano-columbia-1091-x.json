@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-columbia-1091-x",
+  "titulo": "Carta d'aldeia / Fado Manassés",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1091X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Carta d'aldeia",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1091-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Manassés",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1091-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Carta d'aldeia», por António Menano — etiqueta: «Carta d’Aldeia / António Menano / Com Acompanhamento de / Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1197/antonio_menano_carta_daldeia",
+          "doc": "museu-do-fado:wc5128c6a3275e091",
+          "citacao": "Título: Carta d'aldeia ... Editora: Co.1091X Referências: 194466, W, 1-A-2; G-1091-X ... Etiqueta: Carta d’Aldeia / António Menano / Com Acompanhamento de / Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Manassés», por António Menano — etiqueta: «Fado Manasses  / Antonio Menano  / com acompanhamento de  / Guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1196/antonio_menano_fado_manasses",
+          "doc": "museu-do-fado:w5c6f6764a16ec0e7",
+          "citacao": "Título: Fado Manassés ... Editora: Co.1091X, EMI2605983,HTCD31 Referências: 194467, W, 1-A-2; G-1091-X ... Etiqueta: Fado Manasses  / Antonio Menano  / com acompanhamento de  / Guitarra e viola "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1197/antonio_menano_carta_daldeia",
+      "doc": "museu-do-fado:wc5128c6a3275e091",
+      "citacao": "Título: Carta d'aldeia ... Editora: Co.1091X Referências: 194466, W, 1-A-2; G-1091-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1196/antonio_menano_fado_manasses",
+      "doc": "museu-do-fado:w5c6f6764a16ec0e7",
+      "citacao": "Título: Fado Manassés ... Editora: Co.1091X, EMI2605983,HTCD31 Referências: 194467, W, 1-A-2; G-1091-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

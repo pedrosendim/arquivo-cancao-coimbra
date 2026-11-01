@@ -1,0 +1,33 @@
+{
+  "id": "ouvir-artur-paredes-movieplay-2003-7-soundcloud",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio/rapsodia-n-2-de-artur-paredes",
+  "titulo": "Cantares Portugueses — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes",
+    "armenio-silva"
+  ],
+  "obras": [
+    "rapsodia-n-2-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-movieplay-2003",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Escuta em contexto educativo (ficheiros preparados por Octávio Sérgio): ... https://soundcloud.com/oct-vio-s-rgio/rapsodia-n-2-de-artur-paredes"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "7 - Cantares Portugueses, música Artur Paredes (sic). Título errado, trata-se da versão definitiva aprovada, Rapsódia n.º 2."
+    }
+  ],
+  "nota": "Segundo o blogue, a faixa 7 do CD tem título errado e é a Rapsódia n.º 2; liga-se o ficheiro «Rapsódia n.º 2» do mesmo post, que não indica de que disco foi tirado.",
+  "estado_revisao": "rascunho"
+}

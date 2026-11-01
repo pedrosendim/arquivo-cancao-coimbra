@@ -1,0 +1,81 @@
+{
+  "id": "armando-de-carvalho-homem",
+  "tipo": "pessoa",
+  "nome": "Armando de Carvalho Homem",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Viseu (freguesia Oriental), 29 de setembro de 1923",
+      "data": "1923-09-29",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Armando de Carvalho Homem nasceu em Viseu a 29 de Setembro de 1923 (freguesia Oriental), sendo o mais novo de 6 irmãos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia escrita pelo filho, Armando Luís de Carvalho Homem («o autor destas linhas»), publicada no blogue II (2008)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1991",
+      "data": "1991",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+          "doc": "gc-i:111413526000163649",
+          "citacao": "Armando de Carvalho Homem(1923-1991):"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Chegou a Coimbra em 1940 para cursar Ciências Físico-Químicas",
+      "data": "1940",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "em 1940 chegou a Coimbra para cursar Ciências Físico-Químicas"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O mais novo de 6 irmãos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "sendo o mais novo de 6 irmãos"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não nomeia os irmãos."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "O «Armando Carvalho Homem» autor das «Variações em ré menor» (A Música Portuguesa a Gostar Dela Própria, 2018) é este Armando de Carvalho Homem (1923–1991), e não o filho: identificação confirmada pelo editor do arquivo (29-10-2026)."
+}

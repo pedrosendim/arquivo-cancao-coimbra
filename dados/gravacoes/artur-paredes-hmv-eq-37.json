@@ -1,0 +1,113 @@
+{
+  "id": "artur-paredes-hmv-eq-37",
+  "titulo": "Fado Hilário / Variações em Si Menor",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 37",
+  "ano": "1927",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra (solista)"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": ["ouvir-artur-paredes-hmv-eq-37-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Si Menor",
+      "obra": "variacoes-em-si-menor-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-37-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkQ8KjKGD0pKawzN_RGVfY3FBPweMHisqUNXw-gNAk_3-hUfc8nSDrgv7o03DO9KvTuRbra-45CTupbEHqLtZk0dMD23UuD03xk29l9xr2p8ucjiSjkuklCeuKiEmSgiDWfvNzzDsPY0HO/s1600/111a+Rodela+A.+Paredes+-+Fado+Hil%25C3%25A1rio+%2528p%2529+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Disco de 78 rpm HMV E. Q. 37, FADO HILARIO [MODERNO], música de Augusto Hilário da Costa Alves e Manassés de Lacerda."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Lisboa, maio de 1927 (Fado Hilário: 18 de maio de 1927)",
+      "data": "1927-05",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "A.1 - Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice com várias edições: B 4698; E.Q. 37, 7-69263; e M. H. 34. Gravado em Lisboa a 18.05.1927."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedições dos mesmos masters: HMV B 4698 e M.H. 34",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice, B 4698 - master 7-69263 – Fado Hilário. - master 7-69264 – Variações em Si Menor."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice, M.H. 34 - master 7-69263 – Fado Hilário. - master 7-69264 – Variações em Si Menor. Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, E.Q. 37 - master 7-69263 – Fado Hilário. Autoria omissa. Refere os instrumentistas. - master 7-69264 – Variações em Si Menor. Refere o autor e os instrumentistas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

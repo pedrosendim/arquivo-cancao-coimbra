@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136806-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0592_26.mp3",
+  "titulo": "Fado Manassés — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136806",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1177.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1169/antonio_menano_fado_manasses",
+      "doc": "museu-do-fado:w293f6af741f48318",
+      "citacao": "Título: Fado Manassés ... Editora: Od. 187.500 A, EMI260593,EMICD8364452"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

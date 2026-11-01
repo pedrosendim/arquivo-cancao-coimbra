@@ -1,0 +1,61 @@
+{
+  "id": "jose-maria-dos-santos",
+  "tipo": "pessoa",
+  "nome": "José Maria dos Santos",
+  "nomes_alternativos": [
+    "Rei-Preto"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cunhado de Flávio Rodrigues",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José Maria dos Santos, de alcunha “Rei-Preto”, jornalista, funcionário da Biblioteca da Universidade, cunhado e acompanhador de Flávio Rodrigues em violão"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Cunhado» não tem tipo de relação próprio; a fonte não diz por que lado."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José Maria dos Santos, de alcunha “Rei-Preto”, jornalista, funcionário da Biblioteca da Universidade, cunhado e acompanhador de Flávio Rodrigues em violão (15-08-1906; 19-05-1976);"
+        }
+      ],
+      "nota": "A fonte diz também que era cunhado de Flávio Rodrigues (parentesco sem tipo de relação próprio no esquema)."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

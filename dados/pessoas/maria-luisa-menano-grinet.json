@@ -1,0 +1,44 @@
+{
+  "id": "maria-luisa-menano-grinet",
+  "tipo": "pessoa",
+  "nome": "Maria Luísa Menano Grinet",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Professora em Aveiro",
+      "data": "",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Dos seus tempos de estudante de Coimbra, ficou-lhe uma filha de nome Maria Luísa Menano Grinet, casada em Mira, e que foi professora em Aveiro. Esta filha, fora dum casamento, foi por ele perfilhada e tratada com todo o carinho, inclusive foi herdeira como a sua irmã mais nova, Maria Manuela Menano, essa sim, filha do seu casamento com a Sra. D. Maria Manuela dos Reis Menano."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "francisco-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Dos seus tempos de estudante de Coimbra, ficou-lhe uma filha de nome Maria Luísa Menano Grinet, casada em Mira, e que foi professora em Aveiro. Esta filha, fora dum casamento, foi por ele perfilhada e tratada com todo o carinho, inclusive foi herdeira como a sua irmã mais nova, Maria Manuela Menano, essa sim, filha do seu casamento com a Sra. D. Maria Manuela dos Reis Menano."
+        }
+      ],
+      "nota": "Filha fora do casamento, perfilhada pelo pai."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

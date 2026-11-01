@@ -1,0 +1,223 @@
+{
+  "id": "ulisses-gracio",
+  "tipo": "pessoa",
+  "nome": "Ulisses Grácio",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+      "doc": "museu-do-fado:w9d7abd091eecb8d2",
+      "citacao": "Foi na Guitarraria Leiriense que os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "there is one glued to the interior right side which states \"Ulisses 1964\". This guitarra Made in Lisbon, Portugal. I showed photos of this instrument to my friend in Lisbon who recognized it as a Ulisses Gracio Guitar."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Ulisses was one of the famous Gracio family, other family members were Kim Gracio, Joao Pedro Gracio, Joao Pedro Gracio Junior."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Iniciou-se na arte na Guitarraria Leiriense, com os irmãos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "Foi na Guitarraria Leiriense que os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte, aperfeiçoando a construção do instrumento em diálogo constante com músicos de várias gerações."
+        }
+      ],
+      "conflito": false,
+      "nota": "O mesmo texto do Museu do Fado diz que «cinco dos doze filhos» foram construtores, mas nomeia seis filhos iniciados na arte; não diz qual não o foi."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra de Lisboa com rótulo «Ulisses 1964», reconhecida como guitarra de Ulisses Grácio",
+      "data": "1964",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "one glued to the interior right side which states \"Ulisses 1964\""
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "recognized it as a Ulisses Gracio Guitar"
+        }
+      ],
+      "conflito": false,
+      "nota": "Exemplar da coleção Fernandez Music; a atribuição é de um amigo de Lisboa do autor da página. Ficha do instrumento: guitarra-ulisses-gracio-1964."
+    },
+    {
+      "campo": "outro",
+      "valor": "Membro da família Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Ulisses was one of the famous Gracio family, other family members were Kim Gracio, Joao Pedro Gracio, Joao Pedro Gracio Junior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construtor de guitarras de Lisboa com ilhargas em «quilha de barco»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/o-formato-de-quilha-de-barco.html",
+          "doc": "gc-v:3366306970773074898",
+          "citacao": "exemplares construídos por Ulisses Grácio, João Palmeiro, Kim Grácio, João Pedro Grácio Júnior, Santos Beirão, Manuel Cardoso e Óscar Cardoso"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez (página revista a 10 de janeiro de 2019), todos os Grácio construtores de instrumentos já tinham morrido, exceto Gilberto Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Revised: January 10, 2019. ... All of the instrument building Gracios are now deceased except for Gilberto Gracio"
+        }
+      ],
+      "conflito": false,
+      "nota": "Afirmação coletiva sobre os Grácio construtores; a página não dá a data da morte de Ulisses."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "O «Ulisses» filho de João Pedro Grácio (José Lúcio; Museu do Fado) e o construtor «Ulisses Grácio» (Fernandez Music; blogue V) tratam-se aqui como a mesma pessoa: o Museu do Fado diz que Ulisses se iniciou na arte e a Fernandez Music que era da família Grácio. Confirmado pelo editor do arquivo (29-10-2026)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "margarida-de-jesus",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        }
+      ],
+      "nota": "A mãe só é nomeada expressamente para Joaquim («Filho de João Pedro Grácio e Margarida de Jesus»). A mesma página diz que os 12 filhos, entre eles este, nasceram «do seu casamento» (de João Pedro Grácio); a ligação à mãe resulta da leitura conjunta das duas frases. Confirmado pelo editor do arquivo (29-10-2026)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joao-pedro-gracio-junior",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joaquim-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "victor-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Portuguese Guitar Collection",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota_editor": "O «Ulisses» filho de João Pedro Grácio e o construtor «Ulisses Grácio» são a mesma pessoa: identificação confirmada pelo editor do arquivo (29-10-2026)."
+}

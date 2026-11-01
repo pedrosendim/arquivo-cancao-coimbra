@@ -1,0 +1,47 @@
+{
+  "id": "guilherme-ala",
+  "tipo": "pessoa",
+  "nome": "Guilherme Ala",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+      "doc": "jornal-a-cabra:w31744dde946cd5f4",
+      "citacao": "Manuel Coroa e Guilherme Ala, dois nomes de referência do fado de Coimbra, foram chamados a participar junto do grupo para interpretar “Canto a quem escutar” e “Desengano”."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Convidado do grupo Insígnia, com Manuel Coroa, na gala do XVIII Mês do Fado da Secção de Fado da AAC, Teatro Académico de Gil Vicente (25 de novembro): «Canto a quem escutar» e «Desengano»",
+      "data": "2022-11-25",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "No dia 25 de novembro, no Teatro Académico Gil Vicente, decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "De seguida, o grupo Insígnia apresentou alguns temas próprios dos últimos anos. ... Manuel Coroa e Guilherme Ala, dois nomes de referência do fado de Coimbra, foram chamados a participar junto do grupo"
+        }
+      ],
+      "conflito": false,
+      "nota": "A notícia (A Cabra, 26-11-2022) não diz se canta ou toca."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Notícia de A Cabra (26-11-2022)",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

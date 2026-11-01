@@ -1,0 +1,100 @@
+{
+  "id": "armando-goes-hmv-eq-170",
+  "titulo": "Fado da Vida / Fado Espanhol",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "EQ 170",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "armando-goes",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Vida",
+      "obra": "",
+      "media": [
+        "ouvir-armando-goes-hmv-eq-170-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Espanhol",
+      "obra": "",
+      "media": [
+        "ouvir-armando-goes-hmv-eq-170-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Vida», por Armando Goes — etiqueta: «Fado da Vida / (Goes) / Armando Goes / com acomp. de Guitarra / Tenor»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/856/armando_goes_fado_da_vida",
+          "doc": "museu-do-fado:w6603830f46c2839a",
+          "citacao": "Título: Fado da Vida ... Editora: HMV EQ170, Vi.33003 Referências: BJ79-I∆, R, 1, 7-62223; EQ 170 ... Etiqueta: Fado da Vida / (Goes) / Armando Goes / com acomp. de Guitarra / Tenor"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wb3f048643580bc71"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Espanhol», por Armando Goes — etiqueta: «Fado Hespanhol  / (Menano) / Armando Goes  / com acomp. de Guitarras  / Tenor»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/857/armando_goes_fado_espanhol",
+          "doc": "museu-do-fado:w73d29a5bd1f9b877",
+          "citacao": "Título: Fado Espanhol ... Editora: HMV EQ170, Vi.33003 Referências: BN80-IV∆, R, 1, 7-62224; EQ 170 ... Etiqueta: Fado Hespanhol  / (Menano) / Armando Goes  / com acomp. de Guitarras  / Tenor "
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wcd1c154cdf1b3a11"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/856/armando_goes_fado_da_vida",
+      "doc": "museu-do-fado:w6603830f46c2839a",
+      "citacao": "Título: Fado da Vida ... Editora: HMV EQ170, Vi.33003 Referências: BJ79-I∆, R, 1, 7-62223; EQ 170"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2074/armando_goes_fado_da_vida",
+      "doc": "museu-do-fado:wb3f048643580bc71",
+      "citacao": "Título: Fado da Vida ... Editora: HMV EQ170 Referências: BN79-I∆, R, 1, 7-62223; EQ 170"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/857/armando_goes_fado_espanhol",
+      "doc": "museu-do-fado:w73d29a5bd1f9b877",
+      "citacao": "Título: Fado Espanhol ... Editora: HMV EQ170, Vi.33003 Referências: BN80-IV∆, R, 1, 7-62224; EQ 170"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2075/armando_goes_fado_espanhol",
+      "doc": "museu-do-fado:wcd1c154cdf1b3a11",
+      "citacao": "Título: Fado Espanhol ... Editora: HMV EQ170, Vi.33003 Referências: BN80-IV∆, R, 1, 7-62224; EQ 170"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-jose-afonso-rapsodia-epf-5182-1962-3-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=dpshHCfc7G4",
+  "titulo": "No Lago do Breu — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "rui-pato"
+  ],
+  "obras": [
+    "no-lago-do-breu"
+  ],
+  "gravacao": "jose-afonso-rapsodia-epf-5182-1962",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=dpshHCfc7G4"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: «José Afonso - \"No lago do breu\" do disco \"Baladas de Coimbra\" (EP 1962)»",
+  "estado_revisao": "rascunho"
+}

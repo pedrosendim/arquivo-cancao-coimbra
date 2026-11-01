@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-simplex-9147-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0115_49.mp3",
+  "titulo": "Fado Novo de Coimbra — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-simplex-9147",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0231.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/225/avelino_baptista_fado_novo_de_coimbra",
+      "doc": "museu-do-fado:w138e10eb0d45623a",
+      "citacao": "Título: Fado Novo de Coimbra ... Editora: Simp. 9147 Referências: 4210A, E25U, 9147; 9147"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

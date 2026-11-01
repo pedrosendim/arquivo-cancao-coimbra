@@ -1,0 +1,63 @@
+{
+  "id": "guitarra-raul-simoes-afonso-de-sousa",
+  "designacao": "Primitiva guitarra toeira de Coimbra de Afonso de Sousa, da oficina de Raul Simões (Museu Académico)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "afonso-de-sousa",
+      "periodo": "tempos de estudante",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Em 1º plano vemos a primitiva Guitarra Toeira de Coimbra regularmente utilizada por Afonso de Sousa nos tempos de estudante."
+        }
+      ],
+      "nota": "O post diz «regularmente utilizada»."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Proveniente da oficina de Raul Simões, «vincadamente anos 20», com a ilharga danificada; exposta no Museu Académico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "É um cordofone proveniente da oficina de Raul Simões, vincadamente anos 20, com a ilharga danificada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarras%20de%20Afonso%20de%20Sousa.jpg",
+      "legenda": "Expositor do Museu Académico dedicado a Afonso de Sousa: em primeiro plano, a guitarra toeira de Raul Simões.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Aspecto do expositor do Museu Académico dedicado ao Afonso de Sousa."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+      "doc": "gc-i:113883259360177144",
+      "citacao": "Em 1º plano vemos a primitiva Guitarra Toeira de Coimbra regularmente utilizada por Afonso de Sousa nos tempos de estudante."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

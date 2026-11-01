@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-zonophone-x-52033-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0321_06.mp3",
+  "titulo": "Fado Polémico — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-zonophone-x-52033",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0642.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/636/almeida_cruz_fado_polemico",
+      "doc": "museu-do-fado:we06726ece6dcd01e",
+      "citacao": "Título: Fado Polémico ... Editora: Zo. X52033 Referências: 8261fi, X52033; X-52033"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

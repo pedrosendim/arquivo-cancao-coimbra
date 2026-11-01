@@ -1,0 +1,79 @@
+{
+  "id": "guitarra-raul-simoes-antonio-carvalhal-1937",
+  "designacao": "Guitarra toeira de Coimbra de António Carvalhal, fabricada em 1937 por Raul Simões (voluta em lágrima)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "1937",
+  "proprietarios": [
+    {
+      "pessoa": "antonio-carvalhal",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+          "doc": "gc-i:111706514803399736",
+          "citacao": "Pertenceu ao guitarrista António Carvalhal."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada em 1937 por Raul Simões; ilharga baixa, escala de 17 pontos, voluta em lágrima",
+      "data": "1937",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+          "doc": "gc-i:111706514803399736",
+          "citacao": "Guitarra Toeira de Coimbra, de ilharga baixa, escala de 17 pontos, e voluta em lágrima, fabricada por Raul Simões em 1937."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post (gc-i, 07.01.2006) descreve a guitarra de António Carvalhal como fabricada em 1933, com voluta oval. As fontes não dizem se é o mesmo instrumento; ver guitarra-raul-simoes-antonio-carvalhal-1933."
+    },
+    {
+      "campo": "outro",
+      "valor": "Em excelente estado de conservação em 1998",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+          "doc": "gc-i:111706514803399736",
+          "citacao": "Encontrava-se em excelente estado de conservação quando a fotografei em 1998."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Guitarra%20Carvalhal.jpg",
+      "legenda": "Guitarra de António Carvalhal: guitarra toeira de Coimbra fabricada por Raul Simões em 1937 (foto de António M. Nunes, 1998).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+          "doc": "gc-i:111706514803399736",
+          "citacao": "Guitarra de António Carvalhal"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+      "doc": "gc-i:111706514803399736",
+      "citacao": "Foto e texto enviados por António M. Nunes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

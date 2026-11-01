@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-jose-afonso-melodia-15090-1953-1-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/contos-velhinhos/835663008?i=835663104",
+  "titulo": "Contos Velhinhos — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-brojo",
+    "antonio-portugal",
+    "aurelio-dos-reis",
+    "mario-de-castro"
+  ],
+  "obras": [
+    "contos-velhinhos"
+  ],
+  "gravacao": "jose-afonso-melodia-15090-1953",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a7/d1/33/a7d133ff-2e07-4372-4856-210437808e0d/888608750639.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/contos-velhinhos/835663008?i=835663104"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Contos Velhinhos - Single», ℗ 2014 Entertain Me Europe LTD). Não se sabe se é a mesma gravação desta edição.",
+  "estado_revisao": "rascunho"
+}

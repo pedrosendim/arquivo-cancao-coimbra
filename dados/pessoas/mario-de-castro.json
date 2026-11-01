@@ -1,0 +1,70 @@
+{
+  "id": "mario-de-castro",
+  "tipo": "pessoa",
+  "nome": "Mário de Castro",
+  "nomes_alternativos": [
+    "Mário Henriques de Castro",
+    "Mário Castro"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Mário Henriques de Castro (1918-1999), agrónomo, diplomado pela Escola Agrária de Coimbra, executante de violão de cordas de aço"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "em 1954 levou ao afastamento do viola Mário Castro"
+        }
+      ],
+      "nota": "violão de cordas de aço; afastou-se em 1954"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/jose-afonso-o-sol-anda-la-no-ceu.html",
+          "doc": "gc-v:4113461501992610287",
+          "citacao": "Aurélio dos Reis/Mário Castro (violões de cordas de aço)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv)"
+        }
+      ],
+      "nota": "Viola nas gravações Melodia de 1952-1953."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcygnTWQhLTW8bZtAVSYc-3ix09HsqjE8rDpXBtOA1wDffvTBV-7TNspkW9MAkgLeIytz046_La1k-wky9L_oiCb1DL4P-fxzMQfUs6N9UxJj2oduGqM-eHiEFFeHyRqGVLaNev3pt4e4X/s1600/Mario+de+Castro.jpg",
+      "legenda": "Mário de Castro (1918-2003), violista, guitarrista e cantor. Fotografia retirada do livro «Fado de Coimbra II», de José Niza (Ediclube, 1999), p. 261",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "MÁRIO DE CASTRO (1918 – 2003). Violista, guitarrista, cantor ... A fotografia apresentada foi retirada do livro “Fado de Coimbra II”, de José Niza"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "coimbra-quintet-philips-p-10141-r",
+  "titulo": "Serenata de Coimbra",
+  "formato": "LP",
+  "editora": "Philips",
+  "referencia": "P 10141 R",
+  "ano": "1958",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "coimbra-quintet",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "violão"
+    },
+    {
+      "pessoa": "levi-baptista",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Estudante",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-1-spotify"]
+    },
+    {
+      "n": 2,
+      "titulo": "Aguarela Portuguesa",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Mi Deseo (O Meu Desejo)",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-3-youtube"]
+    },
+    {
+      "n": 4,
+      "titulo": "Toada Beirã",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-4-apple-music"]
+    },
+    {
+      "n": 5,
+      "titulo": "Balada de Coimbra",
+      "obra": "balada-de-coimbra",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-5-apple-music"]
+    },
+    {
+      "n": 6,
+      "titulo": "Serra d'Arga",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-6-youtube"]
+    },
+    {
+      "n": 7,
+      "titulo": "Fado Triste",
+      "obra": "",
+      "media": [
+        "disco-coimbra-quintet-philips-p-10141-r-fado-triste"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Variações em Ré Menor",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-p-10141-r-8-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/bTjFK2eyFUjh3812C77Xde15DdtHkTAfKWmQO1U_-EY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTIw/NzktMTQ2NDYzMjUz/My0xMDU0LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/8452079",
+        "doc": "discogs:w0a8482a9d9ad7fcb",
+        "citacao": "Imagem (primary): https://i.discogs.com/bTjFK2eyFUjh3812C77Xde15DdtHkTAfKWmQO1U_-EY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTIw/NzktMTQ2NDYzMjUz/My0xMDU0LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/70EZIMDzEvy8gUv5mMR3pt",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/8452079",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 10\", 33 ⅓ RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8452079",
+          "doc": "discogs:w0a8482a9d9ad7fcb",
+          "citacao": "Formato: 1 × Vinyl, 10\", 33 ⅓ RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Europe",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8452079",
+          "doc": "discogs:w0a8482a9d9ad7fcb",
+          "citacao": "País: Europe"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1958 (Discogs)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8452079",
+          "doc": "discogs:w0a8482a9d9ad7fcb",
+          "citacao": "Data: 1958"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Madrid, teatro Príncipe Real, inícios de março de 1957 (blogue)",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "registos fonográficos tiveram lugar em Madrid, no teatro Príncipe Real, nos inícios de março de 1957."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Luiz Goes (barítono), António Portugal (1.ª guitarra), Jorge Godinho (2.ª guitarra), Manuel Pepe e Levi Baptista (violões de cordas de aço)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Luiz Fernando de Sousa Pires de Goes (1933-2012), barítono solista, acompanhado por António Jorge Moreira Portugal (1931-1994), solista de guitarra de Coimbra de concerto; António Jorge Maia Godinho Marques (1935-1972), 2.º executante de guitarra de Coimbra de concerto; Manuel Gomes Pepe (1930-2008?, violão de cordas de aço), Levi Casimiro Baptista (violão de cordas de aço)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Madrid, março de 1957, editado em 1958 (Discogs)",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8452079",
+          "doc": "discogs:w0a8482a9d9ad7fcb",
+          "citacao": "Recorded in Madrid March 1957 and released in 1958."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Designação «Coimbra Quintet» escolhida para o Grupo de António Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Foi necessário escolher um nome mediático para o Grupo de António Portugal, tendo a opção recaído na designação Coimbra Quintet."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formato (blogue): um LP de 33 rpm e três EP de 45 rpm, com edição internacional",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Circuladas em suporte vinil de 33 rpm (um LP) e 45 rpm (três EP) as gravações tiveram edição internacional"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/8452079",
+      "doc": "discogs:w0a8482a9d9ad7fcb",
+      "citacao": "Editora: Philips – P 10141 R"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "I-LP SERENATA DE COIMBRA. COIMBRA QUINTET. Madrid: Philips P10141R, março de 1957 [gravação], 1958 [edição internacional]"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

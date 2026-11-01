@@ -1,0 +1,178 @@
+{
+  "id": "antonio-bernardino-orfeu-atep-6184",
+  "titulo": "Fados de Coimbra",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6184",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "francisco-martins",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-moutinho",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Maria",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6184-1-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6184-2-youtube"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado do 5.º Ano Médico",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Ao Morrer os Olhos Dizem",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/UrSM3B_tt9OnB8L9VlL57GBN98aScpmpNMgftpCT0Vo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/MTEzLTE0OTA5MjE4/NzUtNTUwMi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10060113",
+        "doc": "discogs:w00d37c2d98d59206",
+        "citacao": "Imagem (secondary): https://i.discogs.com/UrSM3B_tt9OnB8L9VlL57GBN98aScpmpNMgftpCT0Vo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/MTEzLTE0OTA5MjE4/NzUtNTUwMi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10060113",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060113",
+          "doc": "discogs:w00d37c2d98d59206",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060113",
+          "doc": "discogs:w00d37c2d98d59206",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1964 (Discogs)",
+      "data": "1964",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10060113",
+          "doc": "discogs:w00d37c2d98d59206",
+          "citacao": "Data: 1964"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1964 num post e 1967 noutros."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1964 (blogue)",
+      "data": "1964",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "-EP “Fados de Coimbra”, Porto, Orfeu, ATEP 6184, ano de 1964, canta António Bernardino acompanhado por António Portugal/Francisco Martins (gg) e Jorge Moutinho (v);"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue indicam 1967."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1967 (blogue)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "António Bernardino gravou este fado em 1967 com esta letra e sob o título «Fado do 5º Ano Médico», disco que foi o primeiro que gravou, acompanhado à guitarra por António Portugal e Francisco Martins e, à viola, por Jorge Moutinho (EP Orfeu, ATEP 6184)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "em 1967 por António Bernardino, acompanhado em 1ª guitarra de Coimbra por António Portugal, em 2ª guitarra por Francisco Martins e, na viola nylon por Jorge Moutinho (Discos Orfeu, PQB 350 e ATEP 6184, ambos de 45 rpm)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do blogue e o Discogs indicam 1964."
+    },
+    {
+      "campo": "outro",
+      "valor": "Primeiro disco gravado por António Bernardino (blogue)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "disco que foi o primeiro que gravou"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10060113",
+      "doc": "discogs:w00d37c2d98d59206",
+      "citacao": "Editora: Orfeu – ATEP 6184"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

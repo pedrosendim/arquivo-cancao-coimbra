@@ -1,0 +1,62 @@
+{
+  "id": "maria-alcina-marques-pereira-gomes",
+  "tipo": "pessoa",
+  "nome": "Maria Alcina Marques Pereira Gomes",
+  "nomes_alternativos": [
+    "Maria Alcina Marques Pereira Gomes de Carvalho Homem"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Oliveira de Frades",
+      "data": "",
+      "local": "Oliveira de Frades",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem], também beirã (natural de Oliveira de Frades) e farmacêutica diplomada pela então Escola Superior de Farmácia/UC no mesmo ano de 1945; do casamento nascerão dois filhos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Farmacêutica diplomada pela Escola Superior de Farmácia da UC (1945)",
+      "data": "1945",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem], também beirã (natural de Oliveira de Frades) e farmacêutica diplomada pela então Escola Superior de Farmácia/UC no mesmo ano de 1945; do casamento nascerão dois filhos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "armando-de-carvalho-homem",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "No Natal de 1949 casa com Maria Alcina Marques Pereira Gomes [de Carvalho Homem], também beirã (natural de Oliveira de Frades) e farmacêutica diplomada pela então Escola Superior de Farmácia/UC no mesmo ano de 1945; do casamento nascerão dois filhos"
+        }
+      ],
+      "nota": "Casamento no Natal de 1949. Biografia escrita pelo filho, Armando Luís de Carvalho Homem («o autor destas linhas»), publicada no blogue II (2008)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

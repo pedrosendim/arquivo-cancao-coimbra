@@ -1,0 +1,112 @@
+{
+  "id": "manuel-alegre-portugal",
+  "tipo": "pessoa",
+  "nome": "Manuel Alegre Portugal",
+  "nomes_alternativos": [
+    "Dr. Manuel Alegre Portugal",
+    "Manuel Portugal"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Jornalista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Filho do Dr. António Portugal e da Dra. Teresa Alegre Portugal, temos outro guitarrista e compositor, jornalista de profissão, o Dr. Manuel Alegre Portugal, que herda a dimensão musical e o desempenho na guitarra deste Bisavô materno."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Rua da Saudade» (guitarra portuguesa; música de Manuel Portugal)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7428",
+          "doc": "mpagdp:wc59d3dd6e1ca11e4",
+          "citacao": "Manuel Portugal (guitarra portuguesa) e Simão Mota (viola) - \"Rua da Saudade\" (música de Manuel Portugal) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Manuel Portugal (nos créditos, com Simão Mota e Humberto Matias)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3920",
+          "doc": "mpagdp:wfbbf99e995a871ca",
+          "citacao": "Variações em ré menor” de Manuel Portugal ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Armando Carvalho Homem (nos créditos, com Simão Mota e Humberto Matias)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3921",
+          "doc": "mpagdp:w7dabf80ae81825b8",
+          "citacao": "Variações em ré menor” de Armando Carvalho Homem ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Filho do Dr. António Portugal e da Dra. Teresa Alegre Portugal, temos outro guitarrista e compositor, jornalista de profissão, o Dr. Manuel Alegre Portugal, que herda a dimensão musical e o desempenho na guitarra deste Bisavô materno."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-teresa-alegre-de-melo-duarte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Filho do Dr. António Portugal e da Dra. Teresa Alegre Portugal, temos outro guitarrista e compositor, jornalista de profissão, o Dr. Manuel Alegre Portugal, que herda a dimensão musical e o desempenho na guitarra deste Bisavô materno."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "«Manuel Portugal» (A Música Portuguesa a Gostar Dela Própria) e Manuel Alegre Portugal são a mesma pessoa: identificação do editor do arquivo (29-10-2026)."
+}

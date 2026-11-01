@@ -1,0 +1,108 @@
+{
+  "id": "angelo-fernandes-hmv-mq-190",
+  "titulo": "Ó Coimbra do Mondego / Quando procuro os teus olhos",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "MQ 190",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "angelo-fernandes",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Ó Coimbra do Mondego",
+      "obra": "",
+      "media": [
+        "ouvir-angelo-fernandes-hmv-mq-190-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Quando procuro os teus olhos",
+      "obra": "",
+      "media": [
+        "ouvir-angelo-fernandes-hmv-mq-190-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Ó Coimbra do Mondego», por Ângelo Fernandes — etiqueta: «Ó Coimbra do Mondego / Fado / Ângelo Fernandes - Resende Dias / Ângelo Fernandes / ac. guitarras e viola / por M. Ferreira, J. Rocha e A. Abreu»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/704/angelo_fernandes_o_coimbra_do_mondego",
+          "doc": "museu-do-fado:wf4a062cdc662e761",
+          "citacao": "Título: Ó Coimbra do Mondego ... Editora: HMV MQ190 Referências: OPC1061-1; MQ 190 ... Etiqueta: Ó Coimbra do Mondego / Fado / Ângelo Fernandes - Resende Dias / Ângelo Fernandes / ac. guitarras e viola / por M. Ferreira, J. Rocha e A. Abreu"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: M. Ferreira, J. Rocha e A. Abreu (guitarras e viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Quando procuro os teus olhos», por Ângelo Fernandes — etiqueta: «Quando procuro os teus olhos / Fado de Coimbra / António de Carvalho - Resende Dias / Ângelo Fernandes / ac. guitarras e viola / por M. Ferreira, J. Rocha, e A. Abreu»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/705/angelo_fernandes_quando_procuro_os_teus_olhos",
+          "doc": "museu-do-fado:wc87dd8c4f8a9adb1",
+          "citacao": "Título: Quando procuro os teus olhos ... Editora: HMV MQ190 Referências: OPC1062-1; MQ 190 ... Etiqueta: Quando procuro os teus olhos / Fado de Coimbra / António de Carvalho - Resende Dias / Ângelo Fernandes / ac. guitarras e viola / por M. Ferreira, J. Rocha, e A. Abreu"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhado por Marcírio Ferreira e José Rocha (guitarra de fado) e Arnaldo Abreu (viola), segundo o blogue",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+          "doc": "gc-v:3938003074711573709",
+          "citacao": "disco de 78 rpm His Master’s Voice MQ 190, OPC 1061, Lisboa, 25.10.1955, acompanhado por Marcírio Ferreira (guitarra de fado), José Rocha (guitarra de fado), Arnaldo Abreu (viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/704/angelo_fernandes_o_coimbra_do_mondego",
+      "doc": "museu-do-fado:wf4a062cdc662e761",
+      "citacao": "Título: Ó Coimbra do Mondego ... Editora: HMV MQ190 Referências: OPC1061-1; MQ 190"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/705/angelo_fernandes_quando_procuro_os_teus_olhos",
+      "doc": "museu-do-fado:wc87dd8c4f8a9adb1",
+      "citacao": "Título: Quando procuro os teus olhos ... Editora: HMV MQ190 Referências: OPC1062-1; MQ 190"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+      "doc": "gc-v:3938003074711573709",
+      "citacao": "disco de 78 rpm His Master’s Voice MQ 190, OPC 1061, Lisboa, 25.10.1955, acompanhado por Marcírio Ferreira (guitarra de fado), José Rocha (guitarra de fado), Arnaldo Abreu (viola)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "rui-lopes-da-fonseca",
+  "tipo": "pessoa",
+  "nome": "Rui Lopes da Fonseca",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Primeiro tenor solista do Rancho de Coimbra desde 1938 até emigrar para África",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Rui Lopes da Fonseca, filho de José Trego, primeiro tenor solista desde 1938 até à sua emigração para África."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Rui Lopes da Fonseca, filho de José Trego"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

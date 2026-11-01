@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-113-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0318_35.mp3",
+  "titulo": "Jovens sereias — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-113",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0635.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/630/almeida_cruz_jovens_sereias",
+      "doc": "museu-do-fado:wd4a56c002c772d81",
+      "citacao": "Título: Jovens sereias ... Editora: Co.B-113 Referências: 11838-1-1; B113"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

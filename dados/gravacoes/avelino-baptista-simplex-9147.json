@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-simplex-9147",
+  "titulo": "Fado Novo de Coimbra",
+  "formato": "78rpm",
+  "editora": "Simplex",
+  "referencia": "9147",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Novo de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-simplex-9147-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Novo de Coimbra», por Avelino Baptista — etiqueta: «Fado novo de Coimbra / Fado / Avelino Baptista / Piano»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/225/avelino_baptista_fado_novo_de_coimbra",
+          "doc": "museu-do-fado:w138e10eb0d45623a",
+          "citacao": "Título: Fado Novo de Coimbra ... Editora: Simp. 9147 Referências: 4210A, E25U, 9147; 9147 ... Etiqueta: Fado novo de Coimbra / Fado / Avelino Baptista / Piano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/225/avelino_baptista_fado_novo_de_coimbra",
+      "doc": "museu-do-fado:w138e10eb0d45623a",
+      "citacao": "Título: Fado Novo de Coimbra ... Editora: Simp. 9147 Referências: 4210A, E25U, 9147; 9147"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

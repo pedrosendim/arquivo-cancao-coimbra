@@ -1,0 +1,129 @@
+{
+  "id": "jose-rodrigues-bruno",
+  "tipo": "pessoa",
+  "nome": "José Rodrigues Bruno",
+  "nomes_alternativos": [
+    "José Bruno"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "O mestre violeiro José Rodrigues Bruno (1782-1853) nasceu na cidade de Coimbra em 06.10.1782, tendo casado catolicamente com Maria Delphina na igreja da Sé Nova em 12.05.1799."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "O casal morava em 1810 no Beco da Carqueja, à Sé Velha, tendo passado em data não averiguada para a Freguesia de Sâo Bartolomeu, na ou próximo da Rua das Solas e Largo do Paço do Conde, no n.º 10, em proximidade à antiga estalagem do Paço do Conde."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "Após extinção da Casa dos 24 que reconhecia e certificava as artes e ofícios, José Bruno manteve os rótulos dos seus instrumentos musicais em latim e primou pela manutenção da qualidade."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "O assento de óbito de José Bruno, datado de 01.11.1853, consta dos antigos registos paroquais da Igreja de São Thiago, de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 6 de outubro de 1782",
+      "data": "1782-10-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "nasceu na cidade de Coimbra em 06.10.1782"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1853 (assento de óbito datado de 1 de novembro de 1853, Igreja de São Tiago, Coimbra)",
+      "data": "1853",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "O assento de óbito de José Bruno, datado de 01.11.1853"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina de violaria no Paço do Conde, Coimbra, continuada pelos filhos",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Paço do Conde (irmãos Bruno e sucessores)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "na ou próximo da Rua das Solas e Largo do Paço do Conde, no n.º 10"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Manteve rótulos em latim nos seus instrumentos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "José Bruno manteve os rótulos dos seus instrumentos musicais em latim"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A sua viola toeira inspirou uma toeira de Fernando Miraldo (2016)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/01/linda-de-morrer-uma-toeira-da-oficina.html",
+          "doc": "gc-v:6099637857077944428",
+          "citacao": "Trata-se de uma Toeira inspirado na do José Rodrigues Bruno."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

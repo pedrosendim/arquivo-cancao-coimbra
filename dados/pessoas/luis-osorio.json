@@ -1,0 +1,75 @@
+{
+  "id": "luis-osorio",
+  "tipo": "pessoa",
+  "nome": "Luís Osório",
+  "nomes_alternativos": [
+    "Luís Osório da Cunha Pereira de Castro",
+    "Luiz Osório"
+  ],
+  "papeis": [
+    "poeta",
+    "letrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+      "doc": "gc-v:8663414541731534926",
+      "citacao": "A letra é constituída por 13 quadras da autoria do estudante da Universidade de Coimbra, Luís Osório da Cunha Pereira de Castro (1860 – 1890)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Luís Osório da Cunha Pereira de Castro (1860–1890)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Luís Osório da Cunha Pereira de Castro (1860 – 1890)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor das 13 quadras do «Fado Póstumo do Hylário»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "“FADO PÓSTUMO DO HYLÁRIO”. A letra é constituída por 13 quadras da autoria do estudante da Universidade de Coimbra, Luís Osório da Cunha Pereira de Castro (1860 – 1890)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "com letra do antigo estudante da UC Luiz Osório."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Poeta que estudou na Universidade de Coimbra no tempo de Hilário",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Conviveu com poetas que com ele estudavam na Universidade de Coimbra, como Luís Osório (1860 – 1890)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

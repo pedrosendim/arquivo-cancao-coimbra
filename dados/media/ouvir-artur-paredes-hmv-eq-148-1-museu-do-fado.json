@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-148-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0688_29.mp3",
+  "titulo": "Rapsódia de Canções — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "rapsodia-de-cancoes-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-148",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1370.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1359/artur_paredes_rapsodia_de_cancoes",
+      "doc": "museu-do-fado:wd63bdad3377d7eeb",
+      "citacao": "Título: Rapsódia de canções ... Editora: HMV EQ148"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

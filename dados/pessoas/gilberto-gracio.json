@@ -1,0 +1,664 @@
+{
+  "id": "gilberto-gracio",
+  "tipo": "pessoa",
+  "nome": "Gilberto Grácio",
+  "nomes_alternativos": [
+    "Gilberto Marques Grácio"
+  ],
+  "papeis": [
+    "luthier",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+      "doc": "gc-v:2408006594793644882",
+      "citacao": "Começou a dar os primeiros passos na oficina do avô, no Limoeiro, como aprendiz na arte de bater trastos e fabricar leques. Na oficina paterna, no Cacém, foi durante longos anos fabricante de guitarras clássicas, bandolins e banjos, construindo simultaneamente peças para diferentes instrumentos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+      "doc": "gc-v:2408006594793644882",
+      "citacao": "Em 1967, com a morte do progenitor, assumiu a continuidade da obra paterna, de quem herdou a ferramentaria, os materiais de fabrico, as formas e a clientela fidelizada. Especialista em guitarras do tipo de Lisboa e do tipo de Coimbra para concerto, teve dificuldades em responder ao grande cabedal de encomendas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+      "doc": "gc-v:4359239364460704320",
+      "citacao": "O guitarreiro Gilberto Grácio conta que foi procurado por Fontes Rocha, já depois do falecimento de seu pai, João Pedro Grácio Júnior (1967), tendo-lhe o guitarrista começado por solicitar construções híbridas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html",
+      "doc": "gc-i:111616564848620027",
+      "citacao": "Gilberto Grácio, o último elo de uma família de construtores de instrumentos de cordas, filho de João Pedro Grácio Júnior. Divide o seu trabalho entre o Cacém, nas Escadinhas da Fonte Nova e Leiria. Actualmente, além do fabrico de instrumentos, transmite os seus conhecimentos numa Escola Profissional."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+      "doc": "gc-i:111696253640346453",
+      "citacao": "Carlos Paredes idealizou-o, Gilberto Grácio construiu-o e António Eustáquio é o homem que tem a missão de o apresentar oficialmente."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+      "doc": "gc-v:2408006594793644882",
+      "citacao": "Faz vários anos que não construía. Em 2020 e 2021 deu a sua última colaboração a um documentário de Ivan Dias sobre Arthur Paredes e a um projeto de investigação sobre o referido Arthur Paredes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Gilberto Marques Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Comunica-se o falecimento do mestre guitarreiro Gilberto Marques Grácio, filho do também construtor João Pedro Grácio Júnior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1936",
+      "data": "1936",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Falecimento de Gilberto Grácio (1936-2021)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "Gilberto Marques Grácio (1936-2021)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, freguesia da Encarnação, 12 de maio de 1936",
+      "data": "1936-05-12",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/gilberto-gracio",
+          "doc": "museu-do-fado:w781bcad00ce67f97",
+          "citacao": "Gilberto Marques Grácio nasceu em 12 de Maio de 1936, em Lisboa, na Freguesia da Encarnação"
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Gilberto Marques Grácio (Lisboa / Cacém 12-5-1936, violas, guitarras, etc.)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1 de novembro de 2021",
+      "data": "2021-11-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/gilberto-gracio",
+          "doc": "museu-do-fado:w781bcad00ce67f97",
+          "citacao": "Faleceu a 1 de Novembro de 2021."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Os seus filhos não quiseram dar continuidade à tradição",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Os seus filhos não quiseram dar continuidade à tradição."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "Although no direct descendant is to inherit the art of the Grácio family, the still-active Gilberto Grácio was able to find two students who since 2006 have given continuity to his work."
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes não nomeiam os filhos."
+    },
+    {
+      "campo": "outro",
+      "valor": "Uma irmã de Gilberto Grácio, casada, vivia no Cacém (festa dos 25 anos de casamento, Bloco de Notas de 1980)",
+      "data": "",
+      "local": "Cacém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/bloco-de-notas-12-1980_15.html",
+          "doc": "gc-i:111612661315057374",
+          "citacao": "Fui ao Cacém, a casa duma irmã de Gilberto Grácio, que fazia 25 anos de casada. Estava toda a família Grácio, incluindo o Kim, o Pedro e um que é relojoeiro."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notas de Octávio Sérgio. A irmã, o «Pedro» e o familiar relojoeiro não são nomeados nem identificados."
+    },
+    {
+      "campo": "morte",
+      "valor": "2021",
+      "data": "2021",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Falecimento de Gilberto Grácio (1936-2021)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "Gilberto Marques Grácio (1936-2021)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Obituário publicado no blogue em 1.11.2021, enviado por Adamo Caetano."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aprendiz na oficina do avô, no Limoeiro (bater trastos, fabricar leques)",
+      "data": "",
+      "local": "Limoeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Começou a dar os primeiros passos na oficina do avô, no Limoeiro, como aprendiz na arte de bater trastos e fabricar leques."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Na oficina paterna, no Cacém, fabricante de guitarras clássicas, bandolins e banjos",
+      "data": "",
+      "local": "Cacém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Na oficina paterna, no Cacém, foi durante longos anos fabricante de guitarras clássicas, bandolins e banjos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1967 assumiu a continuidade da oficina paterna",
+      "data": "1967",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Em 1967, com a morte do progenitor, assumiu a continuidade da obra paterna, de quem herdou a ferramentaria, os materiais de fabrico, as formas e a clientela fidelizada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Especialista em guitarras do tipo de Lisboa e do tipo de Coimbra para concerto",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Especialista em guitarras do tipo de Lisboa e do tipo de Coimbra para concerto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Trabalho dividido entre o Cacém (Escadinhas da Fonte Nova) e Leiria",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html",
+          "doc": "gc-i:111616564848620027",
+          "citacao": "Divide o seu trabalho entre o Cacém, nas Escadinhas da Fonte Nova e Leiria."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 2005."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Ensinava numa Escola Profissional",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html",
+          "doc": "gc-i:111616564848620027",
+          "citacao": "Actualmente, além do fabrico de instrumentos, transmite os seus conhecimentos numa Escola Profissional."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/orquestra-clssica-do-centro-comemorou.html",
+          "doc": "gc-i:5906780809793104501",
+          "citacao": "No final Gilberto Grácio ofereceu uma guitarra construída por alunos seus, a Virgílio Caseiro, maestro da OCC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Procurado por José Fontes Rocha depois de 1967: construções híbridas e depois uma guitarra de Coimbra; encomendas em 1968-1970",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+          "doc": "gc-v:4359239364460704320",
+          "citacao": "tendo-lhe o guitarrista começado por solicitar construções híbridas. Caixa de Lisboa e braço de Coimbra. Caixa de Coimbra e braço de Lisboa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/a-integracao-da-guitarra-de-coimbra-no.html",
+          "doc": "gc-v:4359239364460704320",
+          "citacao": "Só depois destas experiências iniciais é que José Fontes Rocha comprou a Gilberto Grácio uma guitarra de Coimbra, de som mais toeiro. As idas à oficina de Gilberto Grácio alargaram-se no período 1968-1970, não tendo parado de aumentar as encomendas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaurou instrumentos de corda dedilhada para o futuro Museu da Música («na decada de 1978»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "restaurou (na decada de 1978) vários instrumentos de corda dedilhada para o futuro Museu da Música (um alaúde, MI 254; uma tiorba, MI 252 e uma pandora, MI 254)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaurou em 1996 a guitarra de Artur Paredes do Museu Académico",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "estando a guitarra degradada, foi restaurada por Gilberto Grácio em 1996."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Membro da primeira Comissão Directiva da Academia da Guitarra Portuguesa e do Fado (instituída em Lisboa a 7 de abril de 1994)",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-x.html",
+          "doc": "gc-i:113013932589219588",
+          "citacao": "Em 7 de Abril de 1994 institui-se em Lisboa a Academia da Guitarra Portuguesa e do Fado ... Integravam a primeira Comissão Directiva Luís Filipe Penedos, Fernando Seixas, José Anjos de Carvalho, Pedro Caldeira Cabral e Gilberto Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Criador do guitolão",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/orquestra-clssica-do-centro-comemorou.html",
+          "doc": "gc-i:5906780809793104501",
+          "citacao": "Como Convidado de Honra, esteve Gilberto Grácio, criador do Guitolão."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/lanamento-do-guitolo-no-mu_112078998197601761.html",
+          "doc": "gc-i:112078998197601761",
+          "citacao": "Gilberto Grácio construtor e autor do instrumento."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver a ficha do instrumento guitolao-gilberto-gracio-antonio-eustaquio."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem no Café Santa Cruz (Coimbra), no encerramento do Mês do Fado",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-no-caf-santa.html",
+          "doc": "gc-i:114429048935818922",
+          "citacao": "Homenagem a Gilberto Grácio no Café Santa Cruz, ontem. Encerramento do Mês do Fado."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post publicado em 6.4.2006."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Convidado de honra da Orquestra Clássica do Centro (6 anos de atividade), 13 de outubro de 2007",
+      "data": "2007-10-13",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/orquestra-clssica-do-centro-vai.html",
+          "doc": "gc-i:3398074372308879721",
+          "citacao": "13 de Outubro de 2007 – 21:30 horas ... Convidados: Mestre Gilberto Grácio"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/orquestra-clssica-do-centro-comemorou.html",
+          "doc": "gc-i:5906780809793104501",
+          "citacao": "Como Convidado de Honra, esteve Gilberto Grácio, criador do Guitolão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Colaborou em 2020-2021 num documentário de Ivan Dias e num projeto de investigação sobre Arthur Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Em 2020 e 2021 deu a sua última colaboração a um documentário de Ivan Dias sobre Arthur Paredes e a um projeto de investigação sobre o referido Arthur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Representa a terceira geração de guitarreiros da família",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-guitolo.html",
+          "doc": "gc-i:116484238888413880",
+          "citacao": "Gilberto Grácio, que representa a terceira geração de guitarreiros da respectiva família."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "All of the instrument building Gracios are now deceased except for Gilberto Gracio, a 3rd generation luthier, who still makes professional guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": "O site Fernandez Music (página revista a 10 de janeiro de 2019) diz que era então o único Grácio construtor vivo e que ainda fazia guitarras profissionais."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez, a sua guitarra de Coimbra de Fernando Meireles tem proporções semelhantes às das guitarras feitas por Gilberto Grácio nos anos 1970",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "my Fernando Meireles Coimbra Guitarra, which in turn has design proportions similar to guitarras made in the 1970s by Gilberto Gracio's."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver as fichas guitarra-german-vazquez-ronald-fernandez e guitarra-fernando-meireles-2002-colecao-fernandez."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo António Eustáquio, Gonçalo Paredes teve guitarras do avô de Gilberto Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+          "doc": "gc-i:111696253640346453",
+          "citacao": "O avô de Carlos Paredes, Gonçalo Paredes, ainda teve guitarras do avô de Gilberto Grácio [construtor de Carlos Paredes]."
+        }
+      ],
+      "conflito": false,
+      "nota": "Artigo de Isabel Damião em O Primeiro de Janeiro, reproduzido no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Em algumas entrevistas passou a convicção de que os Grácio teriam criado a guitarra de Coimbra por adaptação da guitarra de Lisboa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/sobre-uma-citara-que-se-encontrava-na.html",
+          "doc": "gc-v:877544498957221532",
+          "citacao": "levou alguns investigadores e publicistas a pensar que os Grácio teriam criado a guitarra de Coimbra por direta adaptação da guitarra de Lisboa (em algumas entrevistas, Gilberto Grácio chegou a passar esta convicção)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor do livro Tempo de uma vida (Oeiras, 2021)",
+      "data": "2021",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html",
+          "doc": "gc-v:4452811094400995964",
+          "citacao": "Tempo de uma vida, Gilberto Marques Grácio, Oeiras, Edição Oeiras Valley /Município Oeiras, 2021, 157 pp."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-pedro-gracio-junior",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Gilberto Marques Grácio, filho do também construtor João Pedro Grácio Júnior."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html",
+          "doc": "gc-i:111616564848620027",
+          "citacao": "filho de João Pedro Grácio Júnior."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/gilberto-gracio",
+          "doc": "museu-do-fado:w781bcad00ce67f97",
+          "citacao": "João Pedro Grácio Junior (pai de Gilberto Grácio), s/d."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "João Pedro Grácio Jr. and remained with the family through his son, Gilberto Grácio"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/gilberto-gracio",
+          "doc": "museu-do-fado:w781bcad00ce67f97",
+          "citacao": "João Pedro Grácio (avô de Gilberto Grácio), s/d."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html",
+          "doc": "gc-v:2408006594793644882",
+          "citacao": "Começou a dar os primeiros passos na oficina do avô, no Limoeiro"
+        }
+      ],
+      "nota": "A legenda do Museu do Fado nomeia o avô; o obituário (gc-v) refere «a oficina do avô, no Limoeiro» sem o nomear."
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "joaquim-gracio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/02/uma-rara-antonio-duarte-com-escudete.html",
+          "doc": "gc-v:2214832310372811070",
+          "citacao": "associado a construtores como Gilberto Grácio e seu tio Kim Grácio."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Gilberto%20Grcio.jpg",
+      "legenda": "Gilberto Grácio, o último elo de uma família de construtores de instrumentos de cordas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html",
+          "doc": "gc-i:111616564848620027",
+          "citacao": "Foto retirada do site de José Lúcio."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grcio%201.jpg",
+      "legenda": "Lançamento do Guitolão no Museu do Fado, dia 6 deste mês. Gilberto Grácio construtor e autor do instrumento.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/lanamento-do-guitolo-no-mu_112078998197601761.html",
+          "doc": "gc-i:112078998197601761",
+          "citacao": "Lançamento do Guitolão no Museu do Fado, dia 6 deste mês. Gilberto Grácio construtor e autor do instrumento."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Gracio%20no%20D%20Coimbra%205-4-2006.jpg",
+      "legenda": "Gilberto Grácio no Café Santa Cruz. Diário de Coimbra de hoje.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/gilberto-grcio-no-caf-santa-cruz.html",
+          "doc": "gc-i:114424695324893515",
+          "citacao": "Gilberto Grácio no Café Santa Cruz. Diário de Coimbra de hoje."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Gracio%204.jpg",
+      "legenda": "Jorge Gomes conversa com Gilberto Grácio e sua esposa, antes do começo da homenagem.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-no-caf-santa.html",
+          "doc": "gc-i:114429048935818922",
+          "citacao": "Jorge Gomes conversa com Gilberto Grácio e sua esposa, antes do começo da homenagem."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZvUFDk3O3SC28C9EmuirBQy-SAfqGaHKpcqbdrjoS0OVIHQtqz0QbwIve6elQI6LuuvzDORIs5WIItO_QT0w2bglmzvjKnZdFI0VyzHcdgqHJ-N0vF-A_VO9qkm65szT_WWFUifsT-0_M/s1600/Octavio,GGracio,PAlexandre1.jpg",
+      "legenda": "Paulo Alexandre e Octávio Sérgio na oficina de Gilberto Grácio, co Cacém, na tarde de ontem.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/paulo-alexandre-e-octavio-sergio-na.html",
+          "doc": "gc-iv:4670807921604177965",
+          "citacao": "Paulo Alexandre e Octávio Sérgio na oficina de Gilberto Grácio, co Cacém, na tarde de ontem."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Falecimento de Gilberto Grácio (1936-2021)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/11/falecimento-de-gilberto-gracio-1936-2021.html"
+    },
+    {
+      "rotulo": "Uma vida preenchida: Gilberto Grácio",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/03/uma-vida-preenchida-gilberto-gracio.html"
+    },
+    {
+      "rotulo": "Post com fotografia (2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/gilberto-grcio-o-ltimo-elo-de-uma.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

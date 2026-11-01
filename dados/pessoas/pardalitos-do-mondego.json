@@ -1,0 +1,313 @@
+{
+  "id": "pardalitos-do-mondego",
+  "tipo": "grupo",
+  "nome": "Pardalitos do Mondego",
+  "nomes_alternativos": [
+    "Os Pardalitos do Mondego",
+    "Pardalitos"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+      "doc": "gc-i:115425688077135374",
+      "citacao": "O grupo foi fundado em Coimbra, no ano de 1992, surgindo no seio de uma claque da Académica (FANS), pelo que o seu nome está umbilicalmente ligado ao futebol."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+      "doc": "gc-i:115425688077135374",
+      "citacao": "A designação desta formação inspirou-se num epíteto atribuído pelo jornalista Vítor Santos à equipa de futebol da Briosa na década de 1960 - Pardalitos do Choupal -, pelo jogo vivo e irrequieto que praticavam."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+      "doc": "gc-i:115425688077135374",
+      "citacao": "Os Pardalitos do Mondego são uma formação que interpreta, de um modo genérico, a Canção de Coimbra. O reportório trabalhado é eclético"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+      "doc": "gc-i:115425688077135374",
+      "citacao": "O grupo efectuou já um grande número de actuações, desde o Minho ao Algarve e à Madeira. Também actuou além-fronteiras, concretamente em Espanha (Léon), França (Neufchateau, Pau, Bayonne, Paris e Nantes), Alemanha (Rheine, Steinfurt e Paderborn), Canadá (Toronto), Macau e Brasil (Recife)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+      "doc": "gc-i:115425688077135374",
+      "citacao": "No ano 2000 os Pardalitos gravaram “Fado Manassés” num CD da Associação Académica de Coimbra/Organismo Autónomo de Futebol, a “Balada de Despedida de Engenharia Química 1996” (tema original do grupo) para a Colectânea “Baladas de Despedida dos Anos 90” produzida pelo Conselho de Veteranos da Academia de Coimbra e a “Balada de Outono” (tema original) num CD de poesia de Carlos Carranca em 2003."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/pardalitos-do-mondego-disco.html",
+      "doc": "gc-v:2126332477306174016",
+      "citacao": "Disco dos Pardalitos do Mondego, composto por 15 inéditos, lançado ontem no Pavilhão Centro de Portugal, em Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+      "doc": "gc-v:1061433716363483530",
+      "citacao": "Em 2017 a formação coimbrã PARDALITOS DO MONDEGO assinalou vinte cinco anos de atividade musical. As celebrações deram origem à gravação de um CD com 12 faixas sonoras de repertório vocal da Canção de Coimbra numa revisitação de obras gravadas entre 1961-1983 por JOSÉ AFONSO (1929-1987), ADRIANO CORREIA DE OLIVEIRA (1942-1982) e LUIZ GOES (1933-2012)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado em Coimbra em 1992, no seio da claque da Académica FANS",
+      "data": "1992",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "O grupo foi fundado em Coimbra, no ano de 1992, surgindo no seio de uma claque da Académica (FANS), pelo que o seu nome está umbilicalmente ligado ao futebol."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/concerto-de-os-pardalitos-do-mondego.html",
+          "doc": "gc-v:3566949018486895299",
+          "citacao": "Criado em 1992 no seio da claque universitária [FANS] e constituído por antigos estudantes, este grupo apresenta o seu espetáculo musical de norte a sul do país, baseando-se na evolução do fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "nome inspirado no epíteto «Pardalitos do Choupal», dado pelo jornalista Vítor Santos à equipa da Académica na década de 1960",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "A designação desta formação inspirou-se num epíteto atribuído pelo jornalista Vítor Santos à equipa de futebol da Briosa na década de 1960 - Pardalitos do Choupal -, pelo jogo vivo e irrequieto que praticavam."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuações do Minho ao Algarve e Madeira, e no estrangeiro: Espanha, França, Alemanha, Canadá, Macau e Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "O grupo efectuou já um grande número de actuações, desde o Minho ao Algarve e à Madeira. Também actuou além-fronteiras, concretamente em Espanha (Léon), França (Neufchateau, Pau, Bayonne, Paris e Nantes), Alemanha (Rheine, Steinfurt e Paderborn), Canadá (Toronto), Macau e Brasil (Recife)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "participação em espetáculos de homenagem a Adriano Correia de Oliveira (1997, 1999), à Briosa, a Carlos Paredes (1997), a Luiz Goes (1998) e a Carlos Carranca (1998)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "-Adriano Correia de Oliveira (Lisboa, Maio 1997 e Vila Nova de Gaia, Abril 1999);"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Manassés» num CD da AAC/OAF (2000); «Balada de Despedida de Engenharia Química 1996» na coletânea «Baladas de Despedida dos Anos 90»; «Balada de Outono» num CD de poesia de Carlos Carranca (2003)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "No ano 2000 os Pardalitos gravaram “Fado Manassés” num CD da Associação Académica de Coimbra/Organismo Autónomo de Futebol, a “Balada de Despedida de Engenharia Química 1996” (tema original do grupo) para a Colectânea “Baladas de Despedida dos Anos 90” produzida pelo Conselho de Veteranos da Academia de Coimbra e a “Balada de Outono” (tema original) num CD de poesia de Carlos Carranca em 2003."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Pardalitos do Mondego” – Nuno Lopes, Paulo Cortesão, Pedro Regado, Nuno Castelhano e Felisberto Queiroz a cantar; Francisco Viana e Pedro Saraiva à guitarra; José Reis e Arnaldo Tomás à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuação no Quebra-Costas, Coimbra, 11 de julho de 2006",
+      "data": "2006-07-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/foto-da-actuao-dos-pardalitos-do.html",
+          "doc": "gc-i:115271930039418055",
+          "citacao": "Foto da actuação dos Pardalitos do Mondego no dia 11/07 no Quebra Costas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata de homenagem a Carlos Couceiro nas escadas da Sé Velha (outubro de 2008)",
+      "data": "2008-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/carlos-couceiro-foi-homenageado-ontem.html",
+          "doc": "gc-ii:4319647197219245653",
+          "citacao": "Carlos Couceiro foi homenageado, ontem, com uma serenata nas escadas da Sé Velha, com os Pardalitos do Mondego e o seu grupo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "álbum «Afluentes» (2014), 15 inéditos, lançado no Pavilhão Centro de Portugal, Coimbra",
+      "data": "2014",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/pardalitos-do-mondego-disco.html",
+          "doc": "gc-v:2126332477306174016",
+          "citacao": "Disco dos Pardalitos do Mondego, composto por 15 inéditos, lançado ontem no Pavilhão Centro de Portugal, em Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/concerto-de-os-pardalitos-do-mondego.html",
+          "doc": "gc-v:3566949018486895299",
+          "citacao": "Após terem editado o álbum «Afluentes», um trabalho exclusivamente de originais, publicaram mais recentemente «Baladas para Voz», uma singela homenagem a Adriano Correia de Oliveira, José Afonso e Luiz Goes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/07/uma-ave-maria-que-nao-e-dos-pardalitos.html",
+          "doc": "gc-v:883613342487125138",
+          "citacao": "Do repertório da formação Pardalitos do Mondego consta o tema AVÉ-MARIA SENHORA (1994), música e letra de José Reis, gravado por Felisberto Queirós no CD Afluentes (2014)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Baladas para Voz» (edição do grupo, 2018), 12 faixas de José Afonso, Adriano Correia de Oliveira e Luiz Goes, nos 25 anos do grupo; vozes de Felisberto Queirós, Guilherme Loureiro, José Branco e Rui Lucas",
+      "data": "2018",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "CD BALADAS PARA VOZ, PARDALITOS DO MONDEGO, Coimbra, edição Pardalitos do Mondego, 2018. Fonograma constituído por CD com 12 faixas sonoras"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "Em 2017 a formação coimbrã PARDALITOS DO MONDEGO assinalou vinte cinco anos de atividade musical. As celebrações deram origem à gravação de um CD com 12 faixas sonoras de repertório vocal da Canção de Coimbra numa revisitação de obras gravadas entre 1961-1983 por JOSÉ AFONSO (1929-1987), ADRIANO CORREIA DE OLIVEIRA (1942-1982) e LUIZ GOES (1933-2012)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "A parte vocal esteve a cargo de Felisberto Queirós (faixas 1, 7), Guilherme Loureiro (faixas 3, 6, 9, 12), José Branco (faixas 2, 5, 8, 11) e Rui Lucas (faixas 4, 10)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "concerto no cineteatro Dr. Morgado, Oliveira de Frades, 16 de março de 2019",
+      "data": "2019-03-16",
+      "local": "Oliveira de Frades",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/concerto-de-os-pardalitos-do-mondego.html",
+          "doc": "gc-v:3566949018486895299",
+          "citacao": "No próximo sábado, dia 16 de março, Oliveira de Frades recebe o grupo «Pardalitos do Mondego», às 21h30, no cineteatro Dr. Morgado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação c. 2006: Francisco Viana e Pedro Saraiva (guitarras), José Augusto Reis e Arnaldo Tomás (violas), Paulo Cortesão, Nuno Castelhano e Felisberto Queiroz (canto)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Guitarras de Coimbra: Francisco Viana ( Docente Universitário); Pedro Saraiva (Engenheiro Químico)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Viola de Acompanhamento: José Augusto Reis (Técnico Superior de Museografia); Arnaldo Tomás (Engenheiro Químico)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Cantores: Paulo Cortesão (Assistente Social); Nuno Castelhano (Advogado); Felisberto Queiroz (estudante de Engª Mecânica)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação instrumental de 2017-2018: Francisco Viana (1.ª guitarra), Paulo Alexandre Almeida (2.ª guitarra), Arnaldo Tomás e José Augusto Reis (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "A parte instrumental esteve à responsabilidade de Francisco Viana (gC1), Paulo Alexandre Almeida (gC2), Arnaldo Tomás (v) e José Augusto Reis (v), numa abordagem que abrange reprodução de instrumentações originais e assina arranjos do próprio grupo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Pardalitos%20do%20Mondego%2011-7-2006%20Quebra-Costas%201.jpg",
+      "legenda": "Pardalitos do Mondego no Quebra-Costas, 11 de julho de 2006: Francisco Viana (guitarra), José Reis e Arnaldo Tomás (violas), Paulo Cortesão (canto).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/foto-da-actuao-dos-pardalitos-do.html",
+          "doc": "gc-i:115271930039418055",
+          "citacao": "Foto da actuação dos Pardalitos do Mondego no dia 11/07 no Quebra Costas."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfiM4JUK3DyqO4W0dDj7vbcwUOd8fIkcNMiUmhak5DCYbx1XsnmoKozClrE985etRRHk167ZWo8om2RCPQxb3R1hrY-tR9M2FK1vTxC5w42jZOzjoD1WQkdnXMbq8_wAw3Vqozko3V3kM/s1600/Baladas1.jpg",
+      "legenda": "CD «Baladas para Voz» (Pardalitos do Mondego, 2018).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "CD BALADAS PARA VOZ, PARDALITOS DO MONDEGO, Coimbra, edição Pardalitos do Mondego, 2018. Fonograma constituído por CD com 12 faixas sonoras"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

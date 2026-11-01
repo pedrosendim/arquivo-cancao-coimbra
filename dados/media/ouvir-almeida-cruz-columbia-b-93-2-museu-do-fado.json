@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-93-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0307_16.mp3",
+  "titulo": "Onde leva a moça — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-93",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0614.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/609/almeida_cruz_onde_leva_a_moca",
+      "doc": "museu-do-fado:w44687d5b5e5301c8",
+      "citacao": "Título: Onde leva a moça ... Editora: Co. B-93 Referências: 11840, 1-6; B93"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

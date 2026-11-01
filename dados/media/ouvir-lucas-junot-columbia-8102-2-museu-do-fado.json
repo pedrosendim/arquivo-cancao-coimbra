@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-8102-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0459_07.mp3",
+  "titulo": "Um fado de Coimbra — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-8102",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0915.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/902/lucas_junot_um_fado_de_coimbra",
+      "doc": "museu-do-fado:w55e2c1c453776a8e",
+      "citacao": "Título: Um fado de Coimbra ... Editora: Co. 8102, HTCD15 Referências: 193, W, 27252, P193; 8102"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

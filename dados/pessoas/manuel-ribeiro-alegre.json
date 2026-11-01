@@ -1,0 +1,205 @@
+{
+  "id": "manuel-ribeiro-alegre",
+  "tipo": "pessoa",
+  "nome": "Manuel Ribeiro Alegre",
+  "nomes_alternativos": [
+    "Alegre",
+    "O Valsista",
+    "Manoel Alegre"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+      "doc": "gc-i:113852928918580833",
+      "citacao": "Manuel Ribeiro Alegre, natural de Águeda, estudante de Direito, quartanista em 1905. Executante de guitarra em afinação natural, figura de nomeada nos meios estudantis, de alcunha O Valsista, Alegre teve grupo com Manassés de Lacerda e Adelino Sá."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+      "doc": "gc-i:113852928918580833",
+      "citacao": "Formado em 1906, sofreu uma expulsão disciplinar em 1905, por se ter manifestado acutilantemente contra decisões do governo monárquico de Hintze Ribeiro."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+      "doc": "gc-i:113852928918580833",
+      "citacao": "Trabalhou como Conservador do Registo Predial de Santarém, Governador Civil de Santarém (1915-1917) e exerceu mandatos como deputado em diversas legislaturas entre 1911 e 1922."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Águeda, 31 de janeiro de 1881",
+      "data": "1881-01-31",
+      "local": "Águeda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Manuel Ribeiro Alegre nasceu em Águeda a 31 de Janeiro de 1881, filho de Francisco Alegre e de Júlia Ribeiro Alegre."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "São Pedro do Sul, 14 de dezembro de 1940",
+      "data": "1940-12-14",
+      "local": "São Pedro do Sul",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Faleceu em são Pedro do Sul a 14 de Dezembro de 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Direito na UC (quartanista em 1905), formado em 1906",
+      "data": "1906",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "estudante de Direito, quartanista em 1905"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Formado em 1906"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Guitarra em afinação natural",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Executante de guitarra em afinação natural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Conservador do Registo Predial e Governador Civil de Santarém; deputado (1911-1922)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Trabalhou como Conservador do Registo Predial de Santarém, Governador Civil de Santarém (1915-1917) e exerceu mandatos como deputado em diversas legislaturas entre 1911 e 1922."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "francisco-sampaio-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Era filho de Francisco Sampaio Alegre e de sua mulher Amélia Júlia Ribeiro Alegre."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "filho de Francisco Alegre e de Júlia Ribeiro Alegre"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "amelia-julia-ribeiro-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Era filho de Francisco Sampaio Alegre e de sua mulher Amélia Júlia Ribeiro Alegre."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "filho de Francisco Alegre e de Júlia Ribeiro Alegre"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "manasses-de-lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Alegre teve grupo com Manassés de Lacerda e Adelino Sá."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+          "doc": "gc-i:113734692170677571",
+          "citacao": "Manteve em Coimbra um grupo afamado, integrado por Adelino Sá/Manuel Ribeiro Alegre (guitarras)"
+        }
+      ],
+      "nota": "Guitarra no grupo de Manassés de Lacerda em Coimbra (c. 1901-1904)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "adelino-sa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Alegre teve grupo com Manassés de Lacerda e Adelino Sá."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Alegre.jpg",
+      "legenda": "Manuel Ribeiro Alegre, quartanista de Direito em 1905",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "Manuel Ribeiro Alegre, natural de Águeda, estudante de Direito, quartanista em 1905."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

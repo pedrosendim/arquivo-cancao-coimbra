@@ -1,0 +1,27 @@
+{
+  "id": "maria-eulalia-rolim",
+  "tipo": "pessoa",
+  "nome": "Maria Eulália Rolim",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "fernando-rolim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/primeiro-dia-das-iii-jorna_113115631468715463.html",
+          "doc": "gc-i:113115631468715463",
+          "citacao": "Fernando Rolim e a Esposa, Maria Eulália Rolim, assistem aos acordes da orquestra da AATUC."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,387 @@
+{
+  "id": "luis-filipe-roxo",
+  "tipo": "pessoa",
+  "nome": "Luís Filipe Roxo",
+  "nomes_alternativos": [
+    "Luís Filipe Roxo Ferreira",
+    "Luís Filipe",
+    "Luís Filipe Rôxo",
+    "Luis Filipe Roxo"
+  ],
+  "papeis": [
+    "luthier",
+    "violista",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+      "doc": "gc-v:6740819375011916252",
+      "citacao": "Falava-se que Duarte Costa tivera em Coimbra uma escola de guitarra clássica (1964 e ss.) e que o falecido Luís Filipe Roxo Ferreira fora docente nessa escola, tendo ainda a responsabilidade de coordenar o fabrico de guitarras de tipo espanhol segundo procedimentos industriais."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/01/sonho.html",
+      "doc": "gc-iii:5208937346424027512",
+      "citacao": "Luís Filipe que havia trabalho com António Portugal no final da década de 1960, mormente no LP “Flores para Coimbra” (1969)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+      "doc": "gc-v:7089790293110351255",
+      "citacao": "testemunho de Luís Filipe, formador da classe de viola ... breves imagens da oficina de construção de Luís Filipe"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "Este construtor tinha a oficina na cave da sua residência, no Bairro Norton de Matos, e entre o fim da atividade de Raul Simões e os primeiros trabalhos de Fernando Meireles terá sido o único (?) construtor de cordofones com atividade digna de nota em Coimbra."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/luis-filipe-roxo-na-sua-oficina-em.html",
+      "doc": "gc-iii:7174274406440365200",
+      "citacao": "Luís Filipe Roxo na sua oficina em Coimbra, no programa Coimbra Musical de Rui Ramos, de 1978. Agora Luís Filipe vive no Cartaxo, onde continua a sua actividade de construtor de instrumentos de corda."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+      "doc": "gc-iv:8172468701112544794",
+      "citacao": "António Portugal e António Brójo nas guitarras, e Aurélio Reis e Luís Filipe Roxo nas violas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+      "doc": "gc-v:2633524903173911739",
+      "citacao": "Desde início integrou o grupo Raízes de Coimbra, tendo saído quando se mudou para o Cartaxo. Era um grande amigo, excelente executante de viola, e construtor de instrumentos"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Luís Filipe Roxo Ferreira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "na oficina de Luís Filipe Roxo Ferreira (1940-2015), discípulo de Duarte Costa"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/epfrei-vicente-canta-coimbra.html",
+          "doc": "gc-v:5634333110807836196",
+          "citacao": "Luís Filipe Roxo Ferreira (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1940",
+      "data": "1940",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Luís Filipe Roxo (1940-2015)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "2015",
+      "data": "2015",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Morreu hoje Luís Filipe Roxo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post, publicado a 9 de janeiro de 2015, diz «Morreu hoje»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de música, executante de viola de acompanhamento e fabricante de cordofones (violões, guitarras de Coimbra, cavaquinhos, bandolins, violas toeiras)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "discípulo de Duarte Costa, professor de música, executante de viola de acompanhamento e fabricante de cordofones com qualidade satisfatória e preços considerados aceitáveis (violões, guitarras de Coimbra, cavaquinhos, bandolins, violas toeiras)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Docente da escola de guitarra clássica de Duarte Costa em Coimbra e coordenador do fabrico de guitarras de tipo espanhol; terá dirigido a fábrica de Coimbra (perto de 4000 exemplares por ano)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+          "doc": "gc-v:6740819375011916252",
+          "citacao": "o falecido Luís Filipe Roxo Ferreira fora docente nessa escola, tendo ainda a responsabilidade de coordenar o fabrico de guitarras de tipo espanhol segundo procedimentos industriais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/03/tres-rotulo-da-fabrica-duarte-costa.html",
+          "doc": "gc-v:6740819375011916252",
+          "citacao": "Há notícia de que a fábrica de Coimbra foi dirigida por Luís Filipe, tendo chegado a fabricar perto de 4000 exemplares por ano, destinados ao abastecimento privativo das escolas em Coimbra, Lisboa e Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post apresenta estes dados como «falava-se» e «há notícia»."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Formador da classe de viola dos cursos de viola e guitarra de Coimbra (Secretaria da Juventude), 1973",
+      "data": "1973",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "testemunho de Luís Filipe, formador da classe de viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "Documentário «Movimento - Parte II», RTP, 15.12.1973, citado no post."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Professor na Escola de Guitarra Clássica do F.A.O.J. (aluno Paulo Saraiva, 1975)",
+      "data": "1975",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "aluno da Escola de Guitarra Clássica do extinto F.A.O.J., em 1975, tendo como professor, Luís Filipe Roxo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina na cave da residência, no Bairro Norton de Matos (Coimbra); mais tarde oficina no Cartaxo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Este construtor tinha a oficina na cave da sua residência, no Bairro Norton de Matos"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+          "doc": "gc-iii:1284480522450493884",
+          "citacao": "Luís Filipe na sua oficina no Cartaxo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Grupo de António Portugal e António Brojo (violas: Aurélio Reis e Luís Filipe Roxo)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "António Portugal e António Brójo nas guitarras, e Aurélio Reis e Luís Filipe Roxo nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrou desde o início o grupo Raízes de Coimbra, até se mudar para o Cartaxo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Desde início integrou o grupo Raízes de Coimbra, tendo saído quando se mudou para o Cartaxo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Flores para Coimbra» (1969), com António Portugal",
+      "data": "1969",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/sonho.html",
+          "doc": "gc-iii:5208937346424027512",
+          "citacao": "Luís Filipe que havia trabalho com António Portugal no final da década de 1960, mormente no LP “Flores para Coimbra” (1969)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Frei Vicente… canta Coimbra» (Alvorada, EP-S-60-1609, s/d [1977]), viola",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/epfrei-vicente-canta-coimbra.html",
+          "doc": "gc-v:5634333110807836196",
+          "citacao": "ALVORADA, EP-S-60-1609, s/d [1977] António Brojo/António Portugal (ggC); Luís Filipe Roxo Ferreira (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Viola de 10 cordas, construída por ele",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Está com a viola de 10 cordas, uma obra sua."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Restaurou na década de 1980 um violão de Raul Simões (de José Mesquita)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Sofreu um pequeno restauro na década de 1980, na oficina de Luís Filipe Roxo Ferreira (1940-2015)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "duarte-costa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "Luís Filipe Roxo Ferreira (1940-2015), discípulo de Duarte Costa"
+        }
+      ],
+      "nota": "«discípulo de Duarte Costa»."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/sonho.html",
+          "doc": "gc-iii:5208937346424027512",
+          "citacao": "Luís Filipe que havia trabalho com António Portugal no final da década de 1960"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "António Portugal e António Brójo nas guitarras, e Aurélio Reis e Luís Filipe Roxo nas violas."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Tempos%20de%20Coimbra%206%20Lus%20Filipe.jpg",
+      "legenda": "Luís Filipe. Foto do «Tempo(s) de Coimbra».",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/lus-filipe.html",
+          "doc": "gc-i:111445624768617490",
+          "citacao": "Luís Filipe. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZlwwsam3fBwLP_fH1tvy8mERVumcHfN3f4_LloRhHkeLZetuCrGOm3XyFWTVsL5ElLHx0QgSOBpv2e8NzFpQ8G-5UoxvaL4Mj9vyZm2ESjhiaezOV8CNdFkECUYzeF_aIBlyZjrZjxvL/s1600/Luis+Filipe+Coletanea+Tempos+de+Coimbra.jpg",
+      "legenda": "Biografia de Luís Filipe Roxo no caderno dos 4 LPs «Tempo(s) de Coimbra»; a foto está invertida e mostra-o com a viola de 10 cordas, obra sua.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/luis-filipe-roxo.html",
+          "doc": "gc-v:2633524903173911739",
+          "citacao": "Em cima uma pequena biografia extraída do caderno dos 4 LPs, Tempo(s) de Coimbra. Curiosamente, a foto está ao contrário."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QAPXTyO22YKDa8GFCsGiVZS680EY-L0XcQ848mdvxASUNmeap-AAnXVb8rnN-siW-PUfI3bebUKuyqX_Vl7VWmvO_hr-5ZERbF8jMWRCOUGl_rsvM5CrD77JNuCkNZ-o-ug74wsbFD8/s1600-h/LFilipeeasGuitarrasNovas-1.gif",
+      "legenda": "Luís Filipe na sua oficina no Cartaxo.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+          "doc": "gc-iii:1284480522450493884",
+          "citacao": "Luís Filipe na sua oficina no Cartaxo, com a nova guitarra para José Ourives quase pronta"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Luís Filipe Roxo na sua oficina, Coimbra Musical (RTP, 1978)",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/luis-filipe-roxo-na-sua-oficina-em.html"
+    },
+    {
+      "rotulo": "RTP Arquivos: «Movimento - Parte II» (1973)",
+      "url": "https://arquivos.rtp.pt/conteudos/movimento-parte-ii-30/"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

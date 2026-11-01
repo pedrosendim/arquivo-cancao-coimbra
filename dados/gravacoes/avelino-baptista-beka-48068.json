@@ -1,0 +1,128 @@
+{
+  "id": "avelino-baptista-beka-48068",
+  "titulo": "A Serenata / Sonhos dourados",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "48068 / 48070",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "A Serenata",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-48068-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Sonhos dourados",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-48068-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«A Serenata», por Avelino Baptista — etiqueta: «A Serenata / Avelino Baptista / Estudantina»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2539/avelino_baptista_a_serenata",
+          "doc": "museu-do-fado:w10ef41b1d7f1fbff",
+          "citacao": "Título: A Serenata ... Editora: Beka 48068 48070 Referências: Beka-Grand-Record, 48068; 48068 ... Etiqueta: A Serenata / Avelino Baptista / Estudantina"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue refere «A Serenata, gravada por Avelino Baptista» entre composições adaptadas ao estilo conimbricense (o post não indica o número do disco)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Sonhos dourados», por Avelino Baptista — etiqueta: «Sonhos Dourados / Avelino Baptista / Estudantina»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2538/avelino_baptista_sonhos_dourados",
+          "doc": "museu-do-fado:w9dc36cd65fd943e2",
+          "citacao": "Título: Sonhos dourados ... Editora: Beka 48070 48068 Referências: Beka-Grand-Record, 48070; 48070 ... Etiqueta: Sonhos Dourados / Avelino Baptista / Estudantina"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Canção de José Elyseu popularizada em Coimbra, gravada por Avelino Baptista, segundo o blogue",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/07/sonhos-dourados.html",
+          "doc": "gc-v:7856607907213839712",
+          "citacao": "Sonhos Dourados foi gravada na altura pela vedeta descográfica Avelino Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2539/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:w10ef41b1d7f1fbff",
+      "citacao": "Título: A Serenata ... Editora: Beka 48068 48070 Referências: Beka-Grand-Record, 48068; 48068"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+      "doc": "gc-v:7480880341728619964",
+      "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2538/avelino_baptista_sonhos_dourados",
+      "doc": "museu-do-fado:w9dc36cd65fd943e2",
+      "citacao": "Título: Sonhos dourados ... Editora: Beka 48070 48068 Referências: Beka-Grand-Record, 48070; 48070"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/07/sonhos-dourados.html",
+      "doc": "gc-v:7856607907213839712",
+      "citacao": "Sonhos Dourados foi gravada na altura pela vedeta descográfica Avelino Baptista"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

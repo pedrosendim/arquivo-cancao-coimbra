@@ -1,0 +1,58 @@
+{
+  "id": "jorge-tuna",
+  "tipo": "pessoa",
+  "nome": "Jorge Tuna",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "EP Um Som Diferente nas Guitarras de Coimbra (Polydor 10001 CR, 1967), com Durval Moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+          "doc": "gc-v:5310750683617065434",
+          "citacao": "EP UM SOM DIFERENTE NAS GUITARRAS DE COIMBRA, Lisboa, Polydor 10001 CR, 1967, com Jorge Tuna (gC) e Durval Moreirinhas (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor de todas as músicas e arranjos para guitarra de Coimbra desse EP",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+          "doc": "gc-v:5310750683617065434",
+          "citacao": "Todas as músicas são da autoria de Jorge Tuna, bem como os arranjos para gC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEVSTFvjKN2KZTyyG0XdZmgb1c617wz7MK1wW4foSLzikLFn99qKpKrLY0J-qcbeiOzWLdzl1fa7lZSJrpg6Eo0LF1z15Bm8LC03Cz9jxWATPYYHxAveBhy9qTMHeu9nPvPAH9Q/s1600/Jorge+Tuna+do+livro+Fado+Falado.jpg",
+      "legenda": "Jorge Tuna (Jorge Manuel Casqueiro Lopo Tuna), foto que abre a entrevista dada a Baptista-Bastos no livro «Fado Falado» (Ediclube, 1999). Foto de José Santos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-tuna-de-nome-completo-jorge.html",
+          "doc": "gc-i:3131120906469301344",
+          "citacao": "Jorge Tuna, de nome completo Jorge Manuel Casqueiro Lopo Tuna, nascido em 1 de Julho de 1937, aqui numa foto a abrir uma interessante entrevista dada a Baptista-Bastos"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

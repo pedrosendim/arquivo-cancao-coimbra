@@ -1,0 +1,27 @@
+{
+  "id": "rita-mulher-de-miguel-drago",
+  "tipo": "pessoa",
+  "nome": "Rita",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "miguel-drago",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/miguel-drago.html",
+          "doc": "gc-v:9090426420497625187",
+          "citacao": "Gomes, Drago e Rita a esposa"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. A frase («Patilhas, eu, Gomes, Drago e Rita a esposa») lê-se como a mulher de Miguel Drago, sem o dizer de forma mais explícita."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

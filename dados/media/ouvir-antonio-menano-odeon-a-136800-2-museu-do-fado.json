@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136800-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0587_16.mp3",
+  "titulo": "Fazes da Lua — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136800",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1167.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1159/antonio_menano_fases_da_lua",
+      "doc": "museu-do-fado:w653eb7098d8decb9",
+      "citacao": "Título: Fases da lua ... Editora: Od.136.801, X3167,EMI260593,EMICD8374952"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

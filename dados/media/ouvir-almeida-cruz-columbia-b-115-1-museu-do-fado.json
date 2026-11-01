@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-115-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0320_04.mp3",
+  "titulo": "O mangerico — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-115",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0639.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/634/almeida_cruz_o_mangerico",
+      "doc": "museu-do-fado:wac66e5cf31a5ecaf",
+      "citacao": "Título: O mangerico ... Editora: Co. B-115 Referências: 11839-1-1; B115"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

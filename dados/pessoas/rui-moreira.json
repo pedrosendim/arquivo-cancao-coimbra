@@ -1,0 +1,35 @@
+{
+  "id": "rui-moreira",
+  "tipo": "pessoa",
+  "nome": "Rui Moreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html",
+          "doc": "gc-i:113725919817867181",
+          "citacao": "Rui Moreira já fora aparecendo com o Praxis Nova e dera que falar na Sé Velha com uma notável interpretação do tema \"Rua Larga\"."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Praxis Nova, Percursos, Colectânea de Canções de Coimbra, CD/CDM 003, Porto, Fortes & Rangel, Lda., 1998. Remasterização de 19 temas anteriormente gravados em cassete e disco. Texto de apresentação assinado por Luís Alcoforado. Antologia comemorativa do 10.º aniversário do Grupo Praxis Nova. Cantam Luís Alcoforado, Rui Moreira e Victor de Almeida e Silva. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos."
+        }
+      ],
+      "nota": "voz; Serenata Monumental de 1989, CD de 1998"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

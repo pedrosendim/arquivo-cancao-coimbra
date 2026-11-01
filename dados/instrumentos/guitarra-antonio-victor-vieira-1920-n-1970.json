@@ -1,0 +1,79 @@
+{
+  "id": "guitarra-antonio-victor-vieira-1920-n-1970",
+  "designacao": "Guitarra de Lisboa de António Victor Vieira, 1920, n.º 1970 (coleção de Ron Fernandez)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "antonio-victor-vieira",
+  "ano": "1920",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Feita por António Victor Vieira, 189 Rua Eugenio dos Santos, 191, Lisboa; numerada 1970",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira at 189 Rua Eugenio dos Santos, 191 Lisboa, Portugal. This guitarra is numbered 1970."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ver também guitarra-antonio-victor-vieira-decada-1920; as fontes não dizem se é o mesmo instrumento."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ron Fernandez reparou-lhe 6 fendas e deu-lhe acabamento a goma-laca em 2000",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "I personally repaired 6 cracks on this guitarra and french polished it in 2000."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/Vieira.gif",
+      "legenda": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira at 189 Rua Eugenio dos Santos, 191 Lisboa, Portugal.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira at 189 Rua Eugenio dos Santos, 191 Lisboa, Portugal."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+      "doc": "fernandez-music:wef640773a4821421",
+      "citacao": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

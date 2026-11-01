@@ -1,0 +1,39 @@
+{
+  "id": "afonso-rtp-tempo-de-coimbra-1983",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+  "titulo": "Tempo de Coimbra — homenagem a José Afonso (RTP1, 1983)",
+  "data": "1983-09-25",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-portugal",
+    "antonio-brojo",
+    "aurelio-dos-reis"
+  ],
+  "obras": [
+    "saudades-de-coimbra-bettencourt"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+      "doc": "rtp-arquivos:w921e060e35cc6073",
+      "citacao": "Descrição: Programa dedicado à antologia cronológica da história do fado de Coimbra, homenagem ao cantor José Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+      "doc": "rtp-arquivos:w921e060e35cc6073",
+      "citacao": "Personalidades: António Portugal, António Brojo, Aurélio dos Reis, Luís Filipe, Dórdio Guimarães, Zeca Afonso (José Afonso)"
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+      "doc": "rtp-arquivos:w921e060e35cc6073",
+      "citacao": "José Afonso interpreta \"Saudades de Coimbra\" de Mário Fonseca e de Edmundo Bettencourt"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

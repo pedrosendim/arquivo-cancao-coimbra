@@ -1,0 +1,29 @@
+{
+  "id": "paulo-rodrigues",
+  "tipo": "pessoa",
+  "nome": "Paulo Rodrigues",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tempos-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Tempos de Coimbra\n\nGrupo constituído por Paulo Pinto (voz), Pedro Paredes (gC), e Filipe Ribeiro/Paulo Rodrigues (vv)"
+        }
+      ],
+      "nota": "viola; Serenata Monumental de 1994"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

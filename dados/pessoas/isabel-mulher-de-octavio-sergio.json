@@ -1,0 +1,52 @@
+{
+  "id": "isabel-mulher-de-octavio-sergio",
+  "tipo": "pessoa",
+  "nome": "Isabel",
+  "nomes_alternativos": [
+    "Isabel da Conceição Torrado Marques [e Azevedo]"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Isabel da Conceição Torrado Marques [e Azevedo]",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Na Páscoa de 1966 casou com Isabel da Conceição Torrado Marques [e Azevedo], licenciada em História"
+        }
+      ],
+      "conflito": false,
+      "nota": "O acrescento «[e Azevedo]» é do autor do texto sobre Octávio Sérgio."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/antigos-orfeonistas-no-bra_111298910590008528.html",
+          "doc": "gc-i:111298910590008528",
+          "citacao": "Isabel (a minha mulher)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Na Páscoa de 1966 casou com Isabel da Conceição Torrado Marques [e Azevedo], licenciada em História"
+        }
+      ],
+      "nota": "Post escrito por Octávio Sérgio. Noutros posts surge «Isabel Azevedo» junto de Octávio Sérgio; a identificação não é dita na fonte. O texto biográfico «As variações de Octávio Sérgio» (gc-i, 2005) dá o casamento na Páscoa de 1966 e o nome completo; a identificação com a «Isabel (a minha mulher)» faz-se pelo nome próprio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

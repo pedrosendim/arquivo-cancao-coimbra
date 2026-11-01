@@ -1,0 +1,41 @@
+{
+  "id": "nuno-de-carvalho",
+  "tipo": "pessoa",
+  "nome": "Nuno de Carvalho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Rapidamente se\njuntou um minhoto apaixonado por Coimbra (Nuno de Carvalho, estudante de\nDireito e Cantor)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 3: Fotografia de Apresentação, Coimbra, 1981. Sentados -\nGuitarras: José Carlos Teixeira e Álvaro Aroso; Viola: Mário José de Castro. De\npé – Cantores: Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel\nBaptista."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/mais-um-cultor-do-canto-do-coimbra-que.html",
+          "doc": "gc-iii:8984953789504369183",
+          "citacao": "Mais um cultor do Canto do Coimbra que nos deixa: Nuno de Carvalho, componente do grupo Tertúlia do Fado de Coimbra."
+        }
+      ],
+      "nota": "voz; desde os inícios até à morte em 2009"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

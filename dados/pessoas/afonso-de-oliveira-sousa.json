@@ -1,0 +1,53 @@
+{
+  "id": "afonso-de-oliveira-sousa",
+  "tipo": "pessoa",
+  "nome": "Afonso de Oliveira Sousa",
+  "nomes_alternativos": [
+    "Dr. Afonso de Oliveira Sousa",
+    "Afonso de Oliveira e Sousa"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Advogado em Leiria",
+      "data": "",
+      "local": "Leiria",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/01/no-cantinho-da-gaveta-4-fotografia-da.html",
+          "doc": "gc-v:7962320293729934041",
+          "citacao": "oferecido pelo Dr. Afonso de Oliveira e Sousa, então advogado em Leiria, filho do advogado e guitarrista Afonso de Sousa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "afonso-de-sousa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
+          "doc": "gc-i:115308142543235485",
+          "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria, Afonso de Oliveira Sousa está profundamente ligado às memórias afectivas de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/sesso-de-audioscpios-no-so-luiz-lisboa.html",
+          "doc": "gc-i:114778723333256773",
+          "citacao": "Fotografia do espólio de Afonso de Sousa cedida por seu filho Dr. Afonso de Oliveira Sousa."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

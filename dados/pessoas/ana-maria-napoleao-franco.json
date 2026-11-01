@@ -1,0 +1,41 @@
+{
+  "id": "ana-maria-napoleao-franco",
+  "tipo": "pessoa",
+  "nome": "Ana Maria Napoleão Franco",
+  "nomes_alternativos": [
+    "Ana Maria Napoleão"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[10] Casa a 12 de Outubro de 1960, com Ana Maria Napoleão Franco"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/carta-de-manuel-marques-inacio-enviada.html",
+          "doc": "gc-iv:4402297359444601218",
+          "citacao": "\"Carlos Paredes casou por duas vezes, a primeira com Ana Maria Napoleão, em 1960, e a segunda com Cecília de Melo.\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/carta-de-manuel-marques-inacio-enviada.html",
+          "doc": "gc-iv:4402297359444601218",
+          "citacao": "Apenas conheço um casamento de mestre Carlos Paredes. O primeiro referido."
+        }
+      ],
+      "nota": "Casamento a 12 de outubro de 1960. Segundo a nota [11] do mesmo post, três dos seis filhos de Carlos Paredes são deste matrimónio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

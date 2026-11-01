@@ -1,0 +1,116 @@
+{
+  "id": "peres-de-vasconcelos-columbia-j-825",
+  "titulo": "Fado da Severa (Variações) / Variações em mi menor",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "J 825",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "peres-de-vasconcelos",
+      "funcao": "guitarra (solo)"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Severa (Variações)",
+      "obra": "",
+      "media": [
+        "ouvir-peres-de-vasconcelos-columbia-j-825-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em mi menor",
+      "obra": "",
+      "media": [
+        "ouvir-peres-de-vasconcelos-columbia-j-825-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Severa (Variações)», por Miguel A. Peres de Vasconcelos — etiqueta: «Fado da Severa (Variações) / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / Com acompanhamento de  / guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1919/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+          "doc": "museu-do-fado:w297bc5d90351506d",
+          "citacao": "Título: Fado da Severa (Variações) ... Editora: Co.J825 Referências: WP296, W, 32669, P296; J825 ... Etiqueta: Fado da Severa (Variações) / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / Com acompanhamento de  / guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w1855f80622f78276, museu-do-fado:w94a9d2bed1e30111"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Variações em mi menor», por Miguel A. Peres de Vasconcelos — etiqueta: «Variações em Mi menor / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de  / viola (Mário Fonseca)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1920/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+          "doc": "museu-do-fado:w04c13c1e416db40c",
+          "citacao": "Título: Variações em mi menor ... Editora: Co.J825 Referências: WP329, W, 32577, P329; J825 ... Etiqueta: Variações em Mi menor / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de  / viola (Mário Fonseca)"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w4ceb014390a40692, museu-do-fado:w8f4a0cf494a491ba"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1919/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+      "doc": "museu-do-fado:w297bc5d90351506d",
+      "citacao": "Título: Fado da Severa (Variações) ... Editora: Co.J825 Referências: WP296, W, 32669, P296; J825"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5068/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+      "doc": "museu-do-fado:w1855f80622f78276",
+      "citacao": "Título: Fado da Severa (Variações) ... Editora: Co.J825 Referências: WP296, W, 32669, P296; J825"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4747/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+      "doc": "museu-do-fado:w94a9d2bed1e30111",
+      "citacao": "Título: Fado da Severa (Variações) ... Editora: Co.J825 Referências: WP296, W, 32669, P296; J825"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1920/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+      "doc": "museu-do-fado:w04c13c1e416db40c",
+      "citacao": "Título: Variações em mi menor ... Editora: Co.J825 Referências: WP329, W, 32577, P329; J825"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4746/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+      "doc": "museu-do-fado:w4ceb014390a40692",
+      "citacao": "Título: Variações em mi menor ... Editora: Co.J825 Referências: WP329, W, 32577, P329; J825"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5069/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+      "doc": "museu-do-fado:w8f4a0cf494a491ba",
+      "citacao": "Título: Variações em mi menor ... Editora: Co.J825 Referências: WP329, W, 32577, P329; J825"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

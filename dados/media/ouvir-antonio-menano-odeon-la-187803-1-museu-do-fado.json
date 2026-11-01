@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187803-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0608_18.mp3",
+  "titulo": "Fado dos Passarinhos — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187803",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1209.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1201/antonio_menano_fado_dos_passarinhos",
+      "doc": "museu-do-fado:we594cf90b038050e",
+      "citacao": "Título: Fado dos Passarinhos ... Editora: Od. LA 187803a Referências: OG1009, L, NR; LA 187803a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

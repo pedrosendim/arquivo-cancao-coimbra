@@ -1,0 +1,40 @@
+{
+  "id": "carlos-alberto-santos-da-costa",
+  "tipo": "pessoa",
+  "nome": "Carlos Alberto Santos da Costa",
+  "nomes_alternativos": [
+    "Carlos Costa",
+    "Carlos A. S. Costa"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_10.html", "doc": "gc-i:115521364541912139", "citacao": "foi director da Secção de Fado da AAC e fundador da Estudantina Universitária de Coimbra"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html", "doc": "gc-i:113725919817867181", "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."}], "nota": "Director da Secção (data não indicada); Grupo Oficial da Secção em 1985."},
+    {"tipo": "membro_de", "alvo": "estudantina-universitaria-de-coimbra", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_10.html", "doc": "gc-i:115521364541912139", "citacao": "fundador da Estudantina Universitária de Coimbra"}], "nota": "Fundador."},
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_10.html",
+          "doc": "gc-i:115521364541912139",
+          "citacao": "Participou na gravação do LP \"Coimbra em Canções\", dos Praxis Nova, em 1991."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        }
+      ],
+      "nota": "viola; gravações de 1989 a 1998"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

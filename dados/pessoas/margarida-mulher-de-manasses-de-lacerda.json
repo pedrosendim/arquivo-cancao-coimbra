@@ -1,0 +1,33 @@
+{
+  "id": "margarida-mulher-de-manasses-de-lacerda",
+  "tipo": "pessoa",
+  "nome": "Margarida",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "manasses-de-lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Manassés da Lacerda casa em 1908 em Miragaia e, a seguir, emigra com sua mulher Margarida para o Brasil"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Casou em Miragaia, Porto no ano 1908"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. Casamento em Miragaia (Porto), 1908. As fontes não dizem se é a mãe de Marília Lacerda Pinto."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

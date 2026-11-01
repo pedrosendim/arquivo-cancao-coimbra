@@ -1,0 +1,123 @@
+{
+  "id": "guitarra-kim-gracio-colecao-fernandez",
+  "designacao": "Guitarra de Lisboa de Kim Grácio (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "joaquim-gracio",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Before I acquired this instrument, the soundboard had been repair."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Rótulo com o endereço da oficina: Rua 3, Bairro Santa Engrácia 37 r/c. Dt.º, Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The guitarra label shows his shop at: Rua 3, Bairro Santa Engrácia 37 r/c. Dt.º, Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Na base do braço (interior) tem o número 52/55 e o nome Kim Gracio carimbados a tinta na madeira crua",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The neck base (inside the guitarra) has the number 52/55 and the name Kim Gracio ink stamped on the raw wood."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Largura da pestana 38 mm; escala de 440 mm; acabamento a goma-laca (French polish)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The nut width is 38mm, the scale length is 440mm. French Polished."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O tampo tinha sido reparado antes da aquisição por Ron Fernandez; a reparação foi depois refinada por Kerry Char, luthier em Portland",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Before I acquired this instrument, the soundboard had been repair. Sometime later I had Kerry Char, master luthier in Portland, refine the repair."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/KimGracioFace.jpg",
+      "legenda": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/KimGracioBack.jpg",
+      "legenda": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Kim Graçio (1912-1994) Lisbon Style Portuguese Guitarra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

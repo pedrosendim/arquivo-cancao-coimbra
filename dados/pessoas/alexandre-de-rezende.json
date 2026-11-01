@@ -1,0 +1,298 @@
+{
+  "id": "alexandre-de-rezende",
+  "tipo": "pessoa",
+  "nome": "Alexandre de Rezende",
+  "nomes_alternativos": [
+    "Alexandre Augusto de Rezende Mendes",
+    "Alexandre Augusto Mendes de Pina e Albuquerque Rezende",
+    "Alexandre de Resende",
+    "Alexandre Rezende"
+  ],
+  "papeis": [
+    "guitarrista",
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+      "doc": "gc-i:8566259942871870690",
+      "citacao": "Alexandre Augusto de Rezende Mendes (ou Alexandre Augusto Mendes de Pina e Albuquerque Rezende) nasceu em Campinas, Estado de S. Paulo, Brasil, em 09 de Agosto de 1886 e faleceu em Lisboa no dia 02 de Fevereiro de 1953."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+      "doc": "gc-i:8566259942871870690",
+      "citacao": "Depois de uma breve passagem pelos Liceus da Guarda e de Lamego, AR veio com seu pai para Coimbra, instalando-se na Casa Grande de Celas, pertença de seu abastado progenitor."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+      "doc": "gc-i:8566259942871870690",
+      "citacao": "Só a partir de 1907-1908, entrados os anos áureos de Francisco Menano, é que AR começa a ser notado."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+      "doc": "gc-v:5123457612554529144",
+      "citacao": "Alexandre de Rezende, mais tarde constituiu família, e veio a ser Administrador de concelho em Montemor-o-Velho, Fornos de Algodres (terra do famoso Jaime de Abreu, e da família Menano), e Celorico da Beira"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/02/retrato-de-alexandre-de-rezende-1886.html",
+      "doc": "gc-v:3129300954373096631",
+      "citacao": "Retrato, breve nota artística e algumas letras gravadas por Rezende na Parlophone em 1929 na tripla condição de autor-compositor, cantor (baixo) e guitarrista."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Alexandre Augusto de Rezende Mendes (ou Alexandre Augusto Mendes de Pina e Albuquerque Rezende)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Alexandre Augusto de Rezende Mendes (ou Alexandre Augusto Mendes de Pina e Albuquerque Rezende)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Campinas (São Paulo, Brasil), 9 de agosto de 1886",
+      "data": "1886-08-09",
+      "local": "Campinas (Brasil)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "nasceu em Campinas, Estado de S. Paulo, Brasil, em 09 de Agosto de 1886"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "nascera em Campinas, estado de S. Paulo, Brasil, a 9 de Agosto de 1886."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 2 de fevereiro de 1953",
+      "data": "1953-02-02",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "faleceu em Lisboa no dia 02 de Fevereiro de 1953."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "Alexandre de Rezende, faleceu em Lisboa a 2 de Fevereiro de 1953."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, cônsul honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Era filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, que fora Cônsul Honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende, de quem ficou órfão tinha apenas 10 anos de idade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceus da Guarda e de Lamego; reprovou em 1903 no exame de admissão à 5.ª classe do Liceu de Coimbra; nunca entrou na Universidade",
+      "data": "1903",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Em 1903, tinha então 17 anos, AR reprovou no exame de admissão à 5ª Classe do Liceu de Coimbra (correspondente ao término do curso liceal)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "Nunca entrou na Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Casa Grande de Celas, Coimbra, onde com o pai promovia serões gastronómicos e musicais",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Neste solar, então situado no arrabalde da cidade, AR e o seu progenitor costumavam dinamizar serões gastronómicos e musicais, acolhendo estudantes em dificuldades económicas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Administrador de concelho em Montemor-o-Velho, Fornos de Algodres e Celorico da Beira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "veio a ser Administrador de concelho em Montemor-o-Velho, Fornos de Algodres (terra do famoso Jaime de Abreu, e da família Menano), e Celorico da Beira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou em 1929 quatro fonogramas para a Parlophon (entre eles B. 33500 e B. 33505), como autor-compositor, cantor (baixo) e guitarrista",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "poderemos dizer que o AR, gravou nos anos longínquos de 1929, quatro fonogramas etiqueta Parlophon."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "É o caso dos fonogramas da Parlaphom, B. 33500 e B. 33505, onde figuram as composições Canção da Despedida e Fado do Conde da Covilhã, no primeiro, e Fado da Minha Mãe e Canção da Raia, no segundo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/retrato-de-alexandre-de-rezende-1886.html",
+          "doc": "gc-v:3129300954373096631",
+          "citacao": "algumas letras gravadas por Rezende na Parlophone em 1929"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições com música sua: «D'um olhar», «Fado de minha mãe», «Inquietação», «Fado da Mentira», «O meu menino», «O meu filhinho», «Fado da Sugestão», «Fado da Graça», «Fado da Luz», «Fado da Montanha», «Fado Triste», «Fado Rezende»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "Como composições de Alexandre de Rezende podemos referir, com música sua: - D’UM OLHAR (As meninas dos meus olhos)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html",
+          "doc": "gc-v:5123457612554529144",
+          "citacao": "- FADO DA MENTIRA (Ninguém conhece no rosto)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A autoria do «Fado da Mentira» é atribuída a Anthero da Veiga noutros posts (2008, 2017)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Voz de baixo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/retrato-de-alexandre-de-rezende-1886.html",
+          "doc": "gc-v:3129300954373096631",
+          "citacao": "na tripla condição de autor-compositor, cantor (baixo) e guitarrista."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "alexandre-augusto-de-albuquerque-mendes-de-pina-e-rezende",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Era filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, que fora Cônsul Honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende, de quem ficou órfão tinha apenas 10 anos de idade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/alexandre-de-resende-e-jose-archer-de.html",
+          "doc": "gc-v:5671634226316842061",
+          "citacao": "onde seu pai Alexandre Augusto Mendes de Pina e Rezende, fidalgo abastado, fora Cônsul Honorário de Portugal. Aos 10 anos perde sua mãe D. Ana Duarte Gouveia de Rezende."
+        }
+      ],
+      "nota": "O nome do pai difere entre os posts («de Albuquerque» só no de 2007)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "ana-duarte-gouveia-de-rezende",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "Era filho de Alexandre Augusto de Albuquerque Mendes de Pina e Rezende, que fora Cônsul Honorário de Portugal em Campinas, e de Ana Duarte Gouveia de Rezende, de quem ficou órfão tinha apenas 10 anos de idade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/alexandre-de-resende-e-jose-archer-de.html",
+          "doc": "gc-v:5671634226316842061",
+          "citacao": "onde seu pai Alexandre Augusto Mendes de Pina e Rezende, fidalgo abastado, fora Cônsul Honorário de Portugal. Aos 10 anos perde sua mãe D. Ana Duarte Gouveia de Rezende."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLG3d0V2yzn3HAfAzMf-CW3niTe6FZG0ZNqmnbK4m_kN-RLfJJYHfc55Brz1L2HBSv9_m0wHALd22K3Gp76VyZQfnfkCAfnJ2mpmGPSdozPdnNhH0ip_n6TKQti2XDcqqzK2UhDJ_vt7UWqjtWcInNdmch1vOB8Dh7I0g7pQB1fjZOht2tXpIJEVLRBDw/s2048/Alexandre_de_rezende%202.jpg",
+      "legenda": "Retrato de Alexandre de Rezende no jornal Guitarra de Portugal (1929), a propósito das gravações Parlophone",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/retrato-de-alexandre-de-rezende-1886.html",
+          "doc": "gc-v:3129300954373096631",
+          "citacao": "Retrato, breve nota artística e algumas letras gravadas por Rezende na Parlophone em 1929"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Alexandre de Rezende, compositor, cantor e guitarrista (Anjos de Carvalho e A. M. Nunes, 2007)",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html"
+    },
+    {
+      "rotulo": "Alexandre de Rezende (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/alexandre-de-rezende-1886-1956.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

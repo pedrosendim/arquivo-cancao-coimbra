@@ -1,0 +1,143 @@
+{
+  "id": "antonio-jose-moreira",
+  "tipo": "pessoa",
+  "nome": "António José Moreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Autor da música da «Balada da Despedida do 4.º Ano de Física 1992/93», com letra de Jorge Cravo",
+      "data": "1993",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "onde foi apresentada a Balada da Despedida do 4º Ano de Física 1992/93 (da qual fez a letra), do guitarrista António José Moreira (autor da música)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Jorge Cravo no livrete do CD «Canções d'Inquietude» (2005), reproduzida no post. A mesma biografia dá outras composições «(Jorge Cravo/António José Moreira)», como «Meu Fado» e «Canção para Despertar»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra no LP «Canções d'Aqui» (GAFCC, Ovação 3022, 1989), com Henrique Ferrão",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Canções d’Aqui, pelo Grupo Académico de Fados e Canções de Coimbra, Ovação 3022, 1989. Canta Jorge Cravo. Guitarras: António José Moreira e Henrique Ferrão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em ambos os trabalhos discográficos foi acompanhado por António José Moreira (1982-1990) e Henrique Ferrão (1980-1990) nas guitarras"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Na sua fase mais estável, os instrumentistas eram António José Moreira (gC1, solista, de Ciências)"
+        }
+      ],
+      "nota": "guitarra solista (gC1), 1982-1990"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-cravo",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/jorge-cravo-canta-formas-no-programa.html",
+          "doc": "gc-iii:1355566315368528518",
+          "citacao": "Jorge Cravo canta \"Formas\", no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80, de 1989. É acompanhado por António José Moreira e Henrique Ferrão em guitarra"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/04/homenagem-e-lancamento-do-disco-cancoes.html",
+          "doc": "gc-iv:481981816253884689",
+          "citacao": "Homenagem e lançamento do disco “Canções d’uma Cidade e d’um Rio” do Jorge Cravo e Quarteto de António José Moreira"
+        }
+      ],
+      "nota": "guitarra; no GAFCC (anos 80) e, com o seu quarteto, no CD «Canções d'uma Cidade e d'um Rio» (2010-2011)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "capas-negras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-alvorada",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+          "doc": "gc-v:2193830626081091255",
+          "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+          "doc": "gc-v:5730434124020714444",
+          "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+        }
+      ],
+      "nota": "guitarra de Coimbra"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Instrumentistas%202.jpg",
+      "legenda": "Os instrumentistas no Arco de Almedina: António Paulo Lopes na viola e António José Moreira na guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/os-instrumentistas-de-servio-ontem-no.html",
+          "doc": "gc-i:112622343476412975",
+          "citacao": "Os instrumentistas de serviço, ontem, no Arco de Almedina: António Paulo Lopes na viola e António José Moreira na guitarra."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

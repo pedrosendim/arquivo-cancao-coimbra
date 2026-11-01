@@ -1,0 +1,27 @@
+{
+  "id": "tereza-mulher-de-jose-miguel-baptista",
+  "tipo": "pessoa",
+  "nome": "Tereza",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/antigos-orfeonistas-no-bra_111298910590008528.html",
+          "doc": "gc-i:111298910590008528",
+          "citacao": "José Miguel Baptista e a esposa Tereza."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-artur-paredes-hmv-b-4698-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0686_23.mp3",
+  "titulo": "Variações em si menor — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [],
+  "gravacao": "artur-paredes-hmv-b-4698",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1366.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1356/artur_paredes_variacoes_em_si_menor",
+      "doc": "museu-do-fado:w0bca5eb438806202",
+      "citacao": "Título: Variações em si menor ... Editora: HMV B4698, EQ37,MH34 Referências: BJ768-I∆, G, 1, 7-69264; B 4698"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

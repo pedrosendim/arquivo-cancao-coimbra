@@ -1,0 +1,153 @@
+{
+  "id": "verdes-anos",
+  "tipo": "grupo",
+  "nome": "Verdes Anos",
+  "nomes_alternativos": [
+    "Grupo de fados Verdes Anos",
+    "Os Verdes Anos"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "verdes-anos-blogue",
+      "url": "https://verdesanos.wordpress.com/about/",
+      "doc": "verdes-anos-blogue:wf65ad0e932449d71",
+      "citacao": "O Grupo de fados Verdes Anos é um grupo de música portuguesa, fundado em 1996 nos corredores da Associação Académica de Coimbra, e é conhecido por interpretar fado de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos-na-serenata.html",
+      "doc": "gc-i:112173782680020161",
+      "citacao": "Grupo \"Verdes Anos\" na Serenata Monumental de 1999."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+      "doc": "gc-i:112173820518069874",
+      "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/seguem-as-imagens-da-actuao-do-grupo.html",
+      "doc": "gc-ii:2587870836252412656",
+      "citacao": "Seguem as imagens da actuação do Grupo \"Verdes Anos\", hoje, no Café Santa Cruz. Foram interpretados temas como: Verdes Anos, Lá Menor de João Bagão, Saudades de Coimbra, Canção Pagã, entre outros, terminando com Capa Negra, Rosa Negra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado em 1996 na Associação Académica de Coimbra",
+      "data": "1996",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "verdes-anos-blogue",
+          "url": "https://verdesanos.wordpress.com/about/",
+          "doc": "verdes-anos-blogue:wf65ad0e932449d71",
+          "citacao": "fundado em 1996 nos corredores da Associação Académica de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 1999",
+      "data": "1999",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos-na-serenata.html",
+          "doc": "gc-i:112173782680020161",
+          "citacao": "Grupo \"Verdes Anos\" na Serenata Monumental de 1999."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Rui Seoane, Gonçalo Mendes e António Dinis (vozes), João Martins (viola), Luís Barroso e Miguel Drago (guitarras)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+          "doc": "gc-i:112173820518069874",
+          "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de fotografia tirada do site do grupo, publicada em 2005."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuação na Quinta das Lágrimas (Diário as Beiras, 2007)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/o-grupo-verdes-anos-na-quinta-das.html",
+          "doc": "gc-i:1685075175004825390",
+          "citacao": "O grupo Verdes Anos na Quinta das Lágrimas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD Coimbra Fado, ARC Music, 2008 (Discogs)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/3424849",
+          "doc": "discogs:wee915eb9e8a68f84",
+          "citacao": "2008 · Coimbra Fado · ARC Music · CD, Album"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Verdes%20Anos%201.jpg",
+      "legenda": "Grupo Verdes Anos: Rui Seoane, Gonçalo Mendes e António Dinis (vozes); João Martins (viola); Luís Barroso e Miguel Drago (guitarras). Foto do site do grupo.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+          "doc": "gc-i:112173820518069874",
+          "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Verdes%20Anos%202.jpg",
+      "legenda": "Grupo Verdes Anos na Serenata Monumental de 1999. Foto do site do grupo.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos-na-serenata.html",
+          "doc": "gc-i:112173782680020161",
+          "citacao": "Grupo \"Verdes Anos\" na Serenata Monumental de 1999. Foto tirada do seu \"site\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Blogue do grupo Verdes Anos",
+      "url": "https://verdesanos.wordpress.com/"
+    },
+    {
+      "rotulo": "Discogs: Verdes Anos",
+      "url": "https://www.discogs.com/artist/3424849"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

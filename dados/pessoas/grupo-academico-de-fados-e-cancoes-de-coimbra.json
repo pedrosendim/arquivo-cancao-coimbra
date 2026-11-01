@@ -1,0 +1,193 @@
+{
+  "id": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Grupo Académico de Fados e Canções de Coimbra",
+  "nomes_alternativos": [
+    "GAFCC"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+      "doc": "gc-v:2788236639889053829",
+      "citacao": "O Grupo Académico de Fados e Canções de Coimbra (GAFCC) foi uma formação juvenil masculina independente, que teve intensa atividade musical amadora na década de 1980 (ca. 1983-1990). O líder do grupo era o estudante da FL / UC (licenciatura em História) Jorge Cravo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+      "doc": "gc-v:2788236639889053829",
+      "citacao": "O GAFCC deixou o seu nome associado ao LP Canções d' Aqui (1989) e a alguns temas presentes no LP Baladas de Despedida, anos 80 (1990). Findava a era do vinil e com a formatura de Jorge Cravo o GAFCC dissolvia-se."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Intensa atividade amadora na década de 1980 (ca. 1983-1990)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "teve intensa atividade musical amadora na década de 1980 (ca. 1983-1990)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no início: a biografia de Jorge Cravo (livrete de «Canções d'Inquietude», 2005) dá atuações do GAFCC desde setembro de 1980 (ver facto seguinte)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Atuação do GAFCC a 24 de setembro de 1980, Pavilhão dos Olivais, com Jorge Cravo, Henrique Ferrão, Rijo Madeira e Arsénio Carvalho",
+      "data": "1980-09-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Cantou pela primeira vez, integrado no GAFCC, no dia 24 de Setembro de 1980, num espectáculo de angariação de fundos para o “Clube das Patelas” (Conchada), realizado no Pavilhão dos Olivais, tendo sido acompanhado nos temas Canção das Lágrimas (Armando Goes) Olhos Verdes Gaiatos (Bandeira Mateus/Barros Madeira) e Amor de Estudante (Paradela de Oliveira/José Afonso) por Henrique Ferrão, Rijo Madeira e Arsénio Carvalho."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente da cronologia do grupo (ver facto anterior)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Elementos (1980-1990): António José Moreira (1982-1990) e Henrique Ferrão (1980-1990), guitarras; José Carlos Ribeiro (1981-1990), Luís Miguel Martins (1982-1990) e Manuel Pera (1987-1990), violas; cantores Jorge Cravo, António Nogueira (1980-1981), António Pimentel (1981-1985), Paulo Saraiva (1988) e Rui Silva (1989-1990); Rijo Madeira (guitarra, 1980-1982) e Arsénio Carvalho (viola, 1980-1981)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em ambos os trabalhos discográficos foi acompanhado por António José Moreira (1982-1990) e Henrique Ferrão (1980-1990) nas guitarras, e José Carlos Ribeiro (1981-1990), Luís Miguel Martins (1982-1990) e Manuel Pera (1987-1990) nas violas. Deste grupo fizeram também parte os cantores: António Nogueira (1980-1981), António Pimentel (1981-1985), Paulo Saraiva (1988) e Rui Silva (1989-1990), bem como, Rijo Madeira (guitarra, 1980-1982) e Arsénio Carvalho (viola, 1980-1981)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Na sua fase mais estável, os instrumentistas eram António José Moreira (gC1, solista, de Ciências), Henrique Ferrão (gC2, de Medicina), José Carlos Ribeiro (v), Luís Miguel Martins (v) e Manuel Pera (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Só têm ficha Jorge Cravo e António José Moreira (relação membro_de nas fichas deles)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canções d'Aqui», Ovação (OV-LP-)3022, 1989; canta Jorge Cravo; 10 temas inéditos compostos entre 1982 e 1988",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Canções d’Aqui, pelo Grupo Académico de Fados e Canções de Coimbra, Ovação 3022, 1989. Canta Jorge Cravo. Guitarras: António José Moreira e Henrique Ferrão. Violas: José Carlos Ribeiro, Luís Miguel Martins, Manuel Pera e António José Moreira. Regista 10 árias inéditas, compostas entre 1982 e 1988."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "com o qual gravou o disco Canções d’Aqui (10 temas originais, editado pela Ovação – OV-LP-3022, em 1989)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Uma nota biográfica de 2009 (GC-III) dá «Canções d'aqui (1988)»; ver a ficha de Jorge Cravo."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participação no LP «Baladas de Despedida, Anos 80» (com Toada Coimbrã e Praxis Nova), Duplisom 1.004, 1990",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Baladas de Despedida, Anos 80, pelos Grupo Académico de Fados e Canções de Coimbra, Grupo de Fados de Coimbra Toada Coimbrã, Grupo de Canção de Coimbra Praxis Nova, Duplisom 1.004, Sacavém, 1990."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuação no Penedo da Saudade (Coimbra), 1987, com António José Moreira como solista de guitarra; Jorge Cravo canta «Recordações (A minha capa rasgada)», de Fernando Rolim",
+      "data": "1987",
+      "local": "Coimbra, Penedo da Saudade",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Apontamento de uma atuação do grupo juvenil de Jorge Cravo no Penedo da Saudade / Coimbra, ano de 1987, sendo solista de gC António José Moreira. Jorge Cravo interpreta Recordações (A minha capa rasgada), de Fernando Rolim,"
+        }
+      ],
+      "conflito": false,
+      "nota": "Vídeo em dados/media/cravo-recordacoes-penedo-da-saudade-1987.json."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Paulo Saraiva, ainda estudante, «funda» o «Grupo Académico de Fados» (biografia retirada da internet, 2012)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "Ainda estudante, funda dois grupos de fados, o Grupo Académico de Fados e o Grupo Torre d’Anto"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge das outras fontes: Jorge Cravo integrou o GAFCC em setembro de 1980 a convite de Henrique Ferrão, e Paulo Saraiva só aparece no grupo em 1988 (ou c. 1987-1989). Não é claro se se trata do mesmo grupo."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "filmagens no Choupal para o programa televisivo «Canção de Coimbra – Anos 80» (1989), com José Mesquita",
+      "data": "1989",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/cancao-de-coimbra-anos-80-4.html",
+          "doc": "gc-ii:3944786887953362941",
+          "citacao": "Foto tirada no Choupal - Coimbra, com o Grupo Académico de Fados e Canções e José Mesquita."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiBh2bXTInKLHkqr0m2LgIRgJb8OwEZs9y-I5FDcDoSf5wXcg_-7ZU7Hg_n54t9_feG34u-up0QIpLjxK5mPnZ1QVuOkBf934hGiw3Y-YlNoqChZEAMk61GrSd1sb5p6-Gf3aTvqzaKTt/s1600-h/CCAnos80GAcadFadoseCancoesMesquita.jpg",
+      "legenda": "Grupo Académico de Fados e Canções de Coimbra com José Mesquita no Choupal (programa «Canção de Coimbra – Anos 80», 1989).",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/cancao-de-coimbra-anos-80-4.html",
+          "doc": "gc-ii:3944786887953362941",
+          "citacao": "Foto tirada no Choupal - Coimbra, com o Grupo Académico de Fados e Canções e José Mesquita."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/400/Cravo%20CD%20Canes%20d%27Aqui.jpg",
+      "legenda": "Capa do CD «Canções d'Aqui» (Ovação, 1994, reedição do LP de 1989), com Jorge Cravo e o Grupo Académico de Fados e Canções de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-cd-canes-daqui-com-voz-de.html",
+          "doc": "gc-i:111487676768047472",
+          "citacao": "Capa do CD \"CANÇÕES D'AQUI\", com a voz de Jorge Cravo, integrado no Grupo Académico de Fados e Canções de Coimbra, da etiqueta Ovação e saído em 1994, reedição de um LP saído em 1989, da mesma etiqueta."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "«Um registo juvenil de Jorge Cravo (1987)» (GC-V, 2022)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

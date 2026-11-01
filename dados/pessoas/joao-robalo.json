@@ -1,0 +1,35 @@
+{
+  "id": "joao-robalo",
+  "tipo": "pessoa",
+  "nome": "João Robalo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "cancioneiro-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/joao-robalo.html",
+          "doc": "gc-v:4986887935163886049",
+          "citacao": "Desde 1985 que João Robalo integrava o Grupo de Fados\nCancioneiro de Coimbra, tendo gravado o disco compact disc “Balada das Capas\nNegras”, edição Espacial, SPA 3200097 de 1995."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        }
+      ],
+      "nota": "voz; desde 1985"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

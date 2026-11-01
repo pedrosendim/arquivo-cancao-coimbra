@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-peres-de-vasconcelos-columbia-j-825-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0969_24.mp3",
+  "titulo": "Fado da Severa (Variações) — Miguel A. Peres de Vasconcelos",
+  "data": "",
+  "pessoas": [
+    "peres-de-vasconcelos",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "peres-de-vasconcelos-columbia-j-825",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1927.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1919/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+      "doc": "museu-do-fado:w297bc5d90351506d",
+      "citacao": "Título: Fado da Severa (Variações) ... Editora: Co.J825 Referências: WP296, W, 32669, P296; J825"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

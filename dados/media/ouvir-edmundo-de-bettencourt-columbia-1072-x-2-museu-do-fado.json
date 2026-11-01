@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-1072-x-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0148_13.mp3",
+  "titulo": "Fado da Sugestão — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-1072-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0296.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/290/edmundo_bettencourt_fado_da_sugestao",
+      "doc": "museu-do-fado:wcd9660a2de5d640b",
+      "citacao": "Título: Fado da Sugestão ... Editora: Co. 1072X, 8120,GL101,HTCD15 Referências: P308, W, P, AS, 1-B-2; 1072-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

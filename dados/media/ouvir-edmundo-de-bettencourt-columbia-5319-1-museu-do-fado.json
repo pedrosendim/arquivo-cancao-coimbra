@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-5319-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0151_19.mp3",
+  "titulo": "Inquietação — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-5319",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0301.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/296/edmundo_bettencourt_inquietacao",
+      "doc": "museu-do-fado:wef989df11a279c2e",
+      "citacao": "Título: Inquietação ... Editora: Co. 5319, 8122,GL103 Referências: P307, W; 5319-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

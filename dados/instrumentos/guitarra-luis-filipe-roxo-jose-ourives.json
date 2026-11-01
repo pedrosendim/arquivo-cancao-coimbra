@@ -1,0 +1,63 @@
+{
+  "id": "guitarra-luis-filipe-roxo-jose-ourives",
+  "designacao": "Guitarra construída por Luís Filipe Roxo, na oficina do Cartaxo, para José Ourives",
+  "tipo": "guitarra",
+  "construtor": "luis-filipe-roxo",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "jose-ourives",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+          "doc": "gc-iii:1284480522450493884",
+          "citacao": "Luís Filipe na sua oficina no Cartaxo, com a nova guitarra para José Ourives quase pronta"
+        }
+      ],
+      "nota": "Guitarra feita para José Ourives."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fotografada quase pronta na oficina do Cartaxo",
+      "data": "",
+      "local": "Cartaxo",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+          "doc": "gc-iii:1284480522450493884",
+          "citacao": "Luís Filipe na sua oficina no Cartaxo, com a nova guitarra para José Ourives quase pronta e em cima da banca aquela que me é destinada, ainda sem braço."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de Octávio Sérgio (8.09.2009); a segunda guitarra, «ainda sem braço», destinava-se ao autor do post."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QAPXTyO22YKDa8GFCsGiVZS680EY-L0XcQ848mdvxASUNmeap-AAnXVb8rnN-siW-PUfI3bebUKuyqX_Vl7VWmvO_hr-5ZERbF8jMWRCOUGl_rsvM5CrD77JNuCkNZ-o-ug74wsbFD8/s1600-h/LFilipeeasGuitarrasNovas-1.gif",
+      "legenda": "Luís Filipe na sua oficina no Cartaxo, com a nova guitarra para José Ourives quase pronta.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+          "doc": "gc-iii:1284480522450493884",
+          "citacao": "Luís Filipe na sua oficina no Cartaxo, com a nova guitarra para José Ourives quase pronta"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/luis-filipe-na-sua-oficina-no-cartacho.html",
+      "doc": "gc-iii:1284480522450493884",
+      "citacao": "com a nova guitarra para José Ourives quase pronta"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

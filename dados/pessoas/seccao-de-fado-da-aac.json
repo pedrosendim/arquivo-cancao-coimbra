@@ -1,0 +1,1273 @@
+{
+  "id": "seccao-de-fado-da-aac",
+  "tipo": "grupo",
+  "nome": "Secção de Fado da AAC",
+  "nomes_alternativos": [
+    "Secção de Fado da Associação Académica de Coimbra",
+    "Secção de Fado da A.A.C.",
+    "Secção de Fado",
+    "SF/AAC",
+    "SF / AAC",
+    "SFAAC",
+    "SF-AAC",
+    "Secção de Fados da A.A.C.",
+    "Secção de Fado da Academia Coimbrã"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+      "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+      "citacao": "É em 1979 que, tendo por base o Movimento de Pró Reorganização e Restauração da Praxe Académica de Coimbra, surge a ideia de criação da Secção de Fado da A.A.C., a qual se pretendia voltada para a divulgação do Fado de Coimbra e da Cultura Académica Coimbrã, ao tempo aviltadas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "A Direcção Geral da A.A.C., presidida por Luís Teixeira e que apoiava de uma forma clara a criação de uma estrutura relacionada com o culto do fado, aprovou em reunião de direcção de 25 de Junho de 1980, a cedência da sala 3-18 para a futura Secção de Fado, atribuindo ao “Grupo Dinamizador” a responsabilidade de levar por diante esta tarefa que culminaria com a realização de eleições no início de 1981."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "As aulas começaram em Novembro de 1980 e eu tive a meu cargo o ensino da guitarra portuguesa, acumulado com a classe de canto e que se prolongou até 1984."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "A primeira direcção da Secção de Fado foi eleita em 24 de Fevereiro de 1981, sendo seu presidente o Mário Afonso, que fez mais um mandato."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "Assim nasceram, nos dois anos seguintes, a Orxestra Pitagórica, o Grupo de Cordas, a Orquestra Típica e Rancho e mais tarde, a Estudantina."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+      "doc": "gc-i:112937132851911513",
+      "citacao": "Porém, em 1990, a Câmara Municipal de Coimbra mandava suspender as actividades da Escola do Chiado[5], deixando o árduo trabalho de formação a cargo da Secção de Fado da Associação Académica de Coimbra (AAC) e de uma escola aberta na Tuna Académica (TAUC)."
+    },
+    {
+      "fonte": "diario-de-noticias",
+      "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+      "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+      "citacao": "A Secção de Fado, composta por quatro grupos de fado, Estudantina Universitária, Orxestra Pitagórica, Estudantina Feminina, Grupo de Cordas e Orquestra Típica e Rancho, é a estrutura que organiza a Serenata Monumental, um dos pontos mais altos da Queima, participando também no Sarau Académico e no Chá Dançante, para além de atuar nas noites de concertos na Praça da Canção."
+    },
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+      "doc": "jornal-a-cabra:w31744dde946cd5f4",
+      "citacao": "No dia 25 de novembro, no Teatro Académico Gil Vicente, decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "ideia de criação surgida em 1979, a partir do Movimento Pró Reorganização e Restauração da Praxe Académica de Coimbra",
+      "data": "1979",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "É em 1979 que, tendo por base o Movimento de Pró Reorganização e Restauração da Praxe Académica de Coimbra, surge a ideia de criação da Secção de Fado da A.A.C."
+        },
+        {
+          "fonte": "tagv",
+          "url": "https://tagv.pt/public/uploads/2019/02/tagv.pt-pelos-caminhos-da-7-a-arte-fs-21scuc-caminhos-7-arte-folhasala-1.pdf",
+          "doc": "tagv:wf5e103959f54a562",
+          "citacao": "É em 1979 que surge a ideia da criação da Secção de Fado da Associação Académica de Coimbra, que se pretendia virada para a divulgação do Fado de Coimbra e da cultura Académica Coimbrã no geral, ao tempo tão aviltadas. Desde o ano seguinte, a Secção de Fado encetou uma atividade crescente"
+        }
+      ],
+      "conflito": false,
+      "nota": "Site oficial da Secção (cópia Arquivo.pt de 2005) e folha de sala do TAGV (13-3-2019)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "25 de junho de 1980: a Direção-Geral da AAC cede a sala 3-18 à futura Secção de Fado, entregue ao «Grupo Dinamizador»",
+      "data": "1980-06-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "aprovou em reunião de direcção de 25 de Junho de 1980, a cedência da sala 3-18 para a futura Secção de Fado, atribuindo ao “Grupo Dinamizador” a responsabilidade de levar por diante esta tarefa"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "Assim, reuniram-se cerca de 800 assinaturas de colegas que ciosa e inequivocamente, contribuíram para tornar ainda mais forte a vontade daqueles que, desde a primeira hora, corporizavam tão legítimo evento. Assim, no dia 25 de Junho de 1980, era entregue uma sala para a futura Secção de Fado da AAC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de João Moura (adaptado de «Canção de Coimbra, testemunhos vivos», DG/AAC, 2002), citado no blogue."
+    },
+    {
+      "campo": "formacao",
+      "valor": "fundada em 1980",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+          "doc": "gc-i:112937132851911513",
+          "citacao": "a titubeante Secção de Fado da Associação Académica de Coimbra (fundada em 1980)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "A Secção de Fado (da AAC, 1980), no início tinha sempre a competição com a Escola do Chiado, e fortíssima."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/as-pupilas-do-senhor-reitor-e-outras.html",
+          "doc": "gc-i:113917268982237953",
+          "citacao": "quiçá no momento da fundação da Secção de Fado da Associação Académica de Coimbra (1980)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Concorda com os aniversários noticiados em 2005 (25 anos) e 2010 (30 anos); diverge da notícia de 2018 que fala em 40 anos de actividade."
+    },
+    {
+      "campo": "formacao",
+      "valor": "em 2018 a Secção celebrava «os seus 40 anos de actividade» (Diário de Coimbra, 3-5-2018)",
+      "data": "2018-05-03",
+      "fontes": [
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "O primeiro tema a ser ouvido, segundo o vice-presidente da Secção de Fado, Emanuel Nogueira, será a guitarrada \"Maio 78\", de Jorge Gomes, composto para celebrar a restauração da Serenata, em 1978. Desta forma, a Secção de Fado da AAC celebra também os seus 40 anos de actividade."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente das que dão a fundação em 1980 (25 anos em 2005, 30 anos em 2010). O arquivo não escolhe."
+    },
+    {
+      "campo": "outro",
+      "valor": "aniversários noticiados: 25 anos (2005) e trinta anos de existência (2010)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/seco-de-fado-da-aac-celebrou-25-anos.html",
+          "doc": "gc-i:111978915880126992",
+          "citacao": "Secção de Fado da AAC celebrou 25 anos. Notícia do Diário de Coimbra de hoje."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/seccao-de-fado-da-aac-vai-comemorar.html",
+          "doc": "gc-iii:4699471508755558652",
+          "citacao": "A Secção de Fado da AAC vai comemorar trinta anos de existência. Diário de Coimbra de ontem, com texto de Ana Margalho e foto de Ferreira Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os recortes do Diário de Coimbra estão só em imagem nos posts (26-6-2005 e 12-1-2010). Comemoração dos 10 anos em 1990: ver facto de atuação."
+    },
+    {
+      "campo": "outro",
+      "valor": "primeira direção eleita a 24 de fevereiro de 1981: presidente Mário Afonso (dois mandatos); vice-presidentes Quim Reis e José Seco; secretário João Moura",
+      "data": "1981-02-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A primeira direcção da Secção de Fado foi eleita em 24 de Fevereiro de 1981, sendo seu presidente o Mário Afonso, que fez mais um mandato. Foram vice-presidentes o Quim Reis e o José Seco tendo eu sido secretário nas duas primeiras direcções."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "outros membros das direções dos dois primeiros anos: Artur Ribeiro, Carlos Delfim, Mário Toste, José Carlos Amaral, Carlos Andrade, Luís Serra e Silva, Paulo Serra e Silva, Carlos Caiado, Filipe Almeida, Fátima Canelas e Joaquim Diogo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Muitos outros fizeram parte da direcção nos dois primeiros anos: Artur Ribeiro, Carlos Delfim, Mário Toste, José Carlos Amaral, Carlos Andrade, Luís Serra e Silva, Paulo Serra e Silva, Carlos Caiado, Filipe Almeida, Fátima Canelas e Joaquim Diogo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Só Carlos Caiado e Filipe Almeida têm ficha ligada; os restantes nomes ficam aqui registados."
+    },
+    {
+      "campo": "outro",
+      "valor": "fundadores destacados: Mário Afonso e Joaquim (Quim) Reis",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No início desse ano, fui contactado pelo Mário Afonso e pelo Joaquim (Quim) Reis para integrar um movimento cuja finalidade seria “restituir” o \"Fado de Coimbra\" à Academia e à cidade."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Destaco dois deles, o Quim Reis e o Mário Afonso, pela mobilização que conseguiram da Academia"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Joaquim Reis (jornalista, fundador da Secção de Fado da AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "apoios iniciais: subsídio de 50.000$00 da Fundação Calouste Gulbenkian para guitarras e violas; instrumentos oferecidos pelo F.A.O.J.",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A Fundação Calouste Gulbenkian apadrinhou o projecto e atribuiu um subsídio de 50.000$00 para aquisição de guitarras portuguesas e violas. O F.A.O.J. (Instituto Português da Juventude)também ofereceu alguns instrumentos."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "A única que realmente escutou o apelo foi a Fundação Calouste Gulbenkian, possibilitando, assim, a aquisição dos primeiros instrumentos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "o número de sócios rapidamente atingiu os duzentos",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "O número de sócios da Secção de Fado rapidamente atingiu os duzentos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "sala 3-18 do edifício da AAC (1980)",
+      "data": "1980",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "a cedência da sala 3-18 para a futura Secção de Fado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Rua Padre António Vieira n.º 1, 2.º piso, Edifício AAC, Coimbra (site da Secção, 2003-2005)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192705/https://seccaodefado.com/modules.php?file=article&name=news&sid=7",
+          "doc": "arquivo-pt:w3a8ea6c414b738fd",
+          "citacao": "Local: Rua Padre António Vieira nº 1 - 2º Piso - Edíficio AAC – 3000-015 Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Cópia Arquivo.pt de 21-6-2005 do site seccaodefado.com."
+    },
+    {
+      "campo": "ensino",
+      "valor": "escola de fado criada com a Secção: classes de guitarra portuguesa, viola e canto, a partir de outubro/novembro de 1980",
+      "data": "1980-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Seria imprescindível a criação simultânea, no seio dessa Secção, de uma escola de fado onde se ensinasse a guitarra portuguesa, a viola e o canto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "iniciou de imediato a sua actividade tendo em vista o arranque das aulas de música nas classes de guitarra portuguesa, viola e canto, logo a partir de Outubro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "As aulas começaram em Novembro de 1980"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "classe de guitarra de Coimbra criada em 1980 com João Moura; depois asseguraram a escola Fernando Monteiro, Jorge Gomes e discípulos de ambos",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html",
+          "doc": "gc-i:113931791535386927",
+          "citacao": "-Secção de Fado da Associação Académica de Coimbra: em 1980 foi criada uma classe de Guitarra de Coimbra com João Moura. Posteriormente asseguraram esta escola Fernando Monteiro, Jorge Gomes e diversos discípulos daqueles dois formadores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "em 1990, com a suspensão da Escola do Chiado pela Câmara, a formação ficou a cargo da Secção de Fado e de uma escola da TAUC",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+          "doc": "gc-i:112937132851911513",
+          "citacao": "Porém, em 1990, a Câmara Municipal de Coimbra mandava suspender as actividades da Escola do Chiado[5], deixando o árduo trabalho de formação a cargo da Secção de Fado da Associação Académica de Coimbra (AAC) e de uma escola aberta na Tuna Académica (TAUC)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "monitores e professores referidos: Jorge Cravo (canto, 1989/91 e 1998/2000); Luís Carlos Santos (viola), na época em que Ricardo Dias ensinava guitarra; escolas orientadas por Fernando Monteiro em 1991; Jorge Gomes responsável da escola (2004-2005)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/paulo-soares-enviou-me-o-texto-que-se.html",
+          "doc": "gc-i:111807176177933590",
+          "citacao": "Nos biénios de 1989/91 e 1998/2000 foi monitor de canto na Secção de Fado da AAC."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html",
+          "doc": "gc-i:115522690560936378",
+          "citacao": "Na Secção de Fado da AAC chegou a trabalhar como monitor de viola de acompanhamento, numa época em que também ensinava guitarra nessa agremiação Ricardo Dias."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/falecimento-de-manuel-joao-vaz.html",
+          "doc": "gc-v:5175455881994778921",
+          "citacao": "acompanhou vários elementos das Escolas da Secção de Fado da Associação Académica de Coimbra, à época orientadas pelo Mestre Fernando Monteiro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "Nota-se neste trabalho que a Escola da Secção de Fado da Associação Académica, na pessoa do seu responsável Jorge Gomes, tem feito um bom trabalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cada monitor tem a relação membro_de na sua ficha, com a função e a época."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Escola de Música da Secção (2003-2005): guitarra de Coimbra, guitarra clássica, canto do fado de Coimbra, cavaquinho, bandolim, gaita de foles, concertina",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192705/https://seccaodefado.com/modules.php?file=article&name=news&sid=7",
+          "doc": "arquivo-pt:w3a8ea6c414b738fd",
+          "citacao": "A SF/AAC tem também uma Escola de Música onde se aprende guitarra de Coimbra, guitarra clássica, canto do fado de Coimbra, cavaquinho, bandolim, gaita de foles, concertina"
+        }
+      ],
+      "conflito": false,
+      "nota": "Site oficial (cópia Arquivo.pt, 2005)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "no ano letivo de 2022/23 cinco raparigas iniciaram-se em aulas de interpretação na Secção",
+      "data": "2022",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_b8e9f2160f0c460a817b5a744b490d0b.pdf",
+          "doc": "jorge-cravo:w6dd7e5c70a32af4c",
+          "citacao": "Só no ano lectivo de 2022/23, na Secção de Fado da AAC, cinco raparigas estudantes iniciaram-se em aulas de interpretação e, como resultado, chegaram já a actuar em espectáculos da própria Secção"
+        }
+      ],
+      "conflito": false,
+      "nota": "Jorge Cravo, «A Canção de Coimbra no feminino», Revista Fadista n.º 2 (dez. 2023)."
+    },
+    {
+      "campo": "outro",
+      "valor": "da Secção, então presidida por uma mulher, surgem as primeiras guitarristas, como Ana Sadio",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/mulhere-cano-de-coimbra.html",
+          "doc": "gc-i:6549417306952051641",
+          "citacao": "Da secção de fado da A.A.C, presidida por uma mulher, surgem as primeiras guitarristas. Na Sé Velha, Ana Sadio brilha com a sua guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 7-1-2007; a presidente não é nomeada. Em 2002 a fonte também refere «a Presidente da Secção de Fado», sem nome (ver facto da fonoteca)."
+    },
+    {
+      "campo": "outro",
+      "valor": "grupos criados no seio da Secção nos primeiros anos: Orxestra Pitagórica, Grupo de Cordas, Orquestra Típica e Rancho e, mais tarde, Estudantina",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Assim nasceram, nos dois anos seguintes, a Orxestra Pitagórica, o Grupo de Cordas, a Orquestra Típica e Rancho e mais tarde, a Estudantina."
+        }
+      ],
+      "conflito": false,
+      "nota": "Fichas: orxestra-pitagorica, grupo-de-cordas-da-seccao-de-fado-da-aac, orquestra-tipica-e-rancho, estudantina-universitaria-de-coimbra."
+    },
+    {
+      "campo": "outro",
+      "valor": "em 1981 a direção da Secção realizou o Sarau da Queima das Fitas, para o qual foi recriada a Orxestra Pitagórica",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "Em 1981, a Direcção da Secção de Fado tomou em ombros a responsabilidade de realizar o Sarau da Queima das Fitas. De modo algum, o programa daquele espectáculo poderia incluir apenas Fado e Folclore, tendo para esse efeito sido recriada a Orxestra Pitagórica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "grupos consolidados (texto do site, c. 1999): Orquestra Típica e Rancho, Orxestra Pitagórica, Estudantina Universitária de Coimbra, Grupo de Cordas, Coro Masculino Schola Cantorum, Grupo de Fados «Coimbra de Sempre», Grupo de Fados «Æminium»",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "estão consolidados oito grupos, que são eles: · Orquestra Típica e Rancho · Orxestra Pitagórica · Estudantina Universitária de Coimbra · Grupo de Cordas · Coro Masculino Schola Cantorum · Grupo de Fados “Coimbra de Sempre” · Grupo de Fados “Æminium”"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto diz «com 19 anos de vida» e anuncia oito grupos mas enumera sete antes das classes da escola; não se acrescenta o oitavo."
+    },
+    {
+      "campo": "outro",
+      "valor": "grupos em 2003-2005: Orquestra Típica e Rancho, Estudantina Universitária de Coimbra, Orxestra Pitagórica, Coro Masculino Schola Cantorum, Grupo de Cordas e Grupos de Fados de Coimbra «Aeminium» e Guitarras do Mondego",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192705/https://seccaodefado.com/modules.php?file=article&name=news&sid=7",
+          "doc": "arquivo-pt:w3a8ea6c414b738fd",
+          "citacao": "Esta secção é constituída pelos seguintes grupos: Orquestra Típica e Rancho, Estudantina Universitária de Coimbra, Orxestra Pitagórica, Coro Masculino Schola Cantorum, Grupo de Cordas e Grupos de Fados de Coimbra \"Aeminium\" e Guitarras do Mondego."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "outras criações da Secção: Grupo de Gaiteiros, Coro Feminino «As Garotas»; edição do «Método de Cavaquinho» de Mário Afonso e da «Antologia do Fado de Coimbra» de Carlos Caiado",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "A edição e reedição do “Método de Cavaquinho” da autoria do colega Mário Afonso, o lançamento de um livro intitulado “A antologia do Fado de Coimbra” do colega Carlos Caiado, a fundação do Grupo de Cordas, do Grupo de Gaiteiros, do Coro Feminino “As Garotas” e da Estudantina Universitária de Coimbra foram argumentos da actividade crescente da Secção de Fado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "grupos de fado da Secção referidos nos blogues e na imprensa: Lácrima e Despertar (2007), Renascer (2004), Sangue Novo (2011), In Illo Tempore (2014), Ad Aeternum (2018), d'Anto, Insígnia e Maio (2022)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/serenata-monumental-da-queima-das-fitas.html",
+          "doc": "gc-i:6626438059721827134",
+          "citacao": "Actuaram os grupos Lácrima e Despertar, da Secção de Fado da Associação Académica de Coimbra."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/exposicao-guitarras-de-coimbra-museu.html",
+          "doc": "gc-iv:603504370374850092",
+          "citacao": "Grupo Sangue Novo da Secção de Fado da Associação Académica de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/u-c-e-s-p-c-o-d-e-s-b-e-r-e-i-n-i-c-i-t.html",
+          "doc": "gc-v:5903954775053400292",
+          "citacao": "Grupo de fado “In Illo Tempore” da secção de fado da AAC."
+        },
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "Para o fim fica a actuação do grupo Ad Eternun, o único repetente neste evento da Queima das Fitas."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "contou com a participação da Estudantina Universitária de Coimbra e de cinco grupos de fado, todos pertencentes à SF/AAC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Renascer: CD «Serenata do Caloiro 2004». Na Gala de 2022 atuaram d'Anto, Insígnia, Amanhecer (surgido no seio da Estudantina), o Grupo de Cordas e Maio. Grafia da fonte: «Ad Eternun»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Serenata Monumental de 2018: grupos Capas ao Luar, Distância, Desassossego (estreias) e Ad Eternun",
+      "data": "2018-05-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "Por lá passam este ano quatro grupos de fado e três deles são estreias absolutas. Cabe ao grupo de fados Capas ao Luar abrir a Serenata e fazer a sua estreia, a que se segue o grupo Distância e o Desassossego."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "o Grupo de Fados e Guitarras de Coimbra representou a Secção (1.ª atuação na TV, 15-3-1981, Teatro Maria Matos) e manteve-se ativo no seio da Academia até 1987",
+      "data": "1981-03-15",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A 15 de Março de 1981, o Grupo de Fados e Guitarras de Coimbra, representando a Secção de Fado da A.A.C., realizou a sua primeira actuação na TV, no Teatro Maria Matos, em Lisboa, integrado no espectáculo “Censos 81”."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Até 1987, o Grupo de Fados e Guitarras de Coimbra manteve-se activo no seio da Academia"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: grupo-de-fados-e-guitarras-de-coimbra. O cachet reverteu para a compra de instrumentos da Secção."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "1982: o grupo de fados da Secção integrou uma embaixada académica a França e Itália (30 de março a 9 de abril), resultado da fusão com a Tertúlia do Fado de Coimbra",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "O grupo de fados da Secção de Fados da A.A.C. integrou, em 1982, uma embaixada académica numa digressão a França e Itália, de 30 de Março a 9 de Abril, com actuações em Toulose, Montpellier, Aix-en-Provence, Veneza, Bolonha, Pádua e Roma. O grupo de fados que integrava a comitiva resultou da fusão do nosso grupo (Tó Nogueira e Carlos Caiado) com a Tertúlia do Fado de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: tertulia-do-fado-de-coimbra."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "1982: sete intervenções na televisão, incluindo a Gala da RTP no Coliseu do Porto e a série «Cantos e Contos de Coimbra», de Sansão Coelho",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Para a televisão, em 1982, realizámos sete intervenções, com destaque para a Gala da RTP, no Coliseu do Porto, em representação da Academia, e para a série de programas “Cantos e Contos de Coimbra”, da autoria de Sansão Coelho, e em que a Secção de Fado e o grupo de fados participaram várias vezes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Grupo Oficial da Secção em 1985: Rui Lucas, Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho",
+      "data": "1985",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html",
+          "doc": "gc-i:113725919817867181",
+          "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "O sujeito da frase é Rui Lucas."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "20 de abril de 1988 (1.ª Semana Cultural da AAC): dia preenchido pelos grupos da Secção; o Grupo de Fados (Luís Alcoforado, Paulo Soares/José Rabaça, Luís Carlos Santos) fez serenata no Penedo da Saudade",
+      "data": "1988-04-20",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+          "doc": "gc-i:113639247173462895",
+          "citacao": "O dia 20/04/1988, 4ª feira, foi inteiramente preenchido pelos grupos da Secção de Fado da AAC. O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v), realizou então uma concorrida serenata no Penedo da Saudade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Paulo Soares e Luís Alcoforado, membros do grupo oficial da Secção e dos Praxis Nova, organizaram as I Jornadas sobre Tradições Académicas e Canção de Coimbra (maio de 1987)",
+      "data": "1987-05",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/seminrio-80-1-folha-1-do-programa-do.html",
+          "doc": "gc-i:115651200823297801",
+          "citacao": "Em Maio de 1987, no âmbito do programa geral da Queima das Fitas, Luís Alcoforado e Paulo Soares (dos Praxis Nova e ainda sócios da Secção de Fado da AAC) organizaram as PRIMEIRAS JORNADAS SOBRE TRADIÇÕES ACADÉMICAS E CANÇÃO DE COIMBRA"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Paulo Soares e Luís Alcoforado, então membros do grupo oficial da Secção de Fado da AAC, tiveram participação activa nestes eventos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do grupo: praxis-nova."
+    },
+    {
+      "campo": "outro",
+      "valor": "os elementos do Toada Coimbrã conheceram-se na escola de fado da Secção; o grupo colaborou nos CD da Secção CD-SF 003 (1994) e CD-SF 014 (2002)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/noites-da-cano-de-coimbra-2007.html",
+          "doc": "gc-i:1872584601877491539",
+          "citacao": "passaram pela escola de fado da Secção de Fado da AAC, local onde, aliás, todos se conheceram."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "deram colaboração ao álbum negro da Secção de Fado da AAC (CD “Coimbra. Baladas, Fados e Guitarradas”, CD-SF 003, ano de 1994), bem como ao CD “Baladas da Despedida. Anos 90. Coimbra”, CD-SF 014, ano de 2002."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: toada-coimbra."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas das comemorações dos 10 anos da Secção, em 1990 (participação do Toada Coimbrã)",
+      "data": "1990",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/noites-da-cano-de-coimbra-2007.html",
+          "doc": "gc-i:1872584601877491539",
+          "citacao": "participação nas serenatas das comemorações dos 10 anos da Secção de Fado da Associação Académica de Coimbra, em 1990"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "o grupo Alma Mater foi o representante oficial da Secção durante a década de 1990",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-eduardo-filipe-eduardo.html",
+          "doc": "gc-i:111599866003974747",
+          "citacao": "Fundou o Grupo de Fados de Coimbra \"Alma Matter\" no início do ano de 1990, tendo este grupo sido o representante oficial da Secção de Fado durante a década de 90."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: alma-mater. Esta fonte (biografia de Eduardo Filipe) atribui-lhe a fundação no início de 1990; outra fonte dá Carlos Pedro como fundador em setembro de 1990 — ver a ficha do grupo."
+    },
+    {
+      "campo": "outro",
+      "valor": "os membros do grupo Verdes Anos integraram organismos como a Secção de Fado da AAC",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/capa-do-cd-verdes-anos-da-etiqueta.html",
+          "doc": "gc-i:112173844195209959",
+          "citacao": "Todos são ou foram estudantes em Coimbra, tendo integrado activamente organismos como o Orfeon Académico da Universidade de Coimbra, a Tuna Académica da Universidade de Coimbra e a Secção de Fado da Associação Académica de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: verdes-anos."
+    },
+    {
+      "campo": "outro",
+      "valor": "Aeminium, grupo da Secção em 2003-2007 (mês da Canção de Coimbra, abril de 2007)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192705/https://seccaodefado.com/modules.php?file=article&name=news&sid=7",
+          "doc": "arquivo-pt:w3a8ea6c414b738fd",
+          "citacao": "Grupos de Fados de Coimbra \"Aeminium\" e Guitarras do Mondego"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "A Secção de Fado da AAC (ver http://www.seccaodefado.com/) promoveu Abril como o mês da Canção de Coimbra, com actuações no Café Santa Cruz. Ontem (dia 18/04/2007) actuou o Grupo Aeminium"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: aeminium."
+    },
+    {
+      "campo": "outro",
+      "valor": "grupos da Secção com ficha própria segundo A Cabra (2022): d'Anto (formado em 2020), Insígnia e Maio",
+      "data": "2022-11-25",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "O grupo de fado D’Anto abriu o espetáculo com temas tradicionais do fado coimbrão, entre os quais “Coimbra, Menina e Moça”. O grupo, formado em 2020, continuou a atuação com alguns dos seus originais."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "De seguida, o grupo Insígnia apresentou alguns temas próprios dos últimos anos."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "Por último, o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência sobre o d'Anto: A Cabra dá-o «formado em 2020»; a nota biográfica de Vasco Rodrigues (blogue, 2023) diz que o formou em 2019. Fichas: grupo-de-fado-danto, insignia, grupo-de-fado-maio, amanhecer."
+    },
+    {
+      "campo": "outro",
+      "valor": "d'Anto formado em 2019 (nota biográfica de Vasco Rodrigues) e Ad Aeternum, grupos de fado da Secção",
+      "data": "2019",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Durante o curso integrou o grupo de fado Ad Aeternum da Secção de Fado da AAC como viola de acompanhamento"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2019 ingressa no curso de Gestão de Recursos Humanos no Instituto Miguel Torga, em Coimbra. Nesse mesmo ano acaba por formar o grupo de fado d’Anto da Secção de Fado da AAC como viola de acompanhamento."
+        }
+      ],
+      "conflito": true,
+      "nota": "Fichas: ad-aeternum, grupo-de-fado-danto."
+    },
+    {
+      "campo": "outro",
+      "valor": "organizadora das serenatas na Sé Velha e da Serenata Monumental da Queima das Fitas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-de-1958-pouco-sucesso-arrecadou.html",
+          "doc": "gc-i:113814706754249526",
+          "citacao": "Sendo a Secção de Fado da AAC a instituição organizadora das serenatas na Sé Velha"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/serenata-da-queima-2003-programa.html",
+          "doc": "gc-i:115572395790030956",
+          "citacao": "Programa provisório da Serenata Monumental da Queima das Fitas, organizado pela Secção de Fado da AAC e divulgado em apêndice ao Diário de Coimbra de 01 de Maio de 2003."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+          "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+          "citacao": "é a estrutura que organiza a Serenata Monumental"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "eventos anuais (texto do site, c. 1999): Festuna, ENEF – Encontro Nacional de Etnografia e Folclore, Festival de Folclore Académico «Mondego», Mês do Fado, saraus e serenatas da Queima das Fitas e da Festa das Latas",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "a Secção de Fado toma em mãos todos os anos a realização de diversos eventos, nomeadamente: · Festuna – Festival Internacional de Tunas (este ano será a IX edição); · ENEF – Encontro Nacional de Etnografia e Folclore (que já conta com sete edições); · Festival de Folclore Académico “Mondego” (este ano será a V edição); · Mês do Fado (que conta com duas edições) · Saraus e Serenatas da Queima das Fitas e Festa das Latas"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Mês do Fado: edições de março de 1998 e março de 1999, com comunicações de Jorge Cravo",
+      "data": "1998-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/paulo-soares-enviou-me-o-texto-que-se.html",
+          "doc": "gc-i:111807176177933590",
+          "citacao": "Colaborou na iniciativa Mês do Fado (Mar. 1998), realizada pela Secção de Fado da AAC"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/paulo-soares-enviou-me-o-texto-que-se.html",
+          "doc": "gc-i:111807176177933590",
+          "citacao": "Colaborou no Mês do Fado (Mar. 99), realizado pela Secção Fado da AAC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Mês do Fado: abril de 2007 (mês da Canção de Coimbra, Café Santa Cruz), Gala de Abertura de 2013 no Mosteiro de Santa Clara-a-Velha com homenagem a Luiz Goes, XV Mês do Fado (2018) e XVIII Mês do Fado (2022)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aeminium-2.html",
+          "doc": "gc-i:1951383992681670585",
+          "citacao": "promoveu Abril como o mês da Canção de Coimbra, com actuações no Café Santa Cruz"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/fotos-da-gala-de-abertura-do-mes-do.html",
+          "doc": "gc-v:7559567255102223794",
+          "citacao": "Fotos da Gala de Abertura do Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra, no Mosteiro de Santa Clara-a-Velha, na passada sexta-feira. Homenageou-se Luiz Goes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/um-vislumbre-de-jose-elyseu.html",
+          "doc": "gc-v:669364490763888807",
+          "citacao": "XV Mês do Fado de Coimbra, edição em vídeo pela SF / AAC"
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A numeração das edições é a das fontes."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "promotora do Seminário de Canção de Coimbra de 1998",
+      "data": "1998",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "seis seminários realizados em 1978, 1979, 1980, 1981, 1983, 1998"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Em 1998 a Secção de Fado da AAC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "encontro «Reflectir e fruir a Canção de Coimbra nos inícios do século XXI (Percepções e consumos)», 28 de abril de 2012",
+      "data": "2012-04-28",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Comunicação apresentada no encontro “Reflectir e fruir a Canção de Coimbra nos inícios do século XXI (Percepções e consumos), Coimbra, Secção de Fado da Associação Académica de Coimbra, 28 de abril de 2012."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "co-organizadora do Sarau de Gala da Queima das Fitas de 2010, com a Comissão Central",
+      "data": "2010",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/sarau-de-gala-da-queima-das-fitas-2010.html",
+          "doc": "gc-iii:6978283384238518707",
+          "citacao": "Mais uma vez, a Secção de Fado da AAC associa-se a este evento como Co-Organizadora, a par da Comissão Central da Queima das Fitas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas de 2019 no Largo da Sé Velha (RTP)",
+      "data": "2019-05-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/serenata-em-coimbra-2/",
+          "doc": "rtp-arquivos:w9a8db0a662cbfaa9",
+          "citacao": "Resumo Analítico: Secção de Fado da Associação Académica de Coimbra toca no Largo da Sé Velha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2023 no Paço das Escolas, por imposição de obras na Sé Velha, segundo o presidente da Secção, João Sousa",
+      "data": "2023-05-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "De acordo com o presidente da Secção de Fado (SF/AAC), João Sousa, “o ideal era que a Serenata Monumental fosse organizada na Sé Velha, por toda a tradição que acarreta”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "XXXII FESTUNA (3-4 de maio de 2024), organizado pela Estudantina, grupo da Secção; presidente da SF/AAC: Diogo Ferreira",
+      "data": "2024-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "organizado pela Estudantina Universitária de Coimbra, grupo pertencente à Secção de Fado da Associação Académica de Coimbra (SF/AAC)"
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "Para Diogo Ferreira, presidente da SF/AAC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tributo a Edmundo de Bettencourt pela Secção (125 anos do nascimento, 2024)",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/nos-125-anos-do-nascimento-de-edmundo.html",
+          "doc": "gc-v:6371271919069330787",
+          "citacao": "18h30 – Tributo a Edmundo de Bettencourt pela Secção de Fado da AAC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "2020: debates em linha («Qual a voz do canto de Coimbra?» e tertúlia sobre a «1.ª década de ouro da Canção de Coimbra») e manifesto crítico sobre o concerto dos 730 anos da UC",
+      "data": "2020",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/11/usos-e-abusos-da-memoria-na-cc-nao-ha.html",
+          "doc": "gc-v:4217411029393552503",
+          "citacao": "a SF /AAC veio contornar as dificuldades trazidas pela pandemia e, numa faena digna de originalidade e aplauso, trouxe a debate o 1.º centenário da «1.ª década de ouro da Canção de Coimbra»."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/protestos-e-indignacao-na-celebracao.html",
+          "doc": "gc-v:3817729580930359424",
+          "citacao": "A SF/AAC, em conjunto com diversos organismos culturais e representantes dos antigos estudantes de Coimbra lançou um manifesto bastante crítico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "março de 2018: recusa de participar na Queima das Fitas por falta de financiamento (vice-presidente Emanuel Nogueira); diferendo ultrapassado antes da Serenata",
+      "data": "2018-03-01",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+          "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+          "citacao": "A Secção de Fado da Associação Académica de Coimbra (AAC), responsável pela Serenata Monumental, recusa participar na Queima das Fitas por ausência de financiamento nos últimos dois anos, disse à agência Lusa o vice-presidente da secção, Emanuel Nogueira."
+        },
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "Ultrapassado o diferendo, Emanuel Nogueira garante que a Serenata deste ano vai «ser especial»"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "polémica de 1986-1987 sobre uma versão de Nuno da Câmara Pereira, alimentada pela Secção",
+      "data": "1986",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "O tema é interpretado a nível da abordagem vocal e instrumental como um fado de Lisboa, opção que não evitou em 1986-1987 uma exaltada polémica alimentada pela Secção de Fado da AAC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "arquivo sonoro da Secção; acordo de 2002 (vereador Mário Nunes, Jorge Cravo e a presidente da Secção) para a Secção criar uma fonoteca",
+      "data": "2002-03",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_10.html",
+          "doc": "gc-i:115521364541912139",
+          "citacao": "nos limitámos a digitalizar uma folha de inventário do arquivo sonoro da Secção de Fado da AAC"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+          "doc": "gc-i:112937132851911513",
+          "citacao": "Nesta reunião se firmou um acordo de cavalheiros no sentido de a Secção de Fado da AAC criar uma fonoteca, com base num protocolo entre a CMC e a RDP/Centro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "designa um dos membros do júri do Prémio Edmundo de Bettencourt (2007)",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/cano-de-coimbra-o-mote-do-concurso.html",
+          "doc": "gc-i:8429527709648197807",
+          "citacao": "por uma personalidade ligada à música, designada pela Secção de Fado da Associação Académica de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "a Sala de Ensaios recebeu o nome de Sala António Nogueira, em homenagem ao sócio n.º 1",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A Secção de Fado da Associação Académica de Coimbra decidiu atribuir o nome de Sala António Nogueira à Sala de Ensaios, em homenagem a este seu sócio nº1, responsável também pelo ressurgimento da sua Orxestra Pitagórica"
+        }
+      ],
+      "conflito": false,
+      "nota": "Homenagem a Tó Nogueira pela Secção noticiada no Diário de Coimbra de 16-12-2007 (recorte só em imagem, gc-i:5760886414115510450)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "dez trabalhos fonográficos editados até c. 1999: «Estudantina Passa», «Canto da Noite», «V Festuna», «VII Festuna», «Portugal Total», «Alma Mater», «Baladas, Fados e Guitarradas», «Baladas da Despedida dos Anos 80», «Olhar Coimbra» e «a2+b2=c2 – Orxestra Pitagórica»; em preparação «A Secção de Fado apresenta...»",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "Editou até agora dez trabalhos fonográficos ( “Estudantina Passa”, “Canto da Noite”, “V Festuna”, “VII Festuna”, “Portugal Total”, “Alma Mater”, “Baladas, Fados e Guitarradas”, “Baladas da Despedida dos Anos 80”, “Olhar Coimbra” e “a2+b2=c2 – Orxestra Pitagórica”), estando em preparação o CD “A Secção de Fado apresenta...”, que engloba dois temas dos seus oito grupos."
+        }
+      ],
+      "conflito": false,
+      "nota": "O LP «Baladas de Despedida, Anos 80» aparece noutra fonte como edição Duplisom 1.004 (1990): ver gc-v:4163497511678760872. Sem ficha própria para «VII Festuna» e «a2+b2=c2»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "CD «Coimbra, Baladas, Fados e Guitarradas» (SF003, 1994), amostragem do trabalho da Secção entre 1980 e 1994",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Coimbra, Baladas, Fados e Guitarradas, Coimbra, Secção de Fado, SF003, Coimbra, 1994. Texto do booklet por Jorge Gomes. Antologia constituída por 17 temas. Pretende ser uma amostragem do trabalho desenvolvido pela Secção de Fado da AAC entre 1980 e 1994."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: baladas-fados-e-guitarradas-seccao-de-fado-cd-sf003."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "CD «Cordas do Mondego» (1999), 13 peças instrumentais do repertório de Artur Paredes",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Cordas do Mondego, Coimbra, Secção de Fado da AAC, 1999. Recupera 13 peças instrumentais do repertório Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha: cordas-do-mondego-seccao-de-fado-1999."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "discografia no Discogs sob o nome da Secção: «Baladas, Fados E Guitarradas» (1994), «Cordas do Mondego» (1999) e uma compilação CDr (2008)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6962111",
+          "doc": "discogs:w06ddc43299a205b4",
+          "citacao": "1994 · Baladas, Fados E Guitarradas"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6962111",
+          "doc": "discogs:w06ddc43299a205b4",
+          "citacao": "1999 · Cordas do Mondego"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/6962111",
+          "doc": "discogs:w06ddc43299a205b4",
+          "citacao": "2008 · Secção De Fado Da Associação Académica de Coimbra · Not On Label · CDr, CD-ROM, Comp"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1000156.jpg",
+      "legenda": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. O emblema desenhado na janela da Secção.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco-de-fado-da_01.html",
+          "doc": "gc-i:113088550241837504",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. O emblema desenhado na janela da Secção."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Seco%20de%20Fado.0.jpg",
+      "legenda": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Placas colocadas junto da porta da Secção.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco-de-fado-da.html",
+          "doc": "gc-i:113088589080400463",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Placas colocadas junto da porta da Secção."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1000157.jpg",
+      "legenda": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Jorge Gomes professor na escola.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088537679887685.html",
+          "doc": "gc-i:113088537679887685",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Jorge Gomes professor na escola."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRgH4fZ2zz7Dym4gBqGj4rG5IPxyf09nHHPdFUuTY5X3_k5KLprHjIdyVvu0IHesXYXES4_3E2dchWZVOIJMCrMVipvirB0Go6u50HtgR1C0iW8Y3unY_gLlTDdtYXK8TFOGzD2cTj9U/s1600/SFado2MCoroaPedroBatistaPau.jpg",
+      "legenda": "Quatro associados da Secção de Fado na sessão de homenagem a Artur Paredes (Casa da Cultura, dezembro de 2010): Manuel Coroa, Pedro Batista e Paulo Silva (guitarras), Francisco Requicha (viola). Fotos de Manuela Ralha.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Terminou a sessão com quatro associados da Secção de Fado da Academia Coimbrã, na execução de peças de Artur Paredes, com alto grau de dificuldade, tendo-se saído airosamente. Foram eles: Manuel Coroa, Pedro Batista e Paulo Silva em guitarra; Francisco Requicha em viola."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYkLCIyq6JvXKIlP6ShvAduwvOBIPD-AULnfacIrji-Udo5cizrQ8nNJIWxlfJeHFZ4EBs3CSwwvUFUQXmd-PNRgXjpZIwyVCU9d88HcKPZIA6XKGcyDs_xlYGbBJKMhlZWlxYBxJi4_QP/s1600/DSC_6143.JPG",
+      "legenda": "Gala de Abertura do Mês do Fado organizado pela Secção de Fado da AAC, Mosteiro de Santa Clara-a-Velha (abril de 2013), com homenagem a Luiz Goes. Fotos de Carlos Micaêlo.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/fotos-da-gala-de-abertura-do-mes-do.html",
+          "doc": "gc-v:7559567255102223794",
+          "citacao": "Fotos da Gala de Abertura do Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra, no Mosteiro de Santa Clara-a-Velha, na passada sexta-feira. Homenageou-se Luiz Goes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs — Secção de Fado da Associação Académica de Coimbra (artista)",
+      "url": "https://www.discogs.com/artist/6962111"
+    },
+    {
+      "rotulo": "Discogs — editora Secção de Fado da Associação Académica de Coimbra",
+      "url": "https://www.discogs.com/label/1290060"
+    },
+    {
+      "rotulo": "Site antigo da Secção (seccaodefado.com), «História da Secção de Fado da AAC» — cópia Arquivo.pt de 2005",
+      "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1"
+    },
+    {
+      "rotulo": "Post «Coimbra do meu tempo», de João Moura (nascimento da Secção)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

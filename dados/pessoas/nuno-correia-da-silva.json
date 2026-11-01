@@ -1,0 +1,38 @@
+{
+  "id": "nuno-correia-da-silva",
+  "tipo": "pessoa",
+  "nome": "Nuno Correia da Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "voz no CD promocional «Fado de Coimbra», concerto na Sala Radio de Bucareste (junho de 2019), com Ricardo Dias e Ni Ferreirinha",
+      "data": "2019-06",
+      "local": "Bucareste",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "Vocals – Nuno Correia da Silva"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "live la Sala Radio din ... iunie 2019"
+        }
+      ],
+      "conflito": false,
+      "nota": "No Discogs o nome surge também como «Nuno Silva» (variação de crédito); não ligado a outros «Nuno Silva» do arquivo."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "guitarra-fernando-meireles-2002-colecao-fernandez",
+  "designacao": "Guitarra de Coimbra de Fernando Meireles, 2002 (coleção de Ron Fernandez)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "fernando-meireles",
+  "ano": "2002",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "For me the neck dimensios are perfect. When I sit and play this guitarra I get lost in time"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Coimbra feita em 2002, escala de 470 mm",
+      "data": "2002",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O rótulo diz «Jose Fernando Meireles»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Fernando Meireles's label says Jose Fernando Meireles but he goes by Fernando."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ornamentação muito simples: roseta de marchetaria, sem madrepérola; proporções elegantes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The ornamentation of the Meireles Coimbra guitar is very simple--the rosette is marquetry not mother of pearl. The proportions of the instrument are very elegant."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/MeirelesFace.jpg",
+      "legenda": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/MeirelesBack.jpg",
+      "legenda": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Fernando Meireles, Coimbra Guitarra made in 2002, 470mm scale."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

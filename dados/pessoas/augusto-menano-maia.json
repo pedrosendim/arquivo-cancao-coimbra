@@ -1,0 +1,29 @@
+{
+  "id": "augusto-menano-maia",
+  "tipo": "pessoa",
+  "nome": "Augusto Menano Maia",
+  "nomes_alternativos": [
+    "Dr. Augusto Menano Maia"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "francisco-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Diz o seu sobrinho e afilhado, Dr. Augusto Menano Maia"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

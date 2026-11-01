@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-laa-174800-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1161_45.mp3",
+  "titulo": "Carta de longe — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-laa-174800",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5519.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2301/antonio_menano_carta_de_longe",
+      "doc": "museu-do-fado:wead02ad05af7fb05",
+      "citacao": "Título: Carta de longe ... Editora: Od. LAA174.800a, AA500.800,EMI261283[12\"] Referências: XXOG1040, L, NR; LAA 174800a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

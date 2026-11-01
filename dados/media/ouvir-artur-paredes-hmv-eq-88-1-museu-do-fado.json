@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-88-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0684_15.mp3",
+  "titulo": "Fantasia — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "fantasia-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-88",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1361.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1352/artur_paredes_fantasia",
+      "doc": "museu-do-fado:w744e88285cf15f11",
+      "citacao": "Título: Fantasia ... Editora: Vi.81472, HMV EQ88,"
+    }
+  ],
+  "nota": "O exemplar digitalizado pelo Museu do Fado é da edição Victor 81472 (etiqueta «Gravado na Europa»); a ficha indica também HMV EQ88.",
+  "estado_revisao": "rascunho"
+}

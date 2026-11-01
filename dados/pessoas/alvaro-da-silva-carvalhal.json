@@ -1,0 +1,52 @@
+{
+  "id": "alvaro-da-silva-carvalhal",
+  "tipo": "pessoa",
+  "nome": "Álvaro da Silva Carvalhal",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 30 de maio de 1935",
+      "data": "1935-05-30",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Álvaro da Silva Carvalhal faleceu em Coimbra, a 30 de Maio de 1935"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Emigrou para o Brasil; regressado, estabeleceu-se em Esposende",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Álvaro da Silva Carvalhal emigrou para o Brasil."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "o endinheirado filho de Álvaro do Carvalhal estabeleceu-se em Esposende na casa da mãe e do padrasto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,344 @@
+{
+  "id": "praxis-nova",
+  "tipo": "grupo",
+  "nome": "Praxis Nova",
+  "nomes_alternativos": [
+    "Grupo Praxis Nova",
+    "Práxis Nova",
+    "Grupo de Canção de Coimbra Praxis Nova",
+    "Grupo Canção De Coimbra Praxis Nova"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/histria-2004-um-dvd-com-histrias.html",
+      "doc": "gc-i:113820490698360706",
+      "citacao": "em Maio de 1987, durante a Queima das Fitas, os Praxis Nova participaram activamente nas Primeiras Jornadas Sobre Tradições Académicas e Canção de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/grupo-praxis-nova-serenata.html",
+      "doc": "gc-i:113628846391486622",
+      "citacao": "Serenata comemorativa do 38º aniversário da fundação da Real República do Bota-Abaixo, realizada nas escadinhas da Travessa do Loureiro, na noite de 06 de Fevereiro de 1988. São visíveis na foto José Alberto Rabaça (g), Paulo Soares, dito Jojó (g) e Luís Carlos Santos (v)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+      "doc": "gc-i:115651512446535518",
+      "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "Espécime cantado na Sé Velha, na noite de 4 para 5 de Maio de 1989, na Serenata Monumental da Queima das Fitas, por Luís Alcoforado (Grupo Praxis Nova)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva. Guitarra: Paulo Soares. Violas: Carlos Costa e Luís Carlos Santos. Regista 13 temas, sendo 10 cantados e 3 instrumentais. Apresenta 4 inéditos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Praxis Nova, Percursos, Colectânea de Canções de Coimbra, CD/CDM 003, Porto, Fortes & Rangel, Lda., 1998. Remasterização de 19 temas anteriormente gravados em cassete e disco. Texto de apresentação assinado por Luís Alcoforado. Antologia comemorativa do 10.º aniversário do Grupo Praxis Nova. Cantam Luís Alcoforado, Rui Moreira e Victor de Almeida e Silva. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
+      "doc": "gc-v:2387969368640592301",
+      "citacao": "Deve-se a dois elementos dos Praxis Nova, Paulo Soares e Luís Alcoforado, o abandono do hieratismo em palco, a apresentação dos alinhamentos, a partilha de curtas informações sobre os instrumentos e o repertório em português, inglês e francês e até a realização de workshops"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "atividade consolidada a partir de 1987",
+      "data": "1987",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "Com actividade consolidada a partir de 1987, os Praxis Nova trabalham o repertório da mítica formação. Luís Alcoforado interpreta e grava com Paulo Soares (gC) alguns temas deste grupo, Os Teus Olhos e Balada da Moleirinha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "participação nas Primeiras Jornadas sobre Tradições Académicas e Canção de Coimbra, Queima das Fitas de maio de 1987 (organizadas por Luís Alcoforado e Paulo Soares)",
+      "data": "1987-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/histria-2004-um-dvd-com-histrias.html",
+          "doc": "gc-i:113820490698360706",
+          "citacao": "em Maio de 1987, durante a Queima das Fitas, os Praxis Nova participaram activamente nas Primeiras Jornadas Sobre Tradições Académicas e Canção de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/seminrio-80-1-folha-1-do-programa-do.html",
+          "doc": "gc-i:115651200823297801",
+          "citacao": "Em Maio de 1987, no âmbito do programa geral da Queima das Fitas, Luís Alcoforado e Paulo Soares (dos Praxis Nova e ainda sócios da Secção de Fado da AAC) organizaram as PRIMEIRAS JORNADAS SOBRE TRADIÇÕES ACADÉMICAS E CANÇÃO DE COIMBRA"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata comemorativa do 38.º aniversário da fundação da Real República do Bota-Abaixo («Centenário» da casa), Travessa do Loureiro, 6 de fevereiro de 1988, com a Tertúlia do Fado de Coimbra",
+      "data": "1988-02-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/grupo-praxis-nova-serenata.html",
+          "doc": "gc-i:113628846391486622",
+          "citacao": "Serenata comemorativa do 38º aniversário da fundação da Real República do Bota-Abaixo, realizada nas escadinhas da Travessa do Loureiro, na noite de 06 de Fevereiro de 1988. São visíveis na foto José Alberto Rabaça (g), Paulo Soares, dito Jojó (g) e Luís Carlos Santos (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/os-repblicos-da-bota-abaixo-preparam-se.html",
+          "doc": "gc-i:2240519974284772243",
+          "citacao": "no Centenário de 06/02/1988 promoveu uma serenata com as formações Praxis Nova e Tertúlia do Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, noite de 4 para 5 de maio de 1989 (Luís Alcoforado canta a Balada da Moleirinha)",
+      "data": "1989-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "Espécime cantado na Sé Velha, na noite de 4 para 5 de Maio de 1989, na Serenata Monumental da Queima das Fitas, por Luís Alcoforado (Grupo Praxis Nova)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 1989: Rui Moreira canta pelos Praxis Nova",
+      "data": "1989",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html",
+          "doc": "gc-i:113725919817867181",
+          "citacao": "às vozes dos novos divos da CC, Rui Moreira pelos Praxis Nova e Rui Lucas pelos Toada Coimbrã."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "cassete «Praxis Nova. Canções de Coimbra», Fortes & Rangel, DCS 017, 1989, 11 temas",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Canções de Coimbra, Praxis Nova, cassete Discantus/Fortes & Rangel, Lda., Porto, ano de 1989. Canta Luís Alcoforado. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos. Contém 11 registos antigos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP coletivo «Baladas de Despedida, Anos 80», Duplisom 1.004, 1990",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Baladas de Despedida, Anos 80, pelos Grupo Académico de Fados e Canções de Coimbra, Grupo de Fados de Coimbra Toada Coimbrã, Grupo de Canção de Coimbra Praxis Nova, Duplisom 1.004, Sacavém, 1990."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Coimbra em Canções», Aurastúdios, 1991, 13 temas, 4 inéditos",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva. Guitarra: Paulo Soares. Violas: Carlos Costa e Luís Carlos Santos. Regista 13 temas, sendo 10 cantados e 3 instrumentais. Apresenta 4 inéditos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Percursos. Colectânea de Canções de Coimbra», Fortes & Rangel, CDM 003, 1998, antologia do 10.º aniversário",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Praxis Nova, Percursos, Colectânea de Canções de Coimbra, CD/CDM 003, Porto, Fortes & Rangel, Lda., 1998. Remasterização de 19 temas anteriormente gravados em cassete e disco. Texto de apresentação assinado por Luís Alcoforado. Antologia comemorativa do 10.º aniversário do Grupo Praxis Nova. Cantam Luís Alcoforado, Rui Moreira e Victor de Almeida e Silva. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "divulgou e gravou entre 1987 e 1991 produções de José Afonso e de Adriano Correia de Oliveira; Paulo Soares fez arranjos de guitarra para temas de José Afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "A formação Praxis Nova, com os cantores Luís Alcoforado e Victor Silva, divulgou e gravou entre 1987-1991 produções de José Afonso e de Adriano Correia de Oliveira."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "o guitarrista Paulo Soares, solista dos Praxis Nova, que fez arranjos de gC para alguns temas de José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Paulo Soares e Luís Alcoforado abandonaram o hieratismo em palco: apresentação dos alinhamentos, informações em português, inglês e francês, workshops",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
+          "doc": "gc-v:2387969368640592301",
+          "citacao": "Deve-se a dois elementos dos Praxis Nova, Paulo Soares e Luís Alcoforado, o abandono do hieratismo em palco, a apresentação dos alinhamentos, a partilha de curtas informações sobre os instrumentos e o repertório em português, inglês e francês e até a realização de workshops"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "abre o espetáculo da Quarentuna de Coimbra de homenagem a Octávio Sérgio (2015)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/homenagem-octavio-sergio.html",
+          "doc": "gc-v:6913174693727083904",
+          "citacao": "o espetáculo abre sempre com um grupo de fados. Este ano, marca presença o grupo Praxis Nova."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "fotografia de serenata em postal ilustrado da década de 1990, editado comercialmente sem autorização do grupo (sessão de 1996, segundo Luís Alcoforado)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "reconhecíveis três elementos da formação Praxis Nova: sentado, com guitarra, José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó); de pé, encostado ao umbral, Luís Carlos Santos (viola); de pé, o cantor Luís Alcoforado."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "Luís Alcoforado informa que a sessão fotográfica terá sido realizada em 1996 e que a edição comercial de postais foi feita sem a autorização dos elementos do grupo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/640/Praxis%20Nova.jpg",
+      "legenda": "Praxis Nova na serenata do 38.º aniversário da Real República do Bota-Abaixo (6 de fevereiro de 1988): José Alberto Rabaça (guitarra), Paulo Soares «Jojó» (guitarra) e Luís Carlos Santos (viola).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/grupo-praxis-nova-serenata.html",
+          "doc": "gc-i:113628846391486622",
+          "citacao": "Serenata comemorativa do 38º aniversário da fundação da Real República do Bota-Abaixo, realizada nas escadinhas da Travessa do Loureiro, na noite de 06 de Fevereiro de 1988. São visíveis na foto José Alberto Rabaça (g), Paulo Soares, dito Jojó (g) e Luís Carlos Santos (v)."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaBfNxHDvWVhOsYhnjUJWRPY8VTvaky_x7m6Cc4kBawnH0PRwcxYHEWhlIzxnyQGZooMWOD1LwJIwFPw44Kb_ywDxW4sAmW-iMRwh_KA1qc-iCmFU0CfSUdWkzoIWVbS8pFjtfuW_6vpgC/s1600/postal+luis+carlos.jpg",
+      "legenda": "Postal ilustrado (década de 1990): José Alberto Rabaça (guitarra, sentado), Luís Carlos Santos (viola) e o cantor Luís Alcoforado.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "reconhecíveis três elementos da formação Praxis Nova: sentado, com guitarra, José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó); de pé, encostado ao umbral, Luís Carlos Santos (viola); de pé, o cantor Luís Alcoforado."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Lista%20telefnica%20Foto%20Prxis%20Nova.jpg",
+      "legenda": "Praxis Nova na capa das listas telefónicas da zona centro (foto também do CD «Percursos»): José Rabaça (guitarra), Luís Carlos e Carlos Costa (violas), Rui Moreira e Luís Alcoforado (canto).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/as-novas-listas-telefnicas-da-zona.html",
+          "doc": "gc-i:111482502725407824",
+          "citacao": "As novas Listas Telefónicas da zona centro, ostentam na capa uma foto do grupo PRAXIS NOVA, foto esta também incluída no CD do mesmo grupo, \"Percursos\", que brevemente aqui será apresentado. À guitarra está José Rabaça e à viola Luís Carlos e Carlos Costa. A cantar, Rui Moreira e Luís Alcoforado."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Cassete%20Praxis%20Nova.jpg",
+      "legenda": "Cassete «Praxis Nova. Canções de Coimbra» (Fortes & Rangel, 1989).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Praxis Nova",
+      "url": "https://www.discogs.com/artist/4881702"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

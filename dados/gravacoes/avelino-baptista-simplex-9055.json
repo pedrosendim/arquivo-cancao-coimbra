@@ -1,0 +1,66 @@
+{
+  "id": "avelino-baptista-simplex-9055",
+  "titulo": "Adeus a Coimbra",
+  "formato": "78rpm",
+  "editora": "Simplex",
+  "referencia": "9055 / 9123",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Adeus a Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-simplex-9055-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Adeus a Coimbra», por Avelino Baptista — etiqueta: «Adeus a Coimbra / Canção / Cantada por Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2981/avelino_baptista_adeus_a_coimbra",
+          "doc": "museu-do-fado:w38e2121ca4be2faf",
+          "citacao": "Título: Adeus a Coimbra ... Editora: Disco Simplex 9055 9123 Referências: 9055, E8U, A1; 9055 ... Etiqueta: Adeus a Coimbra / Canção / Cantada por Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w5932136a7c2f4c93; outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Um polícia ao telefone» (Duarte Silva, museu-do-fado:wa198ff0149424bc1)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2981/avelino_baptista_adeus_a_coimbra",
+      "doc": "museu-do-fado:w38e2121ca4be2faf",
+      "citacao": "Título: Adeus a Coimbra ... Editora: Disco Simplex 9055 9123 Referências: 9055, E8U, A1; 9055"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5310/avelino_baptista_adeus_a_coimbra",
+      "doc": "museu-do-fado:w5932136a7c2f4c93",
+      "citacao": "Título: Adeus a Coimbra ... Editora: Disco Simplex 9055 9123 Referências: 9055, E8U, 4 8 10A; 9055"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

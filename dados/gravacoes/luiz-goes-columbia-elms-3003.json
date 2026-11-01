@@ -1,0 +1,112 @@
+{
+  "id": "luiz-goes-columbia-elms-3003",
+  "titulo": "Balada da Velha Sé",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "ELMS 3003",
+  "ano": "1967",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada Da Velha Sé",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-9-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Balada Do Mar",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-12-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado Dos Beijos",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "No Calvário",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-10-apple-music",
+        "ouvir-luiz-goes-columbia-spmx-5004-10-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/wHXcRLBjLPDXTZDklASXx-cbOgBDoQnWlx9VwW1kC6A/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODcy/NzktMTUyMjQzNzk3/Mi03MDM0LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6787279",
+        "doc": "discogs:w6314cde1861f79e1",
+        "citacao": "Imagem (primary): https://i.discogs.com/wHXcRLBjLPDXTZDklASXx-cbOgBDoQnWlx9VwW1kC6A/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODcy/NzktMTUyMjQzNzk3/Mi03MDM0LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6787279",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6787279",
+          "doc": "discogs:w6314cde1861f79e1",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6787279",
+          "doc": "discogs:w6314cde1861f79e1",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6787279",
+      "doc": "discogs:w6314cde1861f79e1",
+      "citacao": "Editora: Columbia – ELMS 3003"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/a-emergencia-do-novo-canto-um-monumento.html",
+      "doc": "gc-v:580185317232692952",
+      "citacao": "EP DR. LUIZ GOES, BALADA DA SÉ VELHA, Lisboa, Columbia ELMS 3003, s/d. [1967]."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

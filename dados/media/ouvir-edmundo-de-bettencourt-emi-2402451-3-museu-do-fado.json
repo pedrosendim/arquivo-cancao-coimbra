@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-emi-2402451-3-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0160_02.mp3",
+  "titulo": "Balada do Encantamento — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "afonso-de-sousa",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-emi-2402451",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0319.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/314/edmundo_bettencourt_balada_do_encantamento",
+      "doc": "museu-do-fado:w14457981e588ee56",
+      "citacao": "Título: Balada do encantamento ... Editora: Co.BL1001,GL107"
+    }
+  ],
+  "nota": "Registo do disco de 78 rpm Columbia BL1001 (também GL107) no Arquivo Sonoro do Museu do Fado; a ficha do Museu não refere esta reedição em LP.",
+  "estado_revisao": "rascunho"
+}

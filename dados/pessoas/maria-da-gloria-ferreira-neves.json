@@ -1,0 +1,36 @@
+{
+  "id": "maria-da-gloria-ferreira-neves",
+  "tipo": "pessoa",
+  "nome": "Maria da Glória Ferreira Neves",
+  "nomes_alternativos": [
+    "Maria da Glória Barros Leite",
+    "Glória"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "raul-barros-leite",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/11/uma-evocacao-de-barros-leite-por.html",
+          "doc": "gc-v:7919116858908534510",
+          "citacao": "Em 1964 casa com Maria da Glória Ferreira Neves, estudante de Geologia. Do casamento haverá duas filhas"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/arquivos-da-cancao-de-coimbra.html",
+          "doc": "gc-v:6509703397242452739",
+          "citacao": "Dra. Maria da Glória Barros Leite (viúva de Barros Leite)"
+        }
+      ],
+      "nota": "Casamento em 1964. As duas filhas, vivas, não se registam em ficha própria."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "capas-negras",
+  "tipo": "grupo",
+  "nome": "Capas Negras",
+  "nomes_alternativos": [
+    "Grupo Capas Negras",
+    "Grupo de Fados Capas Negras"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+      "doc": "gc-v:1436266136812530715",
+      "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+      "doc": "gc-i:111599769022873069",
+      "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+      "doc": "gc-i:533926602207610002",
+      "citacao": "Uma serenata pelos \"Capas Negras\" algo diferente, pois tratou-se de uma homenagem ao Dr. José Afonso. Primeiro a Canção de coimbra propriamnete dita, com \"Saudades de Coimbra\", \"Fado das Águias\", \"Balada de Outono\", etc. Depois, o Guitarrista António José Moreira trocou a guitarra pela viola e interpretaram-se outras canções de José Afonso"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994",
+      "data": "1994-05-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Formações juniores presentes na SMQF de 6 de maio de 1994"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata no Arco de Almedina (Diário de Coimbra, setembro de 2005)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/grupo-de-fados-capas-negras-hoje-no.html",
+          "doc": "gc-i:112619076496479614",
+          "citacao": "Grupo de Fados Capas Negras, hoje, no Arco de Almedina. Notícia do Diário de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "homenagem a José Afonso nas cidades da Amadora e Oeiras (Diário de Coimbra, abril de 2007)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/jos-afonso-vai-ser-homenageado-pelo.html",
+          "doc": "gc-i:5609318639688673127",
+          "citacao": "José Afonso vai ser homenageado pelo Grupo Capas Negras, nas cidades da Amadora e Oeiras. Diário de Coimbra de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "serenata de homenagem a José Afonso no Arco de Almedina, 8 de setembro de 2007",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "No último sábado (8 de Setembro) teve lugar uma Serenata no Arco de Almedina. Uma serenata pelos \"Capas Negras\" algo diferente, pois tratou-se de uma homenagem ao Dr. José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "António José Moreira (guitarra), Nuno Encarnação (viola), Luís Alvelos e Eduardo Filipe (vozes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20Capas%20Negras.jpg",
+      "legenda": "Grupo Capas Negras: António José Moreira (guitarra), Nuno Encarnação (viola); a cantar, Luís Alvelos (em cima) e Eduardo Filipe.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

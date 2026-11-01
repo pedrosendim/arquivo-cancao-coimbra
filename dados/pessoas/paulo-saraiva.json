@@ -1,0 +1,58 @@
+{
+  "id": "paulo-saraiva",
+  "tipo": "pessoa",
+  "nome": "Paulo Saraiva",
+  "nomes_alternativos": [
+    "Paulo Jorge Pedroso Barata Feio Saraiva"
+  ],
+  "papeis": [
+    "cantor",
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html", "doc": "gc-iv:8172468701112544794", "citacao": "e da Secção de Fado da Associação Académica de Coimbra, onde colabora na fundação da Orquestra Típica, Orxestra Pitagórica e Estudantina Universitária de Coimbra"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html", "doc": "gc-v:3520864908274944871", "citacao": "Também faz parte da Secção de Fado da Associação Académica de Coimbra, onde colabora na Orquestra Pitagórica, e na Estudantina da Universidade de Coimbra."}], "nota": "Membro nos anos 80; colaborou na fundação da Orquestra Típica, da Orxestra Pitagórica e da Estudantina."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-torre-d-anto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html",
+          "doc": "gc-v:3520864908274944871",
+          "citacao": "É fundador do Grupo de Fados e Guitarradas \"Torre d'Anto\" e colaborou com\no Grupo \"Toada Coimbrã\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/paulo-saraiva.html",
+          "doc": "gc-iv:8172468701112544794",
+          "citacao": "Ainda estudante, funda dois grupos de fados, o Grupo Académico de Fados e o Grupo Torre d’Anto, para além de colaborar com o “Toada Coimbrã”, com o qual se estreia na Sé Velha, numa Serenata Monumental da Queima das Fitas."
+        }
+      ],
+      "nota": "voz; fundador"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em ambos os trabalhos discográficos foi acompanhado por António José Moreira (1982-1990) e Henrique Ferrão (1980-1990) nas guitarras, e José Carlos Ribeiro (1981-1990), Luís Miguel Martins (1982-1990) e Manuel Pera (1987-1990) nas violas. Deste grupo fizeram também parte os cantores: António Nogueira (1980-1981), António Pimentel (1981-1985), Paulo Saraiva (1988) e Rui Silva (1989-1990), bem como, Rijo Madeira (guitarra, 1980-1982) e Arsénio Carvalho (viola, 1980-1981)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Na primeira metade da década asseguraram as vozes neste grupo Jorge Cravo e António Filipe Pimentel, futuro professor de História da Arte e investigador. Na segunda metade do decénio, entre cerca 1987-1989 integrou a formação o tenor Paulo Saraiva"
+        }
+      ],
+      "nota": "voz (tenor); 1988 segundo Jorge Cravo, c. 1987-1989 segundo AMNunes"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

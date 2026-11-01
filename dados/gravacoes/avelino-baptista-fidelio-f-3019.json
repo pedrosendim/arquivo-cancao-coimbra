@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-fidelio-f-3019",
+  "titulo": "Fado dos Estudantes",
+  "formato": "78rpm",
+  "editora": "Fidelio",
+  "referencia": "F 3018 / F 3019",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Estudantes",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-fidelio-f-3019-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Estudantes», por Avelino Baptista — etiqueta: «Fado dos Estudantes  / com acomp. da Estudantina  / Avelino Baptista  / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4448/avelino_baptista_fado_dos_estudantes",
+          "doc": "museu-do-fado:wefddf079c79e6787",
+          "citacao": "Título: Fado dos Estudantes ... Editora: Fidelio F 3019 F 3018 Referências: F3019; F3019 ... Etiqueta: Fado dos Estudantes  / com acomp. da Estudantina  / Avelino Baptista  / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Fado Boémio» (Avelino Baptista, museu-do-fado:wc03d45dd2f5b2a57)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4448/avelino_baptista_fado_dos_estudantes",
+      "doc": "museu-do-fado:wefddf079c79e6787",
+      "citacao": "Título: Fado dos Estudantes ... Editora: Fidelio F 3019 F 3018 Referências: F3019; F3019"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

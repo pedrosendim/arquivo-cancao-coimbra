@@ -1,0 +1,52 @@
+{
+  "id": "julia-a-d-abreu",
+  "tipo": "pessoa",
+  "nome": "Júlia A. d'Abreu",
+  "nomes_alternativos": [
+    "D. Júlia A. d'Abreu"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Professora primária em Capareiros, Viana do Castelo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "D. Júlia A, d’Abreu[8], professora primária em Capareiros, Viana do Castelo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jayme-de-abreu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "O Dr. Jaime de Abreu foi casado com a Sra. D. Júlia A, d’Abreu"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/jaime-abreu.html",
+          "doc": "gc-v:158394177049391851",
+          "citacao": "[8] Dados do Geneall que necessitam de ser confirmados."
+        }
+      ],
+      "nota": "Divergência: o post sobre a guitarra de Jayme (gc-v, 2024) diz que «Jayme faleceu solteiro e sem filhos legítimos». O próprio post marca o casamento como dado do Geneall por confirmar."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

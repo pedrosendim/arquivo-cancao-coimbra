@@ -1,0 +1,91 @@
+{
+  "id": "antonio-menano",
+  "tipo": "pessoa",
+  "nome": "António Menano",
+  "nomes_alternativos": [
+    "António Paulo Menano"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-13.html",
+      "doc": "gc-v:3128225641968121608",
+      "citacao": "António Paulo Menano (1895-1969), estudante formado em Medicina pela Universidade de Coimbra (1923), médico, cantor, tenor solista do Orfeon Académico de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Para Jorge Cravo, com influências do bel canto, elevou a Canção de Coimbra a um grau de erudição («Canto de Salão» ao lado do «Canto de Rua»); integra a «Primeira Geração de Oiro»",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Constituíram a Primeira Geração de Oiro da Canção de Coimbra: António Menano (1895-1969) ... António Menano, com influências do bel canto, colocou a CdeC num elevado grau de erudição, surgindo um Canto de Salão ao lado do Canto de Rua."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). As datas (1895-1969) coincidem com as da biografia já registada."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-da-costa-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Era filho de António da Costa Menano e de Januária Augusta Paulo, domiciliados em Fornos de Algodres."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "januaria-augusta-paulo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Era filho de António da Costa Menano e de Januária Augusta Paulo, domiciliados em Fornos de Algodres."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCY2FBVWC9jKX1X3k-wc-vawFEqzSREUDM7TH_jbSbLgWOJRRZ0qSS3c2yw52w0T2p8WRli-cUZ7pTNjsDFUZYsbkNjnlfw9WKVbNSFBLU10WJgyS0Nqgt7d-uHU71YRhnk-ZGG56nCyy3/s1600/Antonio+Menano.jpg",
+      "legenda": "António Menano (1895 – 1969). Cantor, compositor, autor.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "ANTÓNIO MENANO (1895 – 1969). Cantor, compositor, autor"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

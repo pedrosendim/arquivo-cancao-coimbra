@@ -1,0 +1,55 @@
+{
+  "id": "valsa-de-outros-tempos",
+  "titulo": "Valsa de Outros Tempos",
+  "titulos_alternativos": [
+    "Valsa",
+    "Valsa Triste (Gonçalo Paredes/Artur Paredes)"
+  ],
+  "genero": "outro",
+  "musica": [
+    "goncalo-paredes",
+    "artur-paredes"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Segunda parte de Artur Paredes, de 1923, dedicada à noiva",
+      "data": "1923",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[23] Esta segunda parte da “Valsa”, mais propriamente “Valsa de Outros Tempos” foi criada por Artur Paredes, em 1923, e dedicada a sua noiva, futura mulher, ainda estudante na Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por Carlos Paredes como «Valsa» no LP «Movimento Perpétuo» (1971)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "\"Canção\" e \"Valsa\", esta da autoria do seu avô Gonçalo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+      "doc": "gc-i:113370173660515952",
+      "citacao": "A VALSA DE OUTROS TEMPOS compreende duas partes musicais. A 1ª parte desta valsa é da autoria de Gonçalo Paredes, pai de Artur Paredes, valsa que foi completada por seu filho Artur Paredes quando em 1923 pretendeu homenagear a sua noiva e futura esposa."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

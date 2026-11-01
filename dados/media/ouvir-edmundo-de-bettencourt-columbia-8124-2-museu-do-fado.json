@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8124-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0157_07.mp3",
+  "titulo": "Crucificado — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8124",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0313.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/309/edmundo_bettencourt_crucificado",
+      "doc": "museu-do-fado:w7a1ff839b825dcb3",
+      "citacao": "Título: Crucificado ... Editora: Co. 8124 Referências: WP332, W, 32634; 8124"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

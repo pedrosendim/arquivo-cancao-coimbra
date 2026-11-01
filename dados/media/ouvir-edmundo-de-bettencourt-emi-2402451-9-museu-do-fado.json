@@ -1,0 +1,30 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-emi-2402451-9-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0160_03.mp3",
+  "titulo": "Saudades de Coimbra — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "afonso-de-sousa",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [
+    "saudades-de-coimbra-bettencourt"
+  ],
+  "gravacao": "edmundo-de-bettencourt-emi-2402451",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0320.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/315/edmundo_bettencourt_saudades_de_coimbra",
+      "doc": "museu-do-fado:wee1edc2654af0801",
+      "citacao": "Título: Saudades de Coimbra ... Editora: Co.BL1001,GL107"
+    }
+  ],
+  "nota": "Registo do disco de 78 rpm Columbia BL1001 (também GL107) no Arquivo Sonoro do Museu do Fado; a ficha do Museu não refere esta reedição em LP.",
+  "estado_revisao": "rascunho"
+}

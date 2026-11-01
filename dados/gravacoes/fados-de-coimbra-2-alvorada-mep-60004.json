@@ -1,0 +1,172 @@
+{
+  "id": "fados-de-coimbra-2-alvorada-mep-60004",
+  "titulo": "Fados de Coimbra 2",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60004",
+  "ano": "1957",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "fernando-rolim",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-de-castro",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "aurelio-dos-reis",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Maria Se Fores ao Baile",
+      "obra": "",
+      "media": [
+        "ouvir-fernando-rolim-melodia-15091-1-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Recordações",
+      "obra": "",
+      "media": [
+        "ouvir-fernando-rolim-melodia-15091-2-youtube"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Dobadoira",
+      "obra": "",
+      "media": [
+        "ouvir-tempos-de-coimbra-emi-2603881-25-blogger"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Estudo em Lá Maior",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/4oOTi--T1A-OreBm5fqepRWqoxkkhFsyy8JPyIAQujE/rs:fit/g:sm/q:90/h:553/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTQ3/MzItMTM5MjMxMjM4/OC01MjIyLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/5394732",
+        "doc": "discogs:w38fa2ba672f4c3f2",
+        "citacao": "Imagem (primary): https://i.discogs.com/4oOTi--T1A-OreBm5fqepRWqoxkkhFsyy8JPyIAQujE/rs:fit/g:sm/q:90/h:553/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTQ3/MzItMTM5MjMxMjM4/OC01MjIyLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/5394732",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, EP, 45 RPM, 7\"",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5394732",
+          "doc": "discogs:w38fa2ba672f4c3f2",
+          "citacao": "Formato: 1 × Vinyl, EP, 45 RPM, 7\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5394732",
+          "doc": "discogs:w38fa2ba672f4c3f2",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1957 (Discogs)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5394732",
+          "doc": "discogs:w38fa2ba672f4c3f2",
+          "citacao": "Data: 1957"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Com os EP Fados de Coimbra 1 e 2 cantam Luiz Goes, José Afonso e Fernando Rolim, com António Pinho Brojo/António Portugal (guitarras de Coimbra) e Mário Castro/Aurélio dos Reis (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:8089018085292345159",
+          "citacao": "Cantam Luiz Goes, José Afonso, Fernando Rolim, com a formação António Pinho Brojo/António Portugal (ggC) e Mário Castro/Aurélio dos Reis (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": "A frase do blogue refere-se em conjunto aos EP MEP 60003 e MEP 60004; neste EP o Discogs indica como artistas Fernando Rolim e Luiz Goes."
+    },
+    {
+      "campo": "outro",
+      "valor": "Artistas no Discogs: Fernando Rolim, Luiz Goes",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5394732",
+          "doc": "discogs:w38fa2ba672f4c3f2",
+          "citacao": "Artistas: Fernando Rolim, Luiz Goes (Luís Góis)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/5394732",
+      "doc": "discogs:w38fa2ba672f4c3f2",
+      "citacao": "Editora: Alvorada – MEP 60004"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:8089018085292345159",
+      "citacao": "EP FADOS DE COIMBRA 2. Porto: Alvorada MEP 60004, 1957 (Maria se fores ao baile, Dobadoira, Recordações, Estudo em Lá maior)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

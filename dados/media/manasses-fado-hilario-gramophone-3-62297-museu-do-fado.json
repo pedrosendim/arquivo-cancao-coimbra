@@ -1,0 +1,30 @@
+{
+  "id": "manasses-fado-hilario-gramophone-3-62297-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0476_34.mp3",
+  "titulo": "«Fado Hilário» – Manassés de Lacerda com piano (Gramophone 3-62297 / 62384) – Arquivo Sonoro do Museu do Fado",
+  "data": "1905",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [
+    "fado-hilario-moderno"
+  ],
+  "gravacao": "manasses-de-lacerda-gramophone-62384",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/937/manasses_de_lacerda_fado_hilario",
+      "doc": "museu-do-fado:wa7ce52d3a0fd338d",
+      "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra.3-62297, 62384"
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "citacao": "1ª - feita em 1905 com acompanhamento de piano, Editora: Gra. 3-62297, 62384: Fado Hylario por Manassés de Lacerda com acompanhamento de piano."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

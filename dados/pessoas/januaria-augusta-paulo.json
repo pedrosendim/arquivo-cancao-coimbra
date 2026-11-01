@@ -1,0 +1,53 @@
+{
+  "id": "januaria-augusta-paulo",
+  "tipo": "pessoa",
+  "nome": "Januária Augusta Paulo",
+  "nomes_alternativos": [
+    "Januária Augusta Paulo Menano",
+    "Januária Paulo Menano"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Proprietária",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "FRANCISCO PAULO MENANO, era filho de António da Costa Menano, negociante, e de Januária Augusta Paulo, proprietária, sendo um dos catorze[2] filhos do casal."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "antonio-da-costa-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "sendo um dos catorze[2] filhos do casal. Deste casamento"
+        }
+      ],
+      "nota": "Tiveram 14 filhos, segundo M. Marques Inácio. José Niza (1999) diz que eram 12 irmãos e «artigos da web» 11 (nota [1] do post de 2014)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

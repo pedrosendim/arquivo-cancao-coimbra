@@ -1,0 +1,27 @@
+{
+  "id": "alzira-malheiro-vaz",
+  "tipo": "pessoa",
+  "nome": "Alzira Malheiro Vaz",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "manuel-mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "sem filhos, e deixando viúva Alzira Malheiro Vaz"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-87-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0301_05.mp3",
+  "titulo": "Leva a bandeira — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-87",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0601.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/596/almeida_cruz_leva_a_bandeira",
+      "doc": "museu-do-fado:w69891dc2b766d773",
+      "citacao": "Título: Leva a bandeira ... Editora: Co. B-87 Referências: 11805, 1-6; B87"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

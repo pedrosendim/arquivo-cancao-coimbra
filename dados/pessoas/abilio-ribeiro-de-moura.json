@@ -1,0 +1,44 @@
+{
+  "id": "abilio-ribeiro-de-moura",
+  "tipo": "pessoa",
+  "nome": "Abílio Ribeiro de Moura",
+  "nomes_alternativos": [
+    "Abílio de Moura"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Abílio Ribeiro de Moura, o mais importante guitarrista activo na Academia de Coimbra entre 1934-1940, era discípulo de Flávio Rodrigues da Silva."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3mthlqIBnPx8SpMtcElMSsn2tgHWHC2YK9Oe59BuMSA3ttDsSiGcxWsuYItC3FfZm8ku1k0Cr0gPz7LtEkegBQkxyFPN_aVM2m_IfczY6WktPqRH8djvEvDHU_xqcFwwgBe4GKDtljoU/s1600/AbilioRibeiroMoura%255B3670%255D+-+C%25C3%25B3pia.jpg",
+      "legenda": "Caricatura do guitarrista, estudante da FM/UC e futuro médico Abílio Ribeiro de Moura, Livro dos Quartanistas de Medicina da Universidade de Coimbra, maio de 1939.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/caricatura-de-luis-moreira-da-costa.html",
+          "doc": "gc-v:2655939763065343195",
+          "citacao": "Caricatura do guitarrista, estudante da FM/UC e futuro médico ABÍLIO RIBEIRO DE MOURA, Livro dos Quartanistas de Medicina da Universidade de Coimbra, maio de 1939."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,191 @@
+{
+  "id": "coimbra-quartet-ua-international-uns-15539",
+  "titulo": "Fados from Coimbra (edição norte-americana)",
+  "formato": "LP",
+  "editora": "UA International",
+  "referencia": "UNS 15539",
+  "ano": "",
+  "local": "EUA",
+  "interpretes": [
+    {
+      "pessoa": "coimbra-quartet",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "ernesto-de-melo",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "jose-miguel-baptista",
+      "funcao": "voz (barítono)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Corrido De Coimbra",
+      "obra": "",
+      "media": ["ouvir-coimbra-quartet-ua-international-uns-15539-1-youtube"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variacoes Em La",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Balada Do Sol Poente",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Raiz - Danca",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Os Teus Olhos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Capas Soltas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Lamento",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Evasao",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Balada Da Moleirinha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Balada Do Adeus",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Balada De Coimbra",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/GMKsTSj00HkHHUoX5PCT-umAFd6pnkP5zt9YU-Yn7CI/rs:fit/g:sm/q:90/h:498/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjcw/NTktMTUzMzA0Mzc2/NC0yMTY2LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6227059",
+        "doc": "discogs:wf43e4ad2ea30a0af",
+        "citacao": "Imagem (primary): https://i.discogs.com/GMKsTSj00HkHHUoX5PCT-umAFd6pnkP5zt9YU-Yn7CI/rs:fit/g:sm/q:90/h:498/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjcw/NTktMTUzMzA0Mzc2/NC0yMTY2LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "https://www.youtube.com/watch?v=VitLpd6Nm-s",
+    "discogs": "https://www.discogs.com/release/6227059",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, LP, Stereo",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6227059",
+          "doc": "discogs:wf43e4ad2ea30a0af",
+          "citacao": "Formato: 1 × Vinyl, LP, Stereo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): US",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6227059",
+          "doc": "discogs:wf43e4ad2ea30a0af",
+          "citacao": "País: US"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "1.ª edição holandesa: Philips 831 206 PY, 1965",
+      "data": "1965",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "1.ª edição holandesa: Philips 831 206 PY, 1965"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono); gravações na Holanda, dezembro de 1964",
+      "data": "1964-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6227059",
+      "doc": "discogs:wf43e4ad2ea30a0af",
+      "citacao": "Editora: UA International – UNS 15539"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+      "doc": "gc-v:7865397689807915124",
+      "citacao": "Edição USA: UA International UNS 15539, sem data (posterior a 1965)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

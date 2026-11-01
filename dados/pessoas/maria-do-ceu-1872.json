@@ -1,0 +1,30 @@
+{
+  "id": "maria-do-ceu-1872",
+  "tipo": "pessoa",
+  "nome": "Maria do Céu",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1872",
+      "data": "1872",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "sua companheira Maria do Céu, nascida em 1872"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

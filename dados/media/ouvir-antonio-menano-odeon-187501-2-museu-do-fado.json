@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-187501-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0593_28.mp3",
+  "titulo": "Fado das Romarias — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-187501",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1180.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1171/antonio_menano_fado_das_romarias",
+      "doc": "museu-do-fado:w1528a8d4393b9755",
+      "citacao": "Título: Fado das Romarias ... Editora: Od.187.502, X3178,LA187,813,EMICD8364452 Referências: OG605, W; A 187502"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

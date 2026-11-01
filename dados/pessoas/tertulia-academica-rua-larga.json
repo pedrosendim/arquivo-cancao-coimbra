@@ -1,0 +1,102 @@
+{
+  "id": "tertulia-academica-rua-larga",
+  "tipo": "grupo",
+  "nome": "Tertúlia Académica Rua Larga",
+  "nomes_alternativos": [
+    "Grupo Tertúlia Académica da Rua Larga",
+    "Tertúlia Académica da Rua Larga"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+      "doc": "gc-i:6261226112741350940",
+      "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. Nas violas, estavam o Dr. Carlos Figueiredo e Dr. A. Ferreira Alves."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+      "doc": "gc-i:6261226112741350940",
+      "citacao": "O disco constitui um marco significativo e uma homenagem à “Década de Oiro”, dos anos 20, do Fado de Coimbra"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "LP «Saudades da Rua Larga. Fados de Coimbra» (Rádio Triunfo, RT 10012, Lisboa, 1982), cantado por Pedro Magalhães Ramalho",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Saudades da Rua Larga. Fados de Coimbra, pela Tertúlia\nAcadémica Rua Larga, Rádio Triunfo, RT 10012, Lisboa, 1982. Textos de\napresentação assinados por Carlos Couceiro, Carlos Paredes e José Lacerda e\nMegre."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. Nas violas, estavam o Dr. Carlos Figueiredo e Dr. A. Ferreira Alves."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação do disco: José Silva Ramos, Fernando M. Xavier, Teotónio Xavier e H. Amado Gomes (guitarras); Carlos Figueiredo e A. Ferreira Alves (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. Nas violas, estavam o Dr. Carlos Figueiredo e Dr. A. Ferreira Alves."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/fotos-da-capa-do-disco-saudades-da-rua.html",
+          "doc": "gc-i:111569274232965759",
+          "citacao": "Fotos da capa do disco \"Saudades da Rua Larga\". É o grupo \"Tertúlia Académica Rua Larga\". A. Ferreira Alves (1º acompanhador de Carlos Paredes), Teotónio Xavier, José Silva Ramos, Fernando M. Xavier, Carlos de Figueiredo e H. Amado Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "jantar comemorativo dos 25 anos do disco, Lisboa, 30 de novembro de 2007",
+      "data": "2007-11-30",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Vai realizar-se no dia 30 de Novembro de 2007, pelas 20.00, no Restaurante Espaço Tejo, Centro de Congressos de Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Rua%20Larga%202%20Capa%20disco.jpg",
+      "legenda": "Capa do disco «Saudades da Rua Larga» (1982): grupo Tertúlia Académica Rua Larga — A. Ferreira Alves, Teotónio Xavier, José Silva Ramos, Fernando M. Xavier, Carlos de Figueiredo e H. Amado Gomes.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/fotos-da-capa-do-disco-saudades-da-rua.html",
+          "doc": "gc-i:111569274232965759",
+          "citacao": "Fotos da capa do disco \"Saudades da Rua Larga\". É o grupo \"Tertúlia Académica Rua Larga\". A. Ferreira Alves (1º acompanhador de Carlos Paredes), Teotónio Xavier, José Silva Ramos, Fernando M. Xavier, Carlos de Figueiredo e H. Amado Gomes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "cordis-terceiro-2015",
+  "titulo": "Terceiro",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "0682017412870",
+  "ano": "2015",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "cordis",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "bruno-costa",
+      "funcao": "guitarra portuguesa; composição"
+    },
+    {
+      "pessoa": "paulo-figueiredo",
+      "funcao": "piano; composição"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "The Flower",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Campo Alegre",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Unrest",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Rush",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Searching",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "The Exact Direction to the Uncertain",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Night of Illusion",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "On the Track",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Waving",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Misfortune",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Onstage",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Waltz of a Deep Moment",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/LqLxlQlU_jl6qRiTC__sLkENRnye35o6d5mJf0dRpy8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU4/NDkyLTE1NDkwNjUy/MDUtOTMxNC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13158492",
+        "doc": "discogs:w0790d5d84ada0b13",
+        "citacao": "Imagem (secondary): https://i.discogs.com/LqLxlQlU_jl6qRiTC__sLkENRnye35o6d5mJf0dRpy8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU4/NDkyLTE1NDkwNjUy/MDUtOTMxNC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13158492",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato e país (Discogs): 1 × CD, Album; Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158492",
+          "doc": "discogs:w0790d5d84ada0b13",
+          "citacao": "Formato: 1 × CD, Album País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2015 (Discogs)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158492",
+          "doc": "discogs:w0790d5d84ada0b13",
+          "citacao": "Data: 2015"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Faixas creditadas a Bruno Costa e Paulo Figueiredo; quatro delas também ao Quarteto Arabesco (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158492",
+          "doc": "discogs:w0790d5d84ada0b13",
+          "citacao": "1 The Flower [Bruno Costa (7), Paulo Figueiredo (2), Quarteto Arabesco] 2 Campo Alegre [Bruno Costa (7), Paulo Figueiredo (2)]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13158492",
+      "doc": "discogs:w0790d5d84ada0b13",
+      "citacao": "Título: Terceiro Artistas: Cordis (2) Editora: Not On Label – 0682017412870"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+      "doc": "arquivo-pt:w57e22e44256d1b8c",
+      "citacao": "CD “Terceiro” (CORDIS)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

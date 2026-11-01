@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-columbia-1083-x",
+  "titulo": "Fado do Bussaco / Fado da Sé Velha",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1083X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Bussaco",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1083-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Sé Velha",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-columbia-1083-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Bussaco», por António Menano — etiqueta: «Fado do Bussaco / (António Menano) / António Menano / Com acompanhamento de  / Guitarras e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1174/antonio_menano_fado_do_bussaco",
+          "doc": "museu-do-fado:w53173205abdafbac",
+          "citacao": "Título: Fado do Bussaco ... Editora: Co.1083X, EMICD8364452 Referências: OG606, P, AD, 2, W; G-1083-X ... Etiqueta: Fado do Bussaco / (António Menano) / António Menano / Com acompanhamento de  / Guitarras e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Sé Velha», por António Menano — etiqueta: «Fado da Sé Velha / (António Menano) / António Menano / Com acompanhamento de  / Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1175/antonio_menano_fado_da_se_velha",
+          "doc": "museu-do-fado:w86d08d5ecacc4a63",
+          "citacao": "Título: Fado da Sé Velha ... Editora: Co.1083X, EMI261283,EMICD8364452,HTCD31 Referências: OG607, S, W, 1; G-1083-X ... Etiqueta: Fado da Sé Velha / (António Menano) / António Menano / Com acompanhamento de  / Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1174/antonio_menano_fado_do_bussaco",
+      "doc": "museu-do-fado:w53173205abdafbac",
+      "citacao": "Título: Fado do Bussaco ... Editora: Co.1083X, EMICD8364452 Referências: OG606, P, AD, 2, W; G-1083-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1175/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:w86d08d5ecacc4a63",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Co.1083X, EMI261283,EMICD8364452,HTCD31 Referências: OG607, S, W, 1; G-1083-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

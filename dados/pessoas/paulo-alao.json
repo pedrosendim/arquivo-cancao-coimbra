@@ -1,0 +1,57 @@
+{
+  "id": "paulo-alao",
+  "tipo": "pessoa",
+  "nome": "Paulo Alão",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Matriculou-se na Faculdade de Direito em 1957 e começou a atuar no grupo de António Portugal; tocava viola de cordas de nylon",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Em 1957 o jovem Paulo Alão matriculara-se na FD/UC e começara a atuar no grupo liderado por António Portugal."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "trazia na bagagem uma viola de seis ordens, encordoada a nylon, que deu que falar em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Coube a Paulo Alão acompanhar as primeiras baladas de José Afonso, entre 1958-1961, quando este se deslocava a Coimbra."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "acompanhado à guitarra por António Portugal/Eduardo de Melo e, à viola, por Manuel Pepe/Paulo Alão"
+        }
+      ],
+      "nota": "Viola no EP «Balada do Outono» (Rapsódia EPF 5.085, 1960). A cronologia da AJA indica-o também em Paris (1957) e em Paris/Genebra (1960); a biografia da AJA indica, nas mesmas ocasiões, Sousa Rafael e Levy Baptista."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

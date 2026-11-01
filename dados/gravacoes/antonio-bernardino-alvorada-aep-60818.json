@@ -1,0 +1,148 @@
+{
+  "id": "antonio-bernardino-alvorada-aep-60818",
+  "titulo": "Fados de Coimbra (2)",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "AEP 60818",
+  "ano": "1966",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-borralho",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção das Fogueiras",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-alvorada-aep-60818-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Rosas Brancas",
+      "obra": "",
+      "media": [
+        "disco-antonio-bernardino-alvorada-aep-60818-rosas-brancas"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Canção do Alentejo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Fado dos Passarinhos",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/kiQFznLBO8-awXCtl9A5uXEhoeKQtogA5XxbgO6O8Ek/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/NzA5LTE0OTEwMDQ5/OTMtNjM0OS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10064709",
+        "doc": "discogs:wcd82ecf35a573255",
+        "citacao": "Imagem (secondary): https://i.discogs.com/kiQFznLBO8-awXCtl9A5uXEhoeKQtogA5XxbgO6O8Ek/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/NzA5LTE0OTEwMDQ5/OTMtNjM0OS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10064709",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064709",
+          "doc": "discogs:wcd82ecf35a573255",
+          "citacao": "Formato: 1 × Vinyl, 7\", EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064709",
+          "doc": "discogs:wcd82ecf35a573255",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1966 (Discogs)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064709",
+          "doc": "discogs:wcd82ecf35a573255",
+          "citacao": "Data: 1966"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: «à Guitarra: Drs. António Portugal e Manuel Borralho; à Viola: Rui Pato» (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064709",
+          "doc": "discogs:wcd82ecf35a573255",
+          "citacao": "ACOMPANHAMENTO: à Guitarra: Drs. António Portugal e Manuel Borralho; à Viola: Rui Pato;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10064709",
+      "doc": "discogs:wcd82ecf35a573255",
+      "citacao": "Editora: Alvorada – AEP 60818"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Fados de Coimbra – ALVORADA AEP 60817 e AEP 60818 com António Bernardino, António Portugal e Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

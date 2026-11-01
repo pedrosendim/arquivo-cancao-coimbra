@@ -1,0 +1,121 @@
+{
+  "id": "manasses-de-lacerda-beka-7373",
+  "titulo": "Fado Hilário",
+  "formato": "disco de massa",
+  "editora": "Beka (Beka Grande)",
+  "referencia": "7373",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": [
+        "manasses-fado-hilario-beka-7373-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em 1906 (?) com acompanhamento de guitarra; 1904-1905 segundo a Tradisom",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "2ª - feita em 1906? (1904-5 segundo Tradisom) com acompanhamento de guitarra, Porto Disco Beka Grande n.º 7373: Fado Hilário por Manassés de Lacerda com acompanhamento de guitarra."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "Gravação de Manassés de Lacerda, Porto Disco Beka Grande n.º 7373, 1906, com guitarra:"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/922/manasses_de_lacerda_fado_hilario",
+          "doc": "museu-do-fado:wc996552b15be8a8e",
+          "citacao": "Fado Hilário Manassés de Lacerda Editora: Beka 7373"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Corresponde à partitura do «Fado Hylario Moderno» editada pela Casa Arthur Barbedo",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "A gravação de Manassés de Lacerda, com acompanhamento de guitarra, corresponde à partitura editada pela Casa Arthur Barbedo (melodia, ritmo, quadras escolhidas e sua sequência, repetições e harmonização)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarrista não identificado; hipótese de António Borges do Canto Moniz Júnior",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-da-passagem-de-manasses-pela.html",
+          "doc": "gc-v:8580010178364701355",
+          "citacao": "Sem certezas, fica agora colocada a hipótese do estudante do ensino médio e guitarrista António Borges do Canto Moniz Júnior (1883-1962) ter acompanhado Manassés nos discos de massa onde anonimamente se ouve guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Hipótese geral sobre os discos com guitarra; não refere especificamente este disco."
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra cantada: «Eu quero que o meu caixão», «A minha capa velhinha» (com «Hei-de nela amortalhar-me») e «Ela há-de contar aos vermes»",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "Eu quero que o meu caixão Tenha uma forma bizarra A forma d'um coração (Ai) A forma d'uma guitarra. A minha capa velhinha (Ai) Tem a cor da noite escura Hei-de nela amortalhar-me (Ai) Quando for p'ra sepultura. (Ai) Ela há-de contar aos vermes Já que eu não posso falar Segredos luarizados Da minh'alma a dormitar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "citacao": "Gravação de Manassés de Lacerda, Porto Disco Beka Grande n.º 7373, 1906, com guitarra:"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/922/manasses_de_lacerda_fado_hilario",
+      "doc": "museu-do-fado:wc996552b15be8a8e",
+      "citacao": "Fado Hilário Manassés de Lacerda Editora: Beka 7373"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,208 @@
+{
+  "id": "bate-co-a-chinela-orquestra-tipica-e-rancho-sf012",
+  "titulo": "Bate co'a chinela...",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "SF012",
+  "ano": "2000",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "orquestra-tipica-e-rancho",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Camélias",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Maneio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Josézito",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Toutinegra do Moinho",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Fogueiras de S. João",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Cana Real das Canas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Caiu a Laranja",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "O Lencinho",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Salgueiro à Borda d'Água",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Vira Valseado",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Padeirinha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Carrasquinha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Enleio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Encadeia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Vira de Quatro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "À Porta do Lúcio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 17,
+      "titulo": "Vira de Coimbra",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/aBnESv0xpaP_lS0CtVpSR1ex0PWgOs8L6yQ4bLNe074/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc0/ODc3LTE1NDU2NjYx/MjItMTEwMi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/12974877",
+        "doc": "discogs:wde186b4b61703994",
+        "citacao": "Imagem (secondary): https://i.discogs.com/aBnESv0xpaP_lS0CtVpSR1ex0PWgOs8L6yQ4bLNe074/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc0/ODc3LTE1NDU2NjYx/MjItMTEwMi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/12974877",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12974877",
+          "doc": "discogs:wde186b4b61703994",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2000 (Discogs)",
+      "data": "2000",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/12974877",
+          "doc": "discogs:wde186b4b61703994",
+          "citacao": "Data: 2000"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "recolha da Secção de Fado através da Orquestra Típica e Rancho (faixa 4: «Toutinegra do Moinho»)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/a-toutinegra-do-moinho.html",
+          "doc": "gc-v:1642315113044080624",
+          "citacao": "faixa 4, recolha da Secção de Fado da AAC através da Orquestra Típica e Rancho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/12974877",
+      "doc": "discogs:wde186b4b61703994",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – SF012"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/12974877",
+      "doc": "discogs:wde186b4b61703994",
+      "citacao": "Formato: 1 × CD, Album"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/12974877",
+      "doc": "discogs:wde186b4b61703994",
+      "citacao": "Faixas: 1 ... 17"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/a-toutinegra-do-moinho.html",
+      "doc": "gc-v:1642315113044080624",
+      "citacao": "CD Bate co’a Chinela, Coimbra, SF 012, ano de 2000, faixa 4, recolha da Secção de Fado da AAC através da Orquestra Típica e Rancho"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

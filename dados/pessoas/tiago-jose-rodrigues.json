@@ -1,0 +1,150 @@
+{
+  "id": "tiago-jose-rodrigues",
+  "tipo": "pessoa",
+  "nome": "Tiago José Rodrigues",
+  "nomes_alternativos": [
+    "Tiago Rodrigues"
+  ],
+  "papeis": [
+    "guitarrista",
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Nascido na cidade de Braga em 1995, iniciou o seu percurso musical na viola aos 12 anos, de forma autodidata. Em 2013 ingressa no curso de Medicina da Universidade de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Durante o curso integrou o grupo de fado Ad Aeternum da Secção de Fado da AAC como viola de acompanhamento, tendo participado em vários concertos por todo o país."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Em 2019, a paixão pela obra de Artur Paredes leva–o a dedicar–se exclusivamente à guitarra de Coimbra e a um extensivo trabalho de recolha, pesquisa e estudo."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Braga, 1995",
+      "data": "1995",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Nascido na cidade de Braga em 1995"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "guitarra de Coimbra construída por Gilberto Grácio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Tiago Rodrigues, solista titular, usa uma guitarra de Coimbra construída por Gilberto Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Adeus Minho Encantador» (guitarra de Coimbra, a acompanhar Filipa Freire)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-de-coimbra-2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Quarteto de Coimbra:\n\nggC: Tiago Rodrigues e Simão Mota"
+        }
+      ],
+      "nota": "guitarra (como «Tiago Rodrigues»); Santarém, 28 de junho de 2024"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "ad-aeternum",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Durante o curso integrou o grupo de fado Ad Aeternum da Secção de Fado da AAC\ncomo viola de acompanhamento"
+        }
+      ],
+      "nota": "viola de acompanhamento; durante o curso de Medicina (iniciado em 2013)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-rodrigues-e-mota",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É dinamizado por Tiago José Rodrigues (Medicina, gC1), Simão Sá Mota (Letras, gC2) e Vasco Rodrigues (ISMT, viola de cordas de nylon)."
+        }
+      ],
+      "nota": "1.ª guitarra de Coimbra, solista (2022-)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "vv: Tiago Rodrigues e Vasco Rodrigues"
+        }
+      ],
+      "nota": "viola (2024)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "filipa-freire",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "nota": "guitarra de Coimbra; gravação de 7 de setembro de 2024"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

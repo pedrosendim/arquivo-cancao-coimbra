@@ -1,0 +1,72 @@
+{
+  "id": "pedro-sendim-miranda",
+  "tipo": "pessoa",
+  "nome": "Pedro Sendim Miranda",
+  "nomes_alternativos": [
+    "Pedro Sendim do Nascimento e Novais Miranda",
+    "Pedro Sendim",
+    "Pedro Nascimento",
+    "Novais Miranda"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "FESTUNA: cantou «Fado da ansiedade», de Francisco Menano, «emprestado da Estudantina»",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "Pedro Sendim, “emprestado da Estudantina”, cantou “Fado da ansiedade”, de Francisco Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": "com o MAIO – Grupo de Fado"
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Grémio Operário de Coimbra, 6 de setembro de 2024: «Balada da Nostalgia» (voz, com o d'Anto)",
+      "data": "2024-09-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola]) - \"Balada da Nostalgia\" (tema da autoria de Vasco Rodrigues) ... Gravado no Grémio Operário de Coimbra, no dia 6 de Setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fado-danto",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "Luís Baptista, Pedro Nascimento, Novais Miranda e Tiago Rocha, na voz"
+        },
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola])"
+        }
+      ],
+      "nota": "voz; 2023 (o artigo separa o nome em «Pedro Nascimento» e «Novais Miranda»)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "Identificação e nome completo indicados pelo editor do arquivo (29-10-2026). É conhecido como «Pedro Sendim Miranda». Segundo o editor do arquivo, além do Grupo de Fado d'Anto, já tocou com Luís Barroso, Ni Ferreirinha e Francisco Costa na ilha do Pico (ainda sem fonte arquivada)."
+}

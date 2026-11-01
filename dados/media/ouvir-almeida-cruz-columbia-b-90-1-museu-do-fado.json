@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-90-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0304_09.mp3",
+  "titulo": "Regadinho — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-90",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0608.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/602/almeida_cruz_regadinho",
+      "doc": "museu-do-fado:wf20e8e290155329d",
+      "citacao": "Título: Regadinho ... Editora: Co. B-90 Referências: 11816, 1-10; B90"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

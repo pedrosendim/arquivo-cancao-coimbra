@@ -1,0 +1,79 @@
+{
+  "id": "guitarra-kim-gracio-jose-amaral",
+  "designacao": "Guitarra de Coimbra do Dr. José Amaral («Guitarra Dr. Amaral 2»), oficina de Kim Grácio",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "joaquim-gracio",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "jose-maria-amaral",
+      "periodo": "1947-2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+          "doc": "gc-i:111868810968441528",
+          "citacao": "Guitarra de Coimbra utilizada pelo Dr. José Amaral entre 1947-2002."
+        }
+      ],
+      "nota": "O post diz «utilizada»; outro post dá 2001 como ano da morte de José Maria Amaral."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Oficina lisboeta de Kim Grácio; primeira geração do novo modelo (madeiras preciosas, ilharga alteada, voluta reformada, escala mais abaulada)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+          "doc": "gc-i:111868810968441528",
+          "citacao": "Provém da oficina Lisboeta de Kim Grácio, e personifica o grosso das mutações experimentadas na primeira geração, nomeadamente o emprego de madeiras preciosas, qualidade das colas e polimentos, alteamento da ilharga, reforma da voluta, maior abaulamento da escala por manifesta influência do violino de Guilherme Barbosa (viola de Artur Paredes)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco de madeira sob o tampo inferior, semelhante à «alma» dos violinos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+          "doc": "gc-i:111868810968441528",
+          "citacao": "Sob o tampo inferior foi aplicado um disco de madeira, em tudo semelhante à \"alma\" dos violinos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Guitarra%20Dr.%20Amaral%202.jpg",
+      "legenda": "Guitarra Dr. Amaral 2: Guitarra de Coimbra utilizada pelo Dr. José Amaral entre 1947-2002.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+          "doc": "gc-i:111868810968441528",
+          "citacao": "Tirei esta fotografia na casa do Dr. Amaral em Abrantes no ano de 1998"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr_13.html",
+      "doc": "gc-i:111868810968441528",
+      "citacao": "Guitarra Dr. Amaral 2: Guitarra de Coimbra utilizada pelo Dr. José Amaral entre 1947-2002. Provém da oficina Lisboeta de Kim Grácio"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

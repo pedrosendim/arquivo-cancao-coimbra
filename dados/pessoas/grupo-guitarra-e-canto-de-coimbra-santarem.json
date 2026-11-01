@@ -1,0 +1,140 @@
+{
+  "id": "grupo-guitarra-e-canto-de-coimbra-santarem",
+  "tipo": "grupo",
+  "nome": "Grupo Guitarra e Canto de Coimbra (Santarém)",
+  "nomes_alternativos": [
+    "Grupo “Guitarra e Canto de Coimbra”",
+    "GGCC",
+    "Grupo de Guitarra e Canto de Coimbra de Santarém"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-i:111979782925444603",
+      "citacao": "Nasceu em 1985 para completar a diversidade ... imposta a um Café-Concerto inaugural do Espaço Forum, hoje denominado Actor Mário Viegas, do Centro Cultural Regional de Santarém."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-i:111979782925444603",
+      "citacao": "Deste período nasceu o núcleo base do Grupo “Guitarra e Canto de Coimbra”, instalado institucional e umbilicalmente no Centro Cultural Regional de Santarém."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-i:111979782925444603",
+      "citacao": "Retomando a Serenata Tradicional dos Estudantes de Santarém, no Largo do Seminário a partir de 1986, a ela foram chamados inúmeros grupos"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-i:111979782925444603",
+      "citacao": "As homenagens por nós promovidas a Edmundo Bettencourt, Florêncio de Carvalho, José Amaral, José Afonso e Adriano Correia de Oliveira foram também momentos altos destes 20 anos !"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/11/gala-comemorativa-dos-25-anos-do-grupo.html",
+      "doc": "gc-iii:8446216080924004269",
+      "citacao": "Gala comemorativa dos 25 anos do Grupo de Guitarra e Canto de Coimbra de Santarém."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "nasceu em 1985, no Centro Cultural Regional de Santarém",
+      "data": "1985",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Nasceu em 1985 para completar a diversidade"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "retoma da Serenata Tradicional dos Estudantes de Santarém, no Largo do Seminário, a partir de 1986",
+      "data": "1986",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Retomando a Serenata Tradicional dos Estudantes de Santarém, no Largo do Seminário a partir de 1986"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata dos Estudantes de Santarém com homenagem a Ângelo Vieira Araújo, 22 de julho de 2006",
+      "data": "2006-07-22",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Realizou-se com grande êxito, no passado Sábado - 22.07.2006, nas Escadarias do Largo do Seminário, a tradicional Serenata dos Estudantes de Santarém, organizada pelo Grupo “Guitarra e Canto de Coimbra” do CCRS, este ano valorizada pela Homenagem que o Grupo e os seus amigos quiseram prestar ao Dr. Ângelo Vieira Araújo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "em 2005: João Luís Madeira Lopes, António Madeira Lopes, Fernando Martinho (guitarras) e Elias Rodrigues (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Grupo anfitrião (GGCC) constituído por João Luís Madeira Lopes, António Madeira Lopes, Fernando Martinho (guitarras) e Elias Rodrigues (viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "gala comemorativa dos 25 anos do grupo (2010)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/gala-comemorativa-dos-25-anos-do-grupo.html",
+          "doc": "gc-iii:8446216080924004269",
+          "citacao": "Gala comemorativa dos 25 anos do Grupo de Guitarra e Canto de Coimbra de Santarém."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20de%20Santarm%209A.jpg",
+      "legenda": "Grupo de Santarém. À guitarra: João Luís, António Madeira Lopes e Fernando Martinho. À viola, Elias Rodrigues.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-de-santarm.html",
+          "doc": "gc-i:111698146756272372",
+          "citacao": "Grupo de Santarém. À guitarra: João Luís, António Madeira Lopes e Fernando Martinho. À viola, Elias Rodrigues."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

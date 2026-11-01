@@ -1,0 +1,35 @@
+{
+  "id": "carlos-costa",
+  "tipo": "pessoa",
+  "nome": "Carlos Costa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-de-coimbra-carlos-costa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+          "doc": "gc-v:2370072392325749847",
+          "citacao": "Arriscamos que possa ser o Quarteto de Coimbra, um grupo muito ativo na região do Porto desde cerca 1968, com vários discos gravados e uma nutrida carteira de espetáculos, que tinha como cantores Carlos Costa e Carlos Alberto Pereira. Um dos solistas deste grupo era Almeida Ulisses, oriundo de Mangualde, estabelecido no Porto, no comércio de peles."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+          "doc": "gc-v:2370072392325749847",
+          "citacao": "Quarteto de Coimbra, também conhecido por \"grupo de Carlos Costa\" e/ou \"Grupo de Ulisses\". Reconhecíveis: Carlos Alberto Pereira, a cantar; Carlos Costa; José de Almeida Ulisses (gC)."
+        }
+      ],
+      "nota": "cantor"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

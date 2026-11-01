@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manuel-rodrigues-paredes-columbia-j-831-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0690_39.mp3",
+  "titulo": "Maxixe poiarense — Manuel Rodrigues Paredes",
+  "data": "",
+  "pessoas": [
+    "manuel-rodrigues-paredes"
+  ],
+  "obras": [],
+  "gravacao": "manuel-rodrigues-paredes-columbia-j-831",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1374.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1363/manuel_rodrigues_paredes_maxixe_poiarense",
+      "doc": "museu-do-fado:w644a16603b2f58b1",
+      "citacao": "Título: Maxixe poiarense ... Editora: Co.J831 Referências: WP285, W, 32617, P285; J831"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

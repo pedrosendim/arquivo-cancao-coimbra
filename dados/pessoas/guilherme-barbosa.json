@@ -1,0 +1,64 @@
+{
+  "id": "guilherme-barbosa",
+  "tipo": "pessoa",
+  "nome": "Guilherme Barbosa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Relojoeiro; tocador de rabeca e de violão",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "pelo relojoeiro e tocador de rabeca Guilherme Barbosa (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Não confundir com o estudante Guilherme Mendes Barbosa (TAUC, viagem ao Brasil de 1925)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/coimbra-no-brasil-para-motivo-de-capa.html",
+          "doc": "gc-i:115584622011264983",
+          "citacao": "O estudante Guilherme Mendes Barbosa, sócio da TAUC desde 1924, não é o relojoeiro/executante de violão+violino que gravou discos com Artur Paredes e teve papel importante na idealização das transformações que Artur Paredes viria a implementar na Guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "acompanhado por Afonso de Sousa (g) e pelo relojoeiro e tocador de rabeca Guilherme Barbosa (v)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+        }
+      ],
+      "nota": "Violão nas gravações HMV de 1927-1928."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

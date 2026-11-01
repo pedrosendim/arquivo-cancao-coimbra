@@ -1,0 +1,81 @@
+{
+  "id": "jose-maria-amaral",
+  "tipo": "pessoa",
+  "nome": "José Maria Amaral",
+  "nomes_alternativos": [
+    "José Amaral",
+    "Dr. José Amaral",
+    "Dr. Amaral"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1919",
+      "data": "1919",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/jos-maria-amaral-1919-2001-executante.html",
+          "doc": "gc-i:113486160111655416",
+          "citacao": "José Maria Amaral (1919-2001), executante de Guitarra de Coimbra e médico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "2001",
+      "data": "2001",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/jos-maria-amaral-1919-2001-executante.html",
+          "doc": "gc-i:113486160111655416",
+          "citacao": "José Maria Amaral (1919-2001), executante de Guitarra de Coimbra e médico."
+        }
+      ],
+      "conflito": false,
+      "nota": "Outro post (gc-i:111868810968441528) diz que usou a sua guitarra «entre 1947-2002»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/jos-maria-amaral-1919-2001-executante.html",
+          "doc": "gc-i:113486160111655416",
+          "citacao": "executante de Guitarra de Coimbra e médico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/AN%20Jose%20Amaral%20a%20tocar%20guitarra.jpg",
+      "legenda": "José Maria Amaral (1919-2001), executante de Guitarra de Coimbra e médico. Momento descontraído na casa do guitarrista e compositor amador, em Abrantes, no dia 15 de Julho de 1998.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/jos-maria-amaral-1919-2001-executante.html",
+          "doc": "gc-i:113486160111655416",
+          "citacao": "Momento descontraído na casa do guitarrista e compositor amador, em Abrantes, no dia 15 de Julho de 1998."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

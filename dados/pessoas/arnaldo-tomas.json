@@ -1,0 +1,35 @@
+{
+  "id": "arnaldo-tomas",
+  "tipo": "pessoa",
+  "nome": "Arnaldo Tomás",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "pardalitos-do-mondego",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Viola de Acompanhamento: José Augusto Reis (Técnico Superior de Museografia); Arnaldo Tomás (Engenheiro Químico)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "A parte instrumental esteve à responsabilidade de Francisco Viana (gC1), Paulo Alexandre Almeida (gC2), Arnaldo Tomás (v) e José Augusto Reis (v), numa abordagem que abrange reprodução de instrumentações originais e assina arranjos do próprio grupo."
+        }
+      ],
+      "nota": "viola; formação de 2006 e CD de 2018"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

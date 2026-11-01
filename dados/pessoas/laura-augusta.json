@@ -1,0 +1,27 @@
+{
+  "id": "laura-augusta",
+  "tipo": "pessoa",
+  "nome": "Laura Augusta",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joaquim-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "casou em Lisboa com Laura Augusta de quem teve 3 filhos, 2 raparigas e 1 rapaz."
+        }
+      ],
+      "nota": "Casamento em Lisboa. A fonte não nomeia os três filhos."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

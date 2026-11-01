@@ -1,0 +1,601 @@
+{
+  "id": "manasses-de-lacerda",
+  "tipo": "pessoa",
+  "nome": "Manassés de Lacerda",
+  "nomes_alternativos": [
+    "Manassés Ferreira de Lacerda Botelho",
+    "Manasses Lacerda",
+    "tenor Lacerda"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+      "doc": "gc-v:3059048621861323592",
+      "citacao": "Fica órfão de pai e mãe, muito cedo, rumando a Coimbra para residir com um tio notário[2] e depois com um seu irmão mais velho."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+      "doc": "gc-i:113734692170677571",
+      "citacao": "Entre 1901-1904 estudou no Liceu de Coimbra e colaborou frequentemente com a TAUC como actor amador e cantor. Manteve em Coimbra um grupo afamado, integrado por Adelino Sá/Manuel Ribeiro Alegre (guitarras), Francisco Pereira/Maurício Costa (violinos) e Adelino Figueira (violão)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+      "doc": "gc-v:3059048621861323592",
+      "citacao": "O melhor da noite foi, sem dúvida, a voz trinada e maviosa de Manassés, o émulo distintíssimo das serenatas de Coimbra, o retinto e adorável sucessor do chorado Hylário – que tantas e tão fundas saudades deixou na sociedade do seu tempo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+      "doc": "gc-i:113734692170677571",
+      "citacao": "No Porto, Manassés popularizou o repertório que trouxera de Coimbra e alargou-o."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+      "doc": "gc-i:116133516475734995",
+      "citacao": "Nos alvores do século XX, Manassés foi seguramente o primeiro produtor da CC como arte e mercadoria consumível, emprestando a sua voz e reportório a serenatas, digressões de agremiações estudantis, espectáculos, gravações fonográficas de alcance internacional e profusas edições de partituras impressas"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+      "doc": "gc-v:3059048621861323592",
+      "citacao": "Casou em Miragaia, Porto no ano 1908, o casal segue para o Brasil[6], regressa em 1917, mas volta a emigrar em 1919, por lá ficando até á sua morte em 1962."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/06/um-recital-de-manasses-de-lacerda-no.html",
+      "doc": "gc-v:5434080735296458925",
+      "citacao": "Ao contrário do que se pensava, Manassés de Lacerda continuou ligado à vida artística no Brasil, não se limitando a interpretar repertório sacro em igrejas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Manassés Ferreira de Lacerda Botelho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "MANASSÉS FERREIRA DE LACERDA BOTELHO, nasceu na vila de Sabrosa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Sabrosa (Trás-os-Montes), 6 de janeiro de 1885",
+      "data": "1885-01-06",
+      "local": "Sabrosa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "MANASSÉS FERREIRA DE LACERDA BOTELHO, nasceu na vila de Sabrosa, em Trás-os-Montes, a 6 de Janeiro de 1885"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manasses-de-lacerda.html",
+          "doc": "gc-v:226409051890340454",
+          "citacao": "nasceu em Sabrosa (Trás os Montes) a 6 de Janeiro de 1885"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Rio de Janeiro (Brasil), 18 de maio de 1962",
+      "data": "1962-05-18",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "e faleceu no Rio de Janeiro (Brasil), a 18 de Maio de 1962."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Faleceu no Rio de Janeiro, Brasil, a 18 de Maio de 1962."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de António Alves Ferreira de Aguiar e de D. Maria da Hora de Lacerda Botelho Lobo; padrinho e irmão mais velho Abel Augusto Ferreira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Filho de um casal abastado, António Alves Ferreira de Aguiar e de D. Maria da Hora de Lacerda Botelho Lobo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Foi baptizado na Igreja do Salvador, sendo seu padrinho o irmão mais velho, Abel Augusto Ferreira, que viria a formar-se em Direito, em Coimbra, em 1903[1]."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Coimbra de 1900 a 1904, sem concluir o curso liceal",
+      "data": "1900",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "De 1900 a 1904, frequenta o Liceu de Coimbra, nunca tendo terminado o curso liceal"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "frequenta o liceu em Coimbra, de 1900 a 1904"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Coimbra de 1901 a 1904",
+      "data": "1901",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+          "doc": "gc-i:113734692170677571",
+          "citacao": "Entre 1901-1904 estudou no Liceu de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Manassés de Lacerda – activo em Coimbra entre 1901-1904"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Depois de residir temporariamente em Bragança, foi aluno do Colégio de São Carlos, no Porto",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+          "doc": "gc-i:113734692170677571",
+          "citacao": "Residiu temporariamente em Bragança, tendo passado a aluno do Colégio de São Carlos no Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Digressão com a Tuna Académica de Coimbra ao Norte (Póvoa de Varzim, Vila do Conde, Barcelos, Caminha), fevereiro de 1904",
+      "data": "1904-02",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Em Fevereiro de 1904 integra a Tuna Académica de Coimbra numa digressão ao Norte, passando pela Póvoa de Varzim, Vila do Conde, Barcelos e Caminha"
+        }
+      ],
+      "conflito": false,
+      "nota": "Estudantes de Coimbra em Orquestra (A. J. e J. A. Nascimento, 2010), citado no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "O «estilo Manassés»: grande intensidade vocal, suspensão e prolongamento de notas agudas através de «ais» de duração variável",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "O \"estilo Manassés\", caracterizava-se por uma grande intensidade vocal, especialmente no que respeita à suspensão e prolongamento de notas agudas, através de \"ais\" de duração variável, à vontade e ao gosto do cantor."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Saiu de Coimbra em 1904 e alistou-se como voluntário no exército, em cavalaria",
+      "data": "1904",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "Saiu de Coimbra, nesse ano de 1904, aos 19 anos, e alista-se como voluntário no exército, em cavalaria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Casou em 1908 (Miragaia, Porto) e partiu para o Brasil; regressou em 1917 e voltou a emigrar em 1919",
+      "data": "1908",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Casou em Miragaia, Porto no ano 1908, o casal segue para o Brasil[6], regressa em 1917, mas volta a emigrar em 1919"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "Casa em 1908, e o casal ruma ao Brasil, nesse ano. Voltam em 1917, mas passados dois anos regressam ao Brasil, de onde não mais voltaram."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Deslocou-se com a Tuna do Porto a Santiago de Compostela em 1909 (segundo João Caramalho Domingues)",
+      "data": "1909",
+      "local": "Santiago de Compostela",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "escreve que Manassés se deslocou com a Tuna do porto, a Santiago de Compostela em 1909."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post assinala que esta informação contraria a partida para o Brasil em 1908."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Recitais no Theatro Cinema Mascotte, Rio de Janeiro, com Albertina Rodrigues e o guitarrista Martinho Gouveia de Vasconcelos (fevereiro de 1915)",
+      "data": "1915-02",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/06/um-recital-de-manasses-de-lacerda-no.html",
+          "doc": "gc-v:5434080735296458925",
+          "citacao": "No programa impresso, relativo a um recital dado a 18 de fevereiro de 1915 no Theatro Cinema Mascotte, Manassés apresentou alguns temas do seu repertório"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/06/um-recital-de-manasses-de-lacerda-no.html",
+          "doc": "gc-v:5434080735296458925",
+          "citacao": "Numa anterior, levada à cena em 14.02.1915, pelas 14:00h, Manassés cantou Fado Hylario [Moderno], Margarida vai à Fonte, Fado Pastoril (dueto com Albertina Rodrigues) e Fado Bohemio"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações em Lisboa em 1905, 1906, 1913 e 1928, segundo João Moças (Tradisom)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Afirma-nos no entanto este investigador, que Manassés gravou em Lisboa em 1905, 1906, 1913 e 1928, apresentando-nos os títulos das composições e as referências dos fonogramas[5]."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações em Lisboa em 1913 e 1928, segundo João Moças (Tradisom)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425",
+          "citacao": "João Moças, da Tradisom, que afirma que Manassés gravou em Lisboa em 1913 e 1928, possuindo vários fonogramas das gravações de 1913."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Possíveis gravações no Porto em 1904 e 1905 como «tenor Lacerda», sem garantia de se tratar de Manassés",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "terá gravado no Porto em 1904 e 1905, dado que encontrou registos de gravações feitas por um “tenor Lacerda”. Apesar de tudo, não se pode dizer que se trata de Manassés de Lacerda, não existe ainda essa garantia."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Os primeiros discos de massa conhecidos de artistas ligados a Coimbra começam em 1906 com Manassés de Lacerda",
+      "data": "1906",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/velhas-frituras.html",
+          "doc": "gc-v:3419130853387302621",
+          "citacao": "Quanto às gravações protagonizadas expressamente por artistas ligados a Coimbra, os primeiros registos de discos de massa conhecidos começam em 1906 (Manassés de Lacerda)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Três séries de partituras impressas do seu repertório, com o retrato do cantor (repertório popularizado entre 1901 e 1907); 1.ª série «Fados e Canções Portuguezas cantadas por Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/reportrio-manasss-relao-das-trs-sries.html",
+          "doc": "gc-i:116038685429791857",
+          "citacao": "Relação das três séries de partituras musicais impressas com o reportório popularizado por Manassés de Lacerda entre 1901 e 1907, em Coimbra e no Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Edições de partituras: casa Artur Barbedo, Porto (1907); casa Moreira de Sá, Porto (1914); álbum de Vinhos Constantino (1916)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html",
+          "doc": "gc-i:116133516475734995",
+          "citacao": "casa de Artur Barbedo, no Porto (1907), casa Moreira de Sá, também no Porto (1914) , e álbum de Vinhos Constantino (Porto e Brasil, 1916)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As três séries foram editadas pela casa Arthur Barbedo entre 1905 e 1906 e reeditadas pela casa Moreira de Sá em 1914",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/dancas-e-andancas-dos-titulos-o-caso-do.html",
+          "doc": "gc-v:3134337255474736423",
+          "citacao": "A colecção completa compreende três séries de 10 composições cada, que foram editadas inicialmente pela referida casa Arthur Barbedo entre 1905-1906. Posteriormente, em 1914, estas três séries foram reeditadas pela casa Moreira de Sá, também do Porto."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As edições da casa Arthur Barbedo datam de 1906 (estudo de João Caramalho Domingos, 2023)",
+      "data": "1906",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-da-passagem-de-manasses-pela.html",
+          "doc": "gc-v:8580010178364701355",
+          "citacao": "Fica assim claro que as edições da casa Arthur Barbedo foram realizadas um ano antes da datação estimativa, isto é, em 1906."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem em Sabrosa a 9 de novembro de 1968 (Associação dos Antigos Estudantes de Coimbra no Brasil): missa, palestra de Divaldo Gaspar de Freitas, lápide na casa natal descerrada pela filha Marília Lacerda Pinto, sarau",
+      "data": "1968-11-09",
+      "local": "Sabrosa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/memorial-manasses-de-lacerda.html",
+          "doc": "gc-v:86275727472336137",
+          "citacao": "Placa descerrada em cerimónia pública realizada no dia 9.11.1968, com a presença de elementos da AAEC, Dr. Divaldo Gaspar de Freitas (biógrafo palestrante), a filha do homenageado Marília Lacerda Pinto"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manasses-de-lacerda-botelho/",
+          "doc": "rtp-arquivos:wf1512588ac04f7d2",
+          "citacao": "Sabrosa, homenagem a Manassés Ferreira de Lacerda Botelho, fadista e compositor de fados, por iniciativa da Associação dos Antigos Estudantes de Coimbra no Brasil."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-alves-ferreira-de-aguiar",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Filho de um casal abastado, António Alves Ferreira de Aguiar e de D. Maria da Hora de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-da-hora-de-lacerda-botelho-lobo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Filho de um casal abastado, António Alves Ferreira de Aguiar e de D. Maria da Hora de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "manuel-alves-de-aguiar",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Era neto paterno de Manuel Alves de Aguiar e de Maria José da Conceição, e materno de Teodoro A. Teixeira de Azevedo e Maria Peregrina de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "maria-jose-da-conceicao",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Era neto paterno de Manuel Alves de Aguiar e de Maria José da Conceição, e materno de Teodoro A. Teixeira de Azevedo e Maria Peregrina de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "teodoro-a-teixeira-de-azevedo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Era neto paterno de Manuel Alves de Aguiar e de Maria José da Conceição, e materno de Teodoro A. Teixeira de Azevedo e Maria Peregrina de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "maria-peregrina-de-lacerda-botelho-lobo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Era neto paterno de Manuel Alves de Aguiar e de Maria José da Conceição, e materno de Teodoro A. Teixeira de Azevedo e Maria Peregrina de Lacerda Botelho Lobo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "luis-de-castro-pereira-cabral",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "rumando a Coimbra para residir com um tio notário"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "diz-nos que este tio era o “notário Luís de Castro Pereira Cabral, conhecido pelo Luís da Feira"
+        }
+      ],
+      "nota": "Identificação do tio segundo José Niza, Fado de Coimbra II (Ediclube, 1999), p. 248, citado no post."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Retrato%20Manasss.jpg",
+      "legenda": "Retrato de Manassés de Lacerda na folha de rosto da brochura de partituras «1.ª Série de Fados e Canções…» (1907); por baixo, uma guitarra do Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+          "doc": "gc-i:113734692170677571",
+          "citacao": "Pormenor da folha de rosto da brochura de partituras \"1ª Série de Fados e Canções...\", cantados por Manassés de Lacerda, 1907. Por baixo da moldura que rodeia o retrato do cantor é bem visível uma Guitarra do Porto."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5gFZq0dy5zYeXgxA3cAJr9cZBtb0BNvoA1yDP-CFzBBaB8UcDzYJORtjtAJMdcIARoKMXQkJM67Oe7F1wfZ6C9675wG66Tw-_Dhsvq_hC0k2B1FDeBnX7y7jSt0vMC9hk84OReI9v8TD/s1600/Manasses+de+Lacerda+67+anos.jpg",
+      "legenda": "Manassés de Lacerda aos 67 anos (foto cedida por Abel de Lacerda)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manasses-de-lacerda.html",
+          "doc": "gc-v:226409051890340454",
+          "citacao": "A foto que nesta data se apresenta e em que o cantor tem 67 anos, foi cedida por Abel de Lacerda."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge3FfzjwSFFbSMOblFJgftWnRnbmXCIjK6ICHmBgDUAV4exYMjEgWIRWvuo9-HgTQvXcTuY0nHzRhf06RhlfH7YR-vlxZ3VWHIOh__StBqoL3f8dtV5cKwMeTyIH7728pLT3yaX9KTBfjw/s1600/Manasses-de-Lacerda.jpg",
+      "legenda": "Fotografia inserta num dos seus discos de partituras, «Fados e Canções Portuguesas cantadas por Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
+          "doc": "gc-v:4110616990423718425"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manasses-de-lacerda.html",
+          "doc": "gc-v:226409051890340454",
+          "citacao": "Nessa data apresentou-se uma sua foto inserta num dos seus discos intitulado “Fados e Canções Portuguesas cantadas por Manassés de Lacerda”."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Manassés de Lacerda (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html"
+    },
+    {
+      "rotulo": "Manassés de Lacerda e Petrónio Ricciulli (2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html"
+    },
+    {
+      "rotulo": "Retrato de Manassés (António M. Nunes, 2006)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html"
+    },
+    {
+      "rotulo": "«Fado Maria» (2006)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/fado-maria-rosto-do-disco-de-78-rpm.html"
+    },
+    {
+      "rotulo": "Uma tournée de Manassés de Lacerda no Brasil (1915)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/06/um-recital-de-manasses-de-lacerda-no.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jorge-moutinho",
+  "tipo": "pessoa",
+  "nome": "Jorge Moutinho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Viola no EP Fados de Coimbra de António Bernardino (Orfeu ATEP 6184)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "-EP “Fados de Coimbra”, Porto, Orfeu, ATEP 6184, ano de 1964, canta António Bernardino acompanhado por António Portugal/Francisco Martins (gg) e Jorge Moutinho (v);"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola nylon no EP Noite de Coimbra de Adriano Correia de Oliveira (Orfeu ATEP 6025)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "António Portugal/Eduardo de Melo (1.ª e 2.ª gg de Coimbra); Durval Moreirinhas/Jorge Moutinho (vv nylon)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

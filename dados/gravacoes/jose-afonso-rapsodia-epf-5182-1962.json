@@ -1,0 +1,138 @@
+{
+  "id": "jose-afonso-rapsodia-epf-5182-1962",
+  "titulo": "Baladas de Coimbra (Menino d'Oiro)",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.182",
+  "ano": "1962",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Menino de Oiro",
+      "obra": "menino-de-oiro",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-1-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-1-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Tenho Barcos, Tenho Remos",
+      "obra": "tenho-barcos-tenho-remos",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "No Lago do Breu",
+      "obra": "no-lago-do-breu",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-3-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-3-youtube"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Senhor Poeta",
+      "obra": "senhor-poeta",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-4-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5182-1962-4-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/2547491",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em outubro de 1962 com Rui Pato",
+      "data": "1962-10",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Em outubro de 1962 grava com Rui Pato o EP Baladas de Coimbra. Menino d’Oiro, Porto: Rapsódia EPF 5.182"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Rui Pato usa uma viola de cordas de nylon da oficina Grácio; nenhuma faixa tem guitarra de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Rui Pato utiliza uma viola de cordas de nylon da oficina Grácio."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Nenhuma das quatro composições era acompanhada por guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Texto de contracapa de Albano da Rocha Pato",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Na contracapa deste fonograma, o jornalista Albano da Rocha Pato assina um texto-manifesto"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2547491",
+          "doc": "discogs:w08c9b77a21f62aae",
+          "citacao": "Liner Notes – Rocha Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/2547491",
+      "doc": "discogs:w08c9b77a21f62aae",
+      "citacao": "Editora: Rapsódia – EPF 5.182"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/cronologia/",
+      "doc": "aja:wddc15a953c5a5a5e",
+      "citacao": "Baladas de Coimbra, onde se inclui Menino d'Oiro (Rapsódia EFP 5182), EP."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

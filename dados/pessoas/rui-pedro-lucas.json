@@ -1,0 +1,70 @@
+{
+  "id": "rui-pedro-lucas",
+  "tipo": "pessoa",
+  "nome": "Rui Pedro Lucas",
+  "nomes_alternativos": [
+    "Rui Lucas"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html", "doc": "gc-i:113725919817867181", "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Rui Lucas fizera parte do Grupo de Fados da Secção de Fado da AAC em 1985."}], "nota": "Grupo Oficial / Grupo de Fados da Secção (1985)."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Por este grupo, que se mantém activo, passaram inúmeros estudantes de Coimbra: no canto, Luís Cartario, José Morgado, José Neves, Fernando Castro, António Pimentel, Rui Lucas, Fernando Silva e António Nogueira"
+        }
+      ],
+      "nota": "voz, como «Rui Lucas» (passou pelo grupo, segundo João Moura)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/11/rui-lucas-num-ensaio-do-grupo-raizes-de.html",
+          "doc": "gc-iv:6669260345156681750",
+          "citacao": "Rui Lucas num ensaio do grupo Raízes de Coimbra, canta \"Saudades de Coimbra\"."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/grupo-raizes-de-coimbra-em-viseu-no.html",
+          "doc": "gc-iii:3123655216103092970",
+          "citacao": "Elementos do grupo: Humberto Matias (v), José Ourives (g), Alcides Freixo (g), Octávio Sérgio (g), Rui Pato (v), Armando Luís de Carvalho Homem (v), Mário Rovira (c), Rui Lucas (c) e Heitor Lopes (c)."
+        }
+      ],
+      "nota": "voz (como Rui Lucas); 2010-2012"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "toada-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/rui-lucas-em-alta-noite-na-se-velha-em.html",
+          "doc": "gc-iv:8749920555961969521",
+          "citacao": "Rui Lucas em \"Alta Noite na Sé Velha\", em 1989, com a Toada Coimbrã"
+        }
+      ],
+      "nota": "canto"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

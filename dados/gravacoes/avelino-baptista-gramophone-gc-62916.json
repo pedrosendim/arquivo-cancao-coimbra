@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-gramophone-gc-62916",
+  "titulo": "Despedida de Coimbra",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "GC-62916",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Despedida de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-gramophone-gc-62916-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Despedida de Coimbra», por Avelino Baptista — etiqueta: «Despedida de Coimbra / [ilegível] / Avellino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3436/avelino_baptista_despedida_de_coimbra",
+          "doc": "museu-do-fado:waf14079456463b25",
+          "citacao": "Título: Despedida de Coimbra ... Editora: D.P. Gramophone GC -62916  Referências: Disque Pour Gramophone 7508, 62916; GC - 62916 ... Etiqueta: Despedida de Coimbra / [ilegível] / Avellino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3436/avelino_baptista_despedida_de_coimbra",
+      "doc": "museu-do-fado:waf14079456463b25",
+      "citacao": "Título: Despedida de Coimbra ... Editora: D.P. Gramophone GC -62916  Referências: Disque Pour Gramophone 7508, 62916; GC - 62916"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

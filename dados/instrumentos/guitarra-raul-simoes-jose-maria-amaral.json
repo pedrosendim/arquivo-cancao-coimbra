@@ -1,0 +1,63 @@
+{
+  "id": "guitarra-raul-simoes-jose-maria-amaral",
+  "designacao": "Guitarra toeira de Coimbra da oficina de Raul Simões, utilizada por José Maria Amaral (1937-1947)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "jose-maria-amaral",
+      "periodo": "1937-1947",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr.html",
+          "doc": "gc-i:111867685046938335",
+          "citacao": "Guitarra Toeira de Coimbra, da oficina de Raul Simões, utilizada pelo Dr. José Maria Amaral entre 1937-1947."
+        }
+      ],
+      "nota": "O post diz «utilizada»."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Voluta de orientação quadrangular; algo degradada quando fotografada em 1998, em Abrantes",
+      "data": "1998",
+      "local": "Abrantes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr.html",
+          "doc": "gc-i:111867685046938335",
+          "citacao": "Encontrava-se algo degradada quando a fotografei em 1998 em Abrantes. A voluta é de orientação quadrangular, como que resquício da distante guitarra inglesa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Guitarra%20Dr.%20Amaral%201.jpg",
+      "legenda": "Guitarra Dr. Amaral 1: guitarra toeira de Coimbra da oficina de Raul Simões (foto de António M. Nunes, 1998).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr.html",
+          "doc": "gc-i:111867685046938335",
+          "citacao": "Guitarra Dr. Amaral 1: Guitarra Toeira de Coimbra, da oficina de Raul Simões, utilizada pelo Dr. José Maria Amaral entre 1937-1947."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/guitarra-dr.html",
+      "doc": "gc-i:111867685046938335",
+      "citacao": "Texto e foto de António M. Nunes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "jose-henrique-dias",
+  "tipo": "pessoa",
+  "nome": "José Henrique Dias",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "Outros cantores colaboraram com a referida formação, nomeadamente José Henrique Dias (FL/UC) e Tito Costa Santos (FD/UC)."
+        }
+      ],
+      "nota": "tenor; presença regular segundo GC-V (2022), colaborador segundo GC-V (2016)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias, Barros Ferreira, Alcindo Costa e Augusto Camacho; Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola; Francisco Vasconcelos e Alexandre Bateiras na guitarra."
+        }
+      ],
+      "nota": "voz (1991, 1997)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZars7d4JQuJ7_xxxWXfRJP6XxqJ2PUXTuBzN1qapD4EI03ov71YBIyavWxcmBVLG-0ADgmQ74EYsObKXXQuhxRwgQyHFC7EYGlmRUzblUy0rUBwHXQG69DvpLSwttAZyAizII/s1600/Jose+Dias+3.jpg",
+      "legenda": "José Henrique Rodrigues Dias: única imagem do post com as suas notas biográficas, reproduzidas do semanário O Despertar (8 de setembro de 2006); o post não tem legenda própria para a fotografia",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "José Henrique Rodrigues Dias ... Conhecido como cantor da música coimbrã"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

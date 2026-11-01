@@ -1,0 +1,61 @@
+{
+  "id": "patrick-mendes",
+  "tipo": "pessoa",
+  "nome": "Patrick Mendes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarto-crescente",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/no-passado-sbado-actuou-o-grupo-quarto.html",
+          "doc": "gc-i:925217000977996577",
+          "citacao": "No passado Sábado, actuou o Grupo \"Quarto Crescente\" (fotos 1, 2 e 3), com os seguintes elementos: - Ricardo Dias - Guitarra - Paulo Larguesa - Viola - Patrick Mendes - Voz - José Manuel Beato - Voz"
+        }
+      ],
+      "nota": "voz (2007)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quinteto-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "nota": "voz"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Patrick%20Mendes%202.jpg",
+      "legenda": "Patrick Mendes a cantar com o grupo Quarto Crescente na Galeria Almedina (2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-quarto-crescente-na-_115361084022473608.html",
+          "doc": "gc-i:115361084022473608",
+          "citacao": "Grupo Quarto Crescente na Galeria Almedina, este sábado. Patrick Mendes a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

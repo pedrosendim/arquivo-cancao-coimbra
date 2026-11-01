@@ -1,0 +1,62 @@
+{
+  "id": "maria-isabel-de-menezes-e-melo-vaz-de-sampaio",
+  "tipo": "pessoa",
+  "nome": "Maria Isabel de Menezes e Melo Vaz de Sampaio",
+  "nomes_alternativos": [
+    "Maria Isabel Alte da Veiga"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1900",
+      "data": "1900",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "seu filho Eugénio casa em Lisboa a 18 de Fevereiro de 1927, com a Sra. D. Maria Isabel de Menezes e Melo Vaz de Sampaio, Alte da Veiga pelo casamento, nascida em 1900, casamento do qual viriam a nascer cinco filhos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Aprendeu com o marido as canções populares recolhidas pelo sogro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Eugénio viria a ensinar os seus filhos, sobretudo Luiz e Manuel, e ainda sua mulher em todas as canções populares que haviam sido recolhidas pelo pai"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "seu filho Eugénio casa em Lisboa a 18 de Fevereiro de 1927, com a Sra. D. Maria Isabel de Menezes e Melo Vaz de Sampaio, Alte da Veiga pelo casamento, nascida em 1900, casamento do qual viriam a nascer cinco filhos."
+        }
+      ],
+      "nota": "Casamento em Lisboa, 18 de fevereiro de 1927; cinco filhos."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

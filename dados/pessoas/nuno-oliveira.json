@@ -1,0 +1,31 @@
+{
+  "id": "nuno-oliveira",
+  "tipo": "pessoa",
+  "nome": "Nuno Oliveira",
+  "nomes_alternativos": [
+    "Nuno de Oliveira"
+  ],
+  "papeis": [
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/prospeco-amostragem-repertorial-1.html",
+          "doc": "gc-i:111386707668512688",
+          "citacao": "Por onde nos levam o barítono Jorge Machado, os guitarristas Fernando Marques/Pedro Nunes, o viola Manuel Vaz, o cravista Nuno Oliveira, vencedores que foram da primeira edição do Prémio de Inéditos Edmundo Bettencourt 2004?"
+        }
+      ],
+      "nota": "cravo e arranjos; CD «Prospecção» (2004)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

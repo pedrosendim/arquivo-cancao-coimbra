@@ -1,0 +1,130 @@
+{
+  "id": "jorge-gomes",
+  "tipo": "pessoa",
+  "nome": "Jorge Gomes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+      "doc": "gc-i:111539073728550400",
+      "citacao": "quero destacar aqui a execução bastante avançada de Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/iii-encontros-internacionais-de_19.html",
+      "doc": "gc-iii:4136510483809807702",
+      "citacao": "III Encontros Internacionais de Guitarra Portuguesa. Homenagem a Jorge Gomes, pela sua acção em prol do ensino e divulgação da guitarra de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "Responsável da Escola da Secção de Fado da Associação Académica de Coimbra",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "Nota-se neste trabalho que a Escola da Secção de Fado da Associação Académica, na pessoa do seu responsável Jorge Gomes, tem feito um bom trabalho."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html",
+          "doc": "gc-ii:3489238618505977861",
+          "citacao": "da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {"campo": "ensino", "valor": "Mestre de Simão Mota na guitarra de Coimbra (a partir de 2016)", "data": "2016", "local": "Coimbra", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html", "doc": "gc-v:2694200689006270542", "citacao": "Em 2016 ruma a Coimbra para aprender guitarra de Coimbra com o Mestre Jorge Gomes."}], "conflito": false, "nota": ""},
+    {
+      "campo": "ensino",
+      "valor": "Mestre de Bruno Costa na guitarra portuguesa",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Iniciou o seu estudo de Guitarra Portuguesa, aos 12 anos, com o Mestre Jorge Gomes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado nos III Encontros Internacionais de Guitarra Portuguesa pela ação no ensino e divulgação da guitarra de Coimbra",
+      "data": "2009-10",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/iii-encontros-internacionais-de_19.html",
+          "doc": "gc-iii:4136510483809807702",
+          "citacao": "Homenagem a Jorge Gomes, pela sua acção em prol do ensino e divulgação da guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarrista no CD «Cordas do Mondego» (Secção de Fado da AAC, 1999)",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Guitarras por Bruno Costa, Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes, Luís Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html", "doc": "gc-i:113931791535386927", "citacao": "Posteriormente asseguraram esta escola Fernando Monteiro, Jorge Gomes e diversos discípulos daqueles dois formadores."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088537679887685.html", "doc": "gc-i:113088537679887685", "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Jorge Gomes professor na escola."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html", "doc": "gc-i:111551986743632278", "citacao": "a Escola da Secção de Fado da Associação Académica, na pessoa do seu responsável Jorge Gomes"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2017/10/henrique-mann-em-coimbra-20.html", "doc": "gc-v:7582883500391083187", "citacao": "Momento de convívio informal nas escolas da SF/AAC com Manuel Coroa (gC), Jorge Gomes (v) e novos alunos."}], "nota": "Professor de guitarra e responsável da Escola de Guitarra da Secção (referido em 2004-2005; ainda nas escolas em 2017)."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-torre-d-anto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/joao-duarte-de-oliveira-e-paulo-saraiva.html",
+          "doc": "gc-v:5651454803161333981",
+          "citacao": "esteve na génese do grupo académico de fados de Coimbra, do grupo Torre d’Anto"
+        }
+      ],
+      "nota": "esteve na génese do grupo"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "Atuou o GRUPO DE MANUEL BRANQUINHO, constituído por Manuel Branquinho (1º gC e voz), Gabriel Ferreira (2º gC) e Jorge Gomes (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "tendo actuado Manuel Julião (voz e viola), o grupo de Manuel Branquinho (com Jorge Gomes) e o Grupo de Hermínio Menino."
+        }
+      ],
+      "nota": "viola; Sabrosa (1968) e homenagem a Lucas Junot (1970)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

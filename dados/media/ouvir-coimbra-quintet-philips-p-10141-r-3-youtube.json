@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-coimbra-quintet-philips-p-10141-r-3-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=ktENwR4ijz8",
+  "titulo": "Mi Deseo (O Meu Desejo) — Luiz Goes e Coimbra Quintet",
+  "data": "",
+  "pessoas": [
+    "luiz-goes",
+    "coimbra-quintet"
+  ],
+  "obras": [],
+  "gravacao": "coimbra-quintet-philips-p-10141-r",
+  "miniatura": "https://i.ytimg.com/vi/ktENwR4ijz8/hqdefault.jpg",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=ktENwR4ijz8"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: vídeo «Mi Deseo (O Meu Desejo)» (canal Luiz Goes - Topic).",
+  "estado_revisao": "rascunho"
+}

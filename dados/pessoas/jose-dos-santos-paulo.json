@@ -1,0 +1,47 @@
+{
+  "id": "jose-dos-santos-paulo",
+  "tipo": "pessoa",
+  "nome": "José dos Santos Paulo",
+  "nomes_alternativos": [
+    "José Paulo",
+    "José Augusto Sobral dos Santos Paulo"
+  ],
+  "papeis": [
+    "violista",
+    "guitarrista",
+    "cantor",
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "coube à Tertúlia do Fado\nde Coimbra o baluarte de assegurar a “ponte” entre o antes e depois do 25 de\nAbril. E a constituição do Grupo alargou-se com a integração do José Miguel\nBaptista (Cantor) e do Joaquim Matos (Cantor). Posteriormente, viriam a ser\nintegrados na Tertúlia do Fado de Coimbra o Mário José de Castro (Viola) e,\nfinalmente, o José dos Santos Paulo (Guitarra, Viola e Cantor)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 5: Fotografia de Apresentação, Sé Velha de Coimbra, 1993.\nSentados - José dos Santos Paulo (viola), José Carlos Teixeira (guitarra),\nÁlvaro Aroso (guitarra), Eduardo Aroso (viola). De pé – Cantores: José Miguel\nBaptista, Joaquim Matos, Vítor Nunes e Nuno de Carvalho."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Na qualidade de cantor, autor de arranjos e executante de viola e de guitarra integrou a Tertúlia do Fado de Coimbra, com a qual efetuou registos fonográficos, concertos e digressões."
+        }
+      ],
+      "nota": "guitarra, viola e voz; anos 90"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

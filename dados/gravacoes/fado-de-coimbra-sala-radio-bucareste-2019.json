@@ -1,0 +1,168 @@
+{
+  "id": "fado-de-coimbra-sala-radio-bucareste-2019",
+  "titulo": "Fado de Coimbra (Ziua Națională a Portugaliei la Sala Radio – Concert)",
+  "formato": "CD",
+  "editora": "Ambasada Portugaliei",
+  "referencia": "",
+  "ano": "2019",
+  "local": "Bucareste (Roménia)",
+  "interpretes": [
+    {
+      "pessoa": "ricardo-dias",
+      "funcao": "guitarra portuguesa"
+    },
+    {
+      "pessoa": "ni-ferreirinha",
+      "funcao": "guitarra clássica"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "António Marinheiro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Dor De Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Fado Pentru Ochii Luminoși",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Anii Verzi",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Am Barcă, Am Vâsle",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Mai Adu Un Prieten",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Baladă Fără Destin",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Cântec Pentru Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Cântecul Vântului Care Trece",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Variațiuni În La Minor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Dans Din Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Variațiuni În Re Minor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Coimbra (Aprilie În Portugalia)",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/29426713",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "concerto gravado ao vivo na Sala Radio de Bucareste, Dia de Portugal, junho de 2019; voz de Nuno Correia da Silva",
+      "data": "2019-06",
+      "local": "Bucareste",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "live la Sala Radio din ... iunie 2019"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "Vocals – Nuno Correia da Silva"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × CD, Promo",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/29426713",
+          "doc": "discogs:w46b98d009d924b10",
+          "citacao": "Formato: 1 × CD, Promo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/29426713",
+      "doc": "discogs:w46b98d009d924b10",
+      "citacao": "Editora: Ambasada Portugaliei – none"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/29426713",
+      "doc": "discogs:w46b98d009d924b10",
+      "citacao": "Artistas: Ricardo Dias (12), Nuno Correia da Silva (Nuno Silva), Luís (Ni) Ferreirinha (Luís Ferreirinha)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

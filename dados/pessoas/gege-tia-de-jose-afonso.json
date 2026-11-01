@@ -1,0 +1,56 @@
+{
+  "id": "gege-tia-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "Gegé",
+  "nomes_alternativos": [
+    "Jejé",
+    "Tia Gegé",
+    "Tia Jejé"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "residencia",
+      "valor": "Aveiro, Largo das Cinco Bicas (Luís de Camões)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "tia Jejé (tia materna), moradora no Largo das Cinco Bicas (Luís de Camões)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tia materna de José Afonso, a quem este foi confiado em Aveiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "tia Jejé (tia materna)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "na casa da Fonte das Cinco Bicas, por razões de saúde, confiado à tia Gegé"
+        }
+      ],
+      "conflito": false,
+      "nota": "A biografia da AJA escreve «Gegé»; a cronologia escreve «Jejé»."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

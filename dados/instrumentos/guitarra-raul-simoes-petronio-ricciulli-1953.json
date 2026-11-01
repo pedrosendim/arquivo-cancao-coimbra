@@ -1,0 +1,56 @@
+{
+  "id": "guitarra-raul-simoes-petronio-ricciulli-1953",
+  "designacao": "Guitarra de Coimbra de 22 trastos comprada por Petrónio Ricciulli a Raul Simões em 1953 (encomendada inicialmente por Artur Paredes)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "petronio-ricciuli",
+      "periodo": "desde 1953",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Em 1953 Petrónio Ricciulli comprou uma guitarra de Coimbra de 22 trastos a Raul Simões, instrumento que inicialmente fora uma encomenda feita por Artur Paredes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Comprada em 1953; inicialmente uma encomenda de Artur Paredes, episódio que poderá justificar a rutura entre Raul Simões e Artur Paredes",
+      "data": "1953",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+          "doc": "gc-v:74750060412348144",
+          "citacao": "Em 1953 Petrónio Ricciulli comprou uma guitarra de Coimbra de 22 trastos a Raul Simões, instrumento que inicialmente fora uma encomenda feita por Artur Paredes, episódio que poderá justificar a ruptura entre Raul Simões e Artur Paredes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Como exemplo paradigmático temos a guitarra comprada por Petrónio Ricciulli a Raul Simões em 1953, que inicialmente fora encomendada por Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/08/raul-simoes.html",
+      "doc": "gc-v:74750060412348144",
+      "citacao": "Em 1953 Petrónio Ricciulli comprou uma guitarra de Coimbra de 22 trastos a Raul Simões"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

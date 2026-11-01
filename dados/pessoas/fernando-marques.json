@@ -1,0 +1,76 @@
+{
+  "id": "fernando-marques",
+  "tipo": "pessoa",
+  "nome": "Fernando Marques",
+  "nomes_alternativos": [
+    "Fernando Dias Marques"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 1999, conclui a sua participação regular em eventos académicos, passando a integrar o grupo Alma Mater."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+          "doc": "gc-i:112259439330268263",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ],
+      "nota": "guitarra; desde 1999 (atuações de 2005-2006)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "A par da aprendizagem musical forma, no seio da TAUC, o Grupo Canção de Coimbra, passando a apresentar-se com regularidade nos principais eventos académicos, em diversos espectáculos por todo o país e estrangeiro destacando-se as presenças nas digressões a França, Eslováquia e Macau."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em Julho de 2004, enquanto membro do Grupo Canção de Coimbra, vence a primeira edição do prémio Edmundo Bettencourt que teve como resultado a gravação e comercialização do trabalho discográfico “Prospecção”."
+        }
+      ],
+      "nota": "guitarra; fundador, 1995-1999 e desde 2002"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "fernando-marques-ensemble",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/fernando-marques-enviou-me-estas-duas.html",
+          "doc": "gc-iv:5594620454907735080",
+          "citacao": "Fernando Marques enviou-me estas duas fotos da actuação do Fernando Marques Ensemble, no encerramento do Festival Cantar Abril, com o Tema - \"LIVRE É A PALAVRA\", de sua autoria. Esta peça foi uma das dez finalistas desse festival. Este grupo é composto pelo autor em guitarra de Coimbra, Paulo Larguesa em viola e António Diniz no canto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/registos-do-fernando-marques-ensemble.html",
+          "doc": "gc-v:3002448939914678546",
+          "citacao": "Registos fotográficos das atuações do Fernando Marques Ensemble em Lima, nos dias 9 e 10 de junho, nas celebrações do Dia de Portugal: Nuno Silva (voz), Fernando Marques (gC), Paulo Larguesa (v)."
+        }
+      ],
+      "nota": "guitarra; líder e compositor (2011-2019)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "afonso-rtp-o-fado-de-coimbra-1994",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/o-fado-de-coimbra-parte-ii/",
+  "titulo": "O Fado de Coimbra — Parte II (Silêncio... que se vai Cantar o Fado, RTP1, 1994)",
+  "data": "1994-02-25",
+  "pessoas": [
+    "jose-afonso",
+    "fernando-machado-soares"
+  ],
+  "obras": [
+    "balada-do-outono"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-fado-de-coimbra-parte-ii/",
+      "doc": "rtp-arquivos:wc67818927b2ac827",
+      "citacao": "a diferença entre balada, fado e canção e as baladas de Zeca Afonso, cantor, com destaque para a \"Balada de Outono\""
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

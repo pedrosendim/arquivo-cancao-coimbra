@@ -1,0 +1,238 @@
+{
+  "id": "v-festuna-seccao-de-fado-sf006",
+  "titulo": "V FESTUNA",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "SF 006",
+  "ano": "1996",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "estudantina-universitaria-de-coimbra",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Mondego",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "As Carvoeiras",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Adeus",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Candombe Para José",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Isla Mia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Valleseco",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Balada",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Carnaval 86",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Viva A Paródia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Tarantela",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Mas Allá",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Feira De São Mateus",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Neste Barco",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Ronda Del Firuli",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Violetas Imperiales",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Apresentação + Lafões",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 17,
+      "titulo": "Estudantina Portuguesa",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 18,
+      "titulo": "Tentação",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 19,
+      "titulo": "Traçadinho",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 20,
+      "titulo": "Coimbra",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/Q61-oykocAuwxKEMjsAoivxjsei27ghvgNlsJKN95Oo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTk4/MzQzLTE3ODExODIz/NzYtMTExMy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/37598343",
+        "doc": "discogs:w3ecb774461667e55",
+        "citacao": "Imagem (primary): https://i.discogs.com/Q61-oykocAuwxKEMjsAoivxjsei27ghvgNlsJKN95Oo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTk4/MzQzLTE3ODExODIz/NzYtMTExMy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/37598343",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37598343",
+          "doc": "discogs:w3ecb774461667e55",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1996 (Discogs)",
+      "data": "1996",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37598343",
+          "doc": "discogs:w3ecb774461667e55",
+          "citacao": "Data: 1996"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "compilação do V Festival Internacional de Tunas, com faixas da Estudantina e de tunas convidadas (FAN-Farra Académica de Coimbra, Tuna Universitária do Porto, Tuna da Faculdade de Medicina da UC, Tuna Universitaria de Salamanca, Estudantina Universitária de Lisboa, Tuna Javeriana, Infantuna Cidade de Viseu)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37598343",
+          "doc": "discogs:w3ecb774461667e55",
+          "citacao": "1 Mondego — FAN-Farra Académica De Coimbra"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37598343",
+          "doc": "discogs:w3ecb774461667e55",
+          "citacao": "7 Balada — Tuna Da Faculdade De Medicina Da Universidade De Coimbra"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37598343",
+          "doc": "discogs:w3ecb774461667e55",
+          "citacao": "12 Feira De São Mateus — Infantuna Cidade de Viseu"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/37598343",
+      "doc": "discogs:w3ecb774461667e55",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – SF 006"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/37598343",
+      "doc": "discogs:w3ecb774461667e55",
+      "citacao": "Formato: 1 × CD, Album, Stereo"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/37598343",
+      "doc": "discogs:w3ecb774461667e55",
+      "citacao": "Faixas: 1 ... 20"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+      "doc": "arquivo-pt:w0f05a352985d3c16",
+      "citacao": "no âmbito dos festivais de Tunas editou o CD \"V Festuna\""
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

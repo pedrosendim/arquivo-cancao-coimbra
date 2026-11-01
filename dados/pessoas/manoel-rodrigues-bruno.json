@@ -1,0 +1,46 @@
+{
+  "id": "manoel-rodrigues-bruno",
+  "tipo": "pessoa",
+  "nome": "Manoel Rodrigues Bruno",
+  "nomes_alternativos": [
+    "Manuel Rodrigues Bruno"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 1 de janeiro de 1856, após doença prolongada",
+      "data": "1856-01-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/obito-de-francisco-bruno-1869.html",
+          "doc": "gc-v:4745687686158749692",
+          "citacao": "necrologia relativa a Manoel Rodrigues Bruno, irmão (?) dos acima referidos, falecido em Coimbra após doença prolongada em 01.01.1856"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense n.º 2023, de 05.01.1856, citado no post."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "joaquim-wladislau-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/obito-de-francisco-bruno-1869.html",
+          "doc": "gc-v:4745687686158749692",
+          "citacao": "agradecimento dos irmãos do falecido, Joaquim Vladislau Bruno e Maria da Assunção"
+        }
+      ],
+      "nota": "O autor do post escreve «irmão (?)» ao relacioná-lo com Francisco e Joaquim; o agradecimento no jornal é «dos irmãos do falecido»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

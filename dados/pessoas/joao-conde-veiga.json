@@ -1,0 +1,99 @@
+{
+  "id": "joao-conde-veiga",
+  "tipo": "pessoa",
+  "nome": "João Conde Veiga",
+  "nomes_alternativos": [
+    "João Heliodoro Conde Veiga",
+    "Conde Veiga"
+  ],
+  "papeis": [
+    "violista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+      "doc": "gc-v:3000711862838942328",
+      "citacao": "JOÃO CONDE VEIGA (1935 – 2004). Violista, compositor"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+      "doc": "gc-v:3000711862838942328",
+      "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas. Tinha 21 anos."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "João Heliodoro Conde Veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "JOÃO Heliodoro CONDE VEIGA nasceu em Soure a 4 de Abril de 1935"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Soure, 4 de abril de 1935",
+      "data": "1935-04-04",
+      "local": "Soure",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "JOÃO Heliodoro CONDE VEIGA nasceu em Soure a 4 de Abril de 1935"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Vila do Conde, 2004",
+      "data": "2004",
+      "local": "Vila do Conde",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Neste dia 28 de Março de 2014, faz 10 anos que JOÃO CONDE VEIGA faleceu em Vila do Conde, no ano de 2004."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza e David Leandro (guitarras) e Emanuel Maranha das Neves (viola, com Conde Veiga)",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha mínima, criada para ligar Emanuel Maranha das Neves; o post (biografia por Manuel Marques Inácio) tem muito mais informação por arrumar."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia no blogue Guitarra de Coimbra V (Manuel Marques Inácio, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

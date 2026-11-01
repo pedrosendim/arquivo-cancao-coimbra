@@ -1,0 +1,81 @@
+{
+  "id": "guitarra-gilberto-gracio-pedro-paredes-2006",
+  "designacao": "Guitarra construída por Gilberto Grácio para Pedro Paredes (2006)",
+  "tipo": "guitarra",
+  "construtor": "gilberto-gracio",
+  "ano": "2006",
+  "proprietarios": [
+    {
+      "pessoa": "pedro-paredes",
+      "periodo": "desde 2006",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/f.html",
+          "doc": "gc-i:115643549354960603",
+          "citacao": "Gilberto Grácio, na sua oficina, mostra uma guitarra que acabou de construir para Pedro Paredes."
+        }
+      ],
+      "nota": "Os posts não indicam se é guitarra de Coimbra ou de Lisboa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Levantada na oficina de Gilberto Grácio a 5 de agosto de 2006, com Fernando Marques",
+      "data": "2006-08-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/p.html",
+          "doc": "gc-i:115643558059209477",
+          "citacao": "Pedro Paredes no momento do levantamento da nova guitarra construída por Gilberto Grácio. Fotografia realizada por Fernando Marques em 05 de Agosto de 2006."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/f.html",
+          "doc": "gc-i:115643549354960603",
+          "citacao": "Ao lado do construtor vê-se Fernando Marques que acompanhou PParedes no acto de levantamento do instrumento, em 05 de Agosto de 2006."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Paredes%20e%20Grio.jpg",
+      "legenda": "Pedro Paredes no momento do levantamento da nova guitarra construída por Gilberto Grácio.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/p.html",
+          "doc": "gc-i:115643558059209477",
+          "citacao": "Fotografia realizada por Fernando Marques em 05 de Agosto de 2006."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Marques%20e%20Graio.jpg",
+      "legenda": "Gilberto Grácio, na sua oficina, mostra uma guitarra que acabou de construir para Pedro Paredes.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/f.html",
+          "doc": "gc-i:115643549354960603",
+          "citacao": "Fotografia enviada por Fernando Marques."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/f.html",
+      "doc": "gc-i:115643549354960603",
+      "citacao": "Gilberto Grácio, na sua oficina, mostra uma guitarra que acabou de construir para Pedro Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

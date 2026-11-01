@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-gramophone-262146-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0471_23.mp3",
+  "titulo": "Fado das Salas — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-262146",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0939.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/926/manasses_de_lacerda_fado_das_salas",
+      "doc": "museu-do-fado:w20babf3ecbfb72cb",
+      "citacao": "Título: Fado das Salas ... Editora: Gra.262146  Referências: Disque Pour Gramophone 17640-1/2u, 262146_; 262146"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

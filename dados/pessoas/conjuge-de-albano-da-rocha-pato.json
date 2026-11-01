@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-albano-da-rocha-pato",
+  "tipo": "pessoa",
+  "nome": "Mulher de Albano da Rocha Pato (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "albano-da-rocha-pato",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Rocha Pato instala-se em Coimbra no ano de 1945 casado e com um filho (Rui de Melo Pato) que nasce em 1946."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. A fonte não diz que é a mãe de Rui Pato."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

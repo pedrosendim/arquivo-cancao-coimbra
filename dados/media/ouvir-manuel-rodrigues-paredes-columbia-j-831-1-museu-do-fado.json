@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manuel-rodrigues-paredes-columbia-j-831-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0690_41.mp3",
+  "titulo": "Fado em mi menor — Manuel Rodrigues Paredes",
+  "data": "",
+  "pessoas": [
+    "manuel-rodrigues-paredes"
+  ],
+  "obras": [],
+  "gravacao": "manuel-rodrigues-paredes-columbia-j-831",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1373.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1364/manuel_rodrigues_paredes_fado_em_mi_menor",
+      "doc": "museu-do-fado:w762bc7860fe4f910",
+      "citacao": "Título: Fado em mi menor ... Editora: Co.J831 Referências: WP283, W, 32623, P283; J831"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

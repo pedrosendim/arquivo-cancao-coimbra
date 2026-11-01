@@ -1,0 +1,29 @@
+{
+  "id": "bernardino-goncalves",
+  "tipo": "pessoa",
+  "nome": "Bernardino Gonçalves",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

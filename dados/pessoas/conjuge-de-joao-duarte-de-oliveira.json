@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-joao-duarte-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "Mulher de João Duarte de Oliveira (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joao-duarte-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/cantavam-e-tocavam-em-coimbra-em-1930.html",
+          "doc": "gc-v:7208676335184441888",
+          "citacao": "João Duarte de Oliveira, de 46 anos de idade, casado, lente da FM / UC, residente no Penedo da Saudade."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Estado civil «casado» no Anuário Comercial e Industrial de Coimbra e Beiras, 1930-1931, citado no post."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

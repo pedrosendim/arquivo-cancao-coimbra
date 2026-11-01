@@ -1,0 +1,103 @@
+{
+  "id": "joaquim-reis",
+  "tipo": "pessoa",
+  "nome": "Joaquim Reis",
+  "nomes_alternativos": [
+    "Quim Reis",
+    "Joaquim (Quim) Reis"
+  ],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "jornalista",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Joaquim Reis (jornalista, fundador da Secção de Fado da AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "fundador da Secção de Fado da AAC e vice-presidente da sua primeira direção (1981)",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Foram vice-presidentes o Quim Reis e o José Seco"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Joaquim Reis (jornalista, fundador da Secção de Fado da AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "relato na revista «A Briosa» n.º 7 (30-5-1988) sobre a serenata do Grupo de Fados da Secção no Penedo da Saudade",
+      "data": "1988",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+          "doc": "gc-i:113639247173462895",
+          "citacao": "Relatando o evento, nas págs. 18-21 da revista citada, Joaquim Reis enfatizava"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "testemunho no DVD «A história do Fado de Coimbra» (2004-2005)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "integra testemunhos de Luiz Goes, Jorge Gomes (ensinante de guitarra) e Joaquim Reis (jornalista, fundador da Secção de Fado da AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Destaco dois deles, o Quim Reis e o Mário Afonso, pela mobilização que conseguiram da Academia"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Foram vice-presidentes o Quim Reis e o José Seco"
+        }
+      ],
+      "nota": "Fundador (Grupo Dinamizador, 1980) e vice-presidente da primeira direção (1981)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "saudade-coimbra",
+  "tipo": "grupo",
+  "nome": "Saudade Coimbrã",
+  "nomes_alternativos": [
+    "grupo Saudade Coimbrã"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado por António de Jesus, com Alcides Freixo (guitarra), Joaquim Santos e José Freitas (violas); cantores Joaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate e António Rodrigues, entre outros",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de António de Jesus publicada no blogue em 2014; sem datas."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

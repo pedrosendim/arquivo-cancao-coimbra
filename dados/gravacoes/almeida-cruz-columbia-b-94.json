@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-94",
+  "titulo": "O trevo / Amélia",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-94",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "O trevo",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-94-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Amélia",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-94-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«O trevo», por Almeida Cruz — etiqueta: «O Trevo / Canção Portuguesa, Popular / Almeida Cruz / e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/610/almeida_cruz_o_trevo",
+          "doc": "museu-do-fado:w786e4739832257ed",
+          "citacao": "Título: O trevo ... Editora: Co. B-94 Referências: 11821, 1-5; B94 ... Etiqueta: O Trevo / Canção Portuguesa, Popular / Almeida Cruz / e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «O Trevo, Columbia B-94, 11821, dança popular de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-O Trevo, Columbia B-94, 11821, dança popular de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Amélia», por Almeida Cruz — etiqueta: «Amelia / Canção Portuguesa  Popular da Beira / Almeida Cruz e coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/611/almeida_cruz_amelia",
+          "doc": "museu-do-fado:w2846f9119e6bf902",
+          "citacao": "Título: Amélia ... Editora: Co. B-94 Referências: 11833, 1-5; B94 ... Etiqueta: Amelia / Canção Portuguesa  Popular da Beira / Almeida Cruz e coro"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Amelia, Columbia B-94, 11822, canção popular de Coimbra e das Beiras»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Amelia, Columbia B-94, 11822, canção popular de Coimbra e das Beiras"
+        }
+      ],
+      "conflito": true,
+      "nota": "O número que o blogue dá a seguir ao disco difere da matriz indicada no registo do Museu do Fado. O registo do Museu do Fado indica «Editora: Co. B-94» e «Referências: 11833, 1-5; B94»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/610/almeida_cruz_o_trevo",
+      "doc": "museu-do-fado:w786e4739832257ed",
+      "citacao": "Título: O trevo ... Editora: Co. B-94 Referências: 11821, 1-5; B94"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-O Trevo, Columbia B-94, 11821, dança popular de Coimbra"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/611/almeida_cruz_amelia",
+      "doc": "museu-do-fado:w2846f9119e6bf902",
+      "citacao": "Título: Amélia ... Editora: Co. B-94 Referências: 11833, 1-5; B94"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Amelia, Columbia B-94, 11822, canção popular de Coimbra e das Beiras"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

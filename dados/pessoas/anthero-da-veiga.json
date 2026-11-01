@@ -1,0 +1,421 @@
+{
+  "id": "anthero-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Anthero da Veiga",
+  "nomes_alternativos": [
+    "Antero da Veiga",
+    "Anthero Dias d'Alte da Veiga",
+    "Anthero Dias Alte da Veiga",
+    "Da Veiga"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor",
+    "poeta"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Recorde-se que Anthero Dias Alte da Veiga, que se viria a tornar célebre como guitarrista, republicano e diplomata, nasceu na Cerdeira, filho de Francisco António Maria da Veiga e de Maria das Dores Dias Alte da Veiga."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "No regresso, no lugar de Corgas (Pomares) um pedreiro seu amigo fez a afinação da “requinta”, mas a iniciação à arte guitarrista foi feita em Coja, graças aos ensinamentos disponibilizados por António Augusto Gomes de Oliveira."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Como funcionário judicial (escrivão-notário), Anthero da Veiga regressou a Arganil em finais do século XIX, já então casado com Inácia Soares de Brito, da Chamusca da Beira."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/anthero-da-veiga-toca-guitarra-ante-o.html",
+      "doc": "gc-v:6451728269559597042",
+      "citacao": "No sábado, 15.06.1907, após o banquete oferecido pela câmara municipal, o juiz de direito e antigo sócio da Estudantina/TAUC, Ventura Câmara, mandou chamar o escrivão da comarca e solista de guitarra Anthero da Veiga que tocou ante a comitiva régia e foi convidado a deslocar-se à corte."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Com a implantação da República (1910) Anthero da Veiga presidiu em Arganil (como Administrador do Concelho, interino) ao acto de transição camarária"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Os seus dotes musicais, sobejamente reconhecidos em terras espanholas e francesas, valeram-lhe um convite para gravar em Liverpool (Inglaterra) em 1929."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "Em 1945 foi viver com seu filho Eugénio para Mogofores onde faleceu em 12 de Dezembro de 1960."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Anthero Dias d'Alte da Veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "ANTHERO DIAS d’ALTE DA VEIGA"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Cerdeira, Arganil, 1 de março de 1866",
+      "data": "1866-03-01",
+      "local": "Cerdeira (Arganil)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "ANTHERO DA VEIGA (1866 – 1960). Guitarrista, compositor"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "Faz hoje, dia 1 de Março de 2013, 147 anos, que nasceu em Cerdeira, Arganil"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "O 150.º aniversário do nascimento foi assinalado pelo município de Arganil a 19 de fevereiro de 2017",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "O município de Arganil assinala no próximo dia 19 de fevereiro a passagem dos 150 anos do nascimento do compositor e solista de guitarra [cítara aportuguesada] Anthero Dias d'Alte da Veiga."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2017 não indica a data de nascimento; a comemoração dos 150 anos em 2017 não coincide com o ano de 1866 indicado no post de 2013."
+    },
+    {
+      "campo": "morte",
+      "valor": "Mogofores, 12 de dezembro de 1960",
+      "data": "1960-12-12",
+      "local": "Mogofores (Anadia)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Em 1945 foi viver com seu filho Eugénio para Mogofores onde faleceu em 12 de Dezembro de 1960."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do neto, Dr. Luiz Alte da Veiga (2017). O post de 2013 chama lapso a esta data, presente no livro de Quaresma Ventura."
+    },
+    {
+      "campo": "morte",
+      "valor": "Mogofores, Anadia, 16 de fevereiro de 1960",
+      "data": "1960-02-16",
+      "local": "Mogofores (Anadia)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "Faleceu em Mogofores, Anadia, a 16 de Fevereiro de 1960."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "16 de dezembro de 1960 (data confirmada pelo neto, Prof. Manuel Alte da Veiga, e dada por José Niza)",
+      "data": "1960-12-16",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "A data confirmada pelo seu neto, Prof. Manuel Alte da Veiga, é 16 de Dezembro de 1960, tal como refere José Niza, em obra supra mencionada."
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota [1] do mesmo post que, no corpo do texto, dá 16 de fevereiro de 1960."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Iniciação na guitarra em Coja, com António Augusto Gomes de Oliveira; frequentou o Colégio de S. Fiel",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "a iniciação à arte guitarrista foi feita em Coja, graças aos ensinamentos disponibilizados por António Augusto Gomes de Oliveira."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "frequentou o Colégio de S. Fiel (Louriçal do Campo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Escrivão-notário; administrador de concelho (Arganil, Oliveira do Hospital, Miranda do Corvo, Montemor-o-Velho); cônsul de Portugal na Corunha; demitido em 1928",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Como funcionário judicial (escrivão-notário), Anthero da Veiga regressou a Arganil em finais do século XIX"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "foi ocupar idênticas funções em Oliveira do Hospital (onde fundou um jornal) e depois em Miranda do Corvo e Montemor-o-Velho, antes de ser nomeado Cônsul de Portugal na Corunha (Espanha)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Anthero da Veiga seria demitido em 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tocou guitarra perante o rei D. Carlos e a comitiva régia em Arganil, a 15 de junho de 1907",
+      "data": "1907-06-15",
+      "local": "Arganil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/anthero-da-veiga-toca-guitarra-ante-o.html",
+          "doc": "gc-v:6451728269559597042",
+          "citacao": "No sábado, 15.06.1907, após o banquete oferecido pela câmara municipal, o juiz de direito e antigo sócio da Estudantina/TAUC, Ventura Câmara, mandou chamar o escrivão da comarca e solista de guitarra Anthero da Veiga que tocou ante a comitiva régia"
+        }
+      ],
+      "conflito": false,
+      "nota": "Fonte citada no post: O Tribuno Popular, n.º 536, 15.06.1907."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou em Liverpool, em 1929, quatro composições acompanhado à guitarra de bordões pelo filho Eugénio da Veiga; editadas em CD (c. 2010)",
+      "data": "1929",
+      "local": "Liverpool",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Ouvir-se-ão, também, quatro composições gravadas, em 1929, de Anthero da Veiga acompanhado à guitarra de bordões por seu filho Eugénio da Veiga."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/fado-melodico-anthero-da-veiga-sound.html",
+          "doc": "gc-iii:142692770349065087",
+          "citacao": "Finalmente foram editadas em CD, 4 músicas de Anthero da Veiga, acompanhado por Eugénio da Veiga em guitarra de bordões."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/fado-melodico-anthero-da-veiga-sound.html",
+          "doc": "gc-iii:142692770349065087",
+          "citacao": "Fado Melódico - Anthero da Veiga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra de concerto com duas bocas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Tal como José Parente e Júlio Silva, Da Veiga usava uma guitarra de concerto com duas bocas, que na época deu azo a graçolas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições gravadas por outros na década de 1920: «Angelus d'Aldeia» (José Parente), «Bailados do Minho» (Artur Paredes), «Fado do Conde da Covilhã» (Alexandre de Rezende) e «Fado dos Milagres»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Há contudo abordagens fonográficas avulsas, garantidas por terceiros, que fixam na década de 1920 composições da autoria de Da Veiga, pese embora nem sempre reconhecidas como tal na tradição oral: -ANGELUS D'ALDEIA, fabulosa composição instrumental para guitarra gravada por José Parente; -BAILADOS DO MINHO, composição instrumental gravada por Artur Paredes; -FADO DO CONDE DA COVILHÃ, fado no estilo de Lisboa, música e letra de Da Veiga, gravado por Alexandre de Rezende;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor da música do «Fado dos Milagres», regravada com outra letra como «Fado da Mentira» (por António Menano e José Dias)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "-FADO DOS MILAGRES, gravado com este título e uma letra alternativa pela soprano lírica Beatriz Baptista; idem, a mesma música, mas com outra letra e o título contrafeito para FADO DA MENTIRA, gravado por António Menano e pelo barítono José Dias [atribuindo-se erradamente ao longo do século XX a autoria quer a António Menano, quer a Alexandre de Rezende]."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/alexandre-sezende.html",
+          "doc": "gc-ii:4351170569922863217",
+          "citacao": "Como se pode ler, atribui-se aqui a Alexandre de Rezende a autoria do Fado da Mentira. Mas como se pôde constatar, esta música é de Antero da Veiga."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Exímio guitarrista dos finais do século XIX, que influenciou as gerações seguintes de guitarristas",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/fado-melodico-anthero-da-veiga-sound.html",
+          "doc": "gc-iii:142692770349065087",
+          "citacao": "Anthero da Veiga, exímio guitarrista dos finais do século XIX, influenciou grandemente as gerações vindouras de outros guitarristas célebres."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sessão evocativa dos 150 anos do nascimento, Biblioteca Miguel Torga, Arganil, 19 de fevereiro de 2017",
+      "data": "2017-02-19",
+      "local": "Arganil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "No dia 19 de Fevereiro, numa organização da Câmara Municipal de Arganil, vai ter lugar no auditório da Biblioteca Miguel Torga, pelas 15:30 h, uma sessão evocativa de Anthero da Veiga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Seis filhos: Francisco (morreu em criança), Antero (morreu aos 27 anos), Inácia Maria, Fernanda, Eugénio e Francisco (o mais novo)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Deste casamento nasceram seis filhos, dois dos quais, viriam a falecer. Francisco, falecido com tenra idade e cujo nome voltou a ser dado ao irmão mais novo, e Antero, que faleceu aos 27 anos. Ficaram duas raparigas, Inácia Maria e Fernanda, e dois rapazes, Eugénio e Francisco, o irmão mais jovem."
+        }
+      ],
+      "conflito": false,
+      "nota": "Só as duas filhas e Eugénio têm ficha ligada; os três outros filhos são nomeados apenas pelo nome próprio."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-augusto-gomes-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "a iniciação à arte guitarrista foi feita em Coja, graças aos ensinamentos disponibilizados por António Augusto Gomes de Oliveira."
+        }
+      ],
+      "nota": "Guitarra, em Coja."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "francisco-antonio-maria-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "nasceu na Cerdeira, filho de Francisco António Maria da Veiga e de Maria das Dores Dias Alte da Veiga"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-das-dores-dias-alte-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "nasceu na Cerdeira, filho de Francisco António Maria da Veiga e de Maria das Dores Dias Alte da Veiga"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYUG6SBUH361UN5A27MehMSFtpBXGRegTr2QQ-7iYbi00FCQuRCCGpjEsHJiEjVVCyy5ic8fhUPA_dqJs8qLKhqC7s84GTTqFq10RI08CPgToYmmDKje116Q-H9L_U87N9_sIy05Oq9ryj/s1600/Anthero+da+Veiga.jpg",
+      "legenda": "Anthero da Veiga (foto retirada do blog Calhabé Circulação)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html",
+          "doc": "gc-v:8085537672311114361",
+          "citacao": "A foto apresentada, foi retirada do blog Calhabé Circulação, em 28.02.2013."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjxv8YToxpDeQ-6WJLZuT3LPMKkulZSsGziMBO7hOMIljjn88H7Q6WPBMt3gHKeWl_ZLLmpmJZ3OXeIpoECHGA7tsInIT3aogmEa-w_v3SB04jbU9pht02nAIrr6w-_kVL_wNm-kB-s9sT8YOxulWWDEFldCZNEncZel0M0GyhnYvLA5XKeRPR2h3hBuM/s1356/veiga.jpg",
+      "legenda": "Caricatura de Anthero da Veiga, com poema de Afonso Duarte, revista A Farsa, n.º 4, 12.02.1910",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/caricatura-de-anthero-da-veiga.html",
+          "doc": "gc-v:3383410720975260666",
+          "citacao": "Caricatura do guitarrista Anthero da Veiga, com poema de Afonso Duarte, publicada na revista A Farsa, n.º 4, edição de 12.02.1910."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Nos 150 anos do nascimento (2017)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html"
+    },
+    {
+      "rotulo": "Anthero da Veiga (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/anthero-daveiga-1866-1960.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tenho-barcos-tenho-remos",
+  "titulo": "Tenho Barcos, Tenho Remos",
+  "titulos_alternativos": [],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [],
+  "ano": "1962",
+  "letra_texto": {
+    "fonte": "gc-iii",
+    "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+    "doc": "gc-iii:854211484143292539",
+    "citacao": "Tenho barcos, tenho remos,\nTenho navios no mar;\nTenho o amor ali defronte\nE não lhe posso chegar.\nTenho navios no mar, (bis)\nTenho o amor ali defronte\nNão me posso consolar. (bis)\nJá fui nau, já fui navio\nJá fui chalupa, escaler;\nJá fui moço, já sou homem,\nSó me falta ter mulher.\nSó me falta ter mulher, (bis)\nJá fui moço, já sou homem\nJá fui chalupa, escaler."
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música de José Afonso; letra popular (alentejana); origem Faro, 1962",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+          "doc": "gc-iii:854211484143292539",
+          "citacao": "Música: José Manuel Cerqueira Afonso dos Santos (1929-1987)\n\nLetra: popular (alentejana)\n\nIncipit: Tenho barcos, tenho remos\n\nOrigem: Faro\n\nData: 1962"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por José Afonso em 1962, acompanhado só à viola por Rui Pato (Rapsódia EPF 5.182)",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+          "doc": "gc-iii:854211484143292539",
+          "citacao": "José Afonso gravou esta canção em 1962, acompanhado exclusivamente à viola de cordas de nylon por Rui Pato (disco RAPSÓDIA, EPF 5.182, de 45 rpm)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+      "doc": "gc-iii:854211484143292539",
+      "citacao": "TENHO BARCOS, TENHO REMOS"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/tenho-barco-tenho-remos-por-jose-anjos-de-carvalho-e-antonio-m-nunes/",
+      "doc": "aja:wc29964c4325c7cd3",
+      "citacao": "Tenho barco, tenho remos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

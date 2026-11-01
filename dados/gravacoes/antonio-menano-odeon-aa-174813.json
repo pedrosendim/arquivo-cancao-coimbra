@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-aa-174813",
+  "titulo": "Resposta à carta 9 de Abril / O mais triste fado",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "AA 174.813",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Resposta à carta 9 de Abril",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-aa-174813-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O mais triste fado",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-aa-174813-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Resposta à carta 9 de Abril», por António Menano — etiqueta: «Resposta à carta 9 de Abril / Musica de Dr. António Menano - A. Correia Leite / Letra de Luiza Nobrega / Dr. António Menano / Piano: A. Correia Leite / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2303/antonio_menano_resposta_a_carta_9_de_abril",
+          "doc": "museu-do-fado:w8e06a2fc0144fe6a",
+          "citacao": "Título: Resposta à carta 9 de Abril ... Editora: Od.AA174.813a, EMI261283,EMICD8374952[12\"] Referências: XXOG1084-2, W, R; AA 174813a ... Etiqueta: Resposta à carta 9 de Abril / Musica de Dr. António Menano - A. Correia Leite / Letra de Luiza Nobrega / Dr. António Menano / Piano: A. Correia Leite / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: Alfonso Corrêa Leite (piano), Armandinho (guitarra), Georgino [de Sousa] (viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«O mais triste fado», por António Menano — etiqueta: «O mais triste fado / Musica de Armandinho, letra de Fernando Teles / Dr. António Menano / Guitarra: Armandinho / Viola: Georgino / Piano: A. Correia Leite / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2304/antonio_menano_o_mais_triste_fado",
+          "doc": "museu-do-fado:w7dd9e9b4bbc076a4",
+          "citacao": "Título: O mais triste fado ... Editora: Od.AA174.813b,EMI261283,EMICD8346182[12\"] Referências: XXOG1091-2, W, R; AA 174813b ... Etiqueta: O mais triste fado / Musica de Armandinho, letra de Fernando Teles / Dr. António Menano / Guitarra: Armandinho / Viola: Georgino / Piano: A. Correia Leite / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2303/antonio_menano_resposta_a_carta_9_de_abril",
+      "doc": "museu-do-fado:w8e06a2fc0144fe6a",
+      "citacao": "Título: Resposta à carta 9 de Abril ... Editora: Od.AA174.813a, EMI261283,EMICD8374952[12\"] Referências: XXOG1084-2, W, R; AA 174813a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2304/antonio_menano_o_mais_triste_fado",
+      "doc": "museu-do-fado:w7dd9e9b4bbc076a4",
+      "citacao": "Título: O mais triste fado ... Editora: Od.AA174.813b,EMI261283,EMICD8346182[12\"] Referências: XXOG1091-2, W, R; AA 174813b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

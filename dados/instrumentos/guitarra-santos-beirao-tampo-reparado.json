@@ -1,0 +1,69 @@
+{
+  "id": "guitarra-santos-beirao-tampo-reparado",
+  "designacao": "Segunda guitarra de Lisboa Santos Beirão da coleção Fernandez Music (fenda no tampo reparada)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "In addition to this Santos Beirao I have another one which had a crack in the face"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Feita em Lisboa em meados do século XX; fenda no tampo reparada (ainda visível); acabamento a goma-laca e afinação por Ron Fernandez",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Here is the other Santos Beirao fado guitarra, it was made in Lisbon, mid-20th century. Repaired crack in face. French Polished and set-up by Ron Fernandez."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I have another one which had a crack in the face which has been repaired soundly but which is still visible."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não identifica o fabricante; ver também guitarra-santos-beirao-palm-springs."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/SantosBfaceRepaired.jpg",
+      "legenda": "Above: Here is the other Santos Beirao fado guitarra, it was made in Lisbon, mid-20th century.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Here is the other Santos Beirao fado guitarra, it was made in Lisbon, mid-20th century."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Here is the other Santos Beirao fado guitarra"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

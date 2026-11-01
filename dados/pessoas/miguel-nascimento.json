@@ -1,0 +1,53 @@
+{
+  "id": "miguel-nascimento",
+  "tipo": "pessoa",
+  "nome": "Miguel Nascimento",
+  "nomes_alternativos": [
+    "Miguel do Nascimento"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "canto no Grupo de Canto e Guitarra da Secção (2008) e no Grupo de Fados da Secção (III Gala do Diário as Beiras, 2009)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "Miguel do Nascimento (c)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/grupo-de-fados-da-seccao-de-fado-da.html",
+          "doc": "gc-ii:1499048720668716907",
+          "citacao": "Miguel Nascimento no canto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/grupo-de-fados-da-seccao-de-fado-da.html",
+          "doc": "gc-ii:1499048720668716907",
+          "citacao": "Grupo de Fados da Secção de Fado da Associação Académica de Coimbra, na III Gala do Diário as Beiras, no suplemento \"Olá Gente\" de 3-4-09. Miguel Nascimento no canto"
+        }
+      ],
+      "nota": "Canto no Grupo de Canto e Guitarra / Grupo de Fados da Secção (2008-2009)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

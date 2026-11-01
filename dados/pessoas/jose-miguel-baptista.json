@@ -1,0 +1,97 @@
+{
+  "id": "jose-miguel-baptista",
+  "tipo": "pessoa",
+  "nome": "José Miguel Baptista",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1942",
+      "data": "1942",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "merece destaque José Miguel Baptista (n. 1942)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Balada dos Sinos» e LP «Portugal. Fados from Coimbra», com as guitarras dos irmãos Melo",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "José Miguel Baptista (n. 1942) que, fruto das guitarras dos irmãos Melo, deu à estampa o EP “Balada dos Sinos” e o LP “Portugal. Fados from Coimbra”"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "E a constituição do Grupo alargou-se com a integração do José Miguel\nBaptista (Cantor) e do Joaquim Matos (Cantor)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Pela\nTertúlia do Fado de Coimbra. Vozes de José Miguel Baptista, Joaquim Matos, Nuno\nde Carvalho e Victor Nunes."
+        }
+      ],
+      "nota": "voz; depois de 1974 (EP de 1978, LP de 1982, CD de 1994)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quartet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "José Miguel Baptista (barítono), Eduardo de Melo (gC1), Ernesto de Melo (gC2, sendo gC1 em Raiz), Durval Moreirinhas (v)."
+        }
+      ],
+      "nota": "barítono"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Serenata%20J%20Miguel.jpg",
+      "legenda": "José Miguel Baptista canta uma canção de Coimbra na serenata do Coro dos Antigos Orfeonistas nas escadas do Amor da Pátria, Horta (Faial).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/coro-dos-antigos-orfeonist_115222713038443990.html",
+          "doc": "gc-i:115222713038443990",
+          "citacao": "Serenata nas escadas do Amor da Pátria, na cidade da Horta, na ilha do Faial. José Miguel Baptista canta uma canção de Coimbra."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

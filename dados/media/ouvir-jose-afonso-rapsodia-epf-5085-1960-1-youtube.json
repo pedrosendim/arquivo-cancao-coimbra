@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-jose-afonso-rapsodia-epf-5085-1960-1-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=Mu2tlD1xy5Q",
+  "titulo": "Balada do Outono — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-portugal",
+    "eduardo-de-melo",
+    "manuel-pepe",
+    "paulo-alao"
+  ],
+  "obras": [
+    "balada-do-outono"
+  ],
+  "gravacao": "jose-afonso-rapsodia-epf-5085-1960",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=Mu2tlD1xy5Q"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: «José Afonso - \"Balada do Outono\" do disco \"Balada do Outono\" (EP 1960)»",
+  "estado_revisao": "rascunho"
+}

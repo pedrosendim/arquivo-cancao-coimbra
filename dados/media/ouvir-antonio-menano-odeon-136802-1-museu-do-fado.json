@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136802-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0585_11.mp3",
+  "titulo": "Fado do Alentejo — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136802",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1163.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1154/antonio_menano_fado_do_alentejo",
+      "doc": "museu-do-fado:w59e85f6c8b9cb623",
+      "citacao": "Título: Fado do Alentejo ... Editora: Od.136.802, HTCD31 Referências: OG572, N5, 1927; A 136802"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

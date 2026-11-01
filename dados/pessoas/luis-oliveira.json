@@ -1,0 +1,35 @@
+{
+  "id": "luis-oliveira",
+  "tipo": "pessoa",
+  "nome": "Luís Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-romance",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+          "doc": "gc-i:115405640078927455",
+          "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Romance\n\n11- Fraternidade (Letra: Miguel Torga / Música: João Barreiros)\n\n12 - Romance nº 2 (Carlos Paredes): Luís Oliveira"
+        }
+      ],
+      "nota": "guitarra; 2005-2013"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

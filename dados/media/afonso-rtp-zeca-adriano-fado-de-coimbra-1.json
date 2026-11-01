@@ -1,0 +1,30 @@
+{
+  "id": "afonso-rtp-zeca-adriano-fado-de-coimbra-1",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/zeca-adriano-e-o-fado-de-coimbra-parte-i/",
+  "titulo": "Zeca, Adriano e o Fado de Coimbra — Parte I (Antena 1, 2012)",
+  "data": "2012-02-06",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [
+    "fado-das-aguias"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-adriano-e-o-fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:w5ef3b2b78dc93a83",
+      "citacao": "Primeiro programa apresentado por Iolanda Ferreira e Rúben de Carvalho, dedicado às canções de Zeca Afonso, Adriano Correia de Oliveira, e o Fado de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-adriano-e-o-fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:w5ef3b2b78dc93a83",
+      "citacao": "Inclui os fados \"Fado das Águias\""
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

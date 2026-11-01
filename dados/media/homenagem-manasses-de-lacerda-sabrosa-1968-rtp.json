@@ -1,0 +1,29 @@
+{
+  "id": "homenagem-manasses-de-lacerda-sabrosa-1968-rtp",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manasses-de-lacerda-botelho/",
+  "titulo": "Homenagem a Manassés de Lacerda Botelho, Sabrosa (Noticiário Nacional, RTP, novembro de 1968)",
+  "data": "1968-11-10",
+  "pessoas": [
+    "manasses-de-lacerda",
+    "manuel-branquinho"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manasses-de-lacerda-botelho/",
+      "doc": "rtp-arquivos:wf1512588ac04f7d2",
+      "citacao": "Sabrosa, homenagem a Manassés Ferreira de Lacerda Botelho, fadista e compositor de fados, por iniciativa da Associação dos Antigos Estudantes de Coimbra no Brasil."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+      "doc": "gc-v:1324171695999053016",
+      "citacao": "Atuou o GRUPO DE MANUEL BRANQUINHO, constituído por Manuel Branquinho (1º gC e voz), Gabriel Ferreira (2º gC) e Jorge Gomes (v)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

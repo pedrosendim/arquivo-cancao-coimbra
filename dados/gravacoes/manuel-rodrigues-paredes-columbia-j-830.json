@@ -1,0 +1,88 @@
+{
+  "id": "manuel-rodrigues-paredes-columbia-j-830",
+  "titulo": "Fado em fá sustenido menor / Fado da Trolha",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "J 830",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manuel-rodrigues-paredes",
+      "funcao": "guitarra (solo)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado em fá sustenido menor",
+      "obra": "",
+      "media": [
+        "ouvir-manuel-rodrigues-paredes-columbia-j-830-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Trolha",
+      "obra": "",
+      "media": [
+        "ouvir-manuel-rodrigues-paredes-columbia-j-830-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado em fá sustenido menor», por Manuel Rodrigues Paredes — etiqueta: «Fado em fá sustenido menor  / (musica de Manuel Rodrigues Paredes) / Solo de guitarra Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1361/manuel_rodrigues_paredes_fado_em_fa_sustenido_menor",
+          "doc": "museu-do-fado:w23bbb850ab994baf",
+          "citacao": "Título: Fado em fá sustenido menor ... Editora: Co.J830 Referências: WP279, W, 32609, P279; J830 ... Etiqueta: Fado em fá sustenido menor  / (musica de Manuel Rodrigues Paredes) / Solo de guitarra Manuel Rodrigues Paredes  / com acompanhamento de  / viola (Ernesto H. de Carvalho)"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: Ernesto H. de Carvalho (viola)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Trolha», por Manuel Rodrigues Paredes — etiqueta: «Fado da Trolha / (Musica de Manuel Rodrigues Paredes) / Solo de guitarra Manuel Rodrigues Paredes / Com acompanhamento de / viola (Ernesto H. de Carvalho)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1362/manuel_rodrigues_paredes_fado_da_trolha",
+          "doc": "museu-do-fado:w15419ee3af6b7ed4",
+          "citacao": "Título: Fado da Trolha ... Editora: Co.J830 Referências: WP281, W, 32619, P281; J830 ... Etiqueta: Fado da Trolha / (Musica de Manuel Rodrigues Paredes) / Solo de guitarra Manuel Rodrigues Paredes / Com acompanhamento de / viola (Ernesto H. de Carvalho)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1361/manuel_rodrigues_paredes_fado_em_fa_sustenido_menor",
+      "doc": "museu-do-fado:w23bbb850ab994baf",
+      "citacao": "Título: Fado em fá sustenido menor ... Editora: Co.J830 Referências: WP279, W, 32609, P279; J830"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1362/manuel_rodrigues_paredes_fado_da_trolha",
+      "doc": "museu-do-fado:w15419ee3af6b7ed4",
+      "citacao": "Título: Fado da Trolha ... Editora: Co.J830 Referências: WP281, W, 32619, P281; J830"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-fernando-miraldo",
+  "tipo": "pessoa",
+  "nome": "Mulher de Fernando Miraldo (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "fernando-miraldo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/um-dos-projetos-culturais-apoiados-pelo.html?showComment=1451921349031#c1369805027643115546",
+          "doc": "gc-v:c1369805027643115546",
+          "citacao": "aos meus novos amigos, Engº Miraldo e esposa"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Comentário de leitora (Maria Antónia Fraga Esteves) ao post «Missão Toeira (12)»; fonte de terceiros. Identificação de «Engº Miraldo» com Fernando Miraldo pelo contexto do projeto Missão Toeira."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

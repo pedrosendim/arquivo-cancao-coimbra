@@ -1,0 +1,86 @@
+{
+  "id": "balada-da-oliveira",
+  "titulo": "Balada da Oliveira",
+  "titulos_alternativos": [],
+  "genero": "outro",
+  "musica": [
+    "pedro-caldeira-cabral"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Peça para guitarra portuguesa de Pedro Caldeira Cabral; partitura publicada no blogue GC-I (2006), em sons reais",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/balada-da-oliveira.html",
+          "doc": "gc-i:114947194952302204",
+          "citacao": "Partitura de Balada da Oliveira, para guitarra portuguesa, de Pedro Caldeira Cabral. De notar que os sons representados pelas notas são sons reais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Interpretada por Pedro Caldeira Cabral no programa da RTP «A Guitarra Portuguesa» (1994), descrita como fado instrumental",
+      "data": "1994-02-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa-parte-ii/",
+          "doc": "rtp-arquivos:w4d7afbb10f739b51",
+          "citacao": "Atuação de Pedro Caldeira Cabral na guitarra portuguesa, que interpreta o fado instrumental \"Balada da Oliveira\" e \"Momentos e fragmentos\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tocada por Nuno Dias (guitarra) e Fernando Lima (viola) na homenagem a Gilberto Grácio no Café Santa Cruz (Coimbra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-n_114429013282456317.html",
+          "doc": "gc-i:114429013282456317",
+          "citacao": "Nuno Dias na guitarra e Fernando Lima na viola, abriram a sessão de guitarradas, tocando Despertar e Variações sob uma dança popular, de Carlos Paredes e Balada da Oliveira de Pedro Caldeira Cabral."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Incluída na lista de autores de Pedro Caldeira Cabral no Museu do Fado",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/pedro-caldeira-cabral",
+          "doc": "pedro-caldeira-cabral:w5a5f47aaa7b6077a",
+          "citacao": "\"Balada da Oliveira\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/06/balada-da-oliveira.html",
+      "doc": "gc-i:114947194952302204",
+      "citacao": "Partitura de Balada da Oliveira, para guitarra portuguesa, de Pedro Caldeira Cabral."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

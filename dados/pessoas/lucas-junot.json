@@ -1,0 +1,81 @@
+{
+  "id": "lucas-junot",
+  "tipo": "pessoa",
+  "nome": "Lucas Junot",
+  "nomes_alternativos": [
+    "Lucas Rodrigues Junot",
+    "Dr. Lucas Junot"
+  ],
+  "papeis": [
+    "cantor",
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+      "doc": "gc-i:111593304383452160",
+      "citacao": "Os registos fonográficos efectuados pelo cantor e guitarrista Lucas Junot decorreram em Londres, nos estúdios Columbia, no mês de Maio de 1927."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/fotos-junot-27-encontro-de-antigos.html",
+      "doc": "gc-i:116220620867149862",
+      "citacao": "Encontro de antigos estudantes de Coimbra. Lucas Junot está sentado a meio da mesa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Lucas Rodrigues Junot",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Registos fonográficos de Lucas Rodrigues Junot (1902-1968)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou em Londres, nos estúdios Columbia, em maio de 1927; além de cantar, tocou a guitarra de acompanhamento",
+      "data": "1927-05",
+      "local": "Londres",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Os registos fonográficos efectuados pelo cantor e guitarrista Lucas Junot decorreram em Londres, nos estúdios Columbia, no mês de Maio de 1927. ... Além de ter vocalizado os temas, Junot executou a guitarra de acompanhamento"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Lucas%20Junot%20livro%20de%20Santos%201.7.jpg",
+      "legenda": "Fotografia de Lucas Junot, incluída no livro de poesia deste, \"Cantos Outonais\".",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/fotografia-de-lucas-junot-includa-no.html",
+          "doc": "gc-i:114592291243723518",
+          "citacao": "Fotografia de Lucas Junot, incluída no livro de poesia deste, \"Cantos Outonais\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Registos fonográficos de Lucas Rodrigues Junot (Guitarra de Coimbra)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

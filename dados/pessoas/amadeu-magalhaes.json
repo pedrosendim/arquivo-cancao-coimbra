@@ -1,0 +1,88 @@
+{
+  "id": "amadeu-magalhaes",
+  "tipo": "pessoa",
+  "nome": "Amadeu Magalhães",
+  "nomes_alternativos": [],
+  "papeis": [
+    "professor",
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "coordenador do Grupo de Cordas da Secção de Fado, que ressurgiu em 1997, e seu director musical",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192717/https://seccaodefado.com/modules.php?file=article&name=news&sid=5",
+          "doc": "arquivo-pt:wba6668f79f9c4cb1",
+          "citacao": "Sob a coordenação de Amadeu Magalhães, o Grupo de Cordas resurgiu em 1997"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/arranque-de-cursos-de-viola-toeira.html",
+          "doc": "gc-v:3291001519659263967",
+          "citacao": "agrupamentos musicais Grupo de Cordas da Secção de Fado da AAC e Realejo, dos quais é, obviamente, o director musical"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "produtor e director musical do CD «No Palheiro...» do Grupo de Cordas (SF015, 2001)",
+      "data": "2001",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "Producer, Music Director – Amadeu Magalhães"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "professor dos cursos de viola toeira, machinho e harmónio em Ançã (2015)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/arranque-de-cursos-de-viola-toeira.html",
+          "doc": "gc-v:3291001519659263967",
+          "citacao": "Os cursos de Machinho e de harmónio funcionarão nos mesmos moldes do curso de Viola Toeira, pelo mesmo professor, Amadeu Magalhães"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192717/https://seccaodefado.com/modules.php?file=article&name=news&sid=5",
+          "doc": "arquivo-pt:wba6668f79f9c4cb1",
+          "citacao": "Sob a coordenação de Amadeu Magalhães, o Grupo de Cordas resurgiu em 1997"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/arranque-de-cursos-de-viola-toeira.html",
+          "doc": "gc-v:3291001519659263967",
+          "citacao": "Grupo de Cordas da Secção de Fado da AAC e Realejo, dos quais é, obviamente, o director musical"
+        }
+      ],
+      "nota": "Coordenador e director musical do Grupo de Cordas da Secção (desde 1997)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

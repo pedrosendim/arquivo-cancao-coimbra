@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-lxx-174801-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1160_41.mp3",
+  "titulo": "Canção de Fornos — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-lxx-174801",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5518.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2300/antonio_menano_cancao_de_fornos",
+      "doc": "museu-do-fado:w022673455393786c",
+      "citacao": "Título: Canção de fornos ... Editora: Od. Lxx174.801b [12\"]"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "almeida-cruz-columbia-b-108",
+  "titulo": "Balancé / Fado da Mouraria",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-108",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balancé",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-108-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Mouraria",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-108-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Balancé», por Almeida Cruz — etiqueta: «Balance / Canção Portugueza, Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/622/almeida_cruz_balance",
+          "doc": "museu-do-fado:w94f69aa794b6883d",
+          "citacao": "Título: Balancé ... Editora: Co. B-108 Referências: 11806-1, 6; B108 ... Etiqueta: Balance / Canção Portugueza, Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": true,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w4e3b8bbdc0c95889"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Balancé da neve pura, Columbia B-108, 11808, dança tradicional de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Balancé da neve pura, Columbia B-108, 11808, dança tradicional de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "O número que o blogue dá a seguir ao disco difere da matriz indicada no registo do Museu do Fado. O registo do Museu do Fado indica «Editora: Co. B-108» e «Referências: 11806-1, 6; B108»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Mouraria», por Almeida Cruz — etiqueta: «Fado da Mouraria / Fado-Corrido, Popular / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/623/almeida_cruz_fado_da_mouraria",
+          "doc": "museu-do-fado:w336c7a8956f46411",
+          "citacao": "Título: Fado da Mouraria ... Editora: Co. B-108 Referências: 11868, 1-C-1; B108 ... Etiqueta: Fado da Mouraria / Fado-Corrido, Popular / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wdb1a8b9266980309"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado da Mouraria, Columbia B-108, 11868, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado da Mouraria, Columbia B-108, 11868, música popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/622/almeida_cruz_balance",
+      "doc": "museu-do-fado:w94f69aa794b6883d",
+      "citacao": "Título: Balancé ... Editora: Co. B-108 Referências: 11806-1, 6; B108"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2113/almeida_cruz_balance",
+      "doc": "museu-do-fado:w4e3b8bbdc0c95889",
+      "citacao": "Título: Balancé ... Editora: Co. B-108 Referências: 11806-1-1, K83; B108"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Balancé da neve pura, Columbia B-108, 11808, dança tradicional de Coimbra"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/623/almeida_cruz_fado_da_mouraria",
+      "doc": "museu-do-fado:w336c7a8956f46411",
+      "citacao": "Título: Fado da Mouraria ... Editora: Co. B-108 Referências: 11868, 1-C-1; B108"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2112/almeida_cruz_fado_da_mouraria",
+      "doc": "museu-do-fado:wdb1a8b9266980309",
+      "citacao": "Título: Fado da Mouraria ... Editora: Co. B-108 Referências: 11868-1-1; B108"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado da Mouraria, Columbia B-108, 11868, música popular"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3044-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0589_20.mp3",
+  "titulo": "Fado Serenata — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3044",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1171.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1163/antonio_menano_fado_serenata",
+      "doc": "museu-do-fado:wf0ca07e9ccccd6bb",
+      "citacao": "Título: Fado Serenata ... Editora: Od. X3044, 136.812, EMI260593,EMICD83461282,HTCD31 Referências: OG584, N5, 3044B; X 3044b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

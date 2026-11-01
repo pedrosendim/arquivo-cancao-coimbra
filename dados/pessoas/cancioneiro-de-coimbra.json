@@ -1,0 +1,102 @@
+{
+  "id": "cancioneiro-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Cancioneiro de Coimbra",
+  "nomes_alternativos": [
+    "Grupo de Fados Cancioneiro de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/joao-robalo.html",
+      "doc": "gc-v:4986887935163886049",
+      "citacao": "Desde 1985 que João Robalo integrava o Grupo de Fados\nCancioneiro de Coimbra, tendo gravado o disco compact disc “Balada das Capas\nNegras”, edição Espacial, SPA 3200097 de 1995."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "João Robalo integrava o grupo desde 1985",
+      "data": "1985",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/joao-robalo.html",
+          "doc": "gc-v:4986887935163886049",
+          "citacao": "Desde 1985 que João Robalo integrava o Grupo de Fados\nCancioneiro de Coimbra, tendo gravado o disco compact disc “Balada das Capas\nNegras”, edição Espacial, SPA 3200097 de 1995."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Balada das Capas Negras» (Espacial, 3200097, 1995), 12 temas, 4 inéditos; texto de Jorge Gomes",
+      "data": "1995",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/joao-robalo.html",
+          "doc": "gc-v:4986887935163886049",
+          "citacao": "Desde 1985 que João Robalo integrava o Grupo de Fados\nCancioneiro de Coimbra, tendo gravado o disco compact disc “Balada das Capas\nNegras”, edição Espacial, SPA 3200097 de 1995."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "faixas 17 e 18 («Pensamento Livre» e «Canção da Vida») do CD «15 anos depois... Antigos Tunos da Universidade de Coimbra» (2000)",
+      "data": "2000",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD 15 anos depois... Antigos Tunos da Universidade de Coimbra, Coimbra,\nano de 2000."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Nas faixas 17 e 18 (Pensamento Livre e\nCanção da Vida), interpreta o grupo Cancioneiro de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação do CD de 1995: José Horácio Miranda, Amândio Marques Ferreira, Virgílio Caseiro e João Robalo (vozes); Fernando Monteiro e António Gameiro Lopes (guitarras); Nuno Figueiredo e Luís Santos (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

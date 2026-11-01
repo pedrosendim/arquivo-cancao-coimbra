@@ -1,0 +1,102 @@
+{
+  "id": "almeida-cruz-columbia-b112-11880",
+  "titulo": "Fado Serenata",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B112-11880",
+  "ano": "",
+  "local": "Rio de Janeiro",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Serenata (Eu tenho um grande ciúme)",
+      "obra": "fado-serenata-eu-tenho-um-grande-ciume",
+      "media": [
+        "almeida-cruz-fado-serenata-youtube",
+        "ouvir-almeida-cruz-columbia-b112-11880-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Vira do Minho",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b112-11880-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "https://www.youtube.com/watch?v=2BMcjLl2Ti8",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado com piano no Rio de Janeiro, 1911 (?)",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "gravada com acompanhamento de piano em 1911 (?) no Rio de Janeiro pelo actor e tenor português António de Almeida Cruz, no disco de 78 rpm Columbia B112-11880."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A matriz deve corresponder a uma reedição norte-americana de c. 1923-1925",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Esta matriz deve corresponder a uma reedição norteamericana circulada por volta de 1923-1925."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Esta matriz deve corresponder a uma reedição norteamericana circulada por volta de 1923-1925."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+      "doc": "gc-v:643756313646546986",
+      "citacao": "FADO SERENATA, Columbia B 112-11880, tenor António de Almeida Cruz"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/628/almeida_cruz_vira_do_minho",
+      "doc": "museu-do-fado:w678f1d18dd660c93",
+      "citacao": "Título: Vira do Minho ... Editora: Co. B-112,13.112 Referências: 11837; B112"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Vira do Minho, Columbia B112, 11837, dança popular portuguesa"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

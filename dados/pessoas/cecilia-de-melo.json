@@ -1,0 +1,58 @@
+{
+  "id": "cecilia-de-melo",
+  "tipo": "pessoa",
+  "nome": "Cecília de Melo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "LP «Meu País» (Decca, 1970), com Carlos Paredes como produtor, diretor musical e acompanhador",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "da cantora Cecília de Melo, sua companheira durante alguns anos, e de quem é o único registo conhecido"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/carta-de-manuel-marques-inacio-enviada.html",
+          "doc": "gc-iv:4402297359444601218",
+          "citacao": "\"Carlos Paredes casou por duas vezes, a primeira com Ana Maria Napoleão, em 1960, e a segunda com Cecília de Melo.\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/carta-de-manuel-marques-inacio-enviada.html",
+          "doc": "gc-iv:4402297359444601218",
+          "citacao": "Da relação com Cecília de Melo, nasceram mais 3 filhos, é verdade, mas estou convicto que Cecília de Melo, nunca terá afirmado que tenha casado com Carlos Paredes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "sua companheira durante alguns anos"
+        }
+      ],
+      "nota": "DIVERGÊNCIA: a biografia do Museu do Fado, citada na carta, diz que Carlos Paredes casou com ela em segundas núpcias; Manuel Marques Inácio contesta e fala de relação extramatrimonial, de que nasceram três filhos. Outro post chama-lhe «companheira»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

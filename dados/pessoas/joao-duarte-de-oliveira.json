@@ -1,0 +1,240 @@
+{
+  "id": "joao-duarte-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "João Duarte de Oliveira",
+  "nomes_alternativos": [
+    "João Pópó"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+      "doc": "gc-i:112619193689518122",
+      "citacao": "João Duarte de Oliveira, filho de António Duarte de Oliveira e de Rosa Liberata, nasceu em 6 de Fevereiro de 1875 no lugar de Cebolais de Cima, Castelo Branco."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+      "doc": "gc-i:112619193689518122",
+      "citacao": "Uma noite, o aluno de Medicina João Duarte de Oliveira que ao tempo fazia parte de uma República de beirões, à Couraça dos Apóstolos, e também tinha pretensões a guitarrista, passou e ouviu-o[9]."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+      "doc": "gc-v:13393185979770055",
+      "citacao": "Durante esse período de estudante, foi guitarrista, o que continuou pela vida fora, nunca tendo atingido um grande nível de desempenho."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+      "doc": "gc-v:13393185979770055",
+      "citacao": "É nomeado Reitor da Universidade de Coimbra de 11 de Junho de 1931 a 8 de Junho de 1939"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+      "doc": "gc-i:112619193689518122",
+      "citacao": "o ilustre Doutor João Duarte de Oliveira, sem esquecer a noite em que ouvira pela primeira vez que o obrigara a partir a guitarra, comentou o facto nestes termos: “exímio, mas como o Mansilha, nenhum!”"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Cebolais de Cima (Castelo Branco), 6 de fevereiro de 1875",
+      "data": "1875-02-06",
+      "local": "Cebolais de Cima (Castelo Branco)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "nasceu em 6 de Fevereiro de 1875 no lugar de Cebolais de Cima, Castelo Branco."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "Faz hoje, dia 6 de Fevereiro de 2013, 135 anos que nasceu em Cebolais de Cima, distrito de Castelo Branco, João Duarte de Oliveira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 16 de dezembro de 1946",
+      "data": "1946-12-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "vem a falecer na cidade de Coimbra, no ano seguinte, a 16 de Dezembro de 1946."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Faleceu em 16 de Dezembro de 1946."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 16 de dezembro de 1945",
+      "data": "1945-12-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "tendo falecido em Coimbra, a 16 de Dezembro de 1945."
+        }
+      ],
+      "conflito": true,
+      "nota": "Mesmo post que, no fim, dá 1946."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Medicina na UC, formado a 3 de julho de 1903",
+      "data": "1903-07-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "formando-se em Medicina, a 3 de Julho de 1903."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formado em Medicina a 30 de julho de 1903",
+      "data": "1903-07-30",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Formou-se em Medicina a 30 de Julho de 1903."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista desde estudante, de desempenho modesto; mantinha uma guitarra na Reitoria",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "Durante esse período de estudante, foi guitarrista, o que continuou pela vida fora, nunca tendo atingido um grande nível de desempenho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Depoimentos confirmam que mantinha uma guitarra nas dependências da Reitoria, instrumento que dedilhava de quando em vez."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Partiu a sua guitarra na calçada, diante de Manuel Mansilha, em homenagem ao guitarrista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Foi ao seu quarto, pegou da guitarra, e, junto de Manuel Mansilha, atirou-a à calçada, espatifando-a e dizendo ser o maior preito de admiração pelo grande artista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico; professor catedrático de Fisiologia; Reitor da Universidade de Coimbra (1931-1939)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "Vem a ser professor catedrático de Fisiologia, de 1921 a 1945."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "É nomeado Reitor da Universidade de Coimbra de 11 de Junho de 1931 a 8 de Junho de 1939"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-duarte-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "[9] João Duarte de Oliveira, filho de António Duarte de Oliveira e de Rosa Liberata, nasceu em 6 de Fevereiro de 1875"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "rosa-liberata",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "[9] João Duarte de Oliveira, filho de António Duarte de Oliveira e de Rosa Liberata, nasceu em 6 de Fevereiro de 1875"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85gInzk14ZQf06fEz-SLIY4yiZ1ooWifO06EngJWerzoFASB0FgzbLarWBd8dEGqag376fFByxpE7v3CBTwB_ZqPf8VHgzXeTvz-L2oHSzVUXN8ToyQDli7tMq2ESX_WMmPZQ7jmJHstE/s1600/Joao-Duarte-de-Oliveira.jpg",
+      "legenda": "João Duarte de Oliveira (1875-1946), guitarrista. Reprodução de um retrato pintado, imagem que abre a nota biográfica do blogue (o post não indica a origem da imagem)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html",
+          "doc": "gc-v:13393185979770055",
+          "citacao": "JOÃO DUARTE de OLIVEIRA (1875 - 1946). Guitarrista"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "João Duarte de Oliveira (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/joao-duarte-de-oliveira-1875-1946.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

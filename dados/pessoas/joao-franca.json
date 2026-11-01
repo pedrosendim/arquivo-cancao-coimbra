@@ -1,0 +1,35 @@
+{
+  "id": "joao-franca",
+  "tipo": "pessoa",
+  "nome": "João França",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/grupo-raizes-de-coimbra-na-biblioteca.html",
+          "doc": "gc-iv:4243544640214959827",
+          "citacao": "Grupo \"Raízes de Coimbra\" na Biblioteca Joanina, no passado sábado, na comemoração dos 60 anos do Museu Académico. Actuaram Humberto Matias (v), Álvaro Aroso (g), Octávio Sérgio (g), Rui Pato (v) e Armando Luís de Carvalho Homem (v). Cantaram Rui Lucas, Heitor Lopes, Mário Rovira e João França."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/grupo-raizes-de-coimbra-no-acapella-na.html",
+          "doc": "gc-iv:3361939228982901307",
+          "citacao": "Grupo Raízes de Coimbra no àCapella, na sexta-feira passada, com Paulo Alexandre, Octávio Sérgio e Alcides Freixo em guitarra, Humberto Matias e Rui Pato em viola e a cantar Heitor Lopes, Mário Rovira e João França."
+        }
+      ],
+      "nota": "voz; 2011-2012"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

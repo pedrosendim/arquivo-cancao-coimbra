@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-95-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0309_19.mp3",
+  "titulo": "As Carvoeiras — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-95",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0618.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/612/almeida_cruz_as_carvoeiras",
+      "doc": "museu-do-fado:wec164e761cd6d1d6",
+      "citacao": "Título: As Carvoeiras ... Editora: Co. B-95 Referências: 11835; B95"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

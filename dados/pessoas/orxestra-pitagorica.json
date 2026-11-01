@@ -1,0 +1,91 @@
+{
+  "id": "orxestra-pitagorica",
+  "tipo": "grupo",
+  "nome": "Orxestra Pitagórica",
+  "nomes_alternativos": [
+    "Orquestra Pitagórica",
+    "Pitagórica"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "recriada em 1981 pela direção da Secção de Fado para o Sarau da Queima das Fitas",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "Em 1981, a Direcção da Secção de Fado tomou em ombros a responsabilidade de realizar o Sarau da Queima das Fitas. De modo algum, o programa daquele espectáculo poderia incluir apenas Fado e Folclore, tendo para esse efeito sido recriada a Orxestra Pitagórica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "estreia na Queima das Fitas de 1981",
+      "data": "1981-05",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "da Orxestra Pitagórica, que fez a sua estreia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "ressurgimento atribuído também a António Nogueira, sócio n.º 1 da Secção",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "sócio nº1, responsável também pelo ressurgimento da sua Orxestra Pitagórica"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«a2+b2=c2 – Orxestra Pitagórica», editado pela Secção de Fado",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192652/https://seccaodefado.com/modules.php?file=article&name=news&sid=1",
+          "doc": "arquivo-pt:wfa569c3fcb7dbb58",
+          "citacao": "“a2+b2=c2 – Orxestra Pitagórica”"
+        }
+      ],
+      "conflito": false,
+      "nota": "Sem ano nem referência na fonte."
+    },
+    {
+      "campo": "outro",
+      "valor": "um dos grupos da Secção de Fado em 2018",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+          "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+          "citacao": "Estudantina Universitária, Orxestra Pitagórica, Estudantina Feminina"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

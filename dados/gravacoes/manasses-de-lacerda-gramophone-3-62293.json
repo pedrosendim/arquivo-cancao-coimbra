@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-gramophone-3-62293",
+  "titulo": "Fado amoroso",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "3-62293",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado amoroso",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-3-62293-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado amoroso», por Manassés de Lacerda — etiqueta: «“Fado Amoroso” / cantado pelo Senhor Manasses Lacerda / Porto»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/929/manasses_de_lacerda_fado_amoroso",
+          "doc": "museu-do-fado:w44dc6500031eb637",
+          "citacao": "Título: Fado amoroso ... Editora: Gra.3-62293,62388 Referências: Disque Pour Gramophone 8786o, 3-62293; G.C. 3-62293 ... Etiqueta: “Fado Amoroso” / cantado pelo Senhor Manasses Lacerda / Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/929/manasses_de_lacerda_fado_amoroso",
+      "doc": "museu-do-fado:w44dc6500031eb637",
+      "citacao": "Título: Fado amoroso ... Editora: Gra.3-62293,62388 Referências: Disque Pour Gramophone 8786o, 3-62293; G.C. 3-62293"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

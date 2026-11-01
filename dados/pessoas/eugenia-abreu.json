@@ -1,0 +1,39 @@
+{
+  "id": "eugenia-abreu",
+  "tipo": "pessoa",
+  "nome": "Eugénia Abreu",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "alvaro-da-silva-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "conheceu Eugénia Abreu, uma burgesinha esposendense, católica, conservadora"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "O casamento realizou-se no ano de 1907 na Igreja de São Lázaro, Braga."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "Sendo a viúva Eugénia Abreu doméstica e inábil para os negócios"
+        }
+      ],
+      "nota": "Casamento em 1907, Igreja de São Lázaro (Braga). Pais de António, Álvaro, Luís, Joaquim e Mariberta Carvalhal."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "carlos-paredes-e-artur-paredes-movieplay-1994",
+  "titulo": "O Melhor dos Melhores – Carlos Paredes e Artur Paredes",
+  "formato": "CD",
+  "editora": "Movieplay",
+  "referencia": "MM 37.036",
+  "ano": "1994",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 10,
+      "titulo": "Desfolhada",
+      "obra": "desfolhada",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-10-apple-music"]
+    },
+    {
+      "n": 11,
+      "titulo": "Variações em Ré menor n.º 2",
+      "obra": "variacoes-em-re-menor-n-2-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-11-youtube"]
+    },
+    {
+      "n": 12,
+      "titulo": "Variações em Mi menor",
+      "obra": "variacoes-em-mi-menor-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-12-apple-music"]
+    },
+    {
+      "n": 13,
+      "titulo": "Balada do Mondego",
+      "obra": "sonhos-dourados",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-13-youtube"]
+    },
+    {
+      "n": 14,
+      "titulo": "Cantares Portugueses",
+      "obra": "rapsodia-n-2-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-14-apple-music"]
+    },
+    {
+      "n": 15,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": ["ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-15-youtube"]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "As seis peças de Artur Paredes provirão do LP Alvorada «Carlos Paredes e Artur Paredes» (c. 1978)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "As seis peças gravadas por Artur Paredes serão provenientes do LP CARLOS PAREDES E ARTUR PAREDES"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As versões de 1957 retiradas do mercado estão nas faixas 12, 13 e 14",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "Reed. no CD Carlos Paredes e Artur Paredes, ed. MOVIEPLAY, MM 37 036, 1994, faixas 12, 13 e 14."
+        }
+      ],
+      "conflito": true,
+      "nota": "A. L. de Carvalho Homem (2006). O post de 2015 (D21) coloca os registos de 1957 nas faixas 13, 14 e 15."
+    },
+    {
+      "campo": "outro",
+      "valor": "Os registos de 1957 estão nas faixas 13, 14 e 15",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "13 – Balada do Mondego [Sonhos Dourados/Eliseu], registo de 1957."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "CD O Melhor dos Melhores, Carlos Paredes e Artur Paredes. Lisboa: Movieplay, MM 37.036, editado em 1994."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "10 – Desfolhada, registo de 1961. 11 – Variações em Ré menor n.º 2, registo de 1961. 12 – Variações em Mi menor, registo de 1961. 13 – Balada do Mondego [Sonhos Dourados/Eliseu], registo de 1957. 14 – Cantares Portugueses, registo de 1957. 15 – Passatempo, registo de 1957."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+      "doc": "gc-v:7731614956364981809",
+      "citacao": "Carlos Paredes e Artur Paredes: O Melhor dos Melhores, vol. 36 (CD, Movieplay, 1994)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187806-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0607_16.mp3",
+  "titulo": "Canções Alentejanas — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187806",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1207.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1199/antonio_menano_cancoes_alentejanas",
+      "doc": "museu-do-fado:w6e125c9041e96fe9",
+      "citacao": "Título: Canções Alentejanas ... Editora: Od.LA187.806, EMICD8374952 Referências: OG1035, L, NR; LA 187806b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

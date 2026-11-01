@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-artur-paredes-victor-81472-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0684_15.mp3",
+  "titulo": "Fantasia — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes"
+  ],
+  "obras": [],
+  "gravacao": "artur-paredes-victor-81472",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1361.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1352/artur_paredes_fantasia",
+      "doc": "museu-do-fado:w744e88285cf15f11",
+      "citacao": "Título: Fantasia ... Editora: Vi.81472, HMV EQ88, Referências: BJ764-I∆, VE, 1, A, 46820; 81472-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "jose-eduardo-baptista",
+  "tipo": "pessoa",
+  "nome": "José Eduardo Baptista",
+  "nomes_alternativos": [
+    "José Eduardo"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "residencia",
+      "valor": "Japão (Nagoya), onde recebeu os Antigos Orfeonistas em 2005",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/japo-2005.html",
+          "doc": "gc-i:112777183892067146",
+          "citacao": "Primeiro contacto com Nagoya. Três Baptistas, Miguel, José Eduardo e José Miguel"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/japo-2005.html",
+          "doc": "gc-i:112777183892067146",
+          "citacao": "José Eduardo, irmão de José Miguel, foi o anfitrião."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/japo-2005.html",
+          "doc": "gc-i:112777183892067146",
+          "citacao": "José Eduardo, irmão de José Miguel, foi o anfitrião."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

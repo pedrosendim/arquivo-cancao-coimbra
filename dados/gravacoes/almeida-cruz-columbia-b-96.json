@@ -1,0 +1,152 @@
+{
+  "id": "almeida-cruz-columbia-b-96",
+  "titulo": "Carinhosa / Manobras do amor",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-96",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Carinhosa",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-96-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Manobras do amor",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-96-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Carinhosa», por Almeida Cruz — etiqueta: «Carinhosa / Canção Portugueza Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2675/almeida_cruz_carinhosa",
+          "doc": "museu-do-fado:we132af083e9f7964",
+          "citacao": "Título: Carinhosa ... Editora: Columbia B 96 B 96 Referências: 11832-1-3; B96 ... Etiqueta: Carinhosa / Canção Portugueza Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w0a7524823f6795d4, museu-do-fado:w0c84930c1966a7d3"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Carinhosa, Columbia B-96, 11832, dança popular de Coimbra também popularizada nos Açores»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Carinhosa, Columbia B-96, 11832, dança popular de Coimbra também popularizada nos Açores"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Manobras do amor», por Almeida Cruz — etiqueta: «Manobras do Amor  / Fado      F. Gonzaga / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2674/almeida_cruz_manobras_do_amor",
+          "doc": "museu-do-fado:w7412cbf794d21b4c",
+          "citacao": "Título: Manobras do amor ... Editora: Columbia B 96 B 96 Referências: 11886-I-1; B96 ... Etiqueta: Manobras do Amor  / Fado      F. Gonzaga / Almeida Cruz  / "
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w41bf7aa96e623d5d, museu-do-fado:wdcf2bf8258dbdd17"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Manobras do Amor, Columbia B-96, 11886, música de Chiquinha Gonzaga»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Manobras do Amor, Columbia B-96, 11886, música de Chiquinha Gonzaga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2675/almeida_cruz_carinhosa",
+      "doc": "museu-do-fado:we132af083e9f7964",
+      "citacao": "Título: Carinhosa ... Editora: Columbia B 96 B 96 Referências: 11832-1-3; B96"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/614/almeida_cruz_carinhosa",
+      "doc": "museu-do-fado:w0a7524823f6795d4",
+      "citacao": "Título: Carinhosa ... Editora: Co. B-96 Referências: 11832, 1-6; B96"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2116/almeida_cruz_carinhosa",
+      "doc": "museu-do-fado:w0c84930c1966a7d3",
+      "citacao": "Título: Carinhosa ... Editora: Co. B-96 Referências: 11832-1-1, A?5; B96"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Carinhosa, Columbia B-96, 11832, dança popular de Coimbra também popularizada nos Açores"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2674/almeida_cruz_manobras_do_amor",
+      "doc": "museu-do-fado:w7412cbf794d21b4c",
+      "citacao": "Título: Manobras do amor ... Editora: Columbia B 96 B 96 Referências: 11886-I-1; B96"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2117/almeida_cruz_manobras_do_amor",
+      "doc": "museu-do-fado:w41bf7aa96e623d5d",
+      "citacao": "Título: Manobras do amor ... Editora: Co. B-96 Referências: 11886-1-2; B96"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/615/almeida_cruz_manobras_do_amor",
+      "doc": "museu-do-fado:wdcf2bf8258dbdd17",
+      "citacao": "Título: Manobras do amor ... Editora: Co. B-96 Referências: 11886, 8; B96"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Manobras do Amor, Columbia B-96, 11886, música de Chiquinha Gonzaga"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

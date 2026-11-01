@@ -1,0 +1,188 @@
+{
+  "id": "manuel-gracio",
+  "tipo": "pessoa",
+  "nome": "Manuel",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Iniciou-se na arte na Guitarraria Leiriense, com os irmãos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "Foi na Guitarraria Leiriense que os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte, aperfeiçoando a construção do instrumento em diálogo constante com músicos de várias gerações."
+        }
+      ],
+      "conflito": false,
+      "nota": "O mesmo texto do Museu do Fado diz que «cinco dos doze filhos» foram construtores, mas nomeia seis filhos iniciados na arte; não diz qual não o foi."
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de João Pedro Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte dá só o nome próprio; o apelido no identificador serve apenas para distinguir a ficha."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "margarida-de-jesus",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        }
+      ],
+      "nota": "A mãe só é nomeada expressamente para Joaquim («Filho de João Pedro Grácio e Margarida de Jesus»). A mesma página diz que os 12 filhos, entre eles este, nasceram «do seu casamento» (de João Pedro Grácio); a ligação à mãe resulta da leitura conjunta das duas frases. Confirmado pelo editor do arquivo (29-10-2026)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joao-pedro-gracio-junior",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "joaquim-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "ulisses-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "jose-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "victor-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/noticias/cml-inaugura-rua-joao-pedro-gracio",
+          "doc": "museu-do-fado:w9d7abd091eecb8d2",
+          "citacao": "os filhos de João Pedro Grácio - João Pedro, Joaquim, José Pedro, Manuel, Ulisses e Victor - se iniciaram na arte"
+        }
+      ],
+      "nota": "Irmãos por serem ambos nomeados entre os filhos de João Pedro Grácio (José Lúcio; Museu do Fado)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

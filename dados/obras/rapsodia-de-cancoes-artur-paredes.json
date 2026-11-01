@@ -1,0 +1,34 @@
+{
+  "id": "rapsodia-de-cancoes-artur-paredes",
+  "titulo": "Rapsódia de Canções",
+  "titulos_alternativos": [],
+  "genero": "guitarrada",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Inclui, sensivelmente a meio, um apontamento da «Canção da Margarida»; na etiqueta, «arranjo de Artur Paredes»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/manasses-artur-paredes-e-cancao-da.html",
+          "doc": "gc-v:7444572383019409985",
+          "citacao": "Artur Paredes incluiu sensivelmente a meio da marcha melólica um apontamento da Canção da Margarida. Na etiqueta do disco, Artur Paredes não se declara autor da música, informando que se trata de um \"arranjo de Artur Paredes\" sobre canções populares e popularizadas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "RAPSÓDIA DE CANÇÕES (guitarrada), selecção e arranjo de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "joao-palmeiro",
+  "tipo": "pessoa",
+  "nome": "João Palmeiro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "In 1994 I visited Lisboa and met Joao Palmeiro who made me a few Coimbra and Lisboa guitarras."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "In the 1990's I use to travel on the ferry boat from Lisboa across the Tagus River to see him in the charming town of Montijo. He had a most interesting workshop. It was large and airy on the 2nd floor of an old building. It was filled with pieces of wood which were drying and on the walls hung instrument-making forms for constructing a variety of Portuguese folkloric instruments such as violas, and cavaquinhos."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Joao Palmeiro was a very friendly man who was very devoted to his craft of making folkloric portuguese instruments."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "In 1996 I again visited Palmeiro and Antonio Pinto de Carvalho who made me a few instruments."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/04/o-formato-de-quilha-de-barco.html",
+      "doc": "gc-v:3366306970773074898",
+      "citacao": "Visualizar fotografias com boa resolução por Ron Fernandez, http://www.fernandezmusic.com/MasterPortugueseGuitars.html, exemplares construídos por Ulisses Grácio, João Palmeiro, Kim Grácio, João Pedro Grácio Júnior, Santos Beirão, Manuel Cardoso e Óscar Cardoso."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Construtor de guitarras portuguesas; exemplares seus fotografados por Ron Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/o-formato-de-quilha-de-barco.html",
+          "doc": "gc-v:3366306970773074898",
+          "citacao": "Em diversos exemplares remanescentes de gPLx fabricadas em Lisboa e no Porto entre as décadas de 1940-1990 (oficinas Grácio's e outros) é possível observar-se"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/o-formato-de-quilha-de-barco.html",
+          "doc": "gc-v:3366306970773074898",
+          "citacao": "exemplares construídos por Ulisses Grácio, João Palmeiro, Kim Grácio"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post trata de guitarras de Lisboa (gPLx) e não especifica que modelos construiu João Palmeiro nem onde. Sobre modelos e oficina, ver os factos tirados do site Fernandez Music."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina no Montijo (anos 1990), ampla, num 2.º andar de um edifício antigo, com madeiras a secar e formas para violas e cavaquinhos",
+      "data": "",
+      "local": "Montijo",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "In the 1990's I use to travel on the ferry boat from Lisboa across the Tagus River to see him in the charming town of Montijo. He had a most interesting workshop. It was large and airy on the 2nd floor of an old building. It was filled with pieces of wood which were drying and on the walls hung instrument-making forms for constructing a variety of Portuguese folkloric instruments such as violas, and cavaquinhos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1994 fez guitarras de Coimbra e de Lisboa para Ron Fernandez (Montijo); voltou a fazer-lhe instrumentos em 1996",
+      "data": "1994",
+      "local": "Montijo",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1994 I visited Lisboa and met Joao Palmeiro who made me a few Coimbra and Lisboa guitarras."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: João Palmeiro Coimbra style Guitarra. Made in Montijo, across from Lisboa. 1994. This guitarra was made for me by Joao Palmeiro"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1996 I again visited Palmeiro and Antonio Pinto de Carvalho who made me a few instruments."
+        }
+      ],
+      "conflito": false,
+      "nota": "Fichas dos instrumentos: guitarra-joao-palmeiro-coimbra-1994 e guitarra-joao-palmeiro-lisboa-1994."
+    },
+    {
+      "campo": "outro",
+      "valor": "Explicou a Ron Fernandez as proporções da cabeça em voluta da guitarra de Lisboa e a diferença de forma dos apoios de dedos (finger rests) entre as guitarras de Coimbra e de Lisboa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "he carefully explained to me about the proportionals of the scroll head used on the Lisboa guitarra and he also made me aware of the difference between the shape of finger rests on the Coimbra and Lisboa guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Demolhava osso de vaca (para pestanas e cavaletes) no que chamava «laite»; segundo Ron Fernandez, o processo dava ao osso um som como de vidro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "there was a bucket where he was soaking cow bone in what he called laite (which means \"milk\")--I think that was colloquial term for lime.; this soaking process gave the bone (used for nut and bridges) a kind of glass like sound when you struck piece together."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ron Fernandez supõe que «laite» designasse cal (lime)."
+    },
+    {
+      "campo": "outro",
+      "valor": "A mulher ajudava a fazer os estojos: ele a parte de madeira, ela o forro de tecido (segundo Ron Fernandez)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "His wife use to help with making the instrument cases--I think he did the wood work and she did the inside fabric work."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Já falecido, segundo Ron Fernandez (página revista a 10 de janeiro de 2019)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Revised: January 10, 2019. ... Joao Palmeiro is now deceased."
+        }
+      ],
+      "conflito": false,
+      "nota": "A página não indica a data da morte."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Portuguese Guitar Collection",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "paulo-figueiredo",
+  "tipo": "pessoa",
+  "nome": "Paulo Figueiredo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+      "doc": "gc-ii:8341781972803406558",
+      "citacao": "Este é o nome do mais recente trabalho em que o piano de Paulo Figueiredo e a guitarra portuguesa de Bruno Costa se cruzam com paixão e intensidade"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "instrumento",
+      "valor": "Piano",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "cordis",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220530225051/https://www.dge.mec.pt/sites/default/files/Noticias_documentos/bcostanb.pdf",
+          "doc": "arquivo-pt:w57e22e44256d1b8c",
+          "citacao": "Atualmente é guitarrista do Grupo CORDIS (em duo com o piano de Paulo Figueiredo)"
+        }
+      ],
+      "nota": "Pianista do duo Cordis, com Bruno Costa."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-8101-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0460_01.mp3",
+  "titulo": "Triste — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-8101",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0917.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/904/lucas_junot_triste",
+      "doc": "museu-do-fado:w91d78736866b2d7a",
+      "citacao": "Título: Triste ... Editora: Co. 8101, 1035X,5.016 Referências: 189, W, 27248, P189; 8101"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "jose-nepomuceno-afonso-dos-santos",
+  "tipo": "pessoa",
+  "nome": "José Nepomuceno Afonso dos Santos",
+  "nomes_alternativos": [
+    "José Nepomuceno Afonso",
+    "Juiz Nepomuceno"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Nepomuceno Afonso dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "filho de José Nepomuceno Afonso dos Santos, magistrado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "José Nepomuceno Afonso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "O pai, José Nepomuceno Afonso, é subdelegado do Procurador da República."
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia da AJA acrescenta «dos Santos»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Magistrado",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "filho de José Nepomuceno Afonso dos Santos, magistrado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Subdelegado do Procurador da República (Aveiro, 1929)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "O pai, José Nepomuceno Afonso, é subdelegado do Procurador da República."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Delegado do Procurador da República em Angola (1930); juiz em Timor",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1930 os pais foram para Angola, onde o pai tinha sido colocado como delegado do Procurador da República em Silva Porto."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "A família parte de Moçambique para Timor, onde o pai vai exercer as funções de juiz."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor dos versos apadrinhadores da Queima das Fitas de 1952",
+      "data": "1952",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1952 ... São do pai os versos apadrinhadores da Queima das Fitas deste ano."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia da AJA baseada na Tábua Cronológica de João Afonso dos Santos (José Afonso – Um Olhar Fraterno)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Contemporâneo e amigo de Edmundo de Bettencourt",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "o Juiz Nepomuceno, pai do cantor, foi contem­porâneo e amigo de Bettencourt"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "O LP «Fados de Coimbra e Outras Canções» (1981) homenageia-o",
+      "data": "1981",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "interpretada por Zeca Afonso em homenagem a seu pai e a Edmundo Bettencourt"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "13 de outubro de 1975",
+      "data": "1975-10-13",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1975 ... Morte do pai: 13 de Outubro."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia da AJA baseada na Tábua Cronológica de João Afonso dos Santos (José Afonso – Um Olhar Fraterno)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

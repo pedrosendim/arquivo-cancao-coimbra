@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-jose-afonso-orfeu-fpat-6011-1981-6-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/balada-de-outono/1806615285?i=1806615566",
+  "titulo": "Balada de Outono — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "octavio-sergio",
+    "durval-moreirinhas"
+  ],
+  "obras": [
+    "balada-do-outono"
+  ],
+  "gravacao": "jose-afonso-orfeu-fpat-6011-1981",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/01/ca/4f01caa0-3eec-caf7-0920-7a8d5333eb5f/2131.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/balada-de-outono/1806615285?i=1806615566"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Fados de Coimbra e Outras Canções», ℗ 1981 Mais 5)",
+  "estado_revisao": "rascunho"
+}

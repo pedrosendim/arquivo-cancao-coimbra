@@ -1,0 +1,30 @@
+{
+  "id": "manuel-gil-da-mata",
+  "tipo": "pessoa",
+  "nome": "Manuel Gil da Mata",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-universitario-de-guitarras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "O conjunto era formado em 1965-1966 por - José Carlos Agrelos / Manuel Botelho Chaves (ggC), Eduardo Beirão Reis (v), Nuno Morgado (cantor) e Manuel Gil da Mata (cantor e compositor), não tendo este último participado nas gravações pelo facto de estar afónico."
+        }
+      ],
+      "nota": "cantor e compositor; não participou nas gravações"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

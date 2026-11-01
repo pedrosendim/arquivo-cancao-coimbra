@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-111-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0316_31.mp3",
+  "titulo": "Olarí olaré — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-111",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0632.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/626/almeida_cruz_olari_olare",
+      "doc": "museu-do-fado:w7a510ac9a0dc5ac3",
+      "citacao": "Título: Olarí olaré ... Editora: Co. B-111 Referências: 11818-1-2; B111"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

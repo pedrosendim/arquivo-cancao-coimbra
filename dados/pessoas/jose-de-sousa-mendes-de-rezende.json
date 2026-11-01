@@ -1,0 +1,44 @@
+{
+  "id": "jose-de-sousa-mendes-de-rezende",
+  "tipo": "pessoa",
+  "nome": "José de Sousa Mendes de Rezende",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Conhecido na colónia portuguesa de São Paulo por «Menino d'oiro» nas décadas de 1950-1960",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "Rezende compôs este embalo em homenagem a seu filho, José de Sousa Mendes de Rezende que nas décadas de 1950-1960 era conhecido na colónia portuguesa de São Paulo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "alexandre-de-rezende",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "O filho de Alexandre Rezende chamava-se José de Sousa Mendes de Rezende."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

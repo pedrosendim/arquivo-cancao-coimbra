@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-gramophone-62386",
+  "titulo": "Fado dos Sonhos",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "62386",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Sonhos",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-62386-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Sonhos», por Manassés de Lacerda — etiqueta: «“Fado dos sonhos” / cantado pelo  / Senhor Manasses Lacerda / Porto»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/938/manasses_de_lacerda_fado_dos_sonhos",
+          "doc": "museu-do-fado:w5a175e6c7a3ae5c5",
+          "citacao": "Título: Fado dos Sonhos ... Editora: Gra. 62386 Referências: Disque Pour Gramophone 8791o, 62386II; G.C. - 62386 ... Etiqueta: “Fado dos sonhos” / cantado pelo  / Senhor Manasses Lacerda / Porto "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/938/manasses_de_lacerda_fado_dos_sonhos",
+      "doc": "museu-do-fado:w5a175e6c7a3ae5c5",
+      "citacao": "Título: Fado dos Sonhos ... Editora: Gra. 62386 Referências: Disque Pour Gramophone 8791o, 62386II; G.C. - 62386"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-emi-2402451-7-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0157_06.mp3",
+  "titulo": "Canção da Beira Baixa — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "afonso-de-sousa",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-emi-2402451",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0314.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/308/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:wcd286ac748d516d3",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124"
+    }
+  ],
+  "nota": "Registo do disco de 78 rpm Columbia 8124 no Arquivo Sonoro do Museu do Fado; a ficha do Museu não refere esta reedição em LP.",
+  "estado_revisao": "rascunho"
+}

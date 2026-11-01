@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187807-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0609_20.mp3",
+  "titulo": "Menina e Moça — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187807",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1211.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1203/antonio_menano_menina_e_moca",
+      "doc": "museu-do-fado:w2c550dc070f88f0d",
+      "citacao": "Título: Menina e moça ... Editora: Od. La 187807"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

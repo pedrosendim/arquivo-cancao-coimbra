@@ -1,0 +1,113 @@
+{
+  "id": "avelino-baptista",
+  "tipo": "pessoa",
+  "nome": "Avelino Baptista",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+      "doc": "gc-v:8354525714324814372",
+      "citacao": "O barítono Avelino Baptista gravou um avultadíssimo conjunto de discos de massa em Lisboa entre os anos de 1903 e 1910. A biografia e o retrato deste cantor continuam inacessíveis."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+      "doc": "gc-v:8354525714324814372",
+      "citacao": "No meio dos discos gravados por este cantor avultam diversos títulos correlacionados com Coimbra"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+      "doc": "gc-v:1881977297519692243",
+      "citacao": "O cantor de sucessos e rei do disco Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067, e Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Barítono",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+          "doc": "gc-v:8354525714324814372",
+          "citacao": "O barítono Avelino Baptista gravou um avultadíssimo conjunto de discos de massa em Lisboa entre os anos de 1903 e 1910."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tenor ativo em Lisboa nos inícios do século XX, de biografia desconhecida",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-6.html",
+          "doc": "gc-v:1945448219212296869",
+          "citacao": "cantado pelo Snr. Avelino Baptista [tenor activo em Lisboa nos inícios do século XX, com expressivo repertório fonográfico registado, biografia desconhecida]"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Grande número de discos de massa gravados em Lisboa entre 1903 e 1910, vários com títulos ligados a Coimbra",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+          "doc": "gc-v:8354525714324814372",
+          "citacao": "O barítono Avelino Baptista gravou um avultadíssimo conjunto de discos de massa em Lisboa entre os anos de 1903 e 1910."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco Beka Grand Record, dupla face, Lisboa: n.º 48046 «Olha a barca» e n.º 48047 «Queres a flor?», com piano",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+          "doc": "gc-v:8354525714324814372",
+          "citacao": "Disco de massa Beka Grand Record, de dupla face, gravado em Lisboa nos inícios do século XX. Acompanhamento por pianista não identificado:"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/um-fonograma-desconhecido-de-avelino.html",
+          "doc": "gc-v:8354525714324814372",
+          "citacao": "N.º 48046: OLHA A BARCA, \"Canção de Coimbra\". Música desconhecida."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou a música do «Fado Póstumo do Hylario» como «Fado da Beira» (Odeon A.136.067) e «Fado da Aurora» (Beka n.º 6704)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067, e Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

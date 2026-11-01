@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187809-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0611_23.mp3",
+  "titulo": "Conto d'Amor — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187809",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1216.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1206/antonio_menano_conto_damor",
+      "doc": "museu-do-fado:w75f8388747471219",
+      "citacao": "Título: Conto d'amor ... Editora: Od.187.809, EMI261283,EMICD8374952"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

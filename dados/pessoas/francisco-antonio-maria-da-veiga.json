@@ -1,0 +1,44 @@
+{
+  "id": "francisco-antonio-maria-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Francisco António Maria da Veiga",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "5.º filho de 11 irmãos, nascidos na casa senhorial de Sobral Valado, Pampilhosa da Serra",
+      "data": "",
+      "local": "Sobral Valado, Pampilhosa da Serra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Francisco António Maria da Veiga era o 5º filho de 11 irmãos, todos nascidos na casa senhorial em Sobral Valado, Pampilhosa da Serra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "joaquim-jose-antunes-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Era filho de Joaquim José Antunes da Veiga, que foi recebedor da Fazenda Pública em Pampilhosa da Serra."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

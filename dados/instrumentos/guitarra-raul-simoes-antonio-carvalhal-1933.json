@@ -1,0 +1,95 @@
+{
+  "id": "guitarra-raul-simoes-antonio-carvalhal-1933",
+  "designacao": "Guitarra toeira de Coimbra de António Carvalhal, fabricada em 1933 por Raul Simões (voluta oval)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "raul-simoes",
+  "ano": "1933",
+  "proprietarios": [
+    {
+      "pessoa": "antonio-carvalhal",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Voluta oval da Guitarra Toeira de Coimbra do Dr. António Carvalhal (1909-1982), fabricada em 1933 por Raul Simões."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada em 1933 por Raul Simões; voluta oval",
+      "data": "1933",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Voluta oval da Guitarra Toeira de Coimbra do Dr. António Carvalhal (1909-1982), fabricada em 1933 por Raul Simões."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post (gc-i, 26.05.2005) descreve uma guitarra de António Carvalhal fabricada por Raul Simões em 1937, com voluta em lágrima. As fontes não dizem se é o mesmo instrumento; ver guitarra-raul-simoes-antonio-carvalhal-1937."
+    },
+    {
+      "campo": "outro",
+      "valor": "Iniciais AC em prata na voluta, indicativas do proprietário",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Com era da tradição local, podem ver-se as iniciais AC em prata, indicativas do nome do proprietário."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fotografada em casa da Dra. Mariberta Carvalhal, Porto, a 5 de maio de 1998",
+      "data": "1998-05-05",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Foto tirada em casa da Dra. Mariberta Carvalhal, Porto, no dia 5 de Maio de 1998."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/AN%20Guitarra%20Carvalhal%20voluta.jpg",
+      "legenda": "Voluta oval da guitarra toeira de Coimbra de António Carvalhal, fabricada em 1933 por Raul Simões (foto de António M. Nunes, 1998).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Voluta oval da Guitarra Toeira de Coimbra do Dr. António Carvalhal (1909-1982), fabricada em 1933 por Raul Simões."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+      "doc": "gc-i:113659801124827230",
+      "citacao": "Foto e texto de António M Nunes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

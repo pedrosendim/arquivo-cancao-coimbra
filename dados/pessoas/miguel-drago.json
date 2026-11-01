@@ -1,0 +1,74 @@
+{
+  "id": "miguel-drago",
+  "tipo": "pessoa",
+  "nome": "Miguel Drago",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Práxis Nova” – Luís Alcoforado a cantar; Miguel Drago e José Rabaça à guitarra; Luís Carlos Santos e Carlos Costa à viola."
+        }
+      ],
+      "nota": "guitarra, na gravação de «Baladas de Despedida – Anos 90»"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "verdes-anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-verdes-anos.html",
+          "doc": "gc-i:112173820518069874",
+          "citacao": "Grupo \"Verdes Anos\". Rui Seoane, Gonçalo Mendes e António Dinis nas vozes. João Martins na viola ; Luís Barroso e Miguel Drago nas guitarras."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarto-crescente",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Grupo Quarto Crescente (TAUC) Grupo constituído por Rui Ferreira/José Manuel Beato (vozes), Tiago Cunha/Miguel Drago (ggC), Adamo Caetano/Paulo Larguesa (vv)"
+        }
+      ],
+      "nota": "guitarra de Coimbra (1994)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKh9W4u_pXQTbVAOY8xRlvyxrdoDi0_nv0t1lrdDkXMYtjUdJAlEQ5dPlSkpnavjgNQZXDvIYS_mREcGgFqmhgN-3WqGUxrQfhg5d0lDhQ2xmduLGhFwlaQtyjYA1Bfjyke2XW9IvF0dTz/s1600/Miguel+Drago.jpg",
+      "legenda": "Miguel Drago (1966-2015): imagem de abertura da notícia do seu falecimento no blogue (sem legenda própria)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/miguel-drago.html",
+          "doc": "gc-v:9090426420497625187",
+          "citacao": "Miguel Drago (1966-2015) ... Soube há momentos que Miguel Drago foi ontem vítima de um acidente de automóvel no Algarve"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

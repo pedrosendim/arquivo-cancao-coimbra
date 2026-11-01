@@ -1,0 +1,195 @@
+{
+  "id": "jose-afonso-rapsodia-epf-5085-1960",
+  "titulo": "Balada do Outono",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.085",
+  "ano": "1960",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "guitarra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "paulo-alao",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada do Outono",
+      "obra": "balada-do-outono",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-1-youtube",
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Vira de Coimbra",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-2-youtube",
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Amor de Estudante",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-3-youtube",
+        "ouvir-jose-afonso-rapsodia-epf-5085-1960-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Morena",
+      "obra": "morena-saldanha-junior",
+      "media": [
+        "afonso-morena-eduardo-de-melo-1960"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7704195",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "EP comercializado a 12 de março de 1960",
+      "data": "1960-03-12",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "EP “Balada do Outono”, Rapsódia, EPF 5085 – EP0089F, de 12 de Março de 1960."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/03/duas-reabordagens-da-obra-baladistica.html",
+          "doc": "gc-v:4436298673410635856",
+          "citacao": "EP Balada de Outono, José Afonso, Porto, Rapsódia EPF 5.085, comercializado em 12.03.1960, com os instrumentistas António Portugal / Eduardo de Melo (ggC) e Manuel Pepe / Paulo Alão (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado nos claustros do Museu Nacional Machado de Castro, com equipamento portátil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "A gravação decorre nos claustros do Museu Nacional Machado de Castro, com equipamento portátil. A tocata é constituída por António Portugal/Eduardo de Melo (ggC), Manuel Pepe/Paulo Alão (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "José Afonso quis gravar só com as violas; António Portugal não aceitou e solou a introdução e os separadores",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "O cantor insistiu que queria gravar Balada do Outono apenas com as violas de Paulo Alão/Manuel Pepe, situação que António Portugal não aceitou."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "António Portugal solaria na guitarra a introdução e os separadores, mas as partes cantadas foram acompanhadas unicamente com solos das duas violas de seis ordens Alão/Pepe."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Faixas: Balada do Outono (José Afonso); Vira de Coimbra (popular); Amor de Estudante (D. José Pais de Almeida e Silva); Morena (J. Saldanha Júnior, solo de Eduardo de Melo)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Vira de Coimbra, música e letra populares. Arranjo de guitarra de acompanhamento de António Portugal."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Amor de Estudante, música de D. José Pais de Almeida e Silva; 1.ª quadra popular; 2.ª quadra de António Nobre."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Morena, música de J. Saldanha Júnior. Solo de guitarra por Eduardo de Melo, que segue o arranjo legado por Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Quarto disco de José Afonso, o segundo em nome próprio",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1960 é editado o quarto disco de José Afonso, o segundo em nome próprio. Trata-se de um EP para a Rapsódia, intitulado «Balada do Outono»."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7704195",
+      "doc": "discogs:wcc6c63ebf3c72252",
+      "citacao": "Editora: Rapsódia – EPF 5.085"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/cronologia/",
+      "doc": "aja:wddc15a953c5a5a5e",
+      "citacao": "Balada do Outono (Rapsódia EFP 5.085)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "Balada do Outono, Dr. José Afonso, Porto, EPF Rapsódia 5.085, 1960"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

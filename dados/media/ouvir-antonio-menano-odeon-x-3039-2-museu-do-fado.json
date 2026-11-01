@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3039-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0604_09.mp3",
+  "titulo": "Fado do Emigrante — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3039",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1202.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1192/antonio_menano_fado_do_emigrante",
+      "doc": "museu-do-fado:w9008e0f5798c2643",
+      "citacao": "Título: Fado do Emigrante ... Editora: Od. X3039,136.816, EMI261283,EMICD8364452,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

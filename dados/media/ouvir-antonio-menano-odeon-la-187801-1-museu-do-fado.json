@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187801-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0610_22.mp3",
+  "titulo": "Fado Solitário — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187801",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1213.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1205/antonio_menano_fado_solitario",
+      "doc": "museu-do-fado:w7dc40a9e24e68b56",
+      "citacao": "Título: Fado Solitário ... Editora: Od.LA187.801, EMI2605983 Referências: OG1023, L, NR; LA 187801a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

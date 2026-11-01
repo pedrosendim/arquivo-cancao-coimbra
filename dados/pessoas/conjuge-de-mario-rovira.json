@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-mario-rovira",
+  "tipo": "pessoa",
+  "nome": "Mulher de Mário Rovira (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "mario-rovira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/antigos-tunos-nos-aores_113453469278952340.html",
+          "doc": "gc-i:113453469278952340",
+          "citacao": "Mário Rovira e esposa."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legenda de fotografia (Antigos Tunos nos Açores); a identificação com a ficha mario-rovira faz-se pelo nome."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

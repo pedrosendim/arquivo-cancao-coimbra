@@ -1,0 +1,60 @@
+{
+  "id": "emilia-de-jesus-almeida",
+  "tipo": "pessoa",
+  "nome": "Emília de Jesus Almeida",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Miranda do Corvo",
+      "data": "",
+      "local": "Miranda do Corvo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Emília de Jesus Almeida, natural de Miranda do Corvo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento com Raul Simões a 14 de abril de 1917, com 29 anos",
+      "data": "1917-04-14",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "A 14 de Abril de 1917 casou com Emília de Jesus Almeida, natural de Miranda do Corvo, de 29 anos de idade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "raul-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "A 14 de Abril de 1917 casou com Emília de Jesus Almeida"
+        }
+      ],
+      "nota": "Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

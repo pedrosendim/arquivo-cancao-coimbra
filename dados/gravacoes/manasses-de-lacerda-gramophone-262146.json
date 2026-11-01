@@ -1,0 +1,88 @@
+{
+  "id": "manasses-de-lacerda-gramophone-262146",
+  "titulo": "Fado das Salas",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "262146",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Salas",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-262146-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Salas», por Manassés de Lacerda — etiqueta: «Fado das Salas / cantado pelo tenor Lacerda, Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/926/manasses_de_lacerda_fado_das_salas",
+          "doc": "museu-do-fado:w20babf3ecbfb72cb",
+          "citacao": "Título: Fado das Salas ... Editora: Gra.262146  Referências: Disque Pour Gramophone 17640-1/2u, 262146_; 262146 ... Etiqueta: Fado das Salas / cantado pelo tenor Lacerda, Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Arquivo Sonoro do Museu do Fado atribui o registo a Manassés de Lacerda; a etiqueta diz «tenor Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/926/manasses_de_lacerda_fado_das_salas",
+          "doc": "museu-do-fado:w20babf3ecbfb72cb",
+          "citacao": "Intérprete: Manassés de Lacerda ... Etiqueta: Fado das Salas / cantado pelo tenor Lacerda, Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, os discos do «tenor Lacerda» com repertório de Manassés (sobretudo de 1913) são de outro cantor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Na época, e principalmente em 1913, foram colocados no mercado discos gravados por um \"tenor Lacerda\", com repertório Manassés. Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/926/manasses_de_lacerda_fado_das_salas",
+      "doc": "museu-do-fado:w20babf3ecbfb72cb",
+      "citacao": "Título: Fado das Salas ... Editora: Gra.262146  Referências: Disque Pour Gramophone 17640-1/2u, 262146_; 262146"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

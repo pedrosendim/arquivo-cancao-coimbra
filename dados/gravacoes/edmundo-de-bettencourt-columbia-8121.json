@@ -1,0 +1,120 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-8121",
+  "titulo": "Samaritana / Canção do Alentejo",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8121",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz (tenor)"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8121-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Alentejo",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8121-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Samaritana», por Edmundo Bettencourt — etiqueta: «Samaritana (Fado Canção) / Dr. Edmundo de Bettencourt - Tenor / com acompanhamento de guitarra / portuguesa e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/305/edmundo_bettencourt_samaritana",
+          "doc": "museu-do-fado:we80463a7e634c917",
+          "citacao": "Título: Samaritana ... Editora: Co. 8121 Referências: P301, 32584; 8121 ... Etiqueta: Samaritana (Fado Canção) / Dr. Edmundo de Bettencourt - Tenor / com acompanhamento de guitarra / portuguesa e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canção do Alentejo», por Edmundo Bettencourt — etiqueta: «Canção do Alemtejo / Popular / Dr. Edmundo de Bettencourt / com acompanhamento de guitarra / portuguesa e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/304/edmundo_bettencourt_cancao_do_alentejo",
+          "doc": "museu-do-fado:w9df803c4a7e85daa",
+          "citacao": "Título: Canção do Alentejo ... Editora: Co. 8121 Referências: P309, W, 32585; 8121 ... Etiqueta: Canção do Alemtejo / Popular / Dr. Edmundo de Bettencourt / com acompanhamento de guitarra / portuguesa e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e no violão por Mário Faria da Fonseca (discos Columbia 8121 e GL 102)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e, no violão, por Mário Faria da Fonseca (discos Columbia, 8121 e Columbia, GL 102, master P. 309)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/305/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:we80463a7e634c917",
+      "citacao": "Título: Samaritana ... Editora: Co. 8121 Referências: P301, 32584; 8121"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/304/edmundo_bettencourt_cancao_do_alentejo",
+      "doc": "museu-do-fado:w9df803c4a7e85daa",
+      "citacao": "Título: Canção do Alentejo ... Editora: Co. 8121 Referências: P309, W, 32585; 8121"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e, no violão, por Mário Faria da Fonseca (discos Columbia, 8121 e Columbia, GL 102, master P. 309)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-beka-48106",
+  "titulo": "Canção à Flora",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "48106 / 48107",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção à Flora",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-48106-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção à Flora», por Avelino Baptista — etiqueta: «Canção a Flora / Canção popular / Avelino Baptista / Estudantina»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2382/avelino_baptista_cancao_a_flora",
+          "doc": "museu-do-fado:w5db796f632b73e34",
+          "citacao": "Título: Canção à Flora ... Editora: Beka 48106 48107 Referências: Beka-Grand-Record, 48106; 48106 ... Etiqueta: Canção a Flora / Canção popular / Avelino Baptista / Estudantina"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Dá-me os teus braços» (Avelino Baptista, museu-do-fado:wfb4d527cf6d5781c)"
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue classifica a Canção à Flora como «Canção de Coimbra» e refere gravações de Avelino Baptista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/cancao-flora_23.html",
+          "doc": "gc-v:869271124746681255",
+          "citacao": "Categoria: Canção de Coimbra ... Canção gravada no disco 78 rpm Zonophone 52145, em Lisboa, por Avelino Baptista, no ano de 1906; o mesmo cantor voltou a gravar este tema no 78 rpm Odeon 3195, entre 1908-1911"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2382/avelino_baptista_cancao_a_flora",
+      "doc": "museu-do-fado:w5db796f632b73e34",
+      "citacao": "Título: Canção à Flora ... Editora: Beka 48106 48107 Referências: Beka-Grand-Record, 48106; 48106"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/04/cancao-flora_23.html",
+      "doc": "gc-v:869271124746681255",
+      "citacao": "Categoria: Canção de Coimbra ... Canção gravada no disco 78 rpm Zonophone 52145, em Lisboa, por Avelino Baptista, no ano de 1906; o mesmo cantor voltou a gravar este tema no 78 rpm Odeon 3195, entre 1908-1911"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

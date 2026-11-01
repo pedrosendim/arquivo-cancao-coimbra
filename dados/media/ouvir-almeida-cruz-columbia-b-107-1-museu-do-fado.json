@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-107-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0313_25.mp3",
+  "titulo": "A moda da Rita — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-107",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0626.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/620/almeida_cruz_a_moda_da_rita",
+      "doc": "museu-do-fado:w71357aa314f4db00",
+      "citacao": "Título: A moda da Rita ... Editora: Co. B-107 Referências: 11804; B107"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

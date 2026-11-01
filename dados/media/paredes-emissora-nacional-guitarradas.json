@@ -1,0 +1,30 @@
+{
+  "id": "paredes-emissora-nacional-guitarradas",
+  "tipo": "audio",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=fZQ14APf-ws",
+  "titulo": "Emissora Nacional – Guitarradas por Artur Paredes (Artur Paredes, Carlos Paredes, Arménio Silva)",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes",
+    "armenio-silva"
+  ],
+  "obras": [
+    "desfolhada",
+    "danca-artur-paredes",
+    "variacoes-em-re-menor-n-2-artur-paredes",
+    "variacoes-em-mi-menor-artur-paredes",
+    "passatempo-artur-paredes"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/as-maos-e-o-legado-de-um-dos-patriarcas.html",
+      "doc": "gc-v:9016741695644576319",
+      "citacao": "Os títulos disponíveis para audição são Desfolhada, Dança, Variações em Ré Menor n.º 2, Variações em Mi Menor e Passatempo, interpretadas por Artur Paredes (1.º gC de concerto), Carlos Paredes (2.ª gC de concerto) e Arménio Silva (viola de seis ordens), num dos programas da Emissora Nacional intitulado \"Guitarradas por Artur Paredes\"."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

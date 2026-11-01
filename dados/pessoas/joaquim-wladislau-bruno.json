@@ -1,0 +1,140 @@
+{
+  "id": "joaquim-wladislau-bruno",
+  "tipo": "pessoa",
+  "nome": "Joaquim Wladislau Rodrigues Bruno",
+  "nomes_alternativos": [
+    "Joaquim Vladislau Bruno",
+    "Wladislau Bruno",
+    "Vladislau Bruno"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "JOAQUIM WLADISLAU RODRIGUES BRUNO, violeiro, oficina do Paço do Conde. Filho do mestre José Rodrigues Bruno, nasceu em Coimbra a 22.09.1810 e faleceu na freguesia de São Bartolomeu da referida cidade em 21.09.1870, solteiro e sem filhos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+      "doc": "gc-v:4529512608398682951",
+      "citacao": "No seu testamento lavrado e cerrado em Coimbra, a 18.06.1870, Joaquim Wladislau Bruno refere-se a Bento Martins [Martinez] Lobo como «meu official», a quem lega as ferramentas e madeiras da oficina do Paço do Conde."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 22 de setembro de 1810",
+      "data": "1810-09-22",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "nasceu em Coimbra a 22.09.1810"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra (freguesia de São Bartolomeu), 21 de setembro de 1870",
+      "data": "1870-09-21",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "faleceu na freguesia de São Bartolomeu da referida cidade em 21.09.1870, solteiro e sem filhos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post (notícia de O Conimbricense) dá 20 de setembro de 1870."
+    },
+    {
+      "campo": "morte",
+      "valor": "20 de setembro de 1870",
+      "data": "1870-09-20",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/trespasse-da-oficina-dos-bruno-1870.html",
+          "doc": "gc-v:2548503384820285291",
+          "citacao": "Notícia do falecimento do violeiro Joaquim Vladislau Bruno (1810-1870) no dia 20 de setembro de 1870."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Conimbricense n.º 2.418, de 27.09.1870, citado no post. O post de 25.05.2024 dá 21.09.1870."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Violeiro na oficina do Paço do Conde (listado em 1856)",
+      "data": "1856",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "JOAQUIM WLADISLAU RODRIGUES BRUNO, violeiro, oficina do Paço do Conde."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, n.º 247, 7.06.1856, citado no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Legou em testamento (18.06.1870) as ferramentas e madeiras da oficina a Bento Martins Lobo",
+      "data": "1870-06-18",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "a quem lega as ferramentas e madeiras da oficina do Paço do Conde"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-delphina",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/trespasse-da-oficina-dos-bruno-1870.html",
+          "doc": "gc-v:2548503384820285291",
+          "citacao": "Filho de José Rodrigues Bruno e de Maria Delfina, de 58 anos de idade."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-rodrigues-bruno",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/violeiros-com-oficina-em-coimbra-no-ano.html",
+          "doc": "gc-v:4529512608398682951",
+          "citacao": "Filho do mestre José Rodrigues Bruno, nasceu em Coimbra a 22.09.1810"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

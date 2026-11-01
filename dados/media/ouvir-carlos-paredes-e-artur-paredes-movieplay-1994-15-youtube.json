@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-carlos-paredes-e-artur-paredes-movieplay-1994-15-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=_B-5oQnD6_E",
+  "titulo": "Passatempo — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes"
+  ],
+  "obras": [
+    "passatempo-artur-paredes"
+  ],
+  "gravacao": "carlos-paredes-e-artur-paredes-movieplay-1994",
+  "miniatura": "https://i.ytimg.com/vi/_B-5oQnD6_E/hqdefault.jpg",
+  "fontes": [
+    {
+      "fonte": "youtube",
+      "url": "https://www.youtube.com/watch?v=_B-5oQnD6_E"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: vídeo «Artur Paredes - \"Passatempo\" do disco \"Carlos Paredes / Artur Paredes\" (LP 1972)» (canal DoTempoDosSonhos).",
+  "estado_revisao": "rascunho"
+}

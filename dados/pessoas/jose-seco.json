@@ -1,0 +1,45 @@
+{
+  "id": "jose-seco",
+  "tipo": "pessoa",
+  "nome": "José Seco",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "vice-presidente da primeira direção da Secção de Fado da AAC (1981)",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Foram vice-presidentes o Quim Reis e o José Seco"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Foram vice-presidentes o Quim Reis e o José Seco"
+        }
+      ],
+      "nota": "Vice-presidente da primeira direção (eleita a 24-2-1981)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

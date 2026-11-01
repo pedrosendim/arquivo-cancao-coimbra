@@ -1,0 +1,93 @@
+{
+  "id": "manuel-cardoso",
+  "tipo": "pessoa",
+  "nome": "Manuel Cardoso",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+      "doc": "museu-do-fado:w0bf1635e37c6cd48",
+      "citacao": "Chegou a esta actividade por influência do pai, o construtor Manuel Cardoso, cuja oficina, no Casal do Privilégio em Odivelas, hoje ocupa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Construtor com oficina no Casal do Privilégio, Odivelas",
+      "data": "",
+      "local": "Odivelas",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "o construtor Manuel Cardoso, cuja oficina, no Casal do Privilégio em Odivelas, hoje ocupa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Montão, Oliveira de Cinfães (Viseu), 8 de abril de 1933",
+      "data": "1933-04-08",
+      "local": "Montão, Cinfães",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu a 8 de Abril de 1933 em Montão, Oliveira de Cinfães, distrito de Viseu e faleceu em Odivelas no dia 17 de Julho de 1991."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "The son of the late Manuel Cardoso (1933-1991), Óscar"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Odivelas, 17 de julho de 1991",
+      "data": "1991-07-17",
+      "local": "Odivelas",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "faleceu em Odivelas no dia 17 de Julho de 1991."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aprendeu a arte com Álvaro Merceano da Silveira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "aprendeu a arte com Álvaro Merceano da Silveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

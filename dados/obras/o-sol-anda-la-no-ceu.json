@@ -1,0 +1,68 @@
+{
+  "id": "o-sol-anda-la-no-ceu",
+  "titulo": "O Sol Anda Lá no Céu",
+  "titulos_alternativos": [],
+  "genero": "fado",
+  "musica": [
+    "carlos-figueiredo"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Letra: 1.ª e 2.ª quadras populares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/jose-afonso-o-sol-anda-la-no-ceu.html",
+          "doc": "gc-v:4113461501992610287",
+          "citacao": "Autor da letra: 1.ª e 2.ª quadras populares"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Menção errada de autoria dos textos, construídos com quadras populares."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Música e letra de Carlos Figueiredo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "O SOL ANDA LÁ NO CÉU"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "todas com música e letra suas, com excepção da composição \"RUA LARGA\""
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "O Sol anda lá no Céu\n\nLetra e música de Carlos Figueiredo"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/jose-afonso-o-sol-anda-la-no-ceu.html",
+      "doc": "gc-v:4113461501992610287",
+      "citacao": "Título: O Sol anda lá no Céu\n\nAutor da música: Carlos Dinis de Figueiredo Júnior (1924-1999)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

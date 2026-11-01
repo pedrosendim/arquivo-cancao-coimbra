@@ -1,0 +1,60 @@
+{
+  "id": "antonio-rodrigues-paredes",
+  "tipo": "pessoa",
+  "nome": "António Rodrigues Paredes",
+  "nomes_alternativos": [
+    "António Paredes"
+  ],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Pai de Gonçalo Paredes; família paterna oriunda de Pego do Peixe, Vacariça (Mealhada)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Seus pais, António Rodrigues Paredes e Teresa Morgado, residentes na freguesia de S. Bartolomeu, eram do lado do pai oriundos da povoação de Pego do Peixe, Vacariça, concelho da Mealhada, distrito de Aveiro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Terá ensinado a tocar o filho Gonçalo (bisavô de Carlos Paredes, segundo depoimentos deste)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "seu avô terá aprendido a tocar com seu bisavô António Paredes"
+        }
+      ],
+      "conflito": true,
+      "nota": "Aqui António Paredes é o bisavô de Carlos Paredes (pai de Gonçalo)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Terá tocado um cordofone, não necessariamente guitarra (talvez viola toeira); referido como trisavô de Carlos Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Há ecos, por transmissão oral que o seu trisavô António Paredes, terá tocado um cordofone, mas nada nos indica que tivesse sido uma guitarra ou guitarrilha. A ter tocado algo, face à época, deverá ter sido uma viola toeira."
+        }
+      ],
+      "conflito": true,
+      "nota": "Aqui António Paredes é chamado trisavô de Carlos Paredes, o que diverge da genealogia do post de abril de 2014 (avô paterno de Gonçalo: Joaquim Rodrigues Paredes). A rever."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

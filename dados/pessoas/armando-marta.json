@@ -1,0 +1,92 @@
+{
+  "id": "armando-marta",
+  "tipo": "pessoa",
+  "nome": "Armando Marta",
+  "nomes_alternativos": [
+    "Armando Carlos da Silva Marta"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Armando Carlos da Silva Marta (1940-2007), primeiro tenor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+          "doc": "gc-v:5164846926243495276",
+          "citacao": "Armando Carlos da Silva Marta (1940-2007), primeiro tenor solista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Pinhel, 7 de dezembro",
+      "local": "Pinhel",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "-Nasce a 7 de Dezembro, em Pinhel, Armando Carlos da Silva Marta."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1940",
+      "data": "1940",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Importa, igualmente, falar de Armando Marta (1940-2007), estudante cantor dos anos 60"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Ano coincidente com o do nome completo registado acima; complementa o facto anterior (local e dia)."
+    },
+    {
+      "campo": "morte",
+      "valor": "2007",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Armando Marta (1940-2007)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações nos anos 60 (algumas de originais) e, em 1971, o EP «4 Canções de Coimbra», com quatro temas de sua autoria, músicas de Durval Moreirinhas e a guitarra de António Andias",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "estudante cantor dos anos 60, com gravações naquela década (algumas de originais), mas que voltaria a fazê-lo, em 1971, gravando um EP com quatro temas de sua autoria, músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "baladas-da-despedida-anos-90-cd-sf014",
+  "titulo": "Baladas da Despedida. Anos 90. Coimbra",
+  "formato": "CD",
+  "editora": "",
+  "referencia": "CD-SF 014",
+  "ano": "2002",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "toada-coimbra",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "colaboração do Toada Coimbrã",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "deram colaboração ao álbum negro da Secção de Fado da AAC (CD “Coimbra. Baladas, Fados e Guitarradas”, CD-SF 003, ano de 1994), bem como ao CD “Baladas da Despedida. Anos 90. Coimbra”, CD-SF 014, ano de 2002."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não nomeia a editora; o número CD-SF 014 é o que a fonte indica."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+      "doc": "gc-i:113753146107609373",
+      "citacao": "bem como ao CD “Baladas da Despedida. Anos 90. Coimbra”, CD-SF 014, ano de 2002."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

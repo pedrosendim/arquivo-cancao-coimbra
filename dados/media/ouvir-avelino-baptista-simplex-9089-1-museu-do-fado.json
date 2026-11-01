@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-simplex-9089-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2253_16.mp3",
+  "titulo": "Balada dos Estudantes — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-simplex-9089",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4283.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4432/avelino_baptista_balada_dos_estudantes",
+      "doc": "museu-do-fado:w2badb48b22becaf7",
+      "citacao": "Título: Balada dos Estudantes ... Editora: D.S. Lisboa 9089 9063 Referências: 9089, E11U, 4 2 10A; 9089"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

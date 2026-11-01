@@ -1,0 +1,107 @@
+{
+  "id": "octavio-sergio",
+  "tipo": "pessoa",
+  "nome": "Octávio Sérgio",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cunhado de José Miguel Baptista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/100-anos-de-fado-de-coimbra-cantar.html",
+          "doc": "gc-ii:1945764311760148558",
+          "citacao": "o meu cunhado José Miguel Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post escrito por Octávio Sérgio. «Cunhado» não tem tipo de relação próprio; a fonte não diz por que lado."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Coimbra, 2 de julho de 2024: «Dor na planície» (guitarra portuguesa, com Rui Pato; música de Octávio Sérgio)",
+      "data": "2024-07-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7438",
+          "doc": "mpagdp:w3c9c85931d97a54e",
+          "citacao": "Rui Pato (viola) e Octávio Sérgio (guitarra portuguesa) - \"Dor na planície\" (música de Octávio Sérgio) ... Gravado em Coimbra, no dia 2 de julho de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+        }
+      ],
+      "nota": "guitarra; 2007-2017"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Custódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        }
+      ],
+      "nota": "guitarra; digressão a Macau e Hong Kong (2004)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/03/cassete-dos-registos-efetuados-por-jose.html",
+          "doc": "gc-v:2867083331425481189",
+          "citacao": "Octávio Sérgio (autor de todos os arranjos de acompanhamento, solista de gC); Durval Moreirinhas (v)"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/excerto-do-programa-sobre-jose-afonso.html",
+          "doc": "gc-iv:2488443501586636442",
+          "citacao": "José Afonso canta Saudades de Coimbra, acompanhado por Octávio Sérgio (g) e Durval Moreirinhas (v)."
+        }
+      ],
+      "nota": "Guitarra e arranjos no LP «Fados de Coimbra e Outras Canções» (Orfeu, 1981)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Caricatura%20Oct%20vio%20%28Curso%291.jpg",
+      "legenda": "Caricatura (desenho) de Octávio Sérgio, saída no Livro de Curso, em 1964 — não é fotografia",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/caricatura-de-octvio-srgio-sada-no.html",
+          "doc": "gc-i:111585386241257211",
+          "citacao": "Caricatura de Octávio Sérgio, saída no Livro de Curso, em 1964."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

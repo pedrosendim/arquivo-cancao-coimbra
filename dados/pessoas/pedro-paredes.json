@@ -1,0 +1,40 @@
+{
+  "id": "pedro-paredes",
+  "tipo": "pessoa",
+  "nome": "Pedro Paredes",
+  "nomes_alternativos": [
+    "PParedes"
+  ],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Levantou, a 5 de agosto de 2006, uma guitarra construída para si por Gilberto Grácio",
+      "data": "2006-08-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/f.html",
+          "doc": "gc-i:115643549354960603",
+          "citacao": "Gilberto Grácio, na sua oficina, mostra uma guitarra que acabou de construir para Pedro Paredes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/p.html",
+          "doc": "gc-i:115643558059209477",
+          "citacao": "Pedro Paredes no momento do levantamento da nova guitarra construída por Gilberto Grácio. Fotografia realizada por Fernando Marques em 05 de Agosto de 2006."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha mínima. As fontes não indicam parentesco nem atividade musical."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

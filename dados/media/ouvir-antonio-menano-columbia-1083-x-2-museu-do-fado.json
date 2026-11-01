@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-columbia-1083-x-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0595_32.mp3",
+  "titulo": "Fado da Sé Velha — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-columbia-1083-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1183.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1175/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:w86d08d5ecacc4a63",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Co.1083X, EMI261283,EMICD8364452,HTCD31 Referências: OG607, S, W, 1; G-1083-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

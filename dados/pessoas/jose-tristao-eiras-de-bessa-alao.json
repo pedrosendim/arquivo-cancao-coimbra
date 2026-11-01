@@ -1,0 +1,87 @@
+{
+  "id": "jose-tristao-eiras-de-bessa-alao",
+  "tipo": "pessoa",
+  "nome": "José Tristão Eiras de Bessa Alão",
+  "nomes_alternativos": [
+    "José Alão",
+    "José Tristão Eiras Bessa Alão"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Paços de Ferreira, 7 de janeiro de 1935",
+      "data": "1935-01-07",
+      "local": "Paços de Ferreira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/grupo-do-oup-em-lisboa-1959.html",
+          "doc": "gc-v:8406614398681311577",
+          "citacao": "JOSÉ TRISTÃO EIRAS DE BESSA ALÃO (v, Paços de Ferreira, 07.01.1935 - 07.05.2006)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "7 de maio de 2006",
+      "data": "2006-05-07",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/grupo-do-oup-em-lisboa-1959.html",
+          "doc": "gc-v:8406614398681311577",
+          "citacao": "Paços de Ferreira, 07.01.1935 - 07.05.2006"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Engenharia Química na Universidade do Porto; membro do Orfeão Universitário do Porto nos anos 50",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/jos-alo-2006-da-associao-dos-antigos.html",
+          "doc": "gc-i:114713046652623156",
+          "citacao": "José Alão cursou Engenharia Química na UP e pertenceu ao OUP nos anos 50"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "paulo-alao",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/jos-alo-2006-da-associao-dos-antigos.html",
+          "doc": "gc-i:114713046652623156",
+          "citacao": "era o irmão mais velho de Paulo Alão"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/grupo-do-oup-em-lisboa-1959.html",
+          "doc": "gc-v:8406614398681311577",
+          "citacao": "irmão do viola Paulo Alão"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

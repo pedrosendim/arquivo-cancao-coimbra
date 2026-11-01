@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-gramophone-gc-62020-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0300_03.mp3",
+  "titulo": "Fado das Saudades — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-gramophone-gc-62020",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0599.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/594/almeida_cruz_fado_das_saudades",
+      "doc": "museu-do-fado:wfb720e43774df27b",
+      "citacao": "Título: Fado das Saudades ... Editora: Gra. GC62020 Referências: Disque Pour Gramophone 8251f, 62020II; G.C. 62020"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "antonio-menano-odeon-la-187806",
+  "titulo": "Carta das trincheiras / Canções Alentejanas",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187.806",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Carta das trincheiras",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187806-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canções Alentejanas",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187806-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Carta das trincheiras», por António Menano — etiqueta: «Carta das Trincheiras / (A. Duarte) / Dr. António Menano / Guitarra João Fernandes / Viola Mario Marques / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1198/antonio_menano_carta_das_trincheiras",
+          "doc": "museu-do-fado:wdf910e3ee40be08e",
+          "citacao": "Título: Carta das trincheiras ... Editora: Od.LA187.806, EMICD8346182,HTCD31 Referências: OG1015, L, NR; LA 187806a ... Etiqueta: Carta das Trincheiras / (A. Duarte) / Dr. António Menano / Guitarra João Fernandes / Viola Mario Marques / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wa55e3606932adb46; acompanhamento indicado na etiqueta, sem ficha no arquivo: João Fernandes (guitarra), Mário Marques (viola), Alfonso Corrêa Leite (piano)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canções Alentejanas», por António Menano — etiqueta: «Canções Alemtejanas / (Popular) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1199/antonio_menano_cancoes_alentejanas",
+          "doc": "museu-do-fado:w6e125c9041e96fe9",
+          "citacao": "Título: Canções Alentejanas ... Editora: Od.LA187.806, EMICD8374952 Referências: OG1035, L, NR; LA 187806b ... Etiqueta: Canções Alemtejanas / (Popular) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wd56cd4e289b59323"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1198/antonio_menano_carta_das_trincheiras",
+      "doc": "museu-do-fado:wdf910e3ee40be08e",
+      "citacao": "Título: Carta das trincheiras ... Editora: Od.LA187.806, EMICD8346182,HTCD31 Referências: OG1015, L, NR; LA 187806a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2012/antonio_menano_carta_das_trincheiras",
+      "doc": "museu-do-fado:wa55e3606932adb46",
+      "citacao": "Título: Carta das trincheiras ... Editora: Od.LA187.806 Referências: OG1015, L, NR; LA 187806a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1199/antonio_menano_cancoes_alentejanas",
+      "doc": "museu-do-fado:w6e125c9041e96fe9",
+      "citacao": "Título: Canções Alentejanas ... Editora: Od.LA187.806, EMICD8374952 Referências: OG1035, L, NR; LA 187806b"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2013/antonio_menano_cancoes_alentejanas",
+      "doc": "museu-do-fado:wd56cd4e289b59323",
+      "citacao": "Título: Canções Alentejanas ... Editora: Od.LA187.806 Referências: OG1035, L, VI; LA 187806b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

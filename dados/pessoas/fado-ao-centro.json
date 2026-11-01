@@ -1,0 +1,326 @@
+{
+  "id": "fado-ao-centro",
+  "tipo": "grupo",
+  "nome": "Fado ao Centro",
+  "nomes_alternativos": [
+    "Fado ao Centro® Grupo de Fados",
+    "Casa de Fados Fado ao Centro",
+    "Associação Cultural e Artística do Centro «Fado ao Centro»"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "cidade-gelsenkirchen",
+      "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+      "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+      "citacao": "Fado Ao Centro wurde 2010 von drei Freunden – ehemaligen Studenten der Universität von Coimbra – gegründet"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/fado-ao-centro.html",
+      "doc": "gc-iv:6868691087443760707",
+      "citacao": "É hoje inaugurada oficialmente, pelas 18 horas e trinta minutos, a Casa de Fados de Coimbra, FADO AO CENTRO."
+    },
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/bio",
+      "doc": "joao-farinha-site:w9363a51837eae2aa",
+      "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/aproposito-de-um-duplo-cd-editado-pelo.html",
+      "doc": "gc-iv:2101664336024902364",
+      "citacao": "o duplo CD “fado de Coimbra: fados & guitarradas” / vol. 2, da Associação Cultural e Artística do Centro “Fado ao Centro”, também designada por “Centro Cultural/Casa de Fados – Fado ao Centro”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/06/disco-3-do-fado-ao-centro.html",
+      "doc": "gc-v:3087919112590833595",
+      "citacao": "Neste terceiro trabalho, todo feito de originais, em 14 temas que abrem caminhos novos para a música de Coimbra"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado em 2010 por três amigos, antigos estudantes da Universidade de Coimbra",
+      "data": "2010",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "Fado Ao Centro wurde 2010 von drei Freunden – ehemaligen Studenten der Universität von Coimbra – gegründet"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de apresentação do grupo (Gelsenkirchen, 2022)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Fado ao Centro (2011), trio original João Farinha, Luís Barroso e Luís Carlos",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/bio",
+          "doc": "joao-farinha-site:w9363a51837eae2aa",
+          "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"
+        }
+      ],
+      "conflito": true,
+      "nota": "Site oficial de João Farinha."
+    },
+    {
+      "campo": "outro",
+      "valor": "inauguração oficial da Casa de Fados Fado ao Centro, Rua do Quebra Costas n.º 7, Coimbra",
+      "data": "2011-07-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/fado-ao-centro.html",
+          "doc": "gc-iv:6868691087443760707",
+          "citacao": "É hoje inaugurada oficialmente, pelas 18 horas e trinta minutos, a Casa de Fados de Coimbra, FADO AO CENTRO."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/fado-ao-centro.html",
+          "doc": "gc-iv:6868691087443760707",
+          "citacao": "Rua do Quebra Costas nº 7 - Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Fado de Coimbra Vol. 1» (Fado ao Centro, 2011)",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/8189667",
+          "doc": "discogs:wfa7ac64ed2e2e3a0",
+          "citacao": "2011 · Fado De Coimbra Vol.1 · Fado Ao Centro · CD, Comp · Main"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "2CD «Fado de Coimbra (Fados & Guitarradas Volume 2)» (Fado ao Centro, 2011): 41 temas, 21 cantados e 20 para guitarra",
+      "data": "2011",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10872795",
+          "doc": "discogs:waedde0e700c4b9e8",
+          "citacao": "Editora: Fado Ao Centro – none"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/aproposito-de-um-duplo-cd-editado-pelo.html",
+          "doc": "gc-iv:2101664336024902364",
+          "citacao": "Trata-se de um trabalho composto por 41 temas, dos quais 21 cantados e 20 peças para Guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata (2012), entre os grupos participantes, com artistas convidados",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "Grupo de Fados \"Fado ao Centro®\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013: Vítor Sá, José Branco, Hugo Gamboias, Hugo Martins e João Farinha no bloco «Fado Ao Centro»",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Fado Ao Centro:"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Sim (Letra: Fernando Pessoa / Música: João Farinha): João Farinha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Mensagens» (Fado ao Centro, 2014), terceiro disco, 14 temas originais",
+      "data": "2014",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/8189667",
+          "doc": "discogs:wfa7ac64ed2e2e3a0",
+          "citacao": "2014 · Mensagens · Fado Ao Centro · CD, Album · Main"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/disco-3-do-fado-ao-centro.html",
+          "doc": "gc-v:3087919112590833595",
+          "citacao": "Neste terceiro trabalho, todo feito de originais, em 14 temas"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Clássicos do Fado de Coimbra» (Fado ao Centro, 2015)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/8189667",
+          "doc": "discogs:wfa7ac64ed2e2e3a0",
+          "citacao": "2015 · Clássicos Do Fado De Coimbra · Fado Ao Centro · CD, Album · Main"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «De Coimbra com Amor» (Fado ao Centro, 2020)",
+      "data": "2020",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/8189667",
+          "doc": "discogs:wfa7ac64ed2e2e3a0",
+          "citacao": "2020 · De Coimbra Com Amor · Fado Ao Centro · CD, Album, Dig · Main"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Hugo Gamboias colabora com o Fado ao Centro desde 2012",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "2012 begann er mit Fado ao Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "notícia RTP (19-02-2017) sobre o fado de Coimbra e os turistas, com declarações de João Farinha (Fado ao Centro)",
+      "data": "2017-02-19",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fado-de-coimbra-atrai-turistas/",
+          "doc": "rtp-arquivos:w35725c4f740db1a8",
+          "citacao": "João Farinha, Músico, Fado ao Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "primeiro curso de formação de executantes de viola toeira da Escola de Cordofones do Fado ao Centro (iniciado em julho de 2015), com seis alunos que constroem a própria viola",
+      "data": "2015-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/blog-post.html",
+          "doc": "gc-v:2753228937640588425",
+          "citacao": "Iniciou em julho de 2015 o primeiro curso de formação de executantes de viola toeira promovido pela Escola de Cordofones do Fado ao Centro, Coimbra. Formada por seis alunos, esta classe aposta no conceito do aluno-construtor."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "primeiro Curso de Construção de Instrumentos Musicais da escola-oficina do Fado ao Centro (2015/2016)",
+      "data": "2016",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/12/missao-toeira-xv.html",
+          "doc": "gc-v:3040987113743571926",
+          "citacao": "Terminou o primeiro Curso de Construção de Instrumentos Musicais dinamizado em 2015/2016 pela escola-oficina do Fado ao Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5iNmAysSR2IcejrG_gmBATB_hlhg6pe3Dv1L3_ZcTMajmdnd2XcKDWn24yJSntB0rD3EHcmcAaiOCSlM37jzc25h3tQjTeTHh6423vBSnrV73RnfW1n-fjcdW6cgTsw80hv79ayXNRt2N/s1600/Oct%252CFarinha%252CLCarlo%252CLBarroso.jpg",
+      "legenda": "Na Casa de Fados Fado ao Centro (abril-maio de 2011): Luís Barroso, Octávio Sérgio, João Farinha e Luís Carlos.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/uma-visita-casa-de-fados-fado-ao-centro.html",
+          "doc": "gc-iv:6110712146006046956",
+          "citacao": "Uma visita à Casa de Fados \"Fado ao Centro\". Um local bem agradável para passar um bom bocado. Nas fotos: Luís Barroso, Octávio Sérgio, João Farinha e Luís Carlos."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91eKW8QHnz1w49mKQN3yFcijla5RAuhyphenhyphen3_TXxlTYs66ROYzLHuXcoWrcKSWERXzgltuvfKEgXMSK18dDK1zQODazTz5icOeKkGkKsxPYRqegeQ6dMtAkmtAW73deWnBGFbqvENmwfznck/s1600/Fado-ao-CentroCapa.jpg",
+      "legenda": "Capa do CD «Fado de Coimbra», volume I (Fado ao Centro, 2011).",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/04/do-grupo-fado-ao-centro-intitulado-fado.html",
+          "doc": "gc-iv:4517587515488153732",
+          "citacao": "CD do Grupo Fado ao Centro, intitulado \"Fado de Coimbra\", Volume I."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Site do Fado ao Centro",
+      "url": "https://fadoaocentro.com/"
+    },
+    {
+      "rotulo": "Discogs: Fado Ao Centro",
+      "url": "https://www.discogs.com/artist/8189667"
+    },
+    {
+      "rotulo": "Spotify: Fado de Coimbra – Fados e Guitarradas, Vol. 2",
+      "url": "https://open.spotify.com/album/03MzToElaGBfSuytSs1E2I"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

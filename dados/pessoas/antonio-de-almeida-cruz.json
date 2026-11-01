@@ -1,0 +1,295 @@
+{
+  "id": "antonio-de-almeida-cruz",
+  "tipo": "pessoa",
+  "nome": "Almeida Cruz",
+  "nomes_alternativos": [
+    "António de Almeida Cruz",
+    "António Maria Monteiro de Sousa de Almeida Cruz"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor",
+    "outro"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Filho de José Maria de Almeida Cruz e de Guilhermina Monteiro de Sousa Cruz, Almeida Cruz nasceu em Tavarede, município da Figueira da Foz, no dia 1 de maio de 1879. Faleceu em Lisboa a 28 de abril de 1951."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "No início da década de 1890 Almeida Cruz figura entre os fundadores da Estudantina Tavaredense (1893), uma tuna de populares, onde tocou violão e cantou solos e repertório de serenata."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Em 1895 Almeida Cruz fixou-se em Coimbra para cumprir serviço militar no Regimento de Infantaria n.º 23."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Conheceu os principais estudantes ligados à prática de serenatas, fados e guitarradas, como Augusto Hilário, com quem entrou em descantes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "No final da primeira década do século XX fez temporadas teatrais e musicais no Rio de Janeiro, tendo gravado extenso repertório para a Columbia"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "entre 1908-1911 Almeida Cruz assumiu-se como o mais importante embaixador de canções e serenatas de Coimbra no Brasil."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António Maria Monteiro de Sousa de Almeida Cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Almeida Cruz ou António Maria Monteiro de Sousa de Almeida Cruz foi um tenor português, compositor, actor profissional e empresário teatral natural do município da Figueira da Foz."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Tavarede (Figueira da Foz), 1 de maio de 1879",
+      "data": "1879-05-01",
+      "local": "Tavarede (Figueira da Foz)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Almeida Cruz nasceu em Tavarede, município da Figueira da Foz, no dia 1 de maio de 1879."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Rio de Janeiro, 1880 (verbete da Wikipédia, dado como não provado no post)",
+      "data": "1880",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Dá-se assim como não provada a informação contida no verbete «Almeida Cruz» [1880, Rio de Janeiro; 1950, Rio de Janeiro]"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post admite que possam ter existido dois artistas do mesmo nome, um português e outro brasileiro."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 28 de abril de 1951",
+      "data": "1951-04-28",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Faleceu em Lisboa a 28 de abril de 1951."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Rio de Janeiro, 1950 (verbete da Wikipédia, dado como não provado no post)",
+      "data": "1950",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "[1880, Rio de Janeiro; 1950, Rio de Janeiro]"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tenor, compositor, ator profissional e empresário teatral",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "foi um tenor português, compositor, actor profissional e empresário teatral natural do município da Figueira da Foz."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundador da Estudantina Tavaredense (1893), onde tocou violão e cantou",
+      "data": "1893",
+      "local": "Tavarede",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "No início da década de 1890 Almeida Cruz figura entre os fundadores da Estudantina Tavaredense (1893), uma tuna de populares, onde tocou violão e cantou solos e repertório de serenata."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra a partir de 1895 (serviço militar no Regimento de Infantaria n.º 23, banda militar)",
+      "data": "1895",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Em 1895 Almeida Cruz fixou-se em Coimbra para cumprir serviço militar no Regimento de Infantaria n.º 23. Neste período recebeu instrução musical e integrou a banda militar do 23"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Rio de Janeiro, c. 1908-1911",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Esta informação confirma-nos que Almeida Cruz residiu e trabalhou no Rio de Janeiro entre ca. 1908-1911."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou extenso repertório para a Columbia; datas prováveis: Rio de Janeiro 1908-1911 e Lisboa 1914",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Em face dos dados disponíveis, colocamos como datas prováveis de gravação no Rio de Janeiro 1908-1911 e em Lisboa 1914."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Almeida Cruz gravou grande quantidade canções popularizadas em Coimbra e na Figueira da Foz, umas do âmbito do folcklore, outras do repertório das serenatas dos estudantes e populares."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições referidas por José Pinto de Carvalho (História do Fado, 1903): «Fado da Madrugada», «Fado da Meia Noite»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "José Pinto de Carvalho, em História do Fado (1903) refere algumas das suas composições: Fado da Madrugada, Fado da Meia Noite."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "jayme-de-abreu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Na Figueira ensinou a arte e acompanhou na primeira metade da década de 1890 o jovem ator e cantor Almeida Cruz"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/04/sobre-ultima-guitarra-de-jayme-de-abreu.html",
+          "doc": "gc-v:2816623883791002156",
+          "citacao": "Contava o futuro ator Almeida Cruz que tinha sido Jayme a ensinar-lhe a cantar no estilo de Coimbra, acompanhando-o à guitarra."
+        }
+      ],
+      "nota": "Canto no estilo de Coimbra, Figueira da Foz, década de 1890."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-maria-de-almeida-cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Filho de José Maria de Almeida Cruz e de Guilhermina Monteiro de Sousa Cruz, Almeida Cruz nasceu em Tavarede"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "guilhermina-monteiro-de-sousa-cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Filho de José Maria de Almeida Cruz e de Guilhermina Monteiro de Sousa Cruz, Almeida Cruz nasceu em Tavarede"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4YqQFes6vPmIaqXnSL3GXawiq8kZaYd5R0XOp8w3QzuVDyEQ5gPLxkwN4Jli1QhxTMINWa27gUoPGS6yhIkcgx4jZt50HejabufTVcmJgcpceI7Q7DvVnKEybnx2DfWkdpNCfd80BeXfQ/s1600/AN+ALMEIDA+CRUZ.jpg",
+      "legenda": "Retrato do ator e tenor Almeida Cruz (1879-1951)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Retrato do actor e tenor português Almeida Cruz (1879-1951)"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Rememoração do esquecido serenateiro António de Almeida Cruz (2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "antonio-menano-odeon-a-136800",
+  "titulo": "Fado dos Passarinhos / Fazes da Lua",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136800 / A 136801",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Passarinhos",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136800-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fazes da Lua",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136800-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/vrCZkzEK_X1AJNTR5FA0KKjBRSmSVM_EerJOs2T3_2g/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODky/MDMtMTQ5MzgyMDA1/NC05MzA1LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/9989203",
+        "doc": "discogs:w381978cc2402b1a7",
+        "citacao": "Imagem (primary): https://i.discogs.com/vrCZkzEK_X1AJNTR5FA0KKjBRSmSVM_EerJOs2T3_2g/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODky/MDMtMTQ5MzgyMDA1/NC05MzA1LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/9989203",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9989203",
+          "doc": "discogs:w381978cc2402b1a7",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9989203",
+          "doc": "discogs:w381978cc2402b1a7",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1927 (Discogs)",
+      "data": "1927",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9989203",
+          "doc": "discogs:w381978cc2402b1a7",
+          "citacao": "Data: 1927"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Os dois títulos foram gravados na sessão de Paris (maio de 1927, com Flávio Rodrigues e Augusto Louro) e de novo na sessão de Berlim (dezembro de 1928)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações efectuadas nos estúdios da Odeon em Paris, no mês de Maio de 1927, sendo o cantor acompanhado em Guitarra de Coimbra de 17 pontos, afinada ao natural, por Flávio Rodrigues da Silva (1902-1950), e no violão de cordas de aço por Augusto da Silva Louro (1902-1927)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 574: FADO DOS PASSARINHOS (Passarinho da ribeira) Og 575: FAZES DA LUA (O amor é como a lua)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1009: FADO DOS PASSARINHOS (Passarinho da ribeira)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1019: FAZES DA LUA (O amor é como a lua)"
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes não permitem saber de que sessão provêm as faixas deste disco; por isso não se ligam acompanhadores."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9989203",
+      "doc": "discogs:w381978cc2402b1a7",
+      "citacao": "Editora: Odeon – A 136800"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9989203",
+      "doc": "discogs:w381978cc2402b1a7",
+      "citacao": "Editora: Odeon – A 136801"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

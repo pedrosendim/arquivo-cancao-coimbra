@@ -1,0 +1,30 @@
+{
+  "id": "joaquim-jose-antunes-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Joaquim José Antunes da Veiga",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Recebedor da Fazenda Pública em Pampilhosa da Serra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "Joaquim José Antunes da Veiga, que foi recebedor da Fazenda Pública em Pampilhosa da Serra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

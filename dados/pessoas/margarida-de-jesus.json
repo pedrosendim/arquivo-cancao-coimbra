@@ -1,0 +1,34 @@
+{
+  "id": "margarida-de-jesus",
+  "tipo": "pessoa",
+  "nome": "Margarida de Jesus",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joao-pedro-gracio",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento nasceram 12 filhos, 6 raparigas e 6 rapazes: o Manuel, o José, o Ulisses, o Joaquim (Kim), o Victor e o João."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de João Pedro Grácio e Margarida de Jesus"
+        }
+      ],
+      "nota": "A página de José Lúcio não diz «casou com Margarida de Jesus»: diz que do casamento de João Pedro Grácio nasceram 12 filhos, entre eles Joaquim (Kim), e que Joaquim é «Filho de João Pedro Grácio e Margarida de Jesus». Ligação por leitura conjunta das duas frases; Confirmado pelo editor do arquivo (29-10-2026)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho",
+  "nota_editor": "Mãe dos seis filhos de João Pedro Grácio aqui registados: a fonte só a nomeia como mãe de Joaquim (Kim); a ligação aos outros filhos foi confirmada pelo editor do arquivo (29-10-2026)."
+}

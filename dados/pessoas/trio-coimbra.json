@@ -1,0 +1,112 @@
+{
+  "id": "trio-coimbra",
+  "tipo": "grupo",
+  "nome": "Trio Coimbra",
+  "nomes_alternativos": [],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "doc": "gc-i:113544803961572695",
+      "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923), tendo dado espectáculos, serenatas, e gravados discos Odeon em Paris, a solo e com António Menano"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "formado por Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "o Trio Coimbra, formado pelo barbeiro e guitarrista Flávio Rodrigues da Silva, Augusto da Silva Louro e José Maria dos Santos (por 1923)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Data aproximada («por 1923»)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "deu espectáculos e serenatas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "tendo dado espectáculos, serenatas, e gravados discos Odeon em Paris"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "discos Odeon gravados em Paris, a solo e com António Menano; Flávio interpretou variações e uma versão instrumental da Marcha da Rainha Santa",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "gravados discos Odeon em Paris, a solo e com António Menano, tendo na aocasião Flávio interpretado variações e uma versão instrumental da Marcha da Rainha Santa"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts atribuem as sessões de Paris com António Menano à dupla Flávio Rodrigues/Augusto Louro, sem José Maria dos Santos, e divergem quanto à data (maio de 1927 ou dezembro de 1926)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "primeira sessão de António Menano em Paris (Odeon), maio de 1927, acompanhado pela dupla Flávio Rodrigues/Augusto Louro",
+      "data": "1927-05",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "no mês de Maio de 1927 fez a primeira sessão de registos em Paris, acompanhado pela dupla Flávio Rodrigues/Augusto Louro"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post fala da dupla Flávio Rodrigues/Augusto Louro, não do Trio Coimbra."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "primeiras gravações de António Menano e do duo Flávio Rodrigues/Augusto Louro em Paris (Odéon), dezembro de 1926",
+      "data": "1926-12",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+          "doc": "gc-v:6855917574346468200",
+          "citacao": "as primeiras gravações de António Menano e do duo Flávio Rodrigues/Augusto Louro tiveram lugar em Paris, na casa Odéon, em dezembro de 1926 e não em 1927como foi voz corrente."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post fala do duo Flávio Rodrigues/Augusto Louro, não do Trio Coimbra; apoia-se numa notícia de imprensa."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "guitarra (Flávio Rodrigues) e violão (Augusto da Silva Louro/José Maria dos Santos)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "a ligação definitiva do violão à guitarra só viria a consagrar-se na década de 1920, em duos e trios: ... -Flávio Rodrigues (g) e Augusto da Silva Louro/José Maria dos Santos (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não nomeia o Trio Coimbra; inclui estes três instrumentistas entre os duos e trios de guitarra e violão da década de 1920."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

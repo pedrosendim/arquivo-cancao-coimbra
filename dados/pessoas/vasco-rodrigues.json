@@ -1,0 +1,369 @@
+{
+  "id": "vasco-rodrigues",
+  "tipo": "pessoa",
+  "nome": "Vasco Corgo Rodrigues",
+  "nomes_alternativos": [
+    "Vasco Corgo",
+    "Vasco Rodrigues"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Nascido na cidade de Coimbra em 2000, desde cedo que, por influência do pai, a música de Coimbra faz parte do seu dia a dia."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Aos 13 anos, a paixão pela música levou–o a iniciar o seu percurso musical na viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Nesse mesmo ano acaba por formar o grupo de fado d’Anto da Secção de Fado da AAC como viola de acompanhamento."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Em 2021, começou a trabalhar com Simão Mota e Tiago Rodrigues e, desde então, tem explorado o vasto repertório da família Paredes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 2000",
+      "data": "2000",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Nascido na cidade de Coimbra em 2000"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do programa do recital «Dedos em garra» (2022), transcrita no post."
+    },
+    {
+      "campo": "formacao",
+      "valor": "começou a tocar viola aos 13 anos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Aos 13 anos, a paixão pela música levou–o a iniciar o seu percurso musical na viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "curso de Gestão de Recursos Humanos no Instituto Miguel Torga (ISMT), Coimbra, a partir de 2019",
+      "data": "2019",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2019 ingressa no curso de Gestão de Recursos Humanos no Instituto Miguel Torga, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "formou o grupo de fado d'Anto da Secção de Fado da AAC (2019), como viola de acompanhamento",
+      "data": "2019",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2019 ingressa no curso ... Nesse mesmo ano acaba por formar o grupo de fado d’Anto da Secção de Fado da AAC como viola de acompanhamento."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "viola de cordas de nylon",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Vasco Rodrigues (ISMT, viola de cordas de nylon)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "desde 2021 com Simão Mota e Tiago Rodrigues (Trio Rodrigues & Mota), repertório da família Paredes",
+      "data": "2021",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2021, começou a trabalhar com Simão Mota e Tiago Rodrigues e, desde então, tem explorado o vasto repertório da família Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Guitarra com os dedos em garra!», Convento São Francisco, 1 de outubro de 2022 (viola)",
+      "data": "2022-10-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Guitarra de Coimbra Tiago José Rodrigues, Simão Mota Viola Vasco Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Recital dedos em garra», Museu Nacional da Música, Lisboa, 26 de novembro de 2022",
+      "data": "2022-11-26",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "«Recital dedos em garra», Lisboa, Museu Nacional da Música, 26.11.2022"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É acompanhado à guitarra por Simão Mota e à viola por Vasco Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "registo da ESEC TV, Coimbra, 20 de janeiro de 2023",
+      "data": "2023-01-20",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Este registo foi gravado em Coimbra pela ESEC Tv, em 20.01.2023, com depoimentos e performances de Tiago Rodrigues, Simão Mota e Vasco Rodriques."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post grafa «Rodriques»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata em Santarém, 28 de junho de 2024: viola nos grupos Campa Rasa e Quarteto de Coimbra",
+      "data": "2024-06-28",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "vv: Tiago Rodrigues e Vasco Rodrigues"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "v: Vasco Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Grémio Operário de Coimbra, 6 de setembro de 2024: «Balada da Nostalgia» (viola, com o d'Anto; tema da autoria de Vasco Rodrigues)",
+      "data": "2024-09-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola]) - \"Balada da Nostalgia\" (tema da autoria de Vasco Rodrigues) ... Gravado no Grémio Operário de Coimbra, no dia 6 de Setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Adeus Minho Encantador» (viola, a acompanhar Filipa Freire)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-de-coimbra-2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Quarteto de Coimbra:\n\nggC: Tiago Rodrigues e Simão Mota\n\nv: Vasco Rodrigues"
+        }
+      ],
+      "nota": "viola; Santarém, 28 de junho de 2024"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fado-danto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Nesse mesmo ano acaba por formar o grupo de fado d’Anto da Secção de Fado da AAC como viola de acompanhamento."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "Vasco Corgo e Silva J. Rodrigues, na Viola de acompanhamento"
+        },
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola])"
+        }
+      ],
+      "nota": "viola (2019-)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-rodrigues-e-mota",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É dinamizado por Tiago José Rodrigues (Medicina, gC1), Simão Sá Mota (Letras, gC2) e Vasco Rodrigues (ISMT, viola de cordas de nylon)."
+        }
+      ],
+      "nota": "viola (2022-)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "vv: Tiago Rodrigues e Vasco Rodrigues"
+        }
+      ],
+      "nota": "viola (2024)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "simao-mota",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2021, começou a trabalhar com Simão Mota e Tiago Rodrigues"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "tiago-jose-rodrigues",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2021, começou a trabalhar com Simão Mota e Tiago Rodrigues"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "joana-carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/12/a-capa-tudo-tapa-consequencias-do.html",
+          "doc": "gc-v:8642243074465900039",
+          "citacao": "Foto 1 - Joana Carvalho, aluna de canto orientada por Jorge Cravo, acompanhada pelo guitarrista Simão Mota e pelo viola Vasco Rodrigues"
+        }
+      ],
+      "nota": "2023"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "filipa-freire",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "nota": "viola; gravação de 7 de setembro de 2024"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Post «Um projeto de redescoberta de Arthur Paredes» (biografia)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html"
+    },
+    {
+      "rotulo": "Canal YouTube do grupo d'Anto (ouvir)",
+      "url": "https://www.youtube.com/channel/UCWD_oyfN4j3PCS8Qf0jOwxw"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota_editor": "Identificação e nome completo indicados pelo editor do arquivo (29-10-2026). O artigo de A Cabra (2023) escreve «Vasco Corgo e Silva J. Rodrigues» na viola."
+}

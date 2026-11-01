@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-187505-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0596_34.mp3",
+  "titulo": "Canção dos Malmequeres — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-187505",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1186.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1177/antonio_menano_cancao_dos_malmequeres",
+      "doc": "museu-do-fado:wfd237c8e07f6d171",
+      "citacao": "Título: Canção dos Malmequeres ... Editora: Od.187.506,EMI260593,EMICD8374952 Referências: OG609, W; A 187506"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "filipa-freire",
+  "tipo": "pessoa",
+  "nome": "Filipa Freire",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Adeus Minho Encantador» (voz)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

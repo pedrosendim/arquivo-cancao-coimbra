@@ -1,0 +1,190 @@
+{
+  "id": "antonio-bernardino-alvorada-aep-60817",
+  "titulo": "Fados de Coimbra (1)",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "AEP 60817",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-borralho",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Um Fado de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-alvorada-aep-60817-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Alentejano",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Asas Brancas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "O Beijo",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/N9CwKEy3MzJlW52mm6qepkekNzHdVlLoJY1YXbzGHok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/NjEwLTE0OTEwMDQ0/OTMtNzE2NC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/10064610",
+        "doc": "discogs:wc3f09245f7db0376",
+        "citacao": "Imagem (secondary): https://i.discogs.com/N9CwKEy3MzJlW52mm6qepkekNzHdVlLoJY1YXbzGHok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/NjEwLTE0OTEwMDQ0/OTMtNzE2NC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/10064610",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064610",
+          "doc": "discogs:wc3f09245f7db0376",
+          "citacao": "Formato: 1 × Vinyl, 7\", EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064610",
+          "doc": "discogs:wc3f09245f7db0376",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1966 (Discogs)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064610",
+          "doc": "discogs:wc3f09245f7db0376",
+          "citacao": "Data: 1966"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1966 num post e 1967 noutros."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1966 (blogue)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/fado-de-coimbra-verso-armando-goes.html",
+          "doc": "gc-i:113858290414529250",
+          "citacao": "EP Alvorada, AEP 60817, ano de 1966"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/fado-alentejano-msica-armando-do-carmo.html",
+          "doc": "gc-i:113505349800504155",
+          "citacao": "A gravação contemporânea deste tema foi efectuada por António Bernardino em 1966 no disco Alvorada AEP 60817"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue indicam 1967."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1967 (blogue)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+          "doc": "gc-i:113872260824886914",
+          "citacao": "foi gravado por António Bernardino em 1967, sob o título “Um Fado de Coimbra”, acompanhado à guitarra por António Portugal e Manuel Borralho e, à viola, por Rui Pato (EP Fados de Coimbra, Alvorada, AEP 60817)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue e o Discogs indicam 1966."
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: «à Guitarra: Drs. António Portugal e Manuel Borralho; à Viola: Rui Pato» (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10064610",
+          "doc": "discogs:wc3f09245f7db0376",
+          "citacao": "ACOMPANHAMENTO: à Guitarra: Drs. António Portugal e Manuel Borralho; à Viola: Rui Pato;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Um Fado de Coimbra = Fado de Coimbra de Armando Goes; a letra vem erradamente atribuída a António Menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/fado-de-coimbra-verso-armando-goes.html",
+          "doc": "gc-i:113858290414529250",
+          "citacao": "O título grafado é “Um Fado de Coimbra”, e a letra vem erradamente atribuída a António Menano."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/10064610",
+      "doc": "discogs:wc3f09245f7db0376",
+      "citacao": "Editora: Alvorada – AEP 60817"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

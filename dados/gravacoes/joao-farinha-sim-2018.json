@@ -1,0 +1,57 @@
+{
+  "id": "joao-farinha-sim-2018",
+  "titulo": "Sim",
+  "formato": "",
+  "editora": "",
+  "referencia": "",
+  "ano": "2018",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "joao-farinha-1976",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/6tfbUQE69vc18grp0rrhWx",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "início do percurso discográfico em nome próprio, inspirado pela poesia portuguesa (texto de Lídia Pereira, 2018)",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "assinala o início de um percurso discográfico marcado pela vontade de renovar sem romper"
+        },
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "— Lídia Pereira, 2018"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/albums",
+      "doc": "joao-farinha-site:w721ab9f9105a5aae",
+      "citacao": "SIM 2018"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "paulo-silva",
+  "tipo": "pessoa",
+  "nome": "Paulo Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "guitarra no Grupo de Canto e Guitarra da Secção (2008) e na homenagem a Artur Paredes (2010)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "Paulo Silva (g)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Manuel Coroa, Pedro Batista e Paulo Silva em guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Terminou a sessão com quatro associados da Secção de Fado da Academia Coimbrã"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "pelo Grupo de Canto e Guitarra da Secção de Fado da Associação Académica de Coimbra"
+        }
+      ],
+      "nota": "Guitarra no Grupo de Canto e Guitarra da Secção (2008); associado em 2010."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

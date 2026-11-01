@@ -1,0 +1,254 @@
+{
+  "id": "ronald-louis-fernandez",
+  "tipo": "pessoa",
+  "nome": "Ronald Louis Fernández",
+  "nomes_alternativos": [
+    "Ron Fernandez",
+    "Ronald Fernandez",
+    "Ronald Louis Fernandez"
+  ],
+  "papeis": [
+    "colecionador",
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/RonaldLouisFernandez.html",
+      "doc": "fernandez-music:w551c3a4d5dc69984",
+      "citacao": "Ronald Louis Fernández, a cultural anthropologist by training (Ph.D '78, McGill University, B.A. '70 UC Santa Barbara)"
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "My interest in the guitarra stems from 1971 when I began to accompany Artur Gaipo in Montreal."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "In 1974 my wife Jeanette and I attended a summer language and culture course at Coimbra University in Portugal. During that 5 week course we played music with Coimbra students and Lisbon working class musicians."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "this event changed my life because it lead me to the world of fretted instrument repairing."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+      "doc": "fernandez-music:w1840427253cdd98d",
+      "citacao": "In 1994 I visited Lisboa and met Joao Palmeiro who made me a few Coimbra and Lisboa guitarras."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "When necessary Ron Fernandez has restored these instruments to playing condition, refined the fret work and touched up the French Polished shellac finish."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Antropólogo cultural (B.A. 1970, UC Santa Barbara; Ph.D. 1978, McGill University)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/RonaldLouisFernandez.html",
+          "doc": "fernandez-music:w551c3a4d5dc69984",
+          "citacao": "Ronald Louis Fernández, a cultural anthropologist by training (Ph.D '78, McGill University, B.A. '70 UC Santa Barbara)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "A partir de 1971 acompanhou em Montreal o guitarrista Artur Gaipo; nos anos 70 tocou violão no seu quarteto de guitarras portuguesas",
+      "data": "1971",
+      "local": "Montreal",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "My interest in the guitarra stems from 1971 when I began to accompany Artur Gaipo in Montreal."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In the 70's I played violão (Spanish guitar) with Artur in his Portuguese Guitar Quartet"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de verão de língua e cultura na Universidade de Coimbra (1974), onde tocou com estudantes de Coimbra",
+      "data": "1974",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1974 my wife Jeanette and I attended a summer language and culture course at Coimbra University in Portugal. During that 5 week course we played music with Coimbra students and Lisbon working class musicians."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Iniciou-se na reparação de instrumentos de corda ao reconstruir uma guitarra feita por Artur Gaipo, com a orientação de William Tapia",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "this event changed my life because it lead me to the world of fretted instrument repairing. With the kind help and guidance of William Tapia"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "I disassembled the Gaipo guitarra, made a complete new back, repaired face cracks"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Em 1994 conheceu João Palmeiro em Lisboa, que lhe fez guitarras de Coimbra e de Lisboa; em 1996 voltou a visitar Palmeiro e António Pinto de Carvalho, que lhe fizeram instrumentos",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1994 I visited Lisboa and met Joao Palmeiro who made me a few Coimbra and Lisboa guitarras."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Portuguesemethodsec31MyStory.html",
+          "doc": "fernandez-music:w1840427253cdd98d",
+          "citacao": "In 1996 I again visited Palmeiro and Antonio Pinto de Carvalho who made me a few instruments."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaura e dá acabamento a instrumentos antigos (trastos, goma-laca)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/RonaldLouisFernandez.html",
+          "doc": "fernandez-music:w551c3a4d5dc69984",
+          "citacao": "He also restores and finishes vintage instruments."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "When necessary Ron Fernandez has restored these instruments to playing condition, refined the fret work and touched up the French Polished shellac finish."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Coleção de guitarras portuguesas apresentada no site Fernandez Music",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Ron Fernandez Collection"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Portuguese Guitar Collection, rare instruments from:"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Playing the Lisbon Portuguese Guitarra» (método na internet), 2000, revisto em 2010",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "Playing the Lisbon Portuguese Guitarra by Ronald Louis Fernández ©2000, revised 2010"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Artigo «The Portuguese Guitarra», na revista American Lutherie",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/RonaldLouisFernandez.html",
+          "doc": "fernandez-music:w551c3a4d5dc69984",
+          "citacao": "His articles, \"The Portuguese Guitarra\" and \"Felix Manzanero and his Collection of Antique Guitars\" have appeared in American Lutherie."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/RonPortGuit.gif",
+      "legenda": "Ron with spruce face, solid rosewood \"Severa\" Model",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortGuitarraForSale.html",
+          "doc": "fernandez-music:w3bd306d8ee2fa590",
+          "citacao": "Ron with spruce face, solid rosewood \"Severa\" Model"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Ronald Louis Fernandez",
+      "url": "https://www.fernandezmusic.com/RonaldLouisFernandez.html"
+    },
+    {
+      "rotulo": "Fernandez Music — Portuguese Guitar Collection",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

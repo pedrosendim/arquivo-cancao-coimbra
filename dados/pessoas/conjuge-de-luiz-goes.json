@@ -1,0 +1,33 @@
+{
+  "id": "conjuge-de-luiz-goes",
+  "tipo": "pessoa",
+  "nome": "Primeira mulher de Luiz Goes (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Casa-se e nasce o primeiro filho mas esse primeiro casamento, no entanto, não será muito duradouro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cano-da-infncia.html",
+          "doc": "gc-i:114799076130516571",
+          "citacao": "Luiz Goes reflecte sobre a instabilidade do seu primeiro casamento"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Primeiro casamento (Lisboa, depois de 1958). Um post de 2007 (gc-i:7921418686543995634) refere «as esposas de Luiz Goes, Carlos Carranca e Humberto Matias», sem dizer se é a mesma pessoa; as fontes não dizem de que casamento são Ana e Miguel Goes."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

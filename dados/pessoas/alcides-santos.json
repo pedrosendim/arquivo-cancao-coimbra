@@ -1,0 +1,29 @@
+{
+  "id": "alcides-santos",
+  "tipo": "pessoa",
+  "nome": "Alcides Santos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/a-orquestra-academica-ligeira-da-tauc.html",
+          "doc": "gc-v:4123726652008074155",
+          "citacao": "O primeiro grupo a dar colaboração à OLA foi o de Manuel Branquinho: Manuel Branquinho (1º gC), António de Almeida Santos (2º gC), Alfredo Caseiro da Rocha (v), garantindo as vozes Anarolino Pacheco Fernandes, Alcides Santos e o próprio Manuel Duarte Branquinho."
+        }
+      ],
+      "nota": "voz; colaboração com a OLA da TAUC"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

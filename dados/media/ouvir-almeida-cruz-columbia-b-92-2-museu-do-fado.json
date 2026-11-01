@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-92-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0306_13.mp3",
+  "titulo": "Caninha Verde — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-92",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0611.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/606/almeida_cruz_caninha_verde",
+      "doc": "museu-do-fado:w73da5a29d54ac046",
+      "citacao": "Título: Caninha Verde ... Editora: Co. B-92 Referências: 11831-1-4; B92"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

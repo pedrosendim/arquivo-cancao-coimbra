@@ -1,0 +1,70 @@
+{
+  "id": "francisco-de-vasconcelos",
+  "tipo": "pessoa",
+  "nome": "Francisco de Vasconcelos",
+  "nomes_alternativos": [
+    "Francisco Vasconcelos"
+  ],
+  "papeis": [
+    "guitarrista",
+    "letrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Note-se que no referido disco actuaram: Guitarra: Francisco de Vasconcelos, António Serrano Baptista e Luís Plácido."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias, Barros Ferreira, Alcindo Costa e Augusto Camacho; Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola; Francisco Vasconcelos e Alexandre Bateiras na guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/capa-do-cd-grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858785044748018",
+          "citacao": "destaca-se aqui o papel de letrista e músico de Francisco Vasconcelos"
+        }
+      ],
+      "nota": "guitarra (discos de 1991 e 1997)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.museudofado.pt/media/2019/12/4b915dfacd7f3.jpg",
+      "legenda": "Francisco Vasconcelos. Fotografia de Olívia da Silva, 2009 (galeria de imagens da página do Museu do Fado)",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/francisco-de-vasconcelos",
+          "doc": "museu-do-fado:w4d44e6ea68ed3240",
+          "citacao": "Francisco Vasconcelos Fotografia de Olívia da Silva 2009"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipSgB2YdG7K0GShMJFEz3wVcNxXyls3XsN7UQ39cSpedtwa8a3O_5PjnIvEP9fGaflIdASMa-_pRoATXOBCiGRQXL6kAmdhHlh3NhEdXlEMoGwlC7YRk2nzhlFElDRdgYpHsuElsdNAVU/s1600/TitoCSantosFVasconcelos.gif",
+      "legenda": "Tempo de homenagem a Francisco de Vasconcelos (20 de março de 2010): o «Grupo In Illo Tempore», com Jorge Tito Mackay (v), Luís Plácido (g) e Rodrigues Pereira (v), acompanha Francisco de Vasconcelos a «dizer» poemas seus. Foto enviada por «Tito» Costa Santos.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/04/tempo-de-homenagem-francisco-de.html",
+          "doc": "gc-iii:2641734847944404045",
+          "citacao": "\"Grupo In Illo Tempore\" com Jorge Tito Mackay (v), Luís Plácido (g) e Rodrigues Pereira (v) acompanhando Francisco de Vasconcelos a \"dizer\" poemas seus."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

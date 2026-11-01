@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-fidelio-f-3019-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2261_32.mp3",
+  "titulo": "Fado dos Estudantes — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-fidelio-f-3019",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4298.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4448/avelino_baptista_fado_dos_estudantes",
+      "doc": "museu-do-fado:wefddf079c79e6787",
+      "citacao": "Título: Fado dos Estudantes ... Editora: Fidelio F 3019 F 3018 Referências: F3019; F3019"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,1084 @@
+{
+  "id": "augusto-hilario",
+  "tipo": "pessoa",
+  "nome": "Augusto Hilário",
+  "nomes_alternativos": [
+    "Augusto Hilário da Costa Alves",
+    "Augusto Hylario",
+    "Augusto Hylario da Costa Alves",
+    "Lázaro Augusto"
+  ],
+  "papeis": [
+    "cantor",
+    "guitarrista",
+    "compositor",
+    "poeta"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+      "doc": "gc-v:7887596916362859763",
+      "citacao": "AUGUSTO HILÁRIO da Costa Alves, nasceu em Viseu na Rua Nova (hoje Rua Augusto Hilário), freguesia da Sé, tendo sido exposto na Casa da Roda, pelas cinco horas da manhã do dia 7 de Janeiro de 1864."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+      "doc": "gc-v:9072570798417096611",
+      "citacao": "O jovem que pelo baptismo recebe o nome de Lázaro Augusto, muda por altura do Crisma, o nome para Augusto Hylário, só vem a ser perfilhado pelos pais, António da Costa Alves e Ana de Jesus da Mouta, a 8 de Julho de 1883, ou seja aos seus 19 anos de idade."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+      "doc": "gc-i:111810453719110160",
+      "citacao": "Nos primeiros anos de Coimbra, Hilário acamaradou com o guitarrista-serenateiro Jaime de Abreu. Remontará a este período (1886-1889) a aprendizagem do bandolim de cordas de tripa e a participação nas serenatas estudantinas dirigidas por Jaime de Abreu."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+      "doc": "gc-i:111810453719110160",
+      "citacao": "Ao longo de 1890/1891, Augusto Hilário frequentou os círculos de Manuel Mansilha, guitarrista que ensinou ao jovem viseense os rudimentos de dedilhação do cordofone. Hilário aventurou-se na dedilhação da guitarra e no canto serenil, iniciando o périplo dos teatros, casinos, praças e ruas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+      "doc": "gc-v:2911125403515478887",
+      "citacao": "O estudante de Medicina, cantor e guitarrista Augusto Hylario foi a estrela convidada, tendo contribuído para o esgotamento da sala e para o prolongamento das sessões. Tocou guitarra (o cordofone que tinha na altura era uma guitarra do Porto), cantou e gravou o seu muito recente Fado Serenata [do Hylario] e diversas peças do seu repertório constituído por «fadinhos e canções populares» em cilindros que foram comprados pelo público ao longo das várias sessões."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/atuacao-de-augusto-hylario-em-lisboa.html",
+      "doc": "gc-v:6430982705676367322",
+      "citacao": "Foi verdadeiramente nesta ida ao Ateneu da capital que o estudante-artista foi adoptado e consagrado pela comunidade fadística lisboeta como um dos seus."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+      "doc": "gc-v:8663414541731534926",
+      "citacao": "Augusto Hilário, morre minado pelos excessos e pelo álcool, com um veredicto médico de “icterícia grave hypertérmica”."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+      "doc": "gc-i:111810453719110160",
+      "citacao": "A morte de Hilário gerou impressionante histeria nacional, logo vertida em hilariomania."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Augusto Hilário da Costa Alves",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "AUGUSTO HILÁRIO DA COSTA ALVES, nasceu em Viseu, na Rua Nova (hoje Rua Augusto Hilário)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Batizado Lázaro Augusto (15 de janeiro de 1864); no crisma (26 de maio de 1877) mudou o nome para Augusto Hilário",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "sendo baptizaso a 15 do mesmo mês e ano pelo páraco da Sé, com o nome de Lázaro Augusto. Ao receber o crisma em 26 de Maio de 1877, muda o nome para Augusto Hilário."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "O jovem que pelo baptismo recebe o nome de Lázaro Augusto, muda por altura do Crisma, o nome para Augusto Hylário"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Viseu, Rua Nova, freguesia da Sé; exposto na Casa da Roda às 5 horas de 7 de janeiro de 1864, data tida como a do nascimento",
+      "data": "1864-01-07",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "nasceu em Viseu na Rua Nova (hoje Rua Augusto Hilário), freguesia da Sé, tendo sido exposto na Casa da Roda, pelas cinco horas da manhã do dia 7 de Janeiro de 1864."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "foi entregue recém-nascido, na Casa da Roda de Viseu nesta data 7 de Janeiro de 1864, considerando-se ter sido esta a data do seu nascimento."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Não há a certeza sobre a data do nascimento, mas apenas se sabe pelos registo de baptismo, que foi entregue na Casa da Roda, pela 5 horas da manhã do dia 7 de Janeiro de 1864."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "nascido à Rua Nova, Freguesia da Sé, Viseu, em 7 de Janeiro de 1864"
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8204525654998571512",
+          "citacao": "(Viseu, 7 de Janeiro de 1864 – Viseu, 3 de Abril de 1896)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "A data do seu nascimento é ainda uma incógnita, porquanto o registo de baptismo refere que foi “exposto na roda desta dita cidade pelas cinco horas da manhã do dia sete do dito mês e ano”"
+        }
+      ],
+      "conflito": true,
+      "nota": "Vários posts sublinham que 7 de janeiro é a data da exposição na Roda e que o dia exato do nascimento não é conhecido."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Freguesia da Sé (Viseu), 7 de fevereiro de 1864",
+      "data": "1864-02-07",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Nascera na Freguesia da Sé, a 7 de Fevereiro de 1864[1]."
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota [1] do mesmo post diz tratar-se da data de entrega do recém-nascido na Casa da Roda; os outros posts do mesmo autor (Manuel Marques Inácio) dão 7 de janeiro."
+    },
+    {
+      "campo": "outro",
+      "valor": "Perfilhado pelos pais, António da Costa Alves e Ana de Jesus da Mouta, a 8 de julho de 1883",
+      "data": "1883-07-08",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "só vem a ser perfilhado pelos pais, António da Costa Alves e Ana de Jesus da Mouta, a 8 de Julho de 1883"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Oficialmente perfilhado a 8 de junho de 1883",
+      "data": "1883-06-08",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Só em 8 de Junho de 1883 seria oficialmente perfilhado."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Viseu, casa dos pais na Rua Nova, 3 de abril de 1896, de «icterícia grave hipertérmica», aos 32 anos",
+      "data": "1896-04-03",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Vem a falecer na casa que o viu nascer, a 3 de Abril de 1896, pelas 21 horas, vítima de um ataque de \"icterícia grave hipertérmica\". Tinha 32 anos, e ficou sepultado em Viseu."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "Faleceu aos 32 anos na casa dos pais, vítima de um ataque de icterícia grave hipertérmica, na manhã do dia 3 de Abril de 1896."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Foi uma hora de luto nacional aquela que o ceifou à vida no dia 3 de Abril de 1896, pelas 21 horas, vitimado por uma “ictericia grave hypertermica”."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Faleceu em Viseu numa Sexta-feira Santa!!! em Abril de 1896."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8204525654998571512",
+          "citacao": "Viseu, 3 de Abril de 1896"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "(Viseu, 3/04/1896)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A hora também diverge: «pelas 21 horas» (2007, 2013) e «na manhã» (janeiro de 2014). A frase sobre a Sexta-feira Santa é de Joaquim Pinho, acrescentada ao post de 2007."
+    },
+    {
+      "campo": "morte",
+      "valor": "Viseu, casa dos pais na Rua Nova, 3 de março de 1896, às dez horas da noite (sexta-feira da Paixão)",
+      "data": "1896-03-03",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Faleceu na sua terra natal, na casa de seus pais à Rua Nova, na sequência de uma “icterícia grave hypertérmica”, às dez horas da noite do dia 3 de Março de 1896. Tinha 32 anos de idade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "faleceu, nessa mesma cidade, a 3 de Março de 1896"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "naquele dia 3 de Março de 1896, sexta-feira da Paixão"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 cita o texto do Arquivo da Universidade (Filomena Maria Rodrigues) com esta data."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra (segundo José Niza, Fado de Coimbra II, 1999, p. 88)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Na página 88, linha 7, que afirma-se Hilário faleceu em Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão apontada como erro no próprio post de 2014."
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado em campa rasa no cemitério antigo de Viseu; não existe jazigo de família",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Está sepultado no cemitério antigo da cidade de Viseu."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Quem conhece a situação, sabe que não existe, nem nunca existiu, qualquer jazigo de família."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Está sepultado em campa rasa[7], no Cemitério de S, João de Lourosa, de Viseu."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado em jazigo de família no cemitério de Viseu, após funeral com grande multidão",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "O seu funeral foi imponente, com uma aparatosa multidão que o quis acompanhar até à sua última morada no cemitério da cidade de Viseu onde ficou sepultado em jazigo de família."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão também atribuída a José Niza (Fado de Coimbra II, p. 90), contestada no post de março de 2014."
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado com o uniforme de aspirante a médico naval; era aspirante da Escola Naval",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "Curiosamente, Augusto Hylario foi sepultado com o uniforme de aspirante a médico naval."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Frequentava então o 3º ano da Escola Médica da Universidade de Coimbra e era aspirante da Escola Naval."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Viseu; em Coimbra desde 1886 (preparatórios médicos na Faculdade de Matemática, matrícula a 12 de outubro de 1886); 1.ª matrícula em Medicina a 3 de outubro de 1892; morreu sem concluir o 3.º ano",
+      "data": "1886",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Chega a Coimbra em 1886 para fazer os chamados Estudos Preparatórios na Faculdade de Matemática da Universidade. Em 1892 chega à Faculdade de Medicina. No ano de 1895 está no terceiro ano, mas no ano seguinte morre sem ter completado esse ano lectivo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "em 12 de Outubro de 1886 matriculou-se como aluno voluntário nos preparatórios médicos da Faculdade de Matemática da UC. Data de 3 de Outubro de 1892 a sua primeira matrícula na Faculdade de Medicina."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Estudou no liceu de Viseu, e ruma mais tarde para Coimbra, onde em 1886, aos 22 anos, ingressa nos Preparatórios de Medicina"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Examinado no liceu de Coimbra em 1889-90; matriculou-se então no 1.º ano de Medicina, tendo assentado praça na Marinha Real",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Em 1889-90, foi examinado no liceu de Coimbra e tendo feito uma prova admirável foi aprovado com boa classificação. Matriculou-se então no 1º ano de Medicina, tendo assentado praça na Marinha Real para obviar à falta de recursos, recebendo um subsídio do Estado."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra: Rua da Trindade, Largo da Feira, Rua dos Estudos, Rua Infante D. Augusto n.º 60, Largo do Observatório n.º 5 e Travessa de S. Pedro n.º 14",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Em Coimbra, viveu na Rua da Trindade, no Largo da Feira, na Rua dos Estudos, na Rua Infante D. Augusto, nº 60, no Largo do Observatório, nº 5, e na Travessa de S. Pedro, nº 14"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cantor de fados de Coimbra que se acompanhava à guitarra; compôs poesias e cantou poemas de João de Deus, Augusto Gil, Eugénio de Castro, Fausto Guedes Teixeira e outros",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Foi um boémio, mau estudante, mas reconhecido por toda a Academia e pelo país, como um grande cantor de fados de Coimbra, que se acompanhava a si próprio, à guitarra. Compôs poesias, que cantou, cantou temas de poetas como João de Deus (1830 - 1896), Augusto Gil (1863 - 1929), Eugénio de Castro (1869 - 1944), Fausto Guedes Teixeira (1871 - 1940) e muitos outros."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Ator amador e tocador de bandolim antes da fama; escreveu, ensaiou e co-representou a opereta «O carnaval em Celas» (teatrinho Garrett, Celas), estreada a 2 de março de 1889",
+      "data": "1889-03-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/02/uma-opereta-ensaiada-por-augusto.html",
+          "doc": "gc-v:1528935201226284216",
+          "citacao": "Notícia de uma opereta escrita, ensaiada e co-representada pelo ainda pouco conhecido estudante Augusto Hylario, no teatrinho Garrett, de Celas, com o título «O carnaval em Celas», cuja estreia teve lugar num sábado, dois de março de 1889."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/02/uma-opereta-ensaiada-por-augusto.html",
+          "doc": "gc-v:1528935201226284216",
+          "citacao": "Antes de ascender à categoria de estrela musical mediática, Augusto Hylario foi ator amador e tocador de bandolim."
+        }
+      ],
+      "conflito": false,
+      "nota": "Fonte citada no post: Diário Illustrado, n.º 5.717, de 8.03.1889."
+    },
+    {
+      "campo": "outro",
+      "valor": "Voz de barítono",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Barítono expressivo e de recorte ultra-romântico, abusando até ao limite dos vocalizos lamentosos e choramingões, Hilário foi basicamente um guitarrista de “sol-e-dó”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Bandolim; depois guitarra, cujos tons lhe ensinou Manuel Mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "O Hilário não sabia da guitarra mais do que os tons, em maior ou menor, que Manuel Mansilha lhe ensinara e nos quais compôs os seus fados."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "Até então tocava bandolim"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Na primeira metade da década de 1890 usou uma guitarra do Porto (com rosácea), que atirou ao público no Teatro D. Maria II em março de 1895",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/augusto-hylario-rara-fotografia-de.html",
+          "doc": "gc-i:115288545889808142",
+          "citacao": "O instrumento fotografado corresponde à guitarra utilizada por Hylario na 1ª metade da década de 1890, cordofone que levou para Lisboa e com o qual homenageou João de Deus nas cerimónias de Março de 1895, mas que não trouxe de volta para Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/augusto-hylario-rara-fotografia-de.html",
+          "doc": "gc-i:115288545889808142",
+          "citacao": "O cordofone exibido nesta foto de estúdio é basicamente uma Guitarra do Porto"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "(o cordofone que tinha na altura era uma guitarra do Porto)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Última guitarra: guitarrilha do tipo de Lisboa oferecida pelo Ateneu Comercial de Lisboa a 2 de junho de 1895, hoje no Museu Académico de Coimbra",
+      "data": "1895-06-02",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "O Ateneu Comercial de Lisboa a 2 de Junho de 1895, oferece-lhe aquela que foi a sua derradeira guitarra e que se encontra actualmente na posse do Museu Académico de Coimbra, por especial oferta da família."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações ao vivo em cilindros de cera Edison em Coimbra (Assembleia Recreativa, Praça Velha), em junho e outubro/novembro de 1894, incluindo o Fado Serenata",
+      "data": "1894",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "Em Coimbra, as sessões tiveram lugar na Assembleia Recreativa, situada na praça Velha, em junho e em outubro/novembro, com bilhetes de entrada pagos, exibição de registos pré-gravados nos USA e em Lisboa e realização de gravações em vivo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/o-fonografo-em-coimbra-ii-1894.html",
+          "doc": "gc-v:4161618351655602619",
+          "citacao": "Relatos de imprensa dos espetáculos de fonógrafo realizados em Coimbra nos meses de outubro/novembro de 1894 que exibiram audições de rolos pré-gravados e gravações ao vivo por Augusto Hylario"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/gravacoes-de-augusto-hylario.html",
+          "doc": "gc-v:3253592642186548233",
+          "citacao": "Referência à atuação de Augusto Hylario como animador e protagonista de gravações em cilindros de cera Edison como cantor e guitarrista."
+        }
+      ],
+      "conflito": true,
+      "nota": "Fontes citadas nos posts: O Defensor do Povo, n.º 197, 198 e 199 (junho de 1894) e n.º 235, 237 e 239 (outubro/novembro de 1894); O Conimbricense n.º 4.878, 16.06.1894."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessões de fonógrafo Edison entre 7 e 14 de julho de 1894 na Associação Recreativa da Praça do Comércio, com gravação ao vivo do Fado Serenata",
+      "data": "1894-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Entre 7 e 14 de Julho de 1894 abrilhantou sessões de fonógrafo Edison na Associação Recreativa da Praça do Comércio (Praça Velha) e gravou ao vivo, em cilindros de cera, o Fado Serenata e outras árias."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravação referida pela imprensa da época mas não confirmada; os cilindros, a terem existido, desapareceram",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "segundo a imprensa da época, terá gravado em 1894, em cilindros de cera Edison, não tendo sido possível confirmar esta gravação."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "Nada se sabe de concreto sobre este assunto, até porque, os cilindros a terem existido, desapareceram."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de março de 2014 cita O Defensor do Povo, de 14 de junho de 1894."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Existência dos cilindros confirmada por testemunhos: um deles esteve na coleção do Dr. Condorcet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html",
+          "doc": "gc-v:2911125403515478887",
+          "citacao": "eu próprio tive confirmação segura e irrefutável destes registos por intermédio das pesquisas realizadas pelo Dr. António José Soares na década de 1940 e pela voz do Dr. Condorcet, antigo estudante da UC e médico que chegara a ter na sua coleção particular um dos cilindros gravados por Hylario."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem nacional a João de Deus, Lisboa, 8 de março de 1895: atuação a solo no Teatro D. Maria II e nas ruas de Lisboa",
+      "data": "1895-03-08",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/atuacao-de-augusto-hylario-em-lisboa.html",
+          "doc": "gc-v:6430982705676367322",
+          "citacao": "Na homenagem nacional a João de Deus (8.03.1895), exibiu-se a solo no teatro D. Maria II e nas ruas de Lisboa perante os jornalistas, os convidados e os sócios das tunas de estudantes de Coimbra, Porto e Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Festa de homenagem a João de Deus, 9 e 10 de março de 1895, com êxito no Teatro D. Maria II",
+      "data": "1895-03",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "a grande festa de homenagem ao poeta João de Deus (1830 - 1896), em 9 e 10 Março de 1895, protagonizada pela Academia de Coimbra, e o êxito da actuação no teatro D. Maria II."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Consagrado no palco do Teatro D. Maria II na noite de 10 de março de 1895",
+      "data": "1895-03-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Na noite de 10 de Março de 1895 foi apoteoticamente consagrado no palco do Teatro D. Maria II, por ocasião da homenagem nacional a João de Deus Ramos."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "No sarau do Teatro D. Maria II atirou a guitarra para o meio do público",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/augusto-hylario-rara-fotografia-de.html",
+          "doc": "gc-i:115288545889808142",
+          "citacao": "No auge dos aplausos, durante o sarau no Teatro D. Maria, Hylario atirou a guitarra para meio do público."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Augusto Hilário atirou para o meio da multidão a sua guitarra, da qual nunca mais nada se soube."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Ateneu Comercial de Lisboa, 2 de junho de 1895: cantou «fadinhos e canções populares» e recebeu a sua última guitarra",
+      "data": "1895-06-02",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Por 2 de Junho de 1895 cantou “fadinhos e canções populares” no Ateneu de Lisboa, data em que lhe foi ofertada a derradeira guitarra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/atuacao-de-augusto-hylario-em-lisboa.html",
+          "doc": "gc-v:6430982705676367322",
+          "citacao": "Num sarau promovido pelo Ateneu Comercial de Lisboa em inícios de junho de 1895"
+        }
+      ],
+      "conflito": false,
+      "nota": "Fonte citada no post de 2016: Defensor do Povo, n.º 11, 6 de junho de 1895."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Casino Mondego, Figueira da Foz, inícios de agosto de 1895, acompanhado ao violão por Alberto Ponces de Carvalho",
+      "data": "1895-08",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "actuou no Casino Mondego da Figueira da Foz, acompanhado ao violão pelo viseense Dr. Alberto Ponces de Carvalho"
+        }
+      ],
+      "conflito": false,
+      "nota": "Correspondência de Coimbra, de 10/08/1895, citada no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espinho, festival promovido pelos bombeiros voluntários do Porto (crónica de 12 de setembro de 1895): cantou os seus fados",
+      "data": "1895-09",
+      "local": "Espinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/12/augusto-hylario-1864-1896-visto-e.html",
+          "doc": "gc-v:3597645616151627288",
+          "citacao": "O Hylario, cantou também os seus fados; e, se não tivesse cançado tanto os ouvidos do publico, melhor seria."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/12/augusto-hylario-1864-1896-visto-e.html",
+          "doc": "gc-v:3597645616151627288",
+          "citacao": "Espinho, 12 de setembro de 1895."
+        }
+      ],
+      "conflito": false,
+      "nota": "Fonte citada no post: Defensor do Povo, n.º 41, 19.09.1895."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Acompanhou a Tuna Académica ao Teatro Nabantino, em Tomar, a 21 e 22 de março de 1896",
+      "data": "1896-03-21",
+      "local": "Tomar",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Nos dias 21 e 22 de Março de 1896 acompanhou a Tuna ao Teatro Nabantino, em Tomar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições: «Às Estrelas», «Fado Serenata do Hylário», «O Último Fado» e «Fado Póstumo do Hylário»; o «Fado Hilário Moderno», que nunca cantou, resultou do «Fado Serenata» e do «Último Fado»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "Ficaram famosas as suas composições, \"Às Estrelas\", \"Fado Serenata do Hylário\", \" O Último Fado\", \"Fado Phostumo do Hylário\", e o \"Fado Hilário Moderno\", que este nunca cantou, resultando sim do \"Fado Serenata do Hylário\" e do \"Último Fado\""
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "(da autoria de Hylario conhecem-se apenas 3 ou 4 composições)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Como poeta escreveu dezenas de quadras: «Fado Hilário» (36 quadras), «Novos fados do Hilário», «Carteira de um Boémio» (manuscrito de paradeiro desconhecido)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Como poeta escreveu dezenas de quadras que se imortalizaram nos seus fados e das quais se destacam Fado Hilário (36 quadras); Novos fados do Hilário, recolha de um conjunto apreciável de quadras; Carteira de um Boémio, conjunto de versos manuscritos de que se ignora o seu paradeiro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Jornal «Hylário», fundado em Viseu, saiu a 12 de junho de 1896",
+      "data": "1896-06-12",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Em 12 de Junho de 1896, surge nas bancas o Hylário, com a figura do fadista ao centro da 1ª página e tendo a guitarra como ex-libris."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata evocativa em Viseu, 6 de maio de 1964",
+      "data": "1964-05-06",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-evocando-augusto-hilrio-na.html",
+          "doc": "gc-i:113772097406931429",
+          "citacao": "Serenata evocando Augusto Hilário, na sua terra natal, Viseu, em 6-5-1964"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata do 1.º Centenário do Nascimento, Pátio das Escolas (Coimbra), 4 de julho de 1964",
+      "data": "1964-07-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/1-centenrio-de-hylario-carto-convite-da.html",
+          "doc": "gc-i:6389717345067709454",
+          "citacao": "Cartão-convite da AAEC para a Serenata do 1º Centenário do Nascimento de Augusto Hylario, ralizada no Pátio das Escolas, em 04 de Julho de 1964."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem da Câmara Municipal de Viseu, 30 de junho de 1979: nome de rua e lápide na casa onde nasceu",
+      "data": "1979-06-30",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/augusto-hilrio.html",
+          "doc": "gc-i:2061838669390888829",
+          "citacao": "Em 30 de Junho de 1979, é a vez da Câmara Municipal de Viseu promover uma grande homenagem ao poeta a que se associou toda a população da cidade e academia Coimbrã, tendo sido atribuído o seu nome a uma rua da cidade e descerrada uma lápide na casa onde nasceu."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Selo comemorativo do centenário da morte (1996)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "Selo comemorativo dos 100 anos da sua morte em 1896."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "1.º Colóquio sobre Augusto Hilário, Viseu, julho de 2023 (atas publicadas em 2024)",
+      "data": "2023-07",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/10/coloquio-sobre-augusto-hylario-viseu.html",
+          "doc": "gc-v:3950526050776395654",
+          "citacao": "Augusto Hilário, 1.º Colóquio - Viseu, julho 2023, Viseu, edição da Junta de Freguesia de Viseu, [setembro] 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "manuel-mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/dr.html",
+          "doc": "gc-i:113827518392308132",
+          "citacao": "Coube a Mansilha a iniciação de Augusto Hylario na arte da guitarra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "Mais tarde é Manuel Mansilha (1875 – 1956)[5], outro grande guitarrista daquela época, quem lhe ensinará os primeiros acordes do cordofone."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Augusto Hilário frequentou os círculos de Manuel Mansilha, guitarrista que ensinou ao jovem viseense os rudimentos de dedilhação do cordofone."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+          "doc": "gc-v:8578484018831533897",
+          "citacao": "tendo sido responsável pela iniciação de Augusto Hylario."
+        }
+      ],
+      "nota": "Guitarra; período de 1890/1891 segundo António M. Nunes (2005)."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "jayme-de-abreu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/tera-jayme-de-abreu-gravado-discos-eis.html",
+          "doc": "gc-v:6088927314918066978",
+          "citacao": "Em Coimbra ainda chegou a acompanhar o debutante Augusto Hylario que lhe copiou tiques e estilo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "É pacífico que Jayme de Abreu pavimentou o caminho por onde andou Augusto Hylario."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/01/passam-110-anos-sobre-o-falecimento-de.html",
+          "doc": "gc-v:2062997018495573453",
+          "citacao": "tinha sido um dos paradigmas que servira de inspiração a Augusto Hylario"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/02/uma-opereta-ensaiada-por-augusto.html",
+          "doc": "gc-v:1528935201226284216",
+          "citacao": "processos de estetização vocal e comportamental que já estavam popularizados em Coimbra através de Manuel dos Santos Melo da Cruz (cantor e guitarrista) e de Jayme Augusto de Abreu (cantor e guitarrista)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "manuel-dos-santos-melo-da-cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/02/uma-opereta-ensaiada-por-augusto.html",
+          "doc": "gc-v:1528935201226284216",
+          "citacao": "soube aproveitar e sintetizar na sua pessoa processos de estetização vocal e comportamental que já estavam popularizados em Coimbra através de Manuel dos Santos Melo da Cruz (cantor e guitarrista)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "uma percentagem expressiva do que os serenateiros académicos cantaram e tocaram entre 1889-1895 era o que na geração precedente tocavam e cantavam Jayme de Abreu (FD/UC, de Fornos de Algodres) e Manuel dos Santos Melo da Cruz (FD/UC, de Alijó)."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-da-costa-alves",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "só vem a ser perfilhado pelos pais, António da Costa Alves e Ana de Jesus da Mouta, a 8 de Julho de 1883"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "Os seus pais de fracas posses, não eram casados e tinham um botequim na Rua Nova (depois Rua Augusto Hilário), junto do qual viviam."
+        }
+      ],
+      "nota": "Perfilhado pelos pais a 8 de julho de 1883; os pais não eram casados."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "ana-de-jesus-da-mouta",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
+          "doc": "gc-v:9072570798417096611",
+          "citacao": "só vem a ser perfilhado pelos pais, António da Costa Alves e Ana de Jesus da Mouta, a 8 de Julho de 1883"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "Os seus pais de fracas posses, não eram casados e tinham um botequim na Rua Nova (depois Rua Augusto Hilário), junto do qual viviam."
+        }
+      ],
+      "nota": "Perfilhado pelos pais a 8 de julho de 1883; os pais não eram casados."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlq8AtATNFAxFab1pphrM01GGmwgwGAwzO-nRliJWvAA_J0nSPfWtxwWgPQZITW0z5GYHMO7Ph6BOPIJTBEvo66MQ1ueNmzTFSEAZ6NBD3GLLWkRortx02Z9TOOEmwHtD4mBERkpeom8/s1600/AutorizacaoSS.jpg",
+      "legenda": "Retrato de corpo inteiro, sentado em cenário de estúdio, com a guitarra oferecida pelos sócios do Ateneu Comercial de Lisboa (carte visite de Francisco dos Santos Lima, Lisboa)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/04/um-retrato-de-augusto-hylario-retrato.html",
+          "doc": "gc-v:4012707318362827481",
+          "citacao": "Retrato de corpo inteiro, sentado em cenário de estúdio, com a guitarra oferecida pelos sócios do Ateneu Comercial de Lisboa, na sequência de deslocação a Lisboa, em 2 de junho de 1895."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/04/um-retrato-de-augusto-hylario-retrato.html",
+          "doc": "gc-v:4012707318362827481",
+          "citacao": "Fotografia de tipo carte visite, prova original tirada por Francisco dos Santos Lima, na Photographia Universal, Atelier Solas, à Praça dos Restauradores, nº 38. AH traja capa e batina com botins de couro preto."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Augusto%20Hylario.jpg",
+      "legenda": "Rara fotografia de corpo inteiro «à futrica», com guitarra do Porto (entre a primavera de 1894 e março de 1895)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/augusto-hylario-rara-fotografia-de.html",
+          "doc": "gc-i:115288545889808142",
+          "citacao": "Rara fotografia de corpo inteiro de Augusto Hylario da Costa Alves (1864-1896), \"à futrica\", isto é, vestido com trajo masculino civil corrente."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicD9sfyEcQVNToEuE_EZVnT2ik5u-6KehHNITwLowql_vvxwc-AuuQWzCt7L05b_P199BctHtpEQt0L14fgwtYh9z3rREDiT8uNtBsugGDdnKy11oTHuU-oefBz6N-e2tVTpaTDybre6jd/s1600/HilarioPintura.jpg",
+      "legenda": "Quadro do pintor viseense Almeida e Silva, de 1896",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html",
+          "doc": "gc-v:7887596916362859763",
+          "citacao": "A fotografia de Augusto Hilário, que se apresenta no início do texto, é relativa a um quadro bastante conhecido, da autoria do pintor viseense Almeida e Silva, no ano da morte de Hilário."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_YVZiUndeYnhc-QJNJF5itZ7VMdg9lr5mO1vFTrdqfFKA3i0G2T7ZSHcRfVts67LP7D2fySG48Thp2TmwnUzD0gHcG3-RhVvKTUNGZkeCiGM3b6LVqomxm5clluFhBT0SINGLYxg1SfB_/s1600/AHikarioFotoCampa.jpg",
+      "legenda": "Fotografia que se encontra na sua campa, no cemitério antigo de Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "A fotografia apresentada é a que se encontra na sua campa, no cemitério antigo de Viseu, já referido."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgHqDCd8hNWLDrdrFS2Mg5v8Wac2TUMdsjDYDZSLs-o-TyeaOugsnlxbKiKgNh9G07pij1cumF46XDEGt0_pk4b6ZbWDn0vd7e5OZP0srww4FtjzJwWVpkKw_f2LL3Av6lhz6_lpUN3MOX/s1600/Hilario-Selo-Centenario.jpg",
+      "legenda": "Selo comemorativo dos 100 anos da morte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/augusto-hilario.html",
+          "doc": "gc-v:1446147760714285787",
+          "citacao": "Selo comemorativo dos 100 anos da sua morte em 1896."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Resenha biográfica (Manuel Marques Inácio, 2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html"
+    },
+    {
+      "rotulo": "Augusto Hilário, 117 anos da morte (2013)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html"
+    },
+    {
+      "rotulo": "Augusto Hilário, 118 anos da morte (2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/augusto-hilario.html"
+    },
+    {
+      "rotulo": "O mito fundador da Canção de Coimbra (António M. Nunes)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html"
+    },
+    {
+      "rotulo": "Espetáculos de fonógrafo em Coimbra (1894)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/10/fonografo.html"
+    },
+    {
+      "rotulo": "Os fados de Augusto Hylario (Galáxia Sonora Coimbrã)",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html"
+    },
+    {
+      "rotulo": "Repertório conimbricense dos anos de Hylario (Galáxia Sonora Coimbrã)",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

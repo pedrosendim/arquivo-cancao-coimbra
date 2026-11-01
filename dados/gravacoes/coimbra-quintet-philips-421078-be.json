@@ -1,0 +1,173 @@
+{
+  "id": "coimbra-quintet-philips-421078-be",
+  "titulo": "Guitares et Fados à Coimbra",
+  "formato": "EP",
+  "editora": "Philips",
+  "referencia": "421.078 BE",
+  "ano": "",
+  "local": "França",
+  "interpretes": [
+    {
+      "pessoa": "coimbra-quintet",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "violão"
+    },
+    {
+      "pessoa": "levi-baptista",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Toada Beirã",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-421078-be-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Estudante",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-421078-be-2-youtube"]
+    },
+    {
+      "n": 3,
+      "titulo": "Serra d'Arga",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-421078-be-3-youtube"]
+    },
+    {
+      "n": 4,
+      "titulo": "Fado Triste",
+      "obra": "",
+      "media": ["ouvir-coimbra-quintet-philips-421078-be-4-youtube"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/fF4CM4Y7M6D_ru2McZEmrOQIJRwOF1Vr8KT8SCLcw8M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA2/NTY4LTE1ODY3Njc2/MTItNjk5Mi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/15106568",
+        "doc": "discogs:w739e7acf93e7438c",
+        "citacao": "Imagem (primary): https://i.discogs.com/fF4CM4Y7M6D_ru2McZEmrOQIJRwOF1Vr8KT8SCLcw8M/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA2/NTY4LTE1ODY3Njc2/MTItNjk5Mi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/15106568",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, EP, 45 RPM, 7\"",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15106568",
+          "doc": "discogs:w739e7acf93e7438c",
+          "citacao": "Formato: 1 × Vinyl, EP, 45 RPM, 7\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): France",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15106568",
+          "doc": "discogs:w739e7acf93e7438c",
+          "citacao": "País: France"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1955 (Discogs)",
+      "data": "1955",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15106568",
+          "doc": "discogs:w739e7acf93e7438c",
+          "citacao": "Data: 1955"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue situa as gravações em Madrid, março de 1957, e diz que a designação «Coimbra Quintet» só foi criada nessa altura."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano (blogue): as gravações do Coimbra Quintet tiveram lugar em Madrid, em março de 1957, e a designação «Coimbra Quintet» só foi criada nesse mês pela Philips",
+      "data": "1957-03",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "registos fonográficos tiveram lugar em Madrid, no teatro Príncipe Real, nos inícios de março de 1957."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "A designação \"Coimbra Quintet\" não existia de todo e só foi cozinhada em março de 1957 pelo departamento de marketing da Philips"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs data esta edição francesa de 1955."
+    },
+    {
+      "campo": "outro",
+      "valor": "Texto de contracapa de Manuel Lousã Henriques (Discogs); o blogue refere o texto do estudante de Medicina Manuel Louzã Henriques na contracapa do LP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15106568",
+          "doc": "discogs:w739e7acf93e7438c",
+          "citacao": "Liner Notes – Manuel Lousã Henriques"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Texto do estudante de Medicina Manuel Louzã Henriques na contracapa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/15106568",
+      "doc": "discogs:w739e7acf93e7438c",
+      "citacao": "Editora: Philips – 421.078 BE"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "aurelio-dos-reis",
+  "tipo": "pessoa",
+  "nome": "Aurélio dos Reis",
+  "nomes_alternativos": [
+    "Aurélio Afonso dos Reis",
+    "Aurélio Reis"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Aurélio Afonso dos Reis (1919-2014), médico militar, antigo estudante da FM/UC, colaborador da maioria das formações musicais da década de 1940, executante de violão de cordas de aço"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "nota": "violão de cordas de aço"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/jose-afonso-o-sol-anda-la-no-ceu.html",
+          "doc": "gc-v:4113461501992610287",
+          "citacao": "Aurélio dos Reis/Mário Castro (violões de cordas de aço)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv)"
+        }
+      ],
+      "nota": "Viola nas gravações Melodia de 1952-1953."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Aurelio%20Reis.jpg",
+      "legenda": "Aurélio Reis a tocar viola com o Grupo de Fados e Guitarradas dos Antigos Tunos na Palheira, Assafarge (2005).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/grupo-de-fados-e-guitarrad_112593136373641833.html",
+          "doc": "gc-i:112593136373641833",
+          "citacao": "Grupo de Fados e Guitarradas dos Antigos Tunos na Palheira, Assafarge, ontem. Aurélio Reis a tocar viola."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

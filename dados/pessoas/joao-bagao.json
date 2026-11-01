@@ -1,0 +1,60 @@
+{
+  "id": "joao-bagao",
+  "tipo": "pessoa",
+  "nome": "João Bagão",
+  "nomes_alternativos": [
+    "João Carlos Bagão"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "João Carlos Bagão",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Arranjos e solos de guitarra de Coimbra no LP Canções do Mar e da Vida (Luiz Goes, 1969)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+          "doc": "gc-v:7363514650320825950",
+          "citacao": "Canta Luiz Goes barítono, acompanhado por João Bagão (arranjos e solos de gC), Aires de Aguillar (2ª gC), António Toscano/Fernando Neto (vv) e João Gomes (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1024/Joao%20Bagao.jpg",
+      "legenda": "João Bagão: primeira imagem do post com o seu nome, reproduzida do livro «O Fado e as Toiradas em Portugal», de A. Martins Rodrigues (Publitur, c. 1970); o post não tem outra legenda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/joo-bago.html",
+          "doc": "gc-i:114851035369010322",
+          "citacao": "João Bagão ... Do livro \"O Fado e as Toiradas em Portugal\", de A. Martins Rodrigues"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

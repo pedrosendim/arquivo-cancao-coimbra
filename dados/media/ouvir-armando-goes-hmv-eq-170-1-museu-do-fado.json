@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-armando-goes-hmv-eq-170-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0436_31.mp3",
+  "titulo": "Fado da Vida — Armando Goes",
+  "data": "",
+  "pessoas": [
+    "armando-goes"
+  ],
+  "obras": [],
+  "gravacao": "armando-goes-hmv-eq-170",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0869.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/856/armando_goes_fado_da_vida",
+      "doc": "museu-do-fado:w6603830f46c2839a",
+      "citacao": "Título: Fado da Vida ... Editora: HMV EQ170, Vi.33003 Referências: BJ79-I∆, R, 1, 7-62223; EQ 170"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,237 @@
+{
+  "id": "cordas-do-mondego-seccao-de-fado-1999",
+  "titulo": "Cordas do Mondego",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "",
+  "ano": "1999",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "seccao-de-fado-da-aac",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "bruno-costa",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "nuno-dias",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "miguel-drago",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "luis-barroso",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "ana-sadio",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-gomes",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em Ré maior",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Passatempo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Marcha em Fá",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Si menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Variações em Sol maior",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Fantasia",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Variações em Lá menor n.º1",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Bailados do Minho de Anthero da Veiga",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Variações em Lá menor n.º3",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Dança",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Variações em Ré menor n.º2",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Balada de Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Morena",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/z_MqYDqRdeB0eNMK5G8_MiUUPMvB4Bl8DKyslW0JYWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/ODg5LTE1NzEwOTE2/NjgtODM1Ny5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13155889",
+        "doc": "discogs:we4fd4caeb15a7bcd",
+        "citacao": "Imagem (primary): https://i.discogs.com/z_MqYDqRdeB0eNMK5G8_MiUUPMvB4Bl8DKyslW0JYWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/ODg5LTE1NzEwOTE2/NjgtODM1Ny5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13155889",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155889",
+          "doc": "discogs:we4fd4caeb15a7bcd",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1999 (Discogs)",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155889",
+          "doc": "discogs:we4fd4caeb15a7bcd",
+          "citacao": "Data: 1999"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "13 peças instrumentais do repertório de Artur Paredes; guitarras de Bruno Costa, Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes e Luís Oliveira; violas de João Brito, António Paulino, João Pedro Martins, André Moutinho e António Prisca",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Recupera 13 peças instrumentais do repertório Artur Paredes. Guitarras por Bruno Costa, Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes, Luís Oliveira. Violas a cargo de João Brito, António Paulino, João Pedro Martins, André Moutinho e António Prisca."
+        }
+      ],
+      "conflito": false,
+      "nota": "Luís Oliveira e os violas não foram ligados a fichas (sem ficha ou identificação por confirmar)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Notas do Discogs: «Música de Artur Paredes»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155889",
+          "doc": "discogs:we4fd4caeb15a7bcd",
+          "citacao": "Música de Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "a faixa 2 do disco da Secção de 1999 é considerada «altamente meritória» (nota sobre a discografia de Artur Paredes)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "[9] Ed. Secção de Fado da AAC, 1999, faixa 2. Esta versão pode considerar-se altamente meritória."
+        }
+      ],
+      "conflito": false,
+      "nota": "A nota não nomeia o disco; Cordas do Mondego é a edição da Secção de 1999 com repertório de Artur Paredes — correspondência a confirmar."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13155889",
+      "doc": "discogs:we4fd4caeb15a7bcd",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – none"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13155889",
+      "doc": "discogs:we4fd4caeb15a7bcd",
+      "citacao": "Formato: 1 × CD, Album"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13155889",
+      "doc": "discogs:we4fd4caeb15a7bcd",
+      "citacao": "Faixas: 1 ... 13"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Cordas do Mondego, Coimbra, Secção de Fado da AAC, 1999. Recupera 13 peças instrumentais do repertório Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

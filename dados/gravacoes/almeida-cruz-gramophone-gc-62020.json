@@ -1,0 +1,80 @@
+{
+  "id": "almeida-cruz-gramophone-gc-62020",
+  "titulo": "Fado das Saudades",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "GC 62020",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado das Saudades",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-gramophone-gc-62020-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Saudades», por Almeida Cruz — etiqueta: «Fado das Saudades / cantado pelo / Sr. Almeida Cruz / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/594/almeida_cruz_fado_das_saudades",
+          "doc": "museu-do-fado:wfb720e43774df27b",
+          "citacao": "Título: Fado das Saudades ... Editora: Gra. GC62020 Referências: Disque Pour Gramophone 8251f, 62020II; G.C. 62020 ... Etiqueta: Fado das Saudades / cantado pelo / Sr. Almeida Cruz / Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado das Saudades, Gramophone GC62047, 8197F, guitarra e violão não identificados»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado das Saudades, Gramophone GC62047, 8197F, guitarra e violão não identificados"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue dá o n.º GC62047 e 8197F para o Fado das Saudades; no Museu do Fado, GC62047 / 8197f é o «Maxixe Capital Federal». O registo do Museu do Fado indica «Editora: Gra. GC62020» e «Referências: Disque Pour Gramophone 8251f, 62020II; G.C. 62020»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/594/almeida_cruz_fado_das_saudades",
+      "doc": "museu-do-fado:wfb720e43774df27b",
+      "citacao": "Título: Fado das Saudades ... Editora: Gra. GC62020 Referências: Disque Pour Gramophone 8251f, 62020II; G.C. 62020"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado das Saudades, Gramophone GC62047, 8197F, guitarra e violão não identificados"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

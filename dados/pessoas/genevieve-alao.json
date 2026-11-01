@@ -1,0 +1,27 @@
+{
+  "id": "genevieve-alao",
+  "tipo": "pessoa",
+  "nome": "Geneviève Alão",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-tristao-eiras-de-bessa-alao",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/jos-alo-m-2006-imagens.html",
+          "doc": "gc-i:115997157637433993",
+          "citacao": "Sua Mulher, Geneviève Alão, enviou-me agora algumas fotografias, antigas e recentes."
+        }
+      ],
+      "nota": "Post sobre José Alão (m. 2006)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

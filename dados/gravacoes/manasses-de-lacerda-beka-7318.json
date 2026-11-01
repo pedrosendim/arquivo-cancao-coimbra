@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-beka-7318",
+  "titulo": "Fado Corrido",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7318",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Corrido",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-beka-7318-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Corrido», por Manassés de Lacerda — etiqueta: «Fado Corrido / Fado  / Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/919/manasses_de_lacerda_fado_corrido",
+          "doc": "museu-do-fado:wd30e6953ae9f7634",
+          "citacao": "Título: Fado Corrido ... Editora: Beka 7318 Referências: Disco “Beka” Grande, 7318, 7 ∆; 7318 ... Etiqueta: Fado Corrido / Fado  / Manassés de Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/919/manasses_de_lacerda_fado_corrido",
+      "doc": "museu-do-fado:wd30e6953ae9f7634",
+      "citacao": "Título: Fado Corrido ... Editora: Beka 7318 Referências: Disco “Beka” Grande, 7318, 7 ∆; 7318"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

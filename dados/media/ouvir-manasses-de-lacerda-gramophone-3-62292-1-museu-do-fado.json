@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-gramophone-3-62292-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0472_25.mp3",
+  "titulo": "Fado das Lágrimas — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-3-62292",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0941.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/928/manasses_de_lacerda_fado_das_lagrimas",
+      "doc": "museu-do-fado:w9325bd98af34b85c",
+      "citacao": "Título: Fado das Lágrimas ... Editora: Gra.3-62292,62385 Referências: Disque Pour Gramophone 8790o, 3-62292; G.C. 3-62292"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

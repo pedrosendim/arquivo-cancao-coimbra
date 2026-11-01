@@ -1,0 +1,65 @@
+// /api/gravar: o que se altera no modo de edição vai para o repositório como proposta (pull request).
+// A proposta de um contribuidor espera por um editor; a de um editor ou do dono é aprovada logo.
+// Em ambos os casos o GitHub corre o validar.py e a Cloudflare só publica se a validação passar.
+import { APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, mesmaOrigem, repositorio, textoJson } from '../../online/comum.js';
+
+export async function onRequestPost({ request, env }) {
+  if (!mesmaOrigem(request)) return json({ erro: 'pedido recusado: só o próprio site pode gravar' }, 403);
+  const { s, c, erro } = await exigirContribuidor(request, env);
+  if (erro) return erro;
+  const pedido = await request.json().catch(() => null);
+  const alteracoes = pedido?.alteracoes || [];
+  if (!alteracoes.length || alteracoes.length > 20) return json({ erro: 'nada para gravar' }, 400);
+
+  for (const a of alteracoes) {
+    if (!RE_EDITAVEL.test(String(a.caminho))) return json({ erro: `ficheiro não editável: ${a.caminho}` }, 400);
+    if (a.caminho === 'dados/contribuidores.json' && c.papel !== 'dono') return json({ erro: 'só o dono do arquivo gere os contribuidores' }, 403);
+    if (a.conteudo === null) { // só se apagam textos do blogue e fichas criadas no modo de edição, ainda sem factos
+      const atual = a.caminho.startsWith('dados/pessoas/') ? await lerFicheiro(env, a.caminho) : null;
+      if (!a.caminho.startsWith('dados/blogue/') && !(atual?.editorial && !atual.factos?.length && !atual.biografia?.length)) {
+        return json({ erro: 'só se apagam textos do blogue e fichas criadas no modo de edição, sem factos' }, 400);
+      }
+    } else if (typeof a.conteudo !== 'object' || Array.isArray(a.conteudo)) return json({ erro: 'conteúdo inválido' }, 400);
+  }
+
+  const R = repositorio(env);
+  const resumo = String(pedido.resumo || 'Alteração no modo de edição').slice(0, 120);
+  const base = await gh(env, `/repos/${R}/git/ref/heads/main`);
+  const commitBase = await gh(env, `/repos/${R}/git/commits/${base.object.sha}`);
+  const arvore = await gh(env, `/repos/${R}/git/trees`, {
+    method: 'POST',
+    body: JSON.stringify({
+      base_tree: commitBase.tree.sha,
+      tree: alteracoes.map((a) => (a.conteudo === null
+        ? { path: a.caminho, mode: '100644', type: 'blob', sha: null }
+        : { path: a.caminho, mode: '100644', type: 'blob', content: textoJson(a.conteudo) })),
+    }),
+  });
+  const commit = await gh(env, `/repos/${R}/git/commits`, {
+    method: 'POST',
+    body: JSON.stringify({
+      message: `${resumo}\n\nProposta de ${c.nome} (@${s.login}) no modo de edição do site.`,
+      tree: arvore.sha, parents: [base.object.sha],
+      author: { name: c.nome, email: `${s.id}+${s.login}@users.noreply.github.com` },
+    }),
+  });
+  const ramo = `proposta/${s.login.toLowerCase()}/${Date.now()}`;
+  await gh(env, `/repos/${R}/git/refs`, { method: 'POST', body: JSON.stringify({ ref: `refs/heads/${ramo}`, sha: commit.sha }) });
+  const pr = await gh(env, `/repos/${R}/pulls`, {
+    method: 'POST',
+    body: JSON.stringify({
+      title: resumo, head: ramo, base: 'main',
+      body: `Proposta de **${c.nome}** (@${s.login}), feita no modo de edição do site.\n\n`
+        + alteracoes.map((a) => `- ${a.conteudo === null ? 'apaga' : 'altera'} \`${a.caminho}\``).join('\n'),
+    }),
+  });
+
+  if (!APROVAM.includes(c.papel)) return json({ ok: true, publicado: false, proposta: pr.html_url, numero: pr.number });
+  try {
+    await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, { method: 'PUT', body: JSON.stringify({ merge_method: 'squash' }) });
+    await gh(env, `/repos/${R}/git/refs/heads/${ramo}`, { method: 'DELETE' }).catch(() => null);
+    return json({ ok: true, publicado: true, proposta: pr.html_url, numero: pr.number });
+  } catch (e) { // por exemplo, outra alteração à mesma ficha entretanto: fica como proposta
+    return json({ ok: true, publicado: false, proposta: pr.html_url, numero: pr.number, aviso: e.message });
+  }
+}

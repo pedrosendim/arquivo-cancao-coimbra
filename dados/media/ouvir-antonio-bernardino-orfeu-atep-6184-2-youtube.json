@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-antonio-bernardino-orfeu-atep-6184-2-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=XK1hzKhIth8",
+  "titulo": "Samaritana — António Bernardino",
+  "data": "",
+  "pessoas": [
+    "antonio-bernardino",
+    "antonio-brojo",
+    "antonio-portugal"
+  ],
+  "obras": [],
+  "gravacao": "antonio-bernardino-orfeu-atep-6184",
+  "fontes": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/antonio-bernardino-em-samaritana.html",
+      "doc": "gc-iv:5796501058668602629",
+      "citacao": "António Bernardino em \"Samaritana\". companhado por Luís Filipe (v), António Brojo (g), António Portugal (g) e Aurélio Reis (v)."
+    }
+  ],
+  "nota": "O acompanhamento indicado no post (Luís Filipe, António Brojo, António Portugal, Aurélio Reis) é diferente do registado nesta ficha para o EP Orfeu ATEP 6184: mesmo cantor, outra interpretação.",
+  "estado_revisao": "rascunho"
+}

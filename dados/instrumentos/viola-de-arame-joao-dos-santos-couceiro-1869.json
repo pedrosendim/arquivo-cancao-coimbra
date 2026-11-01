@@ -1,0 +1,58 @@
+{
+  "id": "viola-de-arame-joao-dos-santos-couceiro-1869",
+  "designacao": "Viola de arame (toeira) de João dos Santos Couceiro, apresentada na exposição industrial de Coimbra de 1869",
+  "tipo": "viola toeira",
+  "construtor": "joao-dos-santos-couceiro",
+  "ano": "1869",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Exposta em 1869 na exposição industrial de Coimbra; quatro qualidades de madeira (plátano, faia, nogueira e buxo)",
+      "data": "1869",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "participou na exposição industrial de Coimbra de 1869 com uma viola francesa de seis ordens e uma viola de arame [toeira]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "e na segunda quatro qualidades de madeiras (plátano, faia, nogueira e buxo)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de prata na exposição distrital de Coimbra de 1869 (pela viola portuguesa e pela francesa)",
+      "data": "1869",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "tendo sido premiado com a medalha de prata na exposição districtal de Coimbra, em 1869, por uma viola portugueza e outra franceza"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, 22.04.1905, transcrito no post."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "uma viola de arame [toeira], instrumentos muito aprimorados"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

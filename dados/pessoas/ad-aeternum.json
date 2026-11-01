@@ -1,0 +1,39 @@
+{
+  "id": "ad-aeternum",
+  "tipo": "grupo",
+  "nome": "Ad Aeternum",
+  "nomes_alternativos": [
+    "grupo de fado Ad Aeternum"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Em 2013 ingressa no curso de Medicina da Universidade de Coimbra.\nDurante o curso integrou o grupo de fado Ad Aeternum da Secção de Fado da AAC\ncomo viola de acompanhamento, tendo participado em vários concertos por todo o\npaís."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "grupo de fado da Secção de Fado da AAC; Tiago José Rodrigues integrou-o como viola durante o curso de Medicina (iniciado em 2013), com concertos por todo o país",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2013 ingressa no curso de Medicina da Universidade de Coimbra.\nDurante o curso integrou o grupo de fado Ad Aeternum da Secção de Fado da AAC\ncomo viola de acompanhamento, tendo participado em vários concertos por todo o\npaís."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

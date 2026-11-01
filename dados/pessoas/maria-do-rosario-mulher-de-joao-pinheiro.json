@@ -1,0 +1,27 @@
+{
+  "id": "maria-do-rosario-mulher-de-joao-pinheiro",
+  "tipo": "pessoa",
+  "nome": "Maria do Rosário",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "joao-pinheiro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/comemorao-dos-125-anos-do-_116224801673124987.html",
+          "doc": "gc-i:116224801673124987",
+          "citacao": "João Pinheiro com Maria do Rosário, sua esposa."
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. Legenda de fotografia (125 anos do Orfeon Académico); a identificação de João Pinheiro com a ficha joao-pinheiro faz-se pelo nome."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

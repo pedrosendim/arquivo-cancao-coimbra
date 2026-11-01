@@ -1,0 +1,88 @@
+{
+  "id": "manasses-de-lacerda-gramophone-262147",
+  "titulo": "Maria Paula",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "262147",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Maria Paula",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-262147-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Maria Paula», por Manassés de Lacerda — etiqueta: «Maria Paula  / canção popular / canatada pelo tenor Lacerda e coros, Lisboa.»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/927/manasses_de_lacerda_maria_paula",
+          "doc": "museu-do-fado:w466ed28fc6bd8ba2",
+          "citacao": "Título: Maria Paula ... Editora: Gra.262147  Referências: Disque Pour Gramophone 17643u, 262147_; 262147 ... Etiqueta: Maria Paula  / canção popular / canatada pelo tenor Lacerda e coros, Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Arquivo Sonoro do Museu do Fado atribui o registo a Manassés de Lacerda; a etiqueta diz «tenor Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/927/manasses_de_lacerda_maria_paula",
+          "doc": "museu-do-fado:w466ed28fc6bd8ba2",
+          "citacao": "Intérprete: Manassés de Lacerda ... Etiqueta: Maria Paula  / canção popular / canatada pelo tenor Lacerda e coros, Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, os discos do «tenor Lacerda» com repertório de Manassés (sobretudo de 1913) são de outro cantor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Na época, e principalmente em 1913, foram colocados no mercado discos gravados por um \"tenor Lacerda\", com repertório Manassés. Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/927/manasses_de_lacerda_maria_paula",
+      "doc": "museu-do-fado:w466ed28fc6bd8ba2",
+      "citacao": "Título: Maria Paula ... Editora: Gra.262147  Referências: Disque Pour Gramophone 17643u, 262147_; 262147"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

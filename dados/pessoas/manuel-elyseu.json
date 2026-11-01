@@ -1,0 +1,83 @@
+{
+  "id": "manuel-elyseu",
+  "tipo": "pessoa",
+  "nome": "Manuel Elyseu",
+  "nomes_alternativos": [
+    "Manuel Eliseu",
+    "Maestro Manuel Elyseu"
+  ],
+  "papeis": [
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Maestro (dirigiu a orquestra da FNAT); compositor",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "orquestra da FNAT, dirigida pelo maestro Manuel Elyseu, filho de José Elyseu"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Manuel Eliseu (compositor, filho de José Elyseu)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Um sobrinho, José Elyseu, cedeu os seus documentos em 2003",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/msica-tradicional-de-coimbra-temas-da.html",
+          "doc": "gc-i:113179243540256654",
+          "citacao": "documentos de Manuel Elyseu, cedidos por seu sobrinho José Elyseu (Julho de 2003)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não diz quem são os pais deste sobrinho; não se criou ficha própria."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "teve 6 filhos dos quais apenas um rapaz, Manuel Eliseu."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Manuel Eliseu (compositor, filho de José Elyseu)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "maestro Manuel Elyseu, filho de José Elyseu, autor da célebre Balada de Coimbra"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

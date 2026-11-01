@@ -1,0 +1,35 @@
+{
+  "id": "daniel-lopes",
+  "tipo": "pessoa",
+  "nome": "Daniel Lopes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "inquietacao",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "Fundado em 2022, o conjunto Inquietação é composto por Guilherme Miranda e Daniel Lopes, na Guitarra de Coimbra, Eduardo Neves, na Viola de acompanhamento, e Diogo Pinto, o cantor. Com a homenagem a Edmundo de Bettencourt, o grupo “representa a sua geração e a componente identitária da Canção de Coimbra”, como dá a conhecer a nota de imprensa emitida pela SF/AAC."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "Entre os sete temas que o coletivo vai interpretar, Daniel Lopes refere os originais de Marco Matos e Henrique Fraga, “Pequeno Nada” e “Ao Fundo do Túnel”, como homenagem aos ex-seccionistas."
+        }
+      ],
+      "nota": "guitarra de Coimbra; 2023"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

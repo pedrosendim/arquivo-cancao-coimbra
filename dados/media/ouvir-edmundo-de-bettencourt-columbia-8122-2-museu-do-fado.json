@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8122-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0154_25.mp3",
+  "titulo": "Fado do Anto — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8122",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0307.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/302/edmundo_bettencourt_fado_do_anto",
+      "doc": "museu-do-fado:wa944e90be68cfd02",
+      "citacao": "Título: Fado do Anto ... Editora: Co. 8122"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

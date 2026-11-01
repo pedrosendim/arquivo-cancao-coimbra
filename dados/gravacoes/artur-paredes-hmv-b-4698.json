@@ -1,0 +1,96 @@
+{
+  "id": "artur-paredes-hmv-b-4698",
+  "titulo": "Fado Hilário / Variações em si menor",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "B 4698",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": ""
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "acompanhamento (guitarra e viola)"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "acompanhamento (guitarra e viola)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": [
+        "ouvir-artur-paredes-hmv-b-4698-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em si menor",
+      "obra": "",
+      "media": [
+        "ouvir-artur-paredes-hmv-b-4698-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Hilário», por Artur Paredes — etiqueta: «Fado Hilario  / Arthur Paredes / Guitarra e Viola por A de Souza e G. Barbosa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1355/artur_paredes_fado_hilario",
+          "doc": "museu-do-fado:w91483f111c3ea92f",
+          "citacao": "Título: Fado Hilário ... Editora: HMV B4698, EQ37,MH34 Referências: BJ766-II∆, R, 1, 7-69263; B 4698 ... Etiqueta: Fado Hilario  / Arthur Paredes / Guitarra e Viola por A de Souza e G. Barbosa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Variações em si menor», por Artur Paredes — etiqueta: «Variações em si menor / (Paredes) / Arthur Paredes / Guitarra e Viola por A. de Souza e G. Barbosa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1356/artur_paredes_variacoes_em_si_menor",
+          "doc": "museu-do-fado:w0bca5eb438806202",
+          "citacao": "Título: Variações em si menor ... Editora: HMV B4698, EQ37,MH34 Referências: BJ768-I∆, G, 1, 7-69264; B 4698 ... Etiqueta: Variações em si menor / (Paredes) / Arthur Paredes / Guitarra e Viola por A. de Souza e G. Barbosa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1355/artur_paredes_fado_hilario",
+      "doc": "museu-do-fado:w91483f111c3ea92f",
+      "citacao": "Título: Fado Hilário ... Editora: HMV B4698, EQ37,MH34 Referências: BJ766-II∆, R, 1, 7-69263; B 4698"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1356/artur_paredes_variacoes_em_si_menor",
+      "doc": "museu-do-fado:w0bca5eb438806202",
+      "citacao": "Título: Variações em si menor ... Editora: HMV B4698, EQ37,MH34 Referências: BJ768-I∆, G, 1, 7-69264; B 4698"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

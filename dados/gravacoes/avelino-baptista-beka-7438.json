@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-beka-7438",
+  "titulo": "Serenata de Coimbra",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7438",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Serenata de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-7438-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Serenata de Coimbra», por Avelino Baptista — etiqueta: «Serenata de Coimbra / Serenata / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/203/avelino_baptista_serenata_de_coimbra",
+          "doc": "museu-do-fado:w2ca56934e83dd85c",
+          "citacao": "Título: Serenata de Coimbra ... Editora: Beka 7438 Referências: Disco “Beka” Grande, 479; 7438 ... Etiqueta: Serenata de Coimbra / Serenata / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/203/avelino_baptista_serenata_de_coimbra",
+      "doc": "museu-do-fado:w2ca56934e83dd85c",
+      "citacao": "Título: Serenata de Coimbra ... Editora: Beka 7438 Referências: Disco “Beka” Grande, 479; 7438"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

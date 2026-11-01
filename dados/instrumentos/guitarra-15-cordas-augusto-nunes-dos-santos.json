@@ -1,0 +1,65 @@
+{
+  "id": "guitarra-15-cordas-augusto-nunes-dos-santos",
+  "designacao": "Cítara (guitarra) de 15 cordas do tipo conimbricense primitivo, da oficina de Augusto Nunes dos Santos (coleção Pedro Caldeira Cabral)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "augusto-nunes-dos-santos",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "pedro-caldeira-cabral",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Posteriormente, tendo conseguido alargar a sua coleção, o referido autor divulgará na exposição e catálogo de 2019 (O som da saudade), no capítulo «as cítaras especiais», duas cítaras de mais de 12 cordas. ... O autor / colecionador data o cordofone de cerca 1910"
+        }
+      ]
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Tiro de corda 47 cm; comprimento 83,5 cm; caixa 39,5 x 32,5 cm; leque com 15 parafusos sem fim; gancha em flor aberta",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "Uma, do tipo conimbricense primitivo, oriunda da oficina de Augusto Nunes dos Santos, com 47cm de tiro de corda, 83,5cm de comprimento total, caixa harmónica com 39,5X32,5cm, oscilando a ilharga entre 5,7X7,8cm, com o remate da gancha ainda em flor aberta. O leque apresenta 15 parafusos sem fim, 8 no aro inferior e 7 no aro superior."
+        }
+      ],
+      "conflito": false,
+      "nota": "Pedro Caldeira Cabral, O som da saudade, a cítara portuguesa (Museu do Fado, 2019), pp. 112-113, citado no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Datada pelo colecionador de c. 1910; o post nota que o modelo se fabricou desde 1894",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "O autor / colecionador data o cordofone de cerca 1910, mas convém salientar que o modelo foi fabricado regularmente e consistentemente com pequenas personalizações desde 1894"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "duas cítaras de mais de 12 cordas"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

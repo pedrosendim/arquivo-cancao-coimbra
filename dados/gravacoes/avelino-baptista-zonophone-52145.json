@@ -1,0 +1,88 @@
+{
+  "id": "avelino-baptista-zonophone-52145",
+  "titulo": "Canção à lua",
+  "formato": "78rpm",
+  "editora": "Zonophone",
+  "referencia": "52145",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção à lua",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-zonophone-52145-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção à lua», por Avelino Baptista — etiqueta: «Canção à Lua / cantada por Avelino Baptista / e Orch. / Lisboa.»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/215/avelino_baptista_cancao_a_lua",
+          "doc": "museu-do-fado:w23531724d1ef876c",
+          "citacao": "Título: Canção à lua ... Editora: Zo.52145 Referências: 9424u, X52145; X-52145 ... Etiqueta: Canção à Lua / cantada por Avelino Baptista / e Orch. / Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título segundo o Arquivo Sonoro do Museu do Fado: «Canção à Lua»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/215/avelino_baptista_cancao_a_lua",
+          "doc": "museu-do-fado:w23531724d1ef876c",
+          "citacao": "Título: Canção à lua ... Editora: Zo.52145"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, o disco Zonophone 52145 de Avelino Baptista contém a «Canção à Flora» (classificada como Canção de Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/cancao-flora_23.html",
+          "doc": "gc-v:869271124746681255",
+          "citacao": "Categoria: Canção de Coimbra ... Canção gravada no disco 78 rpm Zonophone 52145, em Lisboa, por Avelino Baptista"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/215/avelino_baptista_cancao_a_lua",
+      "doc": "museu-do-fado:w23531724d1ef876c",
+      "citacao": "Título: Canção à lua ... Editora: Zo.52145 Referências: 9424u, X52145; X-52145"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

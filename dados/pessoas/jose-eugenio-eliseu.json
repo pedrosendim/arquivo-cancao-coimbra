@@ -1,0 +1,47 @@
+{
+  "id": "jose-eugenio-eliseu",
+  "tipo": "pessoa",
+  "nome": "José Eugénio Eliseu",
+  "nomes_alternativos": [
+    "Zézé Eliseu",
+    "Zézé"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Baterista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o_23.html",
+          "doc": "gc-v:8056278333509873889",
+          "citacao": "na bateria, Zézé (José Eugénio) Eliseu"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "neto_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o_23.html",
+          "doc": "gc-v:8056278333509873889",
+          "citacao": "Zézé (José Eugénio) Eliseu, neto do maestro José Eliseu, compositor da música da Balada de Coimbra"
+        }
+      ],
+      "nota": "A fonte não diz de que filho/filha é filho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

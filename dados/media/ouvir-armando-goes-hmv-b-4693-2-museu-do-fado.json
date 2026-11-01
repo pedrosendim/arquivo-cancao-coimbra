@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-armando-goes-hmv-b-4693-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0435_30.mp3",
+  "titulo": "Fado da Pátria — Armando Goes",
+  "data": "",
+  "pessoas": [
+    "armando-goes",
+    "albano-de-noronha",
+    "afonso-de-sousa"
+  ],
+  "obras": [],
+  "gravacao": "armando-goes-hmv-b-4693",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0867.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/855/armando_goes_fado_da_patria",
+      "doc": "museu-do-fado:we1a27528e78e435f",
+      "citacao": "Título: Fado da Pátria ... Editora: HMV B4693, EQ32"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

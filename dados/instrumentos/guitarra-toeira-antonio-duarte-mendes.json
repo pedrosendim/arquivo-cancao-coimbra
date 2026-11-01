@@ -1,0 +1,93 @@
+{
+  "id": "guitarra-toeira-antonio-duarte-mendes",
+  "designacao": "Guitarra toeira de Coimbra da oficina de António Duarte Mendes (Figueira da Foz), anterior a 1920",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "antonio-duarte-mendes",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Sem data, seguramente anterior a 1920; madeiras baratas (plátano), fabrico pouco cuidado; muito danificada",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "sem data, seguramente anterior a 1920. Madeiras baratas (plátano), fabrico pouco cuidado, muito danificada no tampo superior e ilharga, sem cordas, chapa de leque e atadilho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Escala de 17 pontos em pau santo; voluta floral; ilharga de 5 cm (cepo) a 6,1 cm (atadilho); caixa de 34,5 cm; corda vibrante de 44 cm",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "Apresenta escala em pau santo, de 17 pontos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "A ilharga, junto ao cepo, mede 5 cms de altura. Junto ao atadilho atinge 6,1 cms"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "A caixa de ressonância tem 34,5 cms de largura e a corda vibrante atinge 44 cms de extensão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fotografada e medida na oficina de Fernando Meireles a 15 de fevereiro de 2002, por Jorge Gomes",
+      "data": "2002-02-15",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "Cordofone fotografado na Oficina de Fernando Meireles em 15 de Fevereiro de 2002 e ali estudado e medido por Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/AN%20Guitarra%20oficina%20Antonio%20Duarte.jpg",
+      "legenda": "Guitarra toeira de Coimbra oriunda da oficina de António Duarte Mendes, Figueira da Foz.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+          "doc": "gc-i:113682118042008744",
+          "citacao": "Guitarra Toeira de Coimbra, oriunda da oficina de António Duarte Mendes, sita na Figueira da Foz"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-oriunda-da.html",
+      "doc": "gc-i:113682118042008744",
+      "citacao": "Guitarra Toeira de Coimbra, oriunda da oficina de António Duarte Mendes, sita na Figueira da Foz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-mh-34-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0686_21.mp3",
+  "titulo": "Fado Hilário — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "fado-hilario-moderno"
+  ],
+  "gravacao": "artur-paredes-hmv-mh-34",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1365.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1355/artur_paredes_fado_hilario",
+      "doc": "museu-do-fado:w91483f111c3ea92f",
+      "citacao": "Título: Fado Hilário ... Editora: HMV B4698, EQ37,MH34"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

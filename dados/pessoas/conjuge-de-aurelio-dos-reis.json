@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-aurelio-dos-reis",
+  "tipo": "pessoa",
+  "nome": "Mulher de Aurélio dos Reis (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "aurelio-dos-reis",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/dia-do-antigo-estudante-de_113185340630144097.html",
+          "doc": "gc-i:113185340630144097",
+          "citacao": "Isabel Azevedo, Liliana Madeira (Lili), Aurélio Reis e esposa."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legenda de fotografia (Dia do Antigo Estudante de Coimbra, 2005); a identificação de «Aurélio Reis» com a ficha aurelio-dos-reis faz-se pelo nome."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

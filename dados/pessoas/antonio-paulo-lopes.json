@@ -1,0 +1,45 @@
+{
+  "id": "antonio-paulo-lopes",
+  "tipo": "pessoa",
+  "nome": "António Paulo Lopes",
+  "nomes_alternativos": [
+    "António Paulo"
+  ],
+  "papeis": [
+    "violista",
+    "letrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Alma Mater\n\nGrupo constituído por Carlos Pedro (voz), Pedro Anastácio/Nuno Miguel Cadete (ggC), António Paulo Lopes (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Alma Mater” – Carlos Pedro e Nuno Correia da Silva a cantar; Nuno Marques e Nuno Cadete à guitarra; António Paulo Lopes e Rui Namora à viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+          "doc": "gc-i:112259439330268263",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ],
+      "nota": "viola; 1994 a 2005"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

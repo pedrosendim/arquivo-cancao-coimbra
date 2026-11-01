@@ -1,0 +1,140 @@
+{
+  "id": "luiz-goes-columbia-8e-016-4006",
+  "titulo": "Homem Só, Meu Irmão",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "8E 016 4006",
+  "ano": "1969",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Homem Só, Meu Irmão",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-8e-062-40015-7-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Balada Para Ninguém",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-8e-062-40015-1-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Cântico De Um Pescador",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-8e-062-40015-8-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Canção Do Regresso",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-8e-062-40015-2-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/ERhPGM1B2kbUieCXmNAEXOR0va5boCf12xZ6mnaDyjM/rs:fit/g:sm/q:90/h:348/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODk2/MTctMTM1MTYxNjUy/NS0yMjczLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/3989617",
+        "doc": "discogs:w27afd2a5a4c1e60b",
+        "citacao": "Imagem (primary): https://i.discogs.com/ERhPGM1B2kbUieCXmNAEXOR0va5boCf12xZ6mnaDyjM/rs:fit/g:sm/q:90/h:348/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODk2/MTctMTM1MTYxNjUy/NS0yMjczLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/3989617",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3989617",
+          "doc": "discogs:w27afd2a5a4c1e60b",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3989617",
+          "doc": "discogs:w27afd2a5a4c1e60b",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1969 (Discogs)",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3989617",
+          "doc": "discogs:w27afd2a5a4c1e60b",
+          "citacao": "Data: 1969"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Edição parcial em EP do LP Canções do Mar e da Vida",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+          "doc": "gc-v:7363514650320825950",
+          "citacao": "3-Edição parcial em EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/3989617",
+      "doc": "discogs:w27afd2a5a4c1e60b",
+      "citacao": "Editora: Columbia – 8E 016 4006"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
+      "doc": "gc-v:7363514650320825950",
+      "citacao": "EP LUIZ GOES, HOMEM SÓ, MEU IRMÃO, Lisboa, Columbia 8E 016 4006, 1969. Fotografia de Augusto Cabrita. Contém Homem só, meu irmão, Balada para ninguém, Cântico a um pescador e Canção do Regresso."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

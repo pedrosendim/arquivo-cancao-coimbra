@@ -1,0 +1,74 @@
+{
+  "id": "jose-alberto-rabaca",
+  "tipo": "pessoa",
+  "nome": "José Alberto Rabaça",
+  "nomes_alternativos": [
+    "José Rabaça"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), biblioteca nova do Seminário Maior de Coimbra, 7 de setembro de 2024: «Inquietação» (guitarra portuguesa, a acompanhar Luís Alcoforado)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436",
+          "doc": "mpagdp:wc8ebc6495b6486a8",
+          "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html", "doc": "gc-i:113639247173462895", "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v)"}], "nota": "Guitarra do Grupo de Fados da Secção (abril de 1988)."},
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/encerramento-provisrio-do-site-fado-de.html",
+          "doc": "gc-i:113309938932355724",
+          "citacao": "O Dr. José Alberto Rabaça, antigo estudante da UC, guitarrista, membro da formação Praxis Nova, autor de composições, artista com obra gravada"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "reconhecíveis três elementos da formação Praxis Nova: sentado, com guitarra, José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó); de pé, encostado ao umbral, Luís Carlos Santos (viola); de pé, o cantor Luís Alcoforado."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        }
+      ],
+      "nota": "2.ª guitarra; gravações de 1989 e 1998"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luis-alcoforado",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436",
+          "doc": "mpagdp:wc8ebc6495b6486a8",
+          "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "nota": "guitarra portuguesa; gravação de 7 de setembro de 2024"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

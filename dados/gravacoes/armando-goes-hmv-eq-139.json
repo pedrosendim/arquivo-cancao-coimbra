@@ -1,0 +1,159 @@
+{
+  "id": "armando-goes-hmv-eq-139",
+  "titulo": "Fado dos Cegos / Noite de Luar",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 139",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "armando-goes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "guitarra de Coimbra / viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Cegos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Noite de Luar",
+      "obra": "",
+      "media": [
+        "ouvir-armando-goes-hmv-eq-139-2-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/eIGh7P2P-DZe13pE07KXCbU1EmEmCBQFth-Rk4gqKHg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMw/ODA3LTE3NjE5MjQ3/MzAtNzU4Ni5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35530807",
+        "doc": "discogs:w4360b88ae1a69482",
+        "citacao": "Imagem (secondary): https://i.discogs.com/eIGh7P2P-DZe13pE07KXCbU1EmEmCBQFth-Rk4gqKHg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMw/ODA3LTE3NjE5MjQ3/MzAtNzU4Ni5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35530807",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530807",
+          "doc": "discogs:w4360b88ae1a69482",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530807",
+          "doc": "discogs:w4360b88ae1a69482",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1929 (Discogs)",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530807",
+          "doc": "discogs:w4360b88ae1a69482",
+          "citacao": "Data: 1929"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue inclui este disco nas gravações de 1928."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1928 (gravações de 1928, blogue)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+          "doc": "gc-i:112890085746767465",
+          "citacao": "Gravações de 1928: Disco His Master’s Voice, E.Q. 139"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1929."
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: Albano de Noronha e Afonso de Sousa (este por vezes à viola)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+          "doc": "gc-i:112890085746767465",
+          "citacao": "Durante a frequência do curso gravou sete discos de 78 rpm todos para a His Master’s Voice, acompanhado sempre por Albano de Noronha e Afonso de Sousa, este à viola por vezes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Afonso de Sousa (violão), Albano de Noronha (guitarra portuguesa)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35530807",
+          "doc": "discogs:w4360b88ae1a69482",
+          "citacao": "Acoustic Guitar – Afonso de Sousa Portuguese Guitar – Albano De Noronha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35530807",
+      "doc": "discogs:w4360b88ae1a69482",
+      "citacao": "Editora: His Master's Voice – E.Q. 139"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+      "doc": "gc-i:112890085746767465",
+      "citacao": "Gravações de 1928: Disco His Master’s Voice, E.Q. 139 7-62204 – FADO DOS CEGOS (Sou ceguinho de nascença) 7-62205 – NOITE DE LUAR (Eu tive um sonho, um sonho de encantar)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

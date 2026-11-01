@@ -1,0 +1,143 @@
+{
+  "id": "antonio-bernardino-orfeu-atep-6557",
+  "titulo": "Guitarras do Meu País",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6557",
+  "ano": "1969",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "francisco-martins",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "luis-filipe-roxo",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Guitarras do Meu País",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6557-1-blogger",
+        "ouvir-antonio-bernardino-orfeu-atep-6557-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "E Alegre Se Fez Triste",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Trova da Planície",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-bernardino-orfeu-atep-6557-3-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/qi4PBpZABlZDTJCQBTE0qRvLl6idlDaScdWOkbjcRPY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjMx/NzEtMTQ2MzM0MjE2/Ny01MzMyLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/8523171",
+        "doc": "discogs:w935057d9aec84070",
+        "citacao": "Imagem (primary): https://i.discogs.com/qi4PBpZABlZDTJCQBTE0qRvLl6idlDaScdWOkbjcRPY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjMx/NzEtMTQ2MzM0MjE2/Ny01MzMyLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/8523171",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP, Stereo",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8523171",
+          "doc": "discogs:w935057d9aec84070",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP, Stereo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8523171",
+          "doc": "discogs:w935057d9aec84070",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1969 (Discogs)",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8523171",
+          "doc": "discogs:w935057d9aec84070",
+          "citacao": "Data: 1969"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: António Portugal e Francisco Martins (guitarras), Luís Filipe (viola) (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8523171",
+          "doc": "discogs:w935057d9aec84070",
+          "citacao": "ACOMPANHAMENTO: António Portugal (Guitarra), Francisco Martins (Guitarra) e Luís Filipe (Viola);"
+        }
+      ],
+      "conflito": false,
+      "nota": "Liga-se a luis-filipe-roxo pelo mesmo motivo do EP ATEP 6402; confirmar."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/8523171",
+      "doc": "discogs:w935057d9aec84070",
+      "citacao": "Editora: Orfeu – ATEP 6557"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/07/nos-50-anos-da-gravacao-do-lp-flores.html",
+      "doc": "gc-v:8647259852848236287",
+      "citacao": "2-O EP GUITARRAS DO MEU PAÍS, Porto, Orfeu ATEP 6557, s/d. [1969]."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

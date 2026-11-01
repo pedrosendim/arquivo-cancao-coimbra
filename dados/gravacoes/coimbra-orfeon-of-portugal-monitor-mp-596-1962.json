@@ -1,0 +1,201 @@
+{
+  "id": "coimbra-orfeon-of-portugal-monitor-mp-596-1962",
+  "titulo": "Coimbra Orfeon of Portugal",
+  "formato": "LP",
+  "editora": "Monitor Records (EUA)",
+  "referencia": "MP 596",
+  "ano": "1962",
+  "local": "Coimbra (teatro da Faculdade de Letras), 1961",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz (Minha Mãe, Balada Aleixo)"
+    },
+    {
+      "pessoa": "jose-niza",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "guitarra (outras faixas)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Serenata Açoriana",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "In Parasceve",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Minha Mãe",
+      "obra": "minha-mae-jose-afonso",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-3-youtube"]
+    },
+    {
+      "n": 4,
+      "titulo": "Sonhando"
+    },
+    {
+      "n": 5,
+      "titulo": "Fado da Mentira",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-5-apple-music"]
+    },
+    {
+      "n": 6,
+      "titulo": "Rapsódia Luzo-Brazileira"
+    },
+    {
+      "n": 7,
+      "titulo": "Melodia de Amor"
+    },
+    {
+      "n": 8,
+      "titulo": "É Tão Lindo O Teu Olhar",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-8-apple-music"]
+    },
+    {
+      "n": 9,
+      "titulo": "O Voso Galo, Comadre!",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-9-apple-music"]
+    },
+    {
+      "n": 10,
+      "titulo": "Balada Aleixo",
+      "obra": "balada-aleixo",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-10-apple-music"]
+    },
+    {
+      "n": 11,
+      "titulo": "Hallelujah"
+    },
+    {
+      "n": 12,
+      "titulo": "Balada Da Saudade",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-12-apple-music"]
+    },
+    {
+      "n": 13,
+      "titulo": "A Oliveira Da Serra",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-13-apple-music"]
+    },
+    {
+      "n": 14,
+      "titulo": "F. R. A.",
+      "media": ["ouvir-coimbra-orfeon-of-portugal-monitor-mp-596-1962-14-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRYvjlKHAVez3VGnyBKiBXo7z8Eba0I6eucVXU9B-RXJgwrPeeZZVhpOx3xVtIRGKJYNjRUiWIQX0pwlCNojPgxin559hVSSN58FHEJQMQMyd24AUvs2yefQRm4NQTWRPviHg/s1600/Jose+Afonso+Capa+Disco+Orfeon+1962.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-i",
+        "url": "https://guitarradecoimbra.blogspot.com/2007/08/enviada-por-jorge-vicetto-aqui-fica.html",
+        "doc": "gc-i:1154270782180901676",
+        "citacao": "aqui fica a capa do disco \"Coimbra Orfeon of Portugal\" de 1962"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/8549157",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Minha Mãe e Balada Aleixo gravadas em 1961 no anfiteatro/teatro da Faculdade de Letras, com José Niza e Durval Moreirinhas (violas)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Grava as baladas \"Minha Mãe\" e \"Balada Aleixo\" no Anfiteatro da Faculdade de Letras da UC para a editora Monitor (MP-596) num disco de promoção de uma viagem do Orfeon Académico de Coimbra aos Estados Unidos sob o título \"Coimbra Orfeon of Portugal\" sendo acompanhado à viola por José Niza e Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Minha Mãe e Balada Aleixo, que constam no referido fonograma, tinham sido gravadas em 1961 no teatro da da Faculdade de Letras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Comercializado nos EUA a partir de 21 de junho de 1962",
+      "data": "1962-06-21",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "O LP foi comercializado nos EUA a partir de 21 de junho de 1962"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Primeira vez que José Afonso aparece acompanhado só por duas guitarras clássicas (Durval Moreirinhas e José Niza)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/enviada-por-jorge-vicetto-aqui-fica.html",
+          "doc": "gc-i:1154270782180901676",
+          "citacao": "onde José Afonso aparece pela primeira vez acompanhado simplesmente por duas guitarras clássicas (Durval Moreirinhas e José Niza) abandonando assim a formação clássica do grupo de fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Intérpretes: Orfeon (regência de Raposo Marques); Sousa Pereira, Barros Madeira e Sutil Roque (fados); Zeca Afonso (baladas); Jorge Tuna e Jorge Godinho (guitarra); José Niza e Durval Moreirinhas (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou.html",
+          "doc": "gc-ii:3911884397401118985",
+          "citacao": "Orfeon, sob a regência de Raposo Marques\n\nSousa Pereira, Barros Madeira e Sutil Roque (fados)\n\nZeca Afonso (baladas)\n\nJorge Tuna e Jorge Godinho (guitarra)\n\nJosé Niza e Durval Moreirinhas (viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/8549157",
+      "doc": "discogs:w909e3878646f0ee4",
+      "citacao": "Editora: Monitor Records (2) – MP 596"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou.html",
+      "doc": "gc-ii:3911884397401118985",
+      "citacao": "COIMBRA ORFEON of PORTUGAL\n\nMonitor, U.S.A., MP 596, 1962"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/coimbra-orfeon-of-portugal-disco-de-1962/",
+      "doc": "aja:w0bd9883e5beeeccf",
+      "citacao": "Neste disco, entre outros temas, podemos encontrar José Afonso cantar “Minha mãe” e Balada Aleixo” acompanhado por Durval Moreirinhas e José Niza em guitarras clássicas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-85-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0298_24.mp3",
+  "titulo": "Canção portuguesa da revista O Burro do Snr Alcaide — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-85",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0595.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/590/almeida_cruz_cancao_portuguesa_da_revista_o_burro_do_snr_alcaide",
+      "doc": "museu-do-fado:w558cfa76dc75bef8",
+      "citacao": "Título: Canção portuguesa da revista O Burro do Snr Alcaide ... Editora: Co. B-85 Referências: 11802-1-1; B85"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

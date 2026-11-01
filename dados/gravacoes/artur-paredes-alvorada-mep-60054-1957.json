@@ -1,0 +1,152 @@
+{
+  "id": "artur-paredes-alvorada-mep-60054-1957",
+  "titulo": "Artur Paredes (1.ª edição)",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60054",
+  "ano": "1957",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "armenio-silva",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Desfolhada",
+      "obra": "desfolhada",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60054-1957-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Dança",
+      "obra": "danca-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60054-1957-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Variações em Ré Menor n.º 2",
+      "obra": "variacoes-em-re-menor-n-2-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60054-1957-3-apple-music"]
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Mi Menor",
+      "obra": "variacoes-em-mi-menor-artur-paredes",
+      "media": ["ouvir-artur-paredes-alvorada-mep-60054-1957-4-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mPEtCR2hO4LQZ9ypp_UJeaREKA_G6SDPic_u4u85MmB_YgBwTU6nU69-AXNr5TvDJh2m0r59gb1WWpkdMr_JG64eZOpZBHz3rzcqfo2lgEsa0EhJjlQqKN09qadbUUtJ-_gSeWMpfv3z/s1600/Artur+Predes+EP1+Capa+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Capa e contracapa do disco de 45 rpm EP ARTUR PAREDES, Alvorada MEP 60054."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7821940",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "O Discogs regista o MEP 60054 com data de 1957 e a ordem Desfolhada, Variações em Mi Menor, Variações em Ré Menor n.º 2, Dança (a mesma da nótula de 2006); não distingue a edição de 1957 da de 1961",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7821940",
+          "doc": "discogs:w9eb1c221f6e7ab25",
+          "citacao": "Editora: Alvorada – MEP 60054"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7821940",
+          "doc": "discogs:w9eb1c221f6e7ab25",
+          "citacao": "A1 Desfolhada A2 Variações Em Mi Menor B1 Variações Em Ré Menor Nº 2 B2 Dança"
+        }
+      ],
+      "conflito": false,
+      "nota": "A ligação ao Discogs foi posta nesta ficha (1.ª edição) por causa da data; pode corresponder à edição de 1961, que tem o mesmo número de catálogo."
+    },
+    {
+      "campo": "outro",
+      "valor": "Retirado de circulação; a mesma formação regravou os quatro títulos, editados em 1961 com a mesma capa, título e número de catálogo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Este 45 rpm foi retirado de circulação. A mesma formação voltou a estúdio e regravou os mesmo quatro títulos, comportando todos eles diferenças em relação às versões de 1957, trabalho editado em 1961 com os anteriores motivos de capa, título do fonograma e mesmo número de catálogo."
+        }
+      ],
+      "conflito": true,
+      "nota": "A. M. Nunes / J. Anjos de Carvalho (2015)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Só o segundo EP (MEP 60056) teve as 'peripécias de retirada do mercado e relançamento'",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/as-maos-e-o-legado-de-um-dos-patriarcas.html",
+          "doc": "gc-v:9016741695644576319",
+          "citacao": "EP(s) Alvorada 60054 e 60056 gravados em 1957 (o 2.º, com as conhecidas peripécias de retirada do mercado e relançamento)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "Consequência: fazer retirar do mercado a versão original do disco que veio a ser o MEP 60056"
+        }
+      ],
+      "conflito": true,
+      "nota": "A. M. Nunes (junho de 2015) e A. L. de Carvalho Homem (2006) referem a retirada apenas do MEP 60056, divergindo do post de 8 de junho de 2015."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ordem das faixas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "DESFOLHADA (guitarrada)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A ordem das faixas segue a lista do post de 2015 (D21), que descreve a edição de 1961; a nótula de 2006 (D13) enumera os títulos por outra ordem. Ordem da 1.ª edição não confirmada."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "EP ARTUR PAREDES. Porto: ALVORADA, MEP 60054, 1957 (1.ª edição); 1961 (2.ª edição modificada) Artur Paredes/Carlos Paredes (1.ª e 2.ª gC de concerto); Arménio Silva (violão)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+      "doc": "gc-i:116656793633803313",
+      "citacao": "a) O MEP 60054 inclui «Desfolhada», «Variações em mi menor», «Variações em ré menor n.º 2» e «Dança»"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

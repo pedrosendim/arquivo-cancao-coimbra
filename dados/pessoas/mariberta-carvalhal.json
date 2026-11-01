@@ -1,0 +1,84 @@
+{
+  "id": "mariberta-carvalhal",
+  "tipo": "pessoa",
+  "nome": "Mariberta Carvalhal",
+  "nomes_alternativos": [
+    "Dra. Mariberta Carvalhal"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "instrumento",
+      "valor": "Piano",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/violo-de-cordas-de-ao-que-pertenceu.html",
+          "doc": "gc-i:113313860544566989",
+          "citacao": "acompanhou regularmente seus irmãos Joaquim (violão), Luís, António (o guitarrista António Carvalhal), Mariberta (piano) e seu pai (flauta)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "alvaro-da-silva-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "O casal Carvalhal domiciliou-se em Esposende, local onde foram sucessivamente gerados António Carvalhal (1909-1982), Álvaro Carvalhal (1911-1950), Luís Carvalhal (1913-1995), Joaquim Carvalhal (1915-1995) e Mariberta Carvalhal (1918"
+        }
+      ],
+      "nota": "«O casal Carvalhal» é Álvaro da Silva Carvalhal e Eugénia Abreu, casados em 1907 (mesmo post)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "eugenia-abreu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+          "doc": "gc-i:114182978934268659",
+          "citacao": "O casal Carvalhal domiciliou-se em Esposende, local onde foram sucessivamente gerados António Carvalhal (1909-1982), Álvaro Carvalhal (1911-1950), Luís Carvalhal (1913-1995), Joaquim Carvalhal (1915-1995) e Mariberta Carvalhal (1918"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "antonio-carvalhal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarrilha-de-tipo-lisboa-em-voga.html",
+          "doc": "gc-i:113770699267057196",
+          "citacao": "Mariberta Carvalhal, irmã de António Carvalhal"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "por intermédio de sua irmã, Dra. Mariberta Carvalhal"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/violo-de-cordas-de-ao-que-pertenceu.html",
+          "doc": "gc-i:113313860544566989",
+          "citacao": "acompanhou regularmente seus irmãos Joaquim (violão), Luís, António (o guitarrista António Carvalhal), Mariberta (piano) e seu pai (flauta)"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

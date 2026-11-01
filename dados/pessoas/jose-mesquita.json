@@ -1,0 +1,55 @@
+{
+  "id": "jose-mesquita",
+  "tipo": "pessoa",
+  "nome": "José Mesquita",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/jose-mesquita-canta-suplica-no-programa.html",
+      "doc": "gc-iii:3631378934192077708",
+      "citacao": "José Mesquita canta \"Súplica\" no programa televisivo \"Tempos de Coimbra\", 1985"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "Foi comprado pelo então estudante da Faculdade de Ciências da Universidade de Coimbra José Mesquita entre 1955-1957 (futuro lente e investigador da FCT/UC, cultor da CC)."
+    }
+  ],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        }
+      ],
+      "nota": "voz; digressão a Macau e Hong Kong (2004)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Tempos%20de%20Coimbra%205%20Mesquita.jpg",
+      "legenda": "José Mesquita. Foto do «Tempo(s) de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jos-mesquita.html",
+          "doc": "gc-i:111445559617098510",
+          "citacao": "José Mesquita. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

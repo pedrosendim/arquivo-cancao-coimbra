@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-aa-50800-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1159_39.mp3",
+  "titulo": "Fado das Fogueiras — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-aa-50800",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5515.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2297/antonio_menano_fado_das_fogueiras",
+      "doc": "museu-do-fado:w995a90a2447a72a5",
+      "citacao": "Título: Fado das Fogueiras ... Editora: Od.AA50.800, EMICD8364452[12\"]"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-87",
+  "titulo": "Leva a bandeira / Fado da Guitarra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-87",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Leva a bandeira",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-87-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado da Guitarra",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-87-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Leva a bandeira», por Almeida Cruz — etiqueta: «Leva a Bandeira  / Canção Portugueza - Popular  / Almeida Cruz e coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/596/almeida_cruz_leva_a_bandeira",
+          "doc": "museu-do-fado:w69891dc2b766d773",
+          "citacao": "Título: Leva a bandeira ... Editora: Co. B-87 Referências: 11805, 1-6; B87 ... Etiqueta: Leva a Bandeira  / Canção Portugueza - Popular  / Almeida Cruz e coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Leva a bandeira, Columbia B-87, 11805, música popular portuguesa»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Leva a bandeira, Columbia B-87, 11805, música popular portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Guitarra», por Almeida Cruz — etiqueta: «Fado da Guitarra / Fado / (A. Cruz) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/597/almeida_cruz_fado_da_guitarra",
+          "doc": "museu-do-fado:w6f39e6b5df51880d",
+          "citacao": "Título: Fado da Guitarra ... Editora: Co. B-87 Referências: 11867, 4; B87 ... Etiqueta: Fado da Guitarra / Fado / (A. Cruz) / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado da Guitarra, Columbia B-87,11.867, música de Manasselos (sic, Manassés de Lacerda?)»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado da Guitarra, Columbia B-87,11.867, música de Manasselos (sic, Manassés de Lacerda?)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/596/almeida_cruz_leva_a_bandeira",
+      "doc": "museu-do-fado:w69891dc2b766d773",
+      "citacao": "Título: Leva a bandeira ... Editora: Co. B-87 Referências: 11805, 1-6; B87"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Leva a bandeira, Columbia B-87, 11805, música popular portuguesa"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/597/almeida_cruz_fado_da_guitarra",
+      "doc": "museu-do-fado:w6f39e6b5df51880d",
+      "citacao": "Título: Fado da Guitarra ... Editora: Co. B-87 Referências: 11867, 4; B87"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado da Guitarra, Columbia B-87,11.867, música de Manasselos (sic, Manassés de Lacerda?)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

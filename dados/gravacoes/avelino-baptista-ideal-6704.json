@@ -1,0 +1,108 @@
+{
+  "id": "avelino-baptista-ideal-6704",
+  "titulo": "Fado da Aurora",
+  "formato": "78rpm",
+  "editora": "Disco «Ideal» Grande (Beka-Record)",
+  "referencia": "6704",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Aurora",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-ideal-6704-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Aurora», por Avelino Baptista — etiqueta: «Fado da Aurora / cantado por / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/209/avelino_baptista_fado_da_aurora",
+          "doc": "museu-do-fado:w2797d85884ce9052",
+          "citacao": "Título: Fado da Aurora ... Editora: Id.Gr.6704 Referências: Disco “Ideal” Grande - Beka-Record, 6704; 6704 ... Etiqueta: Fado da Aurora / cantado por / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, a música é a do «Fado Posthumo do Hylario»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "«Fado Posthumo do Hylario» (Lindas noites de luar) ... Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067, e Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Editora segundo o Arquivo Sonoro do Museu do Fado: Id.Gr. (Disco «Ideal» Grande - Beka-Record) 6704",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/209/avelino_baptista_fado_da_aurora",
+          "doc": "museu-do-fado:w2797d85884ce9052",
+          "citacao": "Editora: Id.Gr.6704 Referências: Disco “Ideal” Grande - Beka-Record, 6704; 6704"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Editora segundo o blogue: disco Beka n.º 6704",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+          "doc": "gc-v:1881977297519692243",
+          "citacao": "Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/209/avelino_baptista_fado_da_aurora",
+      "doc": "museu-do-fado:w2797d85884ce9052",
+      "citacao": "Título: Fado da Aurora ... Editora: Id.Gr.6704 Referências: Disco “Ideal” Grande - Beka-Record, 6704; 6704"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/04/a-velha-e-sempre-nova-questao-das.html",
+      "doc": "gc-v:1881977297519692243",
+      "citacao": "«Fado Posthumo do Hylario» (Lindas noites de luar) ... Avelino Baptista gravou esta mesma música com títulos diferentes em duas editoras concorrentes: Fado da Beira (Voa, voa passarinho), disco Odeon A.136.067, e Fado da Aurora (Voa, voa passarinho), disco Beka n.º 6704"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

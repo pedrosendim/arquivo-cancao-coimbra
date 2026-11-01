@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-odeon-43055",
+  "titulo": "Balada dos Estudantes",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "43055 / 43069",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada dos Estudantes",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-43055-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Balada dos Estudantes», por Avelino Baptista — etiqueta: «Ballada dos Estudantes / (Canção popular) / por / Avellino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3810/avelino_baptista_balada_dos_estudantes",
+          "doc": "museu-do-fado:w8edf3c676037b6ca",
+          "citacao": "Título: Balada dos Estudantes ... Editora: Odeon 43055 43069 Referências: Disco Odeon, XO30, X, 43055; 43055 ... Etiqueta: Ballada dos Estudantes / (Canção popular) / por / Avellino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Desgarrada da revista O Burro do Snr. Alcaide» (Palmira Joyce, Avelino Baptista, museu-do-fado:wc7a0de8a4c2e28b8)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3810/avelino_baptista_balada_dos_estudantes",
+      "doc": "museu-do-fado:w8edf3c676037b6ca",
+      "citacao": "Título: Balada dos Estudantes ... Editora: Odeon 43055 43069 Referências: Disco Odeon, XO30, X, 43055; 43055"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

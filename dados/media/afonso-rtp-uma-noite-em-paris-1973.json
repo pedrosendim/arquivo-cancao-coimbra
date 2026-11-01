@@ -1,0 +1,22 @@
+{
+  "id": "afonso-rtp-uma-noite-em-paris-1973",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/uma-noite-em-paris/",
+  "titulo": "Uma Noite em Paris — Parte I (Página Um, 1973)",
+  "data": "1973-10-01",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/uma-noite-em-paris/",
+      "doc": "rtp-arquivos:w8b9cc95c792b13a5",
+      "citacao": "Entrevista a José Afonso, sobre a evolução da sua carreira; Ambiente de gravação de um disco em Paris; Vida profissional e intencionalidade dos seus trabalhos; O Fado de Coimbra;"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

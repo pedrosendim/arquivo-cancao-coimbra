@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-anthero-da-veiga-hmv-eq-266-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0971_28.mp3",
+  "titulo": "Cantos regionais portugueses. Miscelanea nº2 — Antero da Veiga",
+  "data": "",
+  "pessoas": [
+    "anthero-da-veiga",
+    "eugenio-da-veiga"
+  ],
+  "obras": [],
+  "gravacao": "anthero-da-veiga-hmv-eq-266",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1931.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1923/antero_da_veiga_cantos_regionais_portugueses_miscelanea_no2",
+      "doc": "museu-do-fado:w16e717543d510e6c",
+      "citacao": "Título: Cantos regionais portugueses. Miscelanea nº2 ... Editora: HMV EQ266; [30-3099]  Referências: BJ2681-I∆, R, 1, 30-3099; EQ 266"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

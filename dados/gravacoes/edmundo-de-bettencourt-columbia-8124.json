@@ -1,0 +1,156 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-8124",
+  "titulo": "Canção da Beira Baixa / Crucificado",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8124",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz (tenor)"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "violão de cordas de aço"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção da Beira Baixa",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8124-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Crucificado",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-8124-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção da Beira Baixa», por Edmundo Bettencourt — etiqueta: «Canção da Beira Baixa / Popular / Dr. Edmundo de Bettencourt - Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/308/edmundo_bettencourt_cancao_da_beira_baixa",
+          "doc": "museu-do-fado:wcd286ac748d516d3",
+          "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124 Referências: WP302-3, W, 32587, C, TT, ; 8124 ... Etiqueta: Canção da Beira Baixa / Popular / Dr. Edmundo de Bettencourt - Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "4 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w3a2d403c04fd5bb8, museu-do-fado:wd4307906f01570ac, museu-do-fado:wf00b4f2c1c0abf4b"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Crucificado», por Edmundo Bettencourt — etiqueta: «Crucificado (Fado) / Popular / Música de Fortunato da Fonseca / Dr. Edmundo de Bettencourt  Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/309/edmundo_bettencourt_crucificado",
+          "doc": "museu-do-fado:w7a1ff839b825dcb3",
+          "citacao": "Título: Crucificado ... Editora: Co. 8124 Referências: WP332, W, 32634; 8124 ... Etiqueta: Crucificado (Fado) / Popular / Música de Fortunato da Fonseca / Dr. Edmundo de Bettencourt  Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "4 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w346a080bea07545c, museu-do-fado:w971315fe025dd284, museu-do-fado:wb42b05a62457bff5"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e no violão de cordas de aço por Mário Faria da Fonseca (discos Columbia 8124 e GL 105)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e, no violão de cordas de aço, por Mário Faria da Fonseca (Discos COLUMBIA, 8124 e Columbia, GL 105, master P.302)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/308/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:wcd286ac748d516d3",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124 Referências: WP302-3, W, 32587, C, TT, ; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5946/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:w3a2d403c04fd5bb8",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Columbia Referências: 8124, WP302, P302-3"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2176/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:wd4307906f01570ac",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124 Referências: WP302, W, 32587, P302; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2179/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:wf00b4f2c1c0abf4b",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124 Referências: WP302, W, 32587, P302; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/309/edmundo_bettencourt_crucificado",
+      "doc": "museu-do-fado:w7a1ff839b825dcb3",
+      "citacao": "Título: Crucificado ... Editora: Co. 8124 Referências: WP332, W, 32634; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2177/edmundo_bettencourt_crucificado",
+      "doc": "museu-do-fado:w346a080bea07545c",
+      "citacao": "Título: Crucificado ... Editora: Co. 8124 Referências: WP332, W, 32634, P332; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2178/edmundo_bettencourt_crucificado",
+      "doc": "museu-do-fado:w971315fe025dd284",
+      "citacao": "Título: Crucificado ... Editora: Co. 8124 Referências: WP332, W, 32634, P332; 8124"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5947/edmundo_de_bettencourt_crucificado",
+      "doc": "museu-do-fado:wb42b05a62457bff5",
+      "citacao": "Título: Crucificado ... Editora: Columbia Referências: 8124, WP332, P332-2"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Albano de Noronha e, no violão de cordas de aço, por Mário Faria da Fonseca (Discos COLUMBIA, 8124 e Columbia, GL 105, master P.302)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

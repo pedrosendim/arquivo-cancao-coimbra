@@ -1,0 +1,27 @@
+{
+  "id": "eugenia-pessoa-elyseu",
+  "tipo": "pessoa",
+  "nome": "Eugénia Pessoa Elyseu",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/jose-elyseu.html",
+          "doc": "gc-v:2168488409084825667",
+          "citacao": "José Elyseu foi casado com Eugénia Pessoa Elyseu"
+        }
+      ],
+      "nota": "A fonte acrescenta que a filha mais velha é meia-irmã das restantes, sem dizer quem é a mãe de cada filho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

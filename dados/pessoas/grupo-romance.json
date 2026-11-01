@@ -1,0 +1,134 @@
+{
+  "id": "grupo-romance",
+  "tipo": "grupo",
+  "nome": "Romance",
+  "nomes_alternativos": [
+    "Grupo Romance",
+    "Os Romance"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_111421006060645085.html",
+      "doc": "gc-i:111421006060645085",
+      "citacao": "Actuações no \"Mês do Fado\". Grupo Romance: Luís Oliveira, Nuno Silva, João Barreiros e Luís Ferreirinha."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+      "doc": "gc-i:115405640078927455",
+      "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Mês do Fado (abril de 2005) e Café Santa Cruz, no Mês do Fado de 2006",
+      "data": "2005-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_111421006060645085.html",
+          "doc": "gc-i:111421006060645085",
+          "citacao": "Actuações no \"Mês do Fado\". Grupo Romance: Luís Oliveira, Nuno Silva, João Barreiros e Luís Ferreirinha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-romance-no-caf-santa-cruz-no-ms.html",
+          "doc": "gc-i:114411734760814015",
+          "citacao": "Grupo Romance no Café Santa Cruz no Mês do Fado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Galeria Almedina e Quebra-Costas, Coimbra (julho de 2006)",
+      "data": "2006-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-logo.html",
+          "doc": "gc-i:115297161683809350",
+          "citacao": "Grupo Romance, logo à noite, na Galeria Almedina."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+          "doc": "gc-i:115405640078927455",
+          "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata no Pátio da Inquisição, Coimbra, 24 de julho de 2007",
+      "data": "2007-07-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/07/ontem-24-7-2007-no-ptio-da-inquisio.html",
+          "doc": "gc-i:812057465184000669",
+          "citacao": "Ontem (24-7-2007), no Pátio da Inquisição, realizou-se uma Serenata com o Grupo Romance"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013 (antigos estudantes): «Fraternidade» (Miguel Torga / João Barreiros) e «Romance n.º 2» (Carlos Paredes) por Luís Oliveira",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Romance\n\n11- Fraternidade (Letra: Miguel Torga / Música: João Barreiros)\n\n12 - Romance nº 2 (Carlos Paredes): Luís Oliveira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "os quatro elementos são primeiros tenores do Coro dos Antigos Orfeonistas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+          "doc": "gc-i:115405640078927455",
+          "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Quarteto%203.0.jpg",
+      "legenda": "Grupo Romance no Quebra-Costas (julho de 2006): João Barreiros e Nuno Silva a cantar; Luís Oliveira (guitarra) e Luís Ferreirinha (viola).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405640078927455.html",
+          "doc": "gc-i:115405640078927455",
+          "citacao": "Grupo Romance, no Quebra-Costas esta quinta-feira. São eles: João Barreiros e Nuno Silva a cantar; Luís Oliveira (g) e Luìs Ferreirinha (v). São também quatro bons primeiros tenores do Coro dos Antigos Orfeonistas."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

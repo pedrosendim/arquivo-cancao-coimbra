@@ -1,0 +1,169 @@
+{
+  "id": "fabio-borges",
+  "tipo": "pessoa",
+  "nome": "Fábio Borges",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/artist/13796209",
+      "doc": "discogs:w7b8bb13eb0f5a628",
+      "citacao": "Fadista de Coimbra, natural de Almeirim."
+    },
+    {
+      "fonte": "rtp-play",
+      "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+      "doc": "rtp-play:w578cf12596fe61ba",
+      "citacao": "Este álbum nasce da vontade de celebrar os meus últimos 10 anos dedicados ao Fado de Coimbra. Aqui, eternizo as melodias que são a base do meu Ser enquanto Fadista."
+    },
+    {
+      "fonte": "rtp-play",
+      "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+      "doc": "rtp-play:w578cf12596fe61ba",
+      "citacao": "Este primeiro disco representa o ponto de partida que sempre sonhei: cantar com verdade a partir da Presença que os grandes mestres do Fado me ensinaram."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Almeirim",
+      "local": "Almeirim",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/13796209",
+          "doc": "discogs:w7b8bb13eb0f5a628",
+          "citacao": "Fadista de Coimbra, natural de Almeirim."
+        }
+      ],
+      "conflito": false,
+      "nota": "Perfil de artista no Discogs."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro disco, CD «Fado de Coimbra» (edição de autor, 2023), com Ricardo Dias (guitarra portuguesa) e Paulo Larguesa",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/28956727",
+          "doc": "discogs:w5d9bf2a671caeb73",
+          "citacao": "Título: Fado de Coimbra ... Data: 2023 ... 12-String Acoustic Guitar – Paulo Larguesa ... Portuguese Guitar – Ricardo Dias (12) ... Vocals, Producer – Fábio Borges (2)"
+        },
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Este primeiro disco representa o ponto de partida que sempre sonhei"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Discogs credita Paulo Larguesa como «12-String Acoustic Guitar»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Entrevista sobre o CD «Fado de Coimbra» no programa «Vozes da Lusofonia» (Antena 1), episódio 48, 10 de dezembro de 2023",
+      "data": "2023-12-10",
+      "fontes": [
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Vozes da Lusofonia Episódio 48 - de 10 dez 2023 ... Fábio Borges e o cd Fado De Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Refere os seus alunos e a sua evolução «como professor e músico»",
+      "fontes": [
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Aos meus alunos agradeço a dedicação: as experiências que trocamos inspiram-me a continuar a evoluir como professor e músico."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do próprio artista na página do episódio da RTP; não diz o que ensina."
+    },
+    {
+      "campo": "outro",
+      "valor": "Agradece à RTP o espaço que lhe tem dado, em especial no programa «Praça da Alegria»",
+      "fontes": [
+        {
+          "fonte": "rtp-play",
+          "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia",
+          "doc": "rtp-play:w578cf12596fe61ba",
+          "citacao": "Agradeço por último à RTP o espaço que sempre tem guardado para mim, em especial na Praça da Alegria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Claustros da Sé Velha, Coimbra, 7 de setembro de 2024: «Fado das Andorinhas» (acompanhado por Gil Godinho e Raquel Paixão; título do registo)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7434",
+          "doc": "mpagdp:w7a9ade5ab2d5d0ba",
+          "citacao": "Fábio Borges acompanhado por Gil Godinho e Raquel Paixão - \"Fado das Andorinhas\" ... Gravado nos Claustros da Sé Velha, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no próprio registo (PROJECTO 4288): o título indica «Fado das Andorinhas»; a descrição indica «Variações em ré menor de Gonçalo Paredes»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Claustros da Sé Velha, Coimbra, 7 de setembro de 2024: «Variações em ré menor de Gonçalo Paredes» (acompanhado por Gil Godinho e Raquel Paixão; descrição do registo)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7434",
+          "doc": "mpagdp:w7a9ade5ab2d5d0ba",
+          "citacao": "Fábio Borges acompanhado por Gil Godinho (viola) e Raquel Paixão (guitarra portuguesa) - \"Variações em ré menor de Gonçalo Paredes\" ... Gravado nos Claustros da Sé Velha, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no próprio registo (PROJECTO 4288): o título indica «Fado das Andorinhas»; a descrição indica «Variações em ré menor de Gonçalo Paredes»."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://i.discogs.com/nxREgKPvs-3Pt-TTHyqZHNICAzPqbpmA9_8WDyzC3kI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzk2/MjA5LTE3MjIzNDQ3/MjgtNzc1NC5qcGVn.jpeg",
+      "legenda": "Fábio Borges, «fadista de Coimbra» (imagem do perfil de artista no Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/13796209",
+          "doc": "discogs:w7b8bb13eb0f5a628",
+          "citacao": "Nome: Fábio Borges (2) ... Fadista de Coimbra, natural de Almeirim. ... Imagem: https://i.discogs.com/nxREgKPvs-3Pt-TTHyqZHNICAzPqbpmA9_8WDyzC3kI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzk2/MjA5LTE3MjIzNDQ3/MjgtNzc1NC5qcGVn.jpeg"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Vozes da Lusofonia (Antena 1), ep. 48, 10-12-2023",
+      "url": "https://www.rtp.pt/play/p276/e733428/vozes-de-lusofonia"
+    },
+    {
+      "rotulo": "Fábio Borges no Discogs",
+      "url": "https://www.discogs.com/artist/13796209"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "citara-joaquim-pedro-dos-reis-1764",
+  "designacao": "Cítara (guitarra) de Joaquim Pedro dos Reis, Lisboa, datada de 1764, dita «Guitarra da Severa» (Museu da Cidade, Lisboa)",
+  "tipo": "cítara",
+  "construtor": "joaquim-pedro-dos-reis",
+  "ano": "1764",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Construída em Lisboa por Joaquim Pedro dos Reis e datada de 1764",
+      "data": "1764",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "construída em Lisboa por Joaquim Pedro dos Reis e datada de 1764"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "built in Lisbon by Joaquim Pedro dos Reis in 1764"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Armando Simões considera a referência ao ano de 1764 «perfeitamente anacrónica» (entre outras razões, este exemplar já tem escala de dezassete pontos)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "E Armando Simões, na mesma linha, e em decidida contestação, escreve: «a referencia ao ano de 1764 é perfeitamente anacrónica»"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "ao passo que neste exemplar já é de dezassete pontos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Citado por Ernesto Veiga de Oliveira, no texto reproduzido no blogue em 2005."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ron Fernandez diz não ter informação sobre como e por quem foi datada; se a data estiver certa, é 32 anos anterior ao Estudo de Guitarra de António da Silva Leite (1796)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "At this time I do not have information on how or who dated this instrument. If the date of 1764 is correct, then this instrument was made 32 years before Antonio da Silva Leite's Estudo da Guitarra (1796)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Está no Museu da Cidade, em Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "This instrument is in the Museum da Cidade (City Museum) in Lisbon, Portugal."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "(presently in Museu da Cidade, Lisbon, Portugal)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Atribuída à fadista Severa (Maria Severa, 1820-1846) por alguns autores / por uma tradição discutível",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "Some commentators believe this to be the instrument of the 19th century fadista, Maria Severa (1820-1846) who was amorosly linked to the Conde de Vimioso."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "A descoberta de uma guitarra, que uma tradição discutível atribui à famosa «fadista» do século XIX, a Severa"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "allegedly belonging to the legendary Maria Severa Honofriana (1820–1846)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "António Osório não parece acreditar na autenticidade desta «Guitarra da Severa»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "António Osório não parece acreditar na autenticidade desta «Guitarra da Severa»"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Pedro Caldeira Cabral chama-lhe «cítara popular» (A Guitarra Portuguesa, p. 141)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "Pedro Caldeira Cabral refers to this instrument as the cítara popular (p. 141 in his A Guitarra Portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Seis ordens de doze cordas; cravelhas inseridas através da cabeça; forma próxima da guitarra inglesa, mas com caixa aparentemente mais funda; «de cravelhas e de feição muito popular»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "it has 6 course of 12 strings whereas the English Guittar usually had 6 courses of 10 strings. The shape is close to that of the English guittar but the box seems deeper. Notice that the tuning pegs are inserted through the head"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+          "doc": "gc-i:112131006471175543",
+          "citacao": "de cravelhas e de feição muito popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Nuno Cristo, tem uma forma mais arredondada, mais próxima da das guitarras posteriores",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "has a more rounded form, closer to the shape of later"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Pedro Caldeira Cabral (1999), o modelo moderno da guitarra de Lisboa pode ligar-se a este instrumento: Armandinho terá pedido a João Pedro Grácio Júnior uma versão semelhante à velha cítara, com a mecânica e a ergonomia das guitarras da época",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "it could also be linked to the historical instrument made by Joaquim Pedro dos Reis in the eighteenth century"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "Inspired by the size and form of the old cítara, the guitarrista asked the maker to create a similar version but incorporating the latest mechanical and ergonomic features of the GPs of the time."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cabral 1999: 166 e 169, citado por Nuno Cristo (2014)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/1764Guitarraface.gif",
+      "legenda": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "I took these photos quickly at the museum in 2004"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/1764Guitarraside.gif",
+      "legenda": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+          "doc": "fernandez-music:waa6850db25308e37",
+          "citacao": "I took these photos quickly at the museum in 2004"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Reis_Portugueseguitar1764.html",
+      "doc": "fernandez-music:waa6850db25308e37",
+      "citacao": "Portuguese guitarra by Joaquim Pedro dos Reis, made 1764"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-portuguesa-por-ernesto-veiga.html",
+      "doc": "gc-i:112131006471175543",
+      "citacao": "construída em Lisboa por Joaquim Pedro dos Reis e datada de 1764"
+    },
+    {
+      "fonte": "cristo-2014-york",
+      "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+      "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+      "citacao": "One of the surviving cítaras, built in Lisbon by Joaquim Pedro dos Reis in 1764"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

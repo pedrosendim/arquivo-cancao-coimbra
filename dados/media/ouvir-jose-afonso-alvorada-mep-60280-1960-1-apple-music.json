@@ -1,0 +1,30 @@
+{
+  "id": "ouvir-jose-afonso-alvorada-mep-60280-1960-1-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/mar-largo/1806618704?i=1806618950",
+  "titulo": "Mar Largo — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-portugal",
+    "jorge-godinho",
+    "manuel-pepe",
+    "levi-baptista",
+    "eduardo-de-melo",
+    "paulo-alao"
+  ],
+  "obras": [
+    "mar-largo"
+  ],
+  "gravacao": "jose-afonso-alvorada-mep-60280-1960",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/0d/cc/150dcc95-b6fc-41f4-ef22-517dc4117f79/2146.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/mar-largo/1806618704?i=1806618950"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Mar Largo - Single», ℗ 2024 Mais 5). Não se sabe se é a mesma gravação desta edição.",
+  "estado_revisao": "rascunho"
+}

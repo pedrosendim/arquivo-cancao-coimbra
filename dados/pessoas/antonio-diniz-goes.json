@@ -1,0 +1,46 @@
+{
+  "id": "antonio-diniz-goes",
+  "tipo": "pessoa",
+  "nome": "António Diniz Goes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Barreiros, Amor, Leiria, 1859",
+      "data": "1859",
+      "local": "Barreiros, Amor (Leiria)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Mestre régio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era filho de António Diniz Goes, mestre régio, nascido em 1859, no lugar de Barreiros, Amor, Leiria, e de Maria Ferreira do Carmo, natural da Eira Velha, Colmeias, Leiria, nascida em Colmeias, no ano de 1865, e falecida na Gândara dos Olivais, em 1940."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

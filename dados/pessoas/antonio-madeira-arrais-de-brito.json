@@ -1,0 +1,44 @@
+{
+  "id": "antonio-madeira-arrais-de-brito",
+  "tipo": "pessoa",
+  "nome": "António Madeira Arrais de Brito",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "residencia",
+      "valor": "Chamusca da Beira",
+      "data": "",
+      "local": "Chamusca da Beira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Conheceram-se na Chamusca da Beira, quando a jovem passava férias em casa dum tio de Eugénio, irmão de sua mãe"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "inacia-soares-de-brito",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "em casa dum tio de Eugénio, irmão de sua mãe, aproveitando os ares magníficos das Beiras. Era a casa do tio António Madeira Arrais de Brito."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

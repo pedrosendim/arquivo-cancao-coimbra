@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-5316-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0152_22.mp3",
+  "titulo": "Samaritana — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-5316",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0304.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/299/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:wbd1fac1964aa643b",
+      "citacao": "Título: Samaritana ... Editora: Co. 5316 Referências: P301, W; 5316-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

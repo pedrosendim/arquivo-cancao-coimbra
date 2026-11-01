@@ -1,0 +1,37 @@
+{
+  "id": "manuel-mora",
+  "tipo": "pessoa",
+  "nome": "Manuel Mora",
+  "nomes_alternativos": [
+    "Manolete Mora"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "presenca-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fado-de-coimbra-chega-hong-kong_03.html",
+          "doc": "gc-i:111253690377399037",
+          "citacao": "Aqui vão os nomes dos participantes que estão na fotografia: Custódio Moreirinhas, Manuel Mora, Octávio Sérgio, Ricardo Dias, Carlos Caiado e Luís Ferreirinha. Na mesma, de pé, estão José Mesquita e Paulo Amador. Do grupo ainda fizeram parte Sobral Torres, João Pinheiro e José Andrade Ferreira, a cantar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-presena-coimbr-em-macau-no-ano.html",
+          "doc": "gc-i:111931726008145431",
+          "citacao": "Grupo Presença Coimbrã em Macau, no ano de 2004, numa actuação depois dum jantar num restaurante português, com os antigos futebolistas da Académica.\n\nCustódio Moreirinhas e Carlos Caiado, na viola; Manuel Mora e Octávio Sérgio na guitarra; Paulo Amador a cantar"
+        }
+      ],
+      "nota": "guitarra; digressão de 2004"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

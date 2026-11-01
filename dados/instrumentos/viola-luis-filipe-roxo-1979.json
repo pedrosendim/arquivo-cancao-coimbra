@@ -1,0 +1,93 @@
+{
+  "id": "viola-luis-filipe-roxo-1979",
+  "designacao": "Viola assinada por Luís Filipe Roxo, com data de 1979, construída para a Canção de Coimbra",
+  "tipo": "viola",
+  "construtor": "luis-filipe-roxo",
+  "ano": "1979",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Assinada por Luís Filipe Rôxo, com data de 1979; encomendada pelo pai de Mário Morais, recebida no início dos anos 80",
+      "data": "1979",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "Possuo uma viola assinada pelo Luís Filipe Rôxo, com data de 1979 que o meu pai, que fez parte de alguns grupos incluindo o Grupo Etnográfico da Casa de Pessoal da UC, encomendou e que recebeu no início dos anos 80."
+        }
+      ],
+      "conflito": false,
+      "nota": "Mensagem de Mário Morais publicada no blogue (2019)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Construída para «canção de Coimbra»; talvez das últimas feitas por Luís Filipe Roxo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "construída para \"canção de Coimbra\""
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "Esta viola, talvez a última ou das últimas feitas pelo Luís Filipe, segundo me disse o luthier"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Revista por Fernando Miraldo, sem alterar a estrutura; posta à venda em 2019",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "o Eng Miraldo recomendou-me uma revisão sem alterar a estrutura da viola"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "hoje encontra-se revista pelo luthier e foi colocada à venda no olx."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDsBn8rXiS6I3wNdBloWiuhiC7I2BGgw39iWNBWCCBwN4s76lNopCfzmUe3DH0u4LCCHFAZ1iXWeteRYAToN-2WAltan8tuaxTgJbjDhVL-IILh17giFrO8XHmEaEK3jdPVXHyrEXTjFQ/s1600/Foto1%255B29492%255D.jpg",
+      "legenda": "Viola assinada por Luís Filipe Rôxo (1979): fotografia anexa à proposta de venda (2019).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+          "doc": "gc-v:1066230576480120374",
+          "citacao": "Algumas fotos em anexo poderão dar uma pequena ideia do estado do instrumento"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/06/proposta-de-venda-bom-dia-coloco-v.html",
+      "doc": "gc-v:1066230576480120374",
+      "citacao": "Possuo uma viola assinada pelo Luís Filipe Rôxo, com data de 1979"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

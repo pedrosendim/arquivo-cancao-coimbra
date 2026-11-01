@@ -1,0 +1,44 @@
+{
+  "id": "homero-irmao-de-petronio-ricciulli",
+  "tipo": "pessoa",
+  "nome": "Homero",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "Já falecido à data do post",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
+          "doc": "gc-v:3877914886718455376",
+          "citacao": "Dos seus dois irmãos, apenas a irmã Dinorah, se mantem entre nós, já com os seus 101 anos, dado que o irmão Homero também faleceu."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "petronio-ricciuli",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
+          "doc": "gc-v:3877914886718455376",
+          "citacao": "Dos seus dois irmãos, apenas a irmã Dinorah, se mantem entre nós, já com os seus 101 anos, dado que o irmão Homero também faleceu."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

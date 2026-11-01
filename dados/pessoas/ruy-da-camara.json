@@ -1,0 +1,32 @@
+{
+  "id": "ruy-da-camara",
+  "tipo": "pessoa",
+  "nome": "Ruy da Câmara",
+  "nomes_alternativos": [
+    "D. Ruy da Câmara"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Cavaleiro tauromáquico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "cavaleiro tauromáquico D. Ruy da Câmara"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

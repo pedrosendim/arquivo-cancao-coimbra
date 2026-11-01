@@ -1,0 +1,392 @@
+{
+  "id": "toada-coimbra",
+  "tipo": "grupo",
+  "nome": "Toada Coimbrã",
+  "nomes_alternativos": [
+    "Grupo Toada Coimbrã",
+    "Grupo de Fados de Coimbra Toada Coimbrã",
+    "grupo de Canto e Guitarra de Coimbra Toada Coimbrã"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/rui-lucas-em-alta-noite-na-se-velha-em.html",
+      "doc": "gc-iv:8749920555961969521",
+      "citacao": "Rui Lucas em \"Alta Noite na Sé Velha\", em 1989, com a Toada Coimbrã, na Serenata Monumental da Queima das Fitas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+      "doc": "gc-i:4090017470650284611",
+      "citacao": "Grupo Toada Coimbrã, ontem, na Galeria Almedina. Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/12/o-grupo-de-canto-e-guitarra-de-coimbra.html",
+      "doc": "gc-i:4245885948583376603",
+      "citacao": "O grupo de Canto e Guitarra de Coimbra \"Toada Coimbrã\", celebrou 20 anos de carreira."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/toada-coimbr.html",
+      "doc": "gc-ii:2884467797156970368",
+      "citacao": "Último CD do Grupo \"Toada Coimbrã\". ... Podemos constatar que todas as peças são da autoria dos membros do grupo, o que é de enaltecer."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "criado em 1987 (Discogs)",
+      "data": "1987",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/2301352",
+          "doc": "discogs:w3a420468cb36065d",
+          "citacao": "A Fado group from Coimbra, created in 1987, still in existence."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas de 1989, com Rui Lucas em «Alta Noite na Sé Velha»",
+      "data": "1989",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/rui-lucas-em-alta-noite-na-se-velha-em.html",
+          "doc": "gc-iv:8749920555961969521",
+          "citacao": "Rui Lucas em \"Alta Noite na Sé Velha\", em 1989, com a Toada Coimbrã, na Serenata Monumental da Queima das Fitas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP Toada Coimbrã (1990)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/verso-do-ep-toada-coimbr-1990.html",
+          "doc": "gc-i:113761208813967838",
+          "citacao": "Verso do EP Toada Coimbrã (1990)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/2301352",
+          "doc": "discogs:w3a420468cb36065d",
+          "citacao": "1990 · Toada Coimbrã · Duplisom"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD de Canção de Coimbra lançado no Café Santa Cruz (Diário de Coimbra de 28-11-2007), com peças da autoria dos membros do grupo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/lanamento-do-ltimo-cd-de-cano-de.html",
+          "doc": "gc-i:3037263294482653029",
+          "citacao": "Lançamento do último CD de Canção de Coimbra do grupo \"Toada Coimbrã\", no Café Santa Cruz. Site do grupo e Diário de Coimbra de 28-11-2007."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/toada-coimbr.html",
+          "doc": "gc-ii:2884467797156970368",
+          "citacao": "Podemos constatar que todas as peças são da autoria dos membros do grupo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "celebrou 20 anos de carreira (Diário de Coimbra, dezembro de 2007)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/o-grupo-de-canto-e-guitarra-de-coimbra.html",
+          "doc": "gc-i:4245885948583376603",
+          "citacao": "celebrou 20 anos de carreira. Diário de Coimbra de ontem, no suplemento Fim-de-semana."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação em 2007: António José Vicente e João Paulo Sousa (guitarras), João Carlos Oliveira e Jorge Mira Marques (violas), Rui Pedro Lucas e Alcides Sá Esteves (canto)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "primeira cassete gravada ainda a três (António Vicente, João Carlos Oliveira e Rui Lucas), c. 1987, nos estúdios da RDP; grupo completo desde finais de 1988",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "As nossas edições resumem-se a duas K7, a primeira das quais gravada ainda a 3 (Vicente, João Carlos e Rui Lucas) creio que em 87, ainda nos estúdios da RDP"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "De salientar que já o grupo estava completo (desde finais de 88)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Mensagem de João Paulo Sousa, membro do grupo, publicada no blogue (2005)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "segunda cassete, Movieplay, fados tradicionais, 1991 (segundo João Paulo Sousa)",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "A segunda foi gravada para o mercado expositor, então na Moviplay, e contempla ainda apenas fados tradicionais, datando de 91."
+        }
+      ],
+      "conflito": true,
+      "nota": "O inventário de registos fonográficos publicado no blogue em 2026 data esta cassete de 1992."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "cassete Movieplay, 1992, 12 temas antigos (inventário de registos fonográficos)",
+      "data": "1992",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-Grupo de Fados de Coimbra Toada Coimbrã, cassete Movieplay, ano\nde 1992. Cantam: Rui Lucas e Alcides Esteves. Guitarras: António Vicente e João\nPaulo Sousa. Regista 12 temas antigos."
+        }
+      ],
+      "conflito": true,
+      "nota": "João Paulo Sousa (2005) data a cassete de 1991."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participação no LP coletivo «Baladas de Despedida, Anos 80» (Duplisom 1.004, 1990), com a Balada da Despedida do 5.º Ano Jurídico 88/89",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Baladas de Despedida, Anos 80, pelos Grupo Académico de\nFados e Canções de Coimbra, Grupo de Fados de Coimbra Toada Coimbrã, Grupo de\nCanção de Coimbra Praxis Nova, Duplisom 1.004, Sacavém, 1990."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "Tal Balada seria ainda editada na colectânea das Baladas dos Anos 80, primeiro em vinil (LP) e depois em CD."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participação na coletânea «Baladas de Despedida – Anos 90», com a Balada do 5.º Ano Jurídico de 89/90",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "Por fim, mais recentemente, participámos ainda na colectânea das Baladas de 90, com o tema de abertura \"Balada do 5º Ano Jurídico de 89/90\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Toada Coimbrã” – Rui Pedro Lucas e Alcides Sá Esteves a cantar; António Vicente e João Paulo Sousa à guitarra; João Carlos Oliveira e Jorge Mira Marques à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD de originais (Ovação, 538CD, 2007), 16 temas, quase todos de António Vicente, Rui Pedro Lucas, António Dias Lucas e João Paulo Sousa",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/toada-coimbr.html",
+          "doc": "gc-i:5974446284989726332",
+          "citacao": "Depois de longo período de gestação, saiu finalmente o CD de originais da TOADA COIMBRÃ.\n\nO CD, com a referência 538CD é editado pela Ovação"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "António José Vicente e João Carlos Oliveira foram impulsionadores da Estudantina Universitária de Coimbra e autores de muitas das suas letras",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/ontem-noite-o-caf-santa-cruz-no-chegava.html",
+          "doc": "gc-i:7880251164333080234",
+          "citacao": "seguiu-se a actuação da Estudantina Universitária de Coimbra, de que António José Vicente e João Carlos Oliveira foram impulsionadores e fizeram muitas das letras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "lançamento do CD no Café Santa Cruz, com lotação esgotada (6 de dezembro de 2007), «quase a completar 21 anos de existência»",
+      "data": "2007-12-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/ontem-noite-o-caf-santa-cruz-no-chegava.html",
+          "doc": "gc-i:7880251164333080234",
+          "citacao": "Ontem à noite, o Café Santa Cruz não chegava para tanta gente em Coimbra, estava \"Lotação Esgotada\" no lançamento do CD do Grupo Toada Coimbrã quase a completar 21 anos de existência"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Castelo Branco (janeiro de 2008)",
+      "data": "2008-01",
+      "local": "Castelo Branco",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/o-grupo-de-canto-e-guitarra-de-coimbra.html",
+          "doc": "gc-ii:5285272087754032373",
+          "citacao": "O grupo de Canto e Guitarra de Coimbra, \"Toada Coimbrã\", actua logo à noite em Castelo Branco."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Casino do Luso, 12 de julho de 2008: Rui Pedro Lucas e Alcides Sá Esteves (cantores), António Vicente e João Paulo Sousa (guitarras), João Carlos Oliveira e Jorge Mira Marques (violas)",
+      "data": "2008-07-12",
+      "local": "Luso",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/toada-coimbra-no-casino-do-luso-12.html",
+          "doc": "gc-iv:2365495876980512055",
+          "citacao": "Grupo Toada Coimbrã no Casino do Luso, 12.07.2008. \"Trova das Capas\" (A. Vicente / R. P. Lucas). Composição do Grupo: Rui Pedro Lucas (cantor), Alcides Sá Esteves (cantor), António Vicente (Guit. Portuguesa), João Paulo Sousa (Guit. Portuguesa), João Carlos Oliveira (viola) e Jorge Mira Marques (viola)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Escadas de Santiago, Coimbra (18 de julho de 2009) e evocação de José Afonso no Cartaxo (setembro de 2009)",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/o-grupo-toada-coimbra-actua-hoje-nas.html",
+          "doc": "gc-iii:5033039675383246291",
+          "citacao": "O grupo Toada Coimbrã actua hoje nas Escadas de Santiago, em Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/jose-afonso-evocado-no-cartaxo-com-o.html",
+          "doc": "gc-iii:8732541228893758750",
+          "citacao": "José Afonso evocado no Cartaxo, com o grupo de Guitarra e Canto de Coimbra Toada Coimbrã."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI3W0zMT1dZalmj5y5mwKMqS-Ij64ngQ7h9nYtmAYYNU_PQ_h-K0rPUBg4RnkiPuEJ1y_BLcSVp92DpIMB8ptAcfk5oVxGMeawsX2DuMzYtn1WUVLupY8gqZMshUJBV37llao8/s1600-h/Toada-002.jpg-A.gif",
+      "legenda": "Lançamento do CD da Toada Coimbrã no Café Santa Cruz (6 de dezembro de 2007).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/ontem-noite-o-caf-santa-cruz-no-chegava.html",
+          "doc": "gc-i:7880251164333080234",
+          "citacao": "estava \"Lotação Esgotada\" no lançamento do CD do Grupo Toada Coimbrã"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4dVs0vuxW8aQiLCzt25rFCMfg2xOschkWDFz3yxKuO-DMXKslDMcS50AD38F9AX5y3FhvKLAzvx0CMgD4dg03TJkka9fJY1cpSwnt3StoHzcgwfkEt1zBXVtqOvHomJES-a3/s1600-h/Toada+Coimbra+CD+capa+2007.jpg",
+      "legenda": "Capa do CD de originais da Toada Coimbrã (Ovação, 538CD, 2007).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/toada-coimbr.html",
+          "doc": "gc-i:5974446284989726332",
+          "citacao": "saiu finalmente o CD de originais da TOADA COIMBRÃ."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsMNc6bRYi0eapeD-rguegWLx5JDxnDf9Dn2nCYcbw1SpJws9m_U6tBQFAb6dqyEwvpqJvbChOmJ9rmmgX0n2UBujwj2v808JL5_IxR3pdiVYmZIMQmKF35y6O-EDeFLKOzlHd/s1600-h/P6232145.JPG",
+      "legenda": "Grupo Toada Coimbrã na Galeria Almedina (junho de 2007).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Grupo Toada Coimbrã, ontem, na Galeria Almedina."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%201.jpg",
+      "legenda": "Toada Coimbrã nas Noites da Canção de Coimbra (2005): João Carlos Oliveira, António José Vicente, João Paulo Sousa e Jorge Mira Marques; a cantar, Alcides de Sá Esteves.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/noites-da-cano-de-coimbra.html",
+          "doc": "gc-i:111853057304618429",
+          "citacao": "Actuou o grupo, \"Toada Coimbrã\". Na foto, João Carlos Oliveira, António José Vicente, joão Paulo Sousa e Jorge Mira Marques. A cantar, Alcides de Sá Esteves."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Toada Coimbrã",
+      "url": "https://www.discogs.com/artist/2301352"
+    },
+    {
+      "rotulo": "YouTube: Rui Lucas com a Toada Coimbrã, Serenata Monumental de 1989",
+      "url": "https://www.youtube.com/watch?v=4-xmGX6WGzg"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

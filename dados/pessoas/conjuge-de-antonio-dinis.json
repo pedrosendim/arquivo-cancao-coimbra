@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-antonio-dinis",
+  "tipo": "pessoa",
+  "nome": "Mulher de António Dinis (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "antonio-dinis",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/cancao-flora_23.html",
+          "doc": "gc-v:869271124746681255",
+          "citacao": "o Dr. António Dinis informou-nos que aprendeu esta canção com a avó de sua esposa."
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Nota à «Canção à Flora»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

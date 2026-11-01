@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-gramophone-262147-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0471_24.mp3",
+  "titulo": "Maria Paula — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-gramophone-262147",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0938.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/927/manasses_de_lacerda_maria_paula",
+      "doc": "museu-do-fado:w466ed28fc6bd8ba2",
+      "citacao": "Título: Maria Paula ... Editora: Gra.262147  Referências: Disque Pour Gramophone 17643u, 262147_; 262147"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

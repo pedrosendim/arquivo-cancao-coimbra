@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-gramophone-gc-62071-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2493_53.mp3",
+  "titulo": "Canção da Noite — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-gramophone-gc-62071",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4762.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4908/avelino_baptista_cancao_da_noite",
+      "doc": "museu-do-fado:w291e0c14f3d6dd7f",
+      "citacao": "Título: Canção da Noite ... Editora: D.P. Gramophone GC -62071  Referências: Disque Pour Gramophone 8303F, 62071; GC - 62071"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

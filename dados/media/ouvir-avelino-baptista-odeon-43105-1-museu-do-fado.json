@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-43105-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1986_29.mp3",
+  "titulo": "Noite serena — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-43105",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3749.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3899/avelino_baptista_noite_serena",
+      "doc": "museu-do-fado:w9fd5ae9fdd88af5f",
+      "citacao": "Título: Noite serena ... Editora: Odeon 43105 43106 Referências: Disco Odeon, XO34, X, 43105; 43105"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ouvir-jose-afonso-rapsodia-epf-5085-1960-1-apple-music",
+  "tipo": "audio",
+  "plataforma": "apple-music",
+  "url": "https://music.apple.com/pt/album/balada-do-outono/833823060?i=833823098",
+  "titulo": "Balada do Outono — José Afonso",
+  "data": "",
+  "pessoas": [
+    "jose-afonso",
+    "antonio-portugal",
+    "eduardo-de-melo",
+    "manuel-pepe",
+    "paulo-alao"
+  ],
+  "obras": [
+    "balada-do-outono"
+  ],
+  "gravacao": "jose-afonso-rapsodia-epf-5085-1960",
+  "miniatura": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/d0/16/3fd0162b-36b3-12fa-77b1-6015841b0b49/888608727068.jpg/600x600bb.jpg",
+  "fontes": [
+    {
+      "fonte": "apple-music",
+      "url": "https://music.apple.com/pt/album/balada-do-outono/833823060?i=833823098"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma (álbum «Balada do Outono - Single», ℗ 2014 Entertain Me Europe LTD). Não se sabe se é a mesma gravação desta edição.",
+  "estado_revisao": "rascunho"
+}

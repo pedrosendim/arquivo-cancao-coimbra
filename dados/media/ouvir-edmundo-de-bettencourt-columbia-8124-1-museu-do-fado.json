@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-8124-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0157_06.mp3",
+  "titulo": "Canção da Beira Baixa — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "albano-de-noronha",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-8124",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0314.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/308/edmundo_bettencourt_cancao_da_beira_baixa",
+      "doc": "museu-do-fado:wcd286ac748d516d3",
+      "citacao": "Título: Canção da Beira Baixa ... Editora: Co. 8124 Referências: WP302-3, W, 32587, C, TT, ; 8124"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "antonio-sutil-roque",
+  "tipo": "pessoa",
+  "nome": "António Sutil Roque",
+  "nomes_alternativos": [
+    "Sutil Roque"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte vocal estava a cargo de Fernando Machado Soares (FD/UC, tenor), Fernando Rolim (FM/UC, tenor), José Afonso (FL/UC, 2.º tenor), António Sutil Roque (FM/UC, tenor) e Luiz Goes (FM/UC, barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "nota": "tenor"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Para além de António Brojo e António Portugal (guitarras) e de Aurélio Reis e Mário de Castro (violas) integraram este grupo Luís Goes, José Afonso, Femando Machado Soares, Femando Rolim, Sutil Roque e Florêncio de Carvalho, entre outros."
+        }
+      ],
+      "nota": "segundo o texto da AJA; não consta da formação indicada no blogue GC-V (2016)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Sutil%20Roque%20a%20cantar.jpg",
+      "legenda": "Homenagem a Ângelo Araújo em S. João da Madeira. Sutil Roque canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/homenagem-ngelo-arajo-na-s_114812729429616304.html",
+          "doc": "gc-i:114812729429616304",
+          "citacao": "Sutil Roque canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

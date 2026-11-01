@@ -1,0 +1,120 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-bl-1001",
+  "titulo": "Balada do encantamento / Saudades de Coimbra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "BL 1001",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz (tenor)"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "violão de cordas de aço"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada do encantamento",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-bl-1001-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Saudades de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-bl-1001-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Balada do encantamento», por Edmundo Bettencourt — etiqueta: «Balada do Encantamento / (Letra de D. José Pais - Música de D. José Pais) / Dr. Edmundo Bettencourt, Tenor / Acompanhamento de guitarras portuguesas e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/314/edmundo_bettencourt_balada_do_encantamento",
+          "doc": "museu-do-fado:w14457981e588ee56",
+          "citacao": "Título: Balada do encantamento ... Editora: Co.BL1001,GL107 Referências: WP647, W, 48619; BL1001 ... Etiqueta: Balada do Encantamento / (Letra de D. José Pais - Música de D. José Pais) / Dr. Edmundo Bettencourt, Tenor / Acompanhamento de guitarras portuguesas e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Saudades de Coimbra», por Edmundo Bettencourt — etiqueta: «Saudades de Coimbra (fado) / (Letra de Dr. António de Sousa) / (Música de Mário F. Fonseca) / Dr. Edmundo de Bettencourt, Tenor / Acompanhamento de guitarras portuguesas e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/315/edmundo_bettencourt_saudades_de_coimbra",
+          "doc": "museu-do-fado:wee1edc2654af0801",
+          "citacao": "Título: Saudades de Coimbra ... Editora: Co.BL1001,GL107 Referências: WP662, W, 48574; BL1001 ... Etiqueta: Saudades de Coimbra (fado) / (Letra de Dr. António de Sousa) / (Música de Mário F. Fonseca) / Dr. Edmundo de Bettencourt, Tenor / Acompanhamento de guitarras portuguesas e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhado em guitarra de Coimbra por Artur Paredes e Afonso de Sousa e em violão de cordas de aço por Mário Faria da Fonseca (discos Columbia BL 1001 e GL 107)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Afonso de Sousa e, em violão de cordas de aço, por Mário Faria da Fonseca (discos Columbia, BL 1001 e Columbia, GL 107, master P. 647)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/314/edmundo_bettencourt_balada_do_encantamento",
+      "doc": "museu-do-fado:w14457981e588ee56",
+      "citacao": "Título: Balada do encantamento ... Editora: Co.BL1001,GL107 Referências: WP647, W, 48619; BL1001"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/315/edmundo_bettencourt_saudades_de_coimbra",
+      "doc": "museu-do-fado:wee1edc2654af0801",
+      "citacao": "Título: Saudades de Coimbra ... Editora: Co.BL1001,GL107 Referências: WP662, W, 48574; BL1001"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "citacao": "acompanhado em guitarra de Coimbra por Artur Paredes e Afonso de Sousa e, em violão de cordas de aço, por Mário Faria da Fonseca (discos Columbia, BL 1001 e Columbia, GL 107, master P. 647)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tiago-cunha",
+  "tipo": "pessoa",
+  "nome": "Tiago Cunha",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Aeminium” – João Nuno Farinha a cantar; João Pedro Monteiro e Tiago Cunha à guitarra; Pedro Cunha à viola."
+        }
+      ],
+      "nota": "guitarra; coletânea «Baladas de Despedida – Anos 90»"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarto-crescente",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Grupo Quarto Crescente (TAUC) Grupo constituído por Rui Ferreira/José Manuel Beato (vozes), Tiago Cunha/Miguel Drago (ggC), Adamo Caetano/Paulo Larguesa (vv)"
+        }
+      ],
+      "nota": "guitarra de Coimbra (1994)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

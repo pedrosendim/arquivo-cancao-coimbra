@@ -1,0 +1,103 @@
+{
+  "id": "guitarra-augusto-nunes-dos-santos-c-1900",
+  "designacao": "Guitarra de pequenas dimensões (guitarrilha) adquirida c. 1900 na oficina de Augusto Nunes dos Santos",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "augusto-nunes-dos-santos",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Adquirida à roda de 1900 na oficina de Augusto Nunes dos Santos; não se sabe se feita pelo mestre ou por um oficial",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "uma guitarra de pequenas dimensões adquirida à roda de 1900 na oficina de Augusto Nunes dos Santos, à rua Direita, na baixa de Coimbra. Não se sabe se o fabrico é da mão do mestre violeiro, ou de algum dos vários oficiais que ao tempo trabalhavam na prestigiada oficina."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Pertence a José Duarte, herdada do bisavô José Pedro Leal (1880-1966)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "cordofones pertencentes a José Duarte, herdados de seu bisavô, o comerciante e tocador (?) José Pedro Leal (1880-1966)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Comprimento total 74,5 cm; tiro de corda 42 cm; escala de 17 trastos; voluta floral de duas pétalas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "comprimento total: 74,5cm ... tiro de corda: 42cm"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "Subdivisão em 17 trastos inteiros, com ligeiro abaulamento."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Identificada e medida por Adamo Caetano e Fernando Miraldo a 17 de setembro de 2021",
+      "data": "2021-09-17",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "Em 17.09.2021 Adamo Caetano e Fernando Miraldo levaram a cabo mais um meritório trabalho de identificação, medição e registo dos cordofones pertencentes a José Duarte"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5n6lrdL0_8CQgWtbBGEJCAU8F69i6DK_rewnvhAYhI81-oGCtVcIH8qbQzp_Q97n2sYvFKu46UxuSxK48k7Uu3du3TMlEDq1alS-LNZ9xPclQnaJ_1j2Y0-ZLSrWDp8_95rfCEaeMxGc/s2000/IMG_6225.jpg",
+      "legenda": "Guitarra de pequenas dimensões adquirida c. 1900 na oficina de Augusto Nunes dos Santos (fotografia de Adamo Caetano).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+          "doc": "gc-v:4173458699652495628",
+          "citacao": "Fotografia: Adamo Caetano"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/09/mais-uma-augusto-nunes-dos-santos-1900.html",
+      "doc": "gc-v:4173458699652495628",
+      "citacao": "Mais uma Augusto Nunes dos Santos (1900)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

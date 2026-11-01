@@ -1,0 +1,56 @@
+{
+  "id": "armenio-silva",
+  "tipo": "pessoa",
+  "nome": "Arménio Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Viola de Artur Paredes durante muitos anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Artur Paredes acompanhado de seu filho Carlos Paredes e do seu viola de muitos anos, o excelente Arménio Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "do seu viola de muitos anos, o excelente Arménio Silva"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes/Carlos Paredes (1.ª e 2.ª gC de concerto); Arménio Silva (violão)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "os concertos instrumentais do grupo Artur Paredes/Carlos Paredes/Arménio Silva"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-1035-x-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0461_04.mp3",
+  "titulo": "Vira de Coimbra — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-1035-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0919.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/907/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:w90c7e984f413fbdc",
+      "citacao": "Título: Vira de Coimbra ... Editora: Co. 1035X, 5.016 Referências: P192, W, 2-B-34; 1035-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

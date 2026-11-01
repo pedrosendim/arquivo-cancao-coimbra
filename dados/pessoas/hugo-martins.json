@@ -1,0 +1,46 @@
+{
+  "id": "hugo-martins",
+  "tipo": "pessoa",
+  "nome": "Hugo Martins",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013, bloco do Fado ao Centro: «Maria» (Antero de Quental / João Farinha)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Maria (Letra: Antero de Quental / Música: João Farinha):\nHugo Martíns"
+        }
+      ],
+      "conflito": false,
+      "nota": "O programa grafa «Hugo Martíns»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Clássicos do Fado de Coimbra», Fado ao Centro, 2015 (voz)",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16024589",
+          "doc": "discogs:wbf0d9d50ac50f252",
+          "citacao": "Vocals – Hugo Martins (3)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

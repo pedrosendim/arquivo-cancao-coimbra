@@ -1,0 +1,51 @@
+{
+  "id": "joao-farinha-a-conta-que-deus-fez-2024",
+  "titulo": "A Conta Que Deus Fez",
+  "formato": "",
+  "editora": "",
+  "referencia": "",
+  "ano": "2024",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "joao-farinha-1976",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/6wIZAknOiuCfgoBvYVCUHw",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "texto de apresentação de João Gobern (2024)",
+      "fontes": [
+        {
+          "fonte": "joao-farinha-site",
+          "url": "https://joao-farinha.com/albums",
+          "doc": "joao-farinha-site:w721ab9f9105a5aae",
+          "citacao": "— João Gobern, 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "joao-farinha-site",
+      "url": "https://joao-farinha.com/albums",
+      "doc": "joao-farinha-site:w721ab9f9105a5aae",
+      "citacao": "A CONTA QUE DEUS FEZ 2024"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

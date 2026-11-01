@@ -1,0 +1,52 @@
+{
+  "id": "maria-manuela-valadares-marques-lopo-tuna",
+  "tipo": "pessoa",
+  "nome": "Maria Manuela Valadares Marques Lopo Tuna",
+  "nomes_alternativos": [
+    "Manuela Tuna"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Licenciada em Filologia Germânica (UL)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "casamento com Maria Manuela Valadares Marques Lopo Tuna, licenciada em Filologia Germânica (UL)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jorge-tuna",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "pelo meio (1964), casamento com Maria Manuela Valadares Marques Lopo Tuna, licenciada em Filologia Germânica (UL); do casamento nasceriam quatro filhos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Flores para Manuela – Em homenagem a sua Mulher, Jorge Tuna"
+        }
+      ],
+      "nota": "Casamento em 1964; quatro filhos, que a fonte não nomeia."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

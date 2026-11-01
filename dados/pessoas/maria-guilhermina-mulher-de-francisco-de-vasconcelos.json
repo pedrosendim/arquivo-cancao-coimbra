@@ -1,0 +1,33 @@
+{
+  "id": "maria-guilhermina-mulher-de-francisco-de-vasconcelos",
+  "tipo": "pessoa",
+  "nome": "Maria Guilhermina",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "francisco-de-vasconcelos",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/francisco-de-vasconcelos",
+          "doc": "museu-do-fado:w4d44e6ea68ed3240",
+          "citacao": "Em 1958 casa com Maria Guilhermina"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/francisco-de-vasconcelos",
+          "doc": "museu-do-fado:w4d44e6ea68ed3240",
+          "citacao": "a esposa é a alavanca da sua recuperação"
+        }
+      ],
+      "nota": "A fonte só lhe dá o nome próprio. Casamento em 1958."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

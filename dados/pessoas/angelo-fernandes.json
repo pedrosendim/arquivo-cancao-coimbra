@@ -1,0 +1,80 @@
+{
+  "id": "angelo-fernandes",
+  "tipo": "pessoa",
+  "nome": "Ângelo Fernandes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+      "doc": "gc-v:3938003074711573709",
+      "citacao": "O cantor Ângelo Fernandes fez as primeiras gravações ainda em discos de 78 rpm, no ano de 1955, tendo registado até meados dos anos 60 diversos EP's."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+      "doc": "gc-v:3938003074711573709",
+      "citacao": "As letras e as instrumentações são um bom retrato para se apreender como Coimbra era percebida e sentida nas décadas de 1950-1960 a partir de olhares exógenos."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cançonetista (tenor)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+          "doc": "gc-v:3938003074711573709",
+          "citacao": "Cançonetista (tenor)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, 1925",
+      "data": "1925",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+          "doc": "gc-v:3938003074711573709",
+          "citacao": "Segundo um comentário publicado no GC de 20.04.2021 por António Fernandes, o cantor ÂNGELO FERNANDES nasceu na cidade de Lisboa em 1925 e faleceu na sua cidade natal em 1977."
+        }
+      ],
+      "conflito": false,
+      "nota": "Dado de um comentário de António Fernandes, citado no post."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 1977",
+      "data": "1977",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html",
+          "doc": "gc-v:3938003074711573709",
+          "citacao": "Segundo um comentário publicado no GC de 20.04.2021 por António Fernandes, o cantor ÂNGELO FERNANDES nasceu na cidade de Lisboa em 1925 e faleceu na sua cidade natal em 1977."
+        }
+      ],
+      "conflito": false,
+      "nota": "Dado de um comentário de António Fernandes, citado no post."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Registos fonográficos relacionados com o nome de Ângelo Fernandes (Guitarra de Coimbra V)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-fonograficos-relacionados-com.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

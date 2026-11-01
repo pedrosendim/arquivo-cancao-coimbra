@@ -1,0 +1,46 @@
+{
+  "id": "saudades-de-coimbra-bettencourt",
+  "titulo": "Saudades de Coimbra",
+  "titulos_alternativos": [],
+  "genero": "fado",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "De Mário (Faria) Fonseca e Edmundo Bettencourt (as fontes não distinguem música e letra)",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+          "doc": "rtp-arquivos:w921e060e35cc6073",
+          "citacao": "\"Saudades de Coimbra\" de Mário Fonseca e de Edmundo Bettencourt"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2425566",
+          "doc": "discogs:w978e1e07dbaf4793",
+          "citacao": "Saudades De Coimbra [Mário Faria Fonseca, Edmundo De Bettencourt (Edmundo Bettencourt)]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com «Saudades de Coimbra - Mazurca», outra composição referida no blogue Guitarra de Coimbra II."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/",
+      "doc": "rtp-arquivos:w921e060e35cc6073",
+      "citacao": "José Afonso interpreta \"Saudades de Coimbra\" de Mário Fonseca e de Edmundo Bettencourt"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/2425566",
+      "doc": "discogs:w978e1e07dbaf4793",
+      "citacao": "A1 Saudades De Coimbra [Mário Faria Fonseca, Edmundo De Bettencourt (Edmundo Bettencourt)]"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

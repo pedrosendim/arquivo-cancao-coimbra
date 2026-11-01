@@ -1,0 +1,300 @@
+{
+  "id": "alma-mater",
+  "tipo": "grupo",
+  "nome": "Alma Mater",
+  "nomes_alternativos": [
+    "Grupo Alma Mater",
+    "Grupo de Fados de Coimbra Alma Mater",
+    "Grupo de Fados Alma Mater",
+    "grupo de Guitarra e Canto de Coimbra Alma Mater"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Em 1990 inicia o estudo do canto de Coimbra na secção de fado da AAC com o monitor Jorge Cravo. Em Setembro desse ano é fundador do grupo de fados de Coimbra “Alma Mater”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+      "doc": "gc-v:1436266136812530715",
+      "citacao": "Alma Mater\n\nGrupo constituído por Carlos Pedro (voz), Pedro Anastácio/Nuno Miguel Cadete (ggC), António Paulo Lopes (v)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+      "doc": "gc-i:111240318094235573",
+      "citacao": "Grupo “Alma Mater” – Carlos Pedro e Nuno Correia da Silva a cantar; Nuno Marques e Nuno Cadete à guitarra; António Paulo Lopes e Rui Namora à viola."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Em 1999, conclui a sua participação regular em eventos académicos, passando a integrar o grupo Alma Mater."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+      "doc": "gc-i:112259439330268263",
+      "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "fundado em setembro de 1990 por Carlos Pedro, na Secção de Fado da AAC",
+      "data": "1990-09",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 1990 inicia o estudo do canto de Coimbra na secção de fado da AAC com o monitor Jorge Cravo. Em Setembro desse ano é fundador do grupo de fados de Coimbra “Alma Mater”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994: Carlos Pedro (voz), Pedro Anastácio e Nuno Miguel Cadete (guitarras), António Paulo Lopes (viola)",
+      "data": "1994-05-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Formações juniores presentes na SMQF de 6 de maio de 1994"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Alma Mater\n\nGrupo constituído por Carlos Pedro (voz), Pedro Anastácio/Nuno Miguel Cadete (ggC), António Paulo Lopes (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Alma Mater», Secção de Fado da AAC, SF005, 1995, 14 temas antigos",
+      "data": "1995",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participação na coletânea «Baladas de Despedida – Anos 90»: Carlos Pedro e Nuno Correia da Silva (canto), Nuno Marques e Nuno Cadete (guitarras), António Paulo Lopes e Rui Namora (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "Grupo “Alma Mater” – Carlos Pedro e Nuno Correia da Silva a cantar; Nuno Marques e Nuno Cadete à guitarra; António Paulo Lopes e Rui Namora à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "II Noite de Fados@DEI, Pólo 2 da Universidade de Coimbra, 3 de maio de 2005",
+      "data": "2005-05-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/ii-noite-de-fadosdeiex.html",
+          "doc": "gc-i:111479688609768650",
+          "citacao": "Vai realizar-se no próximo dia 3 de Maio pelas 21h30m, no Pólo 2 da Universidade de Coimbra, a II Noite de Fados@DEI."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/ii-noite-de-fadosdei_111521735538735163.html",
+          "doc": "gc-i:111521735538735163",
+          "citacao": "II Noite de Fados@DEI. Grupo \"Alma Mater\". António Paulo Lopes, Carlos Pedro, Nuno Silva e Fernando Marques."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Galeria Almedina e Quebra-Costas, Coimbra (junho e julho de 2005)",
+      "data": "2005",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-de-fados-de-coimbra-_111913604845474988.html",
+          "doc": "gc-i:111913604845474988",
+          "citacao": "Grupo de Fados de Coimbra \"Alma Mater\", nas Galerias Almedina.\n\nNa foto, Fernando Marques e António Paulo Lopes, nos instrumentos. Nuno Silva a cantar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+          "doc": "gc-i:112259439330268263",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressão pela Suíça (fotografias publicadas em novembro de 2006)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela.html",
+          "doc": "gc-i:116468079034271080",
+          "citacao": "O Grupo Alma Mater em digressão pela Suiça. Nesta foto vemos Nuno Silva, um dos cantores do grupo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela_28.html",
+          "doc": "gc-i:116468047996828688",
+          "citacao": "O grupo Alma Mater em digressão pela Suiça. Fernando Marques, aqui, a tocar guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata nas Festas da Cidade de Fafe, 6 de junho de 2007",
+      "data": "2007-06-06",
+      "local": "Fafe",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/07/envio-lhe-algumas-fotos-do-grupo-alma.html",
+          "doc": "gc-i:4664079943023438602",
+          "citacao": "Envio-lhe algumas fotos do grupo Alma Mater em Fafe no pp dia 6 de Junho, nas comemorações das Festas da Cidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuação em Santa Clara, Coimbra, 1 de julho de 2008",
+      "data": "2008-07-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/o-grupo-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:6617870399909488193",
+          "citacao": "O grupo de Guitarra e Canto de Coimbra \"Alma Mater\", actua esta noite em Santa Clara."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata de 2012 organizada pelo Fado ao Centro",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "- Grupo de Fados\n\"Alma Mater\""
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/serenata.html",
+          "doc": "gc-iv:3739342396965715519",
+          "citacao": "ORGANIZAÇÃO: Fado ao Centro® - Centro Cultural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 2013 (antigos estudantes): Carlos Pedro, Nuno Cadete e Nuno Silva",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Serenata Monumental 2013"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Alma Mater\n\n6 - Balada da Torre D'Anto (Luiz Goes): Carlos Pedro\n\n7 - Canto do Amanhecer (Carlos Paredes): Nuno Cadete\n\n8 - Amar Incerto (Virgilio Caseiro): Nuno Silva"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Alma%20Mater%20Antnio%20Paulo%20Lopes%2C%20Fern%20Marques%2C%20Carlos%20Pedro%20e%20Nuno%20Silva%2013.jpg",
+      "legenda": "Alma Mater na II Noite de Fados@DEI (maio de 2005): António Paulo Lopes, Carlos Pedro, Nuno Silva e Fernando Marques.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/ii-noite-de-fadosdei_111521735538735163.html",
+          "doc": "gc-i:111521735538735163",
+          "citacao": "II Noite de Fados@DEI. Grupo \"Alma Mater\". António Paulo Lopes, Carlos Pedro, Nuno Silva e Fernando Marques."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Carlos%20Pedro%202.jpg",
+      "legenda": "Alma Mater no Quebra-Costas (julho de 2005): canta Carlos Pedro; Fernando Marques (guitarra) e António Paulo Lopes (viola).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+          "doc": "gc-i:112259439330268263",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20com%20Nuno%20Silva%202.jpg",
+      "legenda": "Alma Mater na Galeria Almedina (junho de 2005): Fernando Marques e António Paulo Lopes nos instrumentos; Nuno Silva a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-de-fados-de-coimbra-_111913604845474988.html",
+          "doc": "gc-i:111913604845474988",
+          "citacao": "Grupo de Fados de Coimbra \"Alma Mater\", nas Galerias Almedina.\n\nNa foto, Fernando Marques e António Paulo Lopes, nos instrumentos. Nuno Silva a cantar."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

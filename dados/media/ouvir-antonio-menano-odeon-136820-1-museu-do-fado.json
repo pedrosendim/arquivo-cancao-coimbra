@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136820-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0599_39.mp3",
+  "titulo": "A maior dor — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136820",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1191.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1182/antonio_menano_a_maior_dor",
+      "doc": "museu-do-fado:we28c23fc28bf8f4a",
+      "citacao": "Título: A maior dor ... Editora: Od.136.820, EMICD8364452 Referências: OG672, R, A; 136820"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

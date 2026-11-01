@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-columbia-1082-x-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0591_22.mp3",
+  "titulo": "O meu menino — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-columbia-1082-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1176.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1167/antonio_menano_o_meu_menino",
+      "doc": "museu-do-fado:wbca3604b755ac645",
+      "citacao": "Título: O meu menino ... Editora: Co.1082X, Od.135.805,EMICD8364452 Referências: OG594, P, DS, 1, N5; G-1082-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

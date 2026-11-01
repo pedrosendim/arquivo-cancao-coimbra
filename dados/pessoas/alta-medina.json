@@ -1,0 +1,60 @@
+{
+  "id": "alta-medina",
+  "tipo": "grupo",
+  "nome": "Alta Medina",
+  "nomes_alternativos": [
+    "Grupo de Fados Alta Medina"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+      "doc": "gc-i:111240318094235573",
+      "citacao": "“Grupo de Fados Alta Medina” – Vasco Cordeiro e João Henrique Garcia a cantar; Artur Mesquita, Pedro Paredes (Faixa nº 7) e António Sousa Mendes à guitarra; Luís Sarmento e Nuno Gonçalves à viola."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção para o Choupal» no CD coletivo «Indiferença» (Movieplay, MOV 30.333, 1995)",
+      "data": "1995",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Indiferença, Movieplay Portuguesa, AS, MOV 30.333, ano de\n1995. Obra colectiva e representativa dos vários organismos culturais\nestudantis, surgida na conjuntura de contestação às propinas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Canção para o Choupal, pelo grupo Alta Medina."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participação na coletânea «Baladas de Despedida – Anos 90»: Vasco Cordeiro e João Henrique Garcia (canto), Artur Mesquita, Pedro Paredes (faixa 7) e António Sousa Mendes (guitarras), Luís Sarmento e Nuno Gonçalves (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "“Grupo de Fados Alta Medina” – Vasco Cordeiro e João Henrique Garcia a cantar; Artur Mesquita, Pedro Paredes (Faixa nº 7) e António Sousa Mendes à guitarra; Luís Sarmento e Nuno Gonçalves à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

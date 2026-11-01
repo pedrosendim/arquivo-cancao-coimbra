@@ -1,0 +1,41 @@
+{
+  "id": "joaquim-matos",
+  "tipo": "pessoa",
+  "nome": "Joaquim Matos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-do-fado-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "coube à Tertúlia do Fado\nde Coimbra o baluarte de assegurar a “ponte” entre o antes e depois do 25 de\nAbril. E a constituição do Grupo alargou-se com a integração do José Miguel\nBaptista (Cantor) e do Joaquim Matos (Cantor). Posteriormente, viriam a ser\nintegrados na Tertúlia do Fado de Coimbra o Mário José de Castro (Viola) e,\nfinalmente, o José dos Santos Paulo (Guitarra, Viola e Cantor)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 3: Fotografia de Apresentação, Coimbra, 1981. Sentados -\nGuitarras: José Carlos Teixeira e Álvaro Aroso; Viola: Mário José de Castro. De\npé – Cantores: Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel\nBaptista."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra... Terra d’Encanto, Rossil, ano de 1982. Pela\nTertúlia do Fado de Coimbra. Vozes de José Miguel Baptista, Joaquim Matos, Nuno\nde Carvalho e Victor Nunes. Guitarras de Álvaro Aroso e José Carlos Teixeira.\nViola por Mário José de Castro. Regista 12 temas, sendo dois instrumentais."
+        }
+      ],
+      "nota": "voz; depois de 1974"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

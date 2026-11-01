@@ -1,0 +1,102 @@
+{
+  "id": "artur-paredes-victor-81472",
+  "titulo": "Variações em lá menor / Fantasia",
+  "formato": "78rpm",
+  "editora": "Victor",
+  "referencia": "81472",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra (solo)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em lá menor",
+      "obra": "",
+      "media": [
+        "ouvir-artur-paredes-victor-81472-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fantasia",
+      "obra": "",
+      "media": [
+        "ouvir-artur-paredes-victor-81472-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Variações em lá menor», por Artur Paredes — etiqueta: «Variações em Lá Menor / (Variations in A Minor) / (Paredes) / Arthur Paredes / Solo de guitarra / (Gravado na Europa)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1351/artur_paredes_variacoes_em_la_menor",
+          "doc": "museu-do-fado:w77f668ba83337c68",
+          "citacao": "Título: Variações em lá menor ... Editora: Vi.81472, HMV EQ88, Referências: BJ763-II∆, VE, 3, D, 46819; 81472-A ... Etiqueta: Variações em Lá Menor / (Variations in A Minor) / (Paredes) / Arthur Paredes / Solo de guitarra / (Gravado na Europa)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fantasia», por Artur Paredes — etiqueta: «Fantasia  / (A. Paredes) / Arthur Paredes  / Solo de Guitarra  / (Gravado na Europa)»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1352/artur_paredes_fantasia",
+          "doc": "museu-do-fado:w744e88285cf15f11",
+          "citacao": "Título: Fantasia ... Editora: Vi.81472, HMV EQ88, Referências: BJ764-I∆, VE, 1, A, 46820; 81472-B ... Etiqueta: Fantasia  / (A. Paredes) / Arthur Paredes  / Solo de Guitarra  / (Gravado na Europa)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue refere edições com etiqueta Victor dos discos de Artur Paredes, circuladas nos Estados Unidos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Houve também edições com etiqueta Victor que foram circuladas nos Estados Unidos em 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1351/artur_paredes_variacoes_em_la_menor",
+      "doc": "museu-do-fado:w77f668ba83337c68",
+      "citacao": "Título: Variações em lá menor ... Editora: Vi.81472, HMV EQ88, Referências: BJ763-II∆, VE, 3, D, 46819; 81472-A"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1352/artur_paredes_fantasia",
+      "doc": "museu-do-fado:w744e88285cf15f11",
+      "citacao": "Título: Fantasia ... Editora: Vi.81472, HMV EQ88, Referências: BJ764-I∆, VE, 1, A, 46820; 81472-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

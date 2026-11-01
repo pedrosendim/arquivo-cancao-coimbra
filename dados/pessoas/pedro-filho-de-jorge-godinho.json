@@ -1,0 +1,44 @@
+{
+  "id": "pedro-filho-de-jorge-godinho",
+  "tipo": "pessoa",
+  "nome": "Pedro",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1966",
+      "data": "1966",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "em 1966 nasce o filho Pedro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jorge-godinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "Casa em 1965, com a sua Ana Maria, e em 1966 nasce o filho Pedro"
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

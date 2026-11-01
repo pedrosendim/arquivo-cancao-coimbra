@@ -1,0 +1,44 @@
+{
+  "id": "miguel-filho-de-jorge-godinho",
+  "tipo": "pessoa",
+  "nome": "Miguel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1971",
+      "data": "1971",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "depois em 1971, nasce o filho Miguel"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jorge-godinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "depois em 1971, nasce o filho Miguel"
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

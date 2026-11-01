@@ -1,0 +1,56 @@
+{
+  "id": "felisberto-passos",
+  "tipo": "pessoa",
+  "nome": "Felisberto Passos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor",
+    "letrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "guitarrista; amigo de Sá Carneiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/retrato-de-famlias-carneiropor-antnio.html",
+          "doc": "gc-i:113572505467784690",
+          "citacao": "Manteve com o guitarrista Felisberto Passos indestrutível amizade ao longo da vida."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "autor da letra e da música de «Adeus Minho Encantador»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o_13.html",
+          "doc": "gc-v:3698057313148612322",
+          "citacao": "ADEUS MINHO ENCANTADOR (Adeus Minho encantador)=MINHO ENCANTADOR. Música e letra de Felisberto Passos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

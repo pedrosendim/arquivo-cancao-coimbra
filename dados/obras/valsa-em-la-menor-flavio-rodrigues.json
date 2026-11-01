@@ -1,0 +1,51 @@
+{
+  "id": "valsa-em-la-menor-flavio-rodrigues",
+  "titulo": "Valsa em Lá menor",
+  "titulos_alternativos": [],
+  "genero": "valsa",
+  "musica": [
+    "flavio-rodrigues-da-silva"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "A versão transcrita por José Paulo difere da gravada por António Portugal (2.ª parte em Lá maior e não em Dó maior)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-valsa-em-l-menor-3-de_20.html",
+          "doc": "gc-i:111921642735957087",
+          "citacao": "Segundo consta do livro sobre Flávio Rodrigues, da autoria de António M. Nunes e José Paulo, já referenciado neste Blog no dia 26 de Março, a versão apresentada difere da que António Portugal gravou pois, na segunda parte, a tonalidade é Lá maior e não Dó maior como foi executada por este."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Fados e Guitarradas de Coimbra», Alvorada MEP 60109, 1958, António Portugal e Jorge Godinho (guitarras), Manuel Pepe e Levy Baptista (violas)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/discografia-de-jorge-godinho-parte-ii.html",
+          "doc": "gc-ii:3758993209223833759",
+          "citacao": "Alvorada, EP - MEP 60109, 1958 ... Valsa em Lá menor (Flávio Rodrigues) Intérpretes: Luiz Goes, Sutil Roque, Fernando Machado Soares António Portugal e Jorge Godinho (guitarra) Manuel Pepe e Levy Baptista (viola)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-valsa-em-l-menor-1-de_20.html",
+      "doc": "gc-i:111921710362500673",
+      "citacao": "Partitura de \"Valsa em Lá menor\" (1) de Flávio Rodrigues, numa transcrição e arranjo de José Paulo."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,143 @@
+{
+  "id": "artur-paredes-hmv-mh-36",
+  "titulo": "Balada de Coimbra / Variações em Sol Maior (reedição)",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "M.H. 36",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada de Coimbra",
+      "obra": "balada-de-coimbra",
+      "media": ["ouvir-artur-paredes-hmv-mh-36-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Sol Maior",
+      "obra": "variacoes-em-sol-maior-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-mh-36-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/gLZPCBrMV7E5Pc9aqNj-l7oc1zhvleSLt_ZkgQh9mqs/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njg3/NTE4LTE3NjMzNzQ5/NjQtOTQ2NC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35687518",
+        "doc": "discogs:w76501c1f84884551",
+        "citacao": "Imagem (secondary): https://i.discogs.com/gLZPCBrMV7E5Pc9aqNj-l7oc1zhvleSLt_ZkgQh9mqs/rs:fit/g:sm/q:90/h:600/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njg3/NTE4LTE3NjMzNzQ5/NjQtOTQ2NC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35687518",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35687518",
+          "doc": "discogs:w76501c1f84884551",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): UK",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35687518",
+          "doc": "discogs:w76501c1f84884551",
+          "citacao": "País: UK"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição com base nos mesmos masters do disco E.Q. 93; os mesmos masters saíram também no disco J.Q. 501",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice, J.Q. 501 - master 7-69284 – Balada de Coimbra. - master 7-69285 – Variações em Sol Maior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927",
+      "data": "1927-05",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "A.1 - Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Artur Paredes, acompanhado por Afonso de Sousa (2.ª guitarra de Coimbra) e Guilherme Barbosa (violão)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35687518",
+      "doc": "discogs:w76501c1f84884551",
+      "citacao": "Editora: His Master's Voice – M.H. 36"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, M.H. 36 - master 7-69284 – Balada de Coimbra. - master 7-69285 – Variações em Sol Maior."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

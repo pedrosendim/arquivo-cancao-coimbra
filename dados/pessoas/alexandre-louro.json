@@ -1,0 +1,24 @@
+{
+  "id": "alexandre-louro",
+  "tipo": "pessoa",
+  "nome": "Alexandre Louro",
+  "nomes_alternativos": [
+    "Alexandre da Silva Louro"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "doc": "gc-i:113544803961572695",
+      "citacao": "Alexandre Louro (1899-1985), cantor de temas como Ó Águia, O Beijo, Balada de Coimbra e Noite Serena."
+    }
+  ],
+  "factos": [],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

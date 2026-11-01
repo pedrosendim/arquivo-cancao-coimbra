@@ -1,0 +1,80 @@
+{
+  "id": "paulo-larguesa",
+  "tipo": "pessoa",
+  "nome": "Paulo Larguesa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "fernando-marques-ensemble",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/fernando-marques-enviou-me-estas-duas.html",
+          "doc": "gc-iv:5594620454907735080",
+          "citacao": "Este grupo é composto pelo autor em guitarra de Coimbra, Paulo Larguesa em viola e António Diniz no canto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/registos-do-fernando-marques-ensemble.html",
+          "doc": "gc-v:3002448939914678546",
+          "citacao": "Registos fotográficos das atuações do Fernando Marques Ensemble em Lima, nos dias 9 e 10 de junho, nas celebrações do Dia de Portugal: Nuno Silva (voz), Fernando Marques (gC), Paulo Larguesa (v)."
+        }
+      ],
+      "nota": "viola; 2011 e 2015"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+          "doc": "gc-i:111496890596824036",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+        }
+      ],
+      "nota": "viola; 2005"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarto-crescente",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/no-passado-sbado-actuou-o-grupo-quarto.html",
+          "doc": "gc-i:925217000977996577",
+          "citacao": "No passado Sábado, actuou o Grupo \"Quarto Crescente\" (fotos 1, 2 e 3), com os seguintes elementos: - Ricardo Dias - Guitarra - Paulo Larguesa - Viola - Patrick Mendes - Voz - José Manuel Beato - Voz"
+        }
+      ],
+      "nota": "viola (1994, 2007)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Paulo%20Larguesa%203.0.jpg",
+      "legenda": "Paulo Larguesa toca viola com o grupo Quarto Crescente na Galeria Almedina (2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-quarto-crescente-na-_115361088117076341.html",
+          "doc": "gc-i:115361088117076341",
+          "citacao": "Grupo Quarto Crescente na Galeria Almedina, este sábado. Paulo Larguesa toca viola."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

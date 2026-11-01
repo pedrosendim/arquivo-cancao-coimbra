@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136820-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0599_40.mp3",
+  "titulo": "Fado das Três horas — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136820",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1192.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1183/antonio_menano_fado_das_tres_horas",
+      "doc": "museu-do-fado:wd272af79249960c1",
+      "citacao": "Título: Fado das Três horas ... Editora: Od.136.820, EMI261283,EMICD8364452 Referências: OG693, R, B; 136820"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

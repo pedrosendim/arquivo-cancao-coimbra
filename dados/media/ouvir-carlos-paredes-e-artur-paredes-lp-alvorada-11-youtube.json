@@ -1,0 +1,32 @@
+{
+  "id": "ouvir-carlos-paredes-e-artur-paredes-lp-alvorada-11-youtube",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=vHys2VAtPWQ",
+  "titulo": "Cantares Portugueses — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes"
+  ],
+  "obras": [
+    "rapsodia-n-2-artur-paredes"
+  ],
+  "gravacao": "carlos-paredes-e-artur-paredes-lp-alvorada",
+  "miniatura": "https://i.ytimg.com/vi/vHys2VAtPWQ/hqdefault.jpg",
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/34166371",
+      "doc": "discogs:wb4aff6df37773b75",
+      "citacao": "Vídeo: Artur Paredes e Carlos Paredes - Rapsódia Nº2 — https://www.youtube.com/watch?v=vHys2VAtPWQ"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Trata-se de uma nova versão da mesma música referida no fonograma anterior como “Cantares Portugueses”."
+    }
+  ],
+  "nota": "O vídeo vem indicado no Discogs desta edição, mas com o título «Rapsódia Nº2»; o blogue diz que a Rapsódia n.º 2 é nova versão da música chamada «Cantares Portugueses». Pode não ser a versão desta faixa.",
+  "estado_revisao": "rascunho"
+}

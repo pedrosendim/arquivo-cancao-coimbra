@@ -1,0 +1,37 @@
+{
+  "id": "rapsodia-n-2-artur-paredes",
+  "titulo": "Rapsódia n.º 2",
+  "titulos_alternativos": [
+    "Cantares Portugueses",
+    "Rapsódia"
+  ],
+  "genero": "guitarrada",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Seleção e arranjo de Artur Paredes; editada em 1957 como «Cantares Portugueses» e em 1961 como «Rapsódia n.º 2»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "CANTARES PORTUGUESES (guitarrada). Seleção e arranjo de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "RAPSÓDIA N.º 2 (guitarrada), selecção e arranjo de Artur Paredes. Trata-se de uma nova versão da mesma música referida no fonograma anterior como “Cantares Portugueses”."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

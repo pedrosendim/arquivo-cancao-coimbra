@@ -1,0 +1,1296 @@
+{
+  "id": "jorge-cravo",
+  "tipo": "pessoa",
+  "nome": "Jorge Cravo",
+  "nomes_alternativos": [
+    "Jorge Elias Costa Tavares Cravo"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor",
+    "letrista",
+    "poeta",
+    "investigador"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "De seu nome completo Jorge Elias Costa Tavares Cravo, nasceu em Coimbra (freguesia da Sé Nova), em 19 de Agosto de 1961."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "A sua aproximação à Canção de Coimbra ocorreu entre Abril e Junho de 1980, cantando em três festas particulares, sendo acompanhado por Henrique Ferrão e Francisco Alte da Veiga nas guitarras e Fernando Boavida na viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+      "doc": "gc-v:2788236639889053829",
+      "citacao": "O Grupo Académico de Fados e Canções de Coimbra (GAFCC) foi uma formação juvenil masculina independente, que teve intensa atividade musical amadora na década de 1980 (ca. 1983-1990). O líder do grupo era o estudante da FL / UC (licenciatura em História) Jorge Cravo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+      "doc": "gc-v:2788236639889053829",
+      "citacao": "Jorge Cravo, a esse tempo era o maior e o mais assumido admirador da obra vanguardista de Luiz Goes, repertório que começara cantar nos palcos e na Sé Velha. Lia, escrevia e pensava com desassombro."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "De Outubro de 1992 a Novembro de 1996, exerceu a sua actividade profissional em Penafiel, na Biblioteca Municipal e, a partir de 1994, passou a integrar o Grupo Presença de Coimbra (GPC), constituído por Manuel Borralho e José Ferraz de Oliveira, nas guitarras, e Manuel Gouveia Ferreira na viola, e os cantores Fernando Gomes Alves e José Horácio Miranda."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Foi um dos cantores mais activos da canção de Coimbra nas últimas duas décadas do século, constituindo igualmente um exemplo de intérprete que enveredou pela composição e pela criação de letras."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/guitarra-de-coimbra-distingue-e.html",
+      "doc": "gc-v:3084114503711430847",
+      "citacao": "Cultor distinto, compositor amador, poeta, dileto e amado discípulo de Luiz Goes, estudioso da Canção de Coimbra com obra de referência dada à estampa, Jorge Cravo dispensa apresentações."
+    },
+    {
+      "fonte": "jorge-cravo",
+      "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+      "doc": "jorge-cravo:w8257b866bfdf1800",
+      "citacao": "Biografia: Cultor da Canção de Coimbra, Bibliotecário na Biblioteca Municipal de Coimbra, autor do livro ‘Sobre a Canção de Coimbra’ (Junho 2024), autor de vários artigos sobre a Canção de Coimbra em jornais e revistas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Jorge Elias Costa Tavares Cravo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "De seu nome completo Jorge Elias Costa Tavares Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do livrete do CD «Canções d'Inquietude» (2005), reproduzida no post; autoria da biografia não indicada."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (freguesia da Sé Nova), 19 de agosto de 1961",
+      "data": "1961-08-19",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "nasceu em Coimbra (freguesia da Sé Nova), em 19 de Agosto de 1961."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Coimbra (n. 1961)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Matriculado na FCTUC (Física) em 12 de janeiro de 1982; transferido em 1984 para a Faculdade de Letras, licenciado em História a 13 de dezembro de 1988",
+      "data": "1988-12-13",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "matriculou-se na Universidade de Coimbra (FCTUC, frequência da licenciatura em Física), em 12 de Janeiro de 1982 (ano lectivo de 1981/82), transferindo-se, em 1984, para a Faculdade de Letras, onde em 13 de Dezembro de 1988 se licenciou em História."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Especialização em Ciências Documentais pela FLUC, 28 de outubro de 1991",
+      "data": "1991-10-28",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "especializando-se em Ciências Documentais, pela FLUC, em 28 de Outubro de 1991."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Licenciatura em História e especialização em Ciências Documentais pela Faculdade de Letras da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Bibliotecário na Biblioteca Municipal de Penafiel (outubro de 1992 a novembro de 1996)",
+      "local": "Penafiel",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "De Outubro de 1992 a Novembro de 1996, exerceu a sua actividade profissional em Penafiel, na Biblioteca Municipal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Bibliotecário na Biblioteca Municipal de Coimbra (Casa Municipal da Cultura)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Reside em Coimbra, onde exerce a actividade de Bibliotecário, na Biblioteca Municipal à Casa Municipal da Cultura."
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Cultor da Canção de Coimbra, Bibliotecário na Biblioteca Municipal de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeira atuação integrado no GAFCC, 24 de setembro de 1980, Pavilhão dos Olivais (Coimbra)",
+      "data": "1980-09-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Cantou pela primeira vez, integrado no GAFCC, no dia 24 de Setembro de 1980, num espectáculo de angariação de fundos para o “Clube das Patelas” (Conchada), realizado no Pavilhão dos Olivais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Primeira serenata na Sé Velha, janeiro de 1981 (Receção ao Caloiro de 1980/81)",
+      "data": "1981-01",
+      "local": "Coimbra, Sé Velha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "A sua primeira Serenata na Sé Velha ocorreu em Janeiro de 1981, (um ano antes da sua entrada para a Universidade), na chamada Recepção ao Caloiro do ano lectivo 1980/81"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa televisivo «Cantos e Contos de Coimbra» (1982), acompanhado por António Ralha e Jorge Gomes (guitarras) e Manuel Dourado (viola)",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em 1982, juntamente com José Manuel dos Santos (cantor), participou no programa televisivo Cantos e Contos de Coimbra, sendo acompanhado por António Ralha e Jorge Gomes, nas guitarras, e Manuel Dourado à viola, interpretando Fado da Ansiedade (Francisco Menano) e Fado da Despedida (Raposo Marques)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Recusa da balada de Machado Soares na serenata do centenário da AAC (1987) e retirada dessa balada na serenata monumental da Queima das Fitas de maio de 1989",
+      "data": "1989-05",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "em 1987, na serenata celebrativa do centenário da AAC, nas escadas da Via Latina, quando os grupos dos antigos estudantes se adentraram uma vez mais na esfalfada balada de Machado Soares, Jorge Cravo deu alguns passos atrás e ficou o tempo todo com a boca fechada e um semblante reprovador."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "na serenata monumental da Queima das Fitas de maio de 1989 quando, conjuntamente com o seu grupo liderou a retirada da balada de Machado Soares, interpretando a balada de despedida do 4.º ano de História"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência: o post «A emergência do Novo Canto» (GC-V, 2017) situa a recusa de fechar a serenata com a balada de 1958 em 1984 (receção ao caloiro) e 1987; o post de 2022 refere 1987 e 1989. Ver facto seguinte."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Em 1984, na serenata da receção ao caloiro, recusou fechar a serenata com a balada de 1958",
+      "data": "1984",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/a-emergencia-do-novo-canto-um-monumento.html",
+          "doc": "gc-v:580185317232692952",
+          "citacao": "São lendárias as intervenções públicas de Jorge Cravo na década de 1980 em prol da dignificação do género: em 1984, na serenata dos festejos de receção ao caloiro, tendo recusado fechar a serenata com a mediática balada de 1958"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver facto anterior (episódios datados de 1987 e 1989 no post de 2022)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Monitor de Canto na Secção de Fado da AAC (1989/91 e 1998/2000)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "No biénio de 1989/91 foi monitor de Canto na Secção de Fado da AAC, função que voltou a exercer no biénio 1998/2000."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor e apresentador de programas de rádio sobre Canção de Coimbra: RUC (1989-1990) e «nas entre-notas do fado», RDP/Centro (maio-julho 1989)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "No âmbito da divulgação da Canção de Coimbra foi autor e apresentador de um programa na Rádio Universidade de Coimbra (RUC), entre 1989 e 1990, e do programa “nas entre-notas do fado” na RDP/Centro entre Maio e Julho de 1989."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Despedida da Sé Velha na serenata do 7.º centenário da UC (1990); dissolução do GAFCC com a sua formatura",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Findava a era do vinil e com a formatura de Jorge Cravo o GAFCC dissolvia-se. Na serenata do 7.º centenário da UC, em 1990, Jorge Cravo deu as despedidas na Sé Velha, justificando que os velhos deveriam saber retirar-se e dar lugar aos novos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Comunicação «O Novo Canto de Luiz Goes…» no VI Seminário de Canção de Coimbra, 2 de maio de 1998",
+      "data": "1998-05-02",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em 2 de Maio de 1998 participou no VI Seminário de Canção de Coimbra com a comunicação “O Novo Canto de Luiz Goes: contributo para a evolução/inovação da música tradicional urbana de raiz coimbrã/filão académico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Ciclo de conferências «Canção de Coimbra: Textos e Música a Quatro Tempos», Livraria Minerva, junho de 2005",
+      "data": "2005-06",
+      "local": "Coimbra, Livraria Minerva",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "No âmbito das “Terças-feiras de Minerva” levou a efeito naquela Livraria, durante o mês de Junho de 2005, o Ciclo de Conferências “Canção de Coimbra: Textos e Música a Quatro Tempos”"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/2-conferncia-de-jorge-crav_111879720587521253.html",
+          "doc": "gc-i:111879720587521253",
+          "citacao": "2ª Conferência de Jorge Cravo, \"O Neo-Modernismo de Luiz Goes: 1953-1983\", (ou o advento da Escola Goesiana), na Livraria Minerva, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Assina o programa da sessão «António Portugal: Evocação (1994-2009)», Pavilhão Centro de Portugal, 27 de junho de 2009",
+      "data": "2009-06-27",
+      "local": "Coimbra, Pavilhão Centro de Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/antonio-portugal.html",
+          "doc": "gc-iii:7966881830147239410",
+          "citacao": "António Portugal: Evocação (1994-2009) ... Data = 27 de Junho de 2009, sábado ... Local = Pavilhão Centro de Portugal ... Jorge Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post reproduz o programa, que termina com o nome de Jorge Cravo; não se diz expressamente que foi o organizador."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Organizou uma exposição alusiva a Artur Paredes na Casa da Cultura (2010)",
+      "data": "2010",
+      "local": "Coimbra, Casa da Cultura",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/exposicao-alusiva-artur-paredes-na-casa.html",
+          "doc": "gc-iii:3454223909397393585",
+          "citacao": "Exposição alusiva a Artur Paredes na Casa da Cultura, organizada por Jorge Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ano pela data do post (21-12-2010)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor do texto em que se baseou o voto de pesar da Assembleia da República pela morte de Fernando Machado Soares (12-12-2014)",
+      "data": "2014-12-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "A proposta baseou-se em texto elaborado por Jorge Cravo, que realçou o original contributo do autor-cantor para a evolução da Canção de Coimbra entre a segunda metade da década de 1950 e os inícios da década de 1960."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Consultor/colaborador do blogue Guitarra de Coimbra V e da equipa do cinquentenário do LP «Fados from Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/editorial-1.html",
+          "doc": "gc-v:7301083823760848583",
+          "citacao": "CONSULTORES/COLABORADORES: José Anjos de Carvalho, Armando Luís de Carvalho Homem, Jorge Serra, Jorge Rino, Octávio Sérgio, Jorge Cravo, António Freire, Adamo Caetano"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra_18.html",
+          "doc": "gc-v:8143194824796768614",
+          "citacao": "a equipa do projeto do cinquentenário/Blogue Guitarra de Coimbra V [Octávio Sérgio, José Miguel Baptista, Armando Luís de Carvalho Homem, Jorge Cravo, António M. Nunes]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canções d'Aqui», com o GAFCC, Ovação OV-LP-3022, 1989 (reedição em CD, OV-CD-060, 1994)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "integrou o Grupo Académico de Fados e Canções de Coimbra (GAFCC), com o qual gravou o disco Canções d’Aqui (10 temas originais, editado pela Ovação – OV-LP-3022, em 1989)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Referência: OV-CD-060 ... Ano da reedição: 1994"
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Discografia: Canções d’Aqui (1989)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no ano: 1989 (livrete do CD de 2005; nota biográfica da revista Fadista) e 1988 (nota da MinervaCoimbra reproduzida no GC-III, 2009). Ver facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canções d'aqui (1988)»",
+      "data": "1988",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Canções d’aqui (1988)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente do ano de «Canções d'Aqui» (ver facto anterior)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Colaboração no disco «Baladas de Despedida – Anos 80» (Comissão Central da Queima das Fitas, 1990), com três temas",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "colaborou no disco Baladas de Despedida – Anos 80, (edição da Comissão Central da Queima das Fita de 1990, interpretando três temas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «folha a folha – canto e guitarra de Coimbra», com o Grupo Presença de Coimbra e participação de Luiz Goes, Numérica NUM 49, 1999 (gravado entre maio de 1998 e junho de 1999)",
+      "data": "1999",
+      "local": "Paços de Brandão",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Com o Grupo Presença de Coimbra grava, em 1999, o CD de originais folha a folha – canto e guitarra de Coimbra, com a participação especial de Luiz Goes no tema Toada para uma Cidade (Jorge Cravo), editado pela Numérica (NUM 49)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Gravado entre maio de 1998 e junho de 1999 nos estúdios Numérica, em Paços de Brandão"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "«folha a folha» foi um dos 8 álbuns selecionados pela Câmara Municipal da Amadora para o Prémio José Afonso 1999",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Foi um dos 8 álbuns seleccionados pela Câmara Municipal de Amadora para o Prémio José Afonso, 1999"
+        }
+      ],
+      "conflito": false,
+      "nota": "Seleção, não atribuição: segundo a mesma fonte, o prémio desse ano foi ganho por Dulce Pontes."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Canções d'Inquietude», com o grupo Presença de Coimbra (14 temas vocais e 3 guitarradas), 2005",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Jorge Cravo – que este ano completa um quarto de século como intérprete da Canção Coimbrã – e o grupo «Presença de Coimbra» regressam com Canções d’Inquietude; o novo álbum compreende 14 temas vocais e 3 guitarradas."
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Canções d’Inquietude (2005)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Canções d'uma Cidade e d'um Rio» (2010), com o Quarteto de António José Moreira",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Canções d’uma cidade e d’um rio (2010)"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/04/homenagem-e-lancamento-do-disco-cancoes.html",
+          "doc": "gc-iv:481981816253884689",
+          "citacao": "Homenagem e lançamento do disco “Canções d’uma Cidade e d’um Rio” do Jorge Cravo e Quarteto de António José Moreira"
+        }
+      ],
+      "conflito": false,
+      "nota": "Lançamento em Lisboa a 2 de abril de 2011 (AAECL e Casa da Académica em Lisboa), segundo o post do GC-IV."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «por dentro das flores», Grupo Presença de Coimbra, poesia de Vítor Matos e Sá, Edisco ECD 401, 2024 (gravado entre 2019 e 2021); voz e maioria das melodias de Jorge Cravo",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/por-dentro-das-flores.html",
+          "doc": "gc-v:1403020400799042504",
+          "citacao": "Gravado entre 2019 e 2021, só agora se dá a ver e a ouvir o CD por dentro das flores, canto e guitarra de Coimbra, Grupo Presença de Coimbra, poesia de Vítor Matos e Sá, Porto, Edisco ECD 401, 2024. Jorge Cravo interpreta vocalmente e assina a maioria das melodias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Há tradições e… tradições…», A Briosa (revista da AAC/OAF), ano I, n.º 1, 30.9.1987, p. 29",
+      "data": "1987-09-30",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, “Há tradições e ... A Briosa/Revista da Associação Académica de Coimbra/OAF, ano I, n.º 1, 30.9.1987, p. 29."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bibliografia de António M. Nunes, citada no post."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Geração de 80: ilibada ou culpada?», A Briosa, ano I, n.º 5, março de 1988, p. 39",
+      "data": "1988-03",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, “Geração de 80: ilibada ou culpada?”, In A Briosa/Revista da Associação Académica de Coimbra/OAF, ano I, n.º 5, março de 1988, p. 39."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Luiz Goes/Só para alguns», in 1969 em Revista (Secção de Jornalismo da AAC, 1994), pp. 38-41",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, “Luiz Goes/Só para alguns” (In 1969 em Revista/Marx, Lenine, Mao e Trotsky entre os doutores, Coimbra, Secção de Jornalismo da AAC, 1994, pp. 38-41)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Cartas abertas e artigos na imprensa de Coimbra: Jornal de Coimbra (20 de março de 1996; 26 de maio de 1999; 28 de janeiro e 11 de fevereiro de 2004) e As Beiras (14/01/2002)",
+      "data": "1996",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/nota-de-esclarecimento-enviada-por.html",
+          "doc": "gc-i:112005731123182938",
+          "citacao": "Quando critiquei o Prof. Pinho Brojo em 1996, fi-lo por carta aberta ao Jornal de Coimbra de 20 de Março; ... fi-lo em artigo publicado no Jornal de Coimbra de 26 de Maio de 1999; ... fi-lo em carta aberta ao jornal As Beiras de 14/01/2002; ... fi-lo por carta aberta publicada no Jornal de Coimbra de 28 de Janeiro de 2004; ... fi-lo por carta aberta ao Jornal de Coimbra de 11 de Fevereiro de 2004."
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista dada pelo próprio Jorge Cravo na «Nota de esclarecimento» (29-06-2005) reproduzida no post."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Geração de 80 da Canção de Coimbra», in Canção de Coimbra: testemunhos vivos (antologia de textos), AAC, 2002",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em 2002 colaborou no livro Canção de Coimbra - testemunhos vivos (antologia de textos), uma edição da responsabilidade do pelouro da Cultura da AAC, com o texto \"A Geração de 80 da Canção de Coimbra\"."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "«A Geração de 80 da Canção de Coimbra», in Canção de Coimbra: testemunhos vivos (antologia de textos). Coimbra: Associação Académica de Coimbra, Direcção Geral, Pelouro da Cultura, 2002."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, José Manuel Beato e outros, Canção de Coimbra. Testemunhos vivos. Antologia de textos (Coimbra: Direção-Geral da Associação Académica de Coimbra, 2002, 247 p.)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no ano do livro: 2002 (estas fontes) e 2003 (post do GC-I de 2005; ver facto seguinte)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro «Canção de Coimbra - Testemunhos vivos (Antologia de textos)», saído em 2003 (DG/AAC)",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "Livro \"Canção de Coimbra - Testemunhos vivos (Antologia de textos)\", saído em 2003, editado pela Direcção Geral da Associação Académica de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente do ano (ver facto anterior)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto de opinião sobre Luiz Goes na antologia «Luiz Goes: Canções para quem vier – Integral 1952/2002», editada pela Valentim de Carvalho em 2003",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Colaborou com um texto de opinião sobre a importância de Luiz Goes para a Canção de Coimbra, na antologia Luiz Goes: Canções para quem vier - Integral 1952/2002, editada pela Valentim de Carvalho, em 2003."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-de-jorge-cravo-incluso-na.html",
+          "doc": "gc-i:112103572000982277",
+          "citacao": "Texto de Jorge Cravo, incluso na integral de Luiz Goes, \"Canções para quem vier\""
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto é reproduzido integralmente no post do GC-I de 10-07-2005. Divergência: a bibliografia de A. M. Nunes (GC-V, 2025) dá a edição como EMI/Universal, 2002 (ver facto seguinte)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto em «Luiz Goes. Canções para quem vier. Integral 1952-2002», EMI/Universal 7243 5 80297 2 7, 2002",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Anjos de Carvalho, Jorge Cravo e outros, Luiz Goes. Canções para quem vier. Integral 1952-2002 (Lisboa: EMI/Universal 7243 5 80297 2 7, 2002, ... Destaque para os textos assinados por António Toscano e Jorge Cravo."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente (editora e ano) da edição da integral (ver facto anterior)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Nótula «Edmundo de Bettencourt: o poeta e cantor», Pelouro da Cultura da Câmara Municipal de Coimbra, 01/02/2003",
+      "data": "2003-02-01",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Foi autor de uma pequena nótula intitulada \"Edmundo de Bettencourt: o poeta e cantor\", editada por ocasião das comemorações dos 20 anos sobre o falecimento deste presencista, numa organização do Pelouro da Cultura da Câmara Municipal de Coimbra (01/02/2003)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Não é claro se é a mesma publicação que o «Memorial de Edmundo de Bettencourt» (CMC, 2003) referido por A. M. Nunes (facto seguinte)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Memorial de Edmundo de Bettencourt - 1889-1973», Câmara Municipal de Coimbra, 2003",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, Memorial de Edmundo de Bettencourt - 1889-1973 (Coimbra: Câmara Municipal de Coimbra, 2003)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Título tal como dado na bibliografia citada (com «1889»)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Presença e a Canção de Coimbra (ou o modernismo de uma nova visão estético-musical desta Canção)», revista Munda, n.º 45/46, novembro de 2003",
+      "data": "2003-11",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Colaborou na revista Munda (n.º 45/46, Nov. 2003) com o artigo \"A Presença e a Canção de Coimbra (ou o modernismo de uma nova visão estético-musical desta Canção\""
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "«A presença e a Canção de Coimbra (ou o modernismo de uma nova visão estético-musical desta Canção)» in Munda, nº 45/46 (Nov. 2003)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A propósito da candidatura da Canção de Coimbra a Património da UNESCO», Diário de Coimbra, 13 de março e 3 e 10 de abril de 2005",
+      "data": "2005-03-13",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/propsito-da-candidatura-da-cano-de.html",
+          "doc": "gc-i:112057395946923151",
+          "citacao": "Este texto de Jorge Cravo foi editado no Diário de Coimbra nos dias 13 de Março e 3 e 10 de Abril."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "«A propósito da Candidatura da Canção de Coimbra a património da UNESCO» in Diário de Coimbra (13 Mar., 3-10 Abril, 2005)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo reproduzido integralmente no post do GC-I (05-07-2005)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«O Fado de Coimbra não existe», revista Rua Larga (Reitoria da UC), n.º 8, abril de 2005",
+      "data": "2005-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/o-fado-de-coimbra-no-existe-artigo-de.html",
+          "doc": "gc-i:111824377729733857",
+          "citacao": "(artigo de Jorge Cravo, saído na revista Rua Larga, nº 8, Abril de 2005)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Colaborou na revista Rua Larga (n.º 8, Abril 2005), da Reitoria da Universidade de Coimbra, com o artigo “O Fado de Coimbra não existe”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo reproduzido integralmente no post do GC-I (08-06-2005)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«José Afonso, da boémia coimbrã à fraternidade utópica (1940-1969)», Arquivo Coimbrão (Boletim da Biblioteca Municipal), vol. XL, separata, 2008, pp. 94-184",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/guitarra-de-coimbra-distingue-e.html",
+          "doc": "gc-v:3084114503711430847",
+          "citacao": "CRAVO, Jorge-«José Afonso, da boémia coimbrã à fraternidade utópica (1940-1969)», In Arquivo Coimbrão/Boletim da Biblioteca Municipal [de Coimbra], Volume XL, Separata, Coimbra, 2008, pp. 94-184"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no título («fraternidade» / «solidariedade utópica») e na página inicial (94 / 93). Ver facto seguinte."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«José Afonso: da boémia coimbrã à solidariedade utópica (1940-1969)», Arquivo Coimbrão, vol. XL, 2008 (pp. 93-184, segundo o GC-V de 2018)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "«José Afonso: da boémia coimbrã à solidariedade utópica (1940-1969)» in Arquivo Coimbrão, vol. XL, 2008."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2_28.html",
+          "doc": "gc-v:7385869171800518998",
+          "citacao": "Deve-se ainda a Jorge Cravo o pormenorizado trabalho «José Afonso, Da boémia coimbrã à solidariedade utópica-1940-1969» (Coimbra, Arquivo Coimbrão, Volume XL, Edição da BMC, 2008, pp. 93-184)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, “José Afonso. Da boémia coimbrã à solidariedade utópica-1940-1969” (Coimbra: Arquivo Coimbrão, volume XL, 2008)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente do título e da paginação (ver facto anterior)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro «José Afonso: da boémia coimbrã à solidariedade utópica (1940-1969)», Câmara Municipal de Coimbra, Departamento de Cultura, 2009; apresentado pela CMC a 2 de agosto de 2009",
+      "data": "2009-08-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "José Afonso: da boémia coimbrã à solidariedade utópica (1940-1969). Coimbra: Câmara Municipal de Coimbra, Departamento de Cultura, 2009."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/livro-revela-o-outro-lado-de-zeca-afonso/",
+          "doc": "aja:w1c2b4b6b24f15148",
+          "citacao": "02/08/2009 ... “José Afonso: da boémia coimbrã à solidariedade utópica”, é o título do livro da autoria de Jorge Cravo, apresentado esta tarde pela Câmara Municipal de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência no título: outros posts dão «Da Boémia Coimbrã à Fraternidade Utópica» para a mesma edição (ver facto seguinte)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«José Afonso – Da Boémia Coimbrã à Fraternidade Utópica», edição do Departamento da Cultura da CMC, 2009, texto de Jorge Cravo e coordenação de Mário Nunes",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/antonio-aleixo.html",
+          "doc": "gc-v:6297529398451221",
+          "citacao": "“José Afonso Da Boémia Coimbrã À Fraternidade Utópica”. Edição do Departamento da Cultura da Câmara Municipal de Coimbra, 2009. Texto do Dr. Jorge Cravo, e coordenação do Dr. Mário Nunes"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Depois do lançamento do livro \"José Afonso - Da Boémia Coimbrã à Fraternidade Utópica\""
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente do título (ver facto anterior)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro «A Canção de Coimbra em tempo de lutas estudantis (1961-1969): a vertente tradicional em tempo de mudanças e o Movimento das Trovas e Baladas como Canto de Intervenção académico», MinervaCoimbra, 2009",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "A Canção de Coimbra em tempo de lutas estudantis (1961-1969): a vertente tradicional em tempo de mudanças e o Movimento das Trovas e Baladas como Canto de Intervenção académico (por ocasião dos 40 anos da Crise Académica de 1969). Coimbra: MinervaCoimbra, 2009."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6730802912983745449",
+          "citacao": "CRAVO, Jorge-A Canção de Coimbra em tempo de lutas estudantis (1961-1969). A vertente tradicional em época de mudanças e o Movimento das Trovas e Baladas como Canto de Intervenção Académico (por ocasião dos 40 anos da Crise Académica de 1969). Coimbra: Minerva Coimbra, 2009, 135 págs. e um anexo fotográfico."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, A Canção de Coimbra em tempo de lutas estudantis. 1961-1969 (Coimbra: Minerva Coimbra, 2009, 134 p. e anexo fotográfico)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/livro-de-jorge-cravo-cancao-de-coimbra.html",
+          "doc": "gc-ii:1874507526992390297",
+          "citacao": "Neste volume com mais de 150 páginas, Jorge Cravo dá-nos uma panorâmica do que foram o Canto e a Guitarra de Coimbra no contexto histórico da política vigente."
+        }
+      ],
+      "conflito": false,
+      "nota": "Também registada como fonte própria (livro-cravo-lutas-estudantis-2009). Número de páginas diverge entre as fontes: 135 págs. (GC-V, 2015), 134 p. (GC-V, 2025), «mais de 150 páginas» (GC-II, 2009); a segunda palavra do subtítulo também varia («tempo» / «época de mudanças»)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro «Luiz Goes. O Neo-Modernismo na Canção de Coimbra ou o Advento da Escola Goesiana», MinervaCoimbra, 2009 (239 p.); versão final de um texto de 1992, publicado em 1994 e apresentado em 1998",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Jorge Cravo surpreende-nos agora com mais uma publicação, desta feita sobre o mais representativo cultor do Canto de Coimbra, com o título \"Luiz Goes - O Neo-Modernismo na Canção de Coimbra ou o Advento da Escola Goesiana\""
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, Luiz Goes. O neomodernismo na Canção de Coimbra ou o advento da escola goesiana (Coimbra: Minerva Coimbra, 2009, 239 p. e anexo fotográfico). Versão final de um texto elaborado em 1992 para a Seção de Jornalismo da AAC, publicado primeiramente pela mesma Secção de Jornalismo em 1994 e apresentado em 1998 no VI Seminário de Canção de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/04/livro-de-jorge-cravo-sobre-luiz-goes.html",
+          "doc": "gc-iii:2916721609289232444",
+          "citacao": "Com o apoio da Câmara Municipal de Cascais decorreu no Espaço Memória dos Exílios a apresentação do livro de Jorge Cravo \" LUIZ GOES - O Neo-Modernismo na Canção de Coimbra ou o Advento da Escola Goesiana\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Prefácio de Luís Reis Torgal, lido na apresentação em Cascais (março de 2010) e reproduzido no post do GC-III de 01-04-2010."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Canção de Coimbra: que apoios», Público, 13.03.2010",
+      "data": "2010-03-13",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/um-artigo-de-opiniao-escrito-por-jorge.html",
+          "doc": "gc-v:3198257536818238614",
+          "citacao": "Um artigo de opinião escrito por Jorge Cravo em 2010: ... «Canção de Coimbra: que apoios», Público, edição de 13.03.2010"
+        }
+      ],
+      "conflito": false,
+      "nota": "Artigo em linha no Público, que bloqueia agentes automáticos no robots.txt; não arquivado."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Textos no livro «Anthero da Veiga, Republicano – Guitarrista – Diplomata» (Câmara Municipal de Coimbra, 2010)",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/nestedia-1-de-marco-de-2014-faz-110.html",
+          "doc": "gc-v:7679052830777852275",
+          "citacao": "Veja-se o livro “Anthero da Veiga, Republicano – Guitarrista – Diplomata”, com textos de A. C. Quaresma Ventura, Jorge Cravo, Luiz Alte da Veiga, Manuel Alte da Veiga. Edição da Câmara Municipal de Coimbra, 2010."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto no livro «O Tempo de Mão em Mão - Memórias Colectivas», comemorativo dos 50 anos do Curso de Medicina de 1954/60",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/textos-de-jorge-cravo-e-jorge-tuna-no.html",
+          "doc": "gc-iii:5895453472854246399",
+          "citacao": "Textos de Jorge Cravo e Jorge Tuna no livro \"O Tempo de Mão em Mão - Memórias Colectivas\", comemorativo dos 50 anos do Curso de Medicina de 1954/60."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ano pela data do post (31-12-2010)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Crónicas regulares (quinzenais) sobre Guitarra e Canto de Coimbra no Diário de Coimbra (2009-2016, pelo menos), reproduzidas em imagem nos blogues",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/10/jorge-cravo-e-o-seu-habitual-artigo.html",
+          "doc": "gc-iii:2652840202893116775",
+          "citacao": "Jorge Cravo e o seu habitual artigo quinzenal, sobre Guitarra e Canto de Coimbra. Diário de Coimbra de hoje."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/05/jorge-cravo-excelente-cultor-do-canto.html",
+          "doc": "gc-iii:5359965340346520824",
+          "citacao": "Jorge Cravo, excelente cultor do Canto de Coimbra, reflecte sobre o panorama actual dos cultores deste referido Canto. Diário de Coimbra de hoje."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/o-cachet-na-cancao-de-coimbra-jorge.html",
+          "doc": "gc-v:2703300428545780079",
+          "citacao": "«O cachet na Canção de Coimbra» ... Jorge Cravo, Diário de Coimbra de 13.07.2016"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os textos estão em imagens digitalizadas nos posts (GC-III 2009-2010, GC-IV 2011-2012, GC-V 2014-2016) e não são pesquisáveis no arquivo; o intervalo de datas é o dos posts encontrados."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Artigo na revista Via Latina - Fórum de Confrontação de Ideias, n.º 8, série VI, março de 2011",
+      "data": "2011-03",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/jorge-cravo-em-mais-um-artigo-focando.html",
+          "doc": "gc-iv:4847704579020352354",
+          "citacao": "Jorge Cravo em mais um artigo focando a Guitarra e o Canto de Coimbra, agora na revista Via Latina - Fórum de Confrontação de Ideias, nº 8, Série VI, Março 2011."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Canção de Coimbra e a candidatura do Fado de Lisboa [a património Unesco]», Via Latina (em linha), 30.11.2011",
+      "data": "2011-11-30",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "Cravo, A Canção de Coimbra e a candidatura do Fado de Lisboa [a património Unesco] (In Via Latina, 30.11.2011, disponível em http://www.revistavialatina.com/?p=1748)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O endereço original já não existe; a única captura do Arquivo.pt mostra a página inicial do site (com a entrada «Há quem questione a razão por que o \"Fado de Coimbra\" não acompanhou a candidatura…», Opinião, Jorge Cravo), não o texto."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto «Luiz Goes: “Canções de Amor e de Esperança” cinquenta anos depois! (1971-2021)», publicado no blogue Guitarra de Coimbra V (junho de 2021)",
+      "data": "2021-06",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
+          "doc": "gc-v:765637730129187761",
+          "citacao": "“Canções de Amor e de Esperança” cinquenta anos depois! (1971-2021) Jorge Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo reproduzido no post."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Canção de Coimbra no feminino», revista Fadista, n.º 2, dezembro de 2023",
+      "data": "2023-12",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_b8e9f2160f0c460a817b5a744b490d0b.pdf",
+          "doc": "jorge-cravo:w6dd7e5c70a32af4c",
+          "citacao": "A Canção de Coimbra no feminino ... Por Jorge Cravo*"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/10/os-artigos-da-revista-fadista.html",
+          "doc": "gc-v:6133871275592099853",
+          "citacao": "Jorge CRAVO – A Canção de Coimbra no feminino, revista Fadista, n.º 2, dezembro [20]23"
+        }
+      ],
+      "conflito": false,
+      "nota": "Arquivado do PDF da revista (Associação Fado Cale), só o artigo de Jorge Cravo."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro «Sobre a Canção de Coimbra...», CMC / Biblioteca Municipal de Coimbra, junho de 2024 (500 exemplares, 150 pp.), lançado na Feira do Livro de Coimbra; três textos de fundo",
+      "data": "2024-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/07/sobre-cancao-de-coimbra.html",
+          "doc": "gc-v:4328084793102681082",
+          "citacao": "Foi recentemente lançado na Feira do Livro de Coimbra o livro Sobre a Canção de Coimbra..., da autoria de Jorge Cravo (Coimbra, edição da CMC / Biblioteca Municipal de Coimbra, junho de 2024, 500 exemplares, 150 pp.)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/07/sobre-cancao-de-coimbra.html",
+          "doc": "gc-v:4328084793102681082",
+          "citacao": "A obra é constituída por três textos de fundo: Individualização da Canção de Coimbra no imaginário musical conimbricense (a), Guitarra de Coimbra: identidade e autenticidade de um cordofone regional e local (b), e Geração dos anos 80: a geração do ressurgimento da Canção de Coimbra após a Crise Académica de 1969 (c)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Nótula sobre as três gerações de oiro da Canção de Coimbra», revista Fadista, n.º 6, dezembro de 2024, pp. 14-16",
+      "data": "2024-12",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Nótula sobre as três gerações de oiro da Canção de Coimbra ... por Jorge Cravo"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/10/os-artigos-da-revista-fadista.html",
+          "doc": "gc-v:6133871275592099853",
+          "citacao": "Jorge CRAVO – Nótula sobre três gerações de oiro da Canção de Coimbra, revista Fadista, n.º 6, 14-16, dezembro [20]24"
+        }
+      ],
+      "conflito": false,
+      "nota": "Arquivado do PDF da revista (Associação Fado Cale), só as páginas do artigo."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A geração dos anos 80 e o ressurgimento da Canção de Coimbra», revista Fadista, n.º 8, junho de 2025, pp. 16-17",
+      "data": "2025-06",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/10/os-artigos-da-revista-fadista.html",
+          "doc": "gc-v:6133871275592099853",
+          "citacao": "Jorge CRAVO – A geração dos anos 80 e o ressurgimento da Canção de Coimbra, n.º 8, 16-17, revista Fadista, junho [20]25"
+        }
+      ],
+      "conflito": false,
+      "nota": "O PDF deste número no site da Fado Cale tem o texto só em imagem; não foi possível arquivá-lo como texto."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto «Este mês ouvimos… José Afonso», Biblioteca Municipal de Coimbra, agosto de 2025",
+      "data": "2025-08",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
+          "doc": "jorge-cravo:w2b1b6238abc68f9d",
+          "citacao": "Na sua fase coimbrã, e acompanhado por Rui Pato (n. 1946), José Afonso deixou-nos, como legado para a Canção de Coimbra: a recuperação da Balada, uma liberdade formal e poética, temas próximos do surrealismo e de forte contestação política e social. Jorge Cravo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Folha da série «Este mês ouvimos…» da BMC, assinada por Jorge Cravo; arquivada a partir do PDF."
+    }
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/06/paulo-soares-enviou-me-o-texto-que-se.html", "doc": "gc-i:111807176177933590", "citacao": "Nos biénios de 1989/91 e 1998/2000 foi monitor de canto na Secção de Fado da AAC."}], "nota": "Monitor de canto nos biénios 1989/91 e 1998/2000; comunicações nos Mês do Fado de 1998 e 1999."},
+    {
+      "tipo": "aluno_de",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/guitarra-de-coimbra-distingue-e.html",
+          "doc": "gc-v:3084114503711430847",
+          "citacao": "dileto e amado discípulo de Luiz Goes"
+        }
+      ],
+      "nota": "«discípulo», segundo António M. Nunes."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "numa 2ª fase, orientando-se para uma diferente temática – mas sempre de matriz coimbrã – vem a sofrer profunda influência de Luiz Goes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "confirmando um estilo próprio onde se notam influências de Edmundo Bettencourt, Luiz Goes e António Bernardino."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Em 1999 Jorge Cravo andava pelos 38 anos. Vivia um ciclo de excelência performativa marcado pela segurança, sentido de ritmo, afinação, dicção cuidada, confirmando um estilo próprio onde se notam influências de Edmundo Bettencourt, Luiz Goes e António Bernardino."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "confirmando um estilo próprio onde se notam influências de Edmundo Bettencourt, Luiz Goes e António Bernardino."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "A partir de Setembro de 1980, e durante toda a década de 80 – a convite de Henrique Ferrão – integrou o Grupo Académico de Fados e Canções de Coimbra (GAFCC)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "O líder do grupo era o estudante da FL / UC (licenciatura em História) Jorge Cravo."
+        }
+      ],
+      "nota": "cantor e líder do grupo; de setembro de 1980 até ao fim da década"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "capas-negras",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "De Maio de 1990 a Julho de 1992 integrou o Grupo Capas Negras, constituído numa 1ª fase, por António José Moreira e Manuel Rabaça nas guitarras, Manuel Pera (viola) e Rui Silva (cantor)"
+        }
+      ],
+      "nota": "cantor, maio de 1990 a julho de 1992"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "a partir de 1994, passou a integrar o Grupo Presença de Coimbra (GPC), constituído por Manuel Borralho e José Ferraz de Oliveira, nas guitarras, e Manuel Gouveia Ferreira na viola"
+        }
+      ],
+      "nota": "cantor, a partir de 1994"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/L1000581.jpg",
+      "legenda": "Jorge Cravo no uso da palavra na 2.ª conferência do ciclo «Canção de Coimbra: Textos e Música a Quatro Tempos», Livraria Minerva, Coimbra, junho de 2005.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/2-conferncia-de-jorge-crav_111879720587521253.html",
+          "doc": "gc-i:111879720587521253",
+          "citacao": "Foto de Jorge Cravo no uso da palavra."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/L1000563.jpg",
+      "legenda": "Jorge Cravo no uso da palavra no ciclo de conferências «Canção de Coimbra: Textos e Música a Quatro Tempos», Livraria Minerva, 2005.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/ciclo-de-conferncias-cano-_111823073262274695.html",
+          "doc": "gc-i:111823073262274695",
+          "citacao": "Na foto, Jorge Cravo no uso da palavra."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia e discografia no livrete do CD «Canções d'Inquietude» (GC-I, 2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html"
+    },
+    {
+      "rotulo": "«Um registo juvenil de Jorge Cravo (1987)» (GC-V, 2022)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html"
+    },
+    {
+      "rotulo": "Artigo «O Fado de Coimbra não existe» (Rua Larga, 2005), no GC-I",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/o-fado-de-coimbra-no-existe-artigo-de.html"
+    },
+    {
+      "rotulo": "Revista Fadista n.º 6 (PDF) — «Nótula sobre as três gerações de oiro da Canção de Coimbra»",
+      "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

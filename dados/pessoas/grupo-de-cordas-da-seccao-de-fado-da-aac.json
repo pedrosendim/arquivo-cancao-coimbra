@@ -1,0 +1,142 @@
+{
+  "id": "grupo-de-cordas-da-seccao-de-fado-da-aac",
+  "tipo": "grupo",
+  "nome": "Grupo de Cordas da Secção de Fado da AAC",
+  "nomes_alternativos": [
+    "Grupo de Cordas",
+    "Grupo de Cordas da Secção de Fado da A.A.C."
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "estreia",
+      "valor": "estreia no Sarau da Queima das Fitas de 1982, com os instrumentistas do grupo de fados da Secção (João Moura, Filipe Almeida e Carlos Caiado)",
+      "data": "1982-05",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No Sarau, estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "ressurgiu em 1997 sob a coordenação de Amadeu Magalhães, para divulgar música tradicional portuguesa e estrangeira; primeira atuação em março de 1998, na Reitoria",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192717/https://seccaodefado.com/modules.php?file=article&name=news&sid=5",
+          "doc": "arquivo-pt:wba6668f79f9c4cb1",
+          "citacao": "Sob a coordenação de Amadeu Magalhães, o Grupo de Cordas resurgiu em 1997, com o objectivo de divulgar música tradicional portuguesa e estrangeira."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192717/https://seccaodefado.com/modules.php?file=article&name=news&sid=5",
+          "doc": "arquivo-pt:wba6668f79f9c4cb1",
+          "citacao": "A primeira actuação do Grupo foi em Março de 1998, na Reitoria da Universidade de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "cavaquinho, bandolim, bandola, baixo, violino e bodhrán",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192717/https://seccaodefado.com/modules.php?file=article&name=news&sid=5",
+          "doc": "arquivo-pt:wba6668f79f9c4cb1",
+          "citacao": "os instrumentos de cordas são predominantes nomeadamente os instrumentos mais tradicionais, como o cavaquinho, bandolim, bandola, baixo e violino, sendo o boudhran, instrumento de percurssão tradicional de Irlanda, a única excepção."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "director musical: Amadeu Magalhães",
+      "data": "2015",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/arranque-de-cursos-de-viola-toeira.html",
+          "doc": "gc-v:3291001519659263967",
+          "citacao": "agrupamentos musicais Grupo de Cordas da Secção de Fado da AAC e Realejo, dos quais é, obviamente, o director musical"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «No Palheiro...» (Secção de Fado, SF015, 2001)",
+      "data": "2001",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – SF015"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "Producer, Music Director – Amadeu Magalhães"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Pavilhão Centro de Portugal, com o Grupo Raízes de Coimbra (julho de 2010); Gala do XVIII Mês do Fado (TAGV, 25-11-2022)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/o-grupo-raizes-de-coimbra-e-o-grupo-de.html",
+          "doc": "gc-iii:4632626548509164811",
+          "citacao": "O Grupo Raízes de Coimbra e o Grupo de Cordas da Secção de Fado da Associação Académica, hoje, sábado, no Pavilhão Centro de Portugal."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "o Grupo de Cordas, apresentou cinco temas, entre eles o clássico “Alecrim”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Seminário Maior de Coimbra, 7 de setembro de 2024: «Encadeia» (Filipe Afonso, Andreia Rodrigues e Inês Latas, guitarra clássica; António Martins, cavaquinho; Constança Peixoto e Rafael Loureiro, bandolim; Catarina Oliveira, cajon; Tiago Ferreira, baixo acústico)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7439",
+          "doc": "mpagdp:wdd1c1a98a0e87c85",
+          "citacao": "Grupo de Cordas da Secção de Fado - \"Encadeia\" ... Gravado em no Seminário Maior de Coimbra, no dia 7 de Setembro de 2024 ... Filipe Afonso - Guitarra clássica ... Andreia Rodrigues - Guitarra clássica ... Inês Latas - Guitarra clássica ... António Martins - Cavaquinho ... Constança Peixoto - Bandolim ... Rafael Loureiro - Bandolim ... Catarina Oliveira - Cajon ... Tiago Ferreira - Baixo acústico"
+        }
+      ],
+      "conflito": false,
+      "nota": "O registo chama-lhe «Grupo de Cordas da Secção de Fado»."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

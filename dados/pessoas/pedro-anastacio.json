@@ -1,0 +1,35 @@
+{
+  "id": "pedro-anastacio",
+  "tipo": "pessoa",
+  "nome": "Pedro Anastácio",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Alma Mater\n\nGrupo constituído por Carlos Pedro (voz), Pedro Anastácio/Nuno Miguel Cadete (ggC), António Paulo Lopes (v)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Alma Mater, pelo Grupo de Fados de Coimbra, Coimbra, Secção de Fado da AAC, SF005, ano de 1995. Cantor: Carlos Pedro. Guitarras: Pedro Anastácio e Nuno Cadete. Viola: António Paulo. Regista 14 temas antigos."
+        }
+      ],
+      "nota": "guitarra; 1994-1995"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

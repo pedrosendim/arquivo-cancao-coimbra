@@ -1,0 +1,30 @@
+{
+  "id": "manasses-fado-hilario-beka-7373-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "ficheiro",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0469_19.mp3",
+  "titulo": "«Fado Hilário» – Manassés de Lacerda com guitarra (Beka Grande 7373) – Arquivo Sonoro do Museu do Fado",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [
+    "fado-hilario-moderno"
+  ],
+  "gravacao": "manasses-de-lacerda-beka-7373",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/922/manasses_de_lacerda_fado_hilario",
+      "doc": "museu-do-fado:wc996552b15be8a8e",
+      "citacao": "Fado Hilário Manassés de Lacerda Editora: Beka 7373"
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "citacao": "No Arquivo Sonoro Digital do Museu do Fado, podemos ouvir duas das primeiras gravações do Fado Hilário (moderno), feitas por Manassés de Lacerda:"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

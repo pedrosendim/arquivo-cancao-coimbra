@@ -1,0 +1,149 @@
+{
+  "id": "carlos-paredes-columbia-8e-006-40151",
+  "titulo": "Balada de Coimbra / O Fantoche",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "8E 006 40151",
+  "ano": "1971",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "carlos-paredes",
+      "funcao": "guitarra"
+    },
+    {
+      "pessoa": "fernando-alvim",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada de Coimbra",
+      "obra": "balada-de-coimbra",
+      "media": [
+        "disco-carlos-paredes-columbia-8e-006-40151-balada-de-coimbra"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O Fantoche",
+      "obra": "",
+      "media": [
+        "disco-carlos-paredes-columbia-8e-006-40151-o-fantoche"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/9AECZlpIuwmDg4qdF_zowr8FALl6BvJAb5o7K6_itHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDUy/MzMtMTQzMzk3MjQx/NS0yMzU3LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6205233",
+        "doc": "discogs:w01582ac85ec5e7cd",
+        "citacao": "Imagem (primary): https://i.discogs.com/9AECZlpIuwmDg4qdF_zowr8FALl6BvJAb5o7K6_itHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDUy/MzMtMTQzMzk3MjQx/NS0yMzU3LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6205233",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, Single",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6205233",
+          "doc": "discogs:w01582ac85ec5e7cd",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, Single"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6205233",
+          "doc": "discogs:w01582ac85ec5e7cd",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1972 (Discogs)",
+      "data": "1972",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6205233",
+          "doc": "discogs:w01582ac85ec5e7cd",
+          "citacao": "Data: 1972"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1971."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1971; formato EP (blogue)",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:8089018085292345159",
+          "citacao": "COLUMBIA, 8E 006 40151, 1971"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/alcipe-alcipe-o-pseudnimo-literrio-de.html",
+          "doc": "gc-i:115558925463129035",
+          "citacao": "no EP \"Balada de Coimbra\", Columbia, 8E 006 40151, ano de 1971, com Carlos Paredes (g) e Fernando Alvim (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1972 e descreve o disco como single de 7\"."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6205233",
+          "doc": "discogs:w01582ac85ec5e7cd",
+          "citacao": "Acoustic Guitar [Viola] – Fernando Alvim Photography By – Augusto Cabrita Portuguese Guitar – Carlos Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6205233",
+      "doc": "discogs:w01582ac85ec5e7cd",
+      "citacao": "Editora: Columbia – 8E 006 40151"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:8089018085292345159",
+      "citacao": "[21] EP CARLOS PAREDES – BALADA DE COIMBRA. Lisboa: COLUMBIA, 8E 006 40151, 1971, com Carlos Paredes (g) e Fernando Alvim (v): BALADA DE COIMBRA (solo de guitarra), José Eliseu, arranjo de Artur Paredes/Carlos Paredes; O FANTOCHE (solo de guitarra), Carlos Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

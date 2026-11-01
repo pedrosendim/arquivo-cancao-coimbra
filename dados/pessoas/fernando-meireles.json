@@ -1,0 +1,345 @@
+{
+  "id": "fernando-meireles",
+  "tipo": "pessoa",
+  "nome": "Fernando Meireles",
+  "nomes_alternativos": [
+    "Fernando Meireles Pinto"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+      "doc": "gc-i:112195570628907920",
+      "citacao": "Lembrei-me de fazer instrumentos sem outro propósito que não fosse fazer um instrumento meu, que foi o cavaquinho ... Foi em 1984, tinha vinte e seis anos, praticamente, quando comecei."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+      "doc": "gc-v:1125454164327086962",
+      "citacao": "Instalado numa sala cedida pela TAUC no edifício da AAC, Fernando Meireles distinguiu-se no curso de cavaquinho do FAOJ e logo nos primeiros instrumentos que construiu pelo regresso ao trabalho artesanal"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "a partir de 1986, quando Fernando Meireles começa a trabalhar a tempo inteiro como construtor, na procura de fundamentação histórica, etnográfica e organológica, depara-se com fragmentos do legado dos Bruno, de Augusto Nunes dos Santos e de Raul Simões."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+      "doc": "gc-v:1125454164327086962",
+      "citacao": "Foi também o primeiro a recuperar a sanfona popular (realejo) e a viola toeira segundo critérios muito bem fundamentados em documentos escritos e na memória oral."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/03/fernando-meireles-visita-de-estudo-e.html",
+      "doc": "gc-i:114147338099053153",
+      "citacao": "Na data apontada, Fernando Meireles era já um primus inter pares na construção da Viola Toeira, Guitarra de Coimbra e Sanfona."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+      "doc": "gc-i:112195570628907920",
+      "citacao": "há três ou quatro anos restaurei a colecção de instrumentos de Michel Giacometti e a de Ernesto Veiga de Oliveira."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+      "doc": "gc-v:1862435520123175595",
+      "citacao": "No essencial e para o que nos importa, Fernando Meireles constroi guitarras de Coimbra de concerto, mantém em parte os contributos de Artur Paredes, mas quanto à beleza do cordofone, leveza, harmonia e altura das ilhargas, aproxima-se do legado de Raul Simões."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Fernando Meireles Pinto",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "Mário Afonso, \"Entrevista com o construtor de instrumentos Fernando Meireles Pinto\", In A Sebenta, Coimbra, n.º 1, 1986."
+        }
+      ],
+      "conflito": true,
+      "nota": "O rótulo de uma guitarra sua, segundo o site Fernandez Music, diz «Jose Fernando Meireles» (ver o facto seguinte)."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "José Fernando Meireles (nome no rótulo de uma guitarra de Coimbra de 2002)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Fernando Meireles's label says Jose Fernando Meireles but he goes by Fernando."
+        }
+      ],
+      "conflito": true,
+      "nota": "Forma do nome diferente da do blogue («Fernando Meireles Pinto»). Ficha do instrumento: guitarra-fernando-meireles-2002-colecao-fernandez."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Começou a construir instrumentos (cavaquinhos) em 1984, aos 26 anos",
+      "data": "1984",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "Foi em 1984, tinha vinte e seis anos, praticamente, quando comecei."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de cavaquinho do FAOJ; estudava violino no Conservatório",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "Fernando Meireles distinguiu-se no curso de cavaquinho do FAOJ"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "Andava na altura a estudar violino no Conservatório."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construtor a tempo inteiro a partir de 1986",
+      "data": "1986",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/08/uma-guerra-perdida-as-teimosias-de-raul.html",
+          "doc": "gc-v:1862435520123175595",
+          "citacao": "a partir de 1986, quando Fernando Meireles começa a trabalhar a tempo inteiro como construtor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Oficina numa sala cedida pela TAUC no edifício da Associação Académica de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/nos-primordios-de-fernando-meireles.html",
+          "doc": "gc-v:1125454164327086962",
+          "citacao": "Instalado numa sala cedida pela TAUC no edifício da AAC"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/fernando-meireles-trabalhar-na-oficina.html",
+          "doc": "gc-i:112196956694951898",
+          "citacao": "Fernando Meireles a trabalhar na oficina da Tuna Académica da Universidade de Coimbra"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Fernando has his shop in the Student Union of Coimbra University"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez, muitos guitarristas de primeiro plano tocam guitarras suas (capas de CD, YouTube) e Pedro Caldeira Cabral tocou muitas vezes estas guitarras",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Many of the world class modern players can been seen playing his guitarras on CD covers or on YouTube."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Pedro Caldeira Cabral often played these guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Intérprete de vários instrumentos, entre eles a sanfona (hurdy gurdy)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Fernando Meireles is a fine performer of a number of instruments including the hurdy gurdy"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Constrói no máximo cinco guitarras por ano",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "eu faço muito poucas guitarras, no máximo cinco por ano."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fez guitarras para Paulo Soares, Pedro Caldeira Cabral e Mário Henriques",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "Para além de Paulo Soares, para que grandes guitarristas tem feito guitarras?"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "Para o Pedro Caldeira Cabral que é o melhor deles todos; há um moço no Porto que é o Mário Henriques"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Restaurou as coleções de instrumentos de Michel Giacometti e de Ernesto Veiga de Oliveira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+          "doc": "gc-i:112195570628907920",
+          "citacao": "restaurei a colecção de instrumentos de Michel Giacometti e a de Ernesto Veiga de Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 2002 tinha em restauro na oficina uma cítara da coleção de Pedro Caldeira Cabral, datável de finais do século XVII",
+      "data": "2002",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/ctara-ctara-setecentista-fabricada-em.html",
+          "doc": "gc-i:113673883012510144",
+          "citacao": "Em 2002 Fernando Meireles tinha na sua oficina, para restauro, uma cítara da colecção de Pedro Caldeira Cabral, datável de finais do século XVII, mais \"aguitarrada\" do que o presente modelo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António M. Nunes (AMNunes) no blogue GC-I."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Retomou o modelo antigo de guitarra de Coimbra de ilharga baixa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
+          "doc": "gc-i:111706514803399736",
+          "citacao": "o construtor Fernando Meireles a ele ter voltado recentemente para ensaios que passam pelo rebaixamento da ilharga da guitarra coimbrã."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do grupo Realejo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/fernando-meireles-visita-de-estudo-e.html",
+          "doc": "gc-i:114147338099053153",
+          "citacao": "dedicando ainda parte do seu tempo ao grupo REALEJO."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Meireles%20a%20tocar%20cavaquinho.jpg",
+      "legenda": "Fernando Meireles a tocar num bandolim feito por si.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/fernando-meireles-tocar-num-bandolim.html",
+          "doc": "gc-i:112197002274178578",
+          "citacao": "Fernando Meireles a tocar num bandolim feito por si."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Meireles%20a%20trabalhar%202.jpg",
+      "legenda": "Fernando Meireles a trabalhar na oficina da Tuna Académica da Universidade de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/fernando-meireles-trabalhar-na-oficina.html",
+          "doc": "gc-i:112196956694951898",
+          "citacao": "Fernando Meireles a trabalhar na oficina da Tuna Académica da Universidade de Coimbra"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Conversa com Fernando Meireles (2005)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-104",
+  "titulo": "Moro à beira do mar / Fado Liró",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-104",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Moro à beira do mar",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-104-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Liró",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-104-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Moro à beira do mar», por Almeida Cruz — etiqueta: «Moro à Beira do Mar / Canção Portugueza - Popular / Almeida Cruz / e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/616/almeida_cruz_moro_a_beira_do_mar",
+          "doc": "museu-do-fado:w9b9bc7ce543894ec",
+          "citacao": "Título: Moro à beira do mar ... Editora: Co. B-104 Referências: 11800-1-4; B104 ... Etiqueta: Moro à Beira do Mar / Canção Portugueza - Popular / Almeida Cruz / e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Moro à beira do mar, Columbia B-104, 11800, canção popular portuguesa»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Moro à beira do mar, Columbia B-104, 11800, canção popular portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Liró», por Almeida Cruz — etiqueta: «Fado Lyró / Fado / (N. Milano) / Almeida Cruz / E Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/617/almeida_cruz_fado_liro",
+          "doc": "museu-do-fado:w5425c80c7ed2ed9e",
+          "citacao": "Título: Fado Liró ... Editora: Co. B-104 Referências: 11841, 1- - 4; B104 ... Etiqueta: Fado Lyró / Fado / (N. Milano) / Almeida Cruz / E Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/616/almeida_cruz_moro_a_beira_do_mar",
+      "doc": "museu-do-fado:w9b9bc7ce543894ec",
+      "citacao": "Título: Moro à beira do mar ... Editora: Co. B-104 Referências: 11800-1-4; B104"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Moro à beira do mar, Columbia B-104, 11800, canção popular portuguesa"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/617/almeida_cruz_fado_liro",
+      "doc": "museu-do-fado:w5425c80c7ed2ed9e",
+      "citacao": "Título: Fado Liró ... Editora: Co. B-104 Referências: 11841, 1- - 4; B104"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

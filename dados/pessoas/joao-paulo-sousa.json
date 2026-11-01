@@ -1,0 +1,52 @@
+{
+  "id": "joao-paulo-sousa",
+  "tipo": "pessoa",
+  "nome": "João Paulo Sousa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/infantuna-o-dr.html", "doc": "gc-i:114467657762894617", "citacao": "foi sócio da Secção de Fado da Associação Académica de Coimbra"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os dois guitarristas fizeram a sua formação inicial com Fernando Monteiro, tendo posteriormente transitado para as sessões orientadas por Jorge Gomes nas Escolas da Secção de Fado."}], "nota": "Sócio na 2.ª metade dos anos 80; formação nas Escolas da Secção."},
+    {"tipo": "membro_de", "alvo": "estudantina-universitaria-de-coimbra", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/infantuna-o-dr.html", "doc": "gc-i:114467657762894617", "citacao": "Nessa agremiação integrou a Estudantina Universitária de Coimbra (EUC, fundada em 1985), como executante de Guitarra de Coimbra"}], "nota": "Guitarra de Coimbra; LPs «Estudantina Passa» e «Canto da Noite»."},
+    {"tipo": "aluno_de", "alvo": "fernando-monteiro", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os dois guitarristas fizeram a sua formação inicial com Fernando Monteiro"}], "nota": "Formação inicial (com António Vicente)."},
+    {"tipo": "aluno_de", "alvo": "jorge-gomes", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "tendo posteriormente transitado para as sessões orientadas por Jorge Gomes nas Escolas da Secção de Fado"}], "nota": "Sessões nas Escolas da Secção."},
+    {
+      "tipo": "membro_de",
+      "alvo": "toada-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/noites-da-cano-de-coimbra.html",
+          "doc": "gc-i:111853057304618429",
+          "citacao": "Actuou o grupo, \"Toada Coimbrã\". Na foto, João Carlos Oliveira, António José Vicente, joão Paulo Sousa e Jorge Mira Marques. A cantar, Alcides de Sá Esteves."
+        }
+      ],
+      "nota": "guitarra"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ-jWF-B1i5MI99XxuAiPJO7m8iSyvw2NS2rYQCziwVidR60rjy6QubniZZ-TcVx-YlwpdQ39cN7LqwMf9HvKidIvCo6fMGt2DoXLJRvbYzPVkCr2XfsvgymGNnj2Lg1uQExmOv2crhpvo/s1600/JPSous+DB9-12-2011.jpg",
+      "legenda": "João Paulo Sousa em entrevista ao Jornal do Centro, 9 de dezembro de 2011 (página do jornal, com fotografia)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/05/joao-paulo-sousa.html",
+          "doc": "gc-v:3169570037469345379",
+          "citacao": "João Paulo Sousa, meu conterrâneo, em entrevista ao Jornal do Centro, a 9 de Dezembro de 2011."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

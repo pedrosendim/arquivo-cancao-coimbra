@@ -1,0 +1,35 @@
+{
+  "id": "maria-eugenia-de-sousa",
+  "tipo": "pessoa",
+  "nome": "Maria Eugénia de Sousa",
+  "nomes_alternativos": [
+    "Geninha"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "Maria Eugénia de Sousa, filho de José Trego, conhecida por \"Geninha\""
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/falecimento-do-sr-dias.html",
+          "doc": "gc-v:8203199694081401564",
+          "citacao": "se voltou para uma filha de José Trego e lhe disse, «Geninha"
+        }
+      ],
+      "nota": "A legenda escreve «filho» de José Trego."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

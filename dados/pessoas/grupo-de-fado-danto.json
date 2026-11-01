@@ -1,0 +1,192 @@
+{
+  "id": "grupo-de-fado-danto",
+  "tipo": "grupo",
+  "nome": "Grupo de Fado d'Anto",
+  "nomes_alternativos": [
+    "d'Anto – Grupo de Fado de Coimbra",
+    "d'Anto (grupo de fado)",
+    "D'Anto"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+      "doc": "jornal-a-cabra:w31744dde946cd5f4",
+      "citacao": "O grupo de fado D’Anto abriu o espetáculo com temas tradicionais do fado coimbrão, entre os quais “Coimbra, Menina e Moça”. O grupo, formado em 2020, continuou a atuação com alguns dos seus originais."
+    },
+    {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+      "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+      "citacao": "O coletivo é formado por João Barreirinhas e Mário Domingos, na Guitarra de Coimbra, Vasco Corgo e Silva J. Rodrigues, na Viola de acompanhamento, e Luís Baptista, Pedro Nascimento, Novais Miranda e Tiago Rocha, na voz. A Balada de Despedida de 2023, da autoria do conjunto, vai encerrar a cerimónia."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "grupo de fado da Secção de Fado da AAC, formado em 2019 com Vasco Rodrigues na viola",
+      "data": "2019",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2019 ingressa no curso ... Nesse mesmo ano acaba por formar o grupo de fado d’Anto da Secção de Fado da AAC como viola de acompanhamento."
+        }
+      ],
+      "conflito": true,
+      "nota": "O jornal A Cabra (novembro de 2022) diz que o grupo foi formado em 2020."
+    },
+    {
+      "campo": "formacao",
+      "valor": "formado em 2020 (A Cabra, 2022)",
+      "data": "2020",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "O grupo, formado em 2020, continuou a atuação com alguns dos seus originais."
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia de Vasco Rodrigues (recital de 2022, reproduzida no blogue) indica 2019."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "abre a Gala do XVIII Mês do Fado da Secção de Fado da AAC, Teatro Académico de Gil Vicente, 25 de novembro de 2022, com «Coimbra, Menina e Moça» e originais",
+      "data": "2022-11-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "No dia 25 de novembro, no Teatro Académico Gil Vicente, decorreu um concerto em celebração do XVIII Mês do Fado, organizado pela Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "O grupo de fado D’Anto abriu o espetáculo com temas tradicionais do fado coimbrão, entre os quais “Coimbra, Menina e Moça”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "noite de serenatas do XV Tunalidades (FANS), Café Santa Cruz, 14 de abril de 2023",
+      "data": "2023-04-14",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/04/vozes-femininas-cantam-serenatas-no-primeiro-dia-de-tunalidades/",
+          "doc": "jornal-a-cabra:w73141ae19f68487d",
+          "citacao": "A noite de serenatas aconteceu a 14 de abril, no café Santa Cruz, e contou com a participação de Beatriz Villar, das Mondeguinas – Tuna Feminina da UC, da Tuna Académica Feminina da Universidade de Évora (TAFUÉ), do grupo de fado d’Anto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas de 2023, Paço das Escolas, 18 de maio de 2023, encerrada com a Balada de Despedida de 2023, da autoria do grupo",
+      "data": "2023-05-18",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "A Serenata Monumental da Queima das Fitas (QF) deste ano vai realizar-se à meia noite do dia 18 de maio, no Paço das Escolas. No alinhamento apresentado pela Comissão Organizadora da Queima das Fitas (COQF) surge o grupo Canção de Coimbra Inquietação e o grupo de Fado d’Anto."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "A Balada de Despedida de 2023, da autoria do conjunto, vai encerrar a cerimónia."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação em 2023: João Barreirinhas e Mário Domingos (guitarras de Coimbra), Vasco Corgo e Silva J. Rodrigues (violas), Luís Baptista, Pedro Nascimento, Novais Miranda e Tiago Rocha (vozes)",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "O coletivo é formado por João Barreirinhas e Mário Domingos, na Guitarra de Coimbra, Vasco Corgo e Silva J. Rodrigues, na Viola de acompanhamento, e Luís Baptista, Pedro Nascimento, Novais Miranda e Tiago Rocha, na voz."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Silva J. Rodrigues» como escrito no jornal; não se confirma se é Vasco Rodrigues."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "convidado da Noite de Serenatas do XXXII FESTUNA, Colégio da Trindade, 3 de maio de 2024",
+      "data": "2024-05-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "na Noite de Serenatas atua o Grupo de Fado d’Anto"
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "O evento vai iniciar-se com a Noite de Serenatas, no dia 3, pelas 21h30 no Colégio da Trindade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Grémio Operário de Coimbra, 6 de setembro de 2024: «Balada da Nostalgia» (Pedro Sendim, voz; Vasco Rodrigues, viola)",
+      "data": "2024-09-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7441",
+          "doc": "mpagdp:wadd74b932e8e3744",
+          "citacao": "d'Anto - Grupo de Fado de Coimbra (Pedro Sendim [voz] e Vasco Rodrigues [viola]) - \"Balada da Nostalgia\" (tema da autoria de Vasco Rodrigues) ... Gravado no Grémio Operário de Coimbra, no dia 6 de Setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Canal YouTube do grupo d'Anto (ouvir)",
+      "url": "https://www.youtube.com/channel/UCWD_oyfN4j3PCS8Qf0jOwxw"
+    },
+    {
+      "rotulo": "Spotify do grupo (ouvir)",
+      "url": "https://open.spotify.com/artist/1d6XRSC6O395TleCeoNJf6"
+    },
+    {
+      "rotulo": "Álbum «Novos Vinte» no Apple Music (ouvir)",
+      "url": "https://music.apple.com/pt/album/novos-vinte/1779547488"
+    }
+  ],
+  "estado_revisao": "rascunho",
+  "nota_editor": "Grupo formado em 2020, segundo o editor do arquivo, e sem qualquer relação com o Grupo de Fados e Guitarradas Torre d'Anto, fundado por Paulo Saraiva (29-10-2026). As fontes divergem sobre o ano (2019 ou 2020): a divergência fica visível nos factos."
+}

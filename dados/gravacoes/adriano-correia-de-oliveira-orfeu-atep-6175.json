@@ -1,0 +1,158 @@
+{
+  "id": "adriano-correia-de-oliveira-orfeu-atep-6175",
+  "titulo": "Elegia",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6175",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "adriano-correia-de-oliveira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Elegia",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6175-1-youtube",
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6175-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Barcas Novas",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6175-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Pátria",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6175-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Pescador do Rio Triste",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6175-4-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/ZD0SibaWjrdvd_U0M7kNOYdcyU5hrIrDNzW8MNjWWDc/rs:fit/g:sm/q:90/h:309/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzI0/OTMtMTMzODE1MzEz/My0xMDMwLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/3632493",
+        "doc": "discogs:w284f7a44f3006995",
+        "citacao": "Imagem (primary): https://i.discogs.com/ZD0SibaWjrdvd_U0M7kNOYdcyU5hrIrDNzW8MNjWWDc/rs:fit/g:sm/q:90/h:309/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzI0/OTMtMTMzODE1MzEz/My0xMDMwLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/3632493",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3632493",
+          "doc": "discogs:w284f7a44f3006995",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3632493",
+          "doc": "discogs:w284f7a44f3006995",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1966 (Discogs)",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3632493",
+          "doc": "discogs:w284f7a44f3006995",
+          "citacao": "Data: 1966"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1967."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1967 (blogue)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/barcas-novas.html",
+          "doc": "gc-i:4205070821657234586",
+          "citacao": "Espécime gravado pela primeira vez em 1967 por Adriano Correia de Oliveira no EP ELEGIA, Orfeu, ATEP 6175, acompanhado por Rui Pato na viola nylon."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1966."
+    },
+    {
+      "campo": "outro",
+      "valor": "«Acompanhado por Dr. António Portugal e Rui Pato» (Discogs)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/3632493",
+          "doc": "discogs:w284f7a44f3006995",
+          "citacao": "Acompanhado por Dr. António Portugal e Rui Pato."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/3632493",
+      "doc": "discogs:w284f7a44f3006995",
+      "citacao": "Editora: Orfeu – ATEP 6175"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

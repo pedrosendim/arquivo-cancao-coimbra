@@ -1,0 +1,29 @@
+{
+  "id": "jose-silva-ramos",
+  "tipo": "pessoa",
+  "nome": "José Silva Ramos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-academica-rua-larga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. Nas violas, estavam o Dr. Carlos Figueiredo e Dr. A. Ferreira Alves."
+        }
+      ],
+      "nota": "guitarra; LP de 1982"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

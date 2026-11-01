@@ -1,0 +1,106 @@
+{
+  "id": "trio-rodrigues-e-mota",
+  "tipo": "grupo",
+  "nome": "Trio Rodrigues & Mota",
+  "nomes_alternativos": [],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "O Trio Rodrigues & Mota é uma formação musical juvenil masculina constituída em Coimbra nos inícios de 2022 com alunos das escolas locais."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Esta formação tem vindo a focar a sua atividade artística no repertório parediano, principalmente nos perdidos e achados, recorrendo à colaboração de colecionadores e fãs da linguagem e do legado de Arthur Paredes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "constituído em Coimbra no início de 2022",
+      "data": "2022",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "constituída em Coimbra nos inícios de 2022 com alunos das escolas locais"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação: Tiago José Rodrigues (1.ª guitarra), Simão Sá Mota (2.ª guitarra), Vasco Rodrigues (viola de cordas de nylon)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É dinamizado por Tiago José Rodrigues (Medicina, gC1), Simão Sá Mota (Letras, gC2) e Vasco Rodrigues (ISMT, viola de cordas de nylon)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "festival «A guitarra com os dedos em garra», Café Concerto / Convento de São Francisco, Coimbra, 1 de outubro de 2022",
+      "data": "2022-10-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "«A guitarra com os dedos em garra» [alusão à poética de José Régio], Coimbra, Café Concerto / Convento de São Francisco, 01.10.2022"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Recital dedos em garra», Museu Nacional da Música, Lisboa, 26 de novembro de 2022",
+      "data": "2022-11-26",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "«Recital dedos em garra», Lisboa, Museu Nacional da Música, 26.11.2022"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "registo da ESEC TV (20-01-2023) com peças não gravadas comercialmente por Artur Paredes (Fandango, Variações em Lá Maior, Variações em Si Menor)",
+      "data": "2023-01-20",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Apresenta interpretações de repertório não gravado comercialmente por Arthur Paredes (Fandango, Variações em Lá Maior, Variações em Si Menor)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

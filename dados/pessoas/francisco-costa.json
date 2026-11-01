@@ -1,0 +1,72 @@
+{
+  "id": "francisco-costa",
+  "tipo": "pessoa",
+  "nome": "Francisco Costa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "cm-coimbra",
+      "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+      "doc": "cm-coimbra:w49adfd40b3069844",
+      "citacao": "Francisco Costa apresenta o espetáculo “Imperfeito”, que marca o início do seu novo álbum com lançamento previsto para 2023. Este espetáculo explora a sonoridade do Fado de Coimbra, com arranjos exímios do conceituado Maestro Rodrigo Morte, conservando a atmosfera da matriz coimbrã"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Estreia do espetáculo «Imperfeito», Grande Auditório do Convento São Francisco (4 de novembro), com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)",
+      "data": "2022-11-04",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "FRANCISCO COSTA ESTREIA “IMPERFEITO” espaço: Grande auditório data | hora: 4 novembro | 21h30"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística), este espetáculo conta também em palco com Ricardo J. Dias (piano)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programação do Convento São Francisco (setembro-dezembro de 2022), Câmara Municipal de Coimbra."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Novo álbum com lançamento previsto para 2023 (anunciado com o espetáculo «Imperfeito»)",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "que marca o início do seu novo álbum com lançamento previsto para 2023."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "luis-barroso",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Voz Francisco Costa Guitarra Portuguesa Luís Barroso"
+        }
+      ],
+      "nota": "Luís Barroso à guitarra portuguesa no espetáculo «Imperfeito» (2022)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

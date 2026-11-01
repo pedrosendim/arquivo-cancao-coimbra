@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-odeon-a-136116",
+  "titulo": "Fado do Estoril",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136.116",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Estoril",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-a-136116-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Estoril», por Avelino Baptista — etiqueta: «Fado do Estoril / Com acomp de Estudantina / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/234/avelino_baptista_fado_do_estoril",
+          "doc": "museu-do-fado:w751150f1cc0ae20d",
+          "citacao": "Título: Fado do Estoril ... Editora: Od.A136.116 Referências: Disco Odeon A136116, OG207; A 136116 ... Etiqueta: Fado do Estoril / Com acomp de Estudantina / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, primeira versão conhecida do Fado do Estoril, cuja lição coimbrã foi adotada por Manassés de Lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/05/fado-estoril.html",
+          "doc": "gc-v:8093324304761852226",
+          "citacao": "Trata-se da lição coimbrã, certamente adotada por Manassés de Lacerda a partir da escuta de um disco de massa gravado por Avelino Baptista ... Avelino Baptista tinha gravado em Lisboa um disco de 76 voltas com FADO DO ESTORIL, Odeon A136.116, com acompanhamento de estudantina"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/234/avelino_baptista_fado_do_estoril",
+      "doc": "museu-do-fado:w751150f1cc0ae20d",
+      "citacao": "Título: Fado do Estoril ... Editora: Od.A136.116 Referências: Disco Odeon A136116, OG207; A 136116"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/05/fado-estoril.html",
+      "doc": "gc-v:8093324304761852226",
+      "citacao": "Trata-se da lição coimbrã, certamente adotada por Manassés de Lacerda a partir da escuta de um disco de massa gravado por Avelino Baptista ... Avelino Baptista tinha gravado em Lisboa um disco de 76 voltas com FADO DO ESTORIL, Odeon A136.116, com acompanhamento de estudantina"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

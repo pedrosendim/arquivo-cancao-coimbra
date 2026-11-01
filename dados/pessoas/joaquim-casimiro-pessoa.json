@@ -1,0 +1,48 @@
+{
+  "id": "joaquim-casimiro-pessoa",
+  "tipo": "pessoa",
+  "nome": "Joaquim Casimiro Pessoa",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Terá vocalizado a primeira versão da Balada do Mondego, numa serenata em Penacova em 1898",
+      "data": "1898",
+      "local": "Penacova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Terá sido este cantor a vocalizar a primeira versão da Balada do Mondego (vulgo de Coimbra), numa serenata realizada em Penacova no ano de 1898"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Cunhado de José Elyseu",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Joaquim Casimiro Pessoa, cantor e serenateiro, cunhado de José Elyseu."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Cunhado» não tem tipo de relação próprio."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "desfolhada",
+  "titulo": "Desfolhada",
+  "titulos_alternativos": [
+    "Esfolhada"
+  ],
+  "genero": "guitarrada",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música do Dr. António Rodrigues Viana (c. 1912), letra de A. C. Pinto; versão instrumental de Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+          "doc": "gc-v:643756313646546986",
+          "citacao": "ESFOLHADA, música do Dr. António Rodrigues Viana, letra de A. C. Pinto. Canção com coro composta ca. 1912"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+          "doc": "gc-v:643756313646546986",
+          "citacao": "Versão instrumental gravada posteriormente por Artur Paredes como DESFOLHADA"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "DESFOLHADA (guitarrada), menciona “popular/arr[anjo de] Artur Paredes”. Trata-se de ESFOLHADA, música António Rodrigues Viana (1912), arranjo de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

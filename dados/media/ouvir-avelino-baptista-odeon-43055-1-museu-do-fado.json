@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-43055-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1941_29.mp3",
+  "titulo": "Balada dos Estudantes — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-43055",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_3661.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3810/avelino_baptista_balada_dos_estudantes",
+      "doc": "museu-do-fado:w8edf3c676037b6ca",
+      "citacao": "Título: Balada dos Estudantes ... Editora: Odeon 43055 43069 Referências: Disco Odeon, XO30, X, 43055; 43055"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

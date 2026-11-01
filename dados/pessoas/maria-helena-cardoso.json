@@ -1,0 +1,53 @@
+{
+  "id": "maria-helena-cardoso",
+  "tipo": "pessoa",
+  "nome": "Maria Helena",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-cardoso",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento com Maria Isabel Barbedo nasceram dois filhos. Maria Helena e Óscar Cardoso que deu continuidade à arte de seu pai."
+        }
+      ],
+      "nota": "A fonte dá só o nome próprio; o apelido no identificador serve apenas para distinguir a ficha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-isabel-barbedo",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento com Maria Isabel Barbedo nasceram dois filhos. Maria Helena e Óscar Cardoso que deu continuidade à arte de seu pai."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "oscar-cardoso",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento com Maria Isabel Barbedo nasceram dois filhos. Maria Helena e Óscar Cardoso que deu continuidade à arte de seu pai."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

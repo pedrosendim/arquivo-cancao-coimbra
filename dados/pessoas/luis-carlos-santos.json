@@ -1,0 +1,66 @@
+{
+  "id": "luis-carlos-santos",
+  "tipo": "pessoa",
+  "nome": "Luís Carlos Santos",
+  "nomes_alternativos": [
+    "Luís Carlos",
+    "Luís C. Santos"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [
+    {"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "LUÍS CARLOS SANTOS, Gründer des Fado Ao Centro, wurde 1966 in Coimbra geboren, wo er begann, die klassische Gitarre als Begleitung zum Fado de Coimbra zu lernen."},
+    {"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "Er war Gründungsmitglied der mythischen Gruppe Praxis Nova und integrierte während seiner akademischen Karriere seit 1989 mehrere Fado-Gruppen."},
+    {"fonte": "joao-farinha-site", "url": "https://joao-farinha.com/bio", "doc": "joao-farinha-site:w9363a51837eae2aa", "citacao": "Em nome coletivo - Fado ao Centro (2011), no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos -"}
+  ],
+  "factos": [
+    {"campo": "nascimento", "valor": "Coimbra, 1966", "data": "1966", "local": "Coimbra", "fontes": [{"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "LUÍS CARLOS SANTOS, Gründer des Fado Ao Centro, wurde 1966 in Coimbra geboren"}], "conflito": false, "nota": "Texto em alemão (apresentação do Fado ao Centro, município de Gelsenkirchen)."},
+    {"campo": "atividade", "valor": "membro fundador dos Praxis Nova; desde 1989 em vários grupos de fado durante a vida académica", "data": "1989", "fontes": [{"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "Er war Gründungsmitglied der mythischen Gruppe Praxis Nova und integrierte während seiner akademischen Karriere seit 1989 mehrere Fado-Gruppen."}], "conflito": false, "nota": ""},
+    {"campo": "gravacao", "valor": "LP «Baladas de Despedida, Anos 80» (Duplisom 1.004, 1990), entre as violas", "data": "1990", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "-LP Baladas de Despedida, Anos 80"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "Duplisom 1.004, Sacavém, 1990"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "Luís Carlos Santos e\nCarlos Costa"}], "conflito": false, "nota": ""},
+    {"campo": "gravacao", "valor": "LP «Coimbra em Canções», Praxis Nova (Aurastúdios, 1991): violas de Carlos Costa e Luís Carlos Santos", "data": "1991", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991."}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "Violas:\nCarlos Costa e Luís Carlos Santos."}], "conflito": false, "nota": ""},
+    {"campo": "gravacao", "valor": "CD «Canções com Lágrimas» (Ovação, 1995), de Paulo Saraiva: viola", "data": "1995", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html", "doc": "gc-v:4163497511678760872", "citacao": "-CD Canções com Lágrimas, Ovação, ano de 1995. Canta: Paulo Saraiva. Guitarras: Ricardo Dias e Manuel Portugal. Viola: Luís Carlos Santos."}], "conflito": false, "nota": ""},
+    {"campo": "atividade", "valor": "um dos fundadores do Fado ao Centro", "fontes": [{"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "LUÍS CARLOS SANTOS, Gründer des Fado Ao Centro"}, {"fonte": "joao-farinha-site", "url": "https://joao-farinha.com/bio", "doc": "joao-farinha-site:w9363a51837eae2aa", "citacao": "no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos"}], "conflito": false, "nota": ""},
+    {"campo": "gravacao", "valor": "CD «Clássicos do Fado de Coimbra», Fado ao Centro, 2015 (viola)", "data": "2015", "fontes": [{"fonte": "discogs", "url": "https://www.discogs.com/release/16024589", "doc": "discogs:wbf0d9d50ac50f252", "citacao": "Viola – Luis Carlos Santos (2)"}], "conflito": false, "nota": ""},
+    {"campo": "atuacao", "valor": "espetáculo «Imperfeito» de Francisco Costa, Convento São Francisco, 4 de novembro de 2022 (guitarra clássica)", "data": "2022-11-04", "local": "Coimbra", "fontes": [{"fonte": "cm-coimbra", "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf", "doc": "cm-coimbra:w49adfd40b3069844", "citacao": "Guitarra Clássica Luís C. Santos"}], "conflito": false, "nota": ""},
+    {"campo": "outro", "valor": "crítica de Jorge Cravo ao duplo CD do Fado ao Centro (2012), que o refere como responsável do projeto", "data": "2012", "fontes": [{"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/aproposito-de-um-duplo-cd-editado-pelo.html", "doc": "gc-iv:2101664336024902364", "citacao": "esperava muito mais do Luís Carlos Santos (v.), que conheço bem"}], "conflito": false, "nota": ""},
+    {"campo": "atuacao", "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), biblioteca nova do Seminário Maior de Coimbra, 7 de setembro de 2024: «Inquietação» (viola, a acompanhar Luís Alcoforado)", "data": "2024-09-07", "local": "Coimbra", "fontes": [{"fonte": "mpagdp", "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436", "doc": "mpagdp:wc8ebc6495b6486a8", "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"}], "conflito": false, "nota": ""}
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html", "doc": "gc-i:115522690560936378", "citacao": "Na Secção de Fado da AAC chegou a trabalhar como monitor de viola de acompanhamento, numa época em que também ensinava guitarra nessa agremiação Ricardo Dias."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html", "doc": "gc-i:113639247173462895", "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v)"}], "nota": "Monitor de viola de acompanhamento (época em que Ricardo Dias ensinava guitarra); viola do Grupo de Fados da Secção em 1988."},
+    {"tipo": "membro_de", "alvo": "estudantina-universitaria-de-coimbra", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html", "doc": "gc-i:115522690560936378", "citacao": "foi membro de grupos da Secção de Fado da AAC, como a Estudantina e a Orquestra Típica"}], "nota": ""},
+    {"tipo": "membro_de", "alvo": "orquestra-tipica-e-rancho", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html", "doc": "gc-i:115522690560936378", "citacao": "foi membro de grupos da Secção de Fado da AAC, como a Estudantina e a Orquestra Típica"}], "nota": ""},
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html",
+          "doc": "gc-i:115522690560936378",
+          "citacao": "Integrou a formação Praxis Nova."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/ensaio-na-tauc-momento-de-ensaio-numa.html",
+          "doc": "gc-i:116298700913584090",
+          "citacao": "Luís Carlos Santos, executante de viola de acompanhamento, eterno membro dos Praxis Nova, com discos gravados"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        }
+      ],
+      "nota": "viola; desde 1988, gravações de 1989 a 1998"
+    },
+    {"tipo": "membro_de", "alvo": "fado-ao-centro", "fontes": [{"fonte": "cidade-gelsenkirchen", "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf", "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8", "citacao": "LUÍS CARLOS SANTOS, Gründer des Fado Ao Centro"}, {"fonte": "joao-farinha-site", "url": "https://joao-farinha.com/bio", "doc": "joao-farinha-site:w9363a51837eae2aa", "citacao": "no trio \"original\" do projeto, João Farinha, Luís Barroso e Luís Carlos"}], "nota": "viola; fundador"},
+    {"tipo": "acompanhou", "alvo": "joao-farinha-1976", "fontes": [{"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/joao-farinha-c-luis-barroso-g-e-luis.html", "doc": "gc-iv:4053923630858853141", "citacao": "João Farinha (c), Luís Barroso (g) e Luís Carlos (v), vão estar amanhã nas escadas da Igreja de Santiago."}], "nota": "2012"},
+    {"tipo": "acompanhou", "alvo": "francisco-costa", "fontes": [{"fonte": "cm-coimbra", "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf", "doc": "cm-coimbra:w49adfd40b3069844", "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)"}], "nota": "espetáculo «Imperfeito», 2022"},
+    {"tipo": "acompanhou", "alvo": "luis-alcoforado", "fontes": [{"fonte": "mpagdp", "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436", "doc": "mpagdp:wc8ebc6495b6486a8", "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"}], "nota": "viola; gravação de 7 de setembro de 2024"}
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

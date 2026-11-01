@@ -1,0 +1,35 @@
+{
+  "id": "luis-toscano",
+  "tipo": "pessoa",
+  "nome": "Luís Toscano",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/aeminium-grupo-de-fado-de-coimbra.html",
+          "doc": "gc-i:111861366803901000",
+          "citacao": "\"AEMINIUM\", Grupo de Fado de Coimbra. João Pedro Monteiro na guitarra, Pedro Cunha na viola; João Nuno Farinha e Luís Toscano no canto.\n\nFoto tirada do site deste grupo."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/agosto-dia-22-sabado-terreiro-de-santa.html",
+          "doc": "gc-iii:8671632157540955508",
+          "citacao": "18 de Agosto 21h30\n\nAdro da Igreja de Santa Cruz\n\nGrupo de Fados Æminium\n\nJoão Pedro Monteiro Guitarra Portuguesa\n\nPedro Cunha Guitarra Clássica\n\nJoão Nuno Farinha, José Vilhena e Luís Toscano voz"
+        }
+      ],
+      "nota": "voz; 2005-2009"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

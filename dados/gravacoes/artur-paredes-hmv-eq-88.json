@@ -1,0 +1,93 @@
+{
+  "id": "artur-paredes-hmv-eq-88",
+  "titulo": "Fantasia / Variações em Lá Menor",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 88",
+  "ano": "1927",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra (solista)"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fantasia",
+      "obra": "fantasia-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-88-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Lá Menor",
+      "obra": "variacoes-em-la-menor-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-88-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIvWWeFsivB6zHw9CtzqW3xBWC7eJ6Ujt5gUYWobPM15_aQhzEI7GZG87Lr3LSTTbtrz8wQzRPCIkRgkmMMwrUn90-YAHBm8A_Pvaq4opOoaGtvr4INjF06aQb3JoM0m1cx2xbVbb76Q0V/s1600/333a+3a+Rodela+Var.+em+L%25C3%25A1+menor+-+Arthur+Paredes+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Disco de 78 rpm HMV E. Q. 88, VARIAÇÕES EM LÁ MENOR, música de Artur Paredes."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/32924562",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Lisboa a 18 de maio de 1927",
+      "data": "1927-05-18",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice E.Q. 88, 7-69289. Gravado em Lisboa a 18.05.1927."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "His Master’s Voice E.Q. 88, 7-69288. Gravado em Lisboa a 18.05.1927."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, E.Q. 88 - master 7-69288 – Fantasia. Refere apenas Artur Paredes. - master 7-69289 – Variações em Lá Menor. Refere apenas Artur Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

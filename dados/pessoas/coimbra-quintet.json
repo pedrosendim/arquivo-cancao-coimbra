@@ -1,0 +1,324 @@
+{
+  "id": "coimbra-quintet",
+  "tipo": "grupo",
+  "nome": "Coimbra Quintet",
+  "nomes_alternativos": [
+    "Quinteto de Coimbra",
+    "The Coimbra Quintet",
+    "Grupo de António Portugal",
+    "grupo do Portugal"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+      "doc": "gc-v:1760813732173371136",
+      "citacao": "Com a saída do guitarrista António Duarte, e temendo que a formação liceal se desfizesse, José Afonso teve a ideia de convidar António Portugal para solista. Este aceitou e trouxe o viola Manuel Pepe. Foi assim que nasceu, em 1954, o futuro «Coimbra Quintet», ao qual se juntaram rapidamente os cantores Fernando Machado Soares, Fernando Rolim, Sutil Roque, Luiz Goes e Zé Dias."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+      "doc": "gc-v:1760813732173371136",
+      "citacao": "Entre 1954 e março de 1957 a formação integrada por Luiz Goes, Machado Soares, António Portugal e outros, nunca foi conhecida nem designada por «Quinteto de Coimbra», nem em português, nem em inglês. Dizia-se «o grupo», quando muito quem olhava de fora para dentro referia-se à formação como «o grupo do Portugal», seguindo a tradição conimbricense segundo a qual o guitarrista solista dava nome ao grupo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+      "doc": "gc-v:1936684536077535615",
+      "citacao": "Formação artística juvenil com atividade mediática intensa em Portugal e atuações no estrangeiro no período compreendido entre 1954-1958."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+      "doc": "gc-v:1760813732173371136",
+      "citacao": "Embora existissem em Coimbra outros grupos de prática ligados à universidade e ao liceu, o chamado «Coimbra Quintet» dominava a agenda, detendo um hegemónico capital de prestígio, e os convites para os saraus académicos, acompanhamento das digressões dos organismos culturais académicos e as chamadas «serenatas de Coimbra» emitidas mensalmente pelo Emissor Regional de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "Os registos fonográficos tiveram lugar em Madrid, no teatro Príncipe Real, nos inícios de março de 1957. ... Foi necessário escolher um nome mediático para o Grupo de António Portugal, tendo a opção recaído na designação Coimbra Quintet."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "A obra fonográfica registada pelo Coimbra Quintet em 1957 passou a ser unanimemente considerada uma referência em matéria de performances vocais e instrumentais. A sua influência estendeu-se pelo menos até à década de 1980."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "nasceu em 1954, quando António Portugal aceitou ser solista da formação liceal e trouxe o viola Manuel Pepe",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "José Afonso teve a ideia de convidar António Portugal para solista. Este aceitou e trouxe o viola Manuel Pepe. Foi assim que nasceu, em 1954, o futuro «Coimbra Quintet»"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "atividade entre 1954 e 1958",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "atuações no estrangeiro no período compreendido entre 1954-1958"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "O grupo teve intensa actividade artística interna e externa entre 1954-1958, apesar de não ser uma formação profissional."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Coimbra Quintet (1955-1958)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "traduz influências do legado sonoro do Coimbra Quintet (1955-1958)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Datação entre parênteses num post sobre o Conjunto Universitário de Guitarras."
+    },
+    {
+      "campo": "outro",
+      "valor": "a designação «Coimbra Quintet» foi criada em março de 1957 pelo marketing da Philips",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "A designação \"Coimbra Quintet\" não existia de todo e só foi cozinhada em março de 1957 pelo departamento de marketing da Philips quando uma parte do grupo conimbricense se deslocou a Madrid para cumprir as gravações estipuladas num contrato"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação mais estável: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe e Levi Baptista (v), Fernando Machado Soares, Fernando Rolim, António Sutil Roque, José Afonso, Luiz Goes e José Henrique Dias (vozes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "rótulo da Philips: António Portugal (gC1), Jorge Godinho (gC2), Manuel Pepe (v), Levi Baptista (v) e Luiz Goes (barítono)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "No que respeita às gravações do grupo de António Portugal [Madrid, março de 1957], a Philips coloca em circulação o rótulo Coimbra Quintet - abrangendo António Portugal (gC1), Jorge Godinho (gC2), Manuel Pepe (v), Levi Baptista (v) e Luiz Goes (barítono)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "membros segundo o Discogs: Fernando Machado Soares, António Portugal, Manuel Pepe, Jorge Godinho e Levi Baptista",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/1841652",
+          "doc": "discogs:w875f8b5a7da4151a",
+          "citacao": "Membros: Fernando Machado Soares ... António Portugal ... Manuel Pepe (2) ... Jorge Godinho ... Levi Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Discogs inclui Machado Soares e não Luiz Goes, e junta no mesmo artista o CD «Guitarra e Canção de Coimbra» (2001) do Quinteto de Coimbra de Ricardo Dias."
+    },
+    {
+      "campo": "outro",
+      "valor": "ensaios no piso inferior da casa de António Portugal, na av. Afonso Henriques",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Os ensaios decorriam no piso inferior da casa de habitação de António Portugal, na av. Afonso Henriques"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "duas guitarras de Coimbra de concerto (modelo Artur Paredes/Grácios) e dois violões de cordas de aço",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "Os instrumentistas usaram duas guitarras de Coimbra de concerto, conforme o modelo Artur Paredes/Grácios, e dois violões de cordas de aço."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "registos em Madrid, no teatro Príncipe Real, inícios de março de 1957",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Os registos fonográficos tiveram lugar em Madrid, no teatro Príncipe Real, nos inícios de março de 1957."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP gravado no ano de 1958",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/luiz-goes-antnio-portugal-e-o-quinteto.html",
+          "doc": "gc-i:111189303779585269",
+          "citacao": "\"Luiz Goes, António Portugal e o Quinteto de Coimbra\". LP gravado no ano de 1958."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "edição em um LP de 33 rpm e três EP de 45 rpm, com edição internacional",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Circuladas em suporte vinil de 33 rpm (um LP) e 45 rpm (três EP) as gravações tiveram edição internacional, conquistaram grande sucesso e conferiram a Luiz Goes uma impressionante projecção mediática."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP Serenata de Coimbra 2 e 3 (Philips, 1957) e LP Serenata de Coimbra (1958), segundo o Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/1841652",
+          "doc": "discogs:w875f8b5a7da4151a",
+          "citacao": "1957 · Serenata De Coimbra 3 · Philips ... 1957 · Serenata de Coimbra 2 · Philips ... 1958 · Serenata De Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP Um Pedacinho de Portugal, Philips SLP-9013, 1957 (Estúdios da Companhia Brasileira de Discos)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/relao-das-gravaes-em-que-participou.html",
+          "doc": "gc-ii:6857776083216296472",
+          "citacao": "UM PEDACINHO DE PORTUGAL Quinteto de Coimbra Philips, SLP – 9013 – 1957 Estúdios da Companhia Brasileira de Discos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fernando Machado Soares estava escalado para as gravações, mas passou-as a Luiz Goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/luiz-goes-antnio-portugal-e-o-quinteto.html",
+          "doc": "gc-i:111189303779585269",
+          "citacao": "Curiosamente era Fernando Machado Soares que estava escalado para gravar este disco mas, à última da hora, um mal estar apoderou-se dele e resolveu passar a pasta a Luiz Goes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "O grupo decidiu persuadir outro membro da formação a garantir as gravações, Luiz Goes. Este aceitou o desafio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6vdmL5RQfwjyTa4ZFCDRz6M9USEf4XuT9vYSnseLbeJJzDKWOBfQDHbdlTdEoptc2OGTj9QnhVXD7b898FQvgMPhALAVdyQZkCUyDuJBF_9qZRBTqSX6ZJH1FWLQs94dBSVdcXxmfL8wk/s1600/foto+quinteto.jpg",
+      "legenda": "O Coimbra Quintet na Sé Velha, foto promocional, 1957: António Portugal/Jorge Godinho (gg); Manuel Pepe/Levi Baptista (vv); Luiz Goes/Sutil Roque/Machado Soares (cantores).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "O Coimbra Quintet na Sé Velha, foto promocional, 1957: António Portugal/Jorge Godinho (gg); Manuel Pepe/Levi Baptista (vv); Luiz Goes/Sutil Roque/Machado Soares (cantores)"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAblRSLoVovjuVTWOHinTD7Dwvhxul1oQCpEsbXg81UX6rbL3GXmA8ha0pLjx6lOvkQoqY87gJwrHBJMwCIhdtIsi65NlF-fwYfed7O54PFmsw4Cg7cUXmLvpu8b7TNyxSL0P0CQzov8w/s1600/Arquivo+Municipal+de+Lisboa+-+Ref+PT-AMLSB-FER-005194+-+Folha+1+%25282%2529.jpg",
+      "legenda": "Fotografia promocional do Coimbra Quintet junto à entrada da Torre d'Anto, Coimbra [ca. 1955-1956]. A contar do portão: Levy Baptista (v), António Portugal (gC1), Jorge Godinho (gC2), Machado Soares (a cantar) e José Afonso, atrás de Machado Soares, sem óculos (Arquivo Municipal de Lisboa, PT/AMLSB/FER/005194).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "Fotografia promocional do Coimbra Quintet Coimbra meados da década de 1950"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "São reconhecíveis a contar do portão: -Levy Baptista (v); -António Portugal (gC1); -Jorge Godinho (gC2); -Machado Soares (a cantar); -José Afonso, atrás de Machado Soares, sem óculos."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Quinteto De Coimbra",
+      "url": "https://www.discogs.com/artist/1841652"
+    },
+    {
+      "rotulo": "Post: Na pré-história do «Coimbra Quintet» (GC-V, 2022)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

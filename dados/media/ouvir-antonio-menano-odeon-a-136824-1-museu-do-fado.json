@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-a-136824-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0597_35.mp3",
+  "titulo": "Fado da Morena — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-a-136824",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1187.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1178/antonio_menano_fado_da_morena",
+      "doc": "museu-do-fado:we407f3401407491c",
+      "citacao": "Título: Fado da Morena ... Editora: Od.136.824, X3038, EMI261283,EMICD8364452,HTCD31"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

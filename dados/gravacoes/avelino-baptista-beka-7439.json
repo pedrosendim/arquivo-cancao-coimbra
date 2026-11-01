@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-beka-7439",
+  "titulo": "Fado Estoril",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7439",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Estoril",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-7439-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Estoril», por Avelino Baptista — etiqueta: «Fado Estoril / Fado / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/204/avelino_baptista_fado_estoril",
+          "doc": "museu-do-fado:w8bf24a67eb77afef",
+          "citacao": "Título: Fado Estoril ... Editora: Beka 7439 Referências: Disco “Beka” Grande, 485; 7439 ... Etiqueta: Fado Estoril / Fado / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, o Fado do Estoril foi gravado por Avelino Baptista em 1903 e nos anos seguintes e adaptado ao estilo dos serenateiros de Coimbra por Manassés de Lacerda (o post não indica o número deste disco)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/04/coimbra-cantada-em-oakland-registos-por.html",
+          "doc": "gc-v:5861696683492756216",
+          "citacao": "gravada nesse mesmo ano e nos anos seguintes pelo barítono Avelino Baptista ... A melodia foi adaptada ao estilo dos serenateiros de Coimbra por Manassés de Lacerda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/204/avelino_baptista_fado_estoril",
+      "doc": "museu-do-fado:w8bf24a67eb77afef",
+      "citacao": "Título: Fado Estoril ... Editora: Beka 7439 Referências: Disco “Beka” Grande, 485; 7439"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/04/coimbra-cantada-em-oakland-registos-por.html",
+      "doc": "gc-v:5861696683492756216",
+      "citacao": "gravada nesse mesmo ano e nos anos seguintes pelo barítono Avelino Baptista ... A melodia foi adaptada ao estilo dos serenateiros de Coimbra por Manassés de Lacerda"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

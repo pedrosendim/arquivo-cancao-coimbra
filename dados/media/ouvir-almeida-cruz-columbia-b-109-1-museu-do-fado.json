@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-109-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0315_29.mp3",
+  "titulo": "Cobre-me cobre-me — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-109",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0629.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/624/almeida_cruz_cobre_me_cobre_me",
+      "doc": "museu-do-fado:w819f64c99d7a6be0",
+      "citacao": "Título: Cobre-me cobre-me ... Editora: Co. B-109 Referências: 11807-1; B109"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

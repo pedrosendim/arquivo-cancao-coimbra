@@ -1,0 +1,25 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b112-11880-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0317_34.mp3",
+  "titulo": "Fado Serenata (Eu tenho um grande ciúme) — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [
+    "fado-serenata-eu-tenho-um-grande-ciume"
+  ],
+  "gravacao": "almeida-cruz-columbia-b112-11880",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0633.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/629/almeida_cruz_fado_serenata",
+      "doc": "museu-do-fado:w2e624da72b291421",
+      "citacao": "Título: Fado Serenata ... Editora: Co. B-112,13.112"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "balada-de-coimbra",
+  "titulo": "Balada de Coimbra",
+  "titulos_alternativos": [
+    "Balada do Mondego"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-elyseu"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Título original «Balada do Mondego»; a sentença judicial aceitou o título «Balada de Coimbra» com menção «música de José das Neves Elyseu, arranjo para guitarra de Coimbra de Artur Paredes»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "O título original desta composição, música e letra incluída, era BALADA DO MONDEGO. A sentença judicial aceitou que a peça instrumental gravada por Artur Paredes mantenha o título Balada de Coimbra, devendo especificar-se música de José das Neves Elyseu, arranjo para guitarra de Coimbra de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por Artur Paredes em Lisboa a 18 de maio de 1927 (HMV E.Q. 93)",
+      "data": "1927-05-18",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice E.Q. 93, 7-69284. Gravado em Lisboa a 18.05.1927."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Encerra todas as serenatas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Ninguém como ele toca a “Balada de Coimbra”, que passou a encerrar todas as serenatas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Palavras de Nelson Correia Borges citadas por José Niza."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "BALADA DE COIMBRA, música de José das Neves Elyseu, arranjo de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "guitarra-ferreira-fonseca-petronio-ricciulli",
+  "designacao": "Guitarra de Coimbra de Petrónio Ricciulli, com rótulo da casa Ferreira & Fonseca e rótulo de Raul Simões como restaurador e reformador",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "petronio-ricciuli",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+          "doc": "gc-v:6372395233525747606",
+          "citacao": "Guitarra de Coimbra que pertenceu a Petrónio Ricciulli."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Rótulo da casa Ferreira & Fonseca com data manuscrita «1941» (?) e rótulo da oficina de Raul Simões como restaurador e reformador (c. 1950)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+          "doc": "gc-v:6372395233525747606",
+          "citacao": "Apresenta no interior um rótulo da casa Ferreira & Fonseca, com data manuscrita \"1941\" (?), e ao lado o rótulo da oficina de Raul Simões como restaurador e reformador (s/d, ca. 1950)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O construtor indicado no rótulo é a casa Ferreira & Fonseca (sem ficha); Raul Simões aparece como restaurador e reformador."
+    },
+    {
+      "campo": "outro",
+      "valor": "Voluta segundo as personalizações de Artur Paredes, de aresta viva; escala de 17 pontos; ilharga baixa; chapa de leque acrescentada depois de 1974",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+          "doc": "gc-v:6372395233525747606",
+          "citacao": "Voluta internacional style conforme personalizações Artur Paredes, de aresta viva. Escala de 17 pontos. Guarda-unhas. Ilharga baixa. Chapa de leque, acrescentada ulteriormente (depois de 1974)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Usada nas gravações de maio de 1953 com Augusto Camacho Vieira (voz), Egas Berrance (guitarra) e Carlos Figueiredo (viola)",
+      "data": "1953-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+          "doc": "gc-v:6372395233525747606",
+          "citacao": "Foi utilizada por Ricciulli nas gravações realizadas em maio de 1953 com Augusto Camacho Vieira (voz), Egas Berrance (gC) e Carlos Figueiredo (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLA9aX3PFamUwCDFJu8qnTmfKacRkLtPn76IBMqlZMUtb3LpX1dogmd2BH52Hl8ev9_1luXpS1NDnm1J4R_36lrJonW0HnIvv43fUBDFdd1JcbWIBtoBYqXNlz6an1NsAbwIKxA_QU1-hV/s1600/Guitarra+Ricciullli-2+%25282%2529.jpg",
+      "legenda": "Guitarra de Coimbra que pertenceu a Petrónio Ricciulli (fotografia de Manuela Ricciulli, 2015).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+          "doc": "gc-v:6372395233525747606",
+          "citacao": "Fonte: propriedade da Dra. Manuela Ricciulli que realizou as fotografias a pedido do blogue Guitarra de Coimbra (23.08.2015)."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/09/guitarra-de-coimbra-de-petronio.html",
+      "doc": "gc-v:6372395233525747606",
+      "citacao": "Trata-se de um curioso caso de persistência da antiga guitarra de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

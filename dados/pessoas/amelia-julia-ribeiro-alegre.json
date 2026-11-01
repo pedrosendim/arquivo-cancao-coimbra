@@ -1,0 +1,62 @@
+{
+  "id": "amelia-julia-ribeiro-alegre",
+  "tipo": "pessoa",
+  "nome": "Amélia Júlia Ribeiro Alegre",
+  "nomes_alternativos": [
+    "Júlia Ribeiro Alegre"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Amélia Júlia Ribeiro Alegre",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "de sua mulher Amélia Júlia Ribeiro Alegre"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Júlia Ribeiro Alegre",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/alegre-manuel-ribeiro-alegre-natural.html",
+          "doc": "gc-i:113852928918580833",
+          "citacao": "filho de Francisco Alegre e de Júlia Ribeiro Alegre"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "francisco-sampaio-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Era filho de Francisco Sampaio Alegre e de sua mulher Amélia Júlia Ribeiro Alegre."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

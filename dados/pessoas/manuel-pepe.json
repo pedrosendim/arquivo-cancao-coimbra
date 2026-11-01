@@ -1,0 +1,67 @@
+{
+  "id": "manuel-pepe",
+  "tipo": "pessoa",
+  "nome": "Manuel Pepe",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte instrumental era assegurada por António Portugal (guitarrista solista)/Jorge Godinho (2.º guitarra) e Manuel Pepe/Levy Baptista (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Este aceitou e trouxe o viola Manuel Pepe."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Manuel Pepe e Levy Baptista (à viola) o famoso Zeca Afonso no seu primeiro EP"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "e, à viola, por Manuel Pepe/Paulo Alão"
+        }
+      ],
+      "nota": "Viola no EP «Coimbra» (registo de 1956) e no EP «Balada do Outono» (1960)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "pernoitava na república Baco, e cantava acompanhado por José Niza (g.C) e Manuel Pepe, entre outros."
+        }
+      ],
+      "nota": "Nos primeiros anos da década de 1960 (república Baco). Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

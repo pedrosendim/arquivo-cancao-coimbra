@@ -1,0 +1,136 @@
+{
+  "id": "luiz-goes-columbia-elms-3002",
+  "titulo": "Balada da Torre d'Anto",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "ELMS 3002",
+  "ano": "1967",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    },
+    {
+      "pessoa": "joao-bagao",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "aires-de-aguilar",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-toscano",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "fernando-neto",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada Da Torre De Anto",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-6-apple-music",
+        "ouvir-luiz-goes-columbia-spmx-5004-6-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Direcção",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-1-apple-music",
+        "ouvir-luiz-goes-columbia-spmx-5004-1-youtube"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Rua Larga",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-5-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/aS5OEB1kvDXUUMY74mqZYVcY1SpqrDZmFo_3nZUreHw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTA4/MzQtMTQ4MjczODg1/OC0yNDIwLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/8910834",
+        "doc": "discogs:w947aac3eb987771c",
+        "citacao": "Imagem (primary): https://i.discogs.com/aS5OEB1kvDXUUMY74mqZYVcY1SpqrDZmFo_3nZUreHw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTA4/MzQtMTQ4MjczODg1/OC0yNDIwLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/8910834",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8910834",
+          "doc": "discogs:w947aac3eb987771c",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8910834",
+          "doc": "discogs:w947aac3eb987771c",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em março de 1967 com João Carlos Bagão e Aires Máximo de Aguilar (guitarras) e António Simão Toscano e Fernando Neto Mateus da Silva (violas)",
+      "data": "1967-03",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/8910834",
+      "doc": "discogs:w947aac3eb987771c",
+      "citacao": "Editora: Columbia – ELMS 3002"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/a-emergencia-do-novo-canto-um-monumento.html",
+      "doc": "gc-v:580185317232692952",
+      "citacao": "EP DR. LUIZ GOES, BALADA DA TORRE D'ANTO, Lisboa, Columbia ELMS 3002, s/d. [1967]."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

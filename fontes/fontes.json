@@ -1,0 +1,1076 @@
+{
+  "nota": "Registo de fontes. Só fontes com estado 'aprovada' podem sustentar factos ou fornecer media. 'uso' indica para que serve a fonte: 'factos' (pode sustentar afirmações) e/ou 'media' (pode fornecer vídeos, áudio ou imagens). Para aprovar: python scripts/fontes.py aprovar <id>",
+  "fontes": [
+    {
+      "id": "gc-i",
+      "nome": "Guitarra de Coimbra (Parte I)",
+      "tipo": "blogue",
+      "url": "https://guitarradecoimbra.blogspot.com/",
+      "autor": "Octávio Sérgio e colaboradores",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarradecoimbra"
+      },
+      "notas": "Primeiro blogue da série (até 2008)."
+    },
+    {
+      "id": "gc-ii",
+      "nome": "Guitarra de Coimbra (Parte II)",
+      "tipo": "blogue",
+      "url": "https://guitarrasdecoimbra.blogspot.com/",
+      "autor": "Octávio Sérgio e colaboradores",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarrasdecoimbra"
+      },
+      "notas": ""
+    },
+    {
+      "id": "gc-iii",
+      "nome": "Guitarra de Coimbra III",
+      "tipo": "blogue",
+      "url": "https://guitarracoimbra.blogspot.com/",
+      "autor": "Octávio Sérgio e colaboradores",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarracoimbra"
+      },
+      "notas": ""
+    },
+    {
+      "id": "gc-iv",
+      "nome": "Guitarra de Coimbra IV",
+      "tipo": "blogue",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/",
+      "autor": "Octávio Sérgio e colaboradores",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarrasdecoimbra2"
+      },
+      "notas": ""
+    },
+    {
+      "id": "gc-iv-ponte",
+      "nome": "Guitarra de Coimbra IV (endereço-ponte)",
+      "tipo": "blogue",
+      "url": "https://guitarradecoimbra2.blogspot.com/",
+      "autor": "Octávio Sérgio",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarradecoimbra2"
+      },
+      "notas": "Endereço com 2 posts que remete para os blogues I, II e III."
+    },
+    {
+      "id": "gc-v-inicio",
+      "nome": "Guitarra de Coimbra V (primeiro endereço)",
+      "tipo": "blogue",
+      "url": "https://guitarradecoimbra3.blogspot.com/",
+      "autor": "Octávio Sérgio",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarradecoimbra3"
+      },
+      "notas": "Poucos posts (2014)."
+    },
+    {
+      "id": "gc-v",
+      "nome": "Guitarra de Coimbra V (Cithara Conimbrigensis)",
+      "tipo": "blogue",
+      "url": "https://guitarradecoimbra4.blogspot.com/",
+      "autor": "Octávio Sérgio e colaboradores",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "guitarradecoimbra4"
+      },
+      "notas": "Blogue ativo: voltar a recolher periodicamente."
+    },
+    {
+      "id": "rtp-arquivos",
+      "nome": "RTP Arquivos",
+      "tipo": "arquivo-audiovisual",
+      "url": "https://arquivos.rtp.pt/",
+      "autor": "RTP",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "sitemap",
+        "script": "scripts/rtp_arquivos.py"
+      },
+      "notas": "Indicado pelo utilizador. O robots.txt permite o acesso; recolha pelo sitemap público com identificador honesto (scripts/rtp_arquivos.py). Guarda-se só a ficha descritiva; o vídeo vê-se no site da RTP (termos: visionamento privado e educativo)."
+    },
+    {
+      "id": "youtube",
+      "nome": "YouTube",
+      "tipo": "plataforma",
+      "url": "https://www.youtube.com/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Pedido pelo utilizador para audição. Só media: títulos e descrições de vídeos NÃO sustentam factos."
+    },
+    {
+      "id": "spotify",
+      "nome": "Spotify",
+      "tipo": "plataforma",
+      "url": "https://open.spotify.com/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Pedido pelo utilizador para audição. Só media."
+    },
+    {
+      "id": "musicbrainz",
+      "nome": "MusicBrainz",
+      "tipo": "base-de-dados",
+      "url": "https://musicbrainz.org/",
+      "autor": "Comunidade MusicBrainz (dados CC0)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "api"
+      },
+      "notas": "Proposta: base de dados aberta de discografia (editoras, números de catálogo, faixas) com API gratuita. Útil para a Discografia."
+    },
+    {
+      "id": "discogs",
+      "nome": "Discogs",
+      "tipo": "base-de-dados",
+      "url": "https://www.discogs.com/",
+      "autor": "Comunidade Discogs",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "api",
+        "script": "scripts/discogs.py"
+      },
+      "notas": "Proposta: catálogo detalhado de edições (78 rpm, EP, LP), com capas e créditos. Dados introduzidos por colecionadores: fiabilidade variável. O site está protegido contra robôs: usar só a API oficial (scripts/discogs.py)."
+    },
+    {
+      "id": "arquivo-pt",
+      "nome": "Arquivo.pt",
+      "tipo": "arquivo-web",
+      "url": "https://arquivo.pt/",
+      "autor": "FCT",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "api"
+      },
+      "notas": "Proposta: arquivo da web portuguesa. Permite recuperar páginas e sites desaparecidos citados nos blogues."
+    },
+    {
+      "id": "estudo-geral-uc",
+      "nome": "Estudo Geral — Repositório da Universidade de Coimbra",
+      "tipo": "repositorio-academico",
+      "url": "https://estudogeral.uc.pt/",
+      "autor": "Universidade de Coimbra",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Proposta: teses e artigos académicos (ex.: dissertação de Luís Castela sobre a guitarra portuguesa e a Canção de Coimbra)."
+    },
+    {
+      "id": "rcaap",
+      "nome": "RCAAP — Repositórios Científicos de Acesso Aberto de Portugal",
+      "tipo": "repositorio-academico",
+      "url": "https://www.rcaap.pt/",
+      "autor": "FCT",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Proposta: agrega teses de todas as universidades portuguesas."
+    },
+    {
+      "id": "museu-do-fado",
+      "nome": "Museu do Fado",
+      "tipo": "instituicao",
+      "url": "https://www.museudofado.pt/",
+      "autor": "EGEAC / Câmara Municipal de Lisboa",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "automatico",
+        "script": "scripts/museu_fado.py"
+      },
+      "notas": "Proposta: fichas de intérpretes e exposições (ex.: coleção Luís Cangueiro referida no blogue V). Arquivo Sonoro Digital (arquivosonoro.museudofado.pt) recolhido com scripts/museu_fado.py: fichas dos registos e áudio mp3."
+    },
+    {
+      "id": "bnp-digital",
+      "nome": "Biblioteca Nacional Digital (BNP)",
+      "tipo": "biblioteca",
+      "url": "https://purl.pt/",
+      "autor": "Biblioteca Nacional de Portugal",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Proposta: partituras, periódicos e espécies digitalizadas."
+    },
+    {
+      "id": "internet-archive",
+      "nome": "Internet Archive",
+      "tipo": "arquivo-audiovisual",
+      "url": "https://archive.org/",
+      "autor": "Internet Archive",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "api"
+      },
+      "notas": "Proposta: digitalizações de discos de 78 rpm (ex.: Great 78 Project) com leitor incorporável. Só media."
+    },
+    {
+      "id": "wikidata",
+      "nome": "Wikidata",
+      "tipo": "base-de-dados",
+      "url": "https://www.wikidata.org/",
+      "autor": "Comunidade Wikimedia (dados CC0)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "api"
+      },
+      "notas": "Proposta: datas e identificadores normalizados (ligações a outras bases). Fonte secundária: usar só para cruzar dados."
+    },
+    {
+      "id": "livro-fragmentos-para-uma-guitarra",
+      "nome": "Flávio Rodrigues da Silva. Fragmentos para uma guitarra (António Manuel Nunes e José dos Santos Paulo, MinervaCoimbra, 2002)",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/flvio-rodrigues-da-silva-fragmentos.html",
+      "autor": "António Manuel Nunes; José dos Santos Paulo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Monografia sobre Flávio Rodrigues (col. Vozes e Sons de Coimbra), citada em dezenas de posts dos blogues (biografia, repertório, partituras, fotografias, ficha técnica da guitarra). Fonte primária para validar datas e divergências (ex.: data das gravações de Paris; um post refere edição de 1999). O URL é o post do blogue que anuncia o livro (sem versão em linha conhecida)."
+    },
+    {
+      "id": "catalogo-centenario-flavio-rodrigues-2002",
+      "nome": "Catálogo «Centenário do nascimento do guitarrista Flávio Rodrigues da Silva (1902-2002)», Câmara Municipal de Coimbra, 2002",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "autor": "Câmara Municipal de Coimbra (levantamento de Carlos Alberto Dias / Os Salatinas)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Catálogo da homenagem de 2002, com levantamento biográfico e fotográfico de cultores futricas; citado no post gc-i:113544803961572695. Poderá conter fotografias identificadas de Flávio Rodrigues (que não encontrámos legendadas nos blogues)."
+    },
+    {
+      "id": "livro-musicos-territorio-salatina",
+      "nome": "Músicos do Território Salatina 1880-1947. Guitarristas, Cantores, Violistas, Romeiros (Câmara Municipal de Coimbra, 2012)",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+      "autor": "Câmara Municipal de Coimbra",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Livro citado nos posts biográficos de Manuel Marques Inácio (Fernando Rodrigues da Silva, Carlos Moreira) como fonte de fotografias e textos sobre músicos da Alta, incluindo a família Rodrigues da Silva."
+    },
+    {
+      "id": "jornal-o-despertar",
+      "nome": "O Despertar (jornal, Coimbra)",
+      "tipo": "imprensa",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/06/fonte-o-despertar-coimbra-ano-x-n.html",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Notícias de 24.11.1926 (gravações de Paris em dezembro de 1926) e de 3.5.1930 e 16.7.1930 (atuações do trio de Flávio Rodrigues, também em Lisboa), digitalizadas por José Nascimento e reproduzidas no blogue V. Útil para fixar a cronologia de Flávio Rodrigues e António Menano."
+    },
+    {
+      "id": "jornal-diario-de-coimbra",
+      "nome": "Diário de Coimbra (jornal)",
+      "tipo": "imprensa",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/11/flvio-rodrigues-no-dirio-de-coimbra-de.html",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Citado sobre Flávio Rodrigues: notícia de 16/05/1938 (guitarradas no Teatro Avenida), artigo de Eduardo Mamede de 23/06/1993 (gravações de Paris, óbito de Augusto Louro) e texto de Manuel Dias de 24/11/2006 (recorte publicado no blogue I)."
+    },
+    {
+      "id": "jose-lucio",
+      "nome": "José Lúcio — site de cordofones portugueses",
+      "tipo": "site",
+      "url": "http://www.jose-lucio.com/",
+      "autor": "José Lúcio Ribeiro de Almeida",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Site do colecionador José Lúcio Ribeiro de Almeida (autor de Cordofones Portugueses, 2000; Espaço Museu José Lúcio, Odivelas). O blogue I (2005-2006) reproduz daí as fotografias de João Pedro Grácio, João Pedro Grácio Júnior, Joaquim (Kim) Grácio e Gilberto Grácio e um texto sobre o guitolão (gc-i:111616660566874349, gc-i:116484238888413880). Útil para luthiers e instrumentos; fiabilidade a avaliar."
+    },
+    {
+      "id": "cristo-2014-york",
+      "nome": "Nuno Cristo, The Portuguese Guitar: History and Transformation of an Instrument Associated with Fado (tese de mestrado, York University, 2014)",
+      "tipo": "repositorio-academico",
+      "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+      "autor": "Nuno Cristo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Tese citada no blogue V (gc-v:6007738648378406322, gc-v:4359239364460704320) sobre João Pedro Grácio Jr., Gilberto Grácio, Álvaro da Silveira e a guitarra de Lisboa moderna e a adoção da guitarra de Coimbra pelos profissionais do fado. Permitiria verificar as atribuições citadas em segunda mão."
+    },
+    {
+      "id": "galaxia-sonora-coimbra",
+      "nome": "Galáxia Sonora Coimbrã (blogue)",
+      "tipo": "blogue",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/",
+      "autor": "Adamo Caetano / António Manuel Nunes",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "blogger-feed",
+        "blog": "galaxiasonoracoimbra"
+      },
+      "notas": "Blogue-irmão citado no Guitarra de Coimbra V (post de 12.02.2020 sobre Sonhos Dourados/Balada do Mondego): partituras de época, transcrições e ficheiros sonoros de repertório gravado por Artur Paredes e Flávio Rodrigues."
+    },
+    {
+      "id": "etiqueta-alvorada-mimoso",
+      "nome": "A etiqueta Alvorada (João Manuel Mimoso)",
+      "tipo": "site",
+      "url": "http://www.historia.com.pt/vinyl/Alvorada/textos/Alvorada051_075.htm",
+      "autor": "João Manuel Mimoso",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Catálogo da etiqueta Alvorada citado como fonte no 'Contributo para uma discografia de Artur Paredes' (gc-v, 08.06.2015): números MEP 60054/60056. O próprio post avisa que não distingue os registos de 1957 dos de 1961."
+    },
+    {
+      "id": "soundcloud-octavio-sergio",
+      "nome": "SoundCloud de Octávio Sérgio",
+      "tipo": "plataforma",
+      "url": "https://soundcloud.com/oct-vio-s-rgio",
+      "autor": "Octávio Sérgio",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Ficheiros de escuta 'em contexto educativo' de gravações de Artur Paredes (Variações em Ré Maior, Rapsódia n.º 2, Canção do Ribeirinho, Passatempo, Fantasia) ligados no post de discografia de 2015. Só media; confirmar direitos."
+    },
+    {
+      "id": "guitarradas-coimbra-frias-goncalves",
+      "nome": "Guitarradas de Coimbra (site de Fernando Frias Gonçalves)",
+      "tipo": "site",
+      "url": "http://www.guitarradasdecoimbrafg.com/",
+      "autor": "Fernando Frias Gonçalves",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Gravações de Frias Gonçalves de peças de Artur Paredes (página recordando_ap.html citada no post gc-v de 12.02.2020 sobre a Canção da Margarida, para ouvir a Rapsódia de Canções). O post gc-iv de 01.01.2013 elogia também o trabalho de Frias Gonçalves na divulgação das variações de Albano de Noronha (sem indicar o endereço)."
+    },
+    {
+      "id": "aja",
+      "nome": "Associação José Afonso",
+      "tipo": "instituicao",
+      "url": "https://aja.pt/",
+      "autor": "Associação José Afonso",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador para José Afonso."
+    },
+    {
+      "id": "wikimedia-commons",
+      "nome": "Wikimedia Commons",
+      "tipo": "base-de-dados",
+      "url": "https://commons.wikimedia.org/",
+      "autor": "Comunidade Wikimedia (licenças livres)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Fotografias com licença livre, ligadas a partir da Wikidata. [Aprovada ao abrigo do pedido do utilizador: procurar fotografias das pessoas na internet — por confirmar]"
+    },
+    {
+      "id": "fm-construcao-cordofones",
+      "nome": "Fernando Miraldo — Construção de Cordofones (site oficial da oficina)",
+      "tipo": "site",
+      "url": "https://www.fm-construcaodecordofones.com/",
+      "autor": "Fernando Miraldo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Site oficial do construtor de cordofones Fernando Miraldo (Coimbra), citado no blogue Guitarra de Coimbra (gc-v:602775671246807993). Biografia do construtor e trabalhos de construção/restauro de violas toeiras e guitarras. [Aprovada ao abrigo do pedido do utilizador: luthiers — por confirmar]"
+    },
+    {
+      "id": "verdes-anos-blogue",
+      "nome": "Verdes Anos — weblog do grupo de fados Verdes Anos",
+      "tipo": "blogue",
+      "url": "https://verdesanos.wordpress.com/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Blogue do próprio grupo Verdes Anos (Canção de Coimbra), anunciado no blogue Guitarra de Coimbra II (gc-ii:1418397540126251295). Página 'about' indica a fundação do grupo. [Aprovada ao abrigo do pedido do utilizador: grupos — por confirmar]"
+    },
+    {
+      "id": "taborda-2016-couceiro",
+      "nome": "Marcia E. Taborda, «De Coimbra ao Rio de Janeiro: os violeiros da família Couceiro e sua participação nas exposições regionais e internacionais», Boletim do Arquivo da Universidade de Coimbra, vol. 29 (2016)",
+      "tipo": "repositorio-academico",
+      "url": "https://impactum-journals.uc.pt/boletimauc/article/view/29_5",
+      "autor": "Marcia E. Taborda",
+      "estado": "rejeitada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Artigo académico (Imprensa da Universidade de Coimbra, DOI 10.14195/2182-7974_29_5) sobre os violeiros Couceiro, indicado pela autora num comentário ao post gc-v:3102469722542625278. Útil para completar as fichas antonio-dos-santos-couceiro e joao-dos-santos-couceiro. Não arquivado (PDF). [Rejeitada: autora brasileira (Márcia Taborda, UFRJ); o utilizador não quer incluir fontes brasileiras]"
+    },
+    {
+      "id": "tauc-arquivo-digital",
+      "nome": "Arquivo digital da TAUC (tunauc.wordpress.com, Adamo Caetano)",
+      "tipo": "blogue",
+      "url": "https://tunauc.wordpress.com/",
+      "autor": "Adamo Caetano / TAUC",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Arquivo digital da Tuna Académica da Universidade de Coimbra, citado repetidamente nos posts sobre violeiros (ex.: «As histórias por trás dos instrumentos», 2021; fotografias de José Cochofel; assentos de batismo dos Bruno). Pode documentar instrumentos e construtores de Coimbra."
+    },
+    {
+      "id": "rtp-memoria-gramofone",
+      "nome": "RTP Memória — Gramofone (fichas de João Carlos Callixto)",
+      "tipo": "arquivo-audiovisual",
+      "url": "https://www.rtp.pt/rtpmemoria/gramofone/",
+      "autor": "João Carlos Callixto",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Fichas discográficas de intérpretes da Canção de Coimbra (ex.: Luiz Goes, António Bernardino, Augusto Camacho) com integração no Quinteto de Coimbra, grupo de Serenatas de Coimbra (Vilar de Mouros 1967) e acompanhadores. Não arquivado nem citado; útil para grupos e discografia."
+    },
+    {
+      "id": "arquivo-municipal-lisboa",
+      "nome": "Arquivo Municipal de Lisboa — Fotografias",
+      "tipo": "instituicao",
+      "url": "https://arquivomunicipal.cm-lisboa.pt/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "media",
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Guarda a fotografia promocional do Coimbra Quintet (Coleção Artur João Goulart, PT/AMLSB/FER/005194), publicada com autorização no blogue GC-V (gc-v:1936684536077535615). Fonte institucional para fotografias de grupos."
+    },
+    {
+      "id": "livro-cravo-lutas-estudantis-2009",
+      "nome": "Jorge Cravo, A Canção de Coimbra em tempo de lutas estudantis (1961-1969), Minerva Coimbra, 2009",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+      "autor": "Jorge Cravo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Estudo de referência sobre os grupos e a Canção de Coimbra dos anos 60, citado no blogue GC-V (série sobre o Coimbra Quartet). Não acessível em linha."
+    },
+    {
+      "id": "livro-testemunhos-vivos-2002",
+      "nome": "AAVV, Canção de Coimbra. Testemunhos vivos (antologia de textos), DG-AAC, 2002",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Rememorações de Rui Pato, José Miguel Baptista, Fernando Gomes Alves, José Niza, Jorge Gomes, António Ralha, Manuel Borralho; citado no blogue GC-V como bibliografia sobre o Coimbra Quintet e os grupos dos anos 60."
+    },
+    {
+      "id": "porto-academico-blogue",
+      "nome": "Porto Académico (blogue de João Caramalho Domingos)",
+      "tipo": "blogue",
+      "url": "https://portoacademico.blogspot.com/",
+      "autor": "João Caramalho Domingos",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Estudo «Os discos e as partituras de Manassés de Lacerda» (13.04.2023), citado e elogiado em gc-v:8580010178364701355 e gc-v:5547697329003391606; discografia, editores fonográficos e datação das edições Arthur Barbedo (1906)."
+    },
+    {
+      "id": "arquivos-do-fado-tradisom",
+      "nome": "Arquivos do Fado (blogue de João Moças / Tradisom)",
+      "tipo": "blogue",
+      "url": "https://arquivosdofado.blogspot.com/",
+      "autor": "José/João Moças (Tradisom)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Citado em gc-v:8663414541731534926 e gc-v:3059048621861323592 como fonte da discografia de Manassés de Lacerda (gravações de 1905, 1906, 1913 e 1928, números de fonograma). O colecionador José Moças/TradiSom detém o disco Gramophone 62867 (1900), o mais antigo conhecido (gc-v:3594199943360181960)."
+    },
+    {
+      "id": "gallica-bnf",
+      "nome": "Gallica — Biblioteca Nacional de França",
+      "tipo": "biblioteca",
+      "url": "https://gallica.bnf.fr/",
+      "autor": "Bibliothèque nationale de France",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Biblioteca digital institucional; guarda exemplar completo do disco Parlophon B. 33012 (Fado Hilário por José Taveira, c. 1927-1928), sinalizado em gc-v:3419130853387302621. Útil para ouvir discos de 78 rpm antigos. O site devolve 403 a pedidos automáticos: arquivar só manualmente (--ficheiro). [Aprovada ao abrigo do pedido do utilizador: discografia e registos sonoros antigos — por confirmar]"
+    },
+    {
+      "id": "pedro-caldeira-cabral",
+      "nome": "Escritos de Pedro Caldeira Cabral",
+      "tipo": "livro",
+      "url": "https://www.museudofado.pt/en/fado/persolanity/pedro-caldeira-cabral-en",
+      "autor": "Pedro Caldeira Cabral",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador: tudo o que seja escrito por Pedro Caldeira Cabral (livro «A Guitarra Portuguesa», 1999; artigos, notas de discos, catálogos). Textos dele publicados noutros sites arquivam-se com guardar_pagina.py --fonte pedro-caldeira-cabral; os reproduzidos nos blogues citam-se pelo blogue."
+    },
+    {
+      "id": "jorge-cravo",
+      "nome": "Escritos de Jorge Cravo",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+      "autor": "Jorge Cravo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador: estudioso da Canção de Coimbra; tudo o que seja escrito por Jorge Cravo (ex.: «A Canção de Coimbra em tempo de lutas estudantis (1961-1969)», 2009; «Luiz Goes. O Neo-Modernismo…», 2009). Textos online arquivam-se com guardar_pagina.py --fonte jorge-cravo; os reproduzidos nos blogues citam-se pelo blogue."
+    },
+    {
+      "id": "livro-jose-afonso-um-olhar-fraterno",
+      "nome": "João Afonso dos Santos, José Afonso – Um Olhar Fraterno (Caminho, 2002)",
+      "tipo": "livro",
+      "url": "https://aja.pt/cronologia/",
+      "autor": "João Afonso dos Santos",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Irmão de José Afonso; a Tábua Cronológica deste livro é a base da cronologia do aja.pt e a fonte da fotografia de 1950 publicada no blogue Guitarra de Coimbra. Útil para confirmar datas divergentes (curso, serviço militar, primeiras gravações, filhos)."
+    },
+    {
+      "id": "livro-cravo-jose-afonso-boemia-coimbra",
+      "nome": "Jorge Cravo, José Afonso: da boémia coimbrã à solidariedade utópica (1940-1969)",
+      "tipo": "livro",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/jose-afonso.html",
+      "autor": "Jorge Cravo",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Estudo dedicado precisamente ao percurso coimbrão de José Afonso (1940-1969), citado na reportagem da Lusa reproduzida no blogue Guitarra de Coimbra IV."
+    },
+    {
+      "id": "livro-fonseca-primeiros-anos-2024",
+      "nome": "Octávio Fonseca, Os primeiros anos, José Afonso, Rocha Pato, a correspondência (1962-1970) (TradiSom, 2024)",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/correspondencia-de-jose-afonso.html",
+      "autor": "Octávio Fonseca",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Correspondência de José Afonso com Albano da Rocha Pato (espólio oferecido por Rui Pato à Biblioteca Municipal de Coimbra); fonte primária para a Nova Balada de Coimbra e as gravações com Rui Pato."
+    },
+    {
+      "id": "catalogo-desta-cancao-que-apeteco-2011",
+      "nome": "Desta canção que apeteço, obra discográfica de José Afonso 1953/1985 (Associação José Afonso / Câmara Municipal de Grândola, 2011)",
+      "tipo": "livro",
+      "url": "https://aja.pt/60-anos-depois-no-pedra-nova/",
+      "autor": "Associação José Afonso",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-28",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Catálogo da exposição discográfica da AJA, que segundo o aja.pt corrigiu a atribuição do Fado das Águias; o blogue Guitarra de Coimbra V diz que tem metadados que carecem de revisão. Útil para as divergências da discografia de 1953-1963."
+    },
+    {
+      "id": "orlando-trindade-site",
+      "nome": "Orlando Trindade — Violeiro / Luthier (site oficial da oficina)",
+      "tipo": "site",
+      "url": "https://orlandotrindade.pt/",
+      "autor": "Orlando Trindade",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Site oficial do violeiro Orlando Trindade (Caldas da Rainha), especialista em restauro historicamente fundamentado de cordofones. Publica o texto de Pedro Caldeira Cabral «A Viola Toeira – Mistérios e Segredos» (arquivado com a fonte pedro-caldeira-cabral) e um portefólio de restauros (viola toeira de Augusto Nunes dos Santos, 2022; colaboração com o Museu Nacional da Música). Citado em gc-v:8291707980450393908. [Aprovada ao abrigo do pedido do utilizador: luthiers — por confirmar]"
+    },
+    {
+      "id": "infopedia",
+      "nome": "Infopédia — Enciclopédia e Dicionários Porto Editora",
+      "tipo": "base-de-dados",
+      "url": "https://www.infopedia.pt/",
+      "autor": "Porto Editora",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Enciclopédia de referência com entrada biográfica sobre Pedro Caldeira Cabral (https://www.infopedia.pt/artigos/$pedro-caldeira-cabral): guitarrista, compositor, musicólogo e organólogo; volume «A Guitarra Portuguesa» da coleção «Um Século de Fado» (Ediclube, 1999). Permitiria confirmar dados biográficos e bibliográficos que hoje só vêm do excerto autobiográfico e dos blogues."
+    },
+    {
+      "id": "rtp-play",
+      "nome": "RTP Play / RTP (páginas de programas e episódios de rádio e televisão)",
+      "tipo": "arquivo-audiovisual",
+      "url": "https://www.rtp.pt/play/",
+      "autor": "RTP, Rádio e Televisão de Portugal",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Serviço público de rádio e televisão. Páginas de episódios (ex.: Vozes da Lusofonia, Antena 1) com descrição de discos e intérpretes atuais da Canção de Coimbra (ex.: Fábio Borges, CD «Fado de Coimbra», 2023). robots.txt só proíbe /play/pesquisa. [Aprovada ao abrigo do pedido do utilizador: intérpretes atuais — por confirmar]"
+    },
+    {
+      "id": "cm-coimbra",
+      "nome": "Câmara Municipal de Coimbra (coimbra.pt) — programas e publicações municipais",
+      "tipo": "instituicao",
+      "url": "https://www.coimbra.pt/",
+      "autor": "Câmara Municipal de Coimbra",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Site oficial do município de Coimbra. Publica a programação cultural (ex.: programa do Convento São Francisco, set.-dez. 2022, https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf) com fichas artísticas de espetáculos de Canção de Coimbra: Tiago José Rodrigues, Simão Mota e Vasco Rodrigues; Ni (Luís) Ferreirinha; Francisco Costa, Luís Barroso, Luís Carlos Santos; Patrick Mendes. robots.txt permite tudo. [Aprovada ao abrigo do pedido do utilizador: intérpretes atuais — por confirmar]"
+    },
+    {
+      "id": "joao-farinha-site",
+      "nome": "João Farinha — site oficial do cantor (joao-farinha.com)",
+      "tipo": "site",
+      "url": "https://joao-farinha.com/",
+      "autor": "João Farinha",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Site oficial do cantor e compositor de fado de Coimbra João Farinha (n. 1976), indicado no perfil Discogs do artista (https://www.discogs.com/artist/6023709). Biografia (Fado ao Centro, ÆMINIUM, Coimbra Ensemble, Schola Cantorum, Coro dos Antigos Orfeonistas) e discografia (Sim 2018, Solto 2020, Ao Vivo 2022, A Conta Que Deus Fez 2024). Texto do próprio artista: fiabilidade de autorrepresentação. robots.txt permite. [Aprovada ao abrigo do pedido do utilizador: intérpretes atuais — por confirmar]"
+    },
+    {
+      "id": "cidade-gelsenkirchen",
+      "nome": "Cidade de Gelsenkirchen (gelsenkirchen.de) — apresentação do grupo Fado ao Centro (PDF, 2022)",
+      "tipo": "instituicao",
+      "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+      "autor": "Stadt Gelsenkirchen (texto de apresentação do grupo, em alemão; metadados do PDF: Antonio Horta, 2022-02-07)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Documento anexo a uma notícia do site oficial do município alemão de Gelsenkirchen, com biografias dos músicos do Fado ao Centro: João Farinha (n. 1976, Coimbra), Luís Barroso (n. 1974, Lisboa; aprendeu com Arménio de Melo), Luís Carlos Santos (n. 1966, Coimbra; Praxis Nova) e Hugo Gamboias (n. 1988). Texto promocional fornecido pelo grupo: autorrepresentação. Obtido pela ferramenta WebFetch; o robots.txt do site responde 403 a clientes automáticos, por isso não se fazem novos pedidos. [Aprovada ao abrigo do pedido do utilizador: intérpretes atuais — por confirmar]"
+    },
+    {
+      "id": "jornal-a-cabra",
+      "nome": "A Cabra — jornal universitário de Coimbra (acabra.pt)",
+      "tipo": "imprensa",
+      "url": "https://acabra.pt/",
+      "autor": "Secção de Jornalismo da Associação Académica de Coimbra",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Jornal académico de Coimbra (AAC). Notícias sobre a Secção de Fado da AAC, o Mês do Fado e intérpretes atuais (ex.: concerto do XVIII Mês do Fado no TAGV, 2022, com Manuel Coroa e Guilherme Ala como convidados). robots.txt permite o acesso."
+    },
+    {
+      "id": "apple-music",
+      "nome": "Apple Music",
+      "tipo": "plataforma",
+      "url": "https://music.apple.com/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador para ouvir as faixas. Só media: os metadados não sustentam factos."
+    },
+    {
+      "id": "revista-fadista-fado-cale",
+      "nome": "Revista Fadista (Associação Fado Cale, suplemento do Jornal do Fundão)",
+      "tipo": "imprensa",
+      "url": "https://www.fadocale.pt/revistafadista",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Revista portuguesa em PDF (2023-), com artigos sobre a Canção de Coimbra de vários autores (ex.: n.º 7, fev. 2025, artigo de um membro do grupo Toada Coimbrã sobre a geração de 80, que cita o livro de Jorge Cravo de 2009). Os artigos de Jorge Cravo (n.º 2 e n.º 6) já estão arquivados ao abrigo da fonte jorge-cravo; esta proposta cobriria os textos de outros autores. O n.º 8 (jun. 2025) tem o texto só em imagem."
+    },
+    {
+      "id": "museu-do-neo-realismo",
+      "nome": "Museu do Neo-Realismo (Vila Franca de Xira) — agenda",
+      "tipo": "instituicao",
+      "url": "https://www.museudoneorealismo.pt/",
+      "autor": "Câmara Municipal de Vila Franca de Xira",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Museu municipal. Página de agenda do espetáculo «Carlos Paredes por Henrique Fraga e João Teixeira» (2025), referida no blogue Guitarra de Coimbra V. robots.txt permite o acesso."
+    },
+    {
+      "id": "soundcloud",
+      "nome": "SoundCloud",
+      "tipo": "plataforma",
+      "url": "https://soundcloud.com/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador para ouvir as faixas (YouTube, Spotify, Apple Music, SoundCloud). Só media: os metadados não sustentam factos."
+    },
+    {
+      "id": "fernandez-music",
+      "nome": "Fernandez Music — Master Portuguese Guitars (coleção e história de guitarras)",
+      "tipo": "site",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "autor": "Fernandez Music",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Indicada pelo utilizador (fala de guitarras portuguesas e dos seus construtores). Coleção que também vende instrumentos: preferir os blogues em caso de divergência."
+    },
+    {
+      "id": "tagv",
+      "nome": "Teatro Académico de Gil Vicente (TAGV, Universidade de Coimbra) — folhas de sala",
+      "tipo": "instituicao",
+      "url": "https://tagv.pt/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Folhas de sala do teatro da Universidade de Coimbra; a de 13-3-2019 (21.ª Semana Cultural da UC) apresenta a Secção de Fado da AAC (ideia de criação em 1979)."
+    },
+    {
+      "id": "diario-de-noticias",
+      "nome": "Diário de Notícias (jornal, dn.pt)",
+      "tipo": "imprensa",
+      "url": "https://www.dn.pt/",
+      "autor": "",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Jornal nacional; artigo de 1-3-2018 (Lusa) sobre a Secção de Fado da AAC e a Serenata Monumental, com a composição dos grupos da Secção."
+    },
+    {
+      "id": "mpagdp",
+      "nome": "A Música Portuguesa a Gostar Dela Própria",
+      "tipo": "arquivo-audiovisual",
+      "url": "https://amusicaportuguesaagostardelapropria.org/",
+      "autor": "Tiago Pereira e equipa (associação MPAGDP)",
+      "estado": "aprovada",
+      "decidido_em": "2026-10-29",
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "api",
+        "script": "scripts/mpagdp.py"
+      },
+      "notas": "Indicada pelo utilizador: a série «Arquivo da Canção de Coimbra» (2024–) e outros vídeos gravados em Coimbra. Vídeos no Vimeo. Voltar a recolher: a série continua (Parte 2 – Carlos Paredes, 2025)."
+    }
+  ]
+}

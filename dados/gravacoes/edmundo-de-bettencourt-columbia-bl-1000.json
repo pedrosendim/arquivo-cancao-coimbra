@@ -1,0 +1,180 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-bl-1000",
+  "titulo": "Fado dos Olhos Claros / Alegria dos Céus",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "BL 1000",
+  "ano": "1930",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Olhos Claros",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-bl-1000-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Alegria dos Céus",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-bl-1000-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/T6d2OrK8b-t9cjtLxgOVQNwPx4xyz9UjiQMrHTga3nQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI5/OTAxLTE3NjE5MjA1/MzYtODgxNy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35529901",
+        "doc": "discogs:wc684706658137bed",
+        "citacao": "Imagem (secondary): https://i.discogs.com/T6d2OrK8b-t9cjtLxgOVQNwPx4xyz9UjiQMrHTga3nQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI5/OTAxLTE3NjE5MjA1/MzYtODgxNy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35529901",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35529901",
+          "doc": "discogs:wc684706658137bed",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35529901",
+          "doc": "discogs:wc684706658137bed",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1930 (Discogs)",
+      "data": "1930",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35529901",
+          "doc": "discogs:wc684706658137bed",
+          "citacao": "Data: 1930"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "2.ª série de gravações: Lisboa, dezembro de 1929 (última gravação já em janeiro de 1930)",
+      "data": "1929-12",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A 2ª série de gravações teve lugar em Lisboa, em Dezembro de 1929, cuja última gravação foi já realizada em Janeiro de 1930."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acompanhamento: Artur Paredes e Afonso de Sousa (guitarras), Mário Faria da Fonseca (viola)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Nesta 2ª série de gravações foi acompanhado à guitarra por Artur Paredes e Afonso de Sousa (que substituiu Albano de Noronha) e, à viola, pelo mesmo Mário Faria da Fonseca, mas os seus nomes não figuram nos discos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Mario Faria da Fonseca (violão), Afonso de Sousa e Artur Paredes (guitarra portuguesa)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35529901",
+          "doc": "discogs:wc684706658137bed",
+          "citacao": "Acoustic Guitar – Mario Faria Da Fonseca Portuguese Guitar – Afonso de Sousa Portuguese Guitar – Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição Columbia GL 106 (master P. 470-1)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/o-legado-de-edmundo-bettencourt-fado.html",
+          "doc": "gc-v:7707389291147122747",
+          "citacao": "Columbia BL 1000 e Columbia, GL 106, master P. 470-1)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35529901",
+      "doc": "discogs:wc684706658137bed",
+      "citacao": "Editora: Columbia – BL1000"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Disco Columbia, BL 1000 Disco Columbia, GL 106 P. 470 – Fado dos Olhos Claros (A luz dos teus olhos claros) P. 633 – Alegria dos Céus (Ó Alegria dos Céus)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-1070-x",
+  "titulo": "Samaritana / Canção do Alentejo",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "1070X",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-1070-x-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Alentejo",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-1070-x-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Samaritana», por Edmundo Bettencourt — etiqueta: «Samaritana / (Fado Canção) / Dr. Edmundo de Bettencourt / Tenor / Com Acompanhamento de / Guitarra Portuguesa / e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/292/edmundo_bettencourt_samaritana",
+          "doc": "museu-do-fado:w455d5652ad71b383",
+          "citacao": "Título: Samaritana ... Editora: Co. 1070X Referências: P301, W, 1-B-2, C, SP; 1070-X ... Etiqueta: Samaritana / (Fado Canção) / Dr. Edmundo de Bettencourt / Tenor / Com Acompanhamento de / Guitarra Portuguesa / e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wf354f28941871d31; o exemplar museu-do-fado:wf354f28941871d31 tem «Editora: Co. 1070X» mas a linha «Referências» indica «8121»"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canção do Alentejo», por Edmundo Bettencourt — etiqueta: «Canção do Alemtejo / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de / Guitarra Portuguesa / e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/293/edmundo_bettencourt_cancao_do_alentejo",
+          "doc": "museu-do-fado:w7c86ebf96d66d401",
+          "citacao": "Título: Canção do Alentejo ... Editora: Co. 1070X Referências: P309, W, 1-B-1, A, SP; 1070-X ... Etiqueta: Canção do Alemtejo / Dr. Edmundo de Bettencourt, Tenor / Com Acompanhamento de / Guitarra Portuguesa / e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:we3e9f6ea137b0a5a; o exemplar museu-do-fado:we3e9f6ea137b0a5a tem «Editora: Co. 1070X» mas a linha «Referências» indica «8121»"
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição norte-americana (etiqueta verde) da gravação do disco Columbia 8121",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "A gravação de Edmundo de Bettencourt foi depois reeditada nos USA sob etiqueta verde (disco Columbia, 1070-X)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/292/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:w455d5652ad71b383",
+      "citacao": "Título: Samaritana ... Editora: Co. 1070X Referências: P301, W, 1-B-2, C, SP; 1070-X"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/293/edmundo_bettencourt_cancao_do_alentejo",
+      "doc": "museu-do-fado:w7c86ebf96d66d401",
+      "citacao": "Título: Canção do Alentejo ... Editora: Co. 1070X Referências: P309, W, 1-B-1, A, SP; 1070-X"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "citacao": "A gravação de Edmundo de Bettencourt foi depois reeditada nos USA sob etiqueta verde (disco Columbia, 1070-X)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

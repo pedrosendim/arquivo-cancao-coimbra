@@ -1,0 +1,134 @@
+{
+  "id": "campa-rasa",
+  "tipo": "grupo",
+  "nome": "Campa Rasa (grupo)",
+  "nomes_alternativos": [
+    "Grupo Campa Rasa"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+      "doc": "gc-v:3103881283986841572",
+      "citacao": "Grupo Campa Rasa: ggC: Valdemar Benavente e Simão Mota vv: Tiago Rodrigues e Vasco Rodrigues Cantores: Joaquim Mota, Rui Ferreira e António José Rocha"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata em Santarém, Largo do Seminário, 28 de junho de 2024",
+      "data": "2024-06-28",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cartaz promocional da Serenata que terá lugar em Santarém, no dia 28 de junho de 2024, no Largo do Seminário, pelas 22:00h, e alinhamento do grupo Campa Rasa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«serenata monumental de Santarém», 3 de julho de 2026, com o Fernando Marques Ensemble e o Grupo Guitarra e Canto de Coimbra",
+      "data": "2026-07-03",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/serenata-em-santarem.html",
+          "doc": "gc-v:8356300442285222698",
+          "citacao": "noite de três de julho de 2026"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/serenata-em-santarem.html",
+          "doc": "gc-v:8356300442285222698",
+          "citacao": "com os grupos Campa Rasa, Fernando Marques Ensemble e Grupo Guitarra e Canto de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata no Convento de S. Francisco, integrada na Coimbra Capital da Cultura, 2003: Rui Ferreira e Joaquim Mota (canto), David Leandro e Valdemar Benavente (guitarra), Emanuel Maranha das Neves e José Niza (viola)",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "Serenata no Convento de S. Francisco, integrada na Coimbra Capital da Cultura, 2003. Actuaram os grupos: \"Campa Rasa\", constituído por Rui Ferreira e Joaquim Mota a cantar, David Leandro e Valdemar Benavente à guitarra, Emanuel Maranha das Neves e José Niza à viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de uma fotografia do livro «20 Anos do GGCC» (Grupo Guitarra e Canto de Coimbra, Santarém), citada no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Tradicional dos Estudantes de Santarém, escadarias do Largo do Seminário (Sé), 9 de julho de 2005 (presença prevista): David Leandro e Valdemar Benavente (guitarras), Emanuel Maranha das Neves e António Viegas Tavares (violas), Joaquim Mota e Rui Ferreira (vozes)",
+      "data": "2005-07-09",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "SERENATA TRADICIONAL DOS ESTUDANTES DE SANTARÉM, NAS ESCADARIAS DO LARGO DO SEMINÁRIO (SÉ)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "9 DE JULHO 2005"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-i:111979782925444603",
+          "citacao": "Grupo ”Campa Rasa” com David Leandro e Valdemar Benavente, nas guitarras, por Emanuel Maranha das Neves e António Viegas Tavares nas violas e, nas vozes, Joaquim Mota e Rui Ferreira"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio (presença «prevista») na publicação comemorativa dos 20 anos do Grupo Guitarra e Canto de Coimbra (Santarém), texto enviado por Elias Rodrigues e citado no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Tradicional dos Estudantes de Santarém (homenagem a Ângelo Vieira Araújo), escadarias do Largo do Seminário, 22 de julho de 2006: David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira, Joaquim Mota, Fernando Rolim e Arménio Marques dos Santos",
+      "data": "2006-07-22",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de.html",
+          "doc": "gc-i:115306904947059729",
+          "citacao": "Além dos cantores convidados actuará também o grupo “Campa Rasa” constituído por David Leandro e Valdemar Benavente (guitarras), António Viegas Tavares e Maranha das Neves (violas), Rui Ferreira e Joaquim Mota (cantores)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "Realizou-se com grande êxito, no passado Sábado - 22.07.2006, nas Escadarias do Largo do Seminário, a tradicional Serenata dos Estudantes de Santarém"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de_25.html",
+          "doc": "gc-i:115383968380060280",
+          "citacao": "O Grupo “Campa Rasa” com David Leandro e Valdemar Benavente (guitarras), Maranha das Neves e António Viegas Tavares (violas) acompanharam Rui Ferreira (Fado das Saudades e Fado das Andorinhas), Joaquim Mota (Fado das Águias e “Carta” de A Araújo) , Fernando Rolim (“Feiticeira”de A Araújo) e Arménio Marques dos Santos (“ Último Fado” de A Araújo )."
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio (16-07-2006) e relato (25-07-2006), ambos enviados por Elias Rodrigues."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

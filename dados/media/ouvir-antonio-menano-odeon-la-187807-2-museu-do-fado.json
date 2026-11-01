@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187807-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0609_19.mp3",
+  "titulo": "Fado dos Dois Tons — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187807",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1212.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1202/antonio_menano_fado_dos_dois_tons",
+      "doc": "museu-do-fado:w24fb2fe3c8789cd4",
+      "citacao": "Título: Fado dos Dois tons ... Editora: Od. La 187807"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

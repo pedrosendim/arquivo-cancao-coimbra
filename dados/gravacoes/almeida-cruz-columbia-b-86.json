@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-86",
+  "titulo": "Noite serena / Fado do Coração",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-86",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Noite serena",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-86-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Coração",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-86-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Noite serena», por Almeida Cruz — etiqueta: «Noite Popular  / Canção Portuguesa - Popular / Almeida Cruz e coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/592/almeida_cruz_noite_serena",
+          "doc": "museu-do-fado:weadcba80bd6d3e52",
+          "citacao": "Título: Noite serena ... Editora: Co. B-86 Referências: 11803-1-2; B86 ... Etiqueta: Noite Popular  / Canção Portuguesa - Popular / Almeida Cruz e coro / "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Noite serena, Columbia B-86, 11803, serenata tradicional de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Noite serena, Columbia B-86, 11803, serenata tradicional de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Coração», por Almeida Cruz — etiqueta: «Fado do Coração / Fado - A. Cruz / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/593/almeida_cruz_fado_do_coracao",
+          "doc": "museu-do-fado:w8d5ed5220fa3209e",
+          "citacao": "Título: Fado do Coração ... Editora: Co. B-86 Referências: 11864-1-1; B86 ... Etiqueta: Fado do Coração / Fado - A. Cruz / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado do Coração, Columbia B-86, 11864-1, música de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado do Coração, Columbia B-86, 11864-1, música de Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/592/almeida_cruz_noite_serena",
+      "doc": "museu-do-fado:weadcba80bd6d3e52",
+      "citacao": "Título: Noite serena ... Editora: Co. B-86 Referências: 11803-1-2; B86"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Noite serena, Columbia B-86, 11803, serenata tradicional de Coimbra"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/593/almeida_cruz_fado_do_coracao",
+      "doc": "museu-do-fado:w8d5ed5220fa3209e",
+      "citacao": "Título: Fado do Coração ... Editora: Co. B-86 Referências: 11864-1-1; B86"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado do Coração, Columbia B-86, 11864-1, música de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

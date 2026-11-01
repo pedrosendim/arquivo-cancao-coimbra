@@ -1,0 +1,49 @@
+{
+  "id": "guitarra-de-coimbra-fernando-meireles",
+  "designacao": "Guitarra de Coimbra construída por Fernando Meireles (fotografia publicada no blogue)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "fernando-meireles",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Coimbra construída por Fernando Meireles",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-de-coimbra-construda-por.html",
+          "doc": "gc-i:112196933629750322",
+          "citacao": "Guitarra de Coimbra construída por Fernando Meireles."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/guitarra%203.jpg",
+      "legenda": "Guitarra de Coimbra construída por Fernando Meireles.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-de-coimbra-construda-por.html",
+          "doc": "gc-i:112196933629750322",
+          "citacao": "Guitarra de Coimbra construída por Fernando Meireles."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/guitarra-de-coimbra-construda-por.html",
+      "doc": "gc-i:112196933629750322",
+      "citacao": "Guitarra de Coimbra construída por Fernando Meireles."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

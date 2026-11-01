@@ -1,0 +1,134 @@
+{
+  "id": "quarto-crescente",
+  "tipo": "grupo",
+  "nome": "Quarto Crescente",
+  "nomes_alternativos": [
+    "Grupo Quarto Crescente"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+      "doc": "gc-v:1436266136812530715",
+      "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/08/no-passado-sbado-actuou-o-grupo-quarto.html",
+      "doc": "gc-i:925217000977996577",
+      "citacao": "No passado Sábado, actuou o Grupo \"Quarto Crescente\" (fotos 1, 2 e 3), com os seguintes elementos: - Ricardo Dias - Guitarra - Paulo Larguesa - Viola - Patrick Mendes - Voz - José Manuel Beato - Voz"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994 (com transmissão televisiva)",
+      "data": "1994-05-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Realizada no dia 6 de maio de 1994 (sexta-feira) pelas 00:00 horas, na escadaria da Sé Velha (houve transmissão televisiva)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "grupo da TAUC (1994)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "grupo Quarto Crescente, da TAUC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação de 1994: Rui Ferreira e José Manuel Beato (vozes), Tiago Cunha e Miguel Drago (guitarras), Adamo Caetano e Paulo Larguesa (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Grupo Quarto Crescente (TAUC) Grupo constituído por Rui Ferreira/José Manuel Beato (vozes), Tiago Cunha/Miguel Drago (ggC), Adamo Caetano/Paulo Larguesa (vv)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação de 2007: Ricardo Dias (guitarra), Paulo Larguesa (viola), Patrick Mendes e José Manuel Beato (voz)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/no-passado-sbado-actuou-o-grupo-quarto.html",
+          "doc": "gc-i:925217000977996577",
+          "citacao": "No passado Sábado, actuou o Grupo \"Quarto Crescente\" (fotos 1, 2 e 3), com os seguintes elementos: - Ricardo Dias - Guitarra - Paulo Larguesa - Viola - Patrick Mendes - Voz - José Manuel Beato - Voz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas na Galeria Almedina (2005-2006)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-quarto-crescente-na-galeria.html",
+          "doc": "gc-i:115361028582960869",
+          "citacao": "Grupo Quarto Crescente na Galeria Almedina, este sábado. Final da serenata: Ricardo Dias, José Beato, Patrick Mendes e Paulo Larguesa recebem os aplausos merecidos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9sVsoDBzmipSev2LRbkFkqTtc9i3PE8B6X0hK5vUPx-Voji8Lr1XMzj-Gyh335QbcqjKRAGCDS1ZIc_8B-6i21vDTIN_FhTuS2xVnQZPyFw5-3eMQqPO-k5E6HGxEvv-baw0QuLSSDBE/s1600/quarto+crescente-dois.jpg",
+      "legenda": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/De%20p.jpg",
+      "legenda": "Grupo Quarto Crescente na Galeria Almedina (2006), no final da serenata: Ricardo Dias, José Beato, Patrick Mendes e Paulo Larguesa.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-quarto-crescente-na-galeria.html",
+          "doc": "gc-i:115361028582960869",
+          "citacao": "Final da serenata: Ricardo Dias, José Beato, Patrick Mendes e Paulo Larguesa recebem os aplausos merecidos."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ana-de-jesus-da-mouta",
+  "tipo": "pessoa",
+  "nome": "Ana de Jesus da Mouta",
+  "nomes_alternativos": [
+    "Ana de Jesus Mouta"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Ana de Jesus Mouta",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "filho de António da Costa Alves e de Ana de Jesus Mouta. Filho de mãe solteira, Hilário foi abandonado na roda pela progenitora"
+        }
+      ],
+      "conflito": true,
+      "nota": "Grafia de um post de 2005; os posts de 2013 e 2014 escrevem «Ana de Jesus da Mouta». O mesmo post diz que era mãe solteira."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

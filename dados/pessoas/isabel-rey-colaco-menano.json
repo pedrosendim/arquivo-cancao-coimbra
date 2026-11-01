@@ -1,0 +1,40 @@
+{
+  "id": "isabel-rey-colaco-menano",
+  "tipo": "pessoa",
+  "nome": "Isabel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "horacio-paulo-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": "A fonte dá só o nome próprio; o apelido no identificador serve apenas para distinguir a ficha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "alice-schemidt-lafourcade-rey-colaco",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Do casamento com a Sra. D. Alice Rey Colaço, nasceram quatro filhos, dois rapazes (Horácio e Manuel) e duas raparigas (Cecília e Isabel)."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

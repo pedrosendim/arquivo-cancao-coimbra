@@ -1,0 +1,277 @@
+{
+  "id": "oscar-cardoso",
+  "tipo": "pessoa",
+  "nome": "Óscar Cardoso",
+  "nomes_alternativos": [
+    "Óscar Manuel Barbedo Cardoso"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+      "doc": "museu-do-fado:w0bf1635e37c6cd48",
+      "citacao": "Óscar Manuel Barbedo Cardoso nasceu em 1960 e tem trabalhado no restauro e construção de instrumentos de corda desde há 35 anos. Em 1990 começou a construir instrumentos."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+      "doc": "museu-do-fado:w0bf1635e37c6cd48",
+      "citacao": "Chegou a esta actividade por influência do pai, o construtor Manuel Cardoso, cuja oficina, no Casal do Privilégio em Odivelas, hoje ocupa."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+      "doc": "museu-do-fado:w0bf1635e37c6cd48",
+      "citacao": "em 1986, com uma bolsa da Secretaria de Estado da Cultura, ingressou na Scuola Internationale de Liuteria de Cremona"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+      "doc": "museu-do-fado:w0bf1635e37c6cd48",
+      "citacao": "A mais radical e estabilizada de todas as inovações decorre de um processo que teve início em 1995 com os primeiros instrumentos sem fundo."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/convite-inauguracao-da-exposicao-oscar.html",
+      "doc": "gc-iv:75801311027426383",
+      "citacao": "Inauguração da Exposição \" Óscar Cardoso - Guitarreiro\" | 25 de Setembro de 2011"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Óscar Manuel Barbedo Cardoso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "Óscar Manuel Barbedo Cardoso nasceu em 1960"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "9 de maio de 1960",
+      "data": "1960-05-09",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "(N. 9 maio, 1960)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Vila Nova, freguesia de Oliveira do Douro, concelho de Cinfães, 5 de maio de 1961",
+      "data": "1961-05-05",
+      "local": "Vila Nova, Oliveira do Douro, Cinfães",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu no dia 5 de Maio de 1961 em Vila Nova, Freguesia de Oliveira Douro, Concelho de Cinfães, Distrito de Viseu."
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência: o Museu do Fado dá 9 de maio de 1960; a lista de construtores da mesma página de José Lúcio escreve «Oscar Manuel Barbedo Cardoso (Montão, Cinfães, 1960 /Odivelas»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aprendeu na oficina do pai, Manuel Cardoso; bolseiro da Scuola Internazionale di Liuteria de Cremona (1986)",
+      "data": "1986",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "Hoje baseia a sua prática naquilo que aprendeu com o pai"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "em 1986, com uma bolsa da Secretaria de Estado da Cultura, ingressou na Scuola Internationale de Liuteria de Cremona"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Oscar learned instrument making from his father, Manuel Cardoso, but also went to Cremona, Italy to study and refine his instrument making skills."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Começou a construir instrumentos em 1990; oficina no Casal do Privilégio, Odivelas",
+      "data": "1990",
+      "local": "Odivelas",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "Em 1990 começou a construir instrumentos."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "cuja oficina, no Casal do Privilégio em Odivelas, hoje ocupa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Instrumentos sem fundo, desde 1995",
+      "data": "1995",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "teve início em 1995 com os primeiros instrumentos sem fundo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarras com uma abertura de 6 a 8 polegadas no fundo, segundo Ron Fernandez mais fáceis de gravar; Luís Guerreiro, que acompanhou Mariza, tocava uma destas guitarras",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "In recent years he has been making guitarra which have a 6 to 8 inch opening in the back."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Apparently, having a guitarra with a big hole in the back is easier to record--the sound levels of all the frequencies are more balanced. When I met Luis Guerreiro, who performed with Mariza for some years, he was performing with an Oscar Cardoso with a open hole in the back."
+        }
+      ],
+      "conflito": false,
+      "nota": "Página revista a 10 de janeiro de 2019. Ficha de outro instrumento seu na coleção Fernandez: guitarra-oscar-cardoso-2001."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Exposição «Óscar Cardoso - Guitarreiro», Museu do Fado (inaugurada a 25 de setembro de 2011)",
+      "data": "2011-09-25",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/convite-inauguracao-da-exposicao-oscar.html",
+          "doc": "gc-iv:75801311027426383",
+          "citacao": "Inauguração da Exposição \" Óscar Cardoso - Guitarreiro\" | 25 de Setembro de 2011"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "Excerto do texto de Pedro Félix do catálogo da exposição \"Óscar Cardoso - Guitarreiro\", Museu do Fado, 2011"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-cardoso",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "por influência do pai, o construtor Manuel Cardoso"
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Filho de Manuel Cardoso com quem aprendeu a arte de construir violas e guitarras."
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "The son of the late Manuel Cardoso (1933-1991), Óscar"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-isabel-barbedo",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Do seu casamento com Maria Isabel Barbedo nasceram dois filhos. Maria Helena e Óscar Cardoso que deu continuidade à arte de seu pai."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "manuel-cardoso",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "Hoje baseia a sua prática naquilo que aprendeu com o pai"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Oscar%20com%20viola%20sem%20fundo%203.jpg",
+      "legenda": "Óscar Cardoso com a sua última viola sem fundo por si construída.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/scar-cardoso-com-sua-ltima-viola-sem.html",
+          "doc": "gc-i:112128878427806793",
+          "citacao": "Óscar Cardoso com a sua última viola sem fundo por si construída."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Museu do Fado — Óscar Cardoso",
+      "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,152 @@
+{
+  "id": "almeida-cruz-columbia-b-106",
+  "titulo": "Serapicu / O prior e o padre cura",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-106",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Serapicu",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-106-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "O prior e o padre cura",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-106-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Serapicu», por Rosa Pinto, Almeida Cruz — etiqueta: «Serapicu / Canção Cómica com Dialogo / Rosa Pinto, / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2702/rosa_pinto_almeida_cruz_serapicu",
+          "doc": "museu-do-fado:w5472814a7820409d",
+          "citacao": "Título: Serapicu ... Editora: Columbia B 106 B 106 Referências: 11836-1-3; B106 ... Etiqueta: Serapicu / Canção Cómica com Dialogo / Rosa Pinto, / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w940d435e9e154da6, museu-do-fado:wa5b006299dd0d832; também intérprete, sem ficha no arquivo: Rosa Pinto"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «O serapico, Columbia B-106, 11836, descante com Rosa Pinto e coro»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-O serapico, Columbia B-106, 11836, descante com Rosa Pinto e coro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«O prior e o padre cura», por Almeida Cruz — etiqueta: «O Prior e o Padre Cura / Fado cómico / (A. Cruz) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/5268/almeida_cruz_o_prior_e_o_padre_cura",
+          "doc": "museu-do-fado:wbc077ae58069ddaf",
+          "citacao": "Título: O prior e o padre cura ... Editora: Columbia B 106 B 106 Referências: 11865, 1-, 11865; B106 ... Etiqueta: O Prior e o Padre Cura / Fado cómico / (A. Cruz) / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w2fc4264af51bd249, museu-do-fado:wf920d0a574ae4d1b"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «O prior e o Padre Cura, Columbia B-106, 11865, canção cómica de Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-O prior e o Padre Cura, Columbia B-106, 11865, canção cómica de Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2702/rosa_pinto_almeida_cruz_serapicu",
+      "doc": "museu-do-fado:w5472814a7820409d",
+      "citacao": "Título: Serapicu ... Editora: Columbia B 106 B 106 Referências: 11836-1-3; B106"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5267/rosa_pinto_almeida_cruz_serapicu",
+      "doc": "museu-do-fado:w940d435e9e154da6",
+      "citacao": "Título: Serapicu ... Editora: Columbia B 106 B 106 Referências: 11836-1, 4, 11836; B106"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/618/rosa_pinto_almeida_cruz_serapicu",
+      "doc": "museu-do-fado:wa5b006299dd0d832",
+      "citacao": "Título: Serapicu ... Editora: Co. B-106 Referências: 11836, 1-6; B106"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-O serapico, Columbia B-106, 11836, descante com Rosa Pinto e coro"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5268/almeida_cruz_o_prior_e_o_padre_cura",
+      "doc": "museu-do-fado:wbc077ae58069ddaf",
+      "citacao": "Título: O prior e o padre cura ... Editora: Columbia B 106 B 106 Referências: 11865, 1-, 11865; B106"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/619/almeida_cruz_o_prior_e_o_padre_cura",
+      "doc": "museu-do-fado:w2fc4264af51bd249",
+      "citacao": "Título: O prior e o padre cura ... Editora: Co. B-106 Referências: 11865, 1-6; B106"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2703/almeida_cruz_o_prior_e_o_padre_cura",
+      "doc": "museu-do-fado:wf920d0a574ae4d1b",
+      "citacao": "Título: O prior e o padre cura ... Editora: Columbia B 106 B 106 Referências: 11865-1-1, A 35 5; B106"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-O prior e o Padre Cura, Columbia B-106, 11865, canção cómica de Almeida Cruz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

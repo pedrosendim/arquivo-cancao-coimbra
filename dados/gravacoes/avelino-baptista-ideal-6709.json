@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-ideal-6709",
+  "titulo": "Margarida",
+  "formato": "78rpm",
+  "editora": "Disco «Ideal» Grande (Beka-Record)",
+  "referencia": "6709 / 6710",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Margarida",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-ideal-6709-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Margarida», por Avelino Baptista — etiqueta: «Margarida (Canção Popular) / Avelino Baptista / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3070/avelino_baptista_margarida",
+          "doc": "museu-do-fado:wf1dd7fa72e80ff70",
+          "citacao": "Título: Margarida ... Editora: Disco Ideal 6709 6710 Referências: Disco “Ideal” Grande - Beka-Record, 6709; 6709 ... Etiqueta: Margarida (Canção Popular) / Avelino Baptista / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação referida no blogue a propósito da «Canção da Margarida» (Manassés, Artur Paredes)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/manasses-artur-paredes-e-cancao-da.html",
+          "doc": "gc-v:7444572383019409985",
+          "citacao": "Avelino Baptista, Margarida (Margarida vai à fonte), disco de massa Ideal Grande Beka Record 6709, sem menção de autorias"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3070/avelino_baptista_margarida",
+      "doc": "museu-do-fado:wf1dd7fa72e80ff70",
+      "citacao": "Título: Margarida ... Editora: Disco Ideal 6709 6710 Referências: Disco “Ideal” Grande - Beka-Record, 6709; 6709"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/manasses-artur-paredes-e-cancao-da.html",
+      "doc": "gc-v:7444572383019409985",
+      "citacao": "Avelino Baptista, Margarida (Margarida vai à fonte), disco de massa Ideal Grande Beka Record 6709, sem menção de autorias"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

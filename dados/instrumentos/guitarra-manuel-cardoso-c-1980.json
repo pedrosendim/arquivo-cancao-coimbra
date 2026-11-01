@@ -1,0 +1,104 @@
+{
+  "id": "guitarra-manuel-cardoso-c-1980",
+  "designacao": "Guitarra de Lisboa de Manuel Cardoso, c. 1980 (coleção de Ron Fernandez)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "manuel-cardoso",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "oscar-cardoso",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "It had been refurbished by Oscar after he had received it back from an elderly mad who could no longer play it."
+        }
+      ],
+      "nota": "Recebeu-a de volta de um homem idoso, não identificado."
+    },
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I personally bought this guitarra from Oscar Cardoso"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Lisboa, c. 1980",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Manuel Cardoso Lisboa Guitarra ca. 1980."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Restaurada por Óscar Cardoso depois de lha ter devolvido um homem idoso que já não a podia tocar; Ron Fernandez comprou-a a Óscar Cardoso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I personally bought this guitarra from Oscar Cardoso, the son of Manuel Cardoso). It had been refurbished by Oscar after he had received it back from an elderly mad who could no longer play it."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/ManuelCardosoFace.jpg",
+      "legenda": "Above: Manuel Cardoso, Lisboa, ca. 1980, Private Collection.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Manuel Cardoso, Lisboa, ca. 1980, Private Collection."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/ManuelCardosoBk.jpg",
+      "legenda": "Above: Manuel Cardoso, Lisboa, ca. 1980, Private Collection.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Manuel Cardoso, Lisboa, ca. 1980, Private Collection."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Manuel Cardoso Lisboa Guitarra ca. 1980."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

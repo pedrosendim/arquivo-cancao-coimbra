@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-fernando-rolim-melodia-15094-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2470_06.mp3",
+  "titulo": "Vento Não Batas à Porta — Fernando Rolim",
+  "data": "",
+  "pessoas": [
+    "fernando-rolim",
+    "antonio-brojo",
+    "antonio-portugal",
+    "aurelio-dos-reis",
+    "mario-de-castro"
+  ],
+  "obras": [],
+  "gravacao": "fernando-rolim-melodia-15094",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4716.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4864/fernando_rolim_vento_nao_batas_a_porta",
+      "doc": "museu-do-fado:w542ad2deb5242580",
+      "citacao": "Título: Vento não batas à porta ... Editora: Mel.15.094"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

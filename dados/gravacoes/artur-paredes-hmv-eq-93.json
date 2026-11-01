@@ -1,0 +1,115 @@
+{
+  "id": "artur-paredes-hmv-eq-93",
+  "titulo": "Balada de Coimbra / Variações em Sol Maior",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 93",
+  "ano": "1927",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra (solista)"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada de Coimbra",
+      "obra": "balada-de-coimbra",
+      "media": ["ouvir-artur-paredes-hmv-eq-93-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Sol Maior",
+      "obra": "variacoes-em-sol-maior-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-eq-93-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimdFyRhAP1TC41B12gYJx7XK5sftpg-Kn80VM2r56y-FQD4cyK-J5ZIJD9GcleHThLUVjAuv3Hc_Ix8FgMAbiXd1Z2_7ZHv3YI8BRbWdrcB5r9ZVNnn-F2AEBJKDXOomX1bogogZxHyQGt/s1600/275a+1a+Rodela++Arthur+Paredes+-+Balada+de+Coimbra+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+        "doc": "gc-v:4640425963079735725",
+        "citacao": "Disco de 78 rpm HMV E. Q. 93, BALADA DE COIMBRA, música de José das Neves Elyseu."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/12959074",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Balada de Coimbra gravada em Lisboa a 18 de maio de 1927; a etiqueta menciona apenas «Artur Paredes» (origem do processo judicial com os herdeiros de José Eliseu)",
+      "data": "1927-05-18",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Na etiqueta do disco menciona apenas “Artur Paredes”, situação que originou uma pugna judicial entre os herdeiros do compositor e o guitarrista. Disco His Master’s Voice E.Q. 93, 7-69284. Gravado em Lisboa a 18.05.1927. Omite os nomes dos demais instrumentistas presentes na gravação."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedições: M.H. 36 e J.Q. 501",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice, M.H. 36 - master 7-69284 – Balada de Coimbra. - master 7-69285 – Variações em Sol Maior."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Disco His Master’s Voice, J.Q. 501 - master 7-69284 – Balada de Coimbra. - master 7-69285 – Variações em Sol Maior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Edições do master da Balada de Coimbra indicadas como «E.Q. 37, M. H. 36, e J. Q. 501»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Teve três edições do mesmo master, sendo de referir E.Q. 37, M. H. 36, e J. Q. 501 (etiqueta verde)."
+        }
+      ],
+      "conflito": true,
+      "nota": "No mesmo post a Balada de Coimbra aparece no E.Q. 93 e o E.Q. 37 contém Fado Hilário / Variações em Si Menor. Provável lapso; a rever."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, E.Q.93 - master 7-69284 – Balada de Coimbra. Refere apenas Artur Paredes. - master 7-69285 – Variações em Sol Maior. Apenas refere Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

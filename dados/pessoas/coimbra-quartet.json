@@ -1,0 +1,239 @@
+{
+  "id": "coimbra-quartet",
+  "tipo": "grupo",
+  "nome": "Coimbra Quartet",
+  "nomes_alternativos": [
+    "Grupo dos irmãos Melo",
+    "Quartet Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:6730802912983745449",
+      "citacao": "o LP «Portugal: Fados from Coimbra» (1965), fonograma gravado pela formação juvenil liderada pelos irmãos Eduardo e Ernesto de Melo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+      "doc": "gc-v:1552415873352881508",
+      "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_18.html",
+      "doc": "gc-v:2071113042933431401",
+      "citacao": "regressaram a Coimbra os elementos do grupo dos irmãos Melo que tinham ido à sede mundial da Philips, na Holanda, Hiversum, gravar repertório para a edição de um disco de 33 rpm, sob recomendação do Prof. Mário Silva. O grupo atuou na Rádio Holandesa e na RTP-França, em Lille"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/fados-from-coimbra-coimbra-quartet.html",
+      "doc": "gc-v:5676091323327479064",
+      "citacao": "O registo fonográfico em causa pode ser considerado uma obra prima da década de 1960 em termos de performance vocal e instrumentística e de qualidade dos conteúdos (textos, harmonizações, sonoridade, experimentação)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "LP Fados from Coimbra, Philips 831 206 PY, gravado na Holanda em dezembro de 1964 e editado em 1965",
+      "data": "1964-12",
+      "local": "Holanda",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "O LP Fados from Coimbra, Coimbra Quartet, Philips 831 206 PY, foi gravado na Holanda em dezembro de 1964 e editado comercialmente em 1965."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "edição britânica: Philips BL 7711 631 206 PL, 1966",
+      "data": "1966",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "Edição britânica: Philips BL 7711 631 206 PL, 1966"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "edição norte-americana: UA International UNS 15539, sem data (posterior a 1965)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "Edição USA: UA International UNS 15539, sem data (posterior a 1965)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "edição norte-americana: New York, LP 4A International 155539, ano de 1968",
+      "data": "1968",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/fados-from-coimbra-coimbra-quartet.html",
+          "doc": "gc-v:5676091323327479064",
+          "citacao": "LP FADOS FROM COIMBRA. COIMBRA QUARTET. New York, LP 4A International 155539, ano de 1968"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "edição para o mercado francês: LP Le Portugal, Voyages autour du monde, Coimbra Quartet, Philips 831 206 BY, sem data [ca. 1965]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "Edição para o mercado francês: LP Le Portugal, Voyages autour du monde, Coimbra Quartet, França / Paris, Société Phonographique Philips 831 206 BY, sem data [ca. 1965]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "reedição internacional para o mercado francófono: LP Portugal, Coimbra Quartet, Philips 831 204, s/d [ca. 1967-1970]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/motivo-de-capa-e-contracapa-de-uma.html",
+          "doc": "gc-v:6260648108981591835",
+          "citacao": "LP PORTUGAL, COIMBRA QUARTET. Holanda: Philips 831 204, reedição s/d. [ca. 1967-1970]."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuou na Rádio Holandesa e na RTP-França, em Lille",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_18.html",
+          "doc": "gc-v:2071113042933431401",
+          "citacao": "O grupo atuou na Rádio Holandesa e na RTP-França, em Lille: Eduardo de Melo/Ernesto de Melo (ggC), Durval Moreirinhas (v), José Miguel Baptista (barítono solista)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«serenata» no ato de variedades da TAUC em Braga (Cine Teatro), 22 de abril de 1965",
+      "data": "1965-04-22",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_18.html",
+          "doc": "gc-v:2071113042933431401",
+          "citacao": "de abril: o Coro Misto da UC atua na CMC a favor da Cruz Vermelha ... A TAUC atua em Braga no Cine Teatro, regida por Tobias Cardoso. No ato de variedades, “serenata” pelo grupo os irmãos Melo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata monumental da Queima das Fitas, 7 de maio de 1965, com transmissão via RTP",
+      "data": "1965-05-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_18.html",
+          "doc": "gc-v:2071113042933431401",
+          "citacao": "de maio, sexta para sábado: serenata monumental da Queima das Fitas dos Quartanistas da UC. Transmissão via RTP e por uma TV norteamericana. Serenata assegurada por Eduardo/Ernesto de Melo (ggC), Durval Moreirinhas (v), acompanhando José Miguel Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "rótulo «Coimbra Quartet» atribuído pela Philips ao grupo dos irmãos Melo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "«Ciclo dos Melos» (1960-1965): renovação da linha mais tradicional da Canção de Coimbra pelos irmãos Eduardo e Ernesto de Melo, segundo Jorge Cravo",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "a renovação da linha mais tradicional: com o Ciclo dos Melos – irmãos Eduardo de Melo (n. 1939) e Ernesto de Melo (n. 1944) – entre 1960 e 1965"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, «Nótula sobre as três gerações de oiro da Canção de Coimbra», revista Fadista n.º 6 (2024). O «ciclo» refere-se aos irmãos Melo e não apenas a esta formação."
+    },
+    {
+      "campo": "outro",
+      "valor": "Jorge Cravo destaca o EP «Balada dos Sinos» e o LP «Portugal. Fados from Coimbra», de José Miguel Baptista com as guitarras dos irmãos Melo, pelo recurso a dissonâncias e novas harmonias, que levou alguns a catalogá-los como «desafinados»",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "merece destaque José Miguel Baptista (n. 1942) que, fruto das guitarras dos irmãos Melo, deu à estampa o EP “Balada dos Sinos” e o LP “Portugal. Fados from Coimbra”, nos quais o recurso a dissonantes e novas harmonias anunciavam uma criatividade e um talento invulgares ao ponto de os discos terem sido catalogados, por ouvidos demasiadamente sensíveis, como musical e instrumentalmente desafinados!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTeQj6lQOsdg_Q0_L16vAozOW1jsahBQJMQM4fzTMxIpAbXroSGqck2H27FtWXbinromuMFLBckhOjkBbTNe9Zn_5elJdUpj0KXGXK-hQC0XdLEgNjgJ5EBWnGwJepRo2jOxrjlrUkGibu/s1600/Melos+Disco+Fdsos+From+Coimbra+CQuartet.jpg",
+      "legenda": "Capa de uma edição norte-americana do LP Fados From Coimbra, do Coimbra Quartet (grupo dos irmãos Melo).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/fados-from-coimbra-coimbra-quartet.html",
+          "doc": "gc-v:5676091323327479064",
+          "citacao": "Capa cartonada de uma edição norteamericana do registo fonográfico efectuado em dezembro de 1964 nos estúdios da Philips, Holanda, pelo grupo dos irmãos Melo, circulado no mercado internacional em 1965"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Coimbra Quartet",
+      "url": "https://www.discogs.com/artist/1893978"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

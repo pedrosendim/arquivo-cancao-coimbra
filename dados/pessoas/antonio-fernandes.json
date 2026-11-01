@@ -1,0 +1,59 @@
+{
+  "id": "antonio-fernandes",
+  "tipo": "pessoa",
+  "nome": "António Fernandes",
+  "nomes_alternativos": [
+    "Fafes"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "guitarra de Coimbra do Grupo de Fado Despertar, da Secção de Fado (Teatro Paulo Quintela, 29-3-2007; Arco de Almedina, 4-9-2007)",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/na-passada-5-feira-29-de-maro-de-2007-o.html",
+          "doc": "gc-i:7940544876581587171",
+          "citacao": "o Grupo de Fado Despertar, da secção de Fado da AAC, actuou apenas com 3 membros (só sei o nome do Guitarra de Coimbra - António Fernandes, mais conhecido na academia por \"Fafes\""
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/ontem-dia-4-no-arco-de-almedina-em.html",
+          "doc": "gc-i:912569421215855582",
+          "citacao": "Do grupo apenas conheço o nome do 1 º Guitarra: António Fernandes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088352676525486.html",
+          "doc": "gc-i:113088352676525486",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. António Fernandes e Jorge Gomes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/na-passada-5-feira-29-de-maro-de-2007-o.html",
+          "doc": "gc-i:7940544876581587171",
+          "citacao": "o Grupo de Fado Despertar, da secção de Fado da AAC"
+        }
+      ],
+      "nota": "Escola de Guitarra da Secção (fotografia de 2005); 1.ª guitarra do grupo Despertar (2007)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

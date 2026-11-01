@@ -1,0 +1,81 @@
+{
+  "id": "manasses-de-lacerda-beka-7317",
+  "titulo": "Fado de Coimbra",
+  "formato": "disco de massa",
+  "editora": "Beka (Beka Grande Record)",
+  "referencia": "7317",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado de Coimbra (A lua, pastor bendito)",
+      "obra": "",
+      "media": [
+        "manasses-fado-de-coimbra-beka-7317-soundcloud"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4zzE4VmAp9wJ21W6-LekUC50NEPsb6sZpRjknNsD7H0sLgedQmcAhBQkYg8fUSNqO5NoEhuhVrlZrTxvQ-8vcBG5NCWA2lajuOo3qWokF-Muii53q7Be5bs1xdTDn1PR9VBcQ3yEVolD/s1600/Rodela+Fado+de+Coimbra+-+Manass%C3%A9s+de+Lacerda+(2).jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2015/03/dancas-e-andancas-dos-titulos-o-caso-do.html",
+        "doc": "gc-v:3134337255474736423",
+        "citacao": "Acervo/imagem: Jorge Rino"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Sem data [inícios do século XX], sem menção de autorias nem de instrumentistas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/dancas-e-andancas-dos-titulos-o-caso-do.html",
+          "doc": "gc-v:3134337255474736423",
+          "citacao": "Fado de Coimbra (sic!)/Fado/Manassés de Lacerda (tenor), disco de massa Beka Grande Record, N.º 7317, s/d [inícios do século XX], sem menção de autoria(s) nem de instrumentista(s)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título original: «Fado de Lamego», música de Reynaldo Varella; a 4.ª quadra é de Augusto Hilário",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/dancas-e-andancas-dos-titulos-o-caso-do.html",
+          "doc": "gc-v:3134337255474736423",
+          "citacao": "Título original: FADO DE LAMEGO Música: Reynaldo Varella (ca. 1867-1940) Letra: 1.ª e 2.ª quadras de Guerra Junqueiro; 3.ª de autor desconhecido; 4.ª de Augusto Hilário; 5.ª popular; 6.ª de autor desconhecido"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/dancas-e-andancas-dos-titulos-o-caso-do.html",
+      "doc": "gc-v:3134337255474736423",
+      "citacao": "Acervo/imagem: Jorge Rino"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

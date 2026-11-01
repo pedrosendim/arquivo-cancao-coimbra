@@ -1,0 +1,88 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-60053",
+  "titulo": "Fado da Santa Cruz / Mar alto",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "60053",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Santa Cruz",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-60053-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Mar alto",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-60053-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Santa Cruz», por Edmundo Bettencourt — etiqueta: «Fado de Santa Cruz / - Fortunado R. da Fonseca -  / Dr. Edmundo de Bettencourt / com Guitarras»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/310/edmundo_bettencourt_fado_da_santa_cruz",
+          "doc": "museu-do-fado:w3fcabd189d7367f0",
+          "citacao": "Título: Fado da Santa Cruz ... Editora: Co. 60053 Referências: P306, W; 60053-A ... Etiqueta: Fado de Santa Cruz / - Fortunado R. da Fonseca -  / Dr. Edmundo de Bettencourt / com Guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Mar alto», por Edmundo Bettencourt — etiqueta: «Mar Alto / Fado - Canção / - Mário Fonseca -  / Dr. Edmundo de Bettencourt / com Guitarras»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/311/edmundo_bettencourt_mar_alto",
+          "doc": "museu-do-fado:wb2632b920c21d967",
+          "citacao": "Título: Mar alto ... Editora: Co. 60053,8123,GL104, HTCD15 Referências: P333, W; 60053-B ... Etiqueta: Mar Alto / Fado - Canção / - Mário Fonseca -  / Dr. Edmundo de Bettencourt / com Guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/310/edmundo_bettencourt_fado_da_santa_cruz",
+      "doc": "museu-do-fado:w3fcabd189d7367f0",
+      "citacao": "Título: Fado da Santa Cruz ... Editora: Co. 60053 Referências: P306, W; 60053-A"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/311/edmundo_bettencourt_mar_alto",
+      "doc": "museu-do-fado:wb2632b920c21d967",
+      "citacao": "Título: Mar alto ... Editora: Co. 60053,8123,GL104, HTCD15 Referências: P333, W; 60053-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136807-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0602_05.mp3",
+  "titulo": "Fado Saudades — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136807",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1198.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1188/antonio_menano_fado_saudades",
+      "doc": "museu-do-fado:w03ba203693fcf96c",
+      "citacao": "Título: Fado Saudades ... Editora: Od.136.807, A187.500, X3043, EMI261283,EMICD8364452,HTCD31 Referências: OG655, R; A 136807b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

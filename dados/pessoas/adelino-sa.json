@@ -1,0 +1,89 @@
+{
+  "id": "adelino-sa",
+  "tipo": "pessoa",
+  "nome": "Adelino Sá",
+  "nomes_alternativos": [
+    "Alfredo Adelino de Sá"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/adelino-s-alfredo-adelino-de-s-natural.html",
+      "doc": "gc-i:113852897668164542",
+      "citacao": "Alfredo Adelino de Sá, natural de São Paulo de Assunção, cidade de Luanda, Angola, quartanista de Direito em 1905, com residência no Largo do Castelo, nº 15. Executante de guitarra de certa nomeada, teve grupo com Manassés de Lacerda e Manuel Alegre."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "São Paulo de Assunção (Luanda, Angola)",
+      "local": "Luanda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/adelino-s-alfredo-adelino-de-s-natural.html",
+          "doc": "gc-i:113852897668164542",
+          "citacao": "natural de São Paulo de Assunção, cidade de Luanda, Angola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Quartanista de Direito em 1905",
+      "data": "1905",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/adelino-s-alfredo-adelino-de-s-natural.html",
+          "doc": "gc-i:113852897668164542",
+          "citacao": "quartanista de Direito em 1905"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "manasses-de-lacerda",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/adelino-s-alfredo-adelino-de-s-natural.html",
+          "doc": "gc-i:113852897668164542",
+          "citacao": "Executante de guitarra de certa nomeada, teve grupo com Manassés de Lacerda e Manuel Alegre."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
+          "doc": "gc-i:113734692170677571",
+          "citacao": "Manteve em Coimbra um grupo afamado, integrado por Adelino Sá/Manuel Ribeiro Alegre (guitarras)"
+        }
+      ],
+      "nota": "Guitarra no grupo de Manassés de Lacerda em Coimbra."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Adelino%20S.jpg",
+      "legenda": "Alfredo Adelino de Sá, quartanista de Direito em 1905",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/adelino-s-alfredo-adelino-de-s-natural.html",
+          "doc": "gc-i:113852897668164542",
+          "citacao": "Alfredo Adelino de Sá, natural de São Paulo de Assunção, cidade de Luanda, Angola, quartanista de Direito em 1905"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

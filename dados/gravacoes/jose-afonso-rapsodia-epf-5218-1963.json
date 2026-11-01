@@ -1,0 +1,120 @@
+{
+  "id": "jose-afonso-rapsodia-epf-5218-1963",
+  "titulo": "Dr. José Afonso em Baladas de Coimbra (Os Vampiros)",
+  "formato": "EP",
+  "editora": "Rapsódia",
+  "referencia": "EPF 5.218",
+  "ano": "1963",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "rui-pato",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Os Vampiros",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-1-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-ep-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Canção do Vai... e Vem...",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-2-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-ep-youtube"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Menino do Bairro Negro",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-ep-youtube"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "As Pombas",
+      "media": [
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-4-apple-music",
+        "ouvir-jose-afonso-rapsodia-epf-5218-1963-ep-youtube"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/9681835",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em 1963 com Rui Pato; apreendido pouco depois pela PIDE",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Em 1963 José Afonso volta a gravar com Rui Pato o EP Baladas de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Este fonograma seria pouco depois apreendido pela PIDE."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Faixas: Os Vampiros, Canção Vai... e Vem, Menino do Bairro Negro (José Afonso) e As Pombas (música de Luís de Andrade, letra de José Afonso)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Menino do Bairro Negro (Olha o sol que vai nascendo), música e letra de José Afonso;"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "As Pombas (Pombas brancas), música de Luís de Andrade, letra de José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9681835",
+      "doc": "discogs:we142ec34542c2a3b",
+      "citacao": "Editora: Rapsódia – EPF 5.218"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/cronologia/",
+      "doc": "aja:wddc15a953c5a5a5e",
+      "citacao": "Discografia: Dr. José Afonso em Baladas de Coimbra, onde se inclui Os Vampiros (Rapsódia EFP 5. 218), EP"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pedro-filho-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "Pedro",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1969 (o último filho, o quarto)",
+      "data": "1969",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1969 a Primavera marcelista ... Nasce o último filho, o quarto, Pedro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Nasce o último filho, o quarto, Pedro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Nasce o último filho, o quarto, Pedro."
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

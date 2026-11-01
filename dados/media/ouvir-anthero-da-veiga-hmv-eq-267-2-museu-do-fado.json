@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-anthero-da-veiga-hmv-eq-267-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0972_31.mp3",
+  "titulo": "Fado Melódico — Antero da Veiga",
+  "data": "",
+  "pessoas": [
+    "anthero-da-veiga",
+    "eugenio-da-veiga"
+  ],
+  "obras": [],
+  "gravacao": "anthero-da-veiga-hmv-eq-267",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1934.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1926/antero_da_veiga_fado_melodico",
+      "doc": "museu-do-fado:w0a169a6405a9fc8a",
+      "citacao": "Título: Fado Melódico ... Editora: HMV EQ267 Referências: BJ2685-I∆, G, 1, 30-3102; EQ 267"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

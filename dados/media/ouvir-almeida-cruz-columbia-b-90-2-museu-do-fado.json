@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-90-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0304_10.mp3",
+  "titulo": "Fado da Senhora da Pedra — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-90",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0607.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/603/almeida_cruz_fado_da_senhora_da_pedra",
+      "doc": "museu-do-fado:w25306e897b545d42",
+      "citacao": "Título: Fado da Senhora da Pedra ... Editora: Co. B-90 Referências: 11871-1-3; B90"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

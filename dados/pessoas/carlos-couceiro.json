@@ -1,0 +1,54 @@
+{
+  "id": "carlos-couceiro",
+  "tipo": "pessoa",
+  "nome": "Carlos Couceiro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "Foi aluno de mestre Flávio Rodrigues (1902 - 1950), e depois de Manuel Branquinho (1929 - 1999)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "Começou a aprender guitarra em 1947, tendo sido aluno de Manuel Branquinho (1929 – 1999) e de Flávio Rodrigues (1902 – 1950)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "discípulo de Flávio Rodrigues e João Bagão"
+        }
+      ],
+      "nota": "As fontes divergem quanto à ordem dos mestres (Flávio e depois Branquinho, ou o inverso) e uma refere João Bagão."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Rua%20Larga%2015%20Couceiro.jpg",
+      "legenda": "Carlos Couceiro. Guitarrista, poeta e futebolista, do grupo «Rua Larga». Foto do disco «Saudades da Rua Larga».",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/carlos-couceiro.html",
+          "doc": "gc-i:111569161042579396",
+          "citacao": "Carlos Couceiro. Guitarrista, Poeta e Futebolista. Faz parte do grupo \"Rua Larga\". Foto do disco \"Saudades da Rua Larga\""
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

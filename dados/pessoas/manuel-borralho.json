@@ -1,0 +1,109 @@
+{
+  "id": "manuel-borralho",
+  "tipo": "pessoa",
+  "nome": "Manuel Borralho",
+  "nomes_alternativos": [
+    "Manuel Gonçalves Borralho"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 12 de outubro de 1943",
+      "data": "1943-10-12",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Biografia de Manuel Borralho (Guitarra de Coimbra) Nasceu em Coimbra em 12 de Outubro de 1943."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do livrete do CD «Canções d'Inquietude» (2005), reproduzida no post."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Autor de todas as peças instrumentais do CD «Canções d'Inquietude» (Jorge Cravo / Presença de Coimbra, 2005)",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "porque se todas as peças instrumentais são de Manuel Borralho"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem no livrete do CD, reproduzido no post."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ],
+      "nota": "guitarra; serenata na Sé do Funchal, 30 de dezembro de 1968"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Grupo Presença de Coimbra (GPC), constituído por Manuel Borralho e José Ferraz de Oliveira, nas guitarras, e Manuel Gouveia Ferreira na viola"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/por-dentro-das-flores.html",
+          "doc": "gc-v:1403020400799042504",
+          "citacao": "As instrumentações e acompanhamentos de gC e v estiveram a cargo de Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v) e Tiago Ferraz de Oliveira (v)."
+        }
+      ],
+      "nota": "guitarra (gC1); do CD de 1999 ao de 2024"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "nota": "2.ª guitarra (gC2)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZJoyBzmilm6qnI2BQJMHVruO4iPEIxd6FLrM_UtfCUIaE3tiSTiLngoxPzv_VdbE1yKT6-cSkVAT2dAR2fnQb0IGAu5ELdfZoeBK3XRpdpSpZLTyzaS2Bb2THOgP7VHWDvaUPKNwcS_M/s1600/Guimaraes_2.jpg",
+      "legenda": "Cartão de sócio de Manuel Borralho (Tuna Académica da Universidade de Coimbra), com fotografia. Pesquisa e digitalização: Adamo Caetano, José Nascimento e António Nascimento",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/estrelas-na-galaxia-sonora-coimbra-o_27.html",
+          "doc": "gc-v:8767370553587102018",
+          "citacao": "Cartão de sócio de Manuel Borralho."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

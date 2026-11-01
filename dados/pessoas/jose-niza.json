@@ -1,0 +1,49 @@
+{
+  "id": "jose-niza",
+  "tipo": "pessoa",
+  "nome": "José Niza",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista",
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Nestas duas baladas é acompanhado exclusivamente à viola por José Niza e Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "sendo o cantor acompanhado à viola por José Niza e Durval Moreirinhas"
+        }
+      ],
+      "nota": "Viola em «Minha Mãe» e «Balada Aleixo», gravadas em 1961 (LP Coimbra Orfeon of Portugal, 1962). Noutras digressões (TAUC, Angola 1958; Suécia) a cronologia da AJA indica-o à guitarra."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "pernoitava na república Baco, e cantava acompanhado por José Niza (g.C) e Manuel Pepe, entre outros."
+        }
+      ],
+      "nota": "Guitarra de Coimbra, nos primeiros anos da década de 1960 (república Baco). Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

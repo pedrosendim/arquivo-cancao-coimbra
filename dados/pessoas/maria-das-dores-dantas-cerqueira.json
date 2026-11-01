@@ -1,0 +1,40 @@
+{
+  "id": "maria-das-dores-dantas-cerqueira",
+  "tipo": "pessoa",
+  "nome": "Maria das Dores Dantas Cerqueira",
+  "nomes_alternativos": [
+    "Maria das Dores"
+  ],
+  "papeis": [
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Professora primária, diretora da «escola infantil» de Aveiro onde nasceu José Afonso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "no piso superior e residencial da \"escola infantil\" de que a mãe, Maria das Dores Dantas Cerqueira, professora primária, é directora."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "e de Maria das Dores Dantas Cerqueira, professora primária"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

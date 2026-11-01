@@ -1,0 +1,27 @@
+{
+  "id": "carolina-neta-de-octavio-sergio",
+  "tipo": "pessoa",
+  "nome": "Carolina",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "neto_de",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/h-dias-eu-e-o-meu-filho-srgio-azevedo.html",
+          "doc": "gc-i:6777385647019386929",
+          "citacao": "Associou-se a nós a minha neta Carolina, com uma bandurra."
+        }
+      ],
+      "nota": "Post escrito por Octávio Sérgio. A fonte não diz de quem é filha."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

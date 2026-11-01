@@ -1,0 +1,224 @@
+{
+  "id": "jose-afonso-orfeu-fpat-6011-1981",
+  "titulo": "Fados de Coimbra e Outras Canções",
+  "formato": "LP",
+  "editora": "Orfeu (Arnaldo Trindade & C.ª Lda.)",
+  "referencia": "FPAT 6011",
+  "ano": "1981",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "octavio-sergio",
+      "funcao": "guitarra (arranjos)"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Saudades de Coimbra",
+      "obra": "saudades-de-coimbra-bettencourt",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-1-apple-music",
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-1-youtube"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado d'Anto",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-2-apple-music",
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-2-youtube"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Senhora do Almortão",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Mar Alto",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-4-apple-music"
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "Fado da Sugestão",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-5-apple-music"
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Balada de Outono",
+      "obra": "balada-do-outono",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-6-apple-music"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Inquietação",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-7-apple-music",
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-7-youtube"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Fado dos Olhos Claros",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-8-apple-music"
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "Vira de Coimbra",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-9-apple-music"
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "Crucificação",
+      "media": [
+        "ouvir-jose-afonso-orfeu-fpat-6011-1981-10-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/0csHgzYaJfBNppYgeOfQKy",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/2425566",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Referência Orfeu FPAT 6011 (LP)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2425566",
+          "doc": "discogs:w978e1e07dbaf4793",
+          "citacao": "Editora: Orfeu – FPAT 6011"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "LP “José Afonso – Fados de Coimbra”, Orfeu, FPAT 6011."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Referência Orfeu FP 6011 (cronologia da AJA; a mesma referência surge para a versão em cassete)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Fados de Coimbra e Outras Canções (Orfeu FP 6011), LP (disco de prata)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/03/cassete-dos-registos-efetuados-por-jose.html",
+          "doc": "gc-v:2867083331425481189",
+          "citacao": "José Afonso, Fados de Coimbra e outras canções, Porto, Orfeu FP 6011, 1981."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Dedicado ao pai de José Afonso e a Edmundo Bettencourt",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Trata-se da mais bela versão do fado de Coimbra, interpretada por Zeca Afonso em homenagem a seu pai e a Edmundo Bettencourt, a quem o disco é dedicado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Instrumentistas: Octávio Sérgio (autor de todos os arranjos, guitarra solista), Durval Moreirinhas (viola), Júlio Pereira (cavaquinho no Vira de Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/03/cassete-dos-registos-efetuados-por-jose.html",
+          "doc": "gc-v:2867083331425481189",
+          "citacao": "Octávio Sérgio (autor de todos os arranjos de acompanhamento, solista de gC); Durval Moreirinhas (v); Júlio Pereira (cavaquinho minhoto no Vira de Coimbra)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Disco de prata",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "LP (disco de prata)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Data de edição indicada no Discogs: 15-08-1981",
+      "data": "1981-08-15",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2425566",
+          "doc": "discogs:w978e1e07dbaf4793",
+          "citacao": "Data: 1981-08-15"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/2425566",
+      "doc": "discogs:w978e1e07dbaf4793",
+      "citacao": "Título: Fados De Coimbra E Outras Canções"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/cronologia/",
+      "doc": "aja:wddc15a953c5a5a5e",
+      "citacao": "Publica \"Fados de Coimbra e Outras Canções\" que homenageia o seu pai e Edmundo de Bettencourt."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

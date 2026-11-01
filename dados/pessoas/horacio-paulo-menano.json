@@ -1,0 +1,191 @@
+{
+  "id": "horacio-paulo-menano",
+  "tipo": "pessoa",
+  "nome": "Horácio Paulo Menano",
+  "nomes_alternativos": [
+    "Horácio Menano"
+  ],
+  "papeis": [
+    "cantor",
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1890",
+      "data": "1890",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Horácio Paulo Menano (1890-1972?)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1972 (com dúvida na fonte)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Horácio Paulo Menano (1890-1972?)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia de 2013 dá 1 de julho de 1971 (facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Santos-o-Velho, Lisboa, 1 de julho de 1971",
+      "data": "1971-07-01",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "faleceu em Santos-o-Velho, Lisboa, a 1 de Julho de 1971"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2006 sobre António Menano dá «1972?»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Fornos de Algodres, 25 de janeiro de 1890",
+      "data": "1890-01-25",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "HORÁCIO PAULO MENANO, nasceu em Fornos de Algodres, distrito da Guarda, a 25 de janeiro de 1890"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formado em Filosofia (1912) e Medicina (1915)",
+      "data": "1915",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "formado em Filosofia (1912) e Medicina (1915), destacou-se como cantor e executante de guitarra em afinação natural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou com uma filha do compositor Rey Colaço",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Virá a casar com uma filha do compositor Rey Colaço."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não dá o nome da mulher."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "antonio-da-costa-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Dos rapazes, os filhos Abel e José, têm apenas o apelido da parte do pai, e o Paulo, tem apelido Costa Menano. Os restantes irmãos, Francisco, Horácio, Alfredo, António e Alberto, receberam todos, o apelido Paulo Menano."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "januaria-augusta-paulo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Dos rapazes, os filhos Abel e José, têm apenas o apelido da parte do pai, e o Paulo, tem apelido Costa Menano. Os restantes irmãos, Francisco, Horácio, Alfredo, António e Alberto, receberam todos, o apelido Paulo Menano."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Seus pais, António da Costa Menano, negociante e D. Januária Augusta Paulo Menano, proprietária, tiveram 14 filhos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Elas de nomes, Albertina, Maria, Estefânia, Ana, Luísa e Maria dos Prazeres, eles, Alfredo, Abel, José, Francisco, Paulo, Horácio, António e Alberto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Dos rapazes, os filhos Abel e José, têm apenas o apelido da parte do pai, e o Paulo, tem apelido Costa Menano. Os restantes irmãos, Francisco, Horácio, Alfredo, António e Alberto, receberam todos, o apelido Paulo Menano."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

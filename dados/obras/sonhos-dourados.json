@@ -1,0 +1,56 @@
+{
+  "id": "sonhos-dourados",
+  "titulo": "Sonhos Dourados",
+  "titulos_alternativos": [
+    "Falta-me a voz, já não canto",
+    "Balada do Mondego",
+    "Canção do Poeta"
+  ],
+  "genero": "cancao",
+  "musica": [
+    "jose-elyseu"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por Artur Paredes com o título «Balada do Mondego» (EP Alvorada MEP 60056, 1957)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+          "doc": "gc-v:597665629924075444",
+          "citacao": "Trinta anos decorridos, Artur Paredes gravaria a mesma música, acompanhado por Carlos Paredes (2º gC) e Arménio Silva (v), no EP Artur Paredes, Alvorada MEP 60056, 1957, com o estranho título «Balada do Mondego», também aqui sem menção de autoria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Versão de Flávio Rodrigues com o título «Canção do Poeta» (Odeon 136.292, Paris, maio de 1927)",
+      "data": "1927-05",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+          "doc": "gc-v:597665629924075444",
+          "citacao": "CANÇÃO DO POETA, com autoria omissa na etiqueta fonográfica: disco de 78 rpm, Odeon 136.292, Og 570, Paris, maio de 1927"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/uma-cancao-de-jose-elyseu-partilhada.html",
+      "doc": "gc-v:597665629924075444",
+      "citacao": "SONHOS DOURADOS (Falta-me a voz, já não canto), música de José das Neves Elyseu, letra de Henrique Martins de Carvalho"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

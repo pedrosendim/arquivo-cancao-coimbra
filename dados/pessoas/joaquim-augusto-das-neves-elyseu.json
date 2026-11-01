@@ -1,0 +1,27 @@
+{
+  "id": "joaquim-augusto-das-neves-elyseu",
+  "tipo": "pessoa",
+  "nome": "Joaquim Augusto das Neves Elyseu",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "abel-ferreira-das-neves-elyseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/serenata-da-rainha-santa-1885.html",
+          "doc": "gc-v:8326513607326743241",
+          "citacao": "Joaquim Augusto das Neves Elyseu, irmão de Abel e tio dos manos António e José."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

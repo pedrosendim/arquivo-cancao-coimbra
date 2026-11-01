@@ -1,0 +1,27 @@
+{
+  "id": "helena-berrance",
+  "tipo": "pessoa",
+  "nome": "Helena Berrance",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "egas-berrance",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/egas-berrance.html",
+          "doc": "gc-v:5475879109536332395",
+          "citacao": "viveu na Figueira da Foz, com a Sra. D. Helena Berrance e a filha D. Clara Berrance. Veio a falecer no Porto ... A viúva e filha continuam a residir na Figueira da Foz"
+        }
+      ],
+      "nota": "A fonte não diz «casou com»: nomeia Helena Berrance a viver com ele e com a filha e chama-lhe depois «a viúva»."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

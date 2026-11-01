@@ -1,0 +1,18 @@
+# Corre o validar.py em cada proposta (pull request) e em cada alteração publicada.
+# Sem a cópia dos blogues, as citações já confirmadas na cópia local contam pelo registo dados/verificacao.json.
+name: validar
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/validar.py

@@ -1,0 +1,106 @@
+{
+  "id": "jose-de-sousa-lopes",
+  "tipo": "pessoa",
+  "nome": "José de Sousa Lopes",
+  "nomes_alternativos": [
+    "Trego Novo"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "14 de julho de 1913",
+      "data": "1913-07-14",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José de Sousa Lopes (14-07-1913; 14-01-1987), filho de José Trego"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "14 de janeiro de 1987",
+      "data": "1987-01-14",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José de Sousa Lopes (14-07-1913; 14-01-1987)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário bancário",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "filho de José Trego, funcionário bancário"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tocador de violão e violino; membro do naipe dos violinos da Tuna; associado vitalício da TAUC",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "membro do naipe dos violinos da Tuna"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "José de Sousa Lopes, filho do célebre José Trego, tocador de violão e violino, associado vitalício da TAUC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "José de Sousa Lopes (14-07-1913; 14-01-1987), filho de José Trego"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/12/inauguracao-da-sede-do-rancho-de.html",
+          "doc": "gc-v:1433014648178882819",
+          "citacao": "José de Sousa Lopes, filho do célebre José Trego"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

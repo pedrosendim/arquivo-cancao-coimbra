@@ -1,0 +1,60 @@
+{
+  "id": "avelino-baptista-beka-48103",
+  "titulo": "Balada do Mondego",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "48103 / 48104",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada do Mondego",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-beka-48103-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Balada do Mondego», por Avelino Baptista — etiqueta: «Ballada do Mondego / Canção popular / Avelino Baptista / Estudantina»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4276/avelino_baptista_balada_do_mondego",
+          "doc": "museu-do-fado:w7aff8082bfac5d09",
+          "citacao": "Título: Balada do Mondego ... Editora: Beka 48103 48104 Referências: Beka-Grand-Record, 48103; 48103 ... Etiqueta: Ballada do Mondego / Canção popular / Avelino Baptista / Estudantina"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Balada da Beira» (Isabel Costa, Avelino Baptista, museu-do-fado:w382fdc25ecb805e3)"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4276/avelino_baptista_balada_do_mondego",
+      "doc": "museu-do-fado:w7aff8082bfac5d09",
+      "citacao": "Título: Balada do Mondego ... Editora: Beka 48103 48104 Referências: Beka-Grand-Record, 48103; 48103"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

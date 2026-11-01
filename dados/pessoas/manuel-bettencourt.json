@@ -1,0 +1,53 @@
+{
+  "id": "manuel-bettencourt",
+  "tipo": "pessoa",
+  "nome": "Manuel",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "julio-teodoro-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Os seus pais, capitão Júlio Teodoro de Bettencourt e a mãe Leopoldina de Santana Bettencourt, tiveram cinco filhos, duas raparigas, Maria e Ilda e três rapazes, Manuel, António e Edmundo."
+        }
+      ],
+      "nota": "A fonte dá só o nome próprio; o apelido no identificador serve apenas para distinguir a ficha."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "leopoldina-de-santana-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Os seus pais, capitão Júlio Teodoro de Bettencourt e a mãe Leopoldina de Santana Bettencourt, tiveram cinco filhos, duas raparigas, Maria e Ilda e três rapazes, Manuel, António e Edmundo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Os seus pais, capitão Júlio Teodoro de Bettencourt e a mãe Leopoldina de Santana Bettencourt, tiveram cinco filhos, duas raparigas, Maria e Ilda e três rapazes, Manuel, António e Edmundo."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

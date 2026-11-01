@@ -1,0 +1,22 @@
+{
+  "id": "ouvir-coimbra-quintet-philips-p-10141-r-1-spotify",
+  "tipo": "audio",
+  "plataforma": "spotify",
+  "url": "https://open.spotify.com/track/5CF35BBzXiIOqFa0qNztfV",
+  "titulo": "Fado do Estudante — Luiz Goes e Coimbra Quintet",
+  "data": "",
+  "pessoas": [
+    "luiz-goes",
+    "coimbra-quintet"
+  ],
+  "obras": [],
+  "gravacao": "coimbra-quintet-philips-p-10141-r",
+  "fontes": [
+    {
+      "fonte": "spotify",
+      "url": "https://open.spotify.com/track/5CF35BBzXiIOqFa0qNztfV"
+    }
+  ],
+  "nota": "identificado pelo título na plataforma: faixa «Fado do estudante» do Coimbra Quintet.",
+  "estado_revisao": "rascunho"
+}

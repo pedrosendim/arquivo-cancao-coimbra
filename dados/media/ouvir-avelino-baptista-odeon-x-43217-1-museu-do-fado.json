@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-x-43217-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2201_20.mp3",
+  "titulo": "A Serenata — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-x-43217",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4179.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4328/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:w74b8cfee579acdb6",
+      "citacao": "Título: A Serenata ... Editora: Odeon X 43217 X 43236 Referências: xO364, MI; X 43217"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

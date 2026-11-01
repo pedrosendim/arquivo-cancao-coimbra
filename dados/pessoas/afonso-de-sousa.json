@@ -1,0 +1,122 @@
+{
+  "id": "afonso-de-sousa",
+  "tipo": "pessoa",
+  "nome": "Afonso de Sousa",
+  "nomes_alternativos": [
+    "Dr. Afonso de Sousa"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1906",
+      "data": "1906",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
+          "doc": "gc-i:115308142543235485",
+          "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1993",
+      "data": "1993",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
+          "doc": "gc-i:115308142543235485",
+          "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Advogado em Leiria",
+      "data": "",
+      "local": "Leiria",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
+          "doc": "gc-i:115308142543235485",
+          "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "2.ª guitarra de Artur Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Afonso de Sousa, para sempre amado 2º guitarra de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha mínima criada pela investigação sobre a família Grácio."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-de-souza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa, filho de José de Souza, proprietário em Maceira, e de Rosália Coelho de Sousa, nasceu na Quinta do Paraíso, Maceira"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "rosalia-coelho-de-sousa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa, filho de José de Souza, proprietário em Maceira, e de Rosália Coelho de Sousa, nasceu na Quinta do Paraíso, Maceira"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggfuKvVZLztfGRgawA3_HqD4y460qxgcohDobC7K5eYsdu5R1z9bnhFbJI4vuqNYPo6teIKMFyjW-VSPr-pfgpethE7sMTOrI6zlir8ZbsYbR5J3xqzYHNN3AliDv5I8YvH1RaryBOD1g/s1600/Dr.+Afonso+de+Sousa.jpg",
+      "legenda": "Afonso de Sousa na biblioteca-escritório da sua residência, Leiria, 24.11.1989, foto de AMN.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa na biblioteca-escritório da sua residência, Leiria, 24.11.1989, foto de AMN"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

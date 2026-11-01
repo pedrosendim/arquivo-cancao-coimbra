@@ -1,0 +1,69 @@
+{
+  "id": "maria-jose-de-menezes",
+  "tipo": "pessoa",
+  "nome": "Maria José de Menezes",
+  "nomes_alternativos": [
+    "Maria José Bettencourt",
+    "D. Maria José Bettencourt"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Professora de piano",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "casando em Lisboa, a 2 de Agosto de 1948, com uma professora de piano, a Sra D. Maria José de Menezes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Viúva do poeta, autorizou em 1998 a reprodução das fotografias do espólio de Edmundo de Bettencourt",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/11/aproximacoesao-espolio-fotografico-de.html",
+          "doc": "gc-v:4656603558731644152",
+          "citacao": "D. Maria José Bettencourt, viúva do poeta, autorizou a respetiva reprodução."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "casando em Lisboa, a 2 de Agosto de 1948, com uma professora de piano, a Sra D. Maria José de Menezes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/11/aproximacoesao-espolio-fotografico-de.html",
+          "doc": "gc-v:4656603558731644152",
+          "citacao": "D. Maria José Bettencourt, viúva do poeta"
+        }
+      ],
+      "nota": "Casamento em Lisboa, 2 de agosto de 1948."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

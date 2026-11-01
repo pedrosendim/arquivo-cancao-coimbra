@@ -1,0 +1,36 @@
+{
+  "id": "morena-saldanha-junior",
+  "titulo": "Morena",
+  "titulos_alternativos": [
+    "Uma Canção"
+  ],
+  "genero": "guitarrada",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "No catálogo inglês terá sido referenciado como «Uma Canção»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "No catálogo inglês este título terá sido referenciado como UMA CANÇÃO."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "MORENA (guitarrada), música de J. Saldanha Júnior, arranjo de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

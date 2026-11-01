@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lista do YouTube</title>
+  <style>body { font: 14px system-ui, sans-serif; margin: 16px; background: #fff; color: #111; } pre { white-space: pre-wrap; }</style>
+</head>
+<body>
+  <!-- Ferramenta interna: lê os vídeos de uma playlist pelo leitor oficial do YouTube (IFrame API)
+       e escreve-os em <pre id="ids">. Usada por scripts/youtube_lista.py. Uso: ?list=PL… -->
+  <div id="leitor"></div>
+  <pre id="ids">a carregar…</pre>
+  <script>
+    const lista = new URLSearchParams(location.search).get('list');
+    window.onYouTubeIframeAPIReady = () => {
+      let tentativas = 0, feito = false;
+      const ler = () => {
+        if (feito) return;
+        const ids = (p.getPlaylist && p.getPlaylist()) || [];
+        if (ids.length || ++tentativas > 120) { feito = true; document.getElementById('ids').textContent = 'IDS:' + ids.join(','); }
+        else setTimeout(ler, 250);
+      };
+      const p = new YT.Player('leitor', {
+        width: 320, height: 180, playerVars: { autoplay: 0 },
+        events: {
+          // a lista só fica disponível depois de ser «preparada» no leitor
+          onReady: () => { p.cuePlaylist({ listType: 'playlist', list: lista }); ler(); },
+          onStateChange: ler,
+          onError: (e) => { document.getElementById('ids').textContent = 'ERRO:' + e.data; },
+        },
+      });
+    };
+    const s = document.createElement('script'); s.src = 'https://www.youtube.com/iframe_api'; document.head.append(s);
+  </script>
+</body>
+</html>

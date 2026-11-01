@@ -1,0 +1,189 @@
+{
+  "id": "ecos-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Ecos de Coimbra",
+  "nomes_alternativos": [
+    "Grupo Ecos de Coimbra",
+    "Grupo de Fados Ecos de Coimbra",
+    "grupo de Guitarra e Canto de Coimbra Ecos de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+      "doc": "gc-i:116136187245084730",
+      "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/o-grupo-de-guitarra-e-canto-de-coimbra.html",
+      "doc": "gc-ii:3993957054683374503",
+      "citacao": "O grupo de Guitarra e Canto de Coimbra \"Ecos de Coimbra\", vai comemorar vinte anos de existência."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/06/o-grupo-de-fados-ecos-de-coimbra-25.html",
+      "doc": "gc-v:600294208796821477",
+      "citacao": "O Grupo de Fados Ecos de Coimbra completou 25 anos de atividade. Vão comemorar o facto e deram ao Grupo \"Raízes de Coimbra\" a honra de os acompanhar na efeméride."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "grupo sediado em Faro",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+          "doc": "gc-i:116136187245084730",
+          "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "comemora vinte anos de existência (setembro de 2008)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/o-grupo-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:3993957054683374503",
+          "citacao": "O grupo de Guitarra e Canto de Coimbra \"Ecos de Coimbra\", vai comemorar vinte anos de existência."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "completou 25 anos de atividade (junho de 2013), com o grupo Raízes de Coimbra a acompanhá-lo na comemoração",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/06/o-grupo-de-fados-ecos-de-coimbra-25.html",
+          "doc": "gc-v:600294208796821477",
+          "citacao": "O Grupo de Fados Ecos de Coimbra completou 25 anos de atividade. Vão comemorar o facto e deram ao Grupo \"Raízes de Coimbra\" a honra de os acompanhar na efeméride."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Macau, Messe dos Oficiais (setembro de 1999)",
+      "data": "1999-09",
+      "local": "Macau",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-actuar-em-macau.html",
+          "doc": "gc-i:116136226878428717",
+          "citacao": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Nova Iorque (setembro de 2000)",
+      "data": "2000-09",
+      "local": "Nova Iorque",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-em-nova-york.html",
+          "doc": "gc-i:116136202757380963",
+          "citacao": "Grupo Ecos de Coimbra, em Nova York, Estados Unidos da América em Setembro de 2000."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Biblioteca Municipal de Faro (2004)",
+      "data": "2004",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+          "doc": "gc-i:116136187245084730",
+          "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Igreja Matriz de Goa, Índia (fevereiro de 2006)",
+      "data": "2006-02",
+      "local": "Goa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-na-igreja-matriz.html",
+          "doc": "gc-i:116136252018825702",
+          "citacao": "Grupo Ecos de Coimbra na Igreja Matriz de Goa, Índia, em Fevereiro de 2006. Canta Joaquim Rogério. Viola Maurício Monteiro e guitarra, José Maria Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "abertura da Semana Académica da Universidade do Algarve (4 de maio de 2007)",
+      "data": "2007-05-04",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/os-ecos-de-coimbra-na-abertura-da.html",
+          "doc": "gc-i:1141088881777812583",
+          "citacao": "Os \"Ecos de Coimbra\" na abertura da Semana Académica da Universidade do Algarve, a 4 de Maio passado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Henriques%20Set%202004%2C%20Biblioteca%20M%20Faro.jpg",
+      "legenda": "Ecos de Coimbra na Biblioteca Municipal de Faro (2004): cantam António Vinagre e Joaquim Rogério; Maurício Monteiro (viola) e José Maria Oliveira (guitarra).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+          "doc": "gc-i:116136187245084730",
+          "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Henriques%20Igreja%20Matriz%20Goa%20,%20Fev%202006.jpg",
+      "legenda": "Ecos de Coimbra na Igreja Matriz de Goa (fevereiro de 2006): canta Joaquim Rogério; Maurício Monteiro (viola), José Maria Oliveira (guitarra).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-na-igreja-matriz.html",
+          "doc": "gc-i:116136252018825702",
+          "citacao": "Grupo Ecos de Coimbra na Igreja Matriz de Goa, Índia, em Fevereiro de 2006. Canta Joaquim Rogério. Viola Maurício Monteiro e guitarra, José Maria Oliveira."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

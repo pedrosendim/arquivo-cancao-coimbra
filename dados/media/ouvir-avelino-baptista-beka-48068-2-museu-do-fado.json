@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-48068-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1282_41.mp3",
+  "titulo": "Sonhos dourados — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-48068",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2343.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2538/avelino_baptista_sonhos_dourados",
+      "doc": "museu-do-fado:w9dc36cd65fd943e2",
+      "citacao": "Título: Sonhos dourados ... Editora: Beka 48070 48068 Referências: Beka-Grand-Record, 48070; 48070"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

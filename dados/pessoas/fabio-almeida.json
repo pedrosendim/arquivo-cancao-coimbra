@@ -1,0 +1,92 @@
+{
+  "id": "fabio-almeida",
+  "tipo": "pessoa",
+  "nome": "Fábio Almeida",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/espetaculo-as-flores-de-abril.html",
+      "doc": "gc-v:8709917757699580024",
+      "citacao": "Fernando Marques Ensemble: Fernando Marques, João Ferreira, Fábio Almeida, Tiago José Rodrigues e participação especial Eduardo Almeida"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+      "doc": "gc-v:3103881283986841572",
+      "citacao": "Grupo Quarteto de Coimbra: ggC: Tiago Rodrigues e Simão Mota v: Vasco Rodrigues Cantores: Fábio Almeida"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo «As Flores de Abril - Memorial Adriano Correia de Oliveira» (TAUC), com o Fernando Marques Ensemble",
+      "data": "2022-10-08",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/espetaculo-as-flores-de-abril.html",
+          "doc": "gc-v:8709917757699580024",
+          "citacao": "No dia 8/10 participaremos no espetáculo: “As Flores de Abril - Memorial Adriano Correia de Oliveira”. ... Fernando Marques Ensemble: Fernando Marques, João Ferreira, Fábio Almeida"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Fernando Marques Ensemble Fernando Marques, João Ferreira, Fábio Almeida, Tiago José Rodrigues e participação especial Eduardo Almeida"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os documentos não indicam o instrumento ou a voz de cada elemento do Ensemble."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantor do grupo Quarteto de Coimbra na Serenata em Santarém, Largo do Seminário (28 de junho)",
+      "data": "2024-06-28",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Cartaz promocional da Serenata que terá lugar em Santarém, no dia 28 de junho de 2024, no Largo do Seminário, pelas 22:00h ... Grupo Quarteto de Coimbra: ggC: Tiago Rodrigues e Simão Mota v: Vasco Rodrigues Cantores: Fábio Almeida"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir este «Quarteto de Coimbra» (2024) com o grupo homónimo de Carlos Costa."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-de-coimbra-2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "v: Vasco Rodrigues\n\nCantores: Fábio Almeida"
+        }
+      ],
+      "nota": "voz; Santarém, 28 de junho de 2024"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "fernando-marques-ensemble",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/espetaculo-as-flores-de-abril.html",
+          "doc": "gc-v:8709917757699580024",
+          "citacao": "Fernando Marques Ensemble: Fernando Marques, João Ferreira, Fábio Almeida, Tiago José Rodrigues e participação especial Eduardo Almeida"
+        }
+      ],
+      "nota": "Formação do espetáculo «As Flores de Abril» (8-10-2022); a fonte não indica a função de cada elemento."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "miguel-goes",
+  "tipo": "pessoa",
+  "nome": "Miguel Goes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, junho de 1961",
+      "data": "1961-06",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cano-da-infncia.html",
+          "doc": "gc-i:114799076130516571",
+          "citacao": "Miguel Goes, filho de Luiz Goes, nascido em Lisboa no mês de Junho de 1961"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Armando Goes compôs em sua homenagem o embalo «Canção da Infância»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cano-da-infncia.html",
+          "doc": "gc-i:114799076130516571",
+          "citacao": "Armando do Carmo Goes compôs este embalo em homenagem a seu sobrinho Miguel Goes"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post chama-lhe «sobrinho» de Armando Goes (é sobrinho-neto)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cano-da-infncia.html",
+          "doc": "gc-i:114799076130516571",
+          "citacao": "Miguel Goes, filho de Luiz Goes, nascido em Lisboa no mês de Junho de 1961"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

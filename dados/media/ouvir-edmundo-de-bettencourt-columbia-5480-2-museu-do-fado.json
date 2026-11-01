@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-5480-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0153_23.mp3",
+  "titulo": "Alegria dos céus — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-5480",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0306.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/300/edmundo_bettencourt_alegria_dos_ceus",
+      "doc": "museu-do-fado:wd870b1ca00668af8",
+      "citacao": "Título: Alegria dos céus ... Editora: Co. 5480, B, BL1000, GL106 Referências: P633-2, W; 5480-B"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

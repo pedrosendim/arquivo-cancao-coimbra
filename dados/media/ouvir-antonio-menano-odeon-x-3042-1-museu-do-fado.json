@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3042-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0586_13.mp3",
+  "titulo": "Fado Patriótico — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3042",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1165.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1156/antonio_menano_fado_patriotico",
+      "doc": "museu-do-fado:wad0a595186e0e3b5",
+      "citacao": "Título: Fado Patriótico ... Editora: Od. X3042 Referências: OG656, R, 3042A; X 3042a"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

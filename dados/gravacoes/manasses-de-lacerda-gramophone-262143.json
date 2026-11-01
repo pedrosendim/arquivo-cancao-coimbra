@@ -1,0 +1,88 @@
+{
+  "id": "manasses-de-lacerda-gramophone-262143",
+  "titulo": "Fado Lisboa",
+  "formato": "78rpm",
+  "editora": "Gramophone (Disque Pour Gramophone)",
+  "referencia": "262143",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Lisboa",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-gramophone-262143-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Lisboa», por Manassés de Lacerda — etiqueta: «Fado Lisboa  / escripto pelo Sr.Luiz da Silva Andermath / com variações de flauta  / cantado pelo tenor Lacerda, Lisboa.»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1759/manasses_de_lacerda_fado_lisboa",
+          "doc": "museu-do-fado:wc4082b28ea5513d5",
+          "citacao": "Título: Fado Lisboa ... Editora: Gra.262143  Referências: Disque Pour Gramophone 17683u, 262143_; 262143 ... Etiqueta: Fado Lisboa  / escripto pelo Sr.Luiz da Silva Andermath / com variações de flauta  / cantado pelo tenor Lacerda, Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Arquivo Sonoro do Museu do Fado atribui o registo a Manassés de Lacerda; a etiqueta diz «tenor Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1759/manasses_de_lacerda_fado_lisboa",
+          "doc": "museu-do-fado:wc4082b28ea5513d5",
+          "citacao": "Intérprete: Manassés de Lacerda ... Etiqueta: Fado Lisboa  / escripto pelo Sr.Luiz da Silva Andermath / com variações de flauta  / cantado pelo tenor Lacerda, Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o blogue, os discos do «tenor Lacerda» com repertório de Manassés (sobretudo de 1913) são de outro cantor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Na época, e principalmente em 1913, foram colocados no mercado discos gravados por um \"tenor Lacerda\", com repertório Manassés. Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1759/manasses_de_lacerda_fado_lisboa",
+      "doc": "museu-do-fado:wc4082b28ea5513d5",
+      "citacao": "Título: Fado Lisboa ... Editora: Gra.262143  Referências: Disque Pour Gramophone 17683u, 262143_; 262143"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "estudantina-universitaria-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Estudantina Universitária de Coimbra",
+  "nomes_alternativos": [
+    "Estudantina",
+    "EUC",
+    "Estudantina da Universidade de Coimbra"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+      "doc": "arquivo-pt:w0f05a352985d3c16",
+      "citacao": "Corria o ano de 1984 quando a quinze iluminados, ocorreu a \"lembradura\" de recuperar o espírito e a postura da velha \"Estundantina Académica de Coimbra\", nascida nesta Academia lá pelos finais do século XIX (1888)."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+      "doc": "arquivo-pt:w0f05a352985d3c16",
+      "citacao": "Este grupo foi pioneiro e grande impulsionador daquilo a que hoje se chama vulgarmente o fenómeno das Tunas."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+      "doc": "arquivo-pt:w0f05a352985d3c16",
+      "citacao": "De cariz essencialmente popular na sua fundação, tem vindo, nos últimos anos, a assumir o papel de divulgação do património músical e cultural da Cidade de Coimbra, integrando no seu reportório peças de autores coimbrãos de estilos tão variados como o fado ou peças corais eruditas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "em 1984 quinze estudantes decidem recuperar a «Estudantina Académica de Coimbra» (1888); primeira atuação na Póvoa de Lanhoso, antes do Sarau da Queima das Fitas de 1985",
+      "data": "1984",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+          "doc": "arquivo-pt:w0f05a352985d3c16",
+          "citacao": "Corria o ano de 1984 quando a quinze iluminados, ocorreu a \"lembradura\" de recuperar o espírito e a postura da velha \"Estundantina Académica de Coimbra\", nascida nesta Academia lá pelos finais do século XIX (1888). Foi assim que, uns tempos antes do que viria a ser um grande sucesso no Sarau da Queima das Fitas de 1985, os destemidos \"quinze\", subiram a um palco personificando pela primeira vez em terras de Póvoa do Lanhoso, a Estudantina Universitária de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Site oficial da Secção de Fado (cópia Arquivo.pt, 2005)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "fundada em 1985",
+      "data": "1985",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/infantuna-o-dr.html",
+          "doc": "gc-i:114467657762894617",
+          "citacao": "integrou a Estudantina Universitária de Coimbra (EUC, fundada em 1985)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do site da Secção, que situa a origem em 1984."
+    },
+    {
+      "campo": "outro",
+      "valor": "grupo da Secção de Fado da AAC, nascido no seu seio depois da Orxestra Pitagórica, do Grupo de Cordas e da Orquestra Típica e Rancho",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Assim nasceram, nos dois anos seguintes, a Orxestra Pitagórica, o Grupo de Cordas, a Orquestra Típica e Rancho e mais tarde, a Estudantina."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "organizado pela Estudantina Universitária de Coimbra, grupo pertencente à Secção de Fado da Associação Académica de Coimbra (SF/AAC)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha da Secção: seccao-de-fado-da-aac."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "discos segundo o site da Secção: «Estudantina Passa» (1989), «Canto da Noite» (1992), «Portugal Total» (1998), «V Festuna» e o CD multimédia «VII Festuna - De Capa De Batina»",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+          "doc": "arquivo-pt:w0f05a352985d3c16",
+          "citacao": "Editou três trabalhos discográficos: \"Estudantina Passa\" em 1989; \"Canto da Noite\" em 1992 e \"Portugal Total\" em 1998 e no âmbito dos festivais de Tunas editou o CD \"V Festuna\" e o CD Multimédia \"VII Festuna - De Capa De Batina\""
+        }
+      ],
+      "conflito": true,
+      "nota": "Datas divergentes noutras fontes: ver factos seguintes e as fichas das gravações."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Estudantina Passa» gravado em 1988 e LP «Canto da Noite» em 1991 (post sobre João Paulo Sousa)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/infantuna-o-dr.html",
+          "doc": "gc-i:114467657762894617",
+          "citacao": "Com a EUC, na qualidade de executante de Guitarra de Coimbra, gravou os LPs \"Estudantina Passa\" (1988) e \"Canto da Noite\" (1991)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/infantuna-o-dr.html",
+          "doc": "gc-i:114467657762894617",
+          "citacao": "Em 1988 a Estudantina gravou o seu 1º disco vinil, o LP \"Estudantina Passa\"."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canto da Noite» comercializado em novembro de 1993",
+      "data": "1993-11",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xixele-h.html",
+          "doc": "gc-i:113077878118055952",
+          "citacao": "Tema gravado pela Estudantina Universitária de Coimbra no LP Canto da Noite, comercializado em Novembro de 1993."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "medalha de mérito do Serviço de Estrangeiros e Fronteiras (1990)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+          "doc": "arquivo-pt:w0f05a352985d3c16",
+          "citacao": "A Estudantina foi agraciada em 1990 com a medalha de mérito do Serviço de Estrangeiros e Fronteiras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressões, com destaque para Sevilha (Expo '92), Lisboa (Expo '98), São Tomé e Príncipe (1989) e Itália (1994)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+          "doc": "arquivo-pt:w0f05a352985d3c16",
+          "citacao": "Destacam-se as deslocações a Sevilha, na Expo '92; a Lisboa, na Expo '98; São Tomé e Príncipe em 1989"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "organiza anualmente o FESTUNA – Festival Internacional de Tunas de Coimbra (XXXII edição em 2024)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050621192637/https://seccaodefado.com/modules.php?file=article&name=news&sid=4",
+          "doc": "arquivo-pt:w0f05a352985d3c16",
+          "citacao": "A Estudantina organiza anualmente o FESTUNA - Festival Internacional de Tunas de Coimbra."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2024/05/xxxii-festuna-regressa-para-animar-jardim-da-sereia/",
+          "doc": "jornal-a-cabra:wc235903aefe877aa",
+          "citacao": "Vai decorrer, nos próximos dias 3 e 4 de maio, o XXXII FESTUNA – Festival Internacional de Tunas de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

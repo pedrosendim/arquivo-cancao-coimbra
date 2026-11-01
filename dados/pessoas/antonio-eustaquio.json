@@ -1,0 +1,62 @@
+{
+  "id": "antonio-eustaquio",
+  "tipo": "pessoa",
+  "nome": "António Eustáquio",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista e compositor",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/domingo-junho-19-2005-9.html",
+          "doc": "gc-iii:1043737316722429170",
+          "citacao": "seguido de um concerto pelo guitarrista e compositor António Eustáquio"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Estreou o guitolão em concerto nas ruínas da Ammaia (Marvão), em 2005",
+      "data": "",
+      "local": "Marvão",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+          "doc": "gc-i:112051755876842351",
+          "citacao": "Texto do Diário de Notícias de 20/06/2005, da autoria de Roberto Dores ... Foi o compositor e instrumentista de Portalegre António Eustáquio que estreou a nova sonoridade nacional"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Diário de Notícias de 20/06/2005 (Roberto Dores), reproduzido no post."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Antnio%20Eustquio%20com%20guitolo.jpg",
+      "legenda": "António Eustáquio com o Guitolão, construído por Gilberto Grácio.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/antnio-eustquio-com-o-guitolo.html",
+          "doc": "gc-i:111696316299176852",
+          "citacao": "António Eustáquio com o Guitolão, construído por Gilberto Grácio."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

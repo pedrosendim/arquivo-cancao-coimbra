@@ -1,0 +1,102 @@
+{
+  "id": "grupo-brojo-portugal",
+  "tipo": "grupo",
+  "nome": "Grupo Brojo/Portugal",
+  "nomes_alternativos": [
+    "Grupo Brojo e Portugal",
+    "formação de António Brojo/António Portugal"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+      "doc": "gc-i:114448817903250166",
+      "citacao": "Filmagens no Penedo da Saudade para o programa televisivo da RTP coordenado por José Mesquita: \"Canção de Coimbra. Anos 80 (1989)\"."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+      "doc": "gc-i:115680851220862521",
+      "citacao": "Espectáculo comemorativo dos \"40 Anos de Cantares e Guitarra de Coimbra\", realizado pela formação de António Brojo/António Portugal no Centro Cultural de Belém."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "filmagens no Penedo da Saudade para o programa da RTP «Canção de Coimbra. Anos 80 (1989)»",
+      "data": "1989",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "Filmagens no Penedo da Saudade para o programa televisivo da RTP coordenado por José Mesquita: \"Canção de Coimbra. Anos 80 (1989)\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo «40 Anos de Cantares e Guitarra de Coimbra» no Centro Cultural de Belém",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Espectáculo comemorativo dos \"40 Anos de Cantares e Guitarra de Coimbra\", realizado pela formação de António Brojo/António Portugal no Centro Cultural de Belém."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "integraram o espetáculo do CCB, sem aparecer na fotografia, Luiz Goes, António Bernardino e Vitorino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Integraram o espectáculo, mas não aparecem na imagem, Luiz Goes, António Bernardino e Vitorino."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Grupo%20Brojo%20e%20Portugal.jpg",
+      "legenda": "Grupo Brojo e Portugal no espetáculo «40 Anos de Cantares e Guitarra de Coimbra», Centro Cultural de Belém: Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filipe (v). Fotografia cedida por Augusto Camacho Vieira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Grupo%20Brojo.jpg",
+      "legenda": "Grupo Brojo/Portugal nas filmagens no Penedo da Saudade para o programa da RTP «Canção de Coimbra. Anos 80 (1989)»: António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

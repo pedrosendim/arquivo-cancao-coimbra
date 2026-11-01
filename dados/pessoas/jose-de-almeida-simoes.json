@@ -1,0 +1,50 @@
+{
+  "id": "jose-de-almeida-simoes",
+  "tipo": "pessoa",
+  "nome": "José de Almeida Simões",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "24 de dezembro de 1924, freguesia da Sé Nova, Coimbra",
+      "data": "1924-12-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "criou sete filhos: ... José de Almeida Simões, nascido a 24 de Dezembro de 1924"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "naturais da freguesia da Sé Nova, Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "raul-simoes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "criou sete filhos: ... José de Almeida Simões, nascido a 24 de Dezembro de 1924"
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe. Biografia de Raul Simões elaborada por Dulce Simões, reproduzida no blogue."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,1384 @@
+{
+  "id": "artur-paredes",
+  "tipo": "pessoa",
+  "nome": "Artur Paredes",
+  "nomes_alternativos": [
+    "Arthur Paredes",
+    "Mestre Paredes"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+      "doc": "gc-v:8370485658185134350",
+      "citacao": "ARTUR PAREDES, nasceu em Coimbra, na freguesia de Santa Cruz, a 10 de Maio de 1899. Faleceu em Lisboa, na freguesia dos Anjos, a 20 de Dezembro de 1980. Estudou em Coimbra, no Colégio Mondego, sito no Pátio da Inquisição, onde tirou o Curso Comercial. Foi ajudante de notário em Coimbra, de 1919 a 1922, ficou isento do serviço militar, entrou no Banco Nacional Ultramarino em Coimbra, a 11 de Março de 1922."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+      "doc": "gc-ii:6771089723538402965",
+      "citacao": "A partir de 1920, e de todas as vezes que a sua presença se fazia sentir nos palcos e estúdios, tornou-se inevitável a discussão entre os adeptos do estilo antigo e do estilo parediano."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+      "doc": "gc-i:112586632108463577",
+      "citacao": "Em Agosto e Setembro de 1925 (já lá vão 78 anos), Artur Paredes deslocou-se ao Brasil, como “artista adjunto” da Tuna Académica."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+      "doc": "gc-i:116670166713658993",
+      "citacao": "As gravações realizadas por Paredes em finais da década de 1920 suscitaram enorme polémica nos meios locais. Dizia-se que não respeitava a tradição, pois as gravações feitas com Bettencourt em nada se assemelhavam às concretizadas por António Menano/Flávio Rodrigues."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+      "doc": "gc-v:8370485658185134350",
+      "citacao": "Artur Paredes pede transferência para Lisboa e o casal muda-se em 1934."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "a década de 1940 alimentou dois programas radiofónicos de grande audiência: os concertos instrumentais do grupo Artur Paredes/Carlos Paredes/Arménio Silva, transmitidos em directo, mensalmente, todas as segundas feiras, pela Emissora Nacional"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+      "doc": "gc-i:116670166713658993",
+      "citacao": "Retirado dos palcos desde ca. 1960, Artur Paredes viveu os últimos anos em crescente isolamento. Vieram o esfriamento de relações com o filho Carlos, a morte da filha, a morte dos velhos amigos Bettencourt, Paradela e Armando Goes, a viuvez e os padecimentos do aparelho urinário."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+      "doc": "gc-iii:3244743850831171644",
+      "citacao": "É o grande responsável pela afirmação de uma guitarra solista, ao lado de uma nova guitarra de acompanhamento da Canção de Coimbra, fruto das grandes inovações práticas, como executante, e de construção, como ideólogo, que trouxe à Guitarra de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, freguesia de Santa Cruz, 10 de maio de 1899",
+      "data": "1899-05-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "ARTUR PAREDES, nasceu em Coimbra, na freguesia de Santa Cruz, a 10 de Maio de 1899."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+          "doc": "gc-iii:3244743850831171644",
+          "citacao": "Artur Paredes nasceu em Coimbra, freguesia de Santa Cruz, em 10 de Maio de 1899"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/artur-paredes.html",
+          "doc": "gc-i:114722494398025416",
+          "citacao": "Faz hoje 107 anos que nasceu Artur Paredes (10-5-1899)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Artur Paredes nasceu em Coimbra, a 10 de Maio de 1899 (no mesmo ano que Edmundo de Bettencourt)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Coimbra",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Natural de Coimbra, Artur Paredes nasceu em 1899, filho de Gonçalo Paredes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "ARTUR PAREDES, nasceu em Coimbra, na freguesia de Santa Cruz"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão das biografias. Ver o facto seguinte: em 2006 o blogue regista dúvidas levantadas nos anos 1990 sobre o local de nascimento."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Dúvidas sobre o local de nascimento levantadas na década de 1990; dados ligariam membros da família Paredes a Ançã",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Relativamente ao local de nascimento, levantaram-se dúvidas na década de 1990. Julgo que o Dr. Carlos Serra, na fase em que esteve mais ligado ao Museu Académico, chegou a devassar registos paroquiais e terá mesmo arrimado à posse de dados que ligariam membros da família Paredes a Ançã."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de António Manuel Nunes (2006). A fonte não conclui; só regista a dúvida."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, freguesia dos Anjos (no hospital), 20 de dezembro de 1980, com 81 anos",
+      "data": "1980-12-20",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Faleceu em Lisboa, na freguesia dos Anjos, a 20 de Dezembro de 1980."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Artur Paredes faleceu no hospital, na freguesia dos Anjos, em Lisboa, a 20 de Dezembro de 1980."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/bloco-de-notas-14-1980.html",
+          "doc": "gc-i:111842502137998269",
+          "citacao": "A última vez que fui ver Artur Paredes ao hospital, encontrei a cama vazia. Era o dia 20 de Dezembro."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+          "doc": "gc-iii:3244743850831171644",
+          "citacao": "faleceu em Lisboa com 81 anos de idade"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado no cemitério do Alto de S. João, em Lisboa, no dia 22 (dois dias depois da morte, a 20 de dezembro), às 15h30",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/bloco-de-notas-14-1980.html",
+          "doc": "gc-i:111842502137998269",
+          "citacao": "1980 ... Era o dia 20 de Dezembro. ... O corpo de Artur Paredes foi sepultado no cemitério do Alto de S. João, em Lisboa, no dia 22 às 15h e 30min."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bloco de notas de Octávio Sérgio, entrada de 1980."
+    },
+    {
+      "campo": "outro",
+      "valor": "Abalado pela morte da esposa e da filha nos últimos anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/bloco-de-notas-14-1980.html",
+          "doc": "gc-i:111842502137998269",
+          "citacao": "os desgostos com a morte da esposa e da filha, abalaram-no profundamente"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Colégio Mondego (Pátio da Inquisição, Coimbra), Curso Comercial",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Estudou em Coimbra, no Colégio Mondego, sito no Pátio da Inquisição, onde tirou o Curso Comercial."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Passados poucos anos a criança ingressa no Colégio Mondego, desaparecido há muitas décadas, sito no Pátio da Inquisição, onde realiza os estudos primários e secundários. Ali termina o curso de contabilista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Nunca frequentou a Universidade de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/artur-paredes.html",
+          "doc": "gc-i:114722494398025416",
+          "citacao": "apesar de nunca ter frequentado a Universidade de Coimbra, foi mais académico do que muitos que por ela passaram"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Nunca estudou na Universidade e ganhou a sua vida como funcionário de um banco na cidade do Mondego (Banco Nacional Ultramarino)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Ajudante de notário em Coimbra, 1919-1922",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Foi ajudante de notário em Coimbra, de 1919 a 1922"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Empregado bancário: entrou no Banco Nacional Ultramarino em Coimbra a 11 de março de 1922",
+      "data": "1922-03-11",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "entrou no Banco Nacional Ultramarino em Coimbra, a 11 de Março de 1922"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "De sua profissão “empregado bancário”, Artur Paredes participou em muitos saraus da Tuna e do Orfeon, até ir residir para Lisboa, em 1934."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou em Bragança, a 23 de agosto de 1924, com Alice Duarte Candeias, estudante de Coimbra, natural de Ribeira de Frades",
+      "data": "1924-08-23",
+      "local": "Bragança",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Casou em Bragança, a 23 de Agosto de 1924 com a estudante de Coimbra, Alice Duarte Candeias, natural de Ribeira de Frades."
+        }
+      ],
+      "conflito": true,
+      "nota": "Nome da mulher segundo Manuel Marques Inácio (2014). Ver a outra versão do nome no facto seguinte."
+    },
+    {
+      "campo": "outro",
+      "valor": "Mulher: Alice Candeias Duarte Rosa[s], professora liceal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "e de Alice Candeias Duarte Rosas[2], professora liceal"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "[2] Rosa."
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia de Carlos Paredes (texto de 'A Nossa Rádio', 2007, anotado por M. Marques Inácio em 2013); a nota [2] corrige 'Rosas' para 'Rosa'. Grafia diferente da do facto anterior."
+    },
+    {
+      "campo": "outro",
+      "valor": "Dois filhos: Carlos Paredes (n. 1925) e Maria Helena",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "O casal vem a ter dois filhos, Carlos Paredes nascido em 1925 e mais tarde uma rapariga, de nome Maria Helena."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo o próprio, o pai suicidou-se quando ele tinha dezasseis anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-3-1979_111137772921198240.html",
+          "doc": "gc-i:111137772921198240",
+          "citacao": "Artur Paredes disse que saiu de Coimbra aos trinta e quatro anos e que seu pai se suicidou quando tinha dezasseis."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bloco de notas de Octávio Sérgio, 1979."
+    },
+    {
+      "campo": "outro",
+      "valor": "Os pais faleceram quando era ainda muito novo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Seus pais faleceram quando era ainda muito novo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de José Niza (Um Século de Fado - Fado de Coimbra II, Ediclube, 1999), transcrito no post."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Transferido para Lisboa (Banco Nacional Ultramarino) em 1934",
+      "data": "1934",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Artur Paredes pede transferência para Lisboa e o casal muda-se em 1934."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "até ter sido transferido para Lisboa, em 1934"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Artur Paredes viveu em Coimbra até 1934, altura em que, sendo funcionário do Banco Nacional Ultramarino, pediu e obteve transferência para Lisboa"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "O guitarrista Artur Paredes (1899-1980), empregado do Banco Nacional Ultramarino transferiu-se para Lisboa em Fevereiro de 1934."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Muito menos estão esclarecidos os motivos extra-profissionais que levaram Artur Paredes a fixar-se em Lisboa no Inverno de 1934"
+        }
+      ],
+      "conflito": true,
+      "nota": "A cronologia de 2006 (D24) precisa 'Fevereiro de 1934'; A. M. Nunes (2006) diz 'Inverno de 1934'."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Saiu de Coimbra em 1933, aos 34 anos (cálculo do autor do bloco de notas)",
+      "data": "1933",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-3-1979_111137772921198240.html",
+          "doc": "gc-i:111137772921198240",
+          "citacao": "Como fez em dez de Maio 80 anos, nasceu em 1899, saiu de Coimbra em 1933 e o pai, Gonçalo Paredes, morreu em 1915."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ano calculado por Octávio Sérgio a partir do que Artur Paredes lhe disse em 1979 ('saiu de Coimbra aos trinta e quatro anos')."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viagem ao Brasil (agosto-setembro de 1925) como 'artista adjunto' da Tuna Académica",
+      "data": "1925-08",
+      "local": "Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Em Agosto e Setembro de 1925 (já lá vão 78 anos), Artur Paredes deslocou-se ao Brasil, como “artista adjunto” da Tuna Académica."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/coimbra-no-brasil-para-motivo-de-capa.html",
+          "doc": "gc-i:115584622011264983",
+          "citacao": "A formação que complementou os saraus da TAUC no Brasil tinha a seguinte constituição: == -Paulo de Sá e Artur Paredes (gg)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuações em Espanha, França e Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Fez actuações em Espanha, França e Brasil"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Com eles gravou discos, com eles percorreu Portugal, Espanha, Brasil e França."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Saraus da TAUC em Viseu e Lamego no início de 1934, com Afonso de Sousa e Guilherme Barbosa; em março de 1934, sarau do Orfeon no Coliseu dos Recreios de Lisboa",
+      "data": "1934",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "No início desse ano actuou em Viseu e Lamego, nos saraus da TAUC, ao lado de Afonso de Sousa e Guilherme Barbosa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Março, Artur Paredes voltou a actuar num sarau promovido pelo Orfeon no Coliseu dos Recreios de Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Quinzena dos Estudantes de Coimbra em Lisboa (março de 1939), sarau na Casa das Beiras",
+      "data": "1939-03",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Março de 1939 decorreu em Lisboa a Quinzena dos Estudantes de Coimbra, tendo actuado no sarau dado na Casa das Beiras os instrumentistas Artur Paredes, Carlos Paredes, Afonso de Sousa, António Marques da Costa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "65.º aniversário do Orfeon Académico (maio de 1945): concerto no Teatro Avenida e serenata na Sé Velha",
+      "data": "1945-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 22 de Maio o Orfeon festejou o seu 65º aniversário com um sarau de gala no Avenida. Artur Paredes, Carlos Paredes, Afonso de Sousa e Arménio Silva brindaram o público com um concerto notável."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Serenata comemorativa do 65.º aniversário do Orfeon Académico de Coimbra, pórtico da Sé Velha, maio de 1945"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Concertos instrumentais na Emissora Nacional com Carlos Paredes (2.ª guitarra) e Arménio Silva (viola), na década de 1940",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "os concertos instrumentais do grupo Artur Paredes/Carlos Paredes/Arménio Silva, transmitidos em directo, mensalmente, todas as segundas feiras, pela Emissora Nacional"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Terá a antiga Emissora Nacional guardado registos gravados (bobines de fita de aço) dos concertos dados entre a década de 1940 e inícios dos anos 50 pelo trio Artur Paredes/Carlos Paredes/Arménio Silva? A resposta infelizmente é negativa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Título do programa da Emissora Nacional: «Guitarradas de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "programas dos anos 40 na EN, 1.º programa («Guitarradas de Coimbra», com Artur Paredes / Carlos Paredes [gg.] / Arménio Silva [v.])"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "O programa chamava-se “Guitarradas de Coimbra”, e onde pontuavam , o pai Artur Paredes e o filho Carlos, nas guitarras, e Arménio Silva, na viola."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Título do programa da Emissora Nacional: «Guitarradas por Artur Paredes»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/as-maos-e-o-legado-de-um-dos-patriarcas.html",
+          "doc": "gc-v:9016741695644576319",
+          "citacao": "num dos programas da Emissora Nacional intitulado \"Guitarradas por Artur Paredes\""
+        }
+      ],
+      "conflito": true,
+      "nota": "Título tirado do vídeo publicado no YouTube em 2015 (rubrica 'Emissora Nacional' de Miguel Ângelo Catarino Vaquinhas)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Retirado dos palcos desde c. 1960",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Retirado dos palcos desde ca. 1960, Artur Paredes viveu os últimos anos em crescente isolamento."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Sessões semanais de guitarra em sua casa, em Lisboa, em 1979, com Octávio Sérgio e Carlos Figueiredo; peças inéditas (Variações em Sol maior)",
+      "data": "1979",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-3-1979_111137772921198240.html",
+          "doc": "gc-i:111137772921198240",
+          "citacao": "1979 ... Fui hoje a casa de Artur Paredes para a sessão semanal de guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-3-1979_111137772921198240.html",
+          "doc": "gc-i:111137772921198240",
+          "citacao": "Artur Paredes está a gostar bastante de tocar o Sol maior, agora com acompanhamento."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/faz-hoje-108-anos-que-nasceu-artur.html",
+          "doc": "gc-i:1930296243697164496",
+          "citacao": "Tive o grato prazer de com ele conviver nos últimos anos da sua vida, conjuntamente com Carlos Figueiredo na viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Espólio de gravações em fita magnética e inéditos desaparecidos após a morte",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/faz-hoje-108-anos-que-nasceu-artur.html",
+          "doc": "gc-i:1930296243697164496",
+          "citacao": "Sem se saber como, uma grande parte da sua produção desapareceu pois, segundo sei, tinha muita coisa nova gravada em fita magnética."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Contava Afonso de Sousa que Artur Paredes tinha na sua casa de Lisboa um compartimento reservado com diversas guitarras, bobines, unhas postiças, gravadores e discos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Transformou a guitarra de Coimbra: alargou a escala, elevou o nível da pontuação, aumentou a altura das ilhargas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "E assim cuidou da modificação anatómica do instrumento, alargando-lhe a escala, elevando o nível de pontuação, aumentando a altura das ilhargas, no objectivo de uma maior pureza de notas, isoladas ou em associação, e duma necessária ampliação do campo de ressonância. E tais resultados obteve que o tipo de guitarras que todos usamos é o de sua inteira responsabilidade."
+        }
+      ],
+      "conflito": false,
+      "nota": "Palavras de Afonso de Sousa (O Canto e a Guitarra na Década de Oiro da Academia de Coimbra, 2.ª ed., 1986), transcritas no post."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Transformação da guitarra feita em colaboração com o guitarreiro Joaquim Grácio (1.ª fase) e João Pedro Grácio Júnior (2.ª fase); vigamento da caixa com três barras",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Foi Artur Paredes quem, em estreita colaboração, numa primeira fase com o guitarreiro Joaquim Grácio, e numa segunda fase com o notável guitarreiro João Pedro Grácio Junior, introduziu várias transformações na morfologia da construção da Guitarra Toeira de Coimbra: alargou e abaulou a escala, reformou a voluta, elevou o nível da pontuação e aumentou a altura das ilhargas, introduziu o vigamento da caixa com três barras"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "ele deu à guitarra coimbrã novas sonoridades, através de uma investigação persistente e sistemática, apoiada por uma outra geração de grandes artistas da construção de guitarras, a família Grácio."
+        }
+      ],
+      "conflito": true,
+      "nota": "As fontes divergem sobre quem colaborou com Artur Paredes na reforma do instrumento e com que peso: ver os dois factos seguintes."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Antes de João Pedro Grácio, os passos decisivos da reforma foram dados por Artur Paredes, Guilherme Barbosa e Joaquim Grácio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Quanto à transformação do instrumento, o processo reformador tem de ser imputado a Artur Paredes, tomando como alfa a antiga Guitarra de Coimbra e não a Guitarra de Lisboa. Antes de João Pedro Grácio ter feito a sua entrada no processo, os passos decisivos foram dados por Artur Paredes, Guilherme Barbosa e Joaquim Grácio."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Trabalho pioneiro com o violeiro Raul Simões na criação da guitarra de Coimbra de concerto (contra o discurso que dá o protagonismo à família Grácio)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "Preparou com o auxílio de mestres guitarreiros conhecidos, desde Raúl Simões, à família Grácio a génese e depois a realização prática ao longo de anos de experiência, de uma nova guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "Obstando o discurso consensual que atribui à família Grácio o protagonismo na história da guitarra de Coimbra de concerto, persiste na memória familiar uma duradoura relação de trabalho entre Raul Simões e Artur Paredes."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "A guitarra das gravações de 1927 (Museu Académico): fabricada na década de 1920, possivelmente por Raul Simões; restaurada por Joaquim Grácio em 1931; oferecida ao Museu Académico em 1960",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "trata-se de uma Guitarra Toeira de Coimbra fabricada na década de 1920, possivelmente por Raul Simões"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "foi com esta guitarra que Artur Paredes gravou as suas famosas variações, canções e rapsódias em 1927"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "por iniciativa de Afonso de Sousa, Artur Paredes ofertou esta guitarra ao Museu Académico em 1960"
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 sobre Raul Simões (D26) afirma sem reservas: 'Foi com a guitarra toeira de Coimbra fabricada na década de 1920 por Raul Simões, que Artur Paredes gravou'. Ver também o facto seguinte."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "A guitarra com que gravou a «Balada de Coimbra» era a que herdara do pai, oferecida ao Museu da Associação Académica",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Não lhe satisfazia a configuração e volume da que herdara de seu pai, aquela com que gravou a já célebre “Balada de Coimbra”, de Mestre Eliseu – guitarra que, por sugestão minha, pronta e gostosamente a ofereceu ao Museu da Associação Académica"
+        }
+      ],
+      "conflito": true,
+      "nota": "Palavras de Afonso de Sousa (1986). Diverge do facto anterior: uma guitarra fabricada na década de 1920 não pode ter sido herdada do pai, falecido em 1915 (segundo D8)."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Com Carlos Paredes, começa a usar com regularidade o novo modelo de guitarra de Coimbra (1940)",
+      "data": "1940",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1940 ... Artur Paredes e Carlos Paredes começam a usar com regularidade o novo modelo de guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "afinacao",
+      "valor": "Novo sistema de afinação e nova digitação ('movimentação digital no sentido da lateralidade'), rompendo com a afinação natural",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Artur Paredes revolucionou também a dedilhação, servindo-se de um novo sistema de afinação e criando uma nova forma de digitação"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "Artur Paredes revelar-se-ia o primeiro executante conimbricense de guitarra a romper com o ciclo vicioso da afinação natural"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Introdução de uma 2.ª guitarra de Coimbra no acompanhamento do solista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "A Artur Paredes se deve também a inovação do emprego de uma 2ª Guitarra de Coimbra no acompanhamento do solista."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto seguinte: outra fonte partilha o mérito com Albano de Noronha."
+    },
+    {
+      "campo": "outro",
+      "valor": "Regularização, desde 1926, de um segundo guitarra nos grupos de Artur Paredes e de Félix Albano de Noronha (no grupo de Paredes: Noronha, depois Afonso de Sousa, por fim Felisberto Passos)",
+      "data": "1926",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Deve-se aos solistas Artur Paredes e Felix Albano de Noronha a regularização de um segundo guitarra nos seus grupos desde 1926. No grupo de Artur Paredes, primeiro Noronha, depois Afonso de Sousa, finalmente Felisberto Passos."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fez escola: influência em António Brojo, António Portugal e Jorge Tuna",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "constituiram uma extraordinária mais valia, que aliás fez escola em guitarristas que lhe sucederam, como foi o caso de António Brojo, António Portugal e Jorge Tuna, para já não referir seu filho, Carlos Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de José Niza. Não se criaram relações 'influenciado_por': guardam-se na ficha de cada guitarrista influenciado (ver relatório)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Alcunha «o Doutor», dada desdenhosamente pelos futricas pela sua ligação à Academia",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Daí a alcunha o “Doutor”, atribuída desdenhosamente pelos futricas a Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Convicções comunistas e republicanas; antifascista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "não obstante ser um homem de convicções comunistas e republicanas"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Artur Paredes e Edmundo Bettencourt, assumidamente antifascistas, simpatizantes dos ideários republicano e comunista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Processo judicial sobre a autoria da «Balada de Coimbra», decidido a favor dos filhos de José Eliseu: Artur Paredes autor dos arranjos para guitarra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Confrontado com um processo judicial, decidido a favor dos filhos de José Eliseu, Artur Paredes confirmou aquilo que sempre reclamara: era autor não da música original mas dos arranjos para guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor: «Variações em Ré menor [n.º 1]», composta entre 1920 e 1922",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "Composição instrumental urdida entre 1920-1922 por Artur Paredes, sendo também do citado autor a correlativa harmonização."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compôs em 1923 a 2.ª parte da «Valsa de Outros Tempos» (1.ª parte de Gonçalo Paredes), em homenagem à noiva",
+      "data": "1923",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "A 1ª parte desta valsa é da autoria de Gonçalo Paredes, pai de Artur Paredes, valsa que foi completada por seu filho Artur Paredes quando em 1923 pretendeu homenagear a sua noiva e futura esposa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações para a His Master's Voice em Lisboa, 18 a 20 de maio de 1927, com Afonso de Sousa (2.ª guitarra) e Guilherme Barbosa (violão)",
+      "data": "1927-05",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão). A.1 - Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "a obra fonográfica de juventude de Artur Paredes, gravada em Maio de 1927, continua por resgatar"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações para a His Master's Voice em Lisboa, 21 e 22 de outubro de 1928 (disco E.Q. 148)",
+      "data": "1928-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "A.2 - Gravações realizadas em Lisboa, 21 e 22 de outubro de 1928 Disco His Master’s Voice, E.Q. 148"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Provas gravadas e não editadas: Marcha Brilhante, Variações em Lá Maior, Variações em Ré Maior, Valsa Triste (Berger)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "MARCHA BRILHANTE (guitarrada), música de Artur Paredes, arranjo de Artur Paredes. Gravado em Lisboa a 21.10.1928. Gravadas duas chapas de provas, não tendo sido nenhuma delas editada."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "VARIAÇÕES EM LÁ MAIOR (guitarrada), música de Artur Paredes, arranjo de Artur Paredes. Gravado em Lisboa a 22.10.1928. Gravadas duas chapas de provas, não editadas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "VARIAÇÕES EM RÉ MAIOR (guitarrada), música e arranjo de Artur Paredes. Gravadas três provas que não foram editadas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "VALSA TRISTE (guitarrada), música de Rodolphe Berger, arranjo de Artur Paredes. Gravadas duas chapas de provas, nenhuma delas editada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Edições com etiqueta Victor circuladas nos Estados Unidos em 1928",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Houve também edições com etiqueta Victor que foram circuladas nos Estados Unidos em 1928."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarrista solista e autor dos arranjos nas gravações de Edmundo Bettencourt para a Columbia (Porto, fevereiro de 1928; Lisboa, dezembro de 1929 e janeiro de 1930)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Participação como guitarrista solista e autor dos arranjos nos registos de Edmundo Bettencourt"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Gravações realizadas no Porto em fevereiro de 1928"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Gravações realizadas em Lisboa em 4, 5 e 6.12.1929 e 15.01.1930"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EPs para a Alvorada gravados em 1957 (com Carlos Paredes e Arménio Silva), retirados do mercado e reeditados/regravados em 1961",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html",
+          "doc": "gc-i:116656793633803313",
+          "citacao": "o qual remasteriza 8 temas gravados em 2 EP's de 1957, de certa forma reeditados em 1961 (com Carlos Paredes [g.] / Arménio Silva [v])"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "o mais que se escreve adiante sobre os registos de 1957 e sua substituição parcial pelos de 1961"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Se excluirmos as gravações de 1957 em que acompanha o seu pai[12]"
+        }
+      ],
+      "conflito": true,
+      "nota": "Datação segundo A. L. de Carvalho Homem (2006), A. M. Nunes / J. Anjos de Carvalho (2015) e M. Marques Inácio (2013). Ver o facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Oito guitarradas gravadas para a Alvorada em 1961, acompanhado por Carlos Paredes e Arménio Silva",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Este disco contém oito preciosas guitarradas que Artur Paredes gravou para a etiqueta Alvorada, em 1961, acompanhado por seu filho Carlos Paredes e pela viola de Arménio Silva."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "É uma remasterização dos dois EPs gravados em 1961"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de José Niza (1999) reproduzido no folheto do CD Movieplay de 2003, e legenda de Octávio Sérgio (2005). As fontes posteriores (D13, D21) distinguem registos de 1957 e de 1961."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Não voltou a gravar com cantores na maturidade",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Não voltou a gravar com cantores, mas sabe-se que estava muito próximo das soluções do Novo Canto formuladas na 2ª metade da década de 1960 por Luiz Goes/João Bagão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Lápide evocativa num prédio onde habitou nas Escadas do Quebra Costas (Coimbra), por iniciativa de Afonso de Sousa; mais tarde vandalizada",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "Por iniciativa de Afonso de Sousa, e estando em curso os primeiros seminários sobre o “Fado de Coimbra” descerrou-se uma lápide evocativa num prédio onde habitou nas Escadas do Quebra Costas. Em tempos de radicalismos exaltados, a placa seria vandalizada"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem da Câmara Municipal de Coimbra em dezembro de 2010: rotunda Artur Paredes, colóquio/debate e exposição biodiscográfica",
+      "data": "2010-12",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+          "doc": "gc-iii:3244743850831171644",
+          "citacao": "a Câmara Municipal de Coimbra homenageia Mestre Artur Paredes, com o descerramento de uma placa toponímica, sábado, pelas 11 horas, na confluência da Av. Elísio de Moura com a Rua general Humberto Delgado – rotunda Artur Paredes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "e em Dezembro de 2010, teve na cidade que o viu nascer, uma homenagem, um colóquio debate, uma exposição biodiscográfica e o registo do seu nome na toponímia de Coimbra. Foi inaugurada uma rotunda com o nome de mestre Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Prémio Artur Paredes (Guitarra de Coimbra) da Câmara Municipal de Coimbra, candidaturas em outubro de 2026",
+      "data": "2026-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/10/premio-artur-paredes-da-cmc-2026.html",
+          "doc": "gc-v:8402064814149638611",
+          "citacao": "Divulga-se o «Regulamento Municipal do Prémio Artur Paredes (Guitarra de Coimbra», da Câmara Municipal de Coimbra, em fase de recepção de candidaturas entre os dias 1 e 30 de outubro de 2026."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Três guitarras que lhe pertenceram, construídas pela família Grácio, legadas por Carlos Paredes ao Município de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+          "doc": "gc-iii:3244743850831171644",
+          "citacao": "três guitarras que lhe pertenceram e que foram legadas por seu filho, Carlos Paredes, ao Município de Coimbra"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "O legado de Carlos Paredes é constituído por três guitarras de Coimbra, todas elas construídas para Artur Paredes (pai e mestre de Carlos Paredes) por diferentes gerações de uma ilustre família de construtores de guitarras, a família Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": "As guitarras em si ficam para a ficha de instrumentos (outro agente)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "goncalo-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "pai do grande mestre da guitarra de Coimbra, Artur Paredes"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Natural de Coimbra, Artur Paredes nasceu em 1899, filho de Gonçalo Paredes, um dos maiores guitarrista de Coimbra do seu tempo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Seu pai – Gonçalo Rodrigues Paredes"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "manuel-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Seu pai – Gonçalo Rodrigues Paredes, que se formou na Universidade em 1912, e seu tio, Manuel Paredes – foram seus antecessores na difícil arte de tocar guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html",
+          "doc": "gc-i:116670166713658993",
+          "citacao": "nem o pesado corte de relações com o ramo familiar de Coimbra, polarizado por seu tio, o guitarrista Manuel Rodrigues Paredes."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "goncalo-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "No que respeita à formação musical e segundo depoimentos de seu neto Carlos Paredes, seu avô terá aprendido a tocar com seu bisavô António Paredes, e por sua vez terá ensinado seu filho Artur."
+        }
+      ],
+      "nota": "A fonte usa o condicional ('terá ensinado') e baseia-se em depoimentos de Carlos Paredes. A rever pelo editor."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "O fado Menina e Moça foi gravado pela primeira vez no Porto, em 1928, por Edmundo Bettencourt, acompanhado à guitarra por Artur Paredes e Albano de Noronha"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Sobretudo com Edmundo de Bettencourt (que, segundo Luiz Goes, Paredes preferia a qualquer dos outros cantores da sua geração) Artur Paredes teve intensa colaboração, aliás registada em discos admiráveis"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Participação como guitarrista solista e autor dos arranjos nos registos de Edmundo Bettencourt"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/o-documentario-armando-goes-acompanhado.html",
+          "doc": "gc-iv:1158496258119568019",
+          "citacao": "O documentário “Armando Goes, acompanhado por Artur Paredes, a cantar o fado \"Asas Brancas” foi realizado por Francisco Ferreira Júnior, em meados de 1930"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "afonso-de-sousa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "o Dr. Afonso de Sousa, contemporâneo de Artur Paredes e também seu 2º guitarra em gravações e espectáculos"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/variaes-em-r-menor-de-artur-paredes.html",
+          "doc": "gc-ii:6771089723538402965",
+          "citacao": "acompanhado por Afonso de Sousa (g) e pelo relojoeiro e tocador de rabeca Guilherme Barbosa (v)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Artur Paredes convidou Afonso de Sousa para a guitarra de acompanhamento."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "uma prática mantida por Artur Paredes/Afonso de Sousa até 1958."
+        }
+      ],
+      "nota": "Afonso de Sousa foi 2.º guitarra de Artur Paredes (gravações HMV de 1927-1928 e espetáculos). A relação mais precisa seria 'acompanhou' na ficha de Afonso de Sousa (ficha de outro agente, não alterada)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-do-ceu-1872",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+        }
+      ],
+      "nota": "A fonte chama-lhe «companheira» de Gonçalo Paredes; o pai casou em 1904 com outra mulher (Maria de Jesus Baptista)."
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "teresa-morgado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe de Gonçalo Paredes, Teresa Morgado, vem a morrer em 1901, tem o seu neto Artur, apenas dois anos de idade."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3WJ9GrMFZ020HXtRcdolW18mbus_SoeWVMaqIZSzu2xUBKbqPE28VY-eLl-K0pTKqj1LIW0erGg4_eNJnLbl0KU44JBzRvlb_XGfFyiegYMKrSePZ7-dsTUknTg_cLMXB2SKa-6nOILpq/s1600/AParedes3.jpg",
+      "legenda": "ARTUR PAREDES (1899 – 1980). Guitarrista, Compositor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
+          "doc": "gc-v:8370485658185134350",
+          "citacao": "ARTUR PAREDES (1899 – 1980). Guitarrista, Compositor"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1024/Artur%20Paredes%203.jpg",
+      "legenda": "Artur Paredes. Foto amavelmente cedida por Rui Cândido.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/artur-paredes.html",
+          "doc": "gc-i:114722494398025416",
+          "citacao": "Foto amavelmente cedida por Rui Cândido."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjht-gFOD_sw0xbBCfQ60YbUh3EAA6V0qdRki4lUl3hRVEZJ3og_QOYA1NzQUURh38W51z6NK_4kGCHYNL22-edy4Df2LIsGsJf5pPlPx4-yuFTWPtcc4rKH6UdJ6_D7V9m_8tv/s1600-h/Artur+Paredes+2A.jpg",
+      "legenda": "Faz hoje 108 anos que nasceu Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/faz-hoje-108-anos-que-nasceu-artur.html",
+          "doc": "gc-i:1930296243697164496",
+          "citacao": "Faz hoje 108 anos que nasceu Artur Paredes"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhplDcfwTJEedjmJuSe1Kx8zZDbnkp2LvMNVuLKIk_pgcWZKIXZP0Ef5eooQMz69Je0NTaWK0sqQzKMV6ca_cFm0krv9UEr9vztl2JeH4a7H_OXu4i9keR_SHnn9hQIdv7B1WvXXh28YQY/s1600/ARTUR+PAREDES.jpg",
+      "legenda": "Mestre Artur Paredes na toponímia da cidade",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/mestre-artur-paredes-na-topon%C3%ADmia-da.html",
+          "doc": "gc-iii:3244743850831171644",
+          "citacao": "Mestre Artur Paredes na toponímia da cidade"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXlKSP-PzRLF6L_5cHMCnmJsM0u7cfSbMjAvQIjJHmDtchi22RC30jTyGP0ts9_Pdd7LXlXO4fmsMyMntt-d1Me7ukzSX94bgDaotAWOZ3ZnYFT-Q2ictElDSaAouo1WsHVnbZXbTQsF67/s1600/Paredes+1945.jpg",
+      "legenda": "Serenata comemorativa do 65.º aniversário do Orfeon Académico de Coimbra, pórtico da Sé Velha, maio de 1945: Artur Paredes de pé, ligeiramente de perfil, com a nova guitarra de concerto; Afonso de Sousa de costas; Arménio Silva com violão; canta Armando do Carmo Goes.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Serenata comemorativa do 65.º aniversário do Orfeon Académico de Coimbra, pórtico da Sé Velha, maio de 1945, naquele que terá sido o derradeiro registo de uma serenata com os figurantes de pé: de pé, ligeiramente de perfil, Artur Paredes, com a nova guitarra de concerto; de pé, inteiramente de costas, com a guitarra de escala de 17 trastos, Afonso de Sousa; de pé, com violão, Arménio Silva; canta Armando do Carmo Goes"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarra%20de%20Artur%20Paredes.2.jpg",
+      "legenda": "Guitarra Toeira de Coimbra que pertenceu a Artur Paredes (imagem: Museu Académico).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-artur-paredes-guitarra.html",
+          "doc": "gc-i:113881386756994797",
+          "citacao": "Guitarra Toeira de Coimbra que pertenceu a Artur Paredes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia (Manuel Marques Inácio, 2014)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html"
+    },
+    {
+      "rotulo": "Contributo para uma discografia de Artur Paredes (2015)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html"
+    },
+    {
+      "rotulo": "Armadilhas e ardis da memória (A. M. Nunes, 2006)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/armadilhas-e-ardis-da-memria-algumas.html"
+    },
+    {
+      "rotulo": "Nótula sobre a discografia dos anos 50 (A. L. de Carvalho Homem, 2006)",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/ntula-sobre-discografia-de-artur.html"
+    },
+    {
+      "rotulo": "Texto de José Niza (CD Movieplay, 2003)",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

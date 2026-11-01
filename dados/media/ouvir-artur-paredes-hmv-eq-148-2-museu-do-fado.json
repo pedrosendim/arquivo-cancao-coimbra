@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-eq-148-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0688_31.mp3",
+  "titulo": "Morena — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "morena-saldanha-junior"
+  ],
+  "gravacao": "artur-paredes-hmv-eq-148",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1369.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1360/artur_paredes_morena",
+      "doc": "museu-do-fado:wde4e657bb84f40ce",
+      "citacao": "Título: Morena ... Editora: HMV EQ148"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

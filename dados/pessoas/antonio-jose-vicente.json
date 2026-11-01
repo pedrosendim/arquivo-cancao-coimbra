@@ -1,0 +1,39 @@
+{
+  "id": "antonio-jose-vicente",
+  "tipo": "pessoa",
+  "nome": "António José Vicente",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os elementos da formação Toada Coimbrã encontraram-se na Secção de Fado da AAC."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os dois guitarristas fizeram a sua formação inicial com Fernando Monteiro, tendo posteriormente transitado para as sessões orientadas por Jorge Gomes nas Escolas da Secção de Fado."}], "nota": "Formação nas Escolas da Secção (Fernando Monteiro, depois Jorge Gomes), anos 80."},
+    {"tipo": "membro_de", "alvo": "estudantina-universitaria-de-coimbra", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "O guitarrista António Vicente tocava viola, compunha e cantava na Estudantina."}], "nota": "Viola, composição e canto."},
+    {"tipo": "aluno_de", "alvo": "fernando-monteiro", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "Os dois guitarristas fizeram a sua formação inicial com Fernando Monteiro"}], "nota": "Formação inicial (com João Paulo Sousa)."},
+    {"tipo": "aluno_de", "alvo": "jorge-gomes", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html", "doc": "gc-i:113753146107609373", "citacao": "tendo posteriormente transitado para as sessões orientadas por Jorge Gomes nas Escolas da Secção de Fado"}], "nota": "Sessões nas Escolas da Secção."},
+    {
+      "tipo": "membro_de",
+      "alvo": "toada-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/grupo-toada-coimbr-ontem-na-galeria.html",
+          "doc": "gc-i:4090017470650284611",
+          "citacao": "Este grupo é constituído por António José Vicente e João Paulo Sousa (gg); João Carlos Oliveira e Jorge Mira Marques (vv); Rui Pedro Lucas e Alcides Sá Esteves no canto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/noites-da-cano-de-coimbra.html",
+          "doc": "gc-i:111853057304618429",
+          "citacao": "Actuou o grupo, \"Toada Coimbrã\". Na foto, João Carlos Oliveira, António José Vicente, joão Paulo Sousa e Jorge Mira Marques. A cantar, Alcides de Sá Esteves."
+        }
+      ],
+      "nota": "guitarra"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

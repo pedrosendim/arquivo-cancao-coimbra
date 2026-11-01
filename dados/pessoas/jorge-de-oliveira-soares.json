@@ -1,0 +1,32 @@
+{
+  "id": "jorge-de-oliveira-soares",
+  "tipo": "pessoa",
+  "nome": "Jorge de Oliveira Soares",
+  "nomes_alternativos": [],
+  "papeis": [
+    "poeta"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "publicacao",
+      "valor": "Grande coleção de poemas inéditos (entre eles «Dois Fados»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/paulo-soares-enviou-me-este-poema-de.html",
+          "doc": "gc-i:112292300853399406",
+          "citacao": "Jorge de Oliveira Soares, que faz parte de uma grande colecção de poemas de sua autoria e ainda não publicados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

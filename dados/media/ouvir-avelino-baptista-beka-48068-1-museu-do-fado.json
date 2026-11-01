@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-beka-48068-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1282_43.mp3",
+  "titulo": "A Serenata — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-beka-48068",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2344.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2539/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:w10ef41b1d7f1fbff",
+      "citacao": "Título: A Serenata ... Editora: Beka 48068 48070 Referências: Beka-Grand-Record, 48068; 48068"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

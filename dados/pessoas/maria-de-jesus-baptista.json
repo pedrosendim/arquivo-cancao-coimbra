@@ -1,0 +1,44 @@
+{
+  "id": "maria-de-jesus-baptista",
+  "tipo": "pessoa",
+  "nome": "Maria de Jesus Baptista",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Viúva de João Antunes do Vale quando casou com Gonçalo Paredes (1904)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "com Maria de Jesus Baptista, já viúva de João Antunes do Vale"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "goncalo-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "Gonçalo casa depois a 16 de Janeiro de 1904, na situação de solteiro, com Maria de Jesus Baptista, já viúva de João Antunes do Vale."
+        }
+      ],
+      "nota": "Casamento a 16 de janeiro de 1904. Em 1915 Gonçalo Paredes disparou sobre ela e suicidou-se; ela ficou ferida sem gravidade (mesmo post)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

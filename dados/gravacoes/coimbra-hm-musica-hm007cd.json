@@ -1,0 +1,176 @@
+{
+  "id": "coimbra-hm-musica-hm007cd",
+  "titulo": "Coimbra",
+  "formato": "CD",
+  "editora": "HM Música",
+  "referencia": "hm007cd",
+  "ano": "2008",
+  "local": "Portugal",
+  "interpretes": [
+    {
+      "pessoa": "coimbra-grupo-de-fados",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "joao-farinha-1976",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "ricardo-dias",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "pedro-lopes",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Poema",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Mosaicos",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Adeus",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Dez Reis De Esperança",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Dança",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Porto Santo (Mar Português)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Maria",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Balada Da Lagoa",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Fuga",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Súplica",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Balada Sem Destino",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Sim",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Cântico Da Tormenta",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/9etD8toDboT-plT833hjqEIw2A80dQD3QyPzQIt9KsU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/NTYzLTE3NjEzMTM4/NDItNTI0MC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13155563",
+        "doc": "discogs:wbb9e2397d4f3be60",
+        "citacao": "Imagem (primary): https://i.discogs.com/9etD8toDboT-plT833hjqEIw2A80dQD3QyPzQIt9KsU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/NTYzLTE3NjEzMTM4/NDItNTI0MC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13155563",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "convidados: Luís Oliveira (contrabaixo), Quiné Teles (percussão), Augusto Mesquita e Paulo Figueiredo (piano), Eddy Jam (saxofone, flauta)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Guest [Convidados], Contrabass – Luís Oliveira (2)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Guest [Convidados], Saxophone, Flute – Eddy Jam"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "apresentação no Centro Cultural àCapella a «18 de Fevereiro» (convite publicado em fevereiro de 2008)",
+      "data": "2008-02",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/o-coimbra-grupo-de-fados-vem-por-este.html",
+          "doc": "gc-ii:7487943618955585696",
+          "citacao": "apresentação do novo trabalho discográfico a decorrer no próximo dia 18 de Fevereiro, pelas 18h00, no Centro Cultural àCapella, em Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13155563",
+      "doc": "discogs:wbb9e2397d4f3be60",
+      "citacao": "Editora: HM Música – hm007cd"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/capa-contracapa-e-parte-do-caderno-do.html",
+      "doc": "gc-ii:6915606530316536542",
+      "citacao": "Capa, contracapa e parte do caderno do CD \"Coimbra\", saído há pouco tempo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

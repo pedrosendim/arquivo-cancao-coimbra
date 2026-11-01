@@ -1,0 +1,139 @@
+{
+  "id": "augusto-camacho-vieira-columbia-ml-177",
+  "titulo": "Sonhando / Sé Velha",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "ML 177",
+  "ano": "1953",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "petronio-ricciuli",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "egas-berrance",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "carlos-figueiredo",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Sonhando",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Sé Velha",
+      "obra": "",
+      "media": ["ouvir-augusto-camacho-vieira-columbia-ml-177-2-youtube"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/HEJVs8_1cyflSimNYOBXfHdca4tYAVdu9YfN0kSueq4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzky/MzUtMTQ0MTU0MTA2/NS03NzMxLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7439235",
+        "doc": "discogs:wfffe637ad35b582e",
+        "citacao": "Imagem (primary): https://i.discogs.com/HEJVs8_1cyflSimNYOBXfHdca4tYAVdu9YfN0kSueq4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzky/MzUtMTQ0MTU0MTA2/NS03NzMxLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7439235",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7439235",
+          "doc": "discogs:wfffe637ad35b582e",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7439235",
+          "doc": "discogs:wfffe637ad35b582e",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Maio de 1953; acompanhamento de Petrónio Ricciulli e Egas Berrance Correia de Abreu (guitarras) e Carlos de Figueiredo (violão de cordas de aço)",
+      "data": "1953-05",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/se-velha.html",
+          "doc": "gc-v:3208355360981394791",
+          "citacao": "em maio de 1953, acompanhado à guitarra por Petrónio Ricciulli (1915-2003) e Egas Berrance Correia de Abreu (1926-1997) e em violão de cordas de aço por Carlos de Figueiredo, autor da música: disco de 78 rpm Columbia, ML 177 - CP1090-1, Lisboa, 1953."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Discogs grafa a face B como «Se Velha»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7439235",
+          "doc": "discogs:wfffe637ad35b582e",
+          "citacao": "B Se Velha  [Egas Berrance, Petrónio Ricciulli, Carlos De Figueiredo, Carlos De Figueiredo]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7439235",
+      "doc": "discogs:wfffe637ad35b582e",
+      "citacao": "Editora: Columbia – ML 177"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/11/primeiras-gravacoes-comerciais-de.html",
+      "doc": "gc-v:7736340404091087697",
+      "citacao": "SONHANDO (Os teus lindos olhos negros), refere música e letra de Carlos de Figueiredo, dados que se confirmam. Disco de 78 rpm Columbia ML 177, CP 1089."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/11/primeiras-gravacoes-comerciais-de.html",
+      "doc": "gc-v:7736340404091087697",
+      "citacao": "SÉ VELHA (Adeus Sé Velha, saudosa), refere música e letra de Carlos de Figueiredo. Disco de 78 rpm Columbia ML 177, CP 1090."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

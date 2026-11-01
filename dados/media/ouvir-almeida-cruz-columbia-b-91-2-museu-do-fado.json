@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-91-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0305_12.mp3",
+  "titulo": "Fado Moderno — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-91",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0609.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/605/almeida_cruz_fado_moderno",
+      "doc": "museu-do-fado:w4cfa13cd4a63f38f",
+      "citacao": "Título: Fado Moderno ... Editora: Co. B-91 Referências: 11877-1-3; B91"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

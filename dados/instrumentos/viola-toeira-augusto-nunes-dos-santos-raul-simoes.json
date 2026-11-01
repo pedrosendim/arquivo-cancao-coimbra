@@ -1,0 +1,66 @@
+{
+  "id": "viola-toeira-augusto-nunes-dos-santos-raul-simoes",
+  "designacao": "Viola de arame de Coimbra (toeira) de 3/4, de Augusto Nunes dos Santos, que pertenceu a Raul Simões (Museu Nacional de Etnologia)",
+  "tipo": "viola toeira",
+  "construtor": "augusto-nunes-dos-santos",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "raul-simoes",
+      "periodo": "até 1965",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "uma viola de arame de Coimbra [Toeira] de 3/4, que pertenceu ao mestre de violaria e tocador Raul Simões, vendida pelo mesmo a Ernesto Veiga de Oliveira em 1965, atualmente no acervo do Museu Nacional de Etnologia"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Vendida por Raul Simões a Ernesto Veiga de Oliveira em 1965; acervo do Museu Nacional de Etnologia",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+          "doc": "gc-v:5208580575979322200",
+          "citacao": "vendida pelo mesmo a Ernesto Veiga de Oliveira em 1965, atualmente no acervo do Museu Nacional de Etnologia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Relato de Benjamim Pereira sobre a aquisição, em abril de 1965, da viola toeira de Raul Simões para a coleção",
+      "data": "1965-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/raul-simoes-direito-memoria-luta-contra.html",
+          "doc": "gc-v:7417946459085138620",
+          "citacao": "De passagem por terra de Coimbra, em Abril (1965) tivemos a inesperada sorte de encontrar, finalmente, a viola toeira, o único dos grandes instrumentos que faltava à colecção. O seu possuidor, Raul Simões, antigo construtor e exímio tocador, não se queria desfazer do instrumento, mas acabou por ceder às nossas instâncias."
+        }
+      ],
+      "conflito": false,
+      "nota": "Benjamim Pereira, Instrumentos Musicais Populares Portugueses, p. 31, citado no post de 2014. Este post não identifica o construtor; é o post de 2016 que atribui a viola de Raul Simões a Augusto Nunes dos Santos."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/atualizacao-do-registo-biografico-do.html",
+      "doc": "gc-v:5208580575979322200",
+      "citacao": "Obras sinalizadas:"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

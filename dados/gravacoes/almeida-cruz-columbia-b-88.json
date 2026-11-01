@@ -1,0 +1,148 @@
+{
+  "id": "almeida-cruz-columbia-b-88",
+  "titulo": "Fado Liró / Trigueira",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-88",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Liró",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Trigueira",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Liró», por Almeida Cruz — etiqueta: «Fado Lyró / Fado. N. Milano / Almeida Cruz e Côro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/598/almeida_cruz_fado_liro",
+          "doc": "museu-do-fado:w0c671847f0514a3d",
+          "citacao": "Título: Fado Liró ... Editora: Co. B-88, B-104 Referências: 11841; B88 ... Etiqueta: Fado Lyró / Fado. N. Milano / Almeida Cruz e Côro"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w18933c2c47a48957, museu-do-fado:w9f7e08bfa09abcc6"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Trigueira», por Almeida Cruz — etiqueta: «Trigueira / Canção / (F. Gonzaga) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/2121/almeida_cruz_trigueira",
+          "doc": "museu-do-fado:w007c64ea875fea23",
+          "citacao": "Título: Trigueira ... Editora: Co.B-88 Referências: 11878, 1-7; B88 ... Etiqueta: Trigueira / Canção / (F. Gonzaga) / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "3 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w359e6e9af6e24940, museu-do-fado:wa5c51bf23a0346b9"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Trigueira (fado cancão), Columbia B-88, 11878, música de Chiquinha Gonzaga»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Trigueira (fado cancão), Columbia B-88, 11878, música de Chiquinha Gonzaga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/598/almeida_cruz_fado_liro",
+      "doc": "museu-do-fado:w0c671847f0514a3d",
+      "citacao": "Título: Fado Liró ... Editora: Co. B-88, B-104 Referências: 11841; B88"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2120/almeida_cruz_fado_liro",
+      "doc": "museu-do-fado:w18933c2c47a48957",
+      "citacao": "Título: Fado Liró ... Editora: Co. B-88 Referências: 11841, 1-A-9; B88"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2122/almeida_cruz_fado_liro",
+      "doc": "museu-do-fado:w9f7e08bfa09abcc6",
+      "citacao": "Título: Fado Liró ... Editora: Co. B-88 Referências: 11841-1-2; B88"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Lyro, Columbia B-88 (outro exemplar B-104), 11841, música de Nicolino Milano"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2121/almeida_cruz_trigueira",
+      "doc": "museu-do-fado:w007c64ea875fea23",
+      "citacao": "Título: Trigueira ... Editora: Co.B-88 Referências: 11878, 1-7; B88"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2123/almeida_cruz_trigueira",
+      "doc": "museu-do-fado:w359e6e9af6e24940",
+      "citacao": "Título: Trigueira ... Editora: Co.B-88 Referências: 11878-I-2, 31; B88"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/599/almeida_cruz_trigueira",
+      "doc": "museu-do-fado:wa5c51bf23a0346b9",
+      "citacao": "Título: Trigueira ... Editora: Co.B-88 Referências: 11878; B88"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Trigueira (fado cancão), Columbia B-88, 11878, música de Chiquinha Gonzaga"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "luisa-amaro",
+  "tipo": "pessoa",
+  "nome": "Luísa Amaro",
+  "nomes_alternativos": [
+    "Luísa Maria Amaro"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "instrumento",
+      "valor": "Viola de cordas de nylon no álbum «Espelho de Sons»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Luísa Maria Amaro (viola de cordas de nylon)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tocou com Carlos Paredes nove anos, de 1984 a 1993",
+      "data": "1984",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Luísa Amaro, com quem tocou 9 anos, de 1984 a 1993"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-internado/",
+          "doc": "rtp-arquivos:w0ee815c53587ffdf",
+          "citacao": "Declarações de Luísa Amaro, mulher de Carlos Paredes"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fundacao-oriente-homenageia-carlos-paredes/",
+          "doc": "rtp-arquivos:w955ce6aa46b57b8b",
+          "citacao": "esposa Luísa Amaro a receber o prémio"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Luísa Amaro, sua acompanhadora à viola e companheira na vida (desde 1984)"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/carta-de-manuel-marques-inacio-enviada.html",
+          "doc": "gc-iv:4402297359444601218",
+          "citacao": "Relacionou-se com ele, musicalmente e afectivamente, como por exemplo Luísa Amaro, mas tanto uma como outra, que eu saiba, nunca afirmaram ter casado com o mestre."
+        }
+      ],
+      "nota": "DIVERGÊNCIA: as fichas do RTP Arquivos chamam-lhe «mulher»/«esposa» de Carlos Paredes; o blogue diz «companheira na vida (desde 1984)» e Manuel Marques Inácio afirma que ela nunca disse ter casado com ele."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
+          "doc": "gc-v:7731614956364981809",
+          "citacao": "Luísa Amaro, sua acompanhadora à viola"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

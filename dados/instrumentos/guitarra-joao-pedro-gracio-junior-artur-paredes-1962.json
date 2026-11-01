@@ -1,0 +1,101 @@
+{
+  "id": "guitarra-joao-pedro-gracio-junior-artur-paredes-1962",
+  "designacao": "Guitarra de Coimbra de 1962, de João Pedro Grácio Júnior, construída para Artur Paredes (legado de Carlos Paredes a Coimbra)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "joao-pedro-gracio-junior",
+  "ano": "1962",
+  "proprietarios": [
+    {
+      "pessoa": "artur-paredes",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "O legado de Carlos Paredes é constituído por três guitarras de Coimbra, todas elas construídas para Artur Paredes (pai e mestre de Carlos Paredes) por diferentes gerações de uma ilustre família de construtores de guitarras, a família Grácio."
+        }
+      ],
+      "nota": "Construída para Artur Paredes."
+    },
+    {
+      "pessoa": "carlos-paredes",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "Carlos Paredes, exímio intérprete da guitarra portuguesa, deixou, em testamento, um legado de três das suas guitarras à cidade de Coimbra."
+        }
+      ],
+      "nota": "Legada em testamento à cidade de Coimbra (Museu Municipal)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "A mais antiga das três guitarras do legado; construída em 1962 por João Pedro Grácio Júnior (Agualva-Cacém)",
+      "data": "1962",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "A guitarra mais antiga remonta a 1962 e foi construída por João Pedro Grácio Júnior (Agualva-Cacém)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Legado de Carlos Paredes à cidade de Coimbra; cerimónia de doação a 17 de dezembro no Museu Municipal (Edifício Chiado)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+          "doc": "gc-iii:5513966222208144572",
+          "citacao": "A cerimónia da doação dos instrumentos realiza-se na próxima quinta-feira (dia 17 de Dezembro), às 17h30, no Museu Municipal (Edifício Chiado, à Rua Ferreira Borges)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 15.12.2009 (texto da Vereadora da Cultura)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Legado de novo exposto no Museu Municipal – Edifício Chiado, na exposição «Guitarras de Coimbra» (até 25 de junho de 2011)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/02/o-presidente-da-camara-municipal-de.html",
+          "doc": "gc-iv:2182324355530060171",
+          "citacao": "pelo generoso legado com que honrou a cidade, e que agora é, de novo, exposto no Museu Municipal – Edifício Chiado"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/02/o-presidente-da-camara-municipal-de.html",
+          "doc": "gc-iv:2182324355530060171",
+          "citacao": "A exposição estará patente até ao dia 25 de Junho de 2011."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
+      "doc": "gc-iii:5513966222208144572",
+      "citacao": "A guitarra mais antiga remonta a 1962 e foi construída por João Pedro Grácio Júnior (Agualva-Cacém)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

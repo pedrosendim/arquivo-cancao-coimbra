@@ -1,0 +1,46 @@
+{
+  "id": "francisco-mansilha",
+  "tipo": "pessoa",
+  "nome": "Francisco Mansilha",
+  "nomes_alternativos": [
+    "Dr. Francisco Mansilha"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Remeteu em 2002 ao blogue o texto sobre o tio, Manuel Mansilha",
+      "data": "2002",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "O texto relativo ao antigo guitarrista Manuel Mansilha foi-nos remetido pelo seu sobrinho, Dr. Francisco Mansilha em 2002."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "manuel-mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/um-notvel-guitarrista-acadmico-figura.html",
+          "doc": "gc-i:112619193689518122",
+          "citacao": "remetido pelo seu sobrinho, Dr. Francisco Mansilha"
+        }
+      ],
+      "nota": "DÚVIDA (revisão de genealogias, 29.10.2026): a frase completa é «O texto relativo ao antigo guitarrista Manuel Mansilha foi-nos remetido pelo seu sobrinho, Dr. Francisco Mansilha em 2002» e vem logo a seguir à apresentação do autor da crónica, Octaviano de Sá. O «seu» pode referir-se a Manuel Mansilha ou a Octaviano de Sá; o apelido comum não prova o parentesco. Manter só se o editor confirmar."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

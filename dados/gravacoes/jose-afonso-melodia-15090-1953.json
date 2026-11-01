@@ -1,0 +1,272 @@
+{
+  "id": "jose-afonso-melodia-15090-1953",
+  "titulo": "Contos Velhinhos / Incerteza",
+  "formato": "78rpm",
+  "editora": "Melodia (Rádio Triunfo, Lda.)",
+  "referencia": "15.090",
+  "ano": "1953",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "jose-afonso",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra (1.ª)"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra (2.ª)"
+    },
+    {
+      "pessoa": "aurelio-dos-reis",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "mario-de-castro",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Contos Velhinhos",
+      "obra": "contos-velhinhos",
+      "media": [
+        "afonso-contos-velhinhos-1953",
+        "ouvir-jose-afonso-melodia-15090-1953-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Incerteza",
+      "obra": "incerteza",
+      "media": [
+        "afonso-incerteza-1953",
+        "ouvir-jose-afonso-melodia-15090-1953-2-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCDIcfG-FogIlqv-k-dlLoNNzM7-qYPYVObnL63FA9KCl9pymp3zKdMmhieD2JGfmZzO9sxYZCIn6I5Mm7_Xq6DdHCq0rT5tgzyQHYjnrkW05xb2ypYbx0OGCEHLf_49MzVSwmUOdxhRU/s1600/Jos%25C3%25A9+Afonso+Contos+Velhinhos+15090+FPD+223+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+        "doc": "gc-v:5004651538828386229",
+        "citacao": "Doc. 1: disco Melodia 15.090 e respetivas etiquetas."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "https://www.youtube.com/watch?v=ohR7P5KRbj4",
+    "discogs": "https://www.discogs.com/release/7439165",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Disco Melodia 15.090, 78 rpm, solo vocal de José Afonso: FPD 223 Contos Velhinhos e FPD 224 Incerteza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Disco Melodia 15.090 de 78rpm, solo vocal de José Afonso"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7439165",
+          "doc": "discogs:w23182c894f40b6a0",
+          "citacao": "Editora: Melodia (4) – 15.090"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Arranjos de acompanhamento de Pinho Brojo, omissos na etiqueta",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "trata-se de uma monodia estrófica e não de um “fado canção”. Arranjo de acompanhamento de Pinho Brojo, omisso na etiqueta."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reeditado no EP «Fados de Coimbra 1», Alvorada MEP 60.003 [1957]",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "EP Fados de Coimbra 1. Porto: Alvorada MEP 60.003, s/d. [1957]. Menciona os cantores e os instrumentistas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Instrumentistas: António Brojo (1.ª guitarra), António Portugal (2.ª guitarra), Mário Castro e Aurélio dos Reis (violas); vozes de Fernando Rolim, Luiz Goes e José Afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações de 1952-1953, em Coimbra, com equipamento portátil, numa sala do Paço das Escolas (segundo Fernando Rolim)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Os registos foram efetuados em Coimbra, com equipamentos portáteis. Já se escreveu que o local das gravações foi os estúdios do Emissor Regional de Coimbra da Emissora Nacional, mas Fernando Rolim lembra com precisão que os cantores foram convocados em diferentes momentos de 1952-1953 (pelo menos três a quatro sessões) para se deslocarem a uma sala localizada no Paço das Escolas onde costumava ensaiar o TEUC."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravados no Emissor Regional de Coimbra (Emissora Nacional)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Os dois discos foram gravados no Emissor Regional de Coimbra da Emissora Nacional."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "Os discos foram gravados aqui em Coimbra no Emissor Regional"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/60-anos-depois-no-pedra-nova/",
+          "doc": "aja:w86b0401cb71bb8ca",
+          "citacao": "1953 – José Afonso gravava nos Estúdios do Emissor Regional de Coimbra da antiga Emissora Nacional dois “78 rotações” para a “etiqueta” Melodia."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravados em 1952 (segundo António Brojo)",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "Eu, em 1952, exactamente, fiz discos de 78 rotações com o José Afonso, Luiz Goes e Fernando Rolim."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Editados em 1953, gravados no ano anterior (cronologia da AJA)",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "São editados dois singles gravados no ano anterior nos Estúdios do Emissor Regional de Coimbra (Emissora Nacional)."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Editor: Rádio Triunfo, Lda. (Porto), etiqueta Melodia; a etiqueta Alvorada surge só na reedição em EP",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Quem promoveu a edição fonográfica e se constituiu detentor dos direitos de edição e/ou reedição foi a Rádio Triunfo, Lda."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "identificados na parte central com a etiqueta Melodia. Posteriormente esta etiqueta foi retirada do mercado. Quando se lançou a primeira reedição parcial em EP de 45 rpm esta já veio identificada com a etiqueta Alvorada."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Editados pela Alvorada (biografia da AJA)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Trata-se de dois “singles” de 78 rotações com fados de Coimbra, editados pela Alvorada."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso.html",
+          "doc": "gc-i:113217092278464723",
+          "citacao": "Trata-se de dois discos de 78 rotações com fados de Coimbra, editados pela Alvorada, dos quais não existem hoje exemplares."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Contrato de José Afonso com a Rádio Triunfo assinado a 31 de julho de 1953",
+      "data": "1953-07-31",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "E só a 31 de julho de 1953 é que José Afonso assinou o seu contrato, tendo demorado a escolher o repertório e a aceitar a presença de guitarra de acompanhamento em todos os temas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "Disco Melodia 15.090 de 78rpm, solo vocal de José Afonso"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7439165",
+      "doc": "discogs:w23182c894f40b6a0",
+      "citacao": "Título: Contos Velhinhos / Incerteza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

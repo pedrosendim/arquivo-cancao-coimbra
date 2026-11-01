@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-jorge-gomes",
+  "tipo": "pessoa",
+  "nome": "Mulher de Jorge Gomes (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jorge-cravo-no-teatro-gil-vicente.html",
+          "doc": "gc-i:113305944961431621",
+          "citacao": "Jorge Gomes e esposa"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legenda de fotografia (concerto de Jorge Cravo, 2005); a identificação com a ficha jorge-gomes faz-se pelo nome."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

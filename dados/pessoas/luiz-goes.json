@@ -1,0 +1,289 @@
+{
+  "id": "luiz-goes",
+  "tipo": "pessoa",
+  "nome": "Luiz Goes",
+  "nomes_alternativos": [
+    "Luís Goes",
+    "Luís Fernando de Sousa Pires de Goes"
+  ],
+  "papeis": [
+    "cantor",
+    "compositor",
+    "letrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1933",
+      "data": "1933",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Luiz Goes (1933-2012) constituem a Segunda Geração de Oiro da Canção de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, «Nótula sobre as três gerações de oiro da Canção de Coimbra», revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "2012",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Luiz Goes (1933-2012)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Radicado em Lisboa desde janeiro de 1959",
+      "data": "1959-01",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "o Ciclo Goesiano (1967-1983) de um Luiz Goes que, desde Janeiro de 1959 já radicado em Lisboa, reaparece."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Jorge Cravo situa em Luiz Goes, a partir da escola modernista de Edmundo de Bettencourt, um «Novo Canto» / «Neo-Modernismo» e uma «Escola Goesiana»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-de-jorge-cravo-incluso-na.html",
+          "doc": "gc-i:112103572000982277",
+          "citacao": "Ideologicamente a partir da escola modernista de Edmundo de Bettencourt, a Luiz Goes coube o importante papel de renovar o discurso semântico-musical desta Canção, criando um Novo Canto. Ou seja: o Neo-Modernismo chega à Canção Coimbrã pela sua voz!"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-de-jorge-cravo-incluso-na.html",
+          "doc": "gc-i:112103572000982277",
+          "citacao": "são algumas das características de uma escola de canto e de interpretação, do melhor que alguma vez a Canção de Coimbra gerou – a Escola Goesiana!!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo incluído na integral «Canções para quem vier», reproduzido no post. É apreciação do autor, não dado biográfico."
+    },
+    {
+      "campo": "atividade",
+      "valor": "«Ciclo Goesiano» (1967-1983): reaparecimento de Luiz Goes nos finais da década de 1960, segundo Jorge Cravo",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Nos finais da década reaparece Luiz Goes que abriria o Ciclo Goesiano (1967-1983). Surgia, assim, a Escola Goesiana, como depositária de um Neo-Modernismo na CdeC"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sonetos e temas tradicionais, populares e originais no disco «Coimbra Quintet»",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "destacando-se, não só, na gravação de Sonetos, mas em excelentes interpretações de temas tradicionais, populares ou originais no disco “Coimbra Quintet.”"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Álbum «Canções do Mar e da Vida» (1969), primeiras incursões na temática social e de intervenção",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Foi o álbum “Canções do Mar e da Vida” (1969) que nos revelou um Luiz Goes atento ao mundo que o rodeava com as suas ... primeiras incursões na temática social e de intervenção."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Terceiro LP, «Canções de Amor e de Esperança» (1971), acompanhado e musicado por António Andias (g.), João Gomes, António Toscano e Durval Moreirinhas (vv.); letras de Leonel Neves e do próprio Goes, que musicou algumas",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Também Luiz Goes grava o seu terceiro LP “Canções de Amor e de Esperança” (1971) no qual reforça o seu estatuto de cantautor."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
+          "doc": "gc-v:765637730129187761",
+          "citacao": "“Canções de Amor e de Esperança” cinquenta anos depois! (1971-2021) Jorge Cravo Passarão, no próximo mês de Dezembro, cinquenta anos sobre a gravação do melhor disco criado por cultores amadores da Canção de Coimbra: “Canções de Amor e de Esperança” de Luiz Goes. Uma obra magistralmente acompanhada e musicada por António Andias (g.), João Gomes (v.), António Toscano (v.) e Durval Moreirinhas (v.), com todas as letras originais do poeta Leonel Neves e do próprio Goes, que também musicou umas poucas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Jorge Cravo (revista Fadista n.º 6, 2024; texto de 2021 reproduzido no blogue GC-V). O mesmo blogue (2017) refere o LP como «comercializado em 1972»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participação especial no CD «folha a folha» (Grupo Presença de Coimbra / Jorge Cravo, Numérica NUM 49, 1999), no tema «Toada para uma Cidade», de Jorge Cravo",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Com o Grupo Presença de Coimbra grava, em 1999, o CD de originais folha a folha – canto e guitarra de Coimbra, com a participação especial de Luiz Goes no tema Toada para uma Cidade (Jorge Cravo), editado pela Numérica (NUM 49)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Jorge Cravo no livrete do CD «Canções d'Inquietude» (2005), reproduzida no post."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "leopoldina-da-soledade-valente-d-eca-e-leyva-cabral-de-sousa-pires-de-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
+          "doc": "gc-i:115447311328918440",
+          "citacao": "\"à D. Leopoldina\", que era a minha mãe"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/luiz-goes-sobre-o-zeca/",
+          "doc": "aja:w1d1f15a5312db771",
+          "citacao": "que era a minha mãe"
+        }
+      ],
+      "nota": "Luiz Goes chama-lhe «D. Leopoldina». A identificação com Leopoldina da Soledade Valente d'Eça e Leyva Cabral de Sousa Pires de Goes, «cunhada» de Armando Goes (post «Armando Goes», gc-v, 2013), faz-se pelo nome: o editor deve confirmar."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Igualmente Luiz Goes olhava para EB como o seu “farol” na CdeC"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/depois-do-lancamento-do-livro-jose.html",
+          "doc": "gc-iii:6832162893810694586",
+          "citacao": "Ideologicamente a partir da escola modernista de Edmundo de Bettencourt, Goes encetou uma renovação na Canção de Coimbra que o guindou à posição de legítimo e único sucessor daquele poeta-cantor presencista"
+        }
+      ],
+      "nota": "Segundo Jorge Cravo (revista Fadista n.º 6, 2024; «EB» = Edmundo de Bettencourt) e o texto de apresentação do livro de Cravo sobre Luiz Goes (MinervaCoimbra, 2009)."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Luís Fernando de Sousa Pires de Goes (1933-2012), barítono, sócio do Orfeon Académico e do TEUC, estudante da FM/UC"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "nota": "barítono"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte vocal estava a cargo de Fernando Machado Soares (FD/UC, tenor), Fernando Rolim (FM/UC, tenor), José Afonso (FL/UC, 2.º tenor), António Sutil Roque (FM/UC, tenor) e Luiz Goes (FM/UC, barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "O grupo decidiu persuadir outro membro da formação a garantir as gravações, Luiz Goes."
+        }
+      ],
+      "nota": "barítono; cantor das gravações de Madrid (1957)"
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "luiz-do-carmo-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era irmão de Luiz do Carmo Goes, pai de Luiz Goes, nascido em 1891, e de Benvinda do Carmo Goes, nascida em 1908"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "no dizer de seu sobrinho Luiz Goes"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Sobrinho de Armando Goes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Tempos%20de%20Coimbra%207%20Goes.jpg",
+      "legenda": "Luiz Goes. Foto do «Tempo(s) de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/luiz-goes.html",
+          "doc": "gc-i:111445590128144630",
+          "citacao": "Luiz Goes. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

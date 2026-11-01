@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-8103-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0463_08.mp3",
+  "titulo": "Fado dos Passarinhos — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-8103",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0922.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/911/lucas_junot_fado_dos_passarinhos",
+      "doc": "museu-do-fado:w9bb5adb9d4b6ca20",
+      "citacao": "Título: Fado dos Passarinhos ... Editora: Co. 8103, 5395,HTCD15 Referências: WP191, W, 27250,. P191; 8103"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

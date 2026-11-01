@@ -1,0 +1,52 @@
+{
+  "id": "joana-carvalho",
+  "tipo": "pessoa",
+  "nome": "Joana Carvalho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/12/a-capa-tudo-tapa-consequencias-do.html",
+      "doc": "gc-v:8642243074465900039",
+      "citacao": "Foto 1 - Joana Carvalho, aluna de canto orientada por Jorge Cravo, acompanhada pelo guitarrista Simão Mota e pelo viola Vasco Rodrigues"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "cantou acompanhada por Simão Mota (guitarra) e Vasco Rodrigues (viola), 2023",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/12/a-capa-tudo-tapa-consequencias-do.html",
+          "doc": "gc-v:8642243074465900039",
+          "citacao": "Joana Carvalho, aluna de canto orientada por Jorge Cravo, acompanhada pelo guitarrista Simão Mota e pelo viola Vasco Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-cravo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/12/a-capa-tudo-tapa-consequencias-do.html",
+          "doc": "gc-v:8642243074465900039",
+          "citacao": "Joana Carvalho, aluna de canto orientada por Jorge Cravo"
+        }
+      ],
+      "nota": "canto"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

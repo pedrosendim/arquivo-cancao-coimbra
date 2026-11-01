@@ -1,0 +1,38 @@
+{
+  "id": "antonio-augusto-gomes-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "António Augusto Gomes de Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+      "doc": "gc-v:6055286900302611552",
+      "citacao": "a iniciação à arte guitarrista foi feita em Coja, graças aos ensinamentos disponibilizados por António Augusto Gomes de Oliveira."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "Iniciou Anthero da Veiga na guitarra, em Coja",
+      "local": "Coja",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "a iniciação à arte guitarrista foi feita em Coja, graças aos ensinamentos disponibilizados por António Augusto Gomes de Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

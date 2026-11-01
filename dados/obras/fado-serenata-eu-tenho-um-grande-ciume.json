@@ -1,0 +1,78 @@
+{
+  "id": "fado-serenata-eu-tenho-um-grande-ciume",
+  "titulo": "Fado Serenata (Eu tenho um grande ciúme)",
+  "titulos_alternativos": [
+    "Fado Serenata (Almeida Cruz)"
+  ],
+  "genero": "fado",
+  "musica": [
+    "antonio-de-almeida-cruz"
+  ],
+  "letra": [],
+  "ano": "",
+  "letra_texto": {
+    "fonte": "gc-v",
+    "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+    "doc": "gc-v:8344946568745998278",
+    "citacao": "Eu tenho um grande ciúme Do teu corpete bordado Só porque aspiro o perfume Do teu seio imaculado. Quem me dera ser um dia Esse corpete invejado Com que amor eu sentiria O teu seio perfumado. Quando eu morrer, anjo amado Como assim devo dizê-lo Quero ser amortalhado Nos crepes do teu cabelo. Só a ti devo dizê-lo Que sabes a solução Que tenho um negro cabelo Que me prende o coração."
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Música de Almeida Cruz; letra atribuível ao mesmo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "FADO SERENATA Música: António Maria Monteiro de Sousa de Almeida Cruz (1879-1951) Letra: atribuível a António Maria Monteiro de Sousa de Almeida Cruz (1879-1951)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Canção para solista masculino em compasso 4/4, com duas partes musicais (Mi menor / Mi Maior)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Canção para solista masculino em compasso 4/4, com duas partes musicais"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "Escrita em compasso 4/4, com os primeiros oito versos em Mi menor e os restantes oito versos em Mi Maior."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada por Almeida Cruz com piano no Rio de Janeiro, 1911 (?), Columbia B112-11880",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "gravada com acompanhamento de piano em 1911 (?) no Rio de Janeiro pelo actor e tenor português António de Almeida Cruz, no disco de 78 rpm Columbia B112-11880."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "Canção para solista masculino em compasso 4/4, com duas partes musicais"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

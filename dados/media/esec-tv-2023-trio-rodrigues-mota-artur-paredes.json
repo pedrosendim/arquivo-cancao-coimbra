@@ -1,0 +1,24 @@
+{
+  "id": "esec-tv-2023-trio-rodrigues-mota-artur-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-play",
+  "url": "https://www.rtp.pt/play/p11296/esec-tv",
+  "titulo": "ESEC TV (20-01-2023): Tiago Rodrigues, Simão Mota e Vasco Rodrigues em repertório não gravado de Artur Paredes",
+  "data": "2023-01-20",
+  "pessoas": [
+    "tiago-jose-rodrigues",
+    "simao-mota",
+    "vasco-rodrigues"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Este registo foi gravado em Coimbra pela ESEC Tv, em 20.01.2023, com depoimentos e performances de Tiago Rodrigues, Simão Mota e Vasco Rodriques. Apresenta interpretações de repertório não gravado comercialmente por Arthur Paredes (Fandango, Variações em Lá Maior, Variações em Si Menor)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

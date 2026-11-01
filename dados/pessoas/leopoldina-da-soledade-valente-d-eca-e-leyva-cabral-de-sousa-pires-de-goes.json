@@ -1,0 +1,68 @@
+{
+  "id": "leopoldina-da-soledade-valente-d-eca-e-leyva-cabral-de-sousa-pires-de-goes",
+  "tipo": "pessoa",
+  "nome": "Leopoldina da Soledade Valente d'Eça e Leyva Cabral de Sousa Pires de Goes",
+  "nomes_alternativos": [
+    "D. Leopoldina"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Cunhada de Armando Goes e prima de Almeida d'Eça",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Almeida d’Eça (1902 – 1958), primo de sua cunhada Leopoldina da Soledade Valente d’Eça e Leyva Cabral de Sousa Pires de Goes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Mãe de Luiz Goes («D. Leopoldina»); tocava piano",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
+          "doc": "gc-i:115447311328918440",
+          "citacao": "\"à D. Leopoldina\", que era a minha mãe"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "frequentemente acompanhado pelo pai à guitarra e a mãe ao piano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Identificação pelo nome, a confirmar (ver relação de Luiz Goes)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "primo_de",
+      "alvo": "almeida-d-eca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Almeida d’Eça (1902 – 1958), primo de sua cunhada Leopoldina da Soledade Valente d’Eça e Leyva Cabral de Sousa Pires de Goes"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

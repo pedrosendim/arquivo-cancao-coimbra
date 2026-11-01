@@ -1,0 +1,132 @@
+{
+  "id": "antonio-menano-odeon-a-136808",
+  "titulo": "Fado do Hilário / Fado do Quinto Ano",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "A 136808",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado do Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136808-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Quinto Ano",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-a-136808-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/dEpCknv3trYj2TrAzrKA9Tb1bTVdb54OiPpas7JT41M/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/OTYtMTQ0ODIzMTQy/Ny00MTE4LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7761696",
+        "doc": "discogs:w096a7c32d4f7a602",
+        "citacao": "Imagem (primary): https://i.discogs.com/dEpCknv3trYj2TrAzrKA9Tb1bTVdb54OiPpas7JT41M/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/OTYtMTQ0ODIzMTQy/Ny00MTE4LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7761696",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761696",
+          "doc": "discogs:w096a7c32d4f7a602",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761696",
+          "doc": "discogs:w096a7c32d4f7a602",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761696",
+          "doc": "discogs:w096a7c32d4f7a602",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Lisboa, primavera de 1928; instrumentistas não identificados (blogue)",
+      "data": "1928",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Gravações concretizadas na cidade de Lisboa, durante a Primavera de 1928. Não está identificado o local onde decorreram as gravações, nem são conhecidos os instrumentistas intervenientes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 654: FADO DO HILÁRIO (A minha capa velhinha)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 694: FADO QUINTO ANO (Nossas mágoas são o fruto)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7761696",
+      "doc": "discogs:w096a7c32d4f7a602",
+      "citacao": "Editora: Odeon – A 136808"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

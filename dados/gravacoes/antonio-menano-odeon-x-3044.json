@@ -1,0 +1,100 @@
+{
+  "id": "antonio-menano-odeon-x-3044",
+  "titulo": "Fado da Mentira / Fado Serenata",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3044",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Mentira",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3044-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Serenata",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3044-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Mentira», por António Menano — etiqueta: «Fado da Metira / [A. Menano] / António Menano / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1162/antonio_menano_fado_da_mentira",
+          "doc": "museu-do-fado:w45d8d0f515124e6c",
+          "citacao": "Título: Fado da Mentira ... Editora: Od. X3044, 136.811,EMI260593,EMICD8364452,HTCD31 Referências: OG583, N5, 3044A; X 3044a ... Etiqueta: Fado da Metira / [A. Menano] / António Menano / Acomp. de Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w74826be5074a1e08"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Serenata», por António Menano — etiqueta: «Fado Serenata / (A. Menano) / Antonio Menano  / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1163/antonio_menano_fado_serenata",
+          "doc": "museu-do-fado:wf0ca07e9ccccd6bb",
+          "citacao": "Título: Fado Serenata ... Editora: Od. X3044, 136.812, EMI260593,EMICD83461282,HTCD31 Referências: OG584, N5, 3044B; X 3044b ... Etiqueta: Fado Serenata / (A. Menano) / Antonio Menano  / Acomp. de Guitarra e Viola  / "
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w35cb58bd9525ec8e"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1162/antonio_menano_fado_da_mentira",
+      "doc": "museu-do-fado:w45d8d0f515124e6c",
+      "citacao": "Título: Fado da Mentira ... Editora: Od. X3044, 136.811,EMI260593,EMICD8364452,HTCD31 Referências: OG583, N5, 3044A; X 3044a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/6062/antonio_menano_fado_da_mentira",
+      "doc": "museu-do-fado:w74826be5074a1e08",
+      "citacao": "Título: Fado da mentira ... Editora: Odeon Referências: x3044a, 3044A, Og583"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1163/antonio_menano_fado_serenata",
+      "doc": "museu-do-fado:wf0ca07e9ccccd6bb",
+      "citacao": "Título: Fado Serenata ... Editora: Od. X3044, 136.812, EMI260593,EMICD83461282,HTCD31 Referências: OG584, N5, 3044B; X 3044b"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/6063/antonio_menano_fado_serenata",
+      "doc": "museu-do-fado:w35cb58bd9525ec8e",
+      "citacao": "Título: Fado serenata ... Editora: Odeon Referências: x3044b, 3044B, Og584"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

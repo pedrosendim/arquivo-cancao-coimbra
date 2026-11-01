@@ -1,0 +1,46 @@
+{
+  "id": "luiz-azevedo",
+  "tipo": "pessoa",
+  "nome": "Luiz Azevedo",
+  "nomes_alternativos": [
+    "Coronel Luiz Azevedo"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Coronel",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/sesso-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:2922310065048337482",
+          "citacao": "Luiz Azevedo, meu irmão, Coronel"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/sesso-de-guitarra-e-canto-de-coimbra.html",
+          "doc": "gc-ii:2922310065048337482",
+          "citacao": "Luiz Azevedo, meu irmão, Coronel"
+        }
+      ],
+      "nota": "Post escrito por Octávio Sérgio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

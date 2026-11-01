@@ -1,0 +1,89 @@
+{
+  "id": "guitarra-german-vazquez-ronald-fernandez",
+  "designacao": "Guitarra de Coimbra de German Vazquez e Ronald Louis Fernandez (Califórnia)",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "german-vazquez",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Uma de três construídas por German Vazquez, na Califórnia; trastos, cavalete e acabamento a goma-laca de Ronald Fernandez",
+      "data": "",
+      "local": "Califórnia",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra. This instrument was one of 3 constructed by German Vazquez, in California; the fretting, bridge and French polishing were done by (your truly) Ronald Fernandez."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Construída depois de German Vazquez examinar vários instrumentos da coleção; dimensões próximas das da guitarra de Coimbra de Fernando Meireles de Ron Fernandez, que por sua vez tem proporções semelhantes às guitarras feitas por Gilberto Grácio nos anos 1970",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "constructed this instrument after he had examined several instruments in this collection. The dimension of this guitarra are come close to those of my Fernando Meireles Coimbra Guitarra, which in turn has design proportions similar to guitarras made in the 1970s by Gilberto Gracio's."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/VazquezFernandezFace.jpg",
+      "legenda": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/VazquezFernandezBk.jpg",
+      "legenda": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/VazquezFernandezRose.jpg",
+      "legenda": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "German Vazquez and Ronald Louis Fernandez, Coimbra Guitarra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

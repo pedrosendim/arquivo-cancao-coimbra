@@ -1,0 +1,60 @@
+{
+  "id": "luiz-do-carmo-goes",
+  "tipo": "pessoa",
+  "nome": "Luiz do Carmo Goes",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1891",
+      "data": "1891",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era irmão de Luiz do Carmo Goes, pai de Luiz Goes, nascido em 1891, e de Benvinda do Carmo Goes, nascida em 1908"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Também cantava e tocava viola",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "O pai, também cantava e tocava viola, sendo que os serões eram inesquecíveis."
+        }
+      ],
+      "conflito": false,
+      "nota": "«O pai» de Luiz Goes, no relato deste."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Era irmão de Luiz do Carmo Goes, pai de Luiz Goes, nascido em 1891, e de Benvinda do Carmo Goes, nascida em 1908"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

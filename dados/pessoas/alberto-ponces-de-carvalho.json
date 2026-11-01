@@ -1,0 +1,53 @@
+{
+  "id": "alberto-ponces-de-carvalho",
+  "tipo": "pessoa",
+  "nome": "Alberto Ponces de Carvalho",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+      "doc": "gc-i:111810453719110160",
+      "citacao": "Nos ínícios de Agosto de 1895 actuou no Casino Mondego da Figueira da Foz, acompanhado ao violão pelo viseense Dr. Alberto Ponces de Carvalho"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Acompanhou Augusto Hilário ao violão no Casino Mondego, Figueira da Foz, inícios de agosto de 1895",
+      "data": "1895-08",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "acompanhado ao violão pelo viseense Dr. Alberto Ponces de Carvalho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-hilario",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/era-uma-vez.html",
+          "doc": "gc-i:111810453719110160",
+          "citacao": "Nos ínícios de Agosto de 1895 actuou no Casino Mondego da Figueira da Foz, acompanhado ao violão pelo viseense Dr. Alberto Ponces de Carvalho"
+        }
+      ],
+      "nota": "Ao violão, Figueira da Foz, 1895."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

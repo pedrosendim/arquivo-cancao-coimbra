@@ -1,0 +1,40 @@
+{
+  "id": "cancao-do-ribeirinho",
+  "titulo": "Canção do Ribeirinho",
+  "titulos_alternativos": [],
+  "genero": "cancao",
+  "musica": [],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Canção com refrão do ator Álvaro Cabral, gravada por Arthur Silva em 1915; autoria por vezes atribuída a Luiz de la Cruz Quesada",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+          "doc": "gc-v:643756313646546986",
+          "citacao": "CANÇÃO DO RIBEIRINHO, cantada por Arthur Silva, gravação de 1915, canção com refrão do actor Álvaro Cabral, gravada posteriormente em versão instrumental por Artur Paredes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+          "doc": "gc-v:643756313646546986",
+          "citacao": "(a autoria tem sido imputada com alguma frequência ao músico Luiz de la Cruz Quesada)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Autoria divergente: Álvaro Cabral vs. Luiz de la Cruz Quesada (a fonte regista a segunda atribuição)."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "CANÇÃO DO RIBEIRINHO. Omisso na menção de autoria. Música de Álvaro Cabral (ca. 1914), arranjo de Artur Paredes. Esta composição substitui “Balada do Mondego”."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-favorite-1-45595",
+  "titulo": "A Serenata",
+  "formato": "78rpm",
+  "editora": "Favorite",
+  "referencia": "1-45595 / 1-49533",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "A Serenata",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-favorite-1-45595-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«A Serenata», por Avelino Baptista — etiqueta: «A Serenata / cantada por / Avelino Baptista / com acompanhamento de Estudantina / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4524/avelino_baptista_a_serenata",
+          "doc": "museu-do-fado:we36bad385a44cc16",
+          "citacao": "Título: A Serenata ... Editora: Favorite 1-45595 1-49533 Referências: 1-45595, 10850-o-, 9/3 11; 1-45595 ... Etiqueta: A Serenata / cantada por / Avelino Baptista / com acompanhamento de Estudantina / Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "outra(s) face(s) deste disco no Arquivo Sonoro, não incluída(s) por não terem ligação a Coimbra nas fontes: «Balada da Beira» (Isabel Costa, Avelino Baptista, museu-do-fado:w4eaa5c4b5274ea14)"
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue refere «A Serenata, gravada por Avelino Baptista» entre composições adaptadas ao estilo conimbricense (o post não indica o número do disco)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+          "doc": "gc-v:7480880341728619964",
+          "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4524/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:we36bad385a44cc16",
+      "citacao": "Título: A Serenata ... Editora: Favorite 1-45595 1-49533 Referências: 1-45595, 10850-o-, 9/3 11; 1-45595"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/01/o-retrato-do-guitarrista-jayme-de-abreu.html",
+      "doc": "gc-v:7480880341728619964",
+      "citacao": "adaptados ao estilo arioso conimbricense ... A Serenata, gravada por Avelino Baptista"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

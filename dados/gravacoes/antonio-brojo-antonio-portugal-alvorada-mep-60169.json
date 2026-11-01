@@ -1,0 +1,134 @@
+{
+  "id": "antonio-brojo-antonio-portugal-alvorada-mep-60169",
+  "titulo": "Guitarradas de Coimbra",
+  "formato": "EP",
+  "editora": "Alvorada",
+  "referencia": "MEP 60169",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "aurelio-dos-reis",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "mario-de-castro",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Variações em Lá Menor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-brojo-antonio-portugal-alvorada-mep-60169-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Valsa em Lá Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Variações em Ré Menor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-brojo-antonio-portugal-alvorada-mep-60169-3-apple-music",
+        "ouvir-antonio-brojo-antonio-portugal-alvorada-mep-60169-3-youtube"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Estudo em Lá Maior",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/WZYNy_VC2jwGe5eEP_whvRAJp4fbPCDQFvYcFeu8gLA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDE3/MjA5LTE3MDk3Mjk1/MTQtMjMxMy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/30017209",
+        "doc": "discogs:w10879957fca11163",
+        "citacao": "Imagem (secondary): https://i.discogs.com/WZYNy_VC2jwGe5eEP_whvRAJp4fbPCDQFvYcFeu8gLA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDE3/MjA5LTE3MDk3Mjk1/MTQtMjMxMy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/30017209",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/30017209",
+          "doc": "discogs:w10879957fca11163",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/30017209",
+          "doc": "discogs:w10879957fca11163",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Artistas no Discogs: António Brojo, António Portugal, Aurélio Reis, Mário de Castro",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/30017209",
+          "doc": "discogs:w10879957fca11163",
+          "citacao": "Artistas: António Brojo, António Portugal, Aurélio Reis, Mário De Castro"
+        }
+      ],
+      "conflito": false,
+      "nota": "Edição sem data no Discogs; não se encontrou referência a este número de catálogo nos blogues."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/30017209",
+      "doc": "discogs:w10879957fca11163",
+      "citacao": "Editora: Alvorada – MEP 60169"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/30017209",
+      "doc": "discogs:w10879957fca11163",
+      "citacao": "Editora: Alvorada – MEP 60.169"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

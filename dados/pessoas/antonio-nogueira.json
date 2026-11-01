@@ -1,0 +1,57 @@
+{
+  "id": "antonio-nogueira",
+  "tipo": "pessoa",
+  "nome": "António Nogueira",
+  "nomes_alternativos": [
+    "Tó Nogueira"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html", "doc": "gc-v:6510254946763417386", "citacao": "A Secção de Fado da Associação Académica de Coimbra decidiu atribuir o nome de Sala António Nogueira à Sala de Ensaios, em homenagem a este seu sócio nº1, responsável também pelo ressurgimento da sua Orxestra Pitagórica"}], "nota": "Sócio n.º 1 da Secção; responsável também pelo ressurgimento da Orxestra Pitagórica. A Sala de Ensaios tem o seu nome."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Por este grupo, que se mantém activo, passaram inúmeros estudantes de Coimbra: no canto, Luís Cartario, José Morgado, José Neves, Fernando Castro, António Pimentel, Rui Lucas, Fernando Silva e António Nogueira; na guitarra, Francisco Alte da Veiga, Nuno Maia Grego e Filipe Almeida. Actualmente, o grupo é constituído por João Moura, Domingos Mateus (guitarra), José Santos e Luís Veloso (viola), Vítor Barreto e Jaime Leite (vozes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP 10 anos... uma serenata, pelo Grupo de Fados e Guitarras de\nCoimbra, Porto, Edisco, GFC 001, GF 00002,1988, 1.200$00. Textos de\napresentação assinados por Luís Goes e Mário Afonso. Cantam António Nogueira,\nLuís Catario e Victor Silva. Guitarras: João Moura. Violas: José Santos.\nRegista 10 temas, sendo 8 cantados e 2 instrumentais. Apresenta 5 inéditos\n(face B)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "A comissão de festas convidou o Grupo de Fados e Guitarras de Coimbra, constituído por João Moura (guitarra), José Santos (viola) e António Nogueira (voz) que nesse evento interpretou a vertente académica das serenatas."
+        }
+      ],
+      "nota": "voz; LP de 1988 e 1990"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em ambos os trabalhos discográficos foi acompanhado por António José Moreira (1982-1990) e Henrique Ferrão (1980-1990) nas guitarras, e José Carlos Ribeiro (1981-1990), Luís Miguel Martins (1982-1990) e Manuel Pera (1987-1990) nas violas. Deste grupo fizeram também parte os cantores: António Nogueira (1980-1981), António Pimentel (1981-1985), Paulo Saraiva (1988) e Rui Silva (1989-1990), bem como, Rijo Madeira (guitarra, 1980-1982) e Arsénio Carvalho (viola, 1980-1981)."
+        }
+      ],
+      "nota": "voz; 1980-1981"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

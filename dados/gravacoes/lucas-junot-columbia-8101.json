@@ -1,0 +1,100 @@
+{
+  "id": "lucas-junot-columbia-8101",
+  "titulo": "Triste / Vira de Coimbra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8101",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "lucas-junot",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Triste",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-8101-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Vira de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-8101-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Triste», por Lucas Junot — etiqueta: «Triste (Fado) / (Fortunato da Fonseca) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/904/lucas_junot_triste",
+          "doc": "museu-do-fado:w91d78736866b2d7a",
+          "citacao": "Título: Triste ... Editora: Co. 8101, 1035X,5.016 Referências: 189, W, 27248, P189; 8101 ... Etiqueta: Triste (Fado) / (Fortunato da Fonseca) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w152b5bd14b7690a8"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Vira de Coimbra», por Lucas Junot — etiqueta: «Vira de Coimbra / (Popular) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/905/lucas_junot_vira_de_coimbra",
+          "doc": "museu-do-fado:w99938dba976a21e8",
+          "citacao": "Título: Vira de Coimbra ... Editora: Co. 8101, 1035X,5.016 Referências: 192, W, 27251, P192; 8101 ... Etiqueta: Vira de Coimbra / (Popular) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:wb5c26943eb165d2e"
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/904/lucas_junot_triste",
+      "doc": "museu-do-fado:w91d78736866b2d7a",
+      "citacao": "Título: Triste ... Editora: Co. 8101, 1035X,5.016 Referências: 189, W, 27248, P189; 8101"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5720/lucas_junot_triste",
+      "doc": "museu-do-fado:w152b5bd14b7690a8",
+      "citacao": "Título: Triste ... Editora: Columbia Referências: 8101, P189"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/905/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:w99938dba976a21e8",
+      "citacao": "Título: Vira de Coimbra ... Editora: Co. 8101, 1035X,5.016 Referências: 192, W, 27251, P192; 8101"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5721/lucas_junot_vira_de_coimbra",
+      "doc": "museu-do-fado:wb5c26943eb165d2e",
+      "citacao": "Título: Vira de Coimbra ... Editora: Columbia Referências: 8101, P192"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tiago-ferraz-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "Tiago Ferraz de Oliveira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/espetaculo-de-apresentacao-cd-fernando.html",
+          "doc": "gc-v:2692217642666510466",
+          "citacao": "Grupo PRESENÇA DE COIMBRA: Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v), Tiago Ferraz de Oliveira (v), e os cantores Jorge Machado e Jorge Cravo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
+          "doc": "gc-v:906810479970597771",
+          "citacao": "Presença de Coimbra (Manuel Borralho, José Ferraz de Oliveira, Manuel\nGouveia Ferreira, Tiago Ferraz de Oliveira, Jorge Machado, Jorge Cravo)"
+        }
+      ],
+      "nota": "viola; 2016-2017"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

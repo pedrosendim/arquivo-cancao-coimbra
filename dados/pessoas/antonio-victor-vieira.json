@@ -1,0 +1,94 @@
+{
+  "id": "antonio-victor-vieira",
+  "tipo": "pessoa",
+  "nome": "António Victor Vieira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "desde os anos 1920, guitarras com características semelhantes tinham sido feitas nas oficinas de Augusto Vieira, António Victor Vieira, e Álvaro Merceano da Silveira"
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+      "doc": "fernandez-music:wef640773a4821421",
+      "citacao": "Photo of my 1920 Portuguese Guitarra made by Antonio Victor Vieira at 189 Rua Eugenio dos Santos, 191 Lisboa, Portugal."
+    },
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "I have seen a number of guitarras from this maker. They are nice sounding but a bit thin."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Lisboa, 189 Rua Eugenio dos Santos, 191 (endereço associado a uma guitarra sua de 1920)",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/PortugueseGuitarMethod.html",
+          "doc": "fernandez-music:wef640773a4821421",
+          "citacao": "made by Antonio Victor Vieira at 189 Rua Eugenio dos Santos, 191 Lisboa, Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": "Endereço tal como vem na legenda da fotografia (site Fernandez Music)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Na década de 1920 a sua oficina fazia guitarras com características semelhantes às da guitarra de Lisboa moderna (segundo Pedro Caldeira Cabral)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+          "doc": "gc-v:6007738648378406322",
+          "citacao": "desde os anos 1920, guitarras com características semelhantes tinham sido feitas nas oficinas de Augusto Vieira, António Victor Vieira, e Álvaro Merceano da Silveira"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "he also acknowledges that GPs with similar characteristics were also being made in the 1920s in the workshops of Augusto Vieira, António Victor Vieira, and Álvaro Merceano da Silveira (Cabral 1999: 133)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Pedro Caldeira Cabral, A Guitarra Portuguesa (1999), p. 133, citado por Nuno Cristo (2014) e pelo blogue."
+    },
+    {
+      "campo": "outro",
+      "valor": "Segundo Ron Fernandez, as primeiras guitarras de António Victor Vieira (inícios dos anos 1920) são de construção mais leve, parecem usar cordas de menor tensão e soam mais a bandolim",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "These early Antonio Victor Vieira guitarras sound more like a loosely strung mandolin as opposed to a powerful, modern Portuguese guitars. These Portuguese guitars from the early 1920s were more lightly constructed than later guitarras and they seemed to use lower tension strings."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Portuguese Guitar Collection",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

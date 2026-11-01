@@ -1,0 +1,29 @@
+{
+  "id": "tiago-rocha",
+  "tipo": "pessoa",
+  "nome": "Tiago Rocha",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fado-danto",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/",
+          "doc": "jornal-a-cabra:w4861fb25b1027f5e",
+          "citacao": "O coletivo é formado por João Barreirinhas e Mário Domingos, na Guitarra de Coimbra, Vasco Corgo e Silva J. Rodrigues, na Viola de acompanhamento, e Luís Baptista, Pedro Nascimento, Novais Miranda e Tiago Rocha, na voz."
+        }
+      ],
+      "nota": "voz; 2023"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

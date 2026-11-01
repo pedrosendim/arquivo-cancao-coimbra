@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187811-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0613_27.mp3",
+  "titulo": "Lenda — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187811",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1220.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1210/antonio_menano_lenda",
+      "doc": "museu-do-fado:w74ce796eae5a1126",
+      "citacao": "Título: Lenda ... Editora: Od.LA187.811, EMI2605983,EMICD8374952 Referências: OG1031, L, NR; LA 187811"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

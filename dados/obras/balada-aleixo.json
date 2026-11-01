@@ -1,0 +1,54 @@
+{
+  "id": "balada-aleixo",
+  "titulo": "Balada Aleixo",
+  "titulos_alternativos": [
+    "Quem canta por conta sua",
+    "Balada de Aleixo"
+  ],
+  "genero": "balada",
+  "musica": [
+    "jose-afonso"
+  ],
+  "letra": [],
+  "ano": "1961",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Composta em 1961",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "e Balada Aleixo (1961)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravada em 1961 com José Niza e Durval Moreirinhas (violas); LP Coimbra Orfeon of Portugal (1962)",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Em 1962 é editado o álbum «Coimbra Orfeon of Portugal», pela Monitor, dos Estados Unidos, com «Minha Mãe» e «Balada Aleixo», onde José Afonso rompe definitivamente com o acompanhamento das guitarras. Nestas duas baladas é acompanhado exclusivamente à viola por José Niza e Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:6695480932625824753",
+      "citacao": "BALADA ALEIXO (Quem canta por conta sua), música de José Afonso. Canção com refrão, feita em homenagem ao poeta popular algarvio António Aleixo, gravada pela 1.ª vez por José Afonso em 1961."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

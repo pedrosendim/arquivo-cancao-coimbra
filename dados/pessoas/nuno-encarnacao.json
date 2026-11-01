@@ -1,0 +1,42 @@
+{
+  "id": "nuno-encarnacao",
+  "tipo": "pessoa",
+  "nome": "Nuno Encarnação",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html", "doc": "gc-i:111599758589524021", "citacao": "Esteve ligado à secção de Fado entre 1990 e 1992."}], "nota": "Ligado à Secção entre 1990 e 1992."},
+    {
+      "tipo": "membro_de",
+      "alvo": "capas-negras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+          "doc": "gc-v:1436266136812530715",
+          "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
+          "doc": "gc-i:533926602207610002",
+          "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

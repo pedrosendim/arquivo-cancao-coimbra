@@ -1,0 +1,59 @@
+{
+  "id": "luis-alcoforado",
+  "tipo": "pessoa",
+  "nome": "Luís Alcoforado",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), biblioteca nova do Seminário Maior de Coimbra, 7 de setembro de 2024: «Inquietação» (voz, acompanhado por José Rabaça e Luís Carlos Santos)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436",
+          "doc": "mpagdp:wc8ebc6495b6486a8",
+          "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/serenata-monumental-da-queimas-das.html", "doc": "gc-i:113725919817867181", "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html", "doc": "gc-i:113639247173462895", "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz)"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/seminrio-80-1-folha-1-do-programa-do.html", "doc": "gc-i:115651200823297801", "citacao": "Luís Alcoforado e Paulo Soares (dos Praxis Nova e ainda sócios da Secção de Fado da AAC)"}], "nota": "Voz do Grupo Oficial / Grupo de Fados da Secção (1985-1988); sócio em 1987."},
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva. Guitarra: Paulo Soares. Violas: Carlos Costa e Luís Carlos Santos. Regista 13 temas, sendo 10 cantados e 3 instrumentais. Apresenta 4 inéditos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "reconhecíveis três elementos da formação Praxis Nova: sentado, com guitarra, José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó); de pé, encostado ao umbral, Luís Carlos Santos (viola); de pé, o cantor Luís Alcoforado."
+        }
+      ],
+      "nota": "voz; gravações de 1989, 1991 e 1998"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

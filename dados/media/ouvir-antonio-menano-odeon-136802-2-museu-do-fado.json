@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136802-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0585_12.mp3",
+  "titulo": "Fado do Choupal — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136802",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1164.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1155/antonio_menano_fado_do_choupal",
+      "doc": "museu-do-fado:w3a3bd03cc396003c",
+      "citacao": "Título: Fado do Choupal ... Editora: Od.136.803, EMI260593,HTCD31 Referências: OG573/1, N1, 1927; A 136803"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

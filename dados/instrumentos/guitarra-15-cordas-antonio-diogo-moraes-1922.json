@@ -1,0 +1,68 @@
+{
+  "id": "guitarra-15-cordas-antonio-diogo-moraes-1922",
+  "designacao": "Guitarra de 15 cordas, de fundo bojudo e sem ilhargas, feita em Lisboa em 1922 pelo relojoeiro António Diogo Moraes (coleção de Amália Rodrigues)",
+  "tipo": "guitarra",
+  "construtor": "",
+  "ano": "1922",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Exemplar atípico: fundo bojudo, sem ilhargas, 15 cordas; feito pelo relojoeiro António Diogo Moraes, Lisboa, 1922; pertence à coleção de Amália Rodrigues",
+      "data": "1922",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/10/curiosidades.html",
+          "doc": "gc-v:6210804659942865809",
+          "citacao": "Pois trata-se de um exemplar atípico pertencente à colecção de Amália Rodrigues. Atípico por ter fundo bojudo, sem ilhargas e 15 cordas. Feito pelo relojoeiro Antonio Diogo Moraes, Lx 1922 (Cabral 1999: 189-190)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Nuno Cristo, citado no post, remete para Pedro Caldeira Cabral, «A Guitarra Portuguesa» (1999), pp. 189-190."
+    },
+    {
+      "campo": "outro",
+      "valor": "Não aparece no catálogo de 2019 de Pedro Caldeira Cabral («O Som da Saudade»)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/10/curiosidades.html",
+          "doc": "gc-v:6210804659942865809",
+          "citacao": "Curiosamente, no catálogo de 2019 [O som da saudade, a cítara portuguesa] PCC não mostra nem menciona esta GP e tão pouco o construtor."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Integra o acervo da Casa Amália Rodrigues (Lisboa); usada como «auréola» num cartaz do fadista Jonas Lopes (álbum «São Jorge», 2021)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/10/curiosidades.html",
+          "doc": "gc-v:6210804659942865809",
+          "citacao": "aproveitando para auréola a caixa harmónica de uma guitarra que pertenceu à fadista portuguesa Amália Rodrigues, a qual integra o acervo patromonial da Casa Amália Rodrigues / Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota do blogue GC-V."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/10/curiosidades.html",
+      "doc": "gc-v:6210804659942865809",
+      "citacao": "Feito pelo relojoeiro Antonio Diogo Moraes, Lx 1922 (Cabral 1999: 189-190)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

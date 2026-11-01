@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-angelo-fernandes-hmv-mq-190-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0355_32.mp3",
+  "titulo": "Ó Coimbra do Mondego — Ângelo Fernandes",
+  "data": "",
+  "pessoas": [
+    "angelo-fernandes"
+  ],
+  "obras": [],
+  "gravacao": "angelo-fernandes-hmv-mq-190",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0710.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/704/angelo_fernandes_o_coimbra_do_mondego",
+      "doc": "museu-do-fado:wf4a062cdc662e761",
+      "citacao": "Título: Ó Coimbra do Mondego ... Editora: HMV MQ190 Referências: OPC1061-1; MQ 190"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

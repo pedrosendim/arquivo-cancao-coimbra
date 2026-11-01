@@ -1,0 +1,60 @@
+{
+  "id": "manasses-de-lacerda-beka-7320",
+  "titulo": "Fado Serenata",
+  "formato": "78rpm",
+  "editora": "Beka",
+  "referencia": "7320",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Serenata",
+      "obra": "",
+      "media": [
+        "ouvir-manasses-de-lacerda-beka-7320-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Serenata», por Manassés de Lacerda — etiqueta: «Fado Serenata  / Fado  / Manassés de Lacerda»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/921/manasses_de_lacerda_fado_serenata",
+          "doc": "museu-do-fado:wd6dea84bedbd6157",
+          "citacao": "Título: Fado Serenata ... Editora: Beka 7320 Referências: Disco “Beka” Grande, 7320, ∆7; 7320 ... Etiqueta: Fado Serenata  / Fado  / Manassés de Lacerda  / "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/921/manasses_de_lacerda_fado_serenata",
+      "doc": "museu-do-fado:wd6dea84bedbd6157",
+      "citacao": "Título: Fado Serenata ... Editora: Beka 7320 Referências: Disco “Beka” Grande, 7320, ∆7; 7320"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

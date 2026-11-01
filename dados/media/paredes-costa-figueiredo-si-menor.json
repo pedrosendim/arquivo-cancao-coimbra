@@ -1,0 +1,26 @@
+{
+  "id": "paredes-costa-figueiredo-si-menor",
+  "tipo": "video",
+  "plataforma": "youtube",
+  "url": "https://www.youtube.com/watch?v=evrL8-rTlZY",
+  "titulo": "Bruno Costa e Paulo Figueiredo (projecto Cordis, RTP) – Variações em Si menor de Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "bruno-costa",
+    "paulo-figueiredo",
+    "cordis"
+  ],
+  "obras": [
+    "variacoes-em-si-menor-artur-paredes"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/07/bruno-costa-e-paulo-figueiredo-na-radio.html",
+      "doc": "gc-iii:5840271970968271262",
+      "citacao": "Bruno Costa e Paulo Figueiredo na Rádio Televisão Portuguesa, com o projecto Cordis. Interpretam variações em Si menor de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

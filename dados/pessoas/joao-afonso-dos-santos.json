@@ -1,0 +1,65 @@
+{
+  "id": "joao-afonso-dos-santos",
+  "tipo": "pessoa",
+  "nome": "João Afonso dos Santos",
+  "nomes_alternativos": [
+    "João Afonso",
+    "João"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "publicacao",
+      "valor": "«José Afonso – Um Olhar Fraterno» (Caminho, 2.ª edição, 2002)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/capa-do-livro-de-joo-afonso-dos-santos.html",
+          "doc": "gc-i:113218135083250444",
+          "citacao": "Capa do livro de João Afonso dos Santos, “José Afonso – Um Olhar Fraterno”, da editorial Caminho, 2ª edição, ano de 2002."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "irmao_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "João Afonso dos Santos, irmão de José Afonso"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/filme-rosas-de-ermera/",
+          "doc": "rtp-arquivos:wd7b74aa6d3b4810d",
+          "citacao": "declarações de João Afonso dos Santos, irmão de Zeca Afonso"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/jos-afonso-em-1950.html",
+          "doc": "gc-i:113217171019888618",
+          "citacao": "de João Afonso dos Santos, seu irmão"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "com quem vive juntamente com os irmãos João e Mariazinha"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ana-maria-lopes",
+  "tipo": "pessoa",
+  "nome": "Ana Maria Lopes",
+  "nomes_alternativos": [
+    "Ana Maria"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Casou com Jorge Godinho em 1965; viúva dele; escreveu e publicou em livro um texto sobre a vida do marido",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "Casa em 1965, com a sua Ana Maria"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "que sua mulher escreveu e publicou em livro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jorge-godinho",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/1-foto-jorge-godinho-junto-fall-river.html",
+          "doc": "gc-ii:3315631362613263482",
+          "citacao": "pela esposa de Jorge Godinho, Ana Maria Lopes"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "Casa em 1965, com a sua Ana Maria"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/jorge-godinho.html",
+          "doc": "gc-iv:7953877370744722922",
+          "citacao": "Ana Maria Lopes, sua viúva"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

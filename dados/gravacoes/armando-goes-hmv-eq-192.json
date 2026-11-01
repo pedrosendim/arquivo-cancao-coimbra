@@ -1,0 +1,143 @@
+{
+  "id": "armando-goes-hmv-eq-192",
+  "titulo": "Fado da Saudade / Fado Alentejano",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "E.Q. 192",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "armando-goes",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Saudade",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Alentejano",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/mEBfjP9JGeDkG_j5LzottOT4NudaZfLb8GpJY92gD1M/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/ODMwLTE3NjE5MzAz/MjgtMzc1Ny5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35531830",
+        "doc": "discogs:wda5ead2848da6169",
+        "citacao": "Imagem (secondary): https://i.discogs.com/mEBfjP9JGeDkG_j5LzottOT4NudaZfLb8GpJY92gD1M/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/ODMwLTE3NjE5MzAz/MjgtMzc1Ny5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/35531830",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531830",
+          "doc": "discogs:wda5ead2848da6169",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531830",
+          "doc": "discogs:wda5ead2848da6169",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1929 (Discogs)",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531830",
+          "doc": "discogs:wda5ead2848da6169",
+          "citacao": "Data: 1929"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica gravação em outubro de 1928."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: outubro de 1928 (gravação, blogue)",
+      "data": "1928-10",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/registos-fonogrficos-de-carlos-leal-e.html",
+          "doc": "gc-i:115151098147348832",
+          "citacao": "música é de Armando Goes, que a gravou em Outubro de 1928, acompanhado à guitarra por Albano de Noronha e Afonso de Sousa (Disco His Master’s Voice, E.Q. 192)."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1929; o blogue indica Afonso de Sousa à guitarra, o Discogs em violão."
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Afonso de Sousa (violão), Albano de Noronha (guitarra portuguesa)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531830",
+          "doc": "discogs:wda5ead2848da6169",
+          "citacao": "Acoustic Guitar – Afonso de Sousa Portuguese Guitar – Albano De Noronha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35531830",
+      "doc": "discogs:wda5ead2848da6169",
+      "citacao": "Editora: His Master's Voice – E.Q. 192"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-armando-goes.html",
+      "doc": "gc-i:112890085746767465",
+      "citacao": "Disco His Master’s Voice, E.Q. 192 7-62231 – FADO DA SAUDADE (Saudade, quem as não tem) 7-62232 – FADO ALENTEJANO (Fechei a porta à desgraça)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

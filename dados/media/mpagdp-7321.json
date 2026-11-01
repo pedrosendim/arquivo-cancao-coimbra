@@ -1,0 +1,29 @@
+{
+  "id": "mpagdp-7321",
+  "tipo": "video",
+  "plataforma": "vimeo",
+  "url": "https://vimeo.com/23956314",
+  "titulo": "Rui Pato, «Selecção de baladas do Zeca»",
+  "data": "2011-03-24",
+  "pessoas": [
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "mpagdp",
+      "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
+      "doc": "mpagdp:w3727eb9700537669",
+      "citacao": "Rui Pato - “Selecção de baladas do Zeca” ... Filmado em Coimbra, a 24 de Março de 2011 ... Realização: Nélia Marquez Martins"
+    },
+    {
+      "fonte": "mpagdp",
+      "url": "https://amusicaportuguesaagostardelapropria.org/map?video=343",
+      "doc": "mpagdp:wbe871599d635c544",
+      "citacao": "Selecção de baladas do Zeca ... Data: 2011-03-24 ... Créditos: Rui Pato"
+    }
+  ],
+  "nota": "O mesmo vídeo do Vimeo aparece em dois registos do arquivo (video=343 e video=7321).",
+  "estado_revisao": "rascunho"
+}

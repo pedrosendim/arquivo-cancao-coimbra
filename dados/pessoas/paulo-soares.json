@@ -1,0 +1,77 @@
+{
+  "id": "paulo-soares",
+  "tipo": "pessoa",
+  "nome": "Paulo Soares",
+  "nomes_alternativos": [
+    "Jojó"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
+      "doc": "gc-i:112195570628907920",
+      "citacao": "Para além de Paulo Soares, para que grandes guitarristas tem feito guitarras?"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/10/maos-que-moldam-maos-que-lavram-maos.html",
+      "doc": "gc-v:5165005216521559525",
+      "citacao": "Este tipo de guitarra foi pensado pelo instrumentista Paulo Soares (Jojó)"
+    }
+  ],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/10/festa-das-latas-1997-cartaz-da-festa.html", "doc": "gc-i:116179406847366303", "citacao": "organizado pelo jovem sócio da Secção de Fado da AAC Paulo Jorge Soares"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html", "doc": "gc-i:113639247173462895", "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v)"}, {"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html", "doc": "gc-iv:8594621721074033745", "citacao": "Antigo membro da Secção de Fado da AAC e do grupo Praxis Nova, executante formador de guitarra."}, {"fonte": "gc-iii", "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html", "doc": "gc-iii:881392082174466787", "citacao": "mormente, com a Secção de Fado e com os grupos de Fado e Estudantina, tendo também sido director desta secção"}], "nota": "Sócio; guitarra do grupo oficial / Grupo de Fados da Secção (1987-1988); organizou o sarau de gala de 25-11-1988. Uma fonte diz que foi «director desta secção» — a frase não deixa claro se é a Secção de Fado ou a Estudantina."},
+    {
+      "tipo": "filho_de",
+      "alvo": "jorge-de-oliveira-soares",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/paulo-soares-enviou-me-este-poema-de.html",
+          "doc": "gc-i:112292300853399406",
+          "citacao": "Paulo Soares enviou-me este poema de seu pai, Jorge de Oliveira Soares"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "praxis-nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/25-velas-sopram-os-pardalitos-do.html",
+          "doc": "gc-v:1061433716363483530",
+          "citacao": "o guitarrista Paulo Soares, solista dos Praxis Nova, que fez arranjos de gC para alguns temas de José Afonso."
+        }
+      ],
+      "nota": "guitarra solista; gravações de 1989 a 1998"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/6-ABRIL-2005_0022.jpg",
+      "legenda": "Paulo Soares (Jojó) tocando «Capricho em Lá» (peça do autor do post), numa guitarra fabricada por Fernando Meireles",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/paulo-soares-joj-tocando-uma-pea-de.html",
+          "doc": "gc-i:111308663875354395",
+          "citacao": "Paulo Soares, Jojó, tocando uma peça de minha autoria.: \"Capricho em Lá\", utilizando uma guitarra fabricada por Fernando Meireles."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

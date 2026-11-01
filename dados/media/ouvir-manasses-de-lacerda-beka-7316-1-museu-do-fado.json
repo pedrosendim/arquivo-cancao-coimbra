@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-beka-7316-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0468_17.mp3",
+  "titulo": "Canção da encosta — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-beka-7316",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0933.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/920/manasses_de_lacerda_cancao_da_encosta",
+      "doc": "museu-do-fado:w135ebb39e327bb3b",
+      "citacao": "Título: Canção da encosta ... Editora: Beka 7316 Referências: Disco “Beka” Grande, 7316, ∆7; 7316"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

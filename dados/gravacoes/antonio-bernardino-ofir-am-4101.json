@@ -1,0 +1,207 @@
+{
+  "id": "antonio-bernardino-ofir-am-4101",
+  "titulo": "Fado Corrido de Coimbra",
+  "formato": "EP",
+  "editora": "Ofir",
+  "referencia": "AM 4.101",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "antonio-bernardino",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "nuno-guimaraes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-borralho",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-rino",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "rui-borralho",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Sé Velha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Corrido de Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Mar Largo",
+      "obra": "mar-largo",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Fado das Águias",
+      "obra": "fado-das-aguias",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/2Qyp1_9JUxTemw_m4qv5FOIBbLCXHuMDPsT63J8kF-k/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM2/ODctMTQ5MTAxMjcw/MS04NTI2LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/9483687",
+        "doc": "discogs:wffe592c3a2b27d76",
+        "citacao": "Imagem (primary): https://i.discogs.com/2Qyp1_9JUxTemw_m4qv5FOIBbLCXHuMDPsT63J8kF-k/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM2/ODctMTQ5MTAxMjcw/MS04NTI2LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/9483687",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9483687",
+          "doc": "discogs:wffe592c3a2b27d76",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9483687",
+          "doc": "discogs:wffe592c3a2b27d76",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1967 (Discogs)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9483687",
+          "doc": "discogs:wffe592c3a2b27d76",
+          "citacao": "Data: 1967"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1967 nuns posts e 1968 noutros."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1967 (blogue)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "A interpretação de António Bernardino consta do EP Fado Corrido de Coimbra, OFIR AM 4.101, Porto, 1967"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue indicam 1968."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1968 (blogue)",
+      "data": "1968",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+          "doc": "gc-iv:3869478767060763956",
+          "citacao": "Porto: OFIR, AM 4.101, ano de 1968, canta António Bernardino acompanhado por Nuno Guimarães (1.ª g), Manuel Borralho (2.ª g), Jorge Rino/Rui Borralho (vv)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue e o Discogs indicam 1967."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações efetuadas na RTP-Porto, estúdios do Monte da Virgem",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o_19.html",
+          "doc": "gc-v:941700449180573107",
+          "citacao": "Gravações efetuadas na RTP-Porto/estúdios do Monte da Virgem."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Discogs grafa a faixa A1 como «Se Velha»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/9483687",
+          "doc": "discogs:wffe592c3a2b27d76",
+          "citacao": "A1 Se Velha  [Carlos De Figueiredo]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Arranjos de Rui Pato em Fado Corrido de Coimbra e Fado das Águias",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/nuno-guimares-e-guitarra-de-coimbra.html",
+          "doc": "gc-i:111401986234024994",
+          "citacao": "«Sé Velha», «Mar Largo», «Fado Corrido de Coimbra» e «Fado das Águias» (os dois últimos com arranjos de Rui Pato)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/9483687",
+      "doc": "discogs:wffe592c3a2b27d76",
+      "citacao": "Editora: Ofir – AM 4.101"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o_19.html",
+      "doc": "gc-v:941700449180573107",
+      "citacao": "EP FADO CORRIDO DE COIMBRA. António Bernardino. Porto: OFIR, AM 4.101, s/d. [1967]. Gravações efetuadas na RTP-Porto/estúdios do Monte da Virgem."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

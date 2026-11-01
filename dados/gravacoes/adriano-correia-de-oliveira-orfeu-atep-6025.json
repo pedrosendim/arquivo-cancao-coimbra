@@ -1,0 +1,213 @@
+{
+  "id": "adriano-correia-de-oliveira-orfeu-atep-6025",
+  "titulo": "Noite de Coimbra",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6025",
+  "ano": "1960",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "adriano-correia-de-oliveira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "eduardo-de-melo",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "durval-moreirinhas",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "jorge-moutinho",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Mentira",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6025-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Balada dos Sinos",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6025-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Canta Coração",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6025-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Chula",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6025-4-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/AeoEcK7CYP7mMeOq6pMBFjtB9r_PCCIaoyINw_TQTKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcy/NjQtMTY2NjIxMDE5/OC00NzQxLmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7427264",
+        "doc": "discogs:waf2084675ad5d4c6",
+        "citacao": "Imagem (primary): https://i.discogs.com/AeoEcK7CYP7mMeOq6pMBFjtB9r_PCCIaoyINw_TQTKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcy/NjQtMTY2NjIxMDE5/OC00NzQxLmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7427264",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7427264",
+          "doc": "discogs:waf2084675ad5d4c6",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7427264",
+          "doc": "discogs:waf2084675ad5d4c6",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1961 (Discogs)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7427264",
+          "doc": "discogs:waf2084675ad5d4c6",
+          "citacao": "Data: 1961"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1960."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1960 (blogue)",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "- Noite de Coimbra (EP, Orfeu, 1960) [Fado da Mentira/Balada dos Sinos/Canta Coração/Chula] ATEP 6025"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1961."
+    },
+    {
+      "campo": "outro",
+      "valor": "Primeiro disco gravado por Adriano Correia de Oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6071417968281872585",
+          "citacao": "Trata-se do primeiro disco gravado por Adriano Correia de Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Na Balada dos Sinos, quem acompanha na viola nylon é Eduardo de Melo, autor da música, e não os violas da ficha técnica",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6071417968281872585",
+          "citacao": "Quem efectivamente acompanha Adriano na viola nylon foi o próprio autor da música, Eduardo de Melo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O blogue corrige a ficha técnica do disco (António Portugal e Eduardo de Melo nas guitarras; Durval Moreirinhas e Jorge Moutinho nas violas)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Reeditado em 1973 no LP Fados de Coimbra (Orfeu SB 1224), junto com os EP ATEP 6033 e 6035",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6071417968281872585",
+          "citacao": "Reeditado pela ORFEU em 1973 sob o título genérico de FADOS DE COIMBRA (LP – SB 1224), disco este constituído pela junção dos três primeiros EP’s (ATEP 6025, 6033 e 6035) por ele gravados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7427264",
+          "doc": "discogs:waf2084675ad5d4c6",
+          "citacao": "Acoustic Guitar – Durval Moreirinhas Acoustic Guitar – Jorge Moutinho Cover – António Portugal Portuguese Guitar – António Portugal Portuguese Guitar – Eduardo De Melo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7427264",
+      "doc": "discogs:waf2084675ad5d4c6",
+      "citacao": "Editora: Orfeu – ATEP 6025"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "EP NOITE DE COIMBRA. Porto: Orfeu, ATEP 6025, 1960 António Jorge Moreira Portugal (1931-1994), dito António Portugal/Eduardo de Melo (1.ª e 2.ª gg de Coimbra); Durval Moreirinhas/Jorge Moutinho (vv nylon)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

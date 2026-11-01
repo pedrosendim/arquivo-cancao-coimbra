@@ -1,0 +1,65 @@
+{
+  "id": "viola-sem-fundo-oscar-cardoso",
+  "designacao": "Viola sem fundo construída por Óscar Cardoso, experimentada por Paulo Soares",
+  "tipo": "viola",
+  "construtor": "oscar-cardoso",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Paulo Soares experimentou-a: boa sonoridade, excelente projeção de som, mais fácil de tocar",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/paulo-soares-experimenta-viola-sem.html",
+          "doc": "gc-i:112128940307595930",
+          "citacao": "Paulo Soares experimenta a viola sem fundo de Óscar Cardoso. Boa sonoridade, com excelente projecção de som e, segundo disse Paulo Soares, mais fácil de tocar que numa viola vulgar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Os instrumentos sem fundo de Óscar Cardoso começaram em 1995",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/oscar-cardoso",
+          "doc": "museu-do-fado:w0bf1635e37c6cd48",
+          "citacao": "A mais radical e estabilizada de todas as inovações decorre de um processo que teve início em 1995 com os primeiros instrumentos sem fundo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Oscar%20com%20viola%20sem%20fundo%203.jpg",
+      "legenda": "Óscar Cardoso com a sua última viola sem fundo por si construída.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/scar-cardoso-com-sua-ltima-viola-sem.html",
+          "doc": "gc-i:112128878427806793",
+          "citacao": "Óscar Cardoso com a sua última viola sem fundo por si construída."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/scar-cardoso-com-sua-ltima-viola-sem.html",
+      "doc": "gc-i:112128878427806793",
+      "citacao": "Óscar Cardoso com a sua última viola sem fundo por si construída."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

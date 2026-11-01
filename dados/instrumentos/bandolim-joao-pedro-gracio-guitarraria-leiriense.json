@@ -1,0 +1,93 @@
+{
+  "id": "bandolim-joao-pedro-gracio-guitarraria-leiriense",
+  "designacao": "Bandolim da Guitarraria Leiriense, de João Pedro Grácio (Lisboa)",
+  "tipo": "bandolim",
+  "construtor": "joao-pedro-gracio",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Datação sugerida pelo proprietário: 1920-1950",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "O proprietário não indica nenhuma dada em concreto, sugerindo as balizas temporais 1920-1950."
+        }
+      ],
+      "conflito": true,
+      "nota": "Exemplar divulgado no blogue earlgmusic.com, segundo o post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Obra de Grácio Pai, talvez anterior a 1920",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "A obra será de Grácio Pai e talvez anterior a 1920."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Escala de 19 trastos (16 inteiros e três meios pontos agudos); cabeça com leque metálico de 8 parafusos sem fim; cavalete em osso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "Outro dado a ter em conta neste cordofone é a escala de 19 trastos, 16 inteiros e apêndice de três meios pontos agudos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "A cabeça, com leque metálico de 8 parafusos sem fim, replica a cabeça da chamada guitarra de Fado"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "O cavalete, em osso, corresponde ao antigo formato inteiro, com cerca de 12cm."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhalg0fVyE6HSA17XcLo6i52EdmGS6GoAX0T351JHsmDJMdrHCN42ZeG18y9WmYwi1kCHOeORKggG1q1cTQwzqdNb4Mvcam4uyp7gSuj_o42PGoSB80WDq3YOP5tA4qL5xz1lUjuJqpBco/s950/gracio+pai.jpg",
+      "legenda": "Bandolim da Guitarraria Leiriense, de João Pedro Grácio, Lisboa, sem data",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+          "doc": "gc-v:2888130575025550327",
+          "citacao": "como parece sugerir o exemplar abaixo reproduzido."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/04/bandolim-jpgracio.html",
+      "doc": "gc-v:2888130575025550327",
+      "citacao": "Bandolim da Guitarraria Leiriense, de João Pedro Grácio, Lisboa, sem data"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

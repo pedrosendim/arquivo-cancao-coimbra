@@ -1,0 +1,35 @@
+{
+  "id": "gabriel-ferreira",
+  "tipo": "pessoa",
+  "nome": "Gabriel Ferreira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "Atuou o GRUPO DE MANUEL BRANQUINHO, constituído por Manuel Branquinho (1º gC e voz), Gabriel Ferreira (2º gC) e Jorge Gomes (v)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/video-da-homenagem-ao-cantor-manasses.html",
+          "doc": "gc-v:1324171695999053016",
+          "citacao": "O Dr. Jorge Serra confirma Gabriel Ferreira como o 2º guitarra presente no filme."
+        }
+      ],
+      "nota": "2.ª guitarra; Sabrosa, 1968"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

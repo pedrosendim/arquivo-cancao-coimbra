@@ -1,0 +1,49 @@
+{
+  "id": "viola-de-arame-antonio-dos-santos-couceiro-1870",
+  "designacao": "Viola de corda de arame da oficina António dos Santos Couceiro, Coimbra, 1870 (Museu da Música, Lisboa)",
+  "tipo": "viola toeira",
+  "construtor": "antonio-dos-santos-couceiro",
+  "ano": "1870",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Viola de arame da oficina de António dos Santos Couceiro, Coimbra, 1870; acervo do Museu da Música (Lisboa)",
+      "data": "1870",
+      "local": "Lisboa (Museu da Música)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Doc. 3: Viola de corda de arame da oficina António dos Santos Couceiro/Coimbra/1870, acervo do Museu da Música/Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1s-LCiq-0aTO7qWZ0f_CkoFQ683bArAKkleU4ELjouISePMUsrj9iUVzygxNpPipDuOL6XY115jvtZ4k7sKLzTcCi-JCYrDoFHgPQNXr9k_lMS83ZZwYdbfQpaQTLgmGpPq2vlHgc5EQ/s1600/Toeira_AntonioAugustoSantos_MuseudaMusica.jpg",
+      "legenda": "Viola de corda de arame da oficina António dos Santos Couceiro, Coimbra, 1870 (acervo do Museu da Música, Lisboa).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Doc. 3: Viola de corda de arame da oficina António dos Santos Couceiro/Coimbra/1870, acervo do Museu da Música/Lisboa."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "Doc. 3: Viola de corda de arame da oficina António dos Santos Couceiro/Coimbra/1870"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "durval-moreirinhas",
+  "tipo": "pessoa",
+  "nome": "Durval Moreirinhas",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1937",
+      "data": "1937",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "músicas do viola Durval Moreirinhas (1937-2017)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "2017",
+      "data": "2017",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "músicas do viola Durval Moreirinhas (1937-2017)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Autor das músicas do EP «4 Canções de Coimbra» (1971) de Armando Marta, com a guitarra de António Andias",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "em 1971, gravando um EP com quatro temas de sua autoria, músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), a propósito do cantor Armando Marta (1940-2007), que gravou o EP com «quatro temas de sua autoria»."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
+          "doc": "gc-v:765637730129187761",
+          "citacao": "“Canções de Amor e de Esperança” de Luiz Goes. Uma obra magistralmente acompanhada e musicada por António Andias (g.), João Gomes (v.), António Toscano (v.) e Durval Moreirinhas (v.)"
+        }
+      ],
+      "nota": "viola no LP «Canções de Amor e de Esperança» (1971). Texto de Jorge Cravo reproduzido no blogue GC-V (2021)."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quartet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Relativamente ao grupo dos irmãos Melo [Holanda, dezembro de 1964], a Philips volta a insistir no rótulo Coimbra Quartet - abrangendo Eduardo de Melo (gC1), Ernesto de Melo (gC2), Durval Moreirinhas (v) e José Miguel Baptista (barítono)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
+          "doc": "gc-v:7865397689807915124",
+          "citacao": "José Miguel Baptista (barítono), Eduardo de Melo (gC1), Ernesto de Melo (gC2, sendo gC1 em Raiz), Durval Moreirinhas (v)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Conjuntamente com José Niza, gravou 1961, as primeiras baladas de José Afonso, exclusivamente acompanhadas á viola: Balada Aleixo e Minha Mãe."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Foi, aliás., com Octávio Sérgio que acompanhou José Afonso no LP Fados de Coimbra e outras canções (1981)."
+        }
+      ],
+      "nota": "Viola em 1961 (Minha Mãe, Balada Aleixo) e no LP de 1981."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "custodio-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/04/jorge-tuna-com-durval-moreirinhas-em.html",
+          "doc": "gc-iii:c3532747592666331486",
+          "citacao": "Durval Moreirinhas, filho do Tenente Custódio Moreirinhas"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
+        }
+      ],
+      "nota": "Dito num post de 2005 sobre Jorge Tuna e num comentário do blogue (Alfredo Moreirinhas, 2014), que cita uma carta do próprio Durval."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMZ5St8q7eqD8phS-XRh2VyslGlrzm2njGRJV-FRlEeuoChEXSg6d2cyi17vGSx6Fu0Us78hUn-tCCiV7bw2oRIgWTXA_ZEp3Qa-87KtGOZp1NW3fShtLi20iRTdS0XrlSt_j6CvB4-8/s1600/2007-09-20%255B7816%255D.jpg",
+      "legenda": "Durval Moreirinhas na homenagem a José Niza, Santarém, 20.09.2007.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/sobre-homenagem-durval-moreirinhas.html",
+          "doc": "gc-v:1391519358534874584",
+          "citacao": "Durval Moreirinhas na homenagem a José Niza, Santarém, 20.09.2007"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

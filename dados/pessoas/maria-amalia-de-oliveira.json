@@ -1,0 +1,90 @@
+{
+  "id": "maria-amalia-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "Maria Amália de Oliveira",
+  "nomes_alternativos": [
+    "Amália"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Costureira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Conhece Maria Amália de Oliveira, uma costureira de origem humilde"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento com José Afonso, Conservatória do Registo Civil de Coimbra, 11 de novembro de 1950",
+      "data": "1950-11-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "11 de Novembro ... 1º Casamento ... Casamento com Maria Amália de Oliveira, na Conservatória de Registo Civil de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia da AJA baseada na Tábua Cronológica de João Afonso dos Santos (José Afonso – Um Olhar Fraterno)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Divórcio de José Afonso: sentença de 1 de junho de 1963",
+      "data": "1963-06-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Data da sentença de divórcio entre Zeca e Maria Amália (interposta no ano anterior): 1 de Junho."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Inicia-se o processo de separação e posterior divórcio de Amália (1 de Junho de 1963)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Casamento com Maria Amália de Oliveira, na Conservatória de Registo Civil de Coimbra."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "Conhece Maria Amália de Oliveira, uma costureira de origem humilde, com quem vem a casar em segredo, por oposição dos pais."
+        }
+      ],
+      "nota": "Primeiro casamento (1950); divórcio em 1963."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

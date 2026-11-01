@@ -1,0 +1,55 @@
+{
+  "id": "pedro-lopes",
+  "tipo": "pessoa",
+  "nome": "Pedro Lopes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quinteto-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+          "doc": "gc-i:111168647604498715",
+          "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-alvorada",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+          "doc": "gc-v:2193830626081091255",
+          "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+          "doc": "gc-v:5730434124020714444",
+          "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+        }
+      ],
+      "nota": "viola"
+    },
+    {"tipo": "membro_de", "alvo": "coimbra-grupo-de-fados", "fontes": [{"fonte": "gc-ii", "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html", "doc": "gc-ii:6391499531088337897", "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."}], "nota": "viola (2008)"}
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "francisco-alte-da-veiga",
+  "tipo": "pessoa",
+  "nome": "Francisco Alte da Veiga",
+  "nomes_alternativos": [
+    "Prof. Doutor Francisco Alte da Veiga"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarrista da quarta geração da família Alte da Veiga",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Esta tradição tem vindo a prolongar-se aos netos de Eugénio Alte da Veiga, na pessoa do Professor Doutor Francisco Alte da Veiga, um guitarrista da quarta geração desta família."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "na guitarra, Francisco Alte da Veiga, Nuno Maia Grego e Filipe Almeida."
+        }
+      ],
+      "nota": "guitarra (passou pelo grupo, segundo João Moura); identificação com o Prof. Doutor Francisco Alte da Veiga feita pelo nome, a confirmar"
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "eugenio-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "aos netos de Eugénio Alte da Veiga, na pessoa do Professor Doutor Francisco Alte da Veiga"
+        }
+      ],
+      "nota": "A fonte não diz de qual dos filhos de Eugénio é filho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

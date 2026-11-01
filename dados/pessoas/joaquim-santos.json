@@ -1,0 +1,29 @@
+{
+  "id": "joaquim-santos",
+  "tipo": "pessoa",
+  "nome": "Joaquim Santos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "saudade-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

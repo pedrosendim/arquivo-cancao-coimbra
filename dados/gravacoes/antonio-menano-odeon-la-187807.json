@@ -1,0 +1,148 @@
+{
+  "id": "antonio-menano-odeon-la-187807",
+  "titulo": "Menina e Moça / Fado dos Dois Tons",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187807",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Menina e Moça",
+      "obra": "",
+      "media": [
+        "disco-antonio-menano-odeon-la-187807-menina-e-moca",
+        "ouvir-antonio-menano-odeon-la-187807-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Dois Tons",
+      "obra": "",
+      "media": [
+        "disco-antonio-menano-odeon-la-187807-fado-dos-dois-tons",
+        "ouvir-antonio-menano-odeon-la-187807-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/QqozfypvrXu3VX9kVuD2Cv2xfnj_ihuE1jt6sJHvWvY/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/ODYtMTQ3MjQ4Mjc0/OC02ODE1LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7761686",
+        "doc": "discogs:w43e094f56e5453d1",
+        "citacao": "Imagem (primary): https://i.discogs.com/QqozfypvrXu3VX9kVuD2Cv2xfnj_ihuE1jt6sJHvWvY/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/ODYtMTQ3MjQ4Mjc0/OC02ODE1LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7761686",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761686",
+          "doc": "discogs:w43e094f56e5453d1",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761686",
+          "doc": "discogs:w43e094f56e5453d1",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761686",
+          "doc": "discogs:w43e094f56e5453d1",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Berlim, 11 a 28 de dezembro de 1928: João Fernandes (guitarra) e Mário Marques (violão); nas peças assinaladas com asterisco, piano de Afonso Correia Leite (blogue)",
+      "data": "1928-12",
+      "local": "Berlim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "A terceira série fonográfica, ou registos berlinenses, ocorreu entre 11 e 28 de Dezembro de 1928, quase cinco meses após as gravações de Lisboa. O duo de guitarra e violão era formado por instrumentista do Fado de Lisboa, João Fernandes (g) e Mário Marques (v). Em algumas peças, que assinalaremos com asterisco no inventário, António Menano foi acompanhado ao piano por Afonso Correia Leite."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1007: MENINA E MOÇA (É preciso ter sofrido)*"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1016: FADO DOS DOIS TONS (Ser mutilado é ter jus)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Mário Marques e João Fernandes",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761686",
+          "doc": "discogs:w43e094f56e5453d1",
+          "citacao": "A1 Menina E Moça  [Mário Marques (5) (Mario Marques), João Fernandes (2), Fausto Frazão]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7761686",
+      "doc": "discogs:w43e094f56e5453d1",
+      "citacao": "Editora: Odeon – LA 187807"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

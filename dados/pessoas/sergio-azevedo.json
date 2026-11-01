@@ -1,0 +1,82 @@
+{
+  "id": "sergio-azevedo",
+  "tipo": "pessoa",
+  "nome": "Sérgio Azevedo",
+  "nomes_alternativos": [
+    "António Sérgio Azevedo",
+    "António Sérgio"
+  ],
+  "papeis": [
+    "compositor",
+    "guitarrista",
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Compositor de música erudita; acompanhou o pai à viola e à guitarra em alguns discos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/blog-de-srgio-azevedo.html",
+          "doc": "gc-i:111076191580795954",
+          "citacao": "O meu filho Sérgio Azevedo compositor de música erudita"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/blog-de-srgio-azevedo.html",
+          "doc": "gc-i:111076191580795954",
+          "citacao": "acompanhou-me à viola e à guitarra em alguns discos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "isabel-mulher-de-octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Na Páscoa de 1966 casou com Isabel da Conceição Torrado Marques [e Azevedo] ... do casamento nasceriam 3 filhos [o mais velho é o hoje musicólogo, compositor e professor da Escola Superior de Música / Instituto Politécnico de Lisboa Sérgio Azevedo (n. 1968)"
+        }
+      ],
+      "nota": "Filho mais velho do casamento de Octávio Sérgio com Isabel da Conceição Torrado Marques [e Azevedo]."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/blog-de-srgio-azevedo.html",
+          "doc": "gc-i:111076191580795954",
+          "citacao": "O meu filho Sérgio Azevedo compositor de música erudita"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/h-dias-eu-e-o-meu-filho-srgio-azevedo.html",
+          "doc": "gc-i:6777385647019386929",
+          "citacao": "Há dias eu e o meu filho Sérgio Azevedo"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
+          "doc": "gc-i:115447311328918440",
+          "citacao": "acompanhado por Octávio Sérgio e o filho António Sérgio (hoje, o compositor Sérgio Azevedo)"
+        }
+      ],
+      "nota": "Posts escritos por Octávio Sérgio."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "maria-henriqueta-da-camara-viterbo",
+  "tipo": "pessoa",
+  "nome": "Maria Henriqueta da Câmara Viterbo",
+  "nomes_alternativos": [
+    "Maria Henriqueta da Câmara Viterbo Menano",
+    "Henriqueta Viterbo Menano",
+    "Henriqueta Menano"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Casamento católico com António Menano, em Lisboa, em novembro de 1922",
+      "data": "1922-11",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "casou catolicamente com Maria Henriqueta da Câmara Viterbo, em Lisboa, no mês de Novembro de 1922"
+        }
+      ],
+      "conflito": true,
+      "nota": "Testemunhos do Eng. Nuno Menano (2003-2004), citados no post de 2006."
+    },
+    {
+      "campo": "outro",
+      "valor": "Casou com António Menano em 1923",
+      "data": "1923",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "àquela que viria depois a ser sua mulher, Henriqueta Viterbo Menano, o que significa que a dita quadra é anterior a 1924, visto terem casado em 1923"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post (2007) dá 1923, também com base em informação de Nuno Menano."
+    },
+    {
+      "campo": "outro",
+      "valor": "Apontada pelos antigos estudantes de Lourenço Marques como responsável pelo afastamento artístico do marido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "a responsável pelo “sequestro” artístico de António Menano seria a sua esposa, Henriqueta Menano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Opinião atribuída na fonte aos antigos estudantes da UC em Lourenço Marques."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O casamento católico com a Sra. D. Maria Henriqueta da Câmara Viterbo, realiza-se em Lisboa, em Novembro de 1922, e deste enlace nasceram os filhos, António Nuno, Maria da Graça e Francisco Paulo[2]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "casou catolicamente com Maria Henriqueta da Câmara Viterbo, em Lisboa, no mês de Novembro de 1922"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "sobrinho_de",
+      "alvo": "ruy-da-camara",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "dado que a esposa era sobrinha do cavaleiro tauromáquico D. Ruy da Câmara"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

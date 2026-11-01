@@ -1,0 +1,135 @@
+{
+  "id": "augusto-camacho-vieira",
+  "tipo": "pessoa",
+  "nome": "Augusto Camacho Vieira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
+      "doc": "gc-v:2387969368640592301",
+      "citacao": "O essencial da conversa que tive com Augusto Camacho Vieira vem confirmado num seu depoimento de 2005 no blogue Guitarra de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1924",
+      "data": "1924",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "não é possível olvidar Augusto Camacho (1924-2018)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), que lhe chama «Augusto Camacho»."
+    },
+    {
+      "campo": "morte",
+      "valor": "2018",
+      "data": "2018",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Augusto Camacho (1924-2018)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro disco em 1953, quando quintanista de Medicina",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "embora estudante dos anos 40, gravou o seu primeiro disco em 1953, quando quintanista de Medicina."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Fado de Coimbra – Dr. Augusto Camacho» (1958), primeira presença da guitarra de Carlos Paredes em gravações com um cantor de Coimbra",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Mas mais importante foi o EP “Fado de Coimbra – Dr. Augusto Camacho”, editado em 1958, que marca a primeira presença da guitarra de Carlos Paredes (1925-2004) em gravações com um cantor de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ],
+      "nota": "voz"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-serenata-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias, Barros Ferreira, Alcindo Costa e Augusto Camacho; Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola; Francisco Vasconcelos e Alexandre Bateiras na guitarra."
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/3122447",
+          "doc": "discogs:we5f0250c581e5ab7",
+          "citacao": "Membros: Alexandre Bateiras ... Augusto Camacho"
+        }
+      ],
+      "nota": "cantor (CD de 1997)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Camacho%20a%20cantar.jpg",
+      "legenda": "Homenagem a Ângelo Araújo em S. João da Madeira, nos Paços da Cultura. Augusto Camacho canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/homenagem-ngelo-arajo-na-s_114812770878376194.html",
+          "doc": "gc-i:114812770878376194",
+          "citacao": "Augusto Camacho canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

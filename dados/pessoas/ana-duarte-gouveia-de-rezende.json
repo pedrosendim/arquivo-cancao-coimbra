@@ -1,0 +1,46 @@
+{
+  "id": "ana-duarte-gouveia-de-rezende",
+  "tipo": "pessoa",
+  "nome": "Ana Duarte Gouveia de Rezende",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "À roda de 1896",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "dedicada a sua mãe Ana Duarte Gouveia de Rezende, falecida à roda de 1896"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Quando o filho Alexandre tinha 10 anos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/alexandre-de-resende-e-jose-archer-de.html",
+          "doc": "gc-v:5671634226316842061",
+          "citacao": "onde seu pai Alexandre Augusto Mendes de Pina e Rezende, fidalgo abastado, fora Cônsul Honorário de Portugal. Aos 10 anos perde sua mãe D. Ana Duarte Gouveia de Rezende."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "almeida-cruz-columbia-b-107",
+  "titulo": "A moda da Rita / Fado dos Sobreiros",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-107",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "A moda da Rita",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-107-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado dos Sobreiros",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-107-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«A moda da Rita», por Almeida Cruz — etiqueta: «A Moda da Rita / Canção Portugueza, Popular / Almeida Cruz / e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/620/almeida_cruz_a_moda_da_rita",
+          "doc": "museu-do-fado:w71357aa314f4db00",
+          "citacao": "Título: A moda da Rita ... Editora: Co. B-107 Referências: 11804; B107 ... Etiqueta: A Moda da Rita / Canção Portugueza, Popular / Almeida Cruz / e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w0ad91d86ac5d6a9d"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Moda da rita, Columbia B-107, 11804, canção tradicional portuguesa»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Moda da rita, Columbia B-107, 11804, canção tradicional portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado dos Sobreiros», por Almeida Cruz — etiqueta: «Fado dos sobreiros  / Fado          Popular / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/621/almeida_cruz_fado_dos_sobreiros",
+          "doc": "museu-do-fado:w7738764ec5d68aa1",
+          "citacao": "Título: Fado dos Sobreiros ... Editora: Co. B-107 Referências: 11823; B107 ... Etiqueta: Fado dos sobreiros  / Fado          Popular / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:we7fae297614981a2"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado dos Sobreiros, Columbia B-107, 11823, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado dos Sobreiros, Columbia B-107, 11823, música popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/620/almeida_cruz_a_moda_da_rita",
+      "doc": "museu-do-fado:w71357aa314f4db00",
+      "citacao": "Título: A moda da Rita ... Editora: Co. B-107 Referências: 11804; B107"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2115/almeida_cruz_a_moda_da_rita",
+      "doc": "museu-do-fado:w0ad91d86ac5d6a9d",
+      "citacao": "Título: A moda da Rita ... Editora: Co. B-107 Referências: 11804-1-1; B107"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Moda da rita, Columbia B-107, 11804, canção tradicional portuguesa"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/621/almeida_cruz_fado_dos_sobreiros",
+      "doc": "museu-do-fado:w7738764ec5d68aa1",
+      "citacao": "Título: Fado dos Sobreiros ... Editora: Co. B-107 Referências: 11823; B107"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2114/almeida_cruz_fado_dos_sobreiros",
+      "doc": "museu-do-fado:we7fae297614981a2",
+      "citacao": "Título: Fado dos Sobreiros ... Editora: Co. B-107 Referências: 11823-1-1, 65; B107"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado dos Sobreiros, Columbia B-107, 11823, música popular"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "trio-alvorada",
+  "tipo": "grupo",
+  "nome": "Trio Alvorada",
+  "nomes_alternativos": [
+    "Alvorada",
+    "Os Alvorada"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+      "doc": "gc-v:5730434124020714444",
+      "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+      "doc": "gc-v:5730434124020714444",
+      "citacao": "Congregando três dos mais notáveis executantes de cordofones ativos em Coimbra, perfeitamente contextualizados nos estilos históricos e na linguagem de Arthur e Carlos Paredes, o projeto fonográfico configura um momento de elevada qualidade na revisitação dos Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/02/viagem-aos-lugares-da-memoria-parediana.html",
+      "doc": "gc-v:7938856782360570376",
+      "citacao": "Presença do Trio Alvorada na RTP, no contexto das celebrações do nascimento de Carlos Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+      "doc": "gc-v:2193830626081091255",
+      "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes. O álbum vinil, lançado em 2025, no âmbito do 1.º centenário do nascimento de Carlos Paredes, reinterpreta repertório associado a Carlos e a Arthur Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/07/documentario-regresso.html",
+      "doc": "gc-v:7279997160273420044",
+      "citacao": "Assegura a parte musical o trio Alvorada - Ricardo Dias, António José Moreira, Pedro Lopes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "concerto de 10 de junho de 2022 no Mosteiro dos Jerónimos (reinterpretação de 10 temas de Arthur e Carlos Paredes)",
+      "data": "2022-06-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+          "doc": "gc-v:5730434124020714444",
+          "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD Legado de Carlos Paredes ao Mosteiro dos Jerónimos, EGEAC / Museu do Fado Discos, 2022 (distribuído em janeiro de 2023)",
+      "data": "2022",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+          "doc": "gc-v:5730434124020714444",
+          "citacao": "Capa, contracapa e rosto do CD LEGADO DE CARLOS PAREDES AO MOSTEIRO DOS JERÓNIMOS, Lisboa, EGEAC / Museu do Fado Discos, 2022, distribuído em janeiro de 2023."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "duas guitarras de Coimbra construídas por João Pedro Grácio Júnior",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+          "doc": "gc-v:5730434124020714444",
+          "citacao": "Foram utilizadas duas guitarras de Coimbra construídas por João Pedro Grácio Júnior, assistidas tecnicamente por Orlando Trindade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP Regresso (2025), no âmbito do centenário de Carlos Paredes",
+      "data": "2025",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+          "doc": "gc-v:2193830626081091255",
+          "citacao": "O álbum vinil, lançado em 2025, no âmbito do 1.º centenário do nascimento de Carlos Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "cinco estrelas da revista britânica Songlines para o projeto Regresso",
+      "data": "2025",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+          "doc": "gc-v:2193830626081091255",
+          "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "parte musical do documentário «Regresso - [1.º] Centenário de Carlos Paredes», de Ivan Dias (RTP1, 2026)",
+      "data": "2026",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/documentario-regresso.html",
+          "doc": "gc-v:7279997160273420044",
+          "citacao": "A RTP1 exibirá na próxima 5.ª feira, dia 23 de julho, pelas 23.00h, o documentário Regresso - [1.º] Centenário de Carlos Paredes, realizado por Ivan Dias"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/documentario-regresso.html",
+          "doc": "gc-v:7279997160273420044",
+          "citacao": "Assegura a parte musical o trio Alvorada - Ricardo Dias, António José Moreira, Pedro Lopes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKUGIMbVHkHx2eisfbyvkubSs3jvMgE48NByzUi8mbRxFWh9h6GDY-Mpt0Pyik3hv3LIKsCKyeOjCWMpFrKFoOnLi-TDkqC5ehq4GH7i34UCFMYDCQkJguydhO0Tw96DKhaX9roWIxlT2PDjzQlWa2sgje5kogmDU_Q0r_Eeb53AQOdyShUgtxTSGTgU/s1408/alvorada.jpg",
+      "legenda": "Trio Alvorada na RTP, nas celebrações do nascimento de Carlos Paredes.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/viagem-aos-lugares-da-memoria-parediana.html",
+          "doc": "gc-v:7938856782360570376",
+          "citacao": "Presença do Trio Alvorada na RTP, no contexto das celebrações do nascimento de Carlos Paredes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "RTP Play: Regresso - Centenário de Carlos Paredes",
+      "url": "https://www.rtp.pt/play/palco/p16958/e944394/regresso-centenario-de-carlos-paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

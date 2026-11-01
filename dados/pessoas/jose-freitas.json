@@ -1,0 +1,48 @@
+{
+  "id": "jose-freitas",
+  "tipo": "pessoa",
+  "nome": "José Freitas",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/morreu-no-passado-dia-3-jose-freitas.html",
+          "doc": "gc-iii:1078302803381106830",
+          "citacao": "Morreu no passado dia 3, José Freitas, viola do grupo Raízes de Coimbra, até a doença o impedir de dar a sua colaboração."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/esta-tarde-em-ega-pedido-do-comum-amigo.html",
+          "doc": "gc-i:3499661072843255683",
+          "citacao": "Instrumentistas: José Freitas (v), Alcides Freixo (g), Octávio Sérgio (g), Humberto Matias (v) e Luís Filipe (v). Cantaram Heitor Lopes e Mário Rovira."
+        }
+      ],
+      "nota": "viola; até 2009"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "saudade-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+        }
+      ],
+      "nota": "viola"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

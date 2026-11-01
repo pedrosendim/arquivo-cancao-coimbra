@@ -1,0 +1,209 @@
+{
+  "id": "cordis-piano-e-guitarra-portuguesa-2008",
+  "titulo": "Cordis – Piano e Guitarra Portuguesa",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "",
+  "ano": "2008",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "cordis",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "bruno-costa",
+      "funcao": "guitarra portuguesa"
+    },
+    {
+      "pessoa": "paulo-figueiredo",
+      "funcao": "piano"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Valsa por um Tempo que Passo",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-1-apple-music"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Sol Maior",
+      "obra": "variacoes-em-sol-maior-artur-paredes",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-2-apple-music"]
+    },
+    {
+      "n": 3,
+      "titulo": "Caminhos",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-3-apple-music"]
+    },
+    {
+      "n": 4,
+      "titulo": "Dança dos Camponeses",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-4-apple-music"]
+    },
+    {
+      "n": 5,
+      "titulo": "Variações em Si Menor",
+      "obra": "variacoes-em-si-menor-artur-paredes",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-5-apple-music"]
+    },
+    {
+      "n": 6,
+      "titulo": "Acção",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-6-apple-music"]
+    },
+    {
+      "n": 7,
+      "titulo": "Maio de 78",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-7-apple-music"]
+    },
+    {
+      "n": 8,
+      "titulo": "Canto de Amanhecer",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-8-apple-music"]
+    },
+    {
+      "n": 9,
+      "titulo": "Melodia para um Poeta",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-9-apple-music"]
+    },
+    {
+      "n": 10,
+      "titulo": "Passatempo",
+      "obra": "passatempo-artur-paredes",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-10-apple-music"]
+    },
+    {
+      "n": 11,
+      "titulo": "Canto de Rua",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-11-apple-music"]
+    },
+    {
+      "n": 12,
+      "titulo": "António Marinheiro",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-12-apple-music"]
+    },
+    {
+      "n": 13,
+      "titulo": "Sede e Morte",
+      "obra": "",
+      "media": ["ouvir-cordis-piano-e-guitarra-portuguesa-2008-13-apple-music"]
+    }
+  ],
+  "capa": {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjHMDleqHaQfowUv64Rj4uYbKvcxhyfZ1PM2nBtsZssICkCQzfuXM6qmEVslnLValTe55NHSeMQ9vSahZ-7AHaHsJ18OQGMUEqDRkoS5LXLLhNRvvIQDa26FO7IM0kXUcCDfZj3ruc4k/s1600-h/Cordis-Disco-Capa.gif",
+    "fontes": [
+      {
+        "fonte": "gc-ii",
+        "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/cd-cordis-de-bruno-costa-e-paulo.html",
+        "doc": "gc-ii:1985649567820024580",
+        "citacao": "CD Cordis de Bruno Costa (guitarra) e Paulo Figueiredo (piano)."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13158467",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato e país (Discogs): 1 × CD, Album; Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158467",
+          "doc": "discogs:w1dfe6f8a6a29236a",
+          "citacao": "Formato: 1 × CD, Album País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2008 (Discogs)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158467",
+          "doc": "discogs:w1dfe6f8a6a29236a",
+          "citacao": "Data: 2008"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Lançamento no Pavilhão Centro de Portugal, Coimbra, a 12 de setembro, co-organizado com a Orquestra Clássica do Centro",
+      "data": "2008-09-12",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+          "doc": "gc-ii:8341781972803406558",
+          "citacao": "Lançamento Cd : “CORDIS” – piano e guitarra portuguesa Dia 12 de Setembro / 21h30 / Pavilhão Centro de Portugal / Coimbra Entrada gratuita Co – organização : - Orquestra Clássica do Centro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autorias (Discogs): António Portugal (1), Artur Paredes (2, 5, 10), Bruno Costa (3), Carlos Paredes (4, 6, 8, 9, 11-13), Jorge Gomes (7)",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13158467",
+          "doc": "discogs:w1dfe6f8a6a29236a",
+          "citacao": "1 Valsa Por Um Tempo Que Passo [António Portugal] 2 Variações Em Sol Maior [Artur Paredes] 3 Caminhos [Bruno Costa (7)] 4 Dança Dos Camponeses [Carlos Paredes] 5 Variações Em Si Menor [Artur Paredes] 6 Acção [Carlos Paredes] 7 Maio De 78 [Jorge Gomes (2)]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Apreciação no blogue: «Uma nova maneira de ouvir guitarra de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/cd-cordis-de-bruno-costa-e-paulo.html",
+          "doc": "gc-ii:1985649567820024580",
+          "citacao": "Uma nova maneira de ouvir guitarra de Coimbra. Disco de elevada craveira, mas que irá chocar muitos puristas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13158467",
+      "doc": "discogs:w1dfe6f8a6a29236a",
+      "citacao": "Título: Piano E Guitarra Portuguesa Artistas: Cordis (2), Bruno Costa (7), Paulo Figueiredo (2) Editora: Not On Label – none"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/cd-cordis-de-bruno-costa-e-paulo.html",
+      "doc": "gc-ii:1985649567820024580",
+      "citacao": "CD Cordis de Bruno Costa (guitarra) e Paulo Figueiredo (piano)."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

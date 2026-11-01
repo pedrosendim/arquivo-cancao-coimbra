@@ -1,0 +1,32 @@
+{
+  "id": "xico-tio-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "Xico",
+  "nomes_alternativos": [
+    "Tio Xico"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "«Republicano anticlerical e anti-sidonista»; tio de José Afonso em Aveiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "confiado à tia Gegé e ao tio Xico, um «republicano anticlerical e anti-sidonista»"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

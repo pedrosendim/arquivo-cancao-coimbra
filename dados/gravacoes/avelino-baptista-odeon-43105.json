@@ -1,0 +1,80 @@
+{
+  "id": "avelino-baptista-odeon-43105",
+  "titulo": "Noite serena",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "43105 / 43106",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "avelino-baptista",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Noite serena",
+      "obra": "",
+      "media": [
+        "ouvir-avelino-baptista-odeon-43105-1-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Noite serena», por Avelino Baptista — etiqueta: «Noite Serena  / (Canção Popular) / por / Avellino Baptista  / Lisboa»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/3899/avelino_baptista_noite_serena",
+          "doc": "museu-do-fado:w9fd5ae9fdd88af5f",
+          "citacao": "Título: Noite serena ... Editora: Odeon 43105 43106 Referências: Disco Odeon, XO34, X, 43105; 43105 ... Etiqueta: Noite Serena  / (Canção Popular) / por / Avellino Baptista  / Lisboa "
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Gravação de Avelino Baptista referida no blogue a propósito da «Noite Serena» e da lição coimbrã",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/a-barquinha.html",
+          "doc": "gc-v:7037767787066774237",
+          "citacao": "idem, disco Odeon n.º 43105 «Noite Serena (Canção popular)». Neste último Baptista não canta exactamente a melodia original nem a letra da lição coimbrã"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/3899/avelino_baptista_noite_serena",
+      "doc": "museu-do-fado:w9fd5ae9fdd88af5f",
+      "citacao": "Título: Noite serena ... Editora: Odeon 43105 43106 Referências: Disco Odeon, XO34, X, 43105; 43105"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/04/a-barquinha.html",
+      "doc": "gc-v:7037767787066774237",
+      "citacao": "idem, disco Odeon n.º 43105 «Noite Serena (Canção popular)». Neste último Baptista não canta exactamente a melodia original nem a letra da lição coimbrã"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

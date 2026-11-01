@@ -1,0 +1,106 @@
+{
+  "id": "ricardo-dias-ensemble",
+  "tipo": "grupo",
+  "nome": "Ricardo Dias Ensemble",
+  "nomes_alternativos": [],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/artist/4033661",
+      "doc": "discogs:wfb5a079a47a5af98",
+      "citacao": "Ricardo Dias Ensemble is Portuguese fado group formed in 2013, lead by Ricardo J. Dias, where he plays accordion and keys, accompanied by José Vilhena on vocals, Ricardo Dias on acoustic guitar, Ni Ferreirinha on viola (a type of portuguese guitar) and Bernardo Moreira on double bass."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+      "doc": "gc-v:6415702352396943019",
+      "citacao": "Ricardo Dias Ensemble é o primeiro trabalho que, em muitos anos, propõe a interpretação de Fados e Canções de Coimbra com uma base instrumental constituída por consagrados nomes da cena musical Portuguesa e com uma matriz inovadora."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "formado em 2013, dirigido por Ricardo J. Dias (Discogs)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/4033661",
+          "doc": "discogs:wfb5a079a47a5af98",
+          "citacao": "Ricardo Dias Ensemble is Portuguese fado group formed in 2013, lead by Ricardo J. Dias"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação: Ricardo J. Dias (acordeão e piano), Ricardo Dias (guitarra de Coimbra), Bernardo Moreira (contrabaixo), Ni Ferreirinha (viola), José Vilhena (voz)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "Ricardo J. Dias – (acordeão e piano"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "Ricardo Dias (guitarra de Coimbra / renovador das suas sonoridades), Bernardo Moreira (contrabaixo"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "Ni Ferreirinha (viola / papel preponderante no desenvolvimento do Fado – Canção de Coimbra) e José Vilhena (voz"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Discogs descreve Ricardo Dias como «acoustic guitar»; o post diz «guitarra de Coimbra»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "estreia no Teatro Académico de Gil Vicente, 16 de janeiro de 2015",
+      "data": "2015-01-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html",
+          "doc": "gc-v:6415702352396943019",
+          "citacao": "cuja estreia está marcada para o dia 16 de Janeiro de 2015, no Teatro Académico de Gil Vicente"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra Fado» (ARC Music EUCD 2530, 2014)",
+      "data": "2014",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6154915",
+          "doc": "discogs:w0c9e708c7c468269",
+          "citacao": "Editora: ARC Music – EUCD 2530"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Ricardo Dias Ensemble",
+      "url": "https://www.discogs.com/artist/4033661"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

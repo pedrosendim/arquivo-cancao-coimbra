@@ -1,0 +1,35 @@
+{
+  "id": "carlos-jesus",
+  "tipo": "pessoa",
+  "nome": "Carlos Jesus",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+          "doc": "gc-i:112138924320281633",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496890596824036.html",
+          "doc": "gc-i:111496890596824036",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com o homenageado a cantar. Violas, Aníbal Moreira e Paulo Larguesa. Em guitarra, Carlos Jesus."
+        }
+      ],
+      "nota": "guitarra; 2005"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

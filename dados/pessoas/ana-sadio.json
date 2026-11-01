@@ -1,0 +1,45 @@
+{
+  "id": "ana-sadio",
+  "tipo": "pessoa",
+  "nome": "Ana Sadio",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "guitarra no CD «Cordas do Mondego» (Secção de Fado da AAC, 1999)",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Guitarras por Bruno Costa, Nuno Dias, Miguel Drago, Luís Barroso, Ana Sadio, Jorge Gomes, Luís Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "guitarrista na Sé Velha, apontada entre as primeiras guitarristas saídas da Secção de Fado",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/mulhere-cano-de-coimbra.html",
+          "doc": "gc-i:6549417306952051641",
+          "citacao": "Da secção de fado da A.A.C, presidida por uma mulher, surgem as primeiras guitarristas. Na Sé Velha, Ana Sadio brilha com a sua guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não diz expressamente que Ana Sadio foi membro da Secção; não se criou a relação membro_de."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

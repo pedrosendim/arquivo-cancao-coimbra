@@ -1,0 +1,58 @@
+{
+  "id": "david-leandro",
+  "tipo": "pessoa",
+  "nome": "David Leandro",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+      "doc": "gc-v:3000711862838942328",
+      "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras e o primo deste último, Emanuel Maranha das Neves, que com Conde Veiga, assegurava o acompanhamento nas violas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Em finais de 1956, guitarra (com José Niza) no grupo de fados e guitarradas de Coimbra formado por Conde Veiga",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "Em finais de 1956 forma um grupo de fados e guitarradas de Coimbra, com José Niza (1938 – 2011) e David Leandro, nas guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha mínima, criada para ligar Emanuel Maranha das Neves."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/foto-do-livro-20-anos-do-g_111703412428246171.html",
+          "doc": "gc-i:111703412428246171",
+          "citacao": "\"Campa Rasa\", constituído por Rui Ferreira e Joaquim Mota a cantar, David Leandro e Valdemar Benavente à guitarra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/serenata-tradicional-dos-estudantes-de.html",
+          "doc": "gc-i:115306904947059729",
+          "citacao": "o grupo “Campa Rasa” constituído por David Leandro e Valdemar Benavente (guitarras)"
+        }
+      ],
+      "nota": "guitarra (2003-2006)"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

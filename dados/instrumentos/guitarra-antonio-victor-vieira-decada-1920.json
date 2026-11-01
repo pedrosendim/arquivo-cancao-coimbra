@@ -1,0 +1,77 @@
+{
+  "id": "guitarra-antonio-victor-vieira-decada-1920",
+  "designacao": "Guitarra de Lisboa de António Victor Vieira, provavelmente dos anos 1920 (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "antonio-victor-vieira",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Guitarra de Lisboa, provavelmente dos anos 1920; reparada e com acabamento a goma-laca por Ron Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Antonio Victor Vieira, Guitarra Lisbon, probably 1920s. Repaired and French Poished by Ron Fernandez."
+        }
+      ],
+      "conflito": false,
+      "nota": "Outra página do mesmo site (PortugueseGuitarMethod.html) mostra uma guitarra de António Victor Vieira datada de 1920 (ficha guitarra-antonio-victor-vieira-1920-n-1970); as fontes não dizem se é o mesmo instrumento."
+    },
+    {
+      "campo": "outro",
+      "valor": "Várias fendas reparadas no fundo; escala mais curta e cordas mais soltas do que nas guitarras modernas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Back of Antonio Victor Viera. There are several repaired cracks in the back of this instrument. It has a very interesting sound because the scale is shorter and the strings are looser than modern guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/AVictorVieraface.jpg",
+      "legenda": "Below: Antonio Victor Vieira, Guitarra Lisbon, probably 1920s.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: Antonio Victor Vieira, Guitarra Lisbon, probably 1920s."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/VieraBack.jpg",
+      "legenda": "Above: Back of Antonio Victor Viera.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Back of Antonio Victor Viera."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: Antonio Victor Vieira, Guitarra Lisbon, probably 1920s."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

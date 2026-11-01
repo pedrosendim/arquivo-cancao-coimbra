@@ -1,0 +1,44 @@
+{
+  "id": "almeida-d-eca",
+  "tipo": "pessoa",
+  "nome": "Almeida d'Eça",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "1902 – 1958; cantor de Coimbra vindo do Porto; acompanhou o Orfeon Académico a França em 1924; ainda em 1933 fazia parte do Fado Académico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Almeida d’Eça (1902 – 1958)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "também vindo Porto, faz parte deste grupo de grandes cantores de Coimbra. Acompanhou o Orfeon Académico da Universidade de Coimbra, na sua célebre viagem a França em 1924."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "em 1933, ainda fazia parte do Fado Académico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

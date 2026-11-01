@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-1070-x-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0149_15.mp3",
+  "titulo": "Samaritana — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-1070-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0298.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/292/edmundo_bettencourt_samaritana",
+      "doc": "museu-do-fado:w455d5652ad71b383",
+      "citacao": "Título: Samaritana ... Editora: Co. 1070X Referências: P301, W, 1-B-2, C, SP; 1070-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

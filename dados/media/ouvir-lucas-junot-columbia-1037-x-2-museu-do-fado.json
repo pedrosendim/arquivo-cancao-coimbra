@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-lucas-junot-columbia-1037-x-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1006_25.mp3",
+  "titulo": "Fado Corrido de Coimbra — Lucas Junot",
+  "data": "",
+  "pessoas": [
+    "lucas-junot"
+  ],
+  "obras": [],
+  "gravacao": "lucas-junot-columbia-1037-x",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2002.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1992/lucas_junot_fado_corrido_de_coimbra",
+      "doc": "museu-do-fado:w4de99ae3130e2e93",
+      "citacao": "Título: Fado Corrido de Coimbra ... Editora: Co. 1037X Referências: P196, W, 2-B-2; 1037-X"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

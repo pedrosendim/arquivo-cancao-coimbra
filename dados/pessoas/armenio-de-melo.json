@@ -1,0 +1,31 @@
+{
+  "id": "armenio-de-melo",
+  "tipo": "pessoa",
+  "nome": "Arménio de Melo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "professor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "ensino",
+      "valor": "professor de guitarra portuguesa de Luís Barroso, em Lisboa",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "Dort begann er bei Professor Arménio de Melo mit dem Erlernen der portugiesischen Gitarre."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto em alemão, na biografia de Luís Barroso (apresentação do Fado ao Centro)."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

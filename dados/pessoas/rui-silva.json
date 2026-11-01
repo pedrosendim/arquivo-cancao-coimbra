@@ -1,0 +1,29 @@
+{
+  "id": "rui-silva",
+  "tipo": "pessoa",
+  "nome": "Rui Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em ambos os trabalhos discográficos foi acompanhado por António José Moreira (1982-1990) e Henrique Ferrão (1980-1990) nas guitarras, e José Carlos Ribeiro (1981-1990), Luís Miguel Martins (1982-1990) e Manuel Pera (1987-1990) nas violas. Deste grupo fizeram também parte os cantores: António Nogueira (1980-1981), António Pimentel (1981-1985), Paulo Saraiva (1988) e Rui Silva (1989-1990), bem como, Rijo Madeira (guitarra, 1980-1982) e Arsénio Carvalho (viola, 1980-1981)."
+        }
+      ],
+      "nota": "voz; 1989-1990"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

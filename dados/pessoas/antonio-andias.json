@@ -1,0 +1,94 @@
+{
+  "id": "antonio-andias",
+  "tipo": "pessoa",
+  "nome": "António Andias",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra de Coimbra, arranjos e solos no LP Canções de Amor e de Esperança de Luiz Goes (gravado em dezembro de 1971)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/cancoes-d-amor-e-de-esperanca-o-lp-dito.html",
+          "doc": "gc-v:4838746103295241188",
+          "citacao": "Luiz Goes (barítono), acompanhado por António Andias (gC, arranjos e solos), Durval Moreirinhas (v), João Gomes (v), António Toscano (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1946",
+      "data": "1946",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "a de António Andias (n. 1946)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Única guitarra no EP «4 Canções de Coimbra» (1971) de Armando Marta, com músicas de Durval Moreirinhas",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-andias-no-grupo-raizes-de.html",
+          "doc": "gc-iii:4529248304542610131",
+          "citacao": "António Andias no grupo Raízes de Coimbra. Foi com imenso júbilo que recebemos tão ilustre contributo."
+        }
+      ],
+      "nota": "guitarra; entra no grupo em julho de 2010"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
+          "doc": "gc-v:765637730129187761",
+          "citacao": "Uma obra magistralmente acompanhada e musicada por António Andias (g.), João Gomes (v.), António Toscano (v.) e Durval Moreirinhas (v.)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/cancoes-d-amor-e-de-esperanca-o-lp-dito.html",
+          "doc": "gc-v:4838746103295241188",
+          "citacao": "Luiz Goes (barítono), acompanhado por António Andias (gC, arranjos e solos)"
+        }
+      ],
+      "nota": "guitarra no LP «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

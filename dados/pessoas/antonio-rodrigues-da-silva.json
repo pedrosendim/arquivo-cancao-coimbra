@@ -1,0 +1,68 @@
+{
+  "id": "antonio-rodrigues-da-silva",
+  "tipo": "pessoa",
+  "nome": "António Rodrigues da Silva",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+      "doc": "gc-i:113544803961572695",
+      "citacao": "António Rodrigues da Silva (circa 1870-1918), barbeiro e guitarrista, pai dos irmãos Rodrigues, ensinante de guitarra em afinação natural;"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1880",
+      "data": "1880",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:2712520702035375656",
+          "citacao": "Filho do barbeiro António Rodrigues da Silva (1880 – 1918), violinista e depois guitarrista, falecido vítima da infelizmente célebre e terrível pneumónica"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "circa 1870",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "António Rodrigues da Silva (circa 1870-1918), barbeiro e guitarrista"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1918, vítima da pneumónica",
+      "data": "1918",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/fernando-rodrigues-da-silva.html",
+          "doc": "gc-v:2712520702035375656",
+          "citacao": "António Rodrigues da Silva (1880 – 1918), violinista e depois guitarrista, falecido vítima da infelizmente célebre e terrível pneumónica, também chamada de gripe espanhola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

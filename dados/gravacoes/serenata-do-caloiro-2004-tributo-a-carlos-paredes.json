@@ -1,0 +1,98 @@
+{
+  "id": "serenata-do-caloiro-2004-tributo-a-carlos-paredes",
+  "titulo": "Serenata do Caloiro 2004 - Tributo a Carlos Paredes",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "",
+  "ano": "",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "aeminium",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "joao-pedro-monteiro",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "pedro-cunha",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "henrique-fraga",
+      "funcao": "guitarra de Coimbra"
+    }
+  ],
+  "faixas": [],
+  "capa": {
+    "url": "http://photos1.blogger.com/img/258/3919/1024/Tributo%20a%20Carlos%20Paredes%201.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-i",
+        "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+        "doc": "gc-i:111551986743632278",
+        "citacao": "Capa do CD \"Serenata do Caloiro 2004 - Tributo a Carlos Paredes\", editado pela Secção de Fado da Associação Académica de Coimbra."
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "três grupos: Aeminium (João Pedro Monteiro, Pedro Cunha, João Farinha), Lacrima (Henrique Fraga e Francisco Fernandes, guitarras; Carlos Costa Almeida e Guilherme Fialho, violas; Tiago Santos e Rui Providência, canto) e Renascer (Pedro Amaral, José David Matias, Luís Andrade dos Santos)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "São três os grupos que compõem este CD: Grupo de Fado de Coimbra \"AEMINIUM\", composto por João Pedro Monteiro, em guitarra, Pedro Cunha à viola e João Farinha no canto; \"Grupo de Fados e Guitarradas de Coimbra \"LACRIMA\", constituído por Henrique Fraga e Francisco Fernandes à guitarra, Carlos Costa Almeida e Guilherme Fialho à viola e a cantar Tiago Santos e Rui Providência. Grupo de Fados e Guitarradas de Coimbra \"RENASCER\" com Pedro Amaral à guitarra, José David Matias à viola e Luís Andrade dos Santos na voz."
+        }
+      ],
+      "conflito": false,
+      "nota": "João Farinha não foi ligado a ficha (há duas fichas com esse nome; identificação por confirmar)."
+    },
+    {
+      "campo": "outro",
+      "valor": "temas conhecidos e um inédito, o fado «Maria», letra de Antero de Quental e música de João Farinha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "O disco é essencialmente constituído por temas conhecidos. Apenas um deles é inédito. É o \"Fado\" \"Maria\", com letra de Antero de Quental e música de João Farinha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "a Escola da Secção, com o responsável Jorge Gomes, é elogiada a propósito deste disco",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "Nota-se neste trabalho que a Escola da Secção de Fado da Associação Académica, na pessoa do seu responsável Jorge Gomes, tem feito um bom trabalho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+      "doc": "gc-i:111551986743632278",
+      "citacao": "Capa do CD \"Serenata do Caloiro 2004 - Tributo a Carlos Paredes\", editado pela Secção de Fado da Associação Académica de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

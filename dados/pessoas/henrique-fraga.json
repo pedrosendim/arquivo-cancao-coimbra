@@ -1,0 +1,229 @@
+{
+  "id": "henrique-fraga",
+  "tipo": "pessoa",
+  "nome": "Henrique Fraga",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+      "doc": "gc-i:111539073728550400",
+      "citacao": "quero destacar aqui a execução bastante avançada de Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+      "doc": "gc-i:111551986743632278",
+      "citacao": "\"Grupo de Fados e Guitarradas de Coimbra \"LACRIMA\", constituído por Henrique Fraga e Francisco Fernandes à guitarra, Carlos Costa Almeida e Guilherme Fialho à viola e a cantar Tiago Santos e Rui Providência."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html",
+      "doc": "gc-ii:3489238618505977861",
+      "citacao": "Nesta, vê-se Henrique Fraga, um guitarrista de eleição, da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/07/henrique-fraga.html",
+      "doc": "gc-v:8309520983001569687",
+      "citacao": "Henrique Fraga, um guitarrista de eleição, com Marco Matos na viola."
+    },
+    {
+      "fonte": "museu-do-neo-realismo",
+      "url": "https://www.museudoneorealismo.pt/agenda/evento/espetaculo-carlos-paredes-por-henrique-fraga-e-joao-teixeira",
+      "doc": "museu-do-neo-realismo:w2739e847596ced60",
+      "citacao": "apresentamos no próximo dia 6 de abril, pelas 16h00, o espetáculo Carlos Paredes, pelas mãos de Henrique Fraga, acompanhado por João Teixeira, na viola clássica."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Escola da Secção de Fado da AAC, dirigida por Jorge Gomes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html",
+          "doc": "gc-ii:3489238618505977861",
+          "citacao": "Henrique Fraga, um guitarrista de eleição, da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
+          "doc": "gc-i:111539073728550400",
+          "citacao": "Bruno Costa e Henrique Fraga - da escola dirigida por Jorge Gomes - nas guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Serenata do Caloiro 2004 - Tributo a Carlos Paredes» (Secção de Fado da AAC), com o grupo Lacrima",
+      "data": "2004",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-serenata-do-caloiro-2004.html",
+          "doc": "gc-i:111551986743632278",
+          "citacao": "Capa do CD \"Serenata do Caloiro 2004 - Tributo a Carlos Paredes\", editado pela Secção de Fado da Associação Académica de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ano tirado do título do CD."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Guitarradas no Café Santa Cruz, com Manuel Coroa, Jorge Gomes, Nuno Dias e outros",
+      "data": "2005-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/na-semana-passada-tocaram-se.html",
+          "doc": "gc-i:111420758405596375",
+          "citacao": "Na semana passada tocaram-se guitarradas no Café Santa Cruz. Estiveram presentes: David, Henrique Fraga, Manuel Campos Coroa, Manuel Fernandes Campos Coroa, Jorge Gomes, Paulino e Nuno Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a Gilberto Grácio no Café Santa Cruz (encerramento do Mês do Fado): Rapsódia n.º 2 e Variações em Lá menor de Artur Paredes, Divertimento de Carlos Paredes",
+      "data": "2006-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-n_114428987632707434.html",
+          "doc": "gc-i:114428987632707434",
+          "citacao": "Homenagem a Gilberto Grácio no Café Santa Cruz, ontem. Encerramento do Mês do Fado. Henrique Fraga na guitarra e .... tocaram Rapsódia nº dois e Variações em Lá menor de Artur Paredes e Divertimento de Carlos Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata da Festa das Latas, em frente da Porta Férrea, com o grupo Lácrima (guitarras: Henrique Fraga e Manuel Coroa)",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/blog-post.html",
+          "doc": "gc-i:3828069183315282720",
+          "citacao": "foi montado um palco em frente da Porta Férrea e actuaram os grupos Lácrima e Despertar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/blog-post.html",
+          "doc": "gc-i:3828069183315282720",
+          "citacao": "Guitarra de Coimbra - Henrique Fraga e Manuel Coroa; Viola - Carlos Costa Almeida; Vozes - Tiago Santos e Rui Providência."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Guitarrista convidado na homenagem a Jorge Gomes (III Encontros Internacionais de Guitarra Portuguesa)",
+      "data": "2009-10",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/iii-encontros-internacionais-de_19.html",
+          "doc": "gc-iii:4136510483809807702",
+          "citacao": "com os seguintes guitarristas convidados: Henrique Fraga, Joana, Miguel Drago, Bruno Costa e Manuel Coroa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tertúlia-concerto de homenagem a Carlos Paredes na igreja de Airães (Felgueiras), com Luísa Amaro e Marco Matos",
+      "data": "2012-10",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/10/tertulias-itinerantes-felgueiras.html",
+          "doc": "gc-iv:4105200078170598469",
+          "citacao": "com uma tertúlia-concerto, que contará com Luísa Amaro (que foi companheira de Carlos Paredes e conhecida guitarrista do panorama nacional), Henrique Fraga e Marco Matos (guitarristas da zona de Coimbra)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo «Carlos Paredes», com João Teixeira (viola clássica), no Museu do Neo-Realismo, Vila Franca de Xira (6 de abril)",
+      "data": "2025-04-06",
+      "fontes": [
+        {
+          "fonte": "museu-do-neo-realismo",
+          "url": "https://www.museudoneorealismo.pt/agenda/evento/espetaculo-carlos-paredes-por-henrique-fraga-e-joao-teixeira",
+          "doc": "museu-do-neo-realismo:w2739e847596ced60",
+          "citacao": "Espetáculo Carlos Paredes, por Henrique Fraga e João Teixeira ... 06 Abr '25"
+        },
+        {
+          "fonte": "museu-do-neo-realismo",
+          "url": "https://www.museudoneorealismo.pt/agenda/evento/espetaculo-carlos-paredes-por-henrique-fraga-e-joao-teixeira",
+          "doc": "museu-do-neo-realismo:w2739e847596ced60",
+          "citacao": "No âmbito da exposição Uma Guitarra Com Gente Dentro – Carlos Paredes e o Neorrealismo, apresentamos no próximo dia 6 de abril"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088360210611619.html", "doc": "gc-i:113088360210611619", "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Henrique Fraga e Jorge Gomes."}, {"fonte": "gc-ii", "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html", "doc": "gc-ii:3489238618505977861", "citacao": "Henrique Fraga, um guitarrista de eleição, da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes."}, {"fonte": "jornal-a-cabra", "url": "https://acabra.pt/2023/05/serenata-que-chega-fitados-que-vao/", "doc": "jornal-a-cabra:w4861fb25b1027f5e", "citacao": "os originais de Marco Matos e Henrique Fraga, “Pequeno Nada” e “Ao Fundo do Túnel”, como homenagem aos ex-seccionistas"}], "nota": "Aluno da Escola de Guitarra da Secção (2005-2008); guitarra do grupo Lácrima (CD «Serenata do Caloiro 2004»); referido como ex-seccionista em 2023."},
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html",
+          "doc": "gc-ii:3489238618505977861",
+          "citacao": "da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes."
+        }
+      ],
+      "nota": "A fonte diz «da Escola da Secção de Fado da AAC, sob a batuta de Jorge Gomes» e «da escola dirigida por Jorge Gomes»."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEien7dK_SYpbDzqUbZWIjqLpfVkGQfk0ITjdZKV42J66Vo-jzbDoop94CUcaGDR_DM4QgAjM_IW1SZ2bZjP2VMTYjeb3b49CmMVPaixpktHzU2GlzKMQXROasbAcOiIyABbPEx0U3ZiNaI/s1600-h/Fado-Coi-Publico-15-1-07.gif",
+      "legenda": "Página do jornal Público (15-1-2008) com «foto artística» de Sérgio Azenha em que se vê Henrique Fraga à guitarra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/guitarra-e-o-canto-de-coimbra-no-jornal.html",
+          "doc": "gc-ii:3489238618505977861",
+          "citacao": "A Guitarra e o Canto de Coimbra no jornal \"Público\" de hoje, num artigo de Álvaro Vieira e foto artística de Sérgio Azenha. Nesta, vê-se Henrique Fraga"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Sec%20Fado%20Henrique%20Fraga.jpg",
+      "legenda": "Escola de Guitarra da Secção de Fado da AAC (2005): Henrique Fraga e Jorge Gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088360210611619.html",
+          "doc": "gc-i:113088360210611619",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. Henrique Fraga e Jorge Gomes."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Museu do Neo-Realismo — espetáculo «Carlos Paredes» (2025)",
+      "url": "https://www.museudoneorealismo.pt/agenda/evento/espetaculo-carlos-paredes-por-henrique-fraga-e-joao-teixeira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

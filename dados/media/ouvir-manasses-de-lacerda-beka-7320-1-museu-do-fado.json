@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-manasses-de-lacerda-beka-7320-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0468_18.mp3",
+  "titulo": "Fado Serenata — Manassés de Lacerda",
+  "data": "",
+  "pessoas": [
+    "manasses-de-lacerda"
+  ],
+  "obras": [],
+  "gravacao": "manasses-de-lacerda-beka-7320",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0932.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/921/manasses_de_lacerda_fado_serenata",
+      "doc": "museu-do-fado:wd6dea84bedbd6157",
+      "citacao": "Título: Fado Serenata ... Editora: Beka 7320 Referências: Disco “Beka” Grande, 7320, ∆7; 7320"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

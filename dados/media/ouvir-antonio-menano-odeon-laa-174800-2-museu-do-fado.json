@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-laa-174800-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1161_46.mp3",
+  "titulo": "Motivos alentejanos — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-laa-174800",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5520.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2302/antonio_menano_motivos_alentejanos",
+      "doc": "museu-do-fado:wd6c88d9d2164227c",
+      "citacao": "Título: Motivos alentejanos ... Editora: Od. LAA 174.800b [12\"]  Referências: XXOG1045, L, NR; LAA 174800b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

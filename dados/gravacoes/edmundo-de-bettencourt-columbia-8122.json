@@ -1,0 +1,170 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-8122",
+  "titulo": "Inquietação / Fado do Anto",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8122",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "albano-de-noronha",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "mario-faria-da-fonseca",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Inquietação",
+      "obra": "",
+      "media": [
+        "disco-edmundo-de-bettencourt-columbia-8122-inquietacao",
+        "ouvir-edmundo-de-bettencourt-columbia-8122-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Anto",
+      "obra": "",
+      "media": [
+        "disco-edmundo-de-bettencourt-columbia-8122-fado-do-anto",
+        "ouvir-edmundo-de-bettencourt-columbia-8122-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/Z9XEUEly4mYqamtOfTqFO34YP3d8_-RO5oFQ0_i5nfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/Mjk5LTE1NTI4MTg5/NDItNjE4Mi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/13364299",
+        "doc": "discogs:w136781c0c67307f1",
+        "citacao": "Imagem (secondary): https://i.discogs.com/Z9XEUEly4mYqamtOfTqFO34YP3d8_-RO5oFQ0_i5nfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/Mjk5LTE1NTI4MTg5/NDItNjE4Mi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/13364299",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364299",
+          "doc": "discogs:w136781c0c67307f1",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364299",
+          "doc": "discogs:w136781c0c67307f1",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364299",
+          "doc": "discogs:w136781c0c67307f1",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado no Porto, em fevereiro de 1928, no Palácio dos Carrancas (blogue)",
+      "data": "1928-02",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A 1ª série de gravações teve lugar no Porto, em Fevereiro de 1928, no Palácio dos Carrancas, antiga Casa Real. Foi acompanhado à guitarra por Artur Paredes e Albano de Noronha e, à viola, por Mário Faria da Fonseca, mas os seus nomes não figuram nos discos."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica Lisboa como local da gravação."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em Lisboa, fevereiro de 1928 (Discogs)",
+      "data": "1928-02",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13364299",
+          "doc": "discogs:w136781c0c67307f1",
+          "citacao": "Recorded in Lisboa, Feb. 1928"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue (J. Anjos de Carvalho) indica o Porto, Palácio dos Carrancas."
+    },
+    {
+      "campo": "outro",
+      "valor": "2.ª edição (etiqueta verde) com o número Columbia GL 103",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Foram editados 5 discos de 78 rpm, todos com etiqueta castanha e, numa 2ª edição, todos com etiqueta verde e com um outro número de catálogo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/13364299",
+      "doc": "discogs:w136781c0c67307f1",
+      "citacao": "Editora: Columbia – 8122"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Disco Columbia, 8122 Disco Columbia, GL 103 P. 307 – Inquietação (Quanto mais foges de mim) P. 331 – Fado do Anto (A Cabra da Velha Torre)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

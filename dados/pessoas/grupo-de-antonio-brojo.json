@@ -1,0 +1,229 @@
+{
+  "id": "grupo-de-antonio-brojo",
+  "tipo": "grupo",
+  "nome": "Grupo de António Brojo",
+  "nomes_alternativos": [
+    "Tertúlia do Calhabé",
+    "grupo de Pinho Brojo",
+    "grupo do Brojo"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+      "doc": "aja:w933d1889779fab04",
+      "citacao": "José Afonso matricula-se em 1949 na Faculdade de Letras, em Ciências Histórico-Filosóficas, e, simultaneamente, é convidado por António Brojo para o seu grupo de fados. Este grupo, depois da “geração de oiro” dos anos 20-30 (António Menano, Edmundo Bettencourt, Lucas Junot, Paradela de Oliveira, Armando Goes, Artur Paredes!) recolocou o fado e a guitarra de Coimbra ao seu mais alto nível de sempre."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "A formação constituiu-se em 1951 e manteve sólida agenda artística até 1954, data em que o guitarrista solista, Pinho Brojo, abandonou o grupo para se dedicar à preparação do doutoramento em Farmácia."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "Em 1952 a empresa portuense de discos Rádio Triunfo, Lda., deixa-se impressionar pelo sucesso de uma formação musical juvenil conimbricense que estava a dar que falar nas serenatas monumentais da Queima das Fitas, nos saraus académicos e aos microfones do Emissor Regional de Coimbra: o grupo de Pinho Brojo, conhecido inter amicus por Tertúlia do Calhabé."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "A Tertúlia do Calhabé é unanimemente considerada a melhor formação junior de CC ativa na primeira metade da década de 1950 e os registos fonográficos efetuados são consensualmente referidos como obra paradigmática produzida segundo elevados padrões de qualidade em termos de performances vocais e instrumentais. É este grupo que lidera na Coimbra do após segunda guerra a naturalização do legado guitarrístico de Artur Paredes, o qual passa a ser percebido como o “estilo de Coimbra”, e abre as portas a uma “segunda década de ouro”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+      "doc": "gc-v:8295583478477712776",
+      "citacao": "Os registos fonográficos de 1952-1953, ainda em discos de massa de 78 rpm, rapidamente deixaram de ser apenas um produto comercial-industrial, tendo ganho um valor acrescentado como bem cultural e património de referência replicado por diversos grupos de amadores bem até à década de 1990."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "constituiu-se em 1951",
+      "data": "1951",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "A formação constituiu-se em 1951"
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto de José Niza no site da AJA diz que José Afonso foi convidado por António Brojo para o seu grupo de fados em 1949."
+    },
+    {
+      "campo": "formacao",
+      "valor": "José Afonso convidado por António Brojo para o seu grupo de fados em 1949",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "José Afonso matricula-se em 1949 na Faculdade de Letras, em Ciências Histórico-Filosóficas, e, simultaneamente, é convidado por António Brojo para o seu grupo de fados"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge da data de constituição (1951) indicada no blogue Guitarra de Coimbra V."
+    },
+    {
+      "campo": "atividade",
+      "valor": "agenda artística até 1954, quando Pinho Brojo deixou o grupo para preparar o doutoramento em Farmácia",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "manteve sólida agenda artística até 1954, data em que o guitarrista solista, Pinho Brojo, abandonou o grupo para se dedicar à preparação do doutoramento em Farmácia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "conhecido inter amicus por Tertúlia do Calhabé",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "o grupo de Pinho Brojo, conhecido inter amicus por Tertúlia do Calhabé"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação regular: António Pinho de Brojo (guitarrista titular), António Portugal (segundo guitarra), Aurélio dos Reis e Mário de Castro (violões de cordas de aço), Fernando Rolim (primeiro tenor), José Afonso (segundo tenor) e Luiz Goes (barítono)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Foi este quarteto instrumental regularmente constituído pelos seguintes elementos: ... António Pinho de Brojo (1927-1999), guitarrista titular ... António Jorge Moreira Portugal (1931-1994), segundo guitarra ... Aurélio Afonso dos Reis (1919-2014) ... executante de violão de cordas de aço ... Mário Henriques de Castro (1918-1999) ... Fernando José Monteiro Rolim (n. 1931), primeiro tenor ... segundo tenor ... Luís Fernando de Sousa Pires de Goes (1933-2012), barítono"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão do blogue Guitarra de Coimbra V (2016). Machado Soares e Florêncio Neto de Carvalho aparecem aqui só como colaboradores."
+    },
+    {
+      "campo": "outro",
+      "valor": "integraram o grupo António Brojo e António Portugal (guitarras), Aurélio Reis e Mário de Castro (violas), Luís Goes, José Afonso, Fernando Machado Soares, Fernando Rolim, Sutil Roque e Florêncio de Carvalho, entre outros",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Para além de António Brojo e António Portugal (guitarras) e de Aurélio Reis e Mário de Castro (violas) integraram este grupo Luís Goes, José Afonso, Femando Machado Soares, Femando Rolim, Sutil Roque e Florêncio de Carvalho, entre outros."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão do texto de José Niza no site da AJA, que inclui Machado Soares, Sutil Roque e Florêncio de Carvalho entre os membros."
+    },
+    {
+      "campo": "outro",
+      "valor": "colaboraram em diferentes momentos Augusto Camacho Vieira, Alexandre Herculano, Florêncio Neto de Carvalho e, na fase final, Fernando Machado Soares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Em diferentes momentos colaboraram com a referida formação Augusto Camacho Vieira (FM/UC), Alexandre Herculano (FD/UC), Florêncio Neto de Carvalho (FC/UC) e, na fase final, Fernando Machado Soares (FD/UC)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "registos de 1952-1953 para a Rádio Triunfo, Lda. (Porto): iniciados em 1952 e concluídos em 1953",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Ambas as datas estão corretas e, em bom rigor, o que se deve escrever é gravações de 1952-1953, pois os trabalhos de registo foram iniciados em 1952, passaram por diversos momentos e só ficaram concluídos em 1953."
+        }
+      ],
+      "conflito": true,
+      "nota": "O próprio post refere que costumam ser indicados os anos de 1952 e de 1953."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "em 1953 foi registado um conjunto de 8 discos de 78 rpm (16 títulos)",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-a-cancao-de-coimbra/",
+          "doc": "aja:w933d1889779fab04",
+          "citacao": "Em 1953, e depois de muitos anos em que não se tinham realizado quaisquer gravações de fados ou guitarradas de Coimbra, foi registado um conjunto de 8 discos de 78 rotações por minuto (isto é, 16 titulos no total)"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "8 discos de 78 rpm da etiqueta Melodia, n.os 15.090 a 15.097 (16 faixas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Os discos eram ainda de massa, de 78 rpm, de duas faces, identificados na parte central com a etiqueta Melodia. ... Doc. 1: disco Melodia 15.090 e respetivas etiquetas. ... Doc. 8: disco Melodia 15.097"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "registos efetuados em Coimbra, com equipamentos portáteis, numa sala do Paço das Escolas onde costumava ensaiar o TEUC (segundo Fernando Rolim)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Os registos foram efetuados em Coimbra, com equipamentos portáteis. ... Fernando Rolim lembra com precisão que os cantores foram convocados em diferentes momentos de 1952-1953 (pelo menos três a quatro sessões) para se deslocarem a uma sala localizada no Paço das Escolas onde costumava ensaiar o TEUC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "dois violões de seis ordens singelas com cordas de aço e duas guitarras toeiras de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Nestes registos são utilizados dois violões de seis ordens singelas, armados com cordas de aço, e duas guitarras toeiras de Coimbra, com escalas de dezassete pontos e ilharga baixa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Post: o legado fonográfico da Tertúlia do Calhabé (GC-V, 2016)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

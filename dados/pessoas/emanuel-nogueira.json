@@ -1,0 +1,51 @@
+{
+  "id": "emanuel-nogueira",
+  "tipo": "pessoa",
+  "nome": "Emanuel Nogueira",
+  "nomes_alternativos": [],
+  "papeis": [
+    "outro"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "vice-presidente da Secção de Fado da AAC (2018)",
+      "data": "2018",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/portugal/interior/seccao-de-fado-recusa-participar-na-queima-das-fitas-de-coimbra-9154295.html",
+          "doc": "diario-de-noticias:w7af6dedc7fe74c18",
+          "citacao": "disse à agência Lusa o vice-presidente da secção, Emanuel Nogueira"
+        },
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "segundo o vice-presidente da Secção de Fado, Emanuel Nogueira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "segundo o vice-presidente da Secção de Fado, Emanuel Nogueira"
+        }
+      ],
+      "nota": "Vice-presidente da Secção (2018)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

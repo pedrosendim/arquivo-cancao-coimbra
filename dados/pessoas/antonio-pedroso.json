@@ -1,0 +1,29 @@
+{
+  "id": "antonio-pedroso",
+  "tipo": "pessoa",
+  "nome": "António Pedroso",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Dele faziam parte o António Pedroso (guitarra), o José António Nobre e o Rui Figueiredo (violas) e o Vítor Baltasar e o Carlos Caiado (vozes)."
+        }
+      ],
+      "nota": "guitarra; 1978"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

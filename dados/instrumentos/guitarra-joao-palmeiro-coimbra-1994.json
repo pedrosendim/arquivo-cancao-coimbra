@@ -1,0 +1,137 @@
+{
+  "id": "guitarra-joao-palmeiro-coimbra-1994",
+  "designacao": "Guitarra de Coimbra de João Palmeiro, Montijo, 1994, feita para Ron Fernandez",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "joao-palmeiro",
+  "ano": "1994",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This guitarra was made for me by Joao Palmeiro"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Feita no Montijo em 1994",
+      "data": "1994",
+      "local": "Montijo",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: João Palmeiro Coimbra style Guitarra. Made in Montijo, across from Lisboa. 1994."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tampo de abeto (spruce), escala de pau-santo (rosewood), fundo provavelmente de sicómoro (sycamore); escala de 470 mm",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The face is spruce, the fingerboard is rosewood, the back is probably sycamore. 470mm scale."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Acabamento final a goma-laca (French polish), trastos e afinação por Ron Fernandez",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I did the final French Polished finish, refined the frets and set-up the instrument."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "The entire instrument was French Polished by Ron Fernandez."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroCoimbraFace.jpg",
+      "legenda": "Below: João Palmeiro Coimbra style Guitarra. Made in Montijo, across from Lisboa. 1994.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Below: João Palmeiro Coimbra style Guitarra. Made in Montijo, across from Lisboa. 1994."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroCoimbraBack.jpg",
+      "legenda": "above the head photos is a photo of the beautiful back of this guitarra",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "above the head photos is a photo of the beautiful back of this guitarra"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroCoimbraHeadBK.jpg",
+      "legenda": "Above: Joao Palmeiro, 1994 Coimbra head (back and front)",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Joao Palmeiro, 1994 Coimbra head (back and front)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/PalmeiroCoimbraHead.jpg",
+      "legenda": "Above: Joao Palmeiro, 1994 Coimbra head (back and front)",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above: Joao Palmeiro, 1994 Coimbra head (back and front)"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "Below: João Palmeiro Coimbra style Guitarra. Made in Montijo, across from Lisboa. 1994. This guitarra was made for me by Joao Palmeiro"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

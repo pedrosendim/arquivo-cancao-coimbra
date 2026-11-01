@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-fidelio-f-3021-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2262_33.mp3",
+  "titulo": "Saudade — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-fidelio-f-3021",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4300.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4449/avelino_baptista_saudade",
+      "doc": "museu-do-fado:w1c3a56e0d65011cd",
+      "citacao": "Título: Saudade ... Editora: Fidelio F 3021 F 3020 Referências: Og233, F3021; F3021"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

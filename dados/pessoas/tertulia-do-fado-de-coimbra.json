@@ -1,0 +1,485 @@
+{
+  "id": "tertulia-do-fado-de-coimbra",
+  "tipo": "grupo",
+  "nome": "Tertúlia do Fado de Coimbra",
+  "nomes_alternativos": [
+    "TFC",
+    "Tertúlia do Fado de Coimbra – Associação Artística e Cultural"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "Estes dois jovens (José Carlos Teixeira – Guitarra e\nEduardo Aroso – Viola) começaram a caminhar regularmente entre a Ladeira das\nAlpenduradas e o Alto de S. João onde vivia um já então veterano do Fado de\nCoimbra (Victor Nunes – Cantor)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "Em 1973, e com o regresso do Álvaro Aroso a Coimbra\n(tinha passado algum tempo em Lisboa), ficou constituído o primeiro conjunto\ninstrumental da Tertúlia do Fado de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "coube à Tertúlia do Fado\nde Coimbra o baluarte de assegurar a “ponte” entre o antes e depois do 25 de\nAbril. E a constituição do Grupo alargou-se com a integração do José Miguel\nBaptista (Cantor) e do Joaquim Matos (Cantor). Posteriormente, viriam a ser\nintegrados na Tertúlia do Fado de Coimbra o Mário José de Castro (Viola) e,\nfinalmente, o José dos Santos Paulo (Guitarra, Viola e Cantor)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "Desta\natividade regular da Tertúlia do Fado de Coimbra resultou também em 1978 o EP\n“Coimbra tem mais encanto”, patrocinado pela Comissão de Turismo da Câmara\nMunicipal de Coimbra, que foi a primeira edição discográfica de Fado de Coimbra\ndepois do 25 de Abril."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "resultou também a realização do 1.º Seminário do\nFado de Coimbra (Maio de 1978), cuja ideia original surgiu do membro da\nTertúlia do Fado de Coimbra José Carlos Teixeira."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "Foi o primeiro Grupo de Fados de Coimbra a constituir-se\nem Associação Artística e Cultural, com escritura notarial outorgada no dia 12\nde Dezembro de 1989 e publicada no Diário da República de 19 de Janeiro de\n1990."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "começou em 1972 com José Carlos Teixeira (guitarra) e Eduardo Aroso (viola), junto do cantor Victor Nunes; primeiro conjunto instrumental constituído em 1973 com Álvaro Aroso",
+      "data": "1972",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "E tudo começou em 1972!"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Estes dois jovens (José Carlos Teixeira – Guitarra e\nEduardo Aroso – Viola) começaram a caminhar regularmente entre a Ladeira das\nAlpenduradas e o Alto de S. João onde vivia um já então veterano do Fado de\nCoimbra (Victor Nunes – Cantor)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Em 1973, e com o regresso do Álvaro Aroso a Coimbra\n(tinha passado algum tempo em Lisboa), ficou constituído o primeiro conjunto\ninstrumental da Tertúlia do Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o texto de José Carlos Teixeira (membro do grupo), de 2023, reproduzido no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sarau de Arte do Orfeon Académico em Vila Praia de Âncora, 17 de março de 1973",
+      "data": "1973-03-17",
+      "local": "Vila Praia de Âncora",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "participou no Sarau de Arte realizado em Vila\nPraia de Âncora no dia 17 de Março de 1973."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressão da TAUC aos Açores (verão de 1973) e aos Estados Unidos (março de 1974)",
+      "data": "1973",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "integrou a digressão que\na TAUC fez no verão de 1973 aos Açores tendo como cantores Castro Pita e José\nHorácio Miranda."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Em\nMarço de 1974 o Grupo integrou a digressão da TAUC aos Estados Unidos da\nAmérica do Norte (Boston, Plymouth, Providence, New Bedford, Fall River)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "primeiras Serenatas de Coimbra no Algarve (Vilamoura e Silves), 2 de setembro de 1977; assegurou-as durante os primeiros 11 anos",
+      "data": "1977-09-02",
+      "local": "Algarve",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Ainda\nnesse ano de 1977, a 2 de Setembro, tiveram lugar as primeiras Serenatas de\nCoimbra no Algarve (Marina de Vilamoura e Silves). As Serenatas de Coimbra no\nAlgarve tornaram-se icónicas, tendo a Tertúlia do Fado de Coimbra assegurado a\nsua realização, ininterrupta e em vários locais da costa algarvia, durante os\nprimeiros 11 anos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "grupo de base da série da RTP de cinco programas sobre o fado de Coimbra, de Sansão Coelho, transmitida a partir de 21 de janeiro de 1978",
+      "data": "1978-01-21",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "No\nfinal do ano de 1977 a RTP convidou a Tertúlia do Fado de Coimbra para ser o\nGrupo de base da série de cinco programas cujo tema central era o fado de\nCoimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Estes programas resultaram de uma ideia e argumento de Sansão Coelho e\ncomeçaram a ser transmitidos no dia 21.01.1978."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Coimbra tem mais Encanto» (Rossil / Comissão Municipal de Turismo de Coimbra, 1978), primeira edição discográfica de fado de Coimbra depois do 25 de Abril",
+      "data": "1978",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Desta\natividade regular da Tertúlia do Fado de Coimbra resultou também em 1978 o EP\n“Coimbra tem mais encanto”, patrocinado pela Comissão de Turismo da Câmara\nMunicipal de Coimbra, que foi a primeira edição discográfica de Fado de Coimbra\ndepois do 25 de Abril."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-EP Coimbra tem mais Encanto, Rossil, Comissão Municipal de\nTurismo de Coimbra, ano de 1978. Regista quatro faixas: Ondas do Mar, Nasce na\nEstrela o Mondego, Balada da Despedida/1958, Variações em Lá Menor [Álvaro\nAroso]. Guitarras de Álvaro Aroso e José Carlos Teixeira; viola, Eduardo Aroso;\nvozes de José Miguel Baptista, Vitor Nunes, Nuno de Carvalho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental na Sé Velha no 1.º Seminário do Fado de Coimbra (maio de 1978), seminário cuja ideia partiu de José Carlos Teixeira",
+      "data": "1978-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "resultou também a realização do 1.º Seminário do\nFado de Coimbra (Maio de 1978), cuja ideia original surgiu do membro da\nTertúlia do Fado de Coimbra José Carlos Teixeira."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 2: Atuação da Tertúlia do Fado de Coimbra na Serenata\nMonumental na Sé Velha de Coimbra, no âmbito do 1º Seminário do Fado de Coimbra\nem Maio de 1978. Guitarras: Álvaro Aroso e José Carlos Teixeira; Viola: Eduardo\nAroso; Cantores: Joaquim Matos, Nuno de Carvalho e Victor Nunes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "primeira interpretação de fado e guitarradas de Coimbra no interior da Sé de Miranda do Douro, 7 de abril de 1979",
+      "data": "1979-04-07",
+      "local": "Miranda do Douro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "a primeira vez que o Fado e as Guitarradas de Coimbra foram\ninterpretadas no interior da Sé Catedral de Miranda do Douro no dia 07/04/1979"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "internacionalização nos anos 80: Tel Aviv, Frankfurt, Salamanca, França e Itália, Macau, Brasil, Alemanha (1985), São Paulo (1987), Bruxelas (1989), Amesterdão",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Os\nanos 80 trouxeram, para além de uma muito intensa atividade a nível Nacional,\nnovos desafios à Tertúlia do Fado de Coimbra, nomeadamente a\ninternacionalização do Grupo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Digressão à Alemanha a convite do DAAD e no âmbito no Festival Europeu\nintegrado no Ano Internacional da Música (Junho de 1985 – Concertos em\nWürzburg, Bona, Colónia, Marburg e Tübingen)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "acompanhou em todos os espetáculos os Antigos Orfeonistas da Universidade de Coimbra durante os seus primeiros 10 anos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "A Tertúlia do Fado de Coimbra foi o Grupo que acompanhou em todos os espetáculos os\nAntigos Orfeonistas da Universidade de Coimbra durante os seus 10 primeiros\nanos de atividade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Serenatas no D. Pedro» (Rossil, 1981)",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-EP Serenatas no D. Pedro, Rossil, ano de 1981, pela Tertúlia do\nFado de Coimbra. Regista 4 faixas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Nesta\ndécada de 80 foram gravados dois trabalhos discográficos: EP “Serenatas no D.\nPedro” e LP “Coimbra... Terra D'Encanto”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Coimbra... Terra d'Encanto» (Rossil, 1982): vozes de José Miguel Baptista, Joaquim Matos, Nuno de Carvalho e Victor Nunes; guitarras de Álvaro Aroso e José Carlos Teixeira; viola de Mário José de Castro",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra... Terra d’Encanto, Rossil, ano de 1982. Pela\nTertúlia do Fado de Coimbra. Vozes de José Miguel Baptista, Joaquim Matos, Nuno\nde Carvalho e Victor Nunes. Guitarras de Álvaro Aroso e José Carlos Teixeira.\nViola por Mário José de Castro. Regista 12 temas, sendo dois instrumentais."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Nesta\ndécada de 80 foram gravados dois trabalhos discográficos: EP “Serenatas no D.\nPedro” e LP “Coimbra... Terra D'Encanto”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata do «Centenário» da Real República do Bota-Abaixo, 6 de fevereiro de 1988, com os Praxis Nova",
+      "data": "1988-02-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/os-repblicos-da-bota-abaixo-preparam-se.html",
+          "doc": "gc-i:2240519974284772243",
+          "citacao": "no Centenário de 06/02/1988 promoveu uma serenata com as formações Praxis Nova e Tertúlia do Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "primeiro grupo de fados de Coimbra a constituir-se em associação artística e cultural (escritura de 12 de dezembro de 1989, Diário da República de 19 de janeiro de 1990)",
+      "data": "1989-12-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Foi o primeiro Grupo de Fados de Coimbra a constituir-se\nem Associação Artística e Cultural, com escritura notarial outorgada no dia 12\nde Dezembro de 1989 e publicada no Diário da República de 19 de Janeiro de\n1990."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sócio Honorário do Elos Clube Internacional, Belo Horizonte, outubro de 1990",
+      "data": "1990-10",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "A\nTertúlia do Fado de Coimbra é detentora do título de Sócio Honorário do Elos\nClube Internacional, que lhe foi outorgado na cidade de Belo Horizonte -\nBrasil, em Outubro de 1990."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Amanhecer em Coimbra» (Edisco, ECD 15, 1993)",
+      "data": "1993",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
+          "doc": "gc-iii:854211484143292539",
+          "citacao": "CD Tertúlia do Fado de Coimbra – Amanhecer em Coimbra, Edisco, ECD 15, editado em 1993."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Relíquias» (Edisco, ECD 25, 1994), 16 temas",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Relíquias, pela Tertúlia do Fado de Coimbra, EDISCO, ECD 25,\nPorto, 1994. Vozes de José Paulo, Joaquim Matos, Nuno de Carvalho, Victor\nNunes, José Miguel Baptista. Guitarras: Álvaro Aroso, José Carlos Teixeira,\nJosé Paulo. Violas: Eduardo Aroso, José Paulo, José Carlos Teixeira. Regista 16\ntemas, sem inéditos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "morte de Nuno de Carvalho, cantor do grupo (julho de 2009)",
+      "data": "2009-07",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/mais-um-cultor-do-canto-do-coimbra-que.html",
+          "doc": "gc-iii:8984953789504369183",
+          "citacao": "Mais um cultor do Canto do Coimbra que nos deixa: Nuno de Carvalho, componente do grupo Tertúlia do Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Torres Novas, 11 de julho de 2010",
+      "data": "2010-07-11",
+      "local": "Torres Novas",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/tertulia-do-fado-de-coimbra-em-torres.html",
+          "doc": "gc-iii:1408663049674427228",
+          "citacao": "Tertúlia do Fado de Coimbra em Torres Novas, no passado dia 11."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "repertório fonográfico disponível num canal de YouTube criado por José Carlos Teixeira (2023)",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "Encontra-se em acesso livre para escuta e estudo o repertório fonográfico da Tertúlia do Fado de Coimbra (TFC), devido à iniciativa de José Carlos Teixeira (gC; v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRImFkOghN2ymFXfofAfVxFvYoN9UOFeCZp-jwDi2x-neQJfAvt66xFuRjSTRYw38oEDbW5Rs9GcHW99zyffhlwxB_FCiI1yPwWUKDLJarWPkEmNN80j45n-kmpWxo-IPPhZcDW8mPKbcQmopOivDB0gIk1hfWmko1J9TXKHiNc2iiZKDVZsxlB6mB/s3948/1981%20Tert%C3%BAlia_Fado_Coimbra%20Coimbra.png",
+      "legenda": "Tertúlia do Fado de Coimbra, fotografia de apresentação, 1981: José Carlos Teixeira e Álvaro Aroso (guitarras), Mário José de Castro (viola); de pé, Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel Baptista.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 3: Fotografia de Apresentação, Coimbra, 1981. Sentados -\nGuitarras: José Carlos Teixeira e Álvaro Aroso; Viola: Mário José de Castro. De\npé – Cantores: Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel\nBaptista."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqO45UHAiugkfJ6QRo9DHfgyau-RYLSuY-GKRTlp6x--3dUiVJTdHcwzJ3zPe4KKcH6Hxw7TJBP57g_fBoxs6JKvDKtGjlXHH34qh4MqoObOhWMd150ePPl1qGHwLHp1KnYoBOEbM8HBTzMFtUReNjfiNbeeuCWGJOOfFzSmN-DsGasG4Pw7NEE8tf/s3947/1974%20TFC%20JCT_Alvaro_Eduardo_Vitor.png",
+      "legenda": "Apresentação particular da Tertúlia do Fado de Coimbra em 1974: Álvaro Aroso e José Carlos Teixeira (guitarras), Eduardo Aroso (viola), Victor Nunes (canto).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 1: Apresentação particular da Tertúlia do Fado de Coimbra em\n1974. Guitarras: Álvaro Aroso e José Carlos Teixeira; Viola: Eduardo Aroso;\nCantor: Victor Nunes."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHwTA7sLfp5p6-OEyBsty_J-PEJYJZCXijzotdUqLy7dFbH95_ccquhB8zhhXbe7VzozT4bcZhgkCxJwNvEpwXs3iukVas0ODOISABZ8b_yuAnezn5QT5na59nMvI4HOhpcM603CIC9uUKYhqyd_zvce97iP3Az22-GOxLrlSe9swlsctqoBGD3Ntm/s3996/1978%20Serenata%201%C2%BA%20Semin%C3%A1rio_Fado_Coimbra.png",
+      "legenda": "Tertúlia do Fado de Coimbra na Serenata Monumental da Sé Velha, 1.º Seminário do Fado de Coimbra (maio de 1978).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 2: Atuação da Tertúlia do Fado de Coimbra na Serenata\nMonumental na Sé Velha de Coimbra, no âmbito do 1º Seminário do Fado de Coimbra\nem Maio de 1978. Guitarras: Álvaro Aroso e José Carlos Teixeira; Viola: Eduardo\nAroso; Cantores: Joaquim Matos, Nuno de Carvalho e Victor Nunes."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutu07OWdm0-Ia8_gLjrbKh6EtzF-wFHyuI8S5bD9bL3BOqKC9lWqeHoVUtDYqL_Yrcmqhf4N4T2KfNmqX0NHOwZS5VSiz4WAMFaKBFAsTgSP04xUUVt0Y9WjwNA-NPsLUBDD7Pqi4x-yCpaGcl2IeLZeuQQz9IjUlPi-KI3LyTxBy3ScXtCxlD5CM/s1473/1993%20Tert%C3%BAlia_Fado_Coimbra%20S%C3%A9_Velha%20p2.png",
+      "legenda": "Tertúlia do Fado de Coimbra na Sé Velha, 1993: José dos Santos Paulo (viola), José Carlos Teixeira e Álvaro Aroso (guitarras), Eduardo Aroso (viola); de pé, José Miguel Baptista, Joaquim Matos, Vítor Nunes e Nuno de Carvalho.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 5: Fotografia de Apresentação, Sé Velha de Coimbra, 1993.\nSentados - José dos Santos Paulo (viola), José Carlos Teixeira (guitarra),\nÁlvaro Aroso (guitarra), Eduardo Aroso (viola). De pé – Cantores: José Miguel\nBaptista, Joaquim Matos, Vítor Nunes e Nuno de Carvalho."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Capa Tertlia Amanhecer em Coimbra.jpg",
+      "legenda": "Capa do CD «Amanhecer em Coimbra» (Tertúlia do Fado de Coimbra, 1993).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/tertlia-do-fado-de-coimbra-amanhecer_22.html",
+          "doc": "gc-i:111145858432225846",
+          "citacao": "Tertúlia do Fado de Coimbra - Amanhecer em Coimbra"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Tertúlia Do Fado De Coimbra",
+      "url": "https://www.discogs.com/artist/3930556"
+    },
+    {
+      "rotulo": "YouTube: canal da Tertúlia do Fado de Coimbra",
+      "url": "https://www.youtube.com/@TERTULIADOFADODECOIMBRA-id8sx/featured"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

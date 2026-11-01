@@ -1,0 +1,206 @@
+{
+  "id": "adriano-correia-de-oliveira-orfeu-atep-6035",
+  "titulo": "Canção de Fornos (Fados de Coimbra)",
+  "formato": "EP",
+  "editora": "Orfeu",
+  "referencia": "ATEP 6035",
+  "ano": "1961",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "adriano-correia-de-oliveira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "paulo-alao",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "jorge-moutinho",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção de Fornos",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6035-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Balada da Esperança",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6035-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Trova do Amor Lusíada",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6035-3-youtube",
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6035-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Fado do Fim do Ano",
+      "obra": "",
+      "media": [
+        "ouvir-adriano-correia-de-oliveira-orfeu-atep-6035-4-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/AZ5AO-VJu6RkubPotjoMUjWvL4OCvYTxllgqLDvpBG0/rs:fit/g:sm/q:90/h:525/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTkw/ODItMTM4MjI4NjI1/NC0xMTU1LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/5019082",
+        "doc": "discogs:wa34ae96e203c0526",
+        "citacao": "Imagem (primary): https://i.discogs.com/AZ5AO-VJu6RkubPotjoMUjWvL4OCvYTxllgqLDvpBG0/rs:fit/g:sm/q:90/h:525/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTkw/ODItMTM4MjI4NjI1/NC0xMTU1LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/5019082",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5019082",
+          "doc": "discogs:wa34ae96e203c0526",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5019082",
+          "doc": "discogs:wa34ae96e203c0526",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1962 (Discogs)",
+      "data": "1962",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5019082",
+          "doc": "discogs:wa34ae96e203c0526",
+          "citacao": "Data: 1962"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue indica 1961."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1961 (blogue)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "- Fados de Coimbra (EP, 1961) [Canção dos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Porto: Orfeu, ATEP 6035, 1961"
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs indica 1962."
+    },
+    {
+      "campo": "outro",
+      "valor": "Balada da Esperança acompanhada por António Brojo/António Portugal (guitarras) e Paulo Alão/Jorge Moutinho (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "acompanhado por António Brojo/António Portugal (gg), Paulo Alão/Jorge Moutinho (vv). Variante com arranjo de Paulo Alão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Título no Discogs: «Canção de Fornos»; o blogue usa também o título «Fados de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/5019082",
+          "doc": "discogs:wa34ae96e203c0526",
+          "citacao": "Título: Canção De Fornos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reeditado em 1973 no LP Fados de Coimbra (Orfeu SB 1224), junto com os EP ATEP 6033 e 6035",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6071417968281872585",
+          "citacao": "Reeditado pela ORFEU em 1973 sob o título genérico de FADOS DE COIMBRA (LP – SB 1224), disco este constituído pela junção dos três primeiros EP’s (ATEP 6025, 6033 e 6035) por ele gravados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/5019082",
+      "doc": "discogs:wa34ae96e203c0526",
+      "citacao": "Editora: Orfeu – ATEP 6035"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "- Fados de Coimbra (EP, 1961) [Canção dos Fornos/Balada da Esperança/Trova do Amor Lusíada/Fado do Fim do Ano] ATEP 6035"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "edmundo-de-bettencourt-columbia-5319",
+  "titulo": "Inquietação / Fado do Anto",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "5319",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "edmundo-de-bettencourt",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Inquietação",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5319-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado do Anto",
+      "obra": "",
+      "media": [
+        "ouvir-edmundo-de-bettencourt-columbia-5319-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Inquietação», por Edmundo Bettencourt — etiqueta: «Inquietação / (Letra de Dr. Edmundo de Bettencourt / Música de Alexandre Rezende) / Dr. Edmundo de Bettencourt / Acompanhamento de Guitarra e Viola /  / Vocal - fado»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/296/edmundo_bettencourt_inquietacao",
+          "doc": "museu-do-fado:wef989df11a279c2e",
+          "citacao": "Título: Inquietação ... Editora: Co. 5319, 8122,GL103 Referências: P307, W; 5319-B ... Etiqueta: Inquietação / (Letra de Dr. Edmundo de Bettencourt / Música de Alexandre Rezende) / Dr. Edmundo de Bettencourt / Acompanhamento de Guitarra e Viola /  / Vocal - fado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado do Anto», por Edmundo Bettencourt — etiqueta: «Fado do Anto / (Letra de António Nobre / Música de Francisco Menano) / Dr. Edmundo de Bettencourt / Acompanhamento de Guitarra e Viola /  / Vocal»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/297/edmundo_bettencourt_fado_do_anto",
+          "doc": "museu-do-fado:w7f79abb4b8c4f20f",
+          "citacao": "Título: Fado do Anto ... Editora: Co. 5319 Referências: P331, W; 5319-B ... Etiqueta: Fado do Anto / (Letra de António Nobre / Música de Francisco Menano) / Dr. Edmundo de Bettencourt / Acompanhamento de Guitarra e Viola /  / Vocal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição brasileira (etiqueta preta) das gravações do disco Columbia 8122",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+          "doc": "gc-v:1121775609630427954",
+          "citacao": "Esta gravação foi reeditada no Brasil, sob etiqueta preta (disco Columbia, 5319-B, master P. 307)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/296/edmundo_bettencourt_inquietacao",
+      "doc": "museu-do-fado:wef989df11a279c2e",
+      "citacao": "Título: Inquietação ... Editora: Co. 5319, 8122,GL103 Referências: P307, W; 5319-B"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/297/edmundo_bettencourt_fado_do_anto",
+      "doc": "museu-do-fado:w7f79abb4b8c4f20f",
+      "citacao": "Título: Fado do Anto ... Editora: Co. 5319 Referências: P331, W; 5319-B"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "citacao": "Esta gravação foi reeditada no Brasil, sob etiqueta preta (disco Columbia, 5319-B, master P. 307)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

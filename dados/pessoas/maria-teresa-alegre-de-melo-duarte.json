@@ -1,0 +1,93 @@
+{
+  "id": "maria-teresa-alegre-de-melo-duarte",
+  "tipo": "pessoa",
+  "nome": "Maria Teresa Alegre de Melo Duarte",
+  "nomes_alternativos": [
+    "Teresa Alegre Portugal",
+    "Dra. Teresa Alegre Portugal",
+    "Teresa Portugal"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Assistia habitualmente às sessões de guitarra em casa de António Portugal",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/bloco-de-notas-9-1979.html",
+          "doc": "gc-i:111383916653732424",
+          "citacao": "Era habitual a esposa, Teresa Portugal, também assistir."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bloco de notas de Octávio Sérgio (1979)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "francisco-jose-de-faria-e-melo-ferreira-duarte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-manuela-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "neto_de",
+      "alvo": "manuel-ribeiro-alegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Do casamento com a sua Margarida, nasceu a filha Maria Manuela Alegre que vem a casar com Francisco José de Faria e Melo Ferreira Duarte. Por sua vez deste casamento nascem os seus filhos Manuel Alegre de Melo Duarte e Maria Teresa Alegre de Melo Duarte"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "conjuge_de",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "Maria Teresa Alegre de Melo Duarte[1], que vem a casar com uma grande figura do Canto e da música de Coimbra que infelizmente já não está entre nós: António Jorge Moreira Portugal (1931 – 1994)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/bloco-de-notas-9-1979.html",
+          "doc": "gc-i:111383916653732424",
+          "citacao": "Era habitual a esposa, Teresa Portugal, também assistir."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

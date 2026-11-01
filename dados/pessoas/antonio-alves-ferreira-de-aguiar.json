@@ -1,0 +1,30 @@
+{
+  "id": "antonio-alves-ferreira-de-aguiar",
+  "tipo": "pessoa",
+  "nome": "António Alves Ferreira de Aguiar",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Morreu cedo, deixando órfão Manassés de Lacerda",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
+          "doc": "gc-v:3059048621861323592",
+          "citacao": "Fica órfão de pai e mãe, muito cedo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

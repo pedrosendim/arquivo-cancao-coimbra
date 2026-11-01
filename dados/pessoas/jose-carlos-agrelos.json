@@ -1,0 +1,35 @@
+{
+  "id": "jose-carlos-agrelos",
+  "tipo": "pessoa",
+  "nome": "José Carlos Agrelos",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-universitario-de-guitarras",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "O conjunto era formado em 1965-1966 por - José Carlos Agrelos / Manuel Botelho Chaves (ggC), Eduardo Beirão Reis (v), Nuno Morgado (cantor) e Manuel Gil da Mata (cantor e compositor), não tendo este último participado nas gravações pelo facto de estar afónico."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "José Carlos Agrelos, estudante de Economia, executante de guitarra de Coimbra"
+        }
+      ],
+      "nota": "guitarra de Coimbra"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

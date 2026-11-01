@@ -1,0 +1,539 @@
+{
+  "id": "simao-mota",
+  "tipo": "pessoa",
+  "nome": "Simão Mota",
+  "nomes_alternativos": [
+    "Simão Sá Mota"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Natural de Lisboa, onde nasceu em 1998, cedo demonstrou interesse pela música, tendo aprendido viola de forma autodidata."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Em 2016 ruma a Coimbra para aprender guitarra de Coimbra com o Mestre Jorge Gomes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Tem dedicado a sua atividade musical ao trabalho de recolha, estudo e interpretação dos mais diversos compositores, assim como a composição de temas originais. Do seu repertório fazem parte compositores como a família Paredes, António Brojo, António Portugal e Francisco Martins."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "O Trio Rodrigues & Mota é uma formação musical juvenil masculina constituída em Coimbra nos inícios de 2022 com alunos das escolas locais."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+      "doc": "gc-v:2694200689006270542",
+      "citacao": "Simão Mota usa uma guitarra de Coimbra construída por Kim Grácio que pertenceu ao guitarrista e compositor António Portugal."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/08/dissertacao-sobre-um-registo.html",
+      "doc": "gc-v:9128499427837140603",
+      "citacao": "Encontra-se acessível a dissertação de mestrado do guitarrista Simão Mota (2023), no repositório da Univ. Coimbra"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, 1998",
+      "data": "1998",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Natural de Lisboa, onde nasceu em 1998"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do programa do recital «Dedos em garra» (Museu Nacional da Música, 2022), transcrita no post."
+    },
+    {
+      "campo": "formacao",
+      "valor": "aprendeu viola de forma autodidata",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "tendo aprendido viola de forma autodidata"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "em 2016 foi para Coimbra aprender guitarra de Coimbra com o Mestre Jorge Gomes",
+      "data": "2016",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2016 ruma a Coimbra para aprender guitarra de Coimbra com o Mestre Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "estudante de Letras (2.ª guitarra do Trio Rodrigues & Mota)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Simão Sá Mota (Letras, gC2)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "dissertação de mestrado (2023), no repositório da Universidade de Coimbra",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/08/dissertacao-sobre-um-registo.html",
+          "doc": "gc-v:9128499427837140603",
+          "citacao": "Encontra-se acessível a dissertação de mestrado do guitarrista Simão Mota (2023), no repositório da Univ. Coimbra, https://estudogeral.uc.pt/retrieve/266941/Sim%C3%A3oMota_versaofinal.pdf"
+        }
+      ],
+      "conflito": false,
+      "nota": "Título do post: «Dissertação sobre um registo fonográfico de Carlos Paredes»."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "guitarra de Coimbra de Kim Grácio que pertenceu a António Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Simão Mota usa uma guitarra de Coimbra construída por Kim Grácio que pertenceu ao guitarrista e compositor António Portugal."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "2.ª guitarra do Trio Rodrigues & Mota (desde 2022), dedicado ao repertório de Artur Paredes",
+      "data": "2022",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É dinamizado por Tiago José Rodrigues (Medicina, gC1), Simão Sá Mota (Letras, gC2) e Vasco Rodrigues (ISMT, viola de cordas de nylon)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Guitarra com os dedos em garra!», Café Concerto do Convento São Francisco, 1 de outubro de 2022 (direção musical e guitarra de Coimbra, com Tiago José Rodrigues e Vasco Rodrigues)",
+      "data": "2022-10-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "data | hora: 1 outubro | 18h00"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "Direção Musical Tiago José Rodrigues e Simão Mota Guitarra de Coimbra Tiago José Rodrigues, Simão Mota Viola Vasco Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Recital dedos em garra», Museu Nacional da Música, Lisboa, 26 de novembro de 2022",
+      "data": "2022-11-26",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "«Recital dedos em garra», Lisboa, Museu Nacional da Música, 26.11.2022"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "registo da ESEC TV (Coimbra, 20 de janeiro de 2023) com repertório não gravado por Artur Paredes",
+      "data": "2023-01-20",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Este registo foi gravado em Coimbra pela ESEC Tv, em 20.01.2023, com depoimentos e performances de Tiago Rodrigues, Simão Mota e Vasco Rodriques."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "experimentação da guitarrilha de João Baeta (construção de Augusto Nunes dos Santos, restauro de Fernando Miraldo)",
+      "data": "2023",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/experimentacoes.html",
+          "doc": "gc-v:60105110830539894",
+          "citacao": "Simão Mota na experimentação da guitarrilha de João Baeta, construção de Augusto Nunes dos Santos, restauro de Fernando Miraldo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "homenagem a Armando de Carvalho Homem, Junta de Freguesia de Viseu, 29 de setembro de 2023: acompanhou Octávio Sérgio, com Humberto Matias",
+      "data": "2023-09-29",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/09/evocacao-de-carvalho-homem.html",
+          "doc": "gc-v:2565235565292802184",
+          "citacao": "Momento musical com a execução ao vivo da obra do homenageado a cargo de Octávio Sérgio acompanhado por Simão Mota e Humberto Matias."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata em Santarém, 28 de junho de 2024: guitarra de Coimbra nos grupos Campa Rasa e Quarteto de Coimbra",
+      "data": "2024-06-28",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Campa Rasa: ggC: Valdemar Benavente e Simão Mota"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Quarteto de Coimbra: ggC: Tiago Rodrigues e Simão Mota"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Melancolia» de Francisco Zagalo (2024): participa em faixas como «O Ano da Morte de Inês de Castro», «Um Diálogo» e «Revelação»",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "O Ano da Morte de Inês de Castro — Francisco Zagalo, Simão Mota, Tiago José Rodrigues"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Um Diálogo — Francisco Zagalo, Simão Mota"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/15666075",
+          "doc": "discogs:w18fa16d250c1835b",
+          "citacao": "2024 · Melancolia · Author's release · CD, Album · TrackAppearance"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "homenagem a Fernando Rolim, Convento São Francisco, 2 de fevereiro de 2025: Grupo de Guitarras e Cantares de Coimbra (Manuel Portugal; Simão Mota)",
+      "data": "2025-02-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/01/homenagem-ao-cantor-fernando-rolim.html",
+          "doc": "gc-v:6639113177555754350",
+          "citacao": "Grupo de Guitarras e Cantares de Coimbra (Manuel Portugal; Simão Mota)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Serenata monumental de Santarém», 4 de julho de 2025, com o grupo Raízes de Coimbra: «Variações em Ré m» de Carvalho Homem",
+      "data": "2025-07-04",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+          "doc": "gc-v:356613865380152505",
+          "citacao": "Alinhamento do grupo Raízes de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+          "doc": "gc-v:356613865380152505",
+          "citacao": "Variações em Ré m de Carvalho Homem - Simão Mota"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Adeus Minho Encantador» (guitarra de Coimbra, a acompanhar Filipa Freire)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), Tipografia Damasceno, Coimbra, 7 de setembro de 2024: «Rua da Saudade» (viola, com Manuel Portugal)",
+      "data": "2024-09-07",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7428",
+          "doc": "mpagdp:wc59d3dd6e1ca11e4",
+          "citacao": "Manuel Portugal (guitarra portuguesa) e Simão Mota (viola) - \"Rua da Saudade\" (música de Manuel Portugal) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Despertar» de Carlos Paredes (nos créditos)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3922",
+          "doc": "mpagdp:wd6ff9e6fb485e3d0",
+          "citacao": "“Despertar” de Carlos Paredes ... Data: 2018-12-27 ... Créditos: Simão Mota"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Manuel Portugal (nos créditos, com Humberto Matias e Manuel Portugal)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3920",
+          "doc": "mpagdp:wfbbf99e995a871ca",
+          "citacao": "Variações em ré menor” de Manuel Portugal ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "gravação para A Música Portuguesa a Gostar Dela Própria, Coimbra, registo de 27 de dezembro de 2018: «Variações em ré menor» de Armando Carvalho Homem (nos créditos, com Humberto Matias e Manuel Portugal)",
+      "data": "2018-12-27",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=3921",
+          "doc": "mpagdp:w7dabf80ae81825b8",
+          "citacao": "Variações em ré menor” de Armando Carvalho Homem ... Data: 2018-12-27 ... Créditos: Simão Mota, Humberto Matias e Manuel Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-de-coimbra-2024",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Quarteto de Coimbra:\n\nggC: Tiago Rodrigues e Simão Mota"
+        }
+      ],
+      "nota": "guitarra; Santarém, 28 de junho de 2024"
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Em 2016 ruma a Coimbra para aprender guitarra de Coimbra com o Mestre Jorge Gomes."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "trio-rodrigues-e-mota",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "É dinamizado por Tiago José Rodrigues (Medicina, gC1), Simão Sá Mota (Letras, gC2) e Vasco Rodrigues (ISMT, viola de cordas de nylon)."
+        }
+      ],
+      "nota": "2.ª guitarra de Coimbra (2022-)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "campa-rasa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/06/serenata-em-santarem-2024.html",
+          "doc": "gc-v:3103881283986841572",
+          "citacao": "Grupo Campa Rasa: ggC: Valdemar Benavente e Simão Mota"
+        }
+      ],
+      "nota": "guitarra de Coimbra (2024)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/09/evocacao-de-carvalho-homem.html",
+          "doc": "gc-v:2565235565292802184",
+          "citacao": "Octávio Sérgio acompanhado por Simão Mota e Humberto Matias"
+        }
+      ],
+      "nota": "Viseu, 2023"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "joana-carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/12/a-capa-tudo-tapa-consequencias-do.html",
+          "doc": "gc-v:8642243074465900039",
+          "citacao": "Foto 1 - Joana Carvalho, aluna de canto orientada por Jorge Cravo, acompanhada pelo guitarrista Simão Mota e pelo viola Vasco Rodrigues"
+        }
+      ],
+      "nota": "2023"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "tiago-jose-rodrigues",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html",
+          "doc": "gc-v:2694200689006270542",
+          "citacao": "Tiago José Rodrigues recupera, neste concerto, as técnicas, os acordes e as melodias que marcam a identidade da guitarra de Coimbra. É acompanhado à guitarra por Simão Mota e à viola por Vasco Rodrigues."
+        }
+      ],
+      "nota": "Trio Rodrigues & Mota"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "filipa-freire",
+      "fontes": [
+        {
+          "fonte": "mpagdp",
+          "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7437",
+          "doc": "mpagdp:w7c3a67b3063470cd",
+          "citacao": "Filipa Freire (voz) acompanhada por Tiago José Rodrigues (guitarra de Coimbra), Simão Mota (guitarra de Coimbra) e Vasco Rodrigues (viola) - \"Adeus Minho Encantador\" (letra e música de Felisberto Passos) ... Gravado na Tipografia Damasceno, em Coimbra, no dia 7 de setembro de 2024"
+        }
+      ],
+      "nota": "guitarra de Coimbra; gravação de 7 de setembro de 2024"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFma65brl6jnatlHQqJGb5iLJsU7K11xDXlwuVBFRArMdFMOvRVbsEEN87mTnN0i3mdkWz0yYYgSe4H5X8V-TPLW82-V2I3diHkFNYJPlAxUSpgpPp3wx9KiHzLVS6ZFa0IuqthULolzqo2rQxVE0zBYeSiNtmqUlRAgY5b3MCDWVPl7APFHyKgb2d/s4032/IMG-0640.jpg",
+      "legenda": "Simão Mota na experimentação da guitarrilha de João Baeta (construção de Augusto Nunes dos Santos, restauro de Fernando Miraldo), ao lado de uma guitarra de Fernando Miraldo. Fotografia de Adamo Caetano.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/01/experimentacoes.html",
+          "doc": "gc-v:60105110830539894",
+          "citacao": "Simão Mota na experimentação da guitarrilha de João Baeta, construção de Augusto Nunes dos Santos, restauro de Fernando Miraldo. Fotografias e registo de som por Adamo Caetano."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Post «Um projeto de redescoberta de Arthur Paredes» (biografia)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/um-projeto-de-redescoberta-de-arthur.html"
+    },
+    {
+      "rotulo": "Discogs: Simão Mota",
+      "url": "https://www.discogs.com/artist/15666075"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

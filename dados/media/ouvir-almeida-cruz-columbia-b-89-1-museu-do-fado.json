@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-89-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0303__7.mp3",
+  "titulo": "Por que estás zangada — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-89",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0605.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/600/almeida_cruz_por_que_estas_zangada",
+      "doc": "museu-do-fado:wbcb692850acaff49",
+      "citacao": "Título: Por que estás zangada ... Editora: Co. B-89 Referências: 11808, 1-5; B89"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

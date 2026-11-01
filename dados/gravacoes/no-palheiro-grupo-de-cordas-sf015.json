@@ -1,0 +1,235 @@
+{
+  "id": "no-palheiro-grupo-de-cordas-sf015",
+  "titulo": "No Palheiro...",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "SF015",
+  "ano": "2001",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "grupo-de-cordas-da-seccao-de-fado-da-aac",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "amadeu-magalhaes",
+      "funcao": "produção e direcção musical"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "No Palheiro...",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-1-apple-music",
+        "disco-no-palheiro-grupo-de-cordas-sf015-no-palheiro"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Organdie",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Quadrilha",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-3-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Polkas",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-4-apple-music"
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "Vira Dos Noivos",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-5-apple-music"
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Marião",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-6-apple-music"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "John Ryan's",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-7-apple-music"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Chula",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-8-apple-music"
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "Encadeia",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-9-apple-music"
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "Contradança",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-10-apple-music"
+      ]
+    },
+    {
+      "n": 11,
+      "titulo": "Bach Medley",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-11-apple-music"
+      ]
+    },
+    {
+      "n": 12,
+      "titulo": "Letter From Home / Canção Dos Pássaros",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-12-apple-music"
+      ]
+    },
+    {
+      "n": 13,
+      "titulo": "Chibita / Carrapito Da D. Aurora",
+      "obra": "",
+      "media": [
+        "ouvir-no-palheiro-grupo-de-cordas-sf015-13-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/VTJKnt5Lq8PnGoX_JngVIGcXmiXgyZ8cSkUzQWo8PSg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI3/ODc3LTE1MjQ5MTQ5/NzAtNjYzMy5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/11927877",
+        "doc": "discogs:wfb7e55934f09a9db",
+        "citacao": "Imagem (secondary): https://i.discogs.com/VTJKnt5Lq8PnGoX_JngVIGcXmiXgyZ8cSkUzQWo8PSg/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI3/ODc3LTE1MjQ5MTQ5/NzAtNjYzMy5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/11927877",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2001 (Discogs)",
+      "data": "2001",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "Data: 2001"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "repertório tradicional português e irlandês, Gilles Chabenat, Bach, António Pinho Vargas / Pat Metheny",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "2 Organdie  [Gilles Chabenat]"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "11 Bach Medley  [Johann Sebastian Bach]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "vídeo da faixa «No Palheiro...» indicado pelo Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11927877",
+          "doc": "discogs:wfb7e55934f09a9db",
+          "citacao": "Vídeo: No Palheiro... — https://www.youtube.com/watch?v=HZQZPVwQjXw"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha de media: disco-no-palheiro-grupo-de-cordas-sf015-no-palheiro (identificada pelo título no Discogs)."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11927877",
+      "doc": "discogs:wfb7e55934f09a9db",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – SF015"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11927877",
+      "doc": "discogs:wfb7e55934f09a9db",
+      "citacao": "Formato: 1 × CD, Album"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11927877",
+      "doc": "discogs:wfb7e55934f09a9db",
+      "citacao": "Faixas: 1 ... 13"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/11927877",
+      "doc": "discogs:wfb7e55934f09a9db",
+      "citacao": "Producer, Music Director – Amadeu Magalhães"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "antonio-ralha",
+  "tipo": "pessoa",
+  "nome": "António Ralha",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "investigador"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "guitarras, com Jorge Gomes, no CD «Olhar Coimbra» (Secção de Fado da AAC, 1998)",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
+          "doc": "gc-i:112139186031286402",
+          "citacao": "CD Olhar Coimbra, Coimbra, Secção de Fado da AAC, ano de 1998, com Jorge Gomes/António Ralha (gg)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "orador na sessão de homenagem a Artur Paredes, Casa da Cultura (dezembro de 2010)",
+      "data": "2010-12",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+          "doc": "gc-iii:4258860388092757380",
+          "citacao": "Foram oradores António Ralha e Fernando Marques. O primeiro destacou aspetos vários da vida e obra de Artur Paredes, assim como dos seus seguidores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

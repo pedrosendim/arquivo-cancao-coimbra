@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-x-3038",
+  "titulo": "Fado da Morena / Fado d'Anto",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "X 3038",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado da Morena",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3038-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado d'Anto",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-x-3038-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado da Morena», por António Menano — etiqueta: «Fado da Morena / (Dr. Vasco Borges) / Versos do Dr. Martins de Carvalho / António Menano / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1184/antonio_menano_fado_da_morena",
+          "doc": "museu-do-fado:wd5199304442657cc",
+          "citacao": "Título: Fado da Morena ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG652, R, 3038A; X 3038a ... Etiqueta: Fado da Morena / (Dr. Vasco Borges) / Versos do Dr. Martins de Carvalho / António Menano / Acomp. de Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado d'Anto», por António Menano — etiqueta: «Fado d’Auto / (F. Menano) / Versos de A. Nobre / António Menano / Acomp. de Guitarra e Viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1185/antonio_menano_fado_danto",
+          "doc": "museu-do-fado:w0b0a797661a38869",
+          "citacao": "Título: Fado d'Anto ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG657, R, 3038B; X 3038b ... Etiqueta: Fado d’Auto / (F. Menano) / Versos de A. Nobre / António Menano / Acomp. de Guitarra e Viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1184/antonio_menano_fado_da_morena",
+      "doc": "museu-do-fado:wd5199304442657cc",
+      "citacao": "Título: Fado da Morena ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG652, R, 3038A; X 3038a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1185/antonio_menano_fado_danto",
+      "doc": "museu-do-fado:w0b0a797661a38869",
+      "citacao": "Título: Fado d'Anto ... Editora: Od. X3038, EMI261283,EMICD8364452,HTCD31 Referências: OG657, R, 3038B; X 3038b"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

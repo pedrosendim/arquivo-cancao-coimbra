@@ -1,0 +1,89 @@
+{
+  "id": "teresa-morgado",
+  "tipo": "pessoa",
+  "nome": "Teresa Morgado",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "1901",
+      "data": "1901",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe de Gonçalo Paredes, Teresa Morgado, vem a morrer em 1901"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Exposta na roda da cidade de Coimbra (segundo uns)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe foi segundo uns, exposta na roda da cidade de Coimbra, segundo outros era natural de Arazede, no concelho de Montemor-o-Velho, sendo filha de Manuel Fernandes Morgado e de Maria das Neves."
+        }
+      ],
+      "conflito": true,
+      "nota": "A fonte apresenta as duas versões e diz que «deverão ser verdadeiras pois constam em registos credíveis»."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Arazede, concelho de Montemor-o-Velho (segundo outros)",
+      "data": "",
+      "local": "Arazede",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe foi segundo uns, exposta na roda da cidade de Coimbra, segundo outros era natural de Arazede, no concelho de Montemor-o-Velho, sendo filha de Manuel Fernandes Morgado e de Maria das Neves."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver a versão anterior."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-fernandes-morgado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe foi segundo uns, exposta na roda da cidade de Coimbra, segundo outros era natural de Arazede, no concelho de Montemor-o-Velho, sendo filha de Manuel Fernandes Morgado e de Maria das Neves."
+        }
+      ],
+      "nota": "Filiação dada só por uma das versões referidas na fonte («segundo outros»)."
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "maria-das-neves",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
+          "doc": "gc-v:5472433292246116899",
+          "citacao": "A mãe foi segundo uns, exposta na roda da cidade de Coimbra, segundo outros era natural de Arazede, no concelho de Montemor-o-Velho, sendo filha de Manuel Fernandes Morgado e de Maria das Neves."
+        }
+      ],
+      "nota": "Filiação dada só por uma das versões referidas na fonte («segundo outros»)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

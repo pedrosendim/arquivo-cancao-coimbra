@@ -1,0 +1,27 @@
+{
+  "id": "ouvir-artur-paredes-hmv-mh-36-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0685_19.mp3",
+  "titulo": "Variações em Sol Maior — Artur Paredes",
+  "data": "",
+  "pessoas": [
+    "artur-paredes",
+    "afonso-de-sousa",
+    "guilherme-barbosa"
+  ],
+  "obras": [
+    "variacoes-em-sol-maior-artur-paredes"
+  ],
+  "gravacao": "artur-paredes-hmv-mh-36",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1364.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1354/artur_paredes_variacoes_em_sol_maior",
+      "doc": "museu-do-fado:w5952c7b16483b201",
+      "citacao": "Título: Variações em sol maior ... Editora: HMV EQ93, MH36,JQ501"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

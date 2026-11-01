@@ -1,0 +1,30 @@
+{
+  "id": "artur-mesquita",
+  "tipo": "pessoa",
+  "nome": "Artur Mesquita",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "alta-medina",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "“Grupo de Fados Alta Medina” – Vasco Cordeiro e João Henrique Garcia a cantar; Artur Mesquita, Pedro Paredes (Faixa nº 7) e António Sousa Mendes à guitarra; Luís Sarmento e Nuno Gonçalves à viola."
+        }
+      ],
+      "nota": "guitarra; anos 90"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

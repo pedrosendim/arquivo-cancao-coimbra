@@ -1,0 +1,112 @@
+{
+  "id": "quarteto-de-coimbra-carlos-costa",
+  "tipo": "grupo",
+  "nome": "Quarteto de Coimbra (grupo de Carlos Costa)",
+  "nomes_alternativos": [
+    "Quarteto de Coimbra",
+    "grupo de Carlos Costa",
+    "Grupo de Ulisses"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+      "doc": "gc-v:2370072392325749847",
+      "citacao": "Arriscamos que possa ser o Quarteto de Coimbra, um grupo muito ativo na região do Porto desde cerca 1968, com vários discos gravados e uma nutrida carteira de espetáculos, que tinha como cantores Carlos Costa e Carlos Alberto Pereira. Um dos solistas deste grupo era Almeida Ulisses, oriundo de Mangualde, estabelecido no Porto, no comércio de peles."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+      "doc": "gc-v:2370072392325749847",
+      "citacao": "Quarteto de Coimbra, também conhecido por \"grupo de Carlos Costa\" e/ou \"Grupo de Ulisses\". Reconhecíveis: Carlos Alberto Pereira, a cantar; Carlos Costa; José de Almeida Ulisses (gC)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "muito ativo na região do Porto desde cerca de 1968",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+          "doc": "gc-v:2370072392325749847",
+          "citacao": "um grupo muito ativo na região do Porto desde cerca 1968, com vários discos gravados e uma nutrida carteira de espetáculos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "identificação numa serenata filmada pela RTP em 1980 (RTP Arquivos): Carlos Alberto Pereira, Carlos Costa e José de Almeida Ulisses",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+          "doc": "gc-v:2370072392325749847",
+          "citacao": "Quarteto de Coimbra, também conhecido por \"grupo de Carlos Costa\" e/ou \"Grupo de Ulisses\". Reconhecíveis: Carlos Alberto Pereira, a cantar; Carlos Costa; José de Almeida Ulisses (gC)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Identificação feita por Miguel Assis, citada no post; faltam dados para o 2.º guitarra e o viola."
+    },
+    {
+      "campo": "outro",
+      "valor": "Arménio Assis colaborou com o Quarteto de Coimbra na década de 1970 e com ele gravou um LP",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/parece-que-e-mas-sera-que-e-coimbra.html",
+          "doc": "gc-v:2370072392325749847",
+          "citacao": "IDENTIFICAÇÃO por Miguel Assis, filho de Arménio Assis, guitarrista falecido, com atividade nas academias de Coimbra e do Porto que na década de 1970 colaborou com o Quarteto de Coimbra e com ele gravou um LP."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Carlos Costa & Quarteto de Coimbra: cassete Balada de Coimbra (Horizonte, 1984) e LP «do choupal até à lapa» (Horizonte), segundo o Discogs",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/4787152",
+          "doc": "discogs:w1fa956d7c3b05475",
+          "citacao": "1984 · Balada De Coimbra · Horizonte · Cass, Album ... \"do choupal até à lapa\" · Horizonte · LP, Album"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Carlos Costa foi cantor do grupo Do Choupal até à Lapa, de que fazia parte o tenor Carlos Alberto Pereira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/recordacoes-que-foram-exito-registos.html",
+          "doc": "gc-v:1438123419329545362",
+          "citacao": "Cantor do grupo Do Choupal até à Lapa, de que fazia parte o tenor Carlos Alberto Pereira."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não diz se o grupo Do Choupal até à Lapa é o mesmo Quarteto de Coimbra; o Discogs regista um LP «do choupal até à lapa» de Carlos Costa & Quarteto de Coimbra."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "RTP Arquivos: Serenata estudantil em Coimbra (1980)",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-estudantil-em-coimbra/"
+    },
+    {
+      "rotulo": "Discogs: Carlos Costa & Quarteto de Coimbra",
+      "url": "https://www.discogs.com/artist/4787152"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

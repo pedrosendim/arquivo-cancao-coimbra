@@ -1,0 +1,171 @@
+{
+  "id": "antonio-portugal-jorge-godinho-parlophone-lmep-1027",
+  "titulo": "Guitarras de Coimbra",
+  "formato": "EP",
+  "editora": "Parlophone",
+  "referencia": "LMEP 1027",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "jorge-godinho",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "manuel-pepe",
+      "funcao": "viola"
+    },
+    {
+      "pessoa": "paulo-alao",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": [
+        "ouvir-antonio-portugal-jorge-godinho-parlophone-lmep-1027-1-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Valsa em Fá",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-portugal-jorge-godinho-parlophone-lmep-1027-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado em Dó",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Variações em Lá Menor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-portugal-jorge-godinho-parlophone-lmep-1027-4-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/wvgif2WQi1FhSDMy86pv0ktf9f74wBUSsBzjByOzXP0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY4/NzI5LTE1NjkxNDQz/NzUtMjY0MS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/14168729",
+        "doc": "discogs:w7d693280afc0428f",
+        "citacao": "Imagem (secondary): https://i.discogs.com/wvgif2WQi1FhSDMy86pv0ktf9f74wBUSsBzjByOzXP0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY4/NzI5LTE1NjkxNDQz/NzUtMjY0MS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/14168729",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14168729",
+          "doc": "discogs:w7d693280afc0428f",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14168729",
+          "doc": "discogs:w7d693280afc0428f",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1958 (blogue)",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/discografia-de-jorge-godinho-parte-ii.html",
+          "doc": "gc-ii:3758993209223833759",
+          "citacao": "Parlophone, EP - LMEP 1027, 1958"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/05/portuguese-folk-ou-la-o-que-isso-nos.html",
+          "doc": "gc-v:2423796518573275089",
+          "citacao": "EP GUITARRAS DE COIMBRA, ANTÓNIO PORTUGAL E JORGE GODINHO, Parlophone LMEP 1027, s/d. [1958]"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post do blogue indica 1959; o Discogs não indica data."
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano: 1959 (blogue)",
+      "data": "1959",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "Parlophone LMEP 1027, 1959, com António Portugal/Jorge Godinho (gg) e Manuel Pepe/Paulo Alão (vv)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outros posts do blogue indicam 1958."
+    },
+    {
+      "campo": "outro",
+      "valor": "Instrumentário: António Portugal/Jorge Godinho (guitarras de Coimbra), Manuel Pepe/Paulo Alão (violas); texto de apresentação de Fernando Assis Pacheco",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/05/portuguese-folk-ou-la-o-que-isso-nos.html",
+          "doc": "gc-v:2423796518573275089",
+          "citacao": "com o instrumentário assegurado por António Portugal/Gorge Godinho (ggC) e Manuel Pepe/Paulo Alão (vv). Neste disco, com texto de apresentação assinado por Fernando Assis Pacheco"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14168729",
+      "doc": "discogs:w7d693280afc0428f",
+      "citacao": "Editora: Parlophone – LMEP 1027"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/discografia-de-jorge-godinho-parte-ii.html",
+      "doc": "gc-ii:3758993209223833759",
+      "citacao": "GUITARRAS DE COIMBRA Parlophone, EP - LMEP 1027, 1958 Fado Hilário (Augusto Hilário, arr. A. Portugal) Valsa em Fá (Arr. António Portugal) Fado em Dó (Arr. António Portugal) Variações em Lá menor (Jorge Morais, Xabregas)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

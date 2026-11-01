@@ -1,0 +1,199 @@
+{
+  "id": "guitarra-joao-miguel-andrade-colecao-fernandez",
+  "designacao": "Pequena guitarra de Lisboa de João Miguel Andrade, década de 1890 (coleção de Ron Fernandez)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "joao-miguel-andrade",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "ronald-louis-fernandez",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Ron Fernandez Collection"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Pequena guitarra de estilo de Lisboa, com botões (end pins) de estilo antigo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Notice the old style end pins."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Rótulo: «João Miguel Andade / Fabrica e Armazem de Instrumentos de Corda. / Guitarras, Violas braguezas, Cavacos. / Lisboa / Rua da Trinidade / Sole Agents for Great Britain and Colonies / Alban Voigt & Co., / 14, Edmund Place, LONDON, E.C.»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "The label reads: João Miguel Andade Fabrica e Armazem de Instrumentos de Corda. Guitarras, Violas braguezas, Cavacos. Lisboa Rua da Trinidade Sole Agents for Great Britain and Colonies Alban Voigt & Co., 14, Edmund Place, LONDON, E.C."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Datada por Ron Fernandez da década de 1890, por causa do método de Havelock Mason publicado pelo importador desta guitarra, Alban Voigt & Company",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "I believe this guitarra is from the 1890's because of the book, A Complete Method for Portuguese Guitarra by Havelock Mason, which was supposedly published in 1892 or 1895. This method book was published by the importer of this guitarra, Alban Voigt & Company"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fotografada junto de uma guitarra inglesa (English guittar) de John Preston, do século XVIII",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Andrade guitarra next to 18th century John Preston English Guittar"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue reproduz as fotografias da frente e das costas, atribuindo a divulgação a «Hernández, California»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "Outro exemplar divulgado por Hernández, California, http://www.fernandezmusic.com/Andrade_Guitarra.html (frente e costas)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O site é de Ron Fernandez."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/Andradeface.gif",
+      "legenda": "Small Lisboa style guitarra made by João Miguel Andade.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/Andradeback.gif",
+      "legenda": "Small Lisboa style guitarra made by João Miguel Andade.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/Andradeside.gif",
+      "legenda": "Small Lisboa style guitarra made by João Miguel Andade.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/AndradeHead.gif",
+      "legenda": "Small Lisboa style guitarra made by João Miguel Andade.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/Andradeendpins.gif",
+      "legenda": "Notice the old style end pins.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Notice the old style end pins."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/AndradeandPreston.gif",
+      "legenda": "Andrade guitarra next to 18th century John Preston English Guittar",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Andrade guitarra next to 18th century John Preston English Guittar"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+      "doc": "fernandez-music:w6044c2c938636311",
+      "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+      "doc": "gc-v:4233338329124617191",
+      "citacao": "Outro exemplar divulgado por Hernández, California, http://www.fernandezmusic.com/Andrade_Guitarra.html (frente e costas)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

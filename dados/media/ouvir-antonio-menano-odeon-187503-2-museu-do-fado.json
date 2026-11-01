@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-187503-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0594_30.mp3",
+  "titulo": "Fado da Sé Velha — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-187503",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1182.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1173/antonio_menano_fado_da_se_velha",
+      "doc": "museu-do-fado:w957594b1f720d65a",
+      "citacao": "Título: Fado da Sé Velha ... Editora: Od.187.504,187.816,Co.1083X,EMI261283,EMICD8364452,HTCD31 Referências: OG607, W, 1927; A 187504"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

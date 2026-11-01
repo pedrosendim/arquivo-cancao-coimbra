@@ -1,0 +1,117 @@
+{
+  "id": "guitarra-do-porto-manuel-mansilha",
+  "designacao": "Guitarra do Porto que pertenceu a Manuel Mansilha (Museu Académico de Coimbra)",
+  "tipo": "guitarra do Porto",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [
+    {
+      "pessoa": "manuel-mansilha",
+      "periodo": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Exemplar de uma Guitarra do Porto que pertenceu ao antigo estudante Dr. Manuel Mansilha."
+        }
+      ]
+    }
+  ],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Fabricada em oficina não identificada da cidade do Porto, pela década de 1890; escala de 17 pontos, sistema de leque com parafusos, sem rosácea",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Representa essencialmente um aperfeiçoamento da Guitarra Inglesa, com aumento das dimensões da caixa de ressonância, abandono da rosácea, alongamento da escala (17 pontos) e substituição da chapa de chavinha pelo sistema de leque com parafusos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Esta guitarra foi fabricada em oficina da cidade do Porto, não identificada, pela década de 1890"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Restaurada a 12 de setembro de 1944 pela oficina Castanheira & C.ª, Porto",
+      "data": "1944-09-12",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Restaurada em 12 de Setembro de 1944 pela Oficina Castanheira & Ca., Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Entrou no Museu Académico a 21 de abril de 1959, por iniciativa do sobrinho do proprietário, Dr. Manuel Francisco de Mansilha",
+      "data": "1959-04-21",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "instrumento pertencente à colecção do Museu Académico, onde deu entrada em 21/04/1959 por iniciativa do sobrinho do proprietário Dr. Manuel Francisco de Mansilha"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Doação de objetos do guitarrista ao Museu Académico pelo sobrinho-neto, Dr. Manuel Francisco Fernandes de Mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/02/falecimento-do-antigo-presidente-da.html",
+          "doc": "gc-v:217781384561761732",
+          "citacao": "era sobrinho neto do guitarrista e também tauquiano Manuel Mansilha, tendo sido responsável pela doação de objetos de seu tio ao Museu Académico (MAC)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Os posts divergem no parentesco do doador (sobrinho / sobrinho-neto)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Guitarra%20de%20Mansilha.jpg",
+      "legenda": "Guitarra do Porto que pertenceu a Manuel Mansilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+          "doc": "gc-i:113827494795488300",
+          "citacao": "Exemplar de uma Guitarra do Porto que pertenceu ao antigo estudante Dr. Manuel Mansilha."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-de-mansilha-exemplar-de-uma.html",
+      "doc": "gc-i:113827494795488300",
+      "citacao": "Restaurada em 12 de Setembro de 1944 pela Oficina Castanheira & Ca., Porto"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/10/manuel-mansilha-em-fim-de-curso.html",
+      "doc": "gc-v:8578484018831533897",
+      "citacao": "A sua guitarra encontra-se depositada no Museu Académico de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

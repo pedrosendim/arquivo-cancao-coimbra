@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-almeida-cruz-columbia-b-96-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF1350_12.mp3",
+  "titulo": "Manobras do amor — Almeida Cruz",
+  "data": "",
+  "pessoas": [
+    "antonio-de-almeida-cruz"
+  ],
+  "obras": [],
+  "gravacao": "almeida-cruz-columbia-b-96",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_2480.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2674/almeida_cruz_manobras_do_amor",
+      "doc": "museu-do-fado:w7412cbf794d21b4c",
+      "citacao": "Título: Manobras do amor ... Editora: Columbia B 96 B 96 Referências: 11886-I-1; B96"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-93",
+  "titulo": "O talagarça / Onde leva a moça",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-93",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "O talagarça",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-93-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Onde leva a moça",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-93-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«O talagarça», por Almeida Cruz — etiqueta: «A Talagarça / Canção Portugueza. Luz Júnior / Almeida Cruz e Côro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/608/almeida_cruz_o_talagarca",
+          "doc": "museu-do-fado:w12bf3232453cbd76",
+          "citacao": "Título: O talagarça ... Editora: Co. B-93 Referências: 11820, 1-5; B93 ... Etiqueta: A Talagarça / Canção Portugueza. Luz Júnior / Almeida Cruz e Côro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Lalargaça, Columbia B-93, 11820, música de «Luiz Júnior» [Luz Júnior?]»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Lalargaça, Columbia B-93, 11820, música de «Luiz Júnior» [Luz Júnior?]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Título no blogue: «Lalargaça»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Onde leva a moça», por Almeida Cruz — etiqueta: «Onde leva a moça / Canção portugueza - Popular / Almeida Cruz e côro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/609/almeida_cruz_onde_leva_a_moca",
+          "doc": "museu-do-fado:w44687d5b5e5301c8",
+          "citacao": "Título: Onde leva a moça ... Editora: Co. B-93 Referências: 11840, 1-6; B93 ... Etiqueta: Onde leva a moça / Canção portugueza - Popular / Almeida Cruz e côro"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Onde leva a Moça, Co.B-93, 11840, canção popular das Beiras»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Onde leva a Moça, Co.B-93, 11840, canção popular das Beiras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/608/almeida_cruz_o_talagarca",
+      "doc": "museu-do-fado:w12bf3232453cbd76",
+      "citacao": "Título: O talagarça ... Editora: Co. B-93 Referências: 11820, 1-5; B93"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Lalargaça, Columbia B-93, 11820, música de «Luiz Júnior» [Luz Júnior?]"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/609/almeida_cruz_onde_leva_a_moca",
+      "doc": "museu-do-fado:w44687d5b5e5301c8",
+      "citacao": "Título: Onde leva a moça ... Editora: Co. B-93 Referências: 11840, 1-6; B93"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Onde leva a Moça, Co.B-93, 11840, canção popular das Beiras"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

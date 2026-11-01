@@ -1,0 +1,30 @@
+{
+  "id": "francisca-parreira-neto",
+  "tipo": "pessoa",
+  "nome": "Francisca Parreira Neto",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "profissao",
+      "valor": "Ocupação doméstica",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/breve-perfil-do-arquitecto-florncio.html",
+          "doc": "gc-i:111775883892639625",
+          "citacao": "vizinho de José Relvas, e de Francisca Parreira Neto, de ocupação doméstica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-la-187809-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0611_24.mp3",
+  "titulo": "Casinha da Colina — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-la-187809",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1215.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1207/antonio_menano_casinha_da_colina",
+      "doc": "museu-do-fado:w234cc2abaa3b9567",
+      "citacao": "Título: Casinha da colina ... Editora: Od.187.809"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

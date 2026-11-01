@@ -1,0 +1,136 @@
+{
+  "id": "edmundo-de-bettencourt",
+  "tipo": "pessoa",
+  "nome": "Edmundo de Bettencourt",
+  "nomes_alternativos": [
+    "Edmundo Bettencourt"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Cantor e autor da 'geração de oiro' do Fado de Coimbra, contemporâneo de Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
+          "doc": "gc-i:112586632108463577",
+          "citacao": "Artur Paredes foi contemporâneo de cantores e autores como Edmundo de Bettencourt, António Menano, Paradela de Oliveira, Lucas Junot e Armando Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1899",
+      "data": "1899",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Edmundo de Bettencourt (1899-1973)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Uma bibliografia no GC-V (2025) dá a uma publicação de Cravo o título «Memorial de Edmundo de Bettencourt - 1889-1973»; não se trata de dado biográfico, mas o editor pode querer conferir."
+    },
+    {
+      "campo": "morte",
+      "valor": "1973",
+      "data": "1973",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Edmundo de Bettencourt (1899-1973)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Para Jorge Cravo, Bettencourt recuperou a forma de cantar popular de Coimbra com canções populares de várias regiões e ligou o movimento presencista à Canção de Coimbra (Modernismo, «Primeiro Novo Canto»)",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Edmundo de Bettencourt (EB) recorrendo a canções populares de várias regiões do País recuperou a forma de cantar popular ligada ao povo de Coimbra. É ainda com EB, igualmente poeta, que se assiste ao elo entre o movimento literário presencista – do segundo modernismo literário português – e a CdeC"
+        },
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Princípios estes que caracterizam a Escola Presencista de EB, surgindo, assim, o Modernismo na CdeC, plasmado num Primeiro Novo Canto!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou um soneto",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "coube a Armando Goes (AG), acompanhado à viola, o pioneirismo na gravação de Sonetos (três), numa declarada intenção de inovar o discurso estético-musical da CdeC, assim como também o fez EB (um)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "julio-teodoro-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Os seus pais, capitão Júlio Teodoro de Bettencourt e a mãe Leopoldina de Santana Bettencourt, tiveram cinco filhos, duas raparigas, Maria e Ilda e três rapazes, Manuel, António e Edmundo."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "leopoldina-de-santana-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Os seus pais, capitão Júlio Teodoro de Bettencourt e a mãe Leopoldina de Santana Bettencourt, tiveram cinco filhos, duas raparigas, Maria e Ilda e três rapazes, Manuel, António e Edmundo."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJDSeOm0OKpQCB8wkK4H0MDm8-oc6O9sHrubIR91b1gImEU_d4m8mZlwGn99Yiop3a2Q5k4gGRIdvFqpW_1ge_7f3JdNY7umrKhqrlpMxSgShly3us87iKCgjDe1F4fEmw821L2LI7t2b4/s1600/edmundoBettencourt.jpg",
+      "legenda": "Edmundo de Bettencourt (1899 - 1973).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "EDMUNDO DE BETTENCOURT (1899 - 1973). Nasce a 7 de Agosto de 1899, e vem a falecer a 1 de Fevereiro de 1973."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

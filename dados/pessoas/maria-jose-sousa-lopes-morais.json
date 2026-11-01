@@ -1,0 +1,35 @@
+{
+  "id": "maria-jose-sousa-lopes-morais",
+  "tipo": "pessoa",
+  "nome": "Maria José Sousa Lopes Morais",
+  "nomes_alternativos": [
+    "Maria José"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-lopes-da-fonseca",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Maria José Sousa Lopes Morais, filha de José Lopes da Fonseca"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cano-de-coimbra-no-sculo-xix-1840_24.html",
+          "doc": "gc-i:113544803961572695",
+          "citacao": "Um testemunho oral prestado pela filha de José Trego, Maria José Sousa Lopes Morais, em Junho de 2001"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

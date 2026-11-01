@@ -1,0 +1,57 @@
+{
+  "id": "jose-ferraz-de-oliveira",
+  "tipo": "pessoa",
+  "nome": "José Ferraz de Oliveira",
+  "nomes_alternativos": [
+    "José Ferraz",
+    "Zé Ferraz"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-presenca-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Folha a Folha, pelo Grupo Presença de Coimbra, Numérica, NUM 49P&C, gravado no Aurastudio, Paços de Brandão, 1999. Textos de apresentação assinados por Manuel Alegre, Rui Pato, Miguel Porto e Armando Luís de Carvalho Homem. Insere biografias dos intervenientes e fotografias. Vozes de Jorge Cravo e Luís Goes. Guitarras a cargo de Manuel Borralho e José Ferraz de Oliveira. Viola a cargo de Manuel Gouveia Ferreira. Regista 14 temas inéditos, dos quais 3 são instrumentais."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/espetaculo-de-apresentacao-cd-fernando.html",
+          "doc": "gc-v:2692217642666510466",
+          "citacao": "Grupo PRESENÇA DE COIMBRA: Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v), Tiago Ferraz de Oliveira (v), e os cantores Jorge Machado e Jorge Cravo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/atuacao-do-grupo-presenca-de-coimbra.html",
+          "doc": "gc-v:1813809565626644144",
+          "citacao": "o Grupo Presença de\nCoimbra, ao qual tenho a honra e o gosto de pertencer, vai participar no\nConcerto de Verão da Secção Regional do Norte da Ordem dos Médicos"
+        }
+      ],
+      "nota": "2.ª guitarra; desde 1981 (já nos anos 60)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
+          "doc": "gc-iii:1214458622098257184",
+          "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        }
+      ],
+      "nota": "guitarra («José Ferraz»); Funchal, 1968"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

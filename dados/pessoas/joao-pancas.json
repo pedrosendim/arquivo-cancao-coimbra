@@ -1,0 +1,43 @@
+{
+  "id": "joao-pancas",
+  "tipo": "pessoa",
+  "nome": "João Pancas",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "fotografado na Escola de Guitarra da Secção de Fado com Jorge Gomes (2005)",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088368047056149.html",
+          "doc": "gc-i:113088368047056149",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. João Pancas e Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/escola-de-guitarra-da-seco_113088368047056149.html",
+          "doc": "gc-i:113088368047056149",
+          "citacao": "Escola de Guitarra da Secção de Fado da Associação Académica de Coimbra. João Pancas e Jorge Gomes."
+        }
+      ],
+      "nota": "Na Escola de Guitarra da Secção (fotografia de 2005); a legenda não indica a função."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

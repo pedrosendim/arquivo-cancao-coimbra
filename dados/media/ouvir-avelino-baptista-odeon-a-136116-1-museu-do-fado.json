@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-odeon-a-136116-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0119_01.mp3",
+  "titulo": "Fado do Estoril — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-odeon-a-136116",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0240.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/234/avelino_baptista_fado_do_estoril",
+      "doc": "museu-do-fado:w751150f1cc0ae20d",
+      "citacao": "Título: Fado do Estoril ... Editora: Od.A136.116 Referências: Disco Odeon A136116, OG207; A 136116"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

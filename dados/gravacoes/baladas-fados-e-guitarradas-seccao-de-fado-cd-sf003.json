@@ -1,0 +1,253 @@
+{
+  "id": "baladas-fados-e-guitarradas-seccao-de-fado-cd-sf003",
+  "titulo": "Coimbra. Baladas, Fados e Guitarradas",
+  "formato": "CD",
+  "editora": "Secção de Fado da Associação Académica de Coimbra",
+  "referencia": "CD-SF003",
+  "ano": "1994",
+  "local": "Coimbra",
+  "interpretes": [
+    {
+      "pessoa": "seccao-de-fado-da-aac",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "toada-coimbra",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Maio de 78",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Do Desalento",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Novo Canto",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Recomeço",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Alta Noite Na Sé Velha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Balada A Um Pescador",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Canção Para Dois",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Fado D'além Douro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Fado Do Adeus (Penedo)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Prenúncio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Pomba Branca",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Sintonia de Tristeza",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Homenagem",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Fado Da Rainha Santa",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Despontar",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Última Luz",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 17,
+      "titulo": "Balada de Despedida Do 5º Ano Jurídico 88/89",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/Jd8G0w44NGdFvoYykiNgxrMIOLOtX__jwfXtA_XagsY/rs:fit/g:sm/q:90/h:394/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MDU4LTE1ODI2NDcx/NjctMTEyMi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/14843058",
+        "doc": "discogs:w806a590e8c6322b1",
+        "citacao": "Imagem (secondary): https://i.discogs.com/Jd8G0w44NGdFvoYykiNgxrMIOLOtX__jwfXtA_XagsY/rs:fit/g:sm/q:90/h:394/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MDU4LTE1ODI2NDcx/NjctMTEyMi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/14843058",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14843058",
+          "doc": "discogs:w806a590e8c6322b1",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1994 (Discogs)",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14843058",
+          "doc": "discogs:w806a590e8c6322b1",
+          "citacao": "Data: 1994"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "antologia de 17 temas, amostragem do trabalho da Secção de Fado entre 1980 e 1994; texto do folheto por Jorge Gomes",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Texto do booklet por Jorge Gomes. Antologia constituída por 17 temas. Pretende ser uma amostragem do trabalho desenvolvido pela Secção de Fado da AAC entre 1980 e 1994."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "conhecido como o «álbum negro» ou «CD preto» da Secção",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "álbum negro da Secção de Fado da AAC (CD “Coimbra. Baladas, Fados e Guitarradas”, CD-SF 003, ano de 1994)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "Posteriormente existe a participação no CD preto da Secção de Fado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "participação do Toada Coimbrã com a Balada do 5.º Ano Jurídico 88/89 e o «Fado do Adeus» de António Vicente (dois temas)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "Posteriormente existe a participação no CD preto da Secção de Fado ( com a mesma Balada e com o \"Fado do Adeus\" do António Vicente)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/noites-da-cano-de-coimbra-2007.html",
+          "doc": "gc-i:1872584601877491539",
+          "citacao": "Em 1994 colaborou com dois temas na gravação de um CD da Secção de Fado da AAC que integrou vários grupos de Fado de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Corresponderão às faixas 17 e 9 do alinhamento do Discogs; a correspondência não está escrita na fonte."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14843058",
+      "doc": "discogs:w806a590e8c6322b1",
+      "citacao": "Editora: Secção de Fado da Associação Académica de Coimbra – CD-SF003"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14843058",
+      "doc": "discogs:w806a590e8c6322b1",
+      "citacao": "Formato: 1 × CD, Album"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14843058",
+      "doc": "discogs:w806a590e8c6322b1",
+      "citacao": "Faixas: 1 ... 17"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Coimbra, Baladas, Fados e Guitarradas, Coimbra, Secção de Fado, SF003, Coimbra, 1994."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

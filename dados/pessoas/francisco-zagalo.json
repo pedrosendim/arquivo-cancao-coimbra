@@ -1,0 +1,129 @@
+{
+  "id": "francisco-zagalo",
+  "tipo": "pessoa",
+  "nome": "Francisco Zagalo",
+  "nomes_alternativos": [
+    "Zagalo"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "CD «Melancolia» (edição de autor, 2024-04-01), 12 temas compostos por Francisco Zagalo",
+      "data": "2024-04-01",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Artistas: Francisco Zagalo"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Editora: Author's release – none"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Data: 2024-04-01"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Author – Francisco Zagalo"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "em «Melancolia» toca com Simão Mota e Tiago José Rodrigues em várias faixas, e com Anselmo Batista e Luís Carvalho noutras",
+      "data": "2024",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "O Ano da Morte de Inês de Castro — Francisco Zagalo, Simão Mota, Tiago José Rodrigues"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/32996745",
+          "doc": "discogs:w152b31106d322779",
+          "citacao": "Melancolia — Francisco Zagalo, Anselmo Batista, Luís Carvalho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "FESTUNA: na guitarra, a acompanhar Anselmo Batista nas «Variações em mi menor»",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "A guitarrada “Variações em mi menor”, de Anselmo Batista, ecoou pelo recinto, interpretada pelo próprio, acompanhado por Francisco Zagalo, na guitarra, e Luís Carvalho, na viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fado-maio",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/vozes-e-guitarras-encontram-se-para-imortalizar-cancao-de-coimbra/",
+          "doc": "jornal-a-cabra:w31744dde946cd5f4",
+          "citacao": "o grupo Maio, vencedor do Prémio de Revelação Cultural na Gala dos 135 anos da AAC, interpretou vários temas, de entre os quais se destaca “Sombras de Uma Capa”, primeiro original do Grupo, composto por Francisco Zagalo."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2023/05/festuna-canta-serenata-ao-sereia/",
+          "doc": "jornal-a-cabra:w8307246a28450c5b",
+          "citacao": "A guitarrada “Variações em mi menor”, de Anselmo Batista, ecoou pelo recinto, interpretada pelo próprio, acompanhado por Francisco Zagalo, na guitarra, e Luís Carvalho, na viola."
+        }
+      ],
+      "nota": "guitarra; compositor de «Sombras de Uma Capa» (2022); FESTUNA 2023"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://i.discogs.com/rdxVIf_vdR3lnMYhU8Tlq945R22hf9DlPVFN-hanyVI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1NjY2/MDY5LTE3MzgyNDY3/MTAtNTg0NS5qcGVn.jpeg",
+      "legenda": "Francisco Zagalo (ao centro, com guitarra de Coimbra). Imagem do perfil de artista «Francisco Zagalo» no Discogs.",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/15666069",
+          "doc": "discogs:wb405cda6060e1837",
+          "citacao": "Imagem: https://i.discogs.com/rdxVIf_vdR3lnMYhU8Tlq945R22hf9DlPVFN-hanyVI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1NjY2/MDY5LTE3MzgyNDY3/MTAtNTg0NS5qcGVn.jpeg"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Discogs: Francisco Zagalo",
+      "url": "https://www.discogs.com/artist/15666069"
+    },
+    {
+      "rotulo": "Canal YouTube de Francisco Zagalo (ouvir)",
+      "url": "https://www.youtube.com/channel/UCX4kfYmgqO_FI8r1XF8GTSQ"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

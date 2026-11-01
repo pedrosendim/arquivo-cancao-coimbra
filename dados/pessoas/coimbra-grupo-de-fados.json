@@ -1,0 +1,77 @@
+{
+  "id": "coimbra-grupo-de-fados",
+  "tipo": "grupo",
+  "nome": "Coimbra (grupo de fados, 2008)",
+  "nomes_alternativos": [
+    "COIMBRA - Grupo de Fados"
+  ],
+  "papeis": [
+    "agrupamento"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html",
+      "doc": "gc-ii:6391499531088337897",
+      "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/capa-contracapa-e-parte-do-caderno-do.html",
+      "doc": "gc-ii:6915606530316536542",
+      "citacao": "Capa, contracapa e parte do caderno do CD \"Coimbra\", saído há pouco tempo e que apresenta uma sonoridade nova da Guitarra e Canto de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra» (HM Música hm007cd, 2008)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/13155563",
+          "doc": "discogs:wbb9e2397d4f3be60",
+          "citacao": "Editora: HM Música – hm007cd"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "apresentação do disco no Centro Cultural àCapella, Coimbra, «18 de Fevereiro» (convite publicado em fevereiro de 2008)",
+      "data": "2008-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/o-coimbra-grupo-de-fados-vem-por-este.html",
+          "doc": "gc-ii:7487943618955585696",
+          "citacao": "O \"COIMBRA - Grupo de Fados\" vem por este meio convidá-lo para a apresentação do novo trabalho discográfico a decorrer no próximo dia 18 de Fevereiro, pelas 18h00, no Centro Cultural àCapella, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Ricardo Dias, Pedro Lopes e João Farinha em Guitarra e Canto de Coimbra (Diário as Beiras, julho de 2009)",
+      "data": "2009",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/ricardo-dias-g-pedro-lopes-v-e-joao.html",
+          "doc": "gc-iii:680715330010019325",
+          "citacao": "Ricardo Dias (g), Pedro Lopes (v) e João Farinha (c) em Guitarra e Canto de Coimbra, amanhã."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

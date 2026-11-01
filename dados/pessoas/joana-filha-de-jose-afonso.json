@@ -1,0 +1,44 @@
+{
+  "id": "joana-filha-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "Joana",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "8 de agosto de 1965",
+      "data": "1965-08-08",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "1965 ... Nascimento da Joana: 8 de Agosto."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia da AJA baseada na Tábua Cronológica de João Afonso dos Santos (José Afonso – Um Olhar Fraterno)."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Regresso antecipado a Portugal (em relação ao termo inicialmente previsto do contrato), com a Zélia e dois filhos, Lena e Joana: Agosto."
+        }
+      ],
+      "nota": "A fonte não diz expressamente quem é a mãe."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

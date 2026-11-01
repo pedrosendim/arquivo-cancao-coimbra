@@ -1,0 +1,126 @@
+{
+  "id": "jose-cochofel",
+  "tipo": "pessoa",
+  "nome": "José Cochofel",
+  "nomes_alternativos": [
+    "José Maria de Magalhães Pimentel Cochofel"
+  ],
+  "papeis": [
+    "guitarrista",
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "Segundo dados do AUC, José Maria de Magalhães Pimentel Cochofel (1870-1937), filho de Alberto Pinto de Sousa Cochofel, era natural de Anreade, município de Resende."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+      "doc": "gc-v:2818568330814433994",
+      "citacao": "José Cochofel foi instrumentista proeminente em viola francesa e cítara [guitarra]."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Anreade (Resende)",
+      "data": "",
+      "local": "Anreade (Resende)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "era natural de Anreade, município de Resende"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1870",
+      "data": "1870",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "José Maria de Magalhães Pimentel Cochofel (1870-1937)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "28 de abril de 1937",
+      "data": "1937-04-28",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "À data do seu falecimento, em 28 de abril de 1937"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "alberto-pinto-de-sousa-cochofel",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/dr-cochofel.html",
+          "doc": "gc-v:1081947515419323443",
+          "citacao": "José Maria de Magalhães Pimentel Cochofel, filho de Alberto Pinto de Sousa Cochofel e de Filipa Albertina Rebelo Pinto Cochofel Pereira Bravo de Vasconcelos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/12/a-guitarra-do-dr-cochofel.html",
+          "doc": "gc-v:2818568330814433994",
+          "citacao": "filho de Alberto Pinto de Sousa Cochofel"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "filho_de",
+      "alvo": "filipa-albertina-rebelo-pinto-cochofel-pereira-bravo-de-vasconcelos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/dr-cochofel.html",
+          "doc": "gc-v:1081947515419323443",
+          "citacao": "José Maria de Magalhães Pimentel Cochofel, filho de Alberto Pinto de Sousa Cochofel e de Filipa Albertina Rebelo Pinto Cochofel Pereira Bravo de Vasconcelos"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxL95ibO-pAx8jHsi1VT7hYYMFcxPw6hAI297NeGuS0CQJy5bhoWLv1suDRQfmozpXnXN94BisLAQe_n4SzXlfuw2EshiKqrMwCPnanVKTTcV3H1WJw2fSAOFjN_3Q0B8fr8m5dpt5aAA3/s1600/Cochofel.jpg",
+      "legenda": "Dr. José Cochofel (1870-1937), estudante de Direito na UC, executante de guitarra em Coimbra (fotografia que o post indica como disponível no Geni)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/10/dr-cochofel.html",
+          "doc": "gc-v:1081947515419323443",
+          "citacao": "DR. JOSÉ COCHOFEL (1870-1937), estudante de Direito na UC, executante de guitarra em Coimbra ... Fotografia disponível: http://www.geni.com/people/Jos%C3%A9-Maria-de-Magalh%C3%A3es-Pimentel-Cochofel"
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "guitarra-toeira-restaurada-armando-neves-1945",
+  "designacao": "Guitarra toeira de Coimbra de violeiro não identificado, restaurada por Armando Neves em 1945",
+  "tipo": "guitarra de Coimbra",
+  "construtor": "",
+  "ano": "",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Restaurada por Armando Neves, Coimbra, 1945; construtor não identificado",
+      "data": "1945",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Guitarra Toeira de Coimbra de violeiro não identificado, restaurada por Armando Neves, Coimbra, no ano de 1945."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fabrico do 1.º quartel do século XX; tampos em pinho de Flandres, braço e voluta floral em cedro; 17 pontos; corda vibrante de 42 cm",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Fabrico do 1º quartel do século XX, pouco primoroso"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Nos tampos vemos pinho Flandres, sendo o braço e a voluta floral em cedro. Apresenta escala tendencialmente plana (ligeiro abaulamento), de 17 pontos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "A corda vibrante tem de 42 cms."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ilhargas muito baixas: 4,5 cm junto ao cepo e 5,5 cm junto ao atadilho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "As costilhas são do mais baixo que temos observado, com 4,5 cms junto ao cepo e 5,5 cms no espaço de fixação do atadilho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Fotografada e medida na oficina de Fernando Meireles a 15 de fevereiro de 2002, com Jorge Gomes",
+      "data": "2002-02-15",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Instrumento fotografado na Oficina de Fernando Meireles e ali medido e estudado com a colaboração de Jorge Gomes, em 15/02/2002."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/AN%20Guitarra%20Armando%20Neves.jpg",
+      "legenda": "Guitarra toeira de Coimbra de violeiro não identificado, restaurada por Armando Neves em 1945.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+          "doc": "gc-i:113682146352699076",
+          "citacao": "Guitarra Toeira de Coimbra de violeiro não identificado, restaurada por Armando Neves, Coimbra, no ano de 1945."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/guitarra-toeira-de-coimbra-de-violeiro.html",
+      "doc": "gc-i:113682146352699076",
+      "citacao": "restaurada por Armando Neves, Coimbra, no ano de 1945"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

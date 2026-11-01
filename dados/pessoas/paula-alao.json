@@ -1,0 +1,44 @@
+{
+  "id": "paula-alao",
+  "tipo": "pessoa",
+  "nome": "Paula Alão",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Depoimento prestado ao blogue a 8 de maio de 2026",
+      "data": "2026-05-08",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/grupo-do-oup-em-lisboa-1959.html",
+          "doc": "gc-v:8406614398681311577",
+          "citacao": "Em depoimento tomado no dia 8.05.2026, Paula Alão confirmou informações relativas a seu cunhado José Alão"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "paulo-alao",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/grupo-do-oup-em-lisboa-1959.html",
+          "doc": "gc-v:8406614398681311577",
+          "citacao": "Paula Alão confirmou informações relativas a seu cunhado José Alão e a seu marido, Paulo Alão"
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

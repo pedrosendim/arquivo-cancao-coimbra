@@ -1,0 +1,45 @@
+{
+  "id": "ugo-fontoura",
+  "tipo": "pessoa",
+  "nome": "Ugo Fontoura",
+  "nomes_alternativos": [],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "canto no Grupo de Canto e Guitarra da Secção, Casa da Música de Coimbra (2008)",
+      "data": "2008-10",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "Ugo Fontoura (c)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "seccao-de-fado-da-aac",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/serenata-na-casa-da-msica-de-coimbra.html",
+          "doc": "gc-ii:736381057890065150",
+          "citacao": "pelo Grupo de Canto e Guitarra da Secção de Fado da Associação Académica de Coimbra, promovida pela Orquestra Clássica do Centro. Constituição do grupo: Manuel Coroa (g), Paulo Silva (g), Francisco Requicha (v), Miguel do Nascimento (c) e Ugo Fontoura (c)."
+        }
+      ],
+      "nota": "Canto no Grupo de Canto e Guitarra da Secção (2008)."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

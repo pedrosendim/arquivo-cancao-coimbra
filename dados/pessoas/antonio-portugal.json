@@ -1,0 +1,247 @@
+{
+  "id": "antonio-portugal",
+  "tipo": "pessoa",
+  "nome": "António Portugal",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "1931",
+      "data": "1931",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "sem esquecer a guitarra de António Portugal (1931-1994)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1994",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "sem esquecer a guitarra de António Portugal (1931-1994)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "A sua guitarra associada ao Canto de Resistência dos anos 60 na Academia de Coimbra, ao lado de Adriano Correia de Oliveira, segundo Jorge Cravo",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "O Canto de Resistência teve, então, como seu principal “cantor de serviço” na Academia de Coimbra, Adriano Correia de Oliveira – sem esquecer a guitarra de António Portugal (1931-1994)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "outro",
+      "valor": "«Guitarras do Meu País» e «Trova do Vento que Passa», indicadas como «(Manuel Alegre/António Portugal)» no repertório cantado por Jorge Cravo em 1999",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Guitarras do Meu País (Manuel Alegre/António Portugal) e Trova do Vento que Passa (Manuel Alegre/António Portugal)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Jorge Cravo no livrete do CD «Canções d'Inquietude» (2005), reproduzida no post. A fonte não explicita a repartição letra/música."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sessão «António Portugal: Evocação (1994-2009)», Pavilhão Centro de Portugal, Coimbra, 27 de junho de 2009 (exposição de fotografia, série fílmica e mesa-redonda com Rui Pato, Carvalho Homem e Luiz Goes)",
+      "data": "2009-06-27",
+      "local": "Coimbra, Pavilhão Centro de Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/antonio-portugal.html",
+          "doc": "gc-iii:7966881830147239410",
+          "citacao": "António Portugal: Evocação (1994-2009) ... Data = 27 de Junho de 2009, sábado ... Local = Pavilhão Centro de Portugal ... 17h30 – Mesa-redonda subordinada ao tema: O contributo de António Portugal para a evolução da Canção de Coimbra. Haverá uma Canção/Guitarra antes e depois de Portugal? ... Rui Pato ... Carvalho Homem ... Luiz Goes"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programa assinado por Jorge Cravo, reproduzido no post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Cunhado de Manuel Alegre, cuja poesia musicou",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/o-canto-e-as-armas-de-manuel-alegre-um.html",
+          "doc": "gc-i:111159554555406551",
+          "citacao": "António Portugal, a par de Adriano, soube também captar a poesia do seu cunhado"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto fala da poesia de Manuel Alegre. Não há tipo de relação para «cunhado»; o post não diz se Manuel Alegre é o Manuel Alegre de Melo Duarte nomeado noutro post."
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "flavio-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/no-terceiro-aniversario-da-morte-de.html",
+          "doc": "gc-ii:563689731678125196",
+          "citacao": "alguns dos registos do seu mestre Flávio Rodrigues, barbeiro na velha Alta, que lhe mostrara em peças como as Variações em Ré Menor"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "António Portugal teve como mestres de guitarra dois barbeiros de profissão, os irmãos Rodrigues da Silva, o Flávio, «o barbeiro da Velha Alta» e o Fernando, «o barbeiro da Académica»."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "O estudante liceal António Portugal (dito Fífias) frequenta a casa de Flávio Rodrigues."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "António Jorge Moreira Portugal (1931-1994), segundo guitarra, estudante da FD/UC e distinto fotógrafo de arte"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Participaram nessas gravações os instrumentistas António Brojo (gC1), António Portugal (gC2), Mário Castro e Aurélio dos Reis (vv), todos falecidos. Garantiram as vozes os jovens estudantes universitários Fernando Rolim, Luiz Goes e José Afonso."
+        }
+      ],
+      "nota": "segundo guitarra (gC2)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte instrumental era assegurada por António Portugal (guitarrista solista)/Jorge Godinho (2.º guitarra) e Manuel Pepe/Levy Baptista (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        }
+      ],
+      "nota": "guitarrista solista (1.º gC)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "conjunto-de-antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Tinha como elementos integrantes: António Portugal (gC1), Manuel Gonçalves Borralho (gC2, caloiro da FM /UC), Rui Pato (v, caloiro da FM/UC), Adriano Correia de Oliveira (cantor) e António Bernardino (cantor)."
+        }
+      ],
+      "nota": "1.ª guitarra (gC1)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/jose-afonso-o-sol-anda-la-no-ceu.html",
+          "doc": "gc-v:4113461501992610287",
+          "citacao": "António Portugal (2.ª guitarra toeira de Coimbra)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "O Portugal acompanha o Zeca Afonso, o Adriano Correia de Oliveira, o António Bernardino."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "António Portugal e Jorge Godinho (1.ª e 2.ª ggC), Manuel Pepe e Levi Baptista (violões de cordas de aço)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/balada-do-outono-2/",
+          "doc": "aja:wae21da01d27f428c",
+          "citacao": "acompanhado à guitarra por António Portugal/Eduardo de Melo e, à viola, por Manuel Pepe/Paulo Alão"
+        }
+      ],
+      "nota": "2.ª guitarra nas gravações Melodia de 1952-1953; 1.ª guitarra no EP «Coimbra» (registo de 1956) e no EP «Balada do Outono» (1960)."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLP3YBiLA5QobUBl-IX1D2NvEoduZEche40vfMG-3FqOmw_QgVE39IPqU_o87im2uEslUF4_hc2iNZ6js4O8QFJpKDT2nI4XWQkX4O1zFoLKPgYuXMQRoC0pKq0QFXamsxXQTM/s1600-h/Antonio+Portugal.jpg",
+      "legenda": "António Portugal, no post que assinalou os treze anos da sua morte.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "Faz hoje treze anos que morreu António Portugal, um dos mais representativos guitarristas da galáxia coimbrã."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

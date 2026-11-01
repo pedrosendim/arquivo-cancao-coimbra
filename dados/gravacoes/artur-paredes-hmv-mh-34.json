@@ -1,0 +1,174 @@
+{
+  "id": "artur-paredes-hmv-mh-34",
+  "titulo": "Fado Hilário / Variações em Si Menor (reedição)",
+  "formato": "78rpm",
+  "editora": "His Master's Voice",
+  "referencia": "M.H. 34",
+  "ano": "1946",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "artur-paredes",
+      "funcao": "1.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "afonso-de-sousa",
+      "funcao": "2.ª guitarra de Coimbra"
+    },
+    {
+      "pessoa": "guilherme-barbosa",
+      "funcao": "violão"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Hilário",
+      "obra": "fado-hilario-moderno",
+      "media": ["ouvir-artur-paredes-hmv-mh-34-1-museu-do-fado"]
+    },
+    {
+      "n": 2,
+      "titulo": "Variações em Si Menor",
+      "obra": "variacoes-em-si-menor-artur-paredes",
+      "media": ["ouvir-artur-paredes-hmv-mh-34-2-museu-do-fado"]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/mgPzf5FU13rDXuTrLXohqhXGe9tvV33VwZbOQYohobo/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDIx/MTcyLTE2NjMzMjkx/MjAtMTI3OC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/16421172",
+        "doc": "discogs:w2c8e24a640c1acaa",
+        "citacao": "Imagem (primary): https://i.discogs.com/mgPzf5FU13rDXuTrLXohqhXGe9tvV33VwZbOQYohobo/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDIx/MTcyLTE2NjMzMjkx/MjAtMTI3OC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/16421172",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16421172",
+          "doc": "discogs:w2c8e24a640c1acaa",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): UK",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16421172",
+          "doc": "discogs:w2c8e24a640c1acaa",
+          "citacao": "País: UK"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1946 (Discogs)",
+      "data": "1946",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16421172",
+          "doc": "discogs:w2c8e24a640c1acaa",
+          "citacao": "Data: 1946"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Reedição com base nos mesmos masters do disco E.Q. 37",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "B - Reedições fonográficas conhecidas com base nos mesmos masters:"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927 (masters 7-69263 e 7-69264)",
+      "data": "1927-05",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "A.1 - Gravações realizadas em Lisboa, 18, 19 e 20 de maio de 1927"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Ambas as faixas gravadas a 18 de maio de 1927, em Lisboa (Discogs)",
+      "data": "1927-05-18",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/16421172",
+          "doc": "discogs:w2c8e24a640c1acaa",
+          "citacao": "Both tracks recorded 18 May 1927 in Lisbon, Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Formação: Artur Paredes, acompanhado por Afonso de Sousa (2.ª guitarra de Coimbra) e Guilherme Barbosa (violão)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+          "doc": "gc-v:4640425963079735725",
+          "citacao": "Artur Paredes, guitarrista solista acompanhado por Afonso de Sousa (2.º gC) e por Guilherme Barbosa (violão)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/16421172",
+      "doc": "discogs:w2c8e24a640c1acaa",
+      "citacao": "Editora: His Master's Voice – M.H. 34"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "Disco His Master’s Voice, M.H. 34 - master 7-69263 – Fado Hilário. - master 7-69264 – Variações em Si Menor. Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

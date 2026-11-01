@@ -1,0 +1,140 @@
+{
+  "id": "almeida-cruz-columbia-b-111",
+  "titulo": "Olarí olaré / Fado das Três horas",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-111",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Olarí olaré",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-111-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado das Três horas",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-111-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Olarí olaré», por Almeida Cruz — etiqueta: «Olari, Olaré / Canção Portugueza - Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/626/almeida_cruz_olari_olare",
+          "doc": "museu-do-fado:w7a510ac9a0dc5ac3",
+          "citacao": "Título: Olarí olaré ... Editora: Co. B-111 Referências: 11818-1-2; B111 ... Etiqueta: Olari, Olaré / Canção Portugueza - Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w6ad9e66e6fa5b2f4"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Olari olaré, Columbia B-111, 11818, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Olari olaré, Columbia B-111, 11818, música popular"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado das Três horas», por Almeida Cruz — etiqueta: «Fado das trez horas / Fado - Varella / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/627/almeida_cruz_fado_das_tres_horas",
+          "doc": "museu-do-fado:w9110fd22d6933f46",
+          "citacao": "Título: Fado das Três horas ... Editora: Co. B-111,11.881 Referências: 11881-1-1; B111 ... Etiqueta: Fado das trez horas / Fado - Varella / Almeida Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": "2 exemplares desta face no Arquivo Sonoro; os outros: museu-do-fado:w21750c01fe82a176"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado das Três Horas, Columbia B-111,11881, música de Reynaldo Varella (1887)»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado das Três Horas, Columbia B-111,11881, música de Reynaldo Varella (1887)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/626/almeida_cruz_olari_olare",
+      "doc": "museu-do-fado:w7a510ac9a0dc5ac3",
+      "citacao": "Título: Olarí olaré ... Editora: Co. B-111 Referências: 11818-1-2; B111"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2109/almeida_cruz_olari_olare",
+      "doc": "museu-do-fado:w6ad9e66e6fa5b2f4",
+      "citacao": "Título: Olarí olaré ... Editora: Co. B-111 Referências: 11818, 1- 4; B111"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Olari olaré, Columbia B-111, 11818, música popular"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/627/almeida_cruz_fado_das_tres_horas",
+      "doc": "museu-do-fado:w9110fd22d6933f46",
+      "citacao": "Título: Fado das Três horas ... Editora: Co. B-111,11.881 Referências: 11881-1-1; B111"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/2108/almeida_cruz_fado_das_tres_horas",
+      "doc": "museu-do-fado:w21750c01fe82a176",
+      "citacao": "Título: Fado das Três horas ... Editora: Co. B-111 Referências: 11881, - - 9; B111"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado das Três Horas, Columbia B-111,11881, música de Reynaldo Varella (1887)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

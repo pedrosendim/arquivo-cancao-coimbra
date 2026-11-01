@@ -1,0 +1,46 @@
+{
+  "id": "joao-moura",
+  "tipo": "pessoa",
+  "nome": "João Moura",
+  "nomes_alternativos": [
+    "João Carlos Moura"
+  ],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "Foi fundador da Secção de Fado da AAC e seu primeiro monitor de Guitarra de Coimbra."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "As aulas começaram em Novembro de 1980 e eu tive a meu cargo o ensino da guitarra portuguesa, acumulado com a classe de canto e que se prolongou até 1984."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "tendo eu sido secretário nas duas primeiras direcções"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html", "doc": "gc-i:113931791535386927", "citacao": "em 1980 foi criada uma classe de Guitarra de Coimbra com João Moura"}], "nota": "Fundador; primeiro monitor de guitarra de Coimbra (e da classe de canto), de novembro de 1980 a 1984; secretário das duas primeiras direções (1981-1983)."},
+    {"tipo": "membro_de", "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)"}], "nota": "Estreia do Grupo de Cordas, Sarau da Queima de 1982."},
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-e-guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "O Grupo de Fados e Guitarras de Coimbra nasce em 1978. Encontrava-me no segundo ano de Farmácia, com quarto na República dos Pyn-Guyns, e fui contactado pelo Vítor Baltasar e pelo Carlos Caiado para fazer parte, como guitarrista, de um grupo de fados de Coimbra, recém-criado e constituído maioritariamente por estudantes da Universidade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP 10 anos... uma serenata, pelo Grupo de Fados e Guitarras de\nCoimbra, Porto, Edisco, GFC 001, GF 00002,1988, 1.200$00. Textos de\napresentação assinados por Luís Goes e Mário Afonso. Cantam António Nogueira,\nLuís Catario e Victor Silva. Guitarras: João Moura. Violas: José Santos.\nRegista 10 temas, sendo 8 cantados e 2 instrumentais. Apresenta 5 inéditos\n(face B)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "“Grupo\nde Fados e Guitarras de Coimbra” ( João Carlos Moura, António Nogueira,\nVítor Silva, Domingos Mateus, José Manuel Santos )"
+        }
+      ],
+      "nota": "guitarra; desde 1978"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

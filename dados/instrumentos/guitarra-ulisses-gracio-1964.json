@@ -1,0 +1,125 @@
+{
+  "id": "guitarra-ulisses-gracio-1964",
+  "designacao": "Guitarra de Lisboa com rótulo «Ulisses 1964», atribuída a Ulisses Grácio (coleção Fernandez Music)",
+  "tipo": "guitarra de Lisboa",
+  "construtor": "ulisses-gracio",
+  "ano": "1964",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Rótulo colado na ilharga interior direita com a inscrição «Ulisses 1964»; sem rótulo no fundo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "There is no label glued inside the guitar on the back but there is one glued to the interior right side which states \"Ulisses 1964\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Feita em Lisboa; reconhecida como guitarra de Ulisses Grácio por um amigo de Ron Fernandez em Lisboa, a partir de fotografias",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This guitarra Made in Lisbon, Portugal. I showed photos of this instrument to my friend in Lisbon who recognized it as a Ulisses Gracio Guitar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Cabeça em voluta, com um invulgar filete ornamental branco torcido; rebordo do tampo com embutidos elaborados",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "It has a well proportioned scroll head, with an unusual white twisted ornamental strip. The edge of the soundboard is elaborately inlaid."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Corpo largo, típico das guitarras de Lisboa dos anos 1960; tampo de abeto (spruce), fundo e ilhargas de pau-santo (rosewood), escala de ébano",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Take notice of the shape of the body--it is quite wide, this was typical of Lisboa guitarras of the 1960s. It has a spruce soundboard, rosewood back and sides, ebony fingerboard."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Restauro por Ron Fernandez: fenda no fundo reparada, acabamento a goma-laca (French polish), trastos e ação",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "I repaired a crack in the back, French Polish the body, refined the fret work and set-up the action."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www.fernandezmusic.com/Images/UlissesFace.jpg",
+      "legenda": "This splendid guitarra is a Lisbon fado guitar.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "This splendid guitarra is a Lisbon fado guitar."
+        }
+      ]
+    },
+    {
+      "url": "https://www.fernandezmusic.com/Images/UlissesBack.jpg",
+      "legenda": "Above is a photo of the back of the \"Ulisses\" guitarra.",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Above is a photo of the back of the \"Ulisses\" guitarra."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "fernandez-music",
+      "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+      "doc": "fernandez-music:wf155b684462ac1d7",
+      "citacao": "there is one glued to the interior right side which states \"Ulisses 1964\""
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

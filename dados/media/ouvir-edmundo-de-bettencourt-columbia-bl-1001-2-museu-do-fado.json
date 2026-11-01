@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-bl-1001-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0160_03.mp3",
+  "titulo": "Saudades de Coimbra — Edmundo Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "afonso-de-sousa",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-bl-1001",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0320.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/315/edmundo_bettencourt_saudades_de_coimbra",
+      "doc": "museu-do-fado:wee1edc2654af0801",
+      "citacao": "Título: Saudades de Coimbra ... Editora: Co.BL1001,GL107 Referências: WP662, W, 48574; BL1001"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

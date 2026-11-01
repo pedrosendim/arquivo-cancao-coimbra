@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-antonio-menano-odeon-136817-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0603_07.mp3",
+  "titulo": "Fado do Ceguinho — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-136817",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1199.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1190/antonio_menano_fado_do_ceguinho",
+      "doc": "museu-do-fado:w779394a1f9cf8626",
+      "citacao": "Título: Fado do Ceguinho ... Editora: Od. X3043, 136.817, EMICD8346182"
+    }
+  ],
+  "nota": "O exemplar digitalizado é o Odeon X 3043 (Referências: OG653, R, 3043A; X 3043a); a linha «Editora» do registo indica também o n.º 136.817.",
+  "estado_revisao": "rascunho"
+}

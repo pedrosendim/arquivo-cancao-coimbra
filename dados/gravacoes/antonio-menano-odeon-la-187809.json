@@ -1,0 +1,146 @@
+{
+  "id": "antonio-menano-odeon-la-187809",
+  "titulo": "Casinha da Colina / Conto d'Amor",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187809",
+  "ano": "1928",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Casinha da Colina",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187809-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Conto d'Amor",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187809-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/yven_IiZ3smIcEgyCUP3DFgS8OHhzWqfBiF1M0eutJE/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/NjMtMTQ3MjQ4MjUy/Ni03NjM0LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7761663",
+        "doc": "discogs:wf18eb8214237bc47",
+        "citacao": "Imagem (primary): https://i.discogs.com/yven_IiZ3smIcEgyCUP3DFgS8OHhzWqfBiF1M0eutJE/rs:fit/g:sm/q:90/h:336/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjE2/NjMtMTQ3MjQ4MjUy/Ni03NjM0LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7761663",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Shellac, 10\", 78 RPM",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761663",
+          "doc": "discogs:wf18eb8214237bc47",
+          "citacao": "Formato: 1 × Shellac, 10\", 78 RPM"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761663",
+          "doc": "discogs:wf18eb8214237bc47",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1928 (Discogs)",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761663",
+          "doc": "discogs:wf18eb8214237bc47",
+          "citacao": "Data: 1928"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Sessão de Berlim, 11 a 28 de dezembro de 1928: João Fernandes (guitarra) e Mário Marques (violão); nas peças assinaladas com asterisco, piano de Afonso Correia Leite (blogue)",
+      "data": "1928-12",
+      "local": "Berlim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "A terceira série fonográfica, ou registos berlinenses, ocorreu entre 11 e 28 de Dezembro de 1928, quase cinco meses após as gravações de Lisboa. O duo de guitarra e violão era formado por instrumentista do Fado de Lisboa, João Fernandes (g) e Mário Marques (v). Em algumas peças, que assinalaremos com asterisco no inventário, António Menano foi acompanhado ao piano por Afonso Correia Leite."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1030: CASINHA DA COLINA (Você sabe de onde eu venho)*"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:116523122528887795",
+          "citacao": "Og 1003: CONTO D’AMOR (Era uma vez um pastor)*"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Créditos no Discogs: Alfonso Corrêa Leite",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7761663",
+          "doc": "discogs:wf18eb8214237bc47",
+          "citacao": "A Casinha Da Colina  [Alfonso Corrêa Leite]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7761663",
+      "doc": "discogs:wf18eb8214237bc47",
+      "citacao": "Editora: Odeon – LA 187809"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "antonio-menano-odeon-la-187811",
+  "titulo": "Canção do cigano / Lenda",
+  "formato": "78rpm",
+  "editora": "Odeon",
+  "referencia": "LA 187.811",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-menano",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção do cigano",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187811-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Lenda",
+      "obra": "",
+      "media": [
+        "ouvir-antonio-menano-odeon-la-187811-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Canção do cigano», por António Menano — etiqueta: «Canção do Cigano / (Popular) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1211/antonio_menano_cancao_do_cigano",
+          "doc": "museu-do-fado:w45ae29203de85034",
+          "citacao": "Título: Canção do cigano ... Editora: Od.LA187.811, EMI2605983,EMICD8374952 Referências: OG1036, L, NR; LA 187811a ... Etiqueta: Canção do Cigano / (Popular) / Dr. António Menano / Piano - Alfonso Corrêa Leite / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": "acompanhamento indicado na etiqueta, sem ficha no arquivo: Alfonso Corrêa Leite (piano)"
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Lenda», por António Menano — etiqueta: «Lenda / (Correa Leite) / Dr. Antonio Menano / Piano - Alfonso Corrêa Leite  / Berlin»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1210/antonio_menano_lenda",
+          "doc": "museu-do-fado:w74ce796eae5a1126",
+          "citacao": "Título: Lenda ... Editora: Od.LA187.811, EMI2605983,EMICD8374952 Referências: OG1031, L, NR; LA 187811 ... Etiqueta: Lenda / (Correa Leite) / Dr. Antonio Menano / Piano - Alfonso Corrêa Leite  / Berlin"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1211/antonio_menano_cancao_do_cigano",
+      "doc": "museu-do-fado:w45ae29203de85034",
+      "citacao": "Título: Canção do cigano ... Editora: Od.LA187.811, EMI2605983,EMICD8374952 Referências: OG1036, L, NR; LA 187811a"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1210/antonio_menano_lenda",
+      "doc": "museu-do-fado:w74ce796eae5a1126",
+      "citacao": "Título: Lenda ... Editora: Od.LA187.811, EMI2605983,EMICD8374952 Referências: OG1031, L, NR; LA 187811"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

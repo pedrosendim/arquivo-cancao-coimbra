@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-antonio-menano-odeon-x-3040-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2798_18.mp3",
+  "titulo": "Fado de Fornos — António Menano",
+  "data": "",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "antonio-menano-odeon-x-3040",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_5667.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/5464/antonio_menano_fado_de_fornos",
+      "doc": "museu-do-fado:w2750ebf0a3572254",
+      "citacao": "Título: Fado de Fornos ... Editora: Odeon Referências: X3040B, OG697"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

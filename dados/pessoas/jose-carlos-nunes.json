@@ -1,0 +1,30 @@
+{
+  "id": "jose-carlos-nunes",
+  "tipo": "pessoa",
+  "nome": "José Carlos Nunes",
+  "nomes_alternativos": [],
+  "papeis": [
+    "violista",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-cancao-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "“Grupo Canção de Coimbra” – Pedro Pimenta a cantar; Francisco Dias Marques e Pedro Nunes à guitarra; José Carlos Nunes e Manuel João Vaz à viola."
+        }
+      ],
+      "nota": "viola; coletânea «Baladas de Despedida – Anos 90»"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "alcides-freixo",
+  "tipo": "pessoa",
+  "nome": "Alcides Freixo",
+  "nomes_alternativos": [],
+  "papeis": [
+    "guitarrista",
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/grupo-de-fados-e-guitarradas-raizes-de.html",
+          "doc": "gc-iv:7880531746411140152",
+          "citacao": "Grupo de Fados e guitarradas \"Raízes de Coimbra\" na Feira, ontem, numa digressão dos Antigos Tunos. Foram Alcides Freixo (g), Humberto Matias (v), Octávio Sérgio (g) e Paulo Alexandre (g). Cantaram Heitor Lopes, Rui Lucas e Mário Rovira."
+        }
+      ],
+      "nota": "guitarra; 2007-2012"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "saudade-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Fundou o\nQuarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e\nguitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa,\ngrupo privativo do restaurante “TROVADOR” – Sé Velha – Coimbra, para a\nrealização de dois trabalhos discográficos dum “Velho” cantor de Coimbra MÁRIO\nGOMES PAIS, denominados “COIMBRA P’RA SER COIMBRA” e “COIMBRA É UMA SAUDADE”."
+        }
+      ],
+      "nota": "viola, na formação inicial"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

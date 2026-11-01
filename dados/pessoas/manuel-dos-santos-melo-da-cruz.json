@@ -1,0 +1,194 @@
+{
+  "id": "manuel-dos-santos-melo-da-cruz",
+  "tipo": "pessoa",
+  "nome": "Manuel dos Santos Melo da Cruz",
+  "nomes_alternativos": [
+    "Sanctos Mello",
+    "Santos Mello",
+    "Manoel dos Sanctos Mello da Cruz",
+    "Gualberto"
+  ],
+  "papeis": [
+    "cantor",
+    "guitarrista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+      "doc": "gc-v:6588002812791711736",
+      "citacao": "MANOEL DOS SANCTOS MELLO DA CRUZ nasceu em Santa Eugénia, município de Alijó, a 08.01.1864. Era filho de Manuel José dos Santos Melo. Matriculou-se na FD / UC em 15.10.1880, tendo concluído a sua formatura em 08.07.1885."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+      "doc": "gc-v:6588002812791711736",
+      "citacao": "Cantor, executante de guitarra muito reconhecido pelos da sua geração, integrou as estudantinas espontâneas que percorriam as ruas de Coimbra na Primavera / Verão, fez serenatas e protagonizou presenças em palco."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+      "doc": "gc-v:6588002812791711736",
+      "citacao": "Concluído o curso, concorreu aos quadros da Procuradoria Régia (Ministério Público), tendo trabalhado como delegado do Procurador Régio nas comarcas de Odemira, Caldas da Rainha, Montemor-o-Novo, Peso da Régua, Vila Real e Lamego."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+      "doc": "gc-v:6588002812791711736",
+      "citacao": "Encontrava-se no exercício de funções em Lamego, tendo o jornal Campeão das Províncias, n.º 4.241, edição de 25.02.1893, noticiado na primeira página o óbito."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Manoel dos Sanctos Mello da Cruz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "MANOEL DOS SANCTOS MELLO DA CRUZ nasceu em Santa Eugénia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Santa Eugénia (Alijó), 8 de janeiro de 1864",
+      "data": "1864-01-08",
+      "local": "Santa Eugénia (Alijó)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "nasceu em Santa Eugénia, município de Alijó, a 08.01.1864."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "1893; óbito noticiado a 25 de fevereiro de 1893, quando exercia funções em Lamego",
+      "data": "1893",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Fica agora a saber-se que faleceu em 1893"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "tendo o jornal Campeão das Províncias, n.º 4.241, edição de 25.02.1893, noticiado na primeira página o óbito. Falta ainda aprofundar a investigação no sentido de confirmar se faleceu no mesmo dia 25 ou um pouco antes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Faculdade de Direito da UC: matrícula a 15 de outubro de 1880, formatura a 8 de julho de 1885",
+      "data": "1885-07-08",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Matriculou-se na FD / UC em 15.10.1880, tendo concluído a sua formatura em 08.07.1885."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Alcunha «Gualberto»; usava a capa e batina como traje cénico",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Nos anos de Coimbra foi conhecido inter pares pela alcunha de «Gualberto»"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Utilizava a capa e batina como traje cénico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Delegado do Procurador Régio em várias comarcas (Odemira, Caldas da Rainha, Montemor-o-Novo, Peso da Régua, Vila Real, Lamego)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "tendo trabalhado como delegado do Procurador Régio nas comarcas de Odemira, Caldas da Rainha, Montemor-o-Novo, Peso da Régua, Vila Real e Lamego."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Única composição conhecida: «Última Ballada», cuja música se dá como perdida",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Enquanto autor, de Sanctos Mello apenas se conhece a composição «Última Ballada», sendo a música dada como perdida."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "filho_de",
+      "alvo": "manuel-jose-dos-santos-melo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Era filho de Manuel José dos Santos Melo."
+        }
+      ],
+      "nota": ""
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg_hZpWXu8u9KkTTuZg2gjZ1lCyODhlPzL1XF5WcrUWHG42kDBjOy5NgoT8eDYEc0E1Ygaw2I0pz_Xlh-G2Jlp2tSuAHAnNJQYM9FJG-aic4PO3ibmSZ6E7_G_XPr59XiuRp3jCjV_gK8WoPWhyEj8jwSygungtcQE5o8H1wY5mQid05ZsP3VfSCHe2=w402-h640",
+      "legenda": "Carte visite de Sanctos Mello como quintanista de Direito, julho de 1885 (casa Sartoris)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html",
+          "doc": "gc-v:6588002812791711736",
+          "citacao": "Retrato / carte visite de SANCTOS MELLO como quintanista da FD / UC em julho de 1885, casa Sartoris."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [
+    {
+      "rotulo": "Sanctos Mello (1864-1893), que Minerva acolhe no Olimpo (2022)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/03/sanctos-mello-1864-1893-que-minerva.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

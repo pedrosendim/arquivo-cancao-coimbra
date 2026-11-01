@@ -1,0 +1,128 @@
+{
+  "id": "almeida-cruz-columbia-b-91",
+  "titulo": "Corre cordelinho / Fado Moderno",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "B-91",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "antonio-de-almeida-cruz",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Corre cordelinho",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-91-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Moderno",
+      "obra": "",
+      "media": [
+        "ouvir-almeida-cruz-columbia-b-91-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Corre cordelinho», por Almeida Cruz — etiqueta: «Corre, Cordelinho / Canção Portugueza, Popular / Almeida Cruz e Coro»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/604/almeida_cruz_corre_cordelinho",
+          "doc": "museu-do-fado:wabdaac0d9d5d551d",
+          "citacao": "Título: Corre cordelinho ... Editora: Co. B-91 Referências: 11819, 1-5; B91 ... Etiqueta: Corre, Cordelinho / Canção Portugueza, Popular / Almeida Cruz e Coro"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Corre, cordelinho, Columbia B-9, 11819, música popular»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Corre, cordelinho, Columbia B-9, 11819, música popular"
+        }
+      ],
+      "conflito": true,
+      "nota": "O número do disco no blogue (B-9) difere do do registo do Museu do Fado (B-91). O registo do Museu do Fado indica «Editora: Co. B-91» e «Referências: 11819, 1-5; B91»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Moderno», por Almeida Cruz — etiqueta: «Fado Moderno  / Fado / (T. del Negro) / Almeida Cruz»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/605/almeida_cruz_fado_moderno",
+          "doc": "museu-do-fado:w4cfa13cd4a63f38f",
+          "citacao": "Título: Fado Moderno ... Editora: Co. B-91 Referências: 11877-1-3; B91 ... Etiqueta: Fado Moderno  / Fado / (T. del Negro) / Almeida Cruz"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo o inventário fonográfico do blogue: «Fado Moderno, Columbia B-9, 11877-1»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+          "doc": "gc-v:8344946568745998278",
+          "citacao": "-Fado Moderno, Columbia B-9, 11877-1"
+        }
+      ],
+      "conflito": true,
+      "nota": "O número do disco no blogue (B-9) difere do do registo do Museu do Fado (B-91). O registo do Museu do Fado indica «Editora: Co. B-91» e «Referências: 11877-1-3; B91»."
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/604/almeida_cruz_corre_cordelinho",
+      "doc": "museu-do-fado:wabdaac0d9d5d551d",
+      "citacao": "Título: Corre cordelinho ... Editora: Co. B-91 Referências: 11819, 1-5; B91"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Corre, cordelinho, Columbia B-9, 11819, música popular"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/605/almeida_cruz_fado_moderno",
+      "doc": "museu-do-fado:w4cfa13cd4a63f38f",
+      "citacao": "Título: Fado Moderno ... Editora: Co. B-91 Referências: 11877-1-3; B91"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/09/almeida-cruz.html",
+      "doc": "gc-v:8344946568745998278",
+      "citacao": "-Fado Moderno, Columbia B-9, 11877-1"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "afonso-rtp-a-cancao-de-coimbra-2012",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-cancao-de-coimbra/",
+  "titulo": "A Canção de Coimbra — Estranha Forma de Vida (Antena 1, 2012)",
+  "data": "2012-01-14",
+  "pessoas": [
+    "jose-afonso",
+    "rui-pato",
+    "jose-niza",
+    "antonio-portugal",
+    "jorge-godinho"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-cancao-de-coimbra/",
+      "doc": "rtp-arquivos:wbfbccbe09aa4e3e4",
+      "citacao": "Canção de Coimbra das décadas de 30 a 60; Baladeiros dos anos 60; José Afonso, Adriano Correia de Oliveira, Luís Cília e Manuel Freire"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

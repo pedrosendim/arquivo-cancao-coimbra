@@ -1,0 +1,66 @@
+{
+  "id": "antonio-de-jesus",
+  "tipo": "pessoa",
+  "nome": "António de Jesus",
+  "nomes_alternativos": [
+    "António Luís Costa de Jesus",
+    "António Jesus"
+  ],
+  "papeis": [
+    "guitarrista",
+    "cantor",
+    "compositor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "guitarras-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Atualmente\npertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º\nguitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras,\nDr. Fernando Plácido, Dr. Aníbal Moreira e Dr. Bernardino Gonçalves – violas, e\ncom os cantores Dr. José Miranda e Dr. José Neves, tendo produzido o trabalho\ndiscográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro\nde 2001 e “Coimbra sempre menina e moça”."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Morreu ontem, António de Jesus, guitarrista do grupo \"Guitarras de Coimbra\"."
+        }
+      ],
+      "nota": "1.ª guitarra; fundador"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "saudade-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides\nFreixo – guitarra, Joaquim Santos e José Freitas – violas, tendo como cantores:\nJoaquim Afonso, Florentino Silva, Mário Rovira, Augusto Alfaiate, António\nRodrigues, entre outros."
+        }
+      ],
+      "nota": "guitarra; fundador"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "Fundou o\nQuarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e\nguitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa,\ngrupo privativo do restaurante “TROVADOR” – Sé Velha – Coimbra, para a\nrealização de dois trabalhos discográficos dum “Velho” cantor de Coimbra MÁRIO\nGOMES PAIS, denominados “COIMBRA P’RA SER COIMBRA” e “COIMBRA É UMA SAUDADE”."
+        }
+      ],
+      "nota": "guitarra; fundador"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

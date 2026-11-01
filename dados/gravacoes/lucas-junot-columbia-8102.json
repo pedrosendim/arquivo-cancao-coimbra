@@ -1,0 +1,88 @@
+{
+  "id": "lucas-junot-columbia-8102",
+  "titulo": "Fado de Santa Clara / Um fado de Coimbra",
+  "formato": "78rpm",
+  "editora": "Columbia",
+  "referencia": "8102",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "lucas-junot",
+      "funcao": "voz (tenor)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado de Santa Clara",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-8102-1-museu-do-fado"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Um fado de Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-lucas-junot-columbia-8102-2-museu-do-fado"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado de Santa Clara», por Lucas Junot — etiqueta: «Fado de Santa Clara / (Dr. Francisco Menano) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/903/lucas_junot_fado_de_santa_clara",
+          "doc": "museu-do-fado:we39190a5607e56c7",
+          "citacao": "Título: Fado de Santa Clara ... Editora: Co. 8102, HTCD15 Referências: 195, W, 27254; 8102 ... Etiqueta: Fado de Santa Clara / (Dr. Francisco Menano) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Um fado de Coimbra», por Lucas Junot — etiqueta: «Um fado de Coimbra / (Dr. António Menano) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola»",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/902/lucas_junot_um_fado_de_coimbra",
+          "doc": "museu-do-fado:w55e2c1c453776a8e",
+          "citacao": "Título: Um fado de Coimbra ... Editora: Co. 8102, HTCD15 Referências: 193, W, 27252, P193; 8102 ... Etiqueta: Um fado de Coimbra / (Dr. António Menano) / Dr. Lucas Junot - Tenor / Acompanhamento de guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/903/lucas_junot_fado_de_santa_clara",
+      "doc": "museu-do-fado:we39190a5607e56c7",
+      "citacao": "Título: Fado de Santa Clara ... Editora: Co. 8102, HTCD15 Referências: 195, W, 27254; 8102"
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/902/lucas_junot_um_fado_de_coimbra",
+      "doc": "museu-do-fado:w55e2c1c453776a8e",
+      "citacao": "Título: Um fado de Coimbra ... Editora: Co. 8102, HTCD15 Referências: 193, W, 27252, P193; 8102"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "levi-baptista",
+  "tipo": "pessoa",
+  "nome": "Levi Baptista",
+  "nomes_alternativos": [
+    "Levy Baptista"
+  ],
+  "papeis": [
+    "violista"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "coimbra-quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "A parte instrumental era assegurada por António Portugal (guitarrista solista)/Jorge Godinho (2.º guitarra) e Manuel Pepe/Levy Baptista (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+          "doc": "gc-v:1760813732173371136",
+          "citacao": "Em 1954 existia no Liceu D. João III um pequeno grupo de bichos, constituído na circunstância por António Duarte (gC), Jorge Godinho (gC) e Levi Baptista (v)."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_19.html",
+          "doc": "gc-v:3115598909214321265",
+          "citacao": "Levi Baptista recorda-se de acompanhar estas composições"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/04/relao-das-gravaes-em-que-participou_21.html",
+          "doc": "gc-ii:4523580922392598977",
+          "citacao": "Manuel Pepe e Levy Baptista (à viola) o famoso Zeca Afonso no seu primeiro EP"
+        }
+      ],
+      "nota": "Viola nas matrizes de 1956 editadas no EP «Coimbra» (Alvorada MEP 60280, 1960); a etiqueta do EP não o menciona."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAblRSLoVovjuVTWOHinTD7Dwvhxul1oQCpEsbXg81UX6rbL3GXmA8ha0pLjx6lOvkQoqY87gJwrHBJMwCIhdtIsi65NlF-fwYfed7O54PFmsw4Cg7cUXmLvpu8b7TNyxSL0P0CQzov8w/s1600/Arquivo+Municipal+de+Lisboa+-+Ref+PT-AMLSB-FER-005194+-+Folha+1+%25282%2529.jpg",
+      "legenda": "Fotografia promocional do Coimbra Quintet junto à entrada da Torre d'Anto, Coimbra [ca. 1955-1956]. A contar do portão: Levy Baptista (v), António Portugal (gC1), Jorge Godinho (gC2), Machado Soares (a cantar) e José Afonso, atrás de Machado Soares, sem óculos (Arquivo Municipal de Lisboa, PT/AMLSB/FER/005194).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "São reconhecíveis a contar do portão: -Levy Baptista (v); -António Portugal (gC1); -Jorge Godinho (gC2); -Machado Soares (a cantar); -José Afonso, atrás de Machado Soares, sem óculos."
+        }
+      ]
+    }
+  ],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

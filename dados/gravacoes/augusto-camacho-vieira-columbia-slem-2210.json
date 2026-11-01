@@ -1,0 +1,164 @@
+{
+  "id": "augusto-camacho-vieira-columbia-slem-2210",
+  "titulo": "Balada do Mondego",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "SLEM 2210",
+  "ano": "1965",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "antonio-portugal",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "aurelio-dos-reis",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado dos Olhos Claros",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado d'Anto",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Balada ao Mondego",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Balada da Despedida",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/xDg1jONhLNq4mHgWaLSw59FCA2glOljx8G02nsx4cLs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcw/ODY0LTE1NzczNjQw/MTYtMjMwOS5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/14570864",
+        "doc": "discogs:w68d2d118308508e9",
+        "citacao": "Imagem (primary): https://i.discogs.com/xDg1jONhLNq4mHgWaLSw59FCA2glOljx8G02nsx4cLs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcw/ODY0LTE1NzczNjQw/MTYtMjMwOS5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/14570864",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14570864",
+          "doc": "discogs:w68d2d118308508e9",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14570864",
+          "doc": "discogs:w68d2d118308508e9",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1965 (Discogs)",
+      "data": "1965",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14570864",
+          "doc": "discogs:w68d2d118308508e9",
+          "citacao": "Data: 1965"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O mesmo conteúdo saiu no EP Balada ao Mondego, Columbia SEGJ 38 (1965)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "EP Balada ao Mondego, Lisboa, COLUMBIA, SEGJ 38 (ano de 1965)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "O Discogs intitula a faixa B1 «Balada do Mondego»; o blogue chama-lhe «Balada ao Mondego (Sonhar contigo, ó Coimbra)»",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14570864",
+          "doc": "discogs:w68d2d118308508e9",
+          "citacao": "B1 Balada Do Mondego"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+          "doc": "gc-v:920248313425054771",
+          "citacao": "BALADA AO MONDEGO (Sonhar contigo, ó Coimbra)=SONHAR CONTIGO, Ó COIMBRA."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14570864",
+      "doc": "discogs:w68d2d118308508e9",
+      "citacao": "Editora: Columbia – SLEM 2210"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/07/registos-de-45-rpm-associados-camacho.html",
+      "doc": "gc-v:920248313425054771",
+      "citacao": "EP Balada do Mondego, Dr. Augusto Camacho, Lisboa, COLUMBIA, SLEM 2210 (ano de 1965). António Brojo e António Portugal (ggC); Aurélio dos Reis (v)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

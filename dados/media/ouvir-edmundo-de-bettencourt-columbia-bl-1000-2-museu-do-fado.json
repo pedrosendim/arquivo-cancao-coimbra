@@ -1,0 +1,26 @@
+{
+  "id": "ouvir-edmundo-de-bettencourt-columbia-bl-1000-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0159_00.mp3",
+  "titulo": "Alegria dos Céus — Edmundo de Bettencourt",
+  "data": "",
+  "pessoas": [
+    "edmundo-de-bettencourt",
+    "artur-paredes",
+    "afonso-de-sousa",
+    "mario-faria-da-fonseca"
+  ],
+  "obras": [],
+  "gravacao": "edmundo-de-bettencourt-columbia-bl-1000",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_0317.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/312/edmundo_bettencourt_alegria_dos_ceus",
+      "doc": "museu-do-fado:w05729b12862da76b",
+      "citacao": "Título: Alegria dos céus ... Editora: Co. BL1000, GL106"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

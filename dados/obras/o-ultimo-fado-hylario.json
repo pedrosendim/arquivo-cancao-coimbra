@@ -1,0 +1,127 @@
+{
+  "id": "o-ultimo-fado-hylario",
+  "titulo": "O Último Fado",
+  "titulos_alternativos": [
+    "O Ultimo Fado (do Hylario)",
+    "Último Fado do Hylario",
+    "Senhoras, venho de longe"
+  ],
+  "genero": "fado",
+  "musica": [
+    "augusto-hilario"
+  ],
+  "letra": [],
+  "ano": "1895",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Publicado no Cancioneiro de Músicas Populares de César das Neves, vol. II (1895), pp. 102-103, n.º 215 (impresso por erro 115)",
+      "data": "1895",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "O «O último fado» foi publicado no Cancioneiro de Músicas Populares, César das Neves Vol. II, 1895, páginas 102 e 103, com o n.º 215 (por erro tipográfico, saiu 115)."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/o-ultimo-fado-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8474551674690973827",
+          "citacao": "Fonte: Cancioneiro de Músicas Populares, César das Neves Vol. II, 1895, pag 102 e 103, N.º 115"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letra de 20 quadras, entre as quais as duas que integram o atual «Fado Hilário (A minha capa velhinha)»; incipit «Senhoras, venho de longe»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+          "doc": "gc-v:8663414541731534926",
+          "citacao": "“O ÚLTIMO FADO”, cuja letra é constituída por 20 quadras. Nelas estão contidas as duas quadras que fazem parte da letra do actual “FADO HILÁRIO (A minha capa velhinha)”"
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8204525654998571512",
+          "citacao": "O último fado (Senhoras venho de longe) CMP César das Neves 115"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Quadra original, depois alterada no Fado Hilário Moderno: «A minha capa velhinha / Tem a côr da noite escura, / Não a quero por mortalha / Quando fôr p'ra sepultura»",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "A minha capa velhinha Tem a côr da noite escura, Não a quero por mortalha Quando fôr p'ra sepultura."
+        },
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:6156911458628167050",
+          "citacao": "em relação à quadra da \"capa como mortalha\", perpetuou-se essa flagrante deturpação/inversão do sentido da quadra original em que o sujeito poético (Hylario?) afirma, afinal, que NÃO quer a capa por mortalha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Duas partes musicais (uma em tom maior, outra em menor)",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/o-ultimo-fado-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8474551674690973827",
+          "citacao": "Considerando que, este último, tem duas partes (uma maior e outra menor) o resultante tem 3 partes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Base, com o «Fado Serenata», do chamado «Fado Hilário Moderno»",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/o-ultimo-fado-de-augusto-hylario.html",
+          "doc": "galaxia-sonora-coimbra:8474551674690973827",
+          "citacao": "O Fado Hilário moderno resulta da junção do «Fado serenata do Hylario» («Foge lua envergonhada» passa a «A minha capa velhinha») e de «O ultimo fado»."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/o-ultimo-fado-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:8474551674690973827",
+      "citacao": "Fonte: Cancioneiro de Músicas Populares, César das Neves Vol. II, 1895, pag 102 e 103, N.º 115"
+    },
+    {
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "citacao": "A minha capa velhinha Tem a côr da noite escura, Não a quero por mortalha Quando fôr p'ra sepultura."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/augusto-hilario.html",
+      "doc": "gc-v:8663414541731534926",
+      "citacao": "“O ÚLTIMO FADO”, cuja letra é constituída por 20 quadras. Nelas estão contidas as duas quadras que fazem parte da letra do actual “FADO HILÁRIO (A minha capa velhinha)”"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

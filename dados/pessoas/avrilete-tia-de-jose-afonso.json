@@ -1,0 +1,54 @@
+{
+  "id": "avrilete-tia-de-jose-afonso",
+  "tipo": "pessoa",
+  "nome": "Avrilete",
+  "nomes_alternativos": [
+    "Tia Avrilete"
+  ],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, Avenida Dias da Silva (atual n.º 112), à Cumeada",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "tia Avrilete, tia paterna que vivia à Av. Dias da Silva, actual nº112"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Primeira estadia em casa da tia Avrilete, na Avenida Dias da Silva, à Cumeada."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tia paterna de José Afonso",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia/",
+          "doc": "aja:w9bc271d41e62cb13",
+          "citacao": "tia Avrilete, tia paterna"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "felisberto-queiroz",
+  "tipo": "pessoa",
+  "nome": "Felisberto Queiroz",
+  "nomes_alternativos": [
+    "Felisberto Queirós"
+  ],
+  "papeis": [
+    "cantor"
+  ],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "membro_de",
+      "alvo": "pardalitos-do-mondego",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/algumas-composies-da-formao-pardalitos.html",
+          "doc": "gc-i:115425688077135374",
+          "citacao": "Cantores: Paulo Cortesão (Assistente Social); Nuno Castelhano (Advogado); Felisberto Queiroz (estudante de Engª Mecânica)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/07/uma-ave-maria-que-nao-e-dos-pardalitos.html",
+          "doc": "gc-v:883613342487125138",
+          "citacao": "Do repertório da formação Pardalitos do Mondego consta o tema AVÉ-MARIA SENHORA (1994), música e letra de José Reis, gravado por Felisberto Queirós no CD Afluentes (2014)."
+        }
+      ],
+      "nota": "voz; formação de 2006, CD «Afluentes» (2014) e CD de 2018"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "quarteto-aeminium",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no_112138924320281633.html",
+          "doc": "gc-i:112138924320281633",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496819120901969.html",
+          "doc": "gc-i:111496819120901969",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com Felisberto Queirós a cantar. Aníbal Moreira, Carlos Jesus e Paulo Larguesa."
+        }
+      ],
+      "nota": "voz; 2005"
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "luiz-goes-columbia-elms-3004",
+  "titulo": "Coimbra de Ontem e de Hoje (EP)",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "ELMS 3004",
+  "ano": "1967",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "luiz-goes",
+      "funcao": "voz (barítono)"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada Da Distância",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-8-apple-music"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Sonhar Contigo Ó Coimbra",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-4-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Balada Do Tempo Breve",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-7-apple-music"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Canção Da Infância",
+      "obra": "",
+      "media": [
+        "ouvir-luiz-goes-columbia-spmx-5004-11-apple-music"
+      ]
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/vVCKF806ItG5iVaHKTlwAvs6sUO6uu_R2pNh4MY2M0s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTY5/NTQtMTQxNjMxMTUx/Mi05Mjc5LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/6316954",
+        "doc": "discogs:wb640f3a06148f87c",
+        "citacao": "Imagem (primary): https://i.discogs.com/vVCKF806ItG5iVaHKTlwAvs6sUO6uu_R2pNh4MY2M0s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTY5/NTQtMTQxNjMxMTUx/Mi05Mjc5LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/6316954",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × Vinyl, 7\", 45 RPM, EP",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6316954",
+          "doc": "discogs:wb640f3a06148f87c",
+          "citacao": "Formato: 1 × Vinyl, 7\", 45 RPM, EP"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6316954",
+          "doc": "discogs:wb640f3a06148f87c",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1967 (Discogs)",
+      "data": "1967",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/6316954",
+          "doc": "discogs:wb640f3a06148f87c",
+          "citacao": "Data: 1967"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Faixas depois vertidas no LP Coimbra de Ontem e de Hoje",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/cano-da-infncia.html",
+          "doc": "gc-i:114799076130516571",
+          "citacao": "EP “Coimbra de Ontem e de Hoje”, Columbia ELMS 3004, depois vertido no LP “Coimbra de Ontem e de Hoje”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/6316954",
+      "doc": "discogs:wb640f3a06148f87c",
+      "citacao": "Editora: Columbia – ELMS 3004"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/a-emergencia-do-novo-canto-um-monumento.html",
+      "doc": "gc-v:580185317232692952",
+      "citacao": "EP DR. LUIZ GOES, COIMBRA DE ONTEM E DE HOJE, Lisboa, Columbia ELMS 3004, s/d. [1967]."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

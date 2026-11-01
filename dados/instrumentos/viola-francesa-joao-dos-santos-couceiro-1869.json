@@ -1,0 +1,58 @@
+{
+  "id": "viola-francesa-joao-dos-santos-couceiro-1869",
+  "designacao": "Viola francesa de seis ordens de João dos Santos Couceiro, apresentada na exposição industrial de Coimbra de 1869",
+  "tipo": "viola",
+  "construtor": "joao-dos-santos-couceiro",
+  "ano": "1869",
+  "proprietarios": [],
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Exposta em 1869 na exposição industrial de Coimbra; nogueira preta e pinho de Flandres",
+      "data": "1869",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "participou na exposição industrial de Coimbra de 1869 com uma viola francesa de seis ordens"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "tendo utilizado na primeira nogueira preta e pinho Flandres"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de prata na exposição distrital de Coimbra de 1869 (pela viola portuguesa e pela francesa)",
+      "data": "1869",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "tendo sido premiado com a medalha de prata na exposição districtal de Coimbra, em 1869, por uma viola portugueza e outra franceza"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Conimbricense, 22.04.1905, transcrito no post."
+    }
+  ],
+  "imagens": [],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+      "doc": "gc-v:3102469722542625278",
+      "citacao": "uma viola francesa de seis ordens"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

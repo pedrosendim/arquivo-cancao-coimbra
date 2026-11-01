@@ -1,0 +1,23 @@
+{
+  "id": "ouvir-avelino-baptista-favorite-1-45595-1-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF2299_28.mp3",
+  "titulo": "A Serenata — Avelino Baptista",
+  "data": "",
+  "pessoas": [
+    "avelino-baptista"
+  ],
+  "obras": [],
+  "gravacao": "avelino-baptista-favorite-1-45595",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_4375.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/4524/avelino_baptista_a_serenata",
+      "doc": "museu-do-fado:we36bad385a44cc16",
+      "citacao": "Título: A Serenata ... Editora: Favorite 1-45595 1-49533 Referências: 1-45595, 10850-o-, 9/3 11; 1-45595"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

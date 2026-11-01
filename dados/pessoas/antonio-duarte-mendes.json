@@ -1,0 +1,79 @@
+{
+  "id": "antonio-duarte-mendes",
+  "tipo": "pessoa",
+  "nome": "António Duarte Mendes",
+  "nomes_alternativos": [
+    "Duarte Mendes"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/09/cordofones-de-antonio-duarte-mendes.html",
+      "doc": "gc-v:1988396169413145895",
+      "citacao": "António Duarte Mendes foi um fabricante de instrumentos de corda que teve a sua oficina na Figueira da Foz, à rua do Correio Geral, número 65. Manteve atividade regular entre ca. 1880 e a Grande Guerra. Participou em certames de indústrias artesanais em Coimbra (1884) e em Lisboa (1888)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/09/cordofones-de-antonio-duarte-mendes.html",
+      "doc": "gc-v:1988396169413145895",
+      "citacao": "Concorrendo com as oficinas de violaria de Coimbra, Duarte Mendes terá vendido os seus cordofones a clientes da Figueira da Foz, Montemor-o-Velho, Soure, Mealhada, Coimbra e forasteiros que no verão enxameavam as praias, clubes e hotéis locais."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Oficina na Figueira da Foz, Rua do Correio Geral, n.º 65; atividade regular entre c. 1880 e a Grande Guerra",
+      "data": "",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/09/cordofones-de-antonio-duarte-mendes.html",
+          "doc": "gc-v:1988396169413145895",
+          "citacao": "teve a sua oficina na Figueira da Foz, à rua do Correio Geral, número 65. Manteve atividade regular entre ca. 1880 e a Grande Guerra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Premiado na exposição distrital de Coimbra de 1884 e na industrial de Lisboa de 1888",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/09/cordofones-de-antonio-duarte-mendes.html",
+          "doc": "gc-v:1988396169413145895",
+          "citacao": "Antonio Duarte Mendes/fabricante de instrumentos de corda/premiado nas exposições/districtal de Coimbra de 1884 e na industrial de Lisboa de 1888/"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do rótulo da casa, transcrito no post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fabricava e consertava «qualquer instrumento» de corda: violas de arame, cavaquinhos, bandolins, guitarrinhos, guitarras, violas francesas, etc.",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/09/cordofones-de-antonio-duarte-mendes.html",
+          "doc": "gc-v:1988396169413145895",
+          "citacao": "o rótulo da casa Duarte Mendes refere que sabia consertar e fabricar \"qualquer instrumento\" de corda por moldes próprios e por cópia de instrumentos que lhe fossem apresentados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

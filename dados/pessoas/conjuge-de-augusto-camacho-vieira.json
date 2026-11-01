@@ -1,0 +1,27 @@
+{
+  "id": "conjuge-de-augusto-camacho-vieira",
+  "tipo": "pessoa",
+  "nome": "Mulher de Augusto Camacho Vieira (nome por identificar)",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496655347159512.html",
+          "doc": "gc-i:111496655347159512",
+          "citacao": "Homenagem a Augusto Camacho. ... Atrás do Presidente da Câmara, encontra-se a esposa do homenageado"
+        }
+      ],
+      "nota": "Nome por identificar nas fontes. Legenda de fotografia da homenagem a Augusto Camacho."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

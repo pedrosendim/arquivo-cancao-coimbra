@@ -1,0 +1,24 @@
+{
+  "id": "ouvir-anthero-da-veiga-hmv-eq-266-2-museu-do-fado",
+  "tipo": "audio",
+  "plataforma": "museu-do-fado",
+  "url": "https://arquivosonoro.museudofado.pt/media/aud/MDF0971_29.mp3",
+  "titulo": "Bailes regionais portugueses — Antero da Veiga",
+  "data": "",
+  "pessoas": [
+    "anthero-da-veiga",
+    "eugenio-da-veiga"
+  ],
+  "obras": [],
+  "gravacao": "anthero-da-veiga-hmv-eq-266",
+  "miniatura": "https://arquivosonoro.museudofado.pt/media/img/MDF_1932.jpg",
+  "fontes": [
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://arquivosonoro.museudofado.pt/fado/1924/antero_da_veiga_bailes_regionais_portugueses",
+      "doc": "museu-do-fado:wce018e444e55fd55",
+      "citacao": "Título: Bailes regionais portugueses ... Editora: HMV EQ266; [30-3100] Referências: BJ2684-I∆, G, 1, 30-3100; EQ 266"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

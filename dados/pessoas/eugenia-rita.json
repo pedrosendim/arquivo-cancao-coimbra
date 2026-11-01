@@ -1,0 +1,60 @@
+{
+  "id": "eugenia-rita",
+  "tipo": "pessoa",
+  "nome": "Eugénia Rita",
+  "nomes_alternativos": [],
+  "papeis": [],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Lugar da Mucela",
+      "data": "",
+      "local": "Mucela",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Casou catolicamente com Eugénia Rita, do lugar da Mucela, a 2.01.1841."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Da sua família veio o apelido Couceiro adotado pelo marido",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "António dos Santos não tinha Couceiro no nome original, tendo ido busca-lo à família de sua esposa que residia na Ponte da Mucela."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "conjuge_de",
+      "alvo": "antonio-dos-santos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/05/os-couceiro-mestres-conimbricenses-de.html",
+          "doc": "gc-v:3102469722542625278",
+          "citacao": "Casou catolicamente com Eugénia Rita, do lugar da Mucela, a 2.01.1841."
+        }
+      ],
+      "nota": "Casamento católico a 2 de janeiro de 1841."
+    }
+  ],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

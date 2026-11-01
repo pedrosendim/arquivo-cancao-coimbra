@@ -1,0 +1,36 @@
+{
+  "id": "bailados-do-minho",
+  "titulo": "Bailados do Minho",
+  "titulos_alternativos": [],
+  "genero": "guitarrada",
+  "musica": [
+    "anthero-da-veiga"
+  ],
+  "letra": [],
+  "ano": "",
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Composição instrumental de Anthero da Veiga, gravada por Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "composições da autoria de Da Veiga, pese embora nem sempre reconhecidas como tal na tradição oral: ... -BAILADOS DO MINHO, composição instrumental gravada por Artur Paredes;"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
+      "doc": "gc-v:4640425963079735725",
+      "citacao": "BAILADOS DO MINHO (guitarrada), música de Anthero Dias Alte da Veiga, disco His Master’s Voice E.Q. 74, 7-69280. Arranjo de Artur Paredes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

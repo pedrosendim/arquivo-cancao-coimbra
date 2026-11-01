@@ -1,0 +1,226 @@
+{
+  "id": "joao-miguel-andrade",
+  "tipo": "pessoa",
+  "nome": "João Miguel Andrade",
+  "nomes_alternativos": [
+    "João Manuel Andrade"
+  ],
+  "papeis": [
+    "luthier"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+      "doc": "gc-v:4233338329124617191",
+      "citacao": "João Miguel Andrade, cuja biografia não se encontra disponível, foi um construtor de instrumentos musicais estabelecido na cidade de Lisboa. Teve intensa atividade nas décadas de 1880-1890, e talvez no 1º decénio do século XX."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+      "doc": "gc-v:4233338329124617191",
+      "citacao": "Andrade identificava os trabalhos da sua casa com um rótulo colado no interior dos cordofones: João Miguel Andrade / Fabrica e armazem de instrumentos de corda / guitarras / violas braguezas / cavacos [Lisboa, rua da Trindade]."
+    },
+    {
+      "fonte": "cristo-2014-york",
+      "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+      "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+      "citacao": "earlier that same year “Genuine Portuguese guitarras” made by João Miguel Andrade were advertised for sale in a London newspaper (The Era, May 9, 1891: 22)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+      "doc": "gc-v:4233338329124617191",
+      "citacao": "Exportou regularmente para representantes estabelecidos em Londres (casa Alban Voigt & Cº., nº 14, Edmund Place [street]) e para a cidade de Hamburgo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+      "doc": "gc-v:4233338329124617191",
+      "citacao": "Terá sido um dos primeiros violeiros portugueses a manter em funcionamento uma fábrica-armazém de dimensão internacional, com introdução de alguns procedimentos de mecanização a vapor."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "João Miguel Andrade",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "João Miguel Andrade, cuja biografia não se encontra disponível"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Small Lisboa style guitarra made by João Miguel Andade."
+        }
+      ],
+      "conflito": true,
+      "nota": "A página Andrade_Guitarra.html do site Fernandez Music transcreve o nome do rótulo como «João Miguel Andade»."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "João Manuel Andrade",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/MasterPortugueseGuitars.html",
+          "doc": "fernandez-music:wf155b684462ac1d7",
+          "citacao": "Joao Manuel Andrade Portuguese guitar, made in Lisbon around 1895."
+        }
+      ],
+      "conflito": true,
+      "nota": "Grafia da página principal da coleção Fernandez (MasterPortugueseGuitars.html); a página dedicada do mesmo site e o blogue dão «João Miguel»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construtor estabelecido em Lisboa, com intensa atividade nas décadas de 1880-1890 (e talvez no 1.º decénio do século XX)",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "foi um construtor de instrumentos musicais estabelecido na cidade de Lisboa. Teve intensa atividade nas décadas de 1880-1890, e talvez no 1º decénio do século XX."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Rótulo: «Fabrica e Armazem de Instrumentos de Corda / Guitarras, Violas braguezas, Cavacos», Lisboa, Rua da Trindade",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "João Miguel Andrade / Fabrica e armazem de instrumentos de corda / guitarras / violas braguezas / cavacos [Lisboa, rua da Trindade]"
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Fabrica e Armazem de Instrumentos de Corda. Guitarras, Violas braguezas, Cavacos. Lisboa Rua da Trinidade"
+        }
+      ],
+      "conflito": false,
+      "nota": "O site Fernandez Music transcreve «Rua da Trinidade»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Exportação para Londres (representantes: Alban Voigt & Co., 14 Edmund Place) e para Hamburgo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "Exportou regularmente para representantes estabelecidos em Londres (casa Alban Voigt & Cº., nº 14, Edmund Place [street]) e para a cidade de Hamburgo."
+        },
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "Sole Agents for Great Britain and Colonies Alban Voigt & Co., 14, Edmund Place, LONDON, E.C."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Guitarras de João Miguel Andrade anunciadas num jornal de Londres (The Era, 9 de maio de 1891)",
+      "data": "1891-05-09",
+      "local": "Londres",
+      "fontes": [
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "earlier that same year “Genuine Portuguese guitarras” made by João Miguel Andrade were advertised for sale in a London newspaper (The Era, May 9, 1891: 22)"
+        }
+      ],
+      "conflito": false,
+      "nota": "The Era, 9 de maio de 1891, p. 22, citado por Nuno Cristo (2014)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Método de Havelock Mason («A Complete Method for Portuguese Guitarra»), publicado pelo importador Alban Voigt & Company, supostamente em 1892 ou 1895",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "fernandez-music",
+          "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html",
+          "doc": "fernandez-music:w6044c2c938636311",
+          "citacao": "A Complete Method for Portuguese Guitarra by Havelock Mason, which was supposedly published in 1892 or 1895. This method book was published by the importer of this guitarra, Alban Voigt & Company"
+        }
+      ],
+      "conflito": true,
+      "nota": "Datação dada pelo site Fernandez Music."
+    },
+    {
+      "campo": "outro",
+      "valor": "Método de guitarra portuguesa editado em inglês pelo representante londrino de Andrade, datado no blogue de [ca. 1892-1895] e, noutro passo do mesmo post, [entre 1890-1895]",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "o representante comercial londrino de Andrade chegou a editar em inglês um método de guitarra portuguesa [ca. 1892-1895]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "notícia da obra de Havelock Mason, A complete method for portuguese guitarra ... Londres, editado pela casa Alban Voigt & Cº., s/ d. [entre 1890-1895]"
+        }
+      ],
+      "conflito": true,
+      "nota": "Datação dada pelo blogue (o próprio post usa duas balizas)."
+    },
+    {
+      "campo": "outro",
+      "valor": "O blogue reproduz as fotografias (frente e costas) de uma guitarra sua da coleção Fernandez, que atribui a «Hernández, California»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html",
+          "doc": "gc-v:4233338329124617191",
+          "citacao": "Outro exemplar divulgado por Hernández, California, http://www.fernandezmusic.com/Andrade_Guitarra.html (frente e costas)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O site é de Ron Fernandez; o blogue escreve «Hernández». Ficha do instrumento: guitarra-joao-miguel-andrade-colecao-fernandez."
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [
+    {
+      "rotulo": "Fernandez Music — Andrade Guitarra Lisbon",
+      "url": "https://www.fernandezmusic.com/Andrade_Guitarra.html"
+    },
+    {
+      "rotulo": "Memória(s) de João Miguel Andrade (blogue Guitarra de Coimbra V)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/memorias-de-joao-miguel-andrade-why-not.html"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}
