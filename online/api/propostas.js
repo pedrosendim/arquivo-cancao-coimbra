@@ -1,5 +1,5 @@
 // /api/propostas: propostas à espera de decisão. Os editores veem todas; um contribuidor vê as suas.
-import { APROVAM, exigirContribuidor, gh, json, lerFicheiro, repositorio } from '../../online/comum.js';
+import { APROVAM, exigirContribuidor, gh, json, lerFicheiro, repositorio } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
   const { s, c, erro } = await exigirContribuidor(request, env);

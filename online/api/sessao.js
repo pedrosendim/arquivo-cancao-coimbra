@@ -1,5 +1,5 @@
 // /api/sessao: quem está a usar o site (para mostrar «Entrar», «Sair» e o modo de edição).
-import { contribuidorDe, json, sessao } from '../../online/comum.js';
+import { contribuidorDe, json, sessao } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
   const s = await sessao(request, env);

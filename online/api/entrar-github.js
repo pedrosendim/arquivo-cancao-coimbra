@@ -1,6 +1,6 @@
 // /api/entrar/github: o GitHub devolve a pessoa aqui; fica uma sessão assinada com o nome de utilizador.
 // O token que o GitHub entrega só serve para saber quem é: não se guarda.
-import { assinar, cookie } from '../../../online/comum.js';
+import { assinar, cookie } from '../comum.js';
 
 const TRINTA_DIAS = 30 * 24 * 3600;
 

@@ -1,5 +1,5 @@
 // /api/dados?caminho=…: ficheiro original de dados/ (versão publicada), para o modo de edição o alterar.
-import { RE_EDITAVEL, exigirContribuidor, json, lerFicheiro } from '../../online/comum.js';
+import { RE_EDITAVEL, exigirContribuidor, json, lerFicheiro } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
   const { erro } = await exigirContribuidor(request, env);

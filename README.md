@@ -78,8 +78,8 @@ nunca vai para lá: online não há a pesquisa nos blogues nem a leitura dos pos
 - Em cada proposta, o GitHub corre o `validar.py`. A Cloudflare reconstrói o site depois de cada aprovação, em 1 a 2 minutos.
 - As palavras-passe só se escrevem no GitHub. As chaves do site ficam como segredos na Cloudflare e não estão no código.
 
-Configuração da Cloudflare (Workers & Pages › projeto ligado ao repositório):
-- comando de construção `python3 scripts/construir.py`, pasta de saída `site`, variável `PYTHON_VERSION` = `3.12`;
+Configuração da Cloudflare (Workers & Pages › Worker `arquivo-cancao-coimbra`, ligado ao repositório; ver `wrangler.jsonc`):
+- Build command `python3 scripts/construir.py`, Deploy command `npx wrangler deploy`;
 - segredos `GITHUB_CLIENT_ID` e `GITHUB_CLIENT_SECRET` (aplicação OAuth do GitHub) e `GITHUB_TOKEN` (token do dono, só para este repositório).
 
 ## Direitos

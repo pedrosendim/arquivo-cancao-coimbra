@@ -1,4 +1,4 @@
-// Utilitários das funções online (Cloudflare Pages Functions, em functions/api/).
+// Utilitários da versão online (Worker da Cloudflare: online/worker.js e as rotas em online/api/).
 // A sessão é um cookie assinado com «quem é» (o utilizador do GitHub); o arquivo nunca guarda palavras-passe
 // nem o token do contribuidor. As alterações vão para o repositório como propostas (pull requests), feitas com
 // o token do dono do arquivo, guardado como segredo na Cloudflare (GITHUB_TOKEN).
@@ -39,6 +39,7 @@ async function verificar(env, valor) {
   const [corpo, assinatura] = String(valor || '').split('.');
   if (!corpo || !assinatura) return null;
   try {
+    if (b64url(deB64url(assinatura)) !== assinatura) return null; // só a forma exata que o servidor escreveu
     if (!await crypto.subtle.verify('HMAC', await chave(env), deB64url(assinatura), cod.encode(corpo))) return null;
     const dados = JSON.parse(new TextDecoder().decode(deB64url(corpo)));
     return dados.exp > Date.now() ? dados : null;

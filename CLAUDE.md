@@ -25,7 +25,7 @@ dados/contribuidores.json  contribuidores convidados (dono | editor | contribuid
 dados/blogue/<id>.json textos assinados do blogue (não são fonte)
 scripts/               recolha, índice, pesquisa, validação, construção, servidor (só biblioteca padrão do Python)
 site/                  site estático (HTML/CSS/JS sem build); site/dados/base.json é gerado
-functions/api/, online/  versão online (Cloudflare Pages): entrar com o GitHub, propostas (pull requests)
+online/, wrangler.jsonc  versão online (Cloudflare Worker + ficheiros estáticos): entrar com o GitHub, propostas (pull requests)
 .github/workflows/     validar.py em cada proposta e publicação
 dados/verificacao.json, dados/estado_media.json  gerados pelo construir.py local; a versão online (sem arquivo/) usa-os
 .claude/agents/investigador-coimbra.md   agente de investigação
@@ -56,7 +56,7 @@ python scripts/fontes.py listar|aprovar|rejeitar|propor
 
 ## Convenções de código
 
-- Python só com a biblioteca padrão. A exceção são as funções online (`functions/`, `online/`), em JavaScript, porque correm na Cloudflare. Scripts pequenos com docstring de uso no topo; utilidades comuns em `scripts/comum.py`.
+- Python só com a biblioteca padrão. A exceção é a parte online (`online/`), em JavaScript, porque corre na Cloudflare. Scripts pequenos com docstring de uso no topo; utilidades comuns em `scripts/comum.py`.
 - Site em módulos ES sem build. Gerar HTML com o modelo `html\`\`` de `site/js/util.js` (escapa tudo por omissão; `raw()` só para HTML já seguro). Bibliotecas externas só por CDN com versão fixa (Cytoscape em cdnjs).
 - Nomes de variáveis, funções e textos de interface em português.
 - O HTML dos posts arquivados passa sempre por `limpar()` (`site/js/vistas/arquivo.js`) antes de ser mostrado.

@@ -1,5 +1,5 @@
 // /api/propostas/decidir: um editor aprova (a proposta entra no arquivo) ou recusa (fica registado porquê).
-import { APROVAM, exigirContribuidor, gh, json, mesmaOrigem, repositorio } from '../../../online/comum.js';
+import { APROVAM, exigirContribuidor, gh, json, mesmaOrigem, repositorio } from '../comum.js';
 
 export async function onRequestPost({ request, env }) {
   if (!mesmaOrigem(request)) return json({ erro: 'pedido recusado: só o próprio site pode decidir' }, 403);

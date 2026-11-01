@@ -1,7 +1,7 @@
 // /api/gravar: o que se altera no modo de edição vai para o repositório como proposta (pull request).
 // A proposta de um contribuidor espera por um editor; a de um editor ou do dono é aprovada logo.
 // Em ambos os casos o GitHub corre o validar.py e a Cloudflare só publica se a validação passar.
-import { APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, mesmaOrigem, repositorio, textoJson } from '../../online/comum.js';
+import { APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, mesmaOrigem, repositorio, textoJson } from '../comum.js';
 
 export async function onRequestPost({ request, env }) {
   if (!mesmaOrigem(request)) return json({ erro: 'pedido recusado: só o próprio site pode gravar' }, 403);

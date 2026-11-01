@@ -1,5 +1,5 @@
 // /api/entrar: leva ao GitHub para a pessoa se identificar (a palavra-passe só se escreve no GitHub).
-import { json } from '../../online/comum.js';
+import { json } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
   if (!env.GITHUB_CLIENT_ID) return json({ erro: 'a entrada com o GitHub ainda não está configurada' }, 503);
