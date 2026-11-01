@@ -45,14 +45,20 @@ export async function onRequestPost({ request, env }) {
   });
   const ramo = `proposta/${s.login.toLowerCase()}/${Date.now()}`;
   await gh(env, `/repos/${R}/git/refs`, { method: 'POST', body: JSON.stringify({ ref: `refs/heads/${ramo}`, sha: commit.sha }) });
-  const pr = await gh(env, `/repos/${R}/pulls`, {
-    method: 'POST',
-    body: JSON.stringify({
-      title: resumo, head: ramo, base: 'main',
-      body: `Proposta de **${c.nome}** (@${s.login}), feita no modo de edição do site.\n\n`
-        + alteracoes.map((a) => `- ${a.conteudo === null ? 'apaga' : 'altera'} \`${a.caminho}\``).join('\n'),
-    }),
-  });
+  let pr;
+  try {
+    pr = await gh(env, `/repos/${R}/pulls`, {
+      method: 'POST',
+      body: JSON.stringify({
+        title: resumo, head: ramo, base: 'main',
+        body: `Proposta de **${c.nome}** (@${s.login}), feita no modo de edição do site.\n\n`
+          + alteracoes.map((a) => `- ${a.conteudo === null ? 'apaga' : 'altera'} \`${a.caminho}\``).join('\n'),
+      }),
+    });
+  } catch (e) { // sem proposta, o ramo não serve para nada: não deixar ramos soltos no repositório
+    await gh(env, `/repos/${R}/git/refs/heads/${ramo}`, { method: 'DELETE' }).catch(() => null);
+    throw e;
+  }
 
   if (!APROVAM.includes(c.papel)) return json({ ok: true, publicado: false, proposta: pr.html_url, numero: pr.number });
   try {

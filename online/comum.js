@@ -66,7 +66,11 @@ export async function gh(env, caminho, opcoes = {}) {
       'X-GitHub-Api-Version': '2022-11-28', ...(opcoes.body ? { 'Content-Type': 'application/json' } : {}), ...opcoes.headers },
   });
   if (!r.ok) {
-    const erro = new Error(`GitHub respondeu ${r.status}: ${(await r.text()).slice(0, 300)}`);
+    const texto = (await r.text()).slice(0, 300);
+    const erro = new Error(/not accessible by personal access token/i.test(texto)
+      // o token do site (segredo GITHUB_TOKEN) não tem uma das permissões: diz-se qual é o problema em vez da resposta crua
+      ? 'o token do site não tem permissão para isto. No GitHub, edite o token e confirme: Contents e Pull requests em «Read and write», Checks em «Read-only»'
+      : `GitHub respondeu ${r.status}: ${texto}`);
     erro.estado = r.status;
     throw erro;
   }
