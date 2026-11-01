@@ -2,6 +2,7 @@
 import { E, catalogado } from '../estado.js';
 import { $, $$, html, api, esc, fmtData, tituloDoc, marcarExcerto, definirParams, classificar, plural, regexTermos, aviso, preferencias } from '../util.js';
 import { miniaturaMedia, miniaturaPartitura, semServidor, separadoresFontes } from '../componentes.js';
+import { filtroMultiplo } from '../filtros.js';
 
 const NOMES_FONTE = () => Object.values(E.fontes).filter((f) => f.tipo === 'blogue');
 
@@ -20,8 +21,11 @@ export async function arquivo(el, params) {
     ${separadoresFontes('arquivo')}
     <form id="f" class="barra-filtros">
       <input class="campo" type="search" name="q" placeholder='Ex.: "Artur Paredes" guitarra' value="${p.q}" autofocus>
-      <select class="campo" name="fonte"><option value="">Todos os blogues</option>${NOMES_FONTE().map((f) => html`<option value="${f.id}">${f.nome}</option>`)}</select>
-      <select class="campo" name="tipo"><option value="">Posts e comentários</option><option value="post">Só posts</option><option value="comentario">Só comentários</option><option value="pagina">Páginas guardadas</option></select>
+      ${filtroMultiplo({ id: 'filtro-fonte', nome: 'fonte', todos: 'Todos os blogues', unidade: ['blogue', 'blogues'],
+        opcoes: NOMES_FONTE().map((f) => ({ valor: f.id, nome: f.nome })), escolhidos: p.fonte.split(',').filter(Boolean) })}
+      ${filtroMultiplo({ id: 'filtro-tipo', nome: 'tipo', todos: 'Todos os tipos', unidade: ['tipo', 'tipos'],
+        opcoes: [{ valor: 'post', nome: 'Posts' }, { valor: 'comentario', nome: 'Comentários' }, { valor: 'pagina', nome: 'Páginas guardadas' }],
+        escolhidos: p.tipo.split(',').filter(Boolean) })}
       <input class="campo" type="number" name="desde" placeholder="Desde" min="2005" max="2100" value="${p.desde}" title="Ano de publicação (desde)">
       <input class="campo" type="number" name="ate" placeholder="Até" min="2005" max="2100" value="${p.ate}" title="Ano de publicação (até)">
       <select class="campo" name="ordem"><option value="">${p.q ? 'Mais relevantes' : 'Mais recentes'}</option><option value="data">Mais recentes</option><option value="antigos">Mais antigos</option></select>
@@ -33,13 +37,16 @@ export async function arquivo(el, params) {
     <ul class="resultados" id="res"><li class="carregando">A pesquisar</li></ul>
     <div class="paginacao" id="pag"></div></div>`.s;
   const f = $('#f');
-  for (const k of ['fonte', 'tipo', 'ordem']) f[k].value = p[k];
+  f.ordem.value = p.ordem;
   f.onsubmit = (e) => {
     e.preventDefault();
     const d = Object.fromEntries(new FormData(f));
     const qs = new URLSearchParams(Object.entries(d).filter(([, v]) => v)).toString();
     location.hash = `#/arquivo${qs ? '?' + qs : ''}`;
   };
+  // os seletores aplicam-se logo (as caixas de escolha múltipla, quando se fecha a lista)
+  f.addEventListener('change', (e) => { if (e.target.matches('select, input[type=number]')) f.requestSubmit(); });
+  f.addEventListener('filtro-fechado', () => f.requestSubmit());
   let r;
   try {
     const ordemApi = p.ordem === 'antigos' ? 'antigos' : p.ordem === 'data' ? 'data' : (p.q ? 'relevancia' : '');

@@ -3,6 +3,7 @@ import { E, CAMPOS, nomeDe } from '../estado.js';
 import { $, $$, html, fmtData, definirParams } from '../util.js';
 import { marcas, limparRegisto } from '../citacoes.js';
 import { vazioCurado } from '../componentes.js';
+import { filtroMultiplo } from '../filtros.js';
 
 function eventos() {
   const ev = [];
@@ -36,26 +37,26 @@ export function cronologia(el, params) {
     el.innerHTML = html`<div class="conteudo"><header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Cronologia</h1></header>${vazioCurado('factos datados')}</div>`.s;
     return;
   }
-  let pessoa = params.pessoa || '';
+  let pessoas = (params.pessoa || '').split(',').filter(Boolean);
   let tipos = new Set(params.tipos ? params.tipos.split(',') : Object.keys(TIPOS));
-  const pessoasComEventos = [...new Set(todos.flatMap((e) => e.pessoas))].filter((id) => E.por.pessoas[id])
-    .sort((a, b) => nomeDe(a).localeCompare(nomeDe(b)));
+  const nEventos = {};
+  for (const e of todos) for (const id of new Set(e.pessoas)) if (E.por.pessoas[id]) nEventos[id] = (nEventos[id] || 0) + 1;
+  const opcoesPessoas = Object.keys(nEventos).sort((a, b) => nomeDe(a).localeCompare(nomeDe(b)))
+    .map((id) => ({ valor: id, nome: nomeDe(id), n: nEventos[id] }));
 
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Cronologia</h1>
       <p class="lead">Todos os factos com data, de todas as fichas, numa só linha do tempo.</p></header>
     <div class="barra-filtros">
-      <select class="campo" id="pessoa"><option value="">Todas as pessoas</option>
-        ${pessoasComEventos.map((id) => html`<option value="${id}">${nomeDe(id)}</option>`)}</select>
+      ${filtroMultiplo({ id: 'pessoa', todos: 'Todas as pessoas', unidade: ['pessoa', 'pessoas'], opcoes: opcoesPessoas, escolhidos: pessoas })}
       <div class="fichas" id="tipos">${Object.entries(TIPOS).map(([k, n]) => html`<button class="ficha" data-t="${k}" aria-pressed="${tipos.has(k)}">${n}</button>`)}</div>
     </div>
     <nav class="decadas" id="decadas"></nav>
     <div id="linha"></div></div>`.s;
-  $('#pessoa').value = pessoa;
 
   const desenhar = () => {
     limparRegisto();
-    const lista = todos.filter((e) => tipos.has(e.tipo) && (!pessoa || e.pessoas.includes(pessoa)));
+    const lista = todos.filter((e) => tipos.has(e.tipo) && (!pessoas.length || e.pessoas.some((id) => pessoas.includes(id))));
     const decadas = {};
     for (const e of lista) (decadas[e.data.slice(0, 3) + '0'] ||= []).push(e);
     $('#decadas').innerHTML = html`${Object.keys(decadas).map((d) => html`<a href="javascript:void 0" data-ir="${d}">${d}s</a>`)}`.s;
@@ -64,10 +65,10 @@ export function cronologia(el, params) {
         <div class="quando">${fmtData(e.data)}</div>
         <div class="oque ${e.conflito ? 'conflito' : ''}">${e.texto}${marcas(e.fontes)}</div></li>`)}</ol></section>`)}`.s
       : '<p class="mudo">Sem eventos para estes filtros.</p>';
-    definirParams({ pessoa, tipos: tipos.size === Object.keys(TIPOS).length ? '' : [...tipos].join(',') });
+    definirParams({ pessoa: pessoas.join(','), tipos: tipos.size === Object.keys(TIPOS).length ? '' : [...tipos].join(',') });
   };
   $('#decadas').onclick = (e) => { const a = e.target.closest('[data-ir]'); if (a) document.getElementById('d-' + a.dataset.ir)?.scrollIntoView({ behavior: 'smooth' }); };
-  $('#pessoa').onchange = (e) => { pessoa = e.target.value; desenhar(); };
+  $('#pessoa').addEventListener('filtro', (e) => { pessoas = e.detail; desenhar(); });
   $('#tipos').onclick = (e) => {
     const b = e.target.closest('[data-t]'); if (!b) return;
     tipos.has(b.dataset.t) ? tipos.delete(b.dataset.t) : tipos.add(b.dataset.t);

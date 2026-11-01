@@ -1,11 +1,12 @@
 // Escolher uma pessoa ou grupo numa lista que se filtra ao escrever (retrato, anos, papéis).
 // Se a pessoa ainda não tiver ficha, a última opção cria-a. O formulário recebe dois campos:
-// «outro» (id de uma ficha existente) ou «nova_pessoa» (nome da ficha a criar).
+// «outro» (id de uma ficha existente) ou «nova_pessoa» (nome da ficha a criar). Ao escolher, o elemento
+// emite o evento «escolha» (detail: { id, nova }). «apenas» limita a lista a estas fichas.
 import { E, PAPEIS, vida, iniciais } from './estado.js';
 import { $, $$, html, raw, esc, norm, miniatura } from './util.js';
 
-export function seletorPessoa({ excluir = '', criar = true, placeholder = 'Escreva um nome e escolha na lista' } = {}) {
-  return html`<div class="seletor-pessoa" data-seletor-pessoa data-excluir="${excluir}" data-criar="${criar ? '1' : ''}">
+export function seletorPessoa({ excluir = '', criar = true, apenas = null, placeholder = 'Escreva um nome e escolha na lista' } = {}) {
+  return html`<div class="seletor-pessoa" data-seletor-pessoa data-excluir="${excluir}" data-criar="${criar ? '1' : ''}" data-apenas="${apenas ? apenas.join(',') : ''}">
     <input class="campo" type="text" placeholder="${placeholder}" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false">
     <input type="hidden" name="outro"><input type="hidden" name="nova_pessoa">
     <ul class="seletor-lista" role="listbox" hidden></ul>
@@ -16,13 +17,13 @@ const musical = (p) => p.tipo === 'grupo' || (p.papeis || []).some((x) => x !== 
 
 /** Fichas cujo nome (ou outro nome por que são referidas) tem todas as palavras escritas.
  *  Primeiro as que têm uma palavra a começar pelo que se escreveu, depois as de músicos e grupos. */
-function candidatos(consulta, excluir) {
+function candidatos(consulta, excluir, apenas) {
   const q = norm(consulta).trim();
   if (q.length < 2) return [];
   const termos = q.split(/\s+/);
   const res = [];
   for (const p of E.base.pessoas) {
-    if (p.id === excluir) continue;
+    if (p.id === excluir || (apenas && !apenas.has(p.id))) continue;
     const nomes = [p.nome, ...(p.nomes_alternativos || [])];
     const achado = nomes.find((n) => termos.every((t) => norm(n).includes(t)));
     if (!achado) continue;
@@ -44,7 +45,7 @@ function opcao({ p, outroNome }) {
 function desenhar(caixa) {
   const entrada = $('input.campo', caixa), lista = $('ul', caixa);
   const texto = entrada.value.trim();
-  const achados = candidatos(texto, caixa.dataset.excluir);
+  const achados = candidatos(texto, caixa.dataset.excluir, caixa.dataset.apenas ? new Set(caixa.dataset.apenas.split(',')) : null);
   const exato = achados.some(({ p }) => norm(p.nome) === norm(texto));
   const podeCriar = caixa.dataset.criar && texto.length >= 3 && !exato;
   lista.innerHTML = texto.length < 2 ? '<li class="dica">Escreva pelo menos duas letras do nome</li>'
@@ -71,6 +72,7 @@ function escolher(caixa, li) {
   caixa.classList.toggle('escolhido', !!id);
   caixa.classList.toggle('nova', !!nova);
   fechar(caixa);
+  caixa.dispatchEvent(new CustomEvent('escolha', { bubbles: true, detail: { id, nova } }));
 }
 
 export function iniciarSeletores() {

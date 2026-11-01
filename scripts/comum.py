@@ -43,6 +43,18 @@ def slug(texto):
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
 
 
+def valores(filtro):
+    """Valores escolhidos num filtro: «a,b» (como vem do site) ou uma lista. Vazio = sem filtro."""
+    if not filtro:
+        return []
+    return [v.strip() for v in (filtro.split(",") if isinstance(filtro, str) else filtro) if v and v.strip()]
+
+
+def em(coluna, lista):
+    """Condição SQL «coluna IN (?, …)» para os valores de um filtro."""
+    return f"{coluna} IN ({', '.join('?' * len(lista))})"
+
+
 def normalizar(texto):
     """Forma canónica para comparar citações com o texto arquivado."""
     t = unicodedata.normalize("NFC", texto or "").lower()

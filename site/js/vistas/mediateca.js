@@ -3,6 +3,7 @@ import { E, visivel, comArquivo } from '../estado.js';
 import { $, $$, html, api, debounce, definirParams, NOME_PLATAFORMA, plural, norm, classificar, aviso } from '../util.js';
 import { cartaoMediaArquivo, cartaoMediaCurado, figuraImagem, semServidor, itemCurado } from '../componentes.js';
 import { enfileirar, itemDoArquivo, carregarYT } from '../leitor.js';
+import { filtroMultiplo, atualizarFiltro } from '../filtros.js';
 
 const SEPARADORES = { videos: 'Vídeos', ineditos: 'Inéditos do blogue', audio: 'Áudio', partituras: 'Partituras', imagens: 'Imagens', playlists: 'Playlists' };
 const TIPO = { videos: 'video', ineditos: 'video', audio: 'audio', partituras: 'partitura', imagens: 'imagem' };
@@ -84,15 +85,42 @@ async function playlists(caixa) {
   desenharListas();
 }
 
-/** Media catalogados nas fichas que correspondem ao separador e aos filtros. */
-function catalogadosFiltrados(sep, q, plataforma) {
+const plataformaDe = (m) => (classificar(m.url) || m).plataforma;
+
+/** Media catalogados nas fichas que correspondem ao separador e à pesquisa (sem olhar à origem). */
+function catalogadosDoSeparador(sep, q) {
   const nq = norm(q);
   return E.base.media.filter((m) => {
     const c = classificar(m.url) || { tipo: m.tipo, plataforma: m.plataforma };
-    if ((m.tipo || c.tipo) !== TIPO[sep] || (FIXA[sep] && c.plataforma !== FIXA[sep]) || (plataforma && c.plataforma !== plataforma)) return false;
+    if ((m.tipo || c.tipo) !== TIPO[sep] || (FIXA[sep] && c.plataforma !== FIXA[sep])) return false;
     if (!visivel(m)) return false;
     return !nq || norm([m.titulo, ...(m.pessoas || []).map((p) => E.por.pessoas[p]?.nome), ...(m.obras || []).map((o) => E.por.obras[o]?.titulo)].join(' ')).includes(nq);
   });
+}
+
+/** Data do media (a da ficha ou, se não tiver, o ano da gravação a que pertence); sem data ficam no fim. */
+const dataMedia = (m) => m.data || E.por.gravacoes[m.gravacao]?.ano || '';
+
+function ordenarCatalogados(lista, ordem) {
+  if (ordem === 'aleatorio') {
+    const l = [...lista];
+    for (let i = l.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [l[i], l[j]] = [l[j], l[i]]; }
+    return l;
+  }
+  const sentido = ordem === 'antigos' ? 1 : -1;
+  return [...lista].sort((a, b) => {
+    const da = dataMedia(a), db = dataMedia(b);
+    if (!da !== !db) return da ? -1 : 1;
+    return (da && db && da !== db ? (da < db ? -sentido : sentido) : 0) || (a.titulo || '').localeCompare(b.titulo || '');
+  });
+}
+
+/** Opções do seletor de origens: as que têm resultados (mais primeiro) e as já escolhidas. */
+function opcoesOrigem(contagem, escolhidas) {
+  const nomes = { ...contagem };
+  for (const p of escolhidas) nomes[p] ??= 0;
+  return Object.entries(nomes).sort((a, b) => b[1] - a[1] || (NOME_PLATAFORMA[a[0]] || a[0]).localeCompare(NOME_PLATAFORMA[b[0]] || b[0]))
+    .map(([p, n]) => ({ valor: p, nome: NOME_PLATAFORMA[p] || p, n }));
 }
 
 export function mediateca(el, params) {
@@ -100,7 +128,7 @@ export function mediateca(el, params) {
   const arquivo = comArquivo();
   const separadores = arquivo ? SEPARADORES : { videos: SEPARADORES.videos, ineditos: SEPARADORES.ineditos, audio: SEPARADORES.audio };
   let sep = separadores[params.separador] ? params.separador : 'videos';
-  let q = params.q || '', plataforma = params.plataforma || '', ordem = params.ordem || '', pagina = 1, ultimos = [];
+  let q = params.q || '', plataformas = (params.plataforma || '').split(',').filter(Boolean), ordem = params.ordem || '', pagina = 1, ultimos = [];
   let estado = arquivo ? params.estado || '' : 'catalogados';
 
   el.innerHTML = html`<div class="conteudo">
@@ -113,7 +141,7 @@ export function mediateca(el, params) {
     <div class="barra-filtros">
       <input class="campo" type="search" id="q" placeholder="Nome, obra, local… (procura no título do post e no texto à volta)" value="${q}">
       <select class="campo" id="estado" title="Catalogado = identificado nas fichas, com fonte"><option value="">Todos</option><option value="catalogados">✓ Só catalogados</option></select>
-      <select class="campo" id="plataforma"></select>
+      <div id="origens"></div>
       <select class="campo" id="ordem"><option value="">Mais recentes</option><option value="antigos">Mais antigos</option><option value="aleatorio">Ao acaso</option></select>
       <button class="botao" id="tudo-fila" title="Juntar os resultados visíveis à fila">+ Fila (todos)</button>
     </div>
@@ -125,16 +153,19 @@ export function mediateca(el, params) {
   $('#ordem').value = ordem;
   $('#estado').value = estado;
 
+  const comOrigens = () => !FIXA[sep] && !['imagens', 'partituras'].includes(sep);
   const opcoesPlataforma = () => {
-    $('#plataforma').innerHTML = html`<option value="">Todas as origens</option>${PLATAFORMAS[sep].map((p) => html`<option value="${p}">${NOME_PLATAFORMA[p]}</option>`)}`.s;
-    $('#plataforma').value = plataforma;
-    $('#plataforma').hidden = !PLATAFORMAS[sep].length;
+    $('#origens').innerHTML = comOrigens() ? filtroMultiplo({ id: 'plataforma', todos: 'Todas as origens', unidade: ['origem', 'origens'],
+      opcoes: opcoesOrigem(Object.fromEntries(PLATAFORMAS[sep].map((p) => [p, null])), plataformas).map((o) => ({ ...o, n: undefined })),
+      escolhidos: plataformas }).s : '';
     $('#tudo-fila').hidden = sep === 'imagens' || sep === 'partituras';
     $('#estado').hidden = !arquivo || sep === 'imagens' || sep === 'partituras';
     $('#explicacao').textContent = EXPLICACAO[sep] || '';
   };
 
+  let pedidos = 0; // só conta a resposta do último pedido (escolhas rápidas não se atropelam)
   const carregar = async (acrescentar = false) => {
+    const este = ++pedidos;
     const filtros = $('.barra-filtros', el);
     filtros.hidden = sep === 'playlists';
     if (sep === 'playlists') {
@@ -144,19 +175,24 @@ export function mediateca(el, params) {
     }
     if (!acrescentar) { pagina = 1; ultimos = []; $('#lista').innerHTML = '<p class="carregando">A carregar</p>'; }
     if (estado === 'catalogados' && !['imagens', 'partituras'].includes(sep)) {
-      const lista = catalogadosFiltrados(sep, q, plataforma);
+      const doSeparador = catalogadosDoSeparador(sep, q), contagem = {};
+      for (const m of doSeparador) contagem[plataformaDe(m)] = (contagem[plataformaDe(m)] || 0) + 1;
+      atualizarFiltro($('#plataforma'), opcoesOrigem(contagem, plataformas));
+      const lista = ordenarCatalogados(doSeparador.filter((m) => !plataformas.length || plataformas.includes(plataformaDe(m))), ordem);
       ultimos = lista.map(itemCurado);
       $('#total').textContent = `${plural(lista.length, 'item catalogado', 'itens catalogados')} nas fichas${q ? ` com «${q}»` : ''}`;
       $('#lista').innerHTML = lista.length ? html`<div class="grelha larga">${lista.map(cartaoMediaCurado)}</div>`.s
         : '<p class="mudo">Ainda não há media catalogado aqui. Os agentes de investigação vão acrescentando.</p>';
       $('#mais').hidden = true;
-      definirParams({ separador: sep === 'videos' ? '' : sep, q, plataforma, estado });
+      definirParams({ separador: sep === 'videos' ? '' : sep, q, plataforma: plataformas.join(','), ordem, estado });
       return;
     }
     let r;
     try {
-      r = await api('media', { tipo: TIPO[sep], plataforma: FIXA[sep] || plataforma, q, ordem, pagina });
+      r = await api('media', { tipo: TIPO[sep], plataforma: FIXA[sep] || plataformas.join(','), q, ordem, pagina });
+      if (este !== pedidos) return;
     } catch { $('#lista').innerHTML = semServidor().s; return; }
+    if (comOrigens()) atualizarFiltro($('#plataforma'), opcoesOrigem(r.por_plataforma || {}, plataformas));
     ultimos = acrescentar ? ultimos.concat(r.resultados) : r.resultados;
     ultimos = ultimos.map((m) => ({ ...m, _item: itemDoArquivo(m) }));
     $('#total').textContent = `${plural(r.total, 'item', 'itens')} no arquivo${q ? ` com «${q}»` : ''}`;
@@ -165,17 +201,17 @@ export function mediateca(el, params) {
       : html`<div class="grelha larga">${ultimos.map(cartaoMediaArquivo)}</div>`;
     $('#lista').innerHTML = ultimos.length ? conteudo.s : '<p class="mudo">Nada encontrado.</p>';
     $('#mais').hidden = ultimos.length >= r.total || ordem === 'aleatorio';
-    definirParams({ separador: sep === 'videos' ? '' : sep, q, plataforma, ordem, estado });
+    definirParams({ separador: sep === 'videos' ? '' : sep, q, plataforma: plataformas.join(','), ordem, estado });
   };
 
   $('[role=tablist]').onclick = (e) => {
     const b = e.target.closest('[data-sep]'); if (!b) return;
-    sep = b.dataset.sep; plataforma = '';
+    sep = b.dataset.sep; plataformas = [];
     $$('[data-sep]').forEach((x) => x.setAttribute('aria-selected', x === b));
     opcoesPlataforma(); carregar();
   };
   $('#q').oninput = debounce((e) => { q = e.target.value.trim(); carregar(); }, 300);
-  $('#plataforma').onchange = (e) => { plataforma = e.target.value; carregar(); };
+  $('.barra-filtros', el).addEventListener('filtro', (e) => { plataformas = e.detail; carregar(); });
   $('#ordem').onchange = (e) => { ordem = e.target.value; carregar(); };
   $('#estado').onchange = (e) => { estado = e.target.value; carregar(); };
   $('#mais').onclick = () => { pagina++; carregar(true); };

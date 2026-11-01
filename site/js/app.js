@@ -18,6 +18,7 @@ import { contribuidores, contribuir } from './vistas/contribuidores.js';
 import { propostas } from './vistas/propostas.js';
 import { iniciarEdicao } from './edicao.js';
 import { iniciarSeletores } from './seletor.js';
+import { iniciarFiltros } from './filtros.js';
 
 const ROTAS = [
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
@@ -144,6 +145,7 @@ async function arrancar() {
   iniciarPaleta();
   iniciarDelegacao();
   iniciarSeletores();
+  iniciarFiltros();
   $('#vista').innerHTML = '<div class="conteudo"><p class="carregando">A abrir o arquivo</p></div>';
   await carregar();
   iniciarEdicao(() => encaminhar({ manterPosicao: true }));

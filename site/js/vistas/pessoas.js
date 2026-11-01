@@ -21,7 +21,7 @@ export function listaPessoas(el, params) {
   const contagem = {};
   todas.forEach((p) => (p.papeis || []).forEach((x) => { contagem[x] = (contagem[x] || 0) + 1; }));
   const nFamiliares = todas.filter((p) => !musical(p)).length;
-  let papel = params.papel || '', q = params.q || '', ordem = params.ordem || 'nome';
+  let papeis = new Set((params.papel || '').split(',').filter(Boolean)), q = params.q || '', ordem = params.ordem || 'nome';
 
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Pessoas</h1>
@@ -32,29 +32,32 @@ export function listaPessoas(el, params) {
       <select class="campo" id="ordem"><option value="nome">Ordem alfabética</option><option value="ricas">Mais documentadas primeiro</option><option value="nasc">Por ano de nascimento</option></select>
     </div>
     <div class="fichas" id="papeis" style="margin:-8px 0 22px">
-      <button class="ficha" data-papel="" aria-pressed="${!papel}">Música<span class="n">${todas.length - nFamiliares}</span></button>
+      <button class="ficha" data-papel="" aria-pressed="${!papeis.size}" title="Todas as pessoas com papel musical">Música<span class="n">${todas.length - nFamiliares}</span></button>
       ${Object.entries(contagem).filter(([k]) => k !== 'outro').sort((a, b) => b[1] - a[1]).map(([k, n]) =>
-        html`<button class="ficha" data-papel="${k}" aria-pressed="${papel === k}">${PAPEIS[k] || k}<span class="n">${n}</span></button>`)}
-      ${nFamiliares ? html`<button class="ficha" data-papel="familiares" aria-pressed="${papel === 'familiares'}" title="Familiares nomeados nas fontes, sem papel musical">Familiares<span class="n">${nFamiliares}</span></button>` : ''}
+        html`<button class="ficha" data-papel="${k}" aria-pressed="${papeis.has(k)}">${PAPEIS[k] || k}<span class="n">${n}</span></button>`)}
+      ${nFamiliares ? html`<button class="ficha" data-papel="familiares" aria-pressed="${papeis.has('familiares')}" title="Familiares nomeados nas fontes, sem papel musical">Familiares<span class="n">${nFamiliares}</span></button>` : ''}
     </div>
     <div class="grelha" id="grelha"></div></div>`.s;
   $('#ordem').value = ordem;
 
   const desenhar = () => {
     const nq = norm(q);
-    let lista = todas.filter((p) => (papel === 'familiares' ? !musical(p) : papel ? p.papeis?.includes(papel) : musical(p))
+    // vários papéis escolhidos: quem tiver pelo menos um deles
+    const escolhida = (p) => [...papeis].some((x) => (x === 'familiares' ? !musical(p) : p.papeis?.includes(x)));
+    let lista = todas.filter((p) => (papeis.size ? escolhida(p) : musical(p))
       && (!nq || norm([p.nome, ...(p.nomes_alternativos || [])].join(' ')).includes(nq)));
     if (ordem === 'nasc') lista = [...lista].sort((a, b) => (vida(a) || '9999').localeCompare(vida(b) || '9999'));
     if (ordem === 'ricas') lista = [...lista].sort((a, b) => riqueza(b) - riqueza(a));
     $('#grelha').innerHTML = lista.length ? html`${lista.map(cartaoPessoa)}`.s : '<p class="mudo">Nenhuma pessoa corresponde ao filtro.</p>';
-    definirParams({ papel, q, ordem: ordem === 'nome' ? '' : ordem });
+    definirParams({ papel: [...papeis].join(','), q, ordem: ordem === 'nome' ? '' : ordem });
   };
   $('#q').oninput = debounce((e) => { q = e.target.value; desenhar(); }, 150);
   $('#ordem').onchange = (e) => { ordem = e.target.value; desenhar(); };
   $('#papeis').onclick = (e) => {
     const b = e.target.closest('[data-papel]'); if (!b) return;
-    papel = b.dataset.papel;
-    $$('[data-papel]').forEach((x) => x.setAttribute('aria-pressed', x === b));
+    const k = b.dataset.papel;
+    if (!k) papeis.clear(); else if (papeis.has(k)) papeis.delete(k); else papeis.add(k);
+    $$('[data-papel]').forEach((x) => x.setAttribute('aria-pressed', x.dataset.papel ? papeis.has(x.dataset.papel) : !papeis.size));
     desenhar();
   };
   desenhar();

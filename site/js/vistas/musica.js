@@ -3,6 +3,7 @@ import { E, nomeDe, visivel, comArquivo } from '../estado.js';
 import { $, html, raw, esc, norm, debounce, definirParams, classificar, miniatura, plural, NOME_PLATAFORMA } from '../util.js';
 import { marcas, blocoCitacao } from '../citacoes.js';
 import { cartaoMediaCurado, itemCurado, dadosItem, figuraImagem, vazioCurado, tabelaFactos, ligacaoFonte } from '../componentes.js';
+import { filtroMultiplo } from '../filtros.js';
 
 const FORMATOS = { cilindro: 'Cilindro', 'disco de massa': 'Disco de massa', '78rpm': '78 rpm', EP: 'EP', LP: 'LP', single: 'Single',
   CD: 'CD', cassete: 'Cassete', radio: 'Rádio', televisao: 'Televisão', inedito: 'Inédito', digital: 'Digital' };
@@ -10,6 +11,14 @@ const GENEROS = { fado: 'Fado', balada: 'Balada', cancao: 'Canção', serenata: 
   variacoes: 'Variações', estudo: 'Estudo', outro: 'Outro' };
 
 const factosSimples = tabelaFactos;
+
+/** Opções de um filtro a partir de um dicionário de nomes: só as que existem, com quantas há de cada. */
+function opcoesCom(nomes, lista, campo) {
+  const n = {};
+  for (const x of lista) if (x[campo]) n[x[campo]] = (n[x[campo]] || 0) + 1;
+  return Object.entries(nomes).filter(([k]) => n[k]).map(([k, nome]) => ({ valor: k, nome, n: n[k] }));
+}
+const lerLista = (v) => (v || '').split(',').filter(Boolean);
 
 function botoesMedia(ids) {
   const itens = (ids || []).map((id) => E.por.media[id]).filter((m) => m && visivel(m)).map(itemCurado);
@@ -28,18 +37,16 @@ export function discografia(el, params) {
     el.innerHTML = html`<div class="conteudo"><header class="cabecalho"><p class="sobretitulo">Música</p><h1>Discografia</h1></header>${vazioCurado('gravações')}</div>`.s;
     return;
   }
-  let q = params.q || '', formato = params.formato || '';
+  let q = params.q || '', formatos = lerLista(params.formato);
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Discografia</h1>
       <p class="lead">Discos de 78 rpm, EP, LP, CD, gravações de rádio e televisão e registos inéditos.</p></header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Título, intérprete, editora…" value="${q}">
-      <select class="campo" id="formato"><option value="">Todos os formatos</option>
-        ${Object.entries(FORMATOS).filter(([k]) => todas.some((g) => g.formato === k)).map(([k, n]) => html`<option value="${k}">${n}</option>`)}</select></div>
+      ${filtroMultiplo({ id: 'formato', todos: 'Todos os formatos', unidade: ['formato', 'formatos'], opcoes: opcoesCom(FORMATOS, todas, 'formato'), escolhidos: formatos })}</div>
     <div class="grelha" id="grelha"></div></div>`.s;
-  $('#formato').value = formato;
   const desenhar = () => {
     const nq = norm(q);
-    const lista = todas.filter((g) => (!formato || g.formato === formato) && (!nq || norm([g.titulo, g.editora, g.referencia,
+    const lista = todas.filter((g) => (!formatos.length || formatos.includes(g.formato)) && (!nq || norm([g.titulo, g.editora, g.referencia,
       ...(g.interpretes || []).map((i) => nomeDe(i.pessoa))].join(' ')).includes(nq)))
       .sort((a, b) => (a.ano || '9999').localeCompare(b.ano || '9999'));
     const audiveis = (g) => (g.faixas || []).filter((f) => (f.media || []).some((m) => E.por.media[m] && visivel(E.por.media[m]))).length;
@@ -48,10 +55,10 @@ export function discografia(el, params) {
       <h3>${g.titulo}</h3><p class="resumo">${(g.interpretes || []).map((i) => nomeDe(i.pessoa)).join(', ')}</p>
       ${g.faixas?.length ? html`<p class="meta" style="margin-top:auto">${audiveis(g) ? html`<span class="selo ouro">▶ ${audiveis(g)}/${g.faixas.length} faixas</span>` : html`${g.faixas.length} faixas`}</p>` : ''}</div></a>`)}`.s
       || '<p class="mudo">Sem resultados.</p>';
-    definirParams({ q, formato });
+    definirParams({ q, formato: formatos.join(',') });
   };
   $('#q').oninput = debounce((e) => { q = e.target.value; desenhar(); }, 150);
-  $('#formato').onchange = (e) => { formato = e.target.value; desenhar(); };
+  $('#formato').addEventListener('filtro', (e) => { formatos = e.detail; desenhar(); });
   desenhar();
 }
 
@@ -84,18 +91,17 @@ export function listaObras(el, params) {
     el.innerHTML = html`<div class="conteudo"><header class="cabecalho"><p class="sobretitulo">Música</p><h1>Obras e letras</h1></header>${vazioCurado('obras')}</div>`.s;
     return;
   }
-  let q = params.q || '', genero = params.genero || '';
+  let q = params.q || '', generos = lerLista(params.genero);
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Obras e letras</h1>
       <p class="lead">Fados, baladas, serenatas e guitarradas. Em cada obra: autores, letra (quando a fonte a publica) e
         todas as interpretações catalogadas, para comparar lado a lado.</p></header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Título ou autor" value="${q}">
-      <select class="campo" id="genero"><option value="">Todos os géneros</option>${Object.entries(GENEROS).map(([k, n]) => html`<option value="${k}">${n}</option>`)}</select></div>
+      ${filtroMultiplo({ id: 'genero', todos: 'Todos os géneros', unidade: ['género', 'géneros'], opcoes: opcoesCom(GENEROS, todas, 'genero'), escolhidos: generos })}</div>
     <ul class="lista-simples" id="lista"></ul></div>`.s;
-  $('#genero').value = genero;
   const desenhar = () => {
     const nq = norm(q);
-    const lista = todas.filter((o) => (!genero || o.genero === genero) && (!nq || norm([o.titulo, ...(o.titulos_alternativos || []),
+    const lista = todas.filter((o) => (!generos.length || generos.includes(o.genero)) && (!nq || norm([o.titulo, ...(o.titulos_alternativos || []),
       ...(o.musica || []).map(nomeDe), ...(o.letra || []).map(nomeDe)].join(' ')).includes(nq)));
     $('#lista').innerHTML = html`${lista.map((o) => {
       const n = (E.faixasDeObra[o.id] || []).length + (E.mediaDeObra[o.id] || []).length;
@@ -103,10 +109,10 @@ export function listaObras(el, params) {
         <span class="mudo">${[GENEROS[o.genero], (o.musica || []).map(nomeDe).join(', '), o.ano].filter(Boolean).join(' · ')}</span>
         ${o.letra_texto ? html`<span class="selo">letra</span>` : ''}${n ? html`<span class="selo ouro">${plural(n, 'interpretação', 'interpretações')}</span>` : ''}</li>`;
     })}`.s;
-    definirParams({ q, genero });
+    definirParams({ q, genero: generos.join(',') });
   };
   $('#q').oninput = debounce((e) => { q = e.target.value; desenhar(); }, 150);
-  $('#genero').onchange = (e) => { genero = e.target.value; desenhar(); };
+  $('#genero').addEventListener('filtro', (e) => { generos = e.detail; desenhar(); });
   desenhar();
 }
 

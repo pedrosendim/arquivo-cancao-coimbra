@@ -13,7 +13,7 @@ import argparse
 import sqlite3
 import sys
 
-from comum import INDICE, slug
+from comum import INDICE, em, slug, valores
 
 
 def ligar():
@@ -27,15 +27,14 @@ def ligar():
 def pesquisar(db, q, fonte=None, tipo=None, desde=None, ate=None, limite=25, deslocamento=0, ordem="relevancia",
               marcas=("[[", "]]")):
     filtros, args = ["docs_fts MATCH ?"], [q]
-    if fonte:
-        filtros.append("d.fonte = ?"); args.append(fonte)
-    if tipo:
-        filtros.append("d.tipo = ?"); args.append(tipo)
+    for coluna, filtro in (("d.fonte", fonte), ("d.tipo", tipo)):  # um ou vários valores
+        if valores(filtro):
+            filtros.append(em(coluna, valores(filtro))); args += valores(filtro)
     if desde:
         filtros.append("d.ano >= ?"); args.append(int(desde))
     if ate:
         filtros.append("d.ano <= ?"); args.append(int(ate))
-    ordenar = "d.data DESC" if ordem == "data" else "bm25(docs_fts, 8.0, 1.0, 2.0)"
+    ordenar = {"data": "d.data DESC", "antigos": "d.data ASC"}.get(ordem, "bm25(docs_fts, 8.0, 1.0, 2.0)")
     sql = f"""SELECT d.doc_id, d.tipo, d.fonte, d.url, d.titulo, substr(d.data,1,10) AS data, d.autor,
                      d.n_comentarios, snippet(docs_fts, 1, ?, ?, ' … ', 24) AS excerto
               FROM docs_fts JOIN docs d ON d.rowid = docs_fts.rowid

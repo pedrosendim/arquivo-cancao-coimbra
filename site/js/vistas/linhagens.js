@@ -3,6 +3,7 @@
 import { E, REL, PAPEIS, vida, nomeDe } from '../estado.js';
 import { $, $$, html, raw, norm, definirParams, miniatura, plural } from '../util.js';
 import { vazioCurado } from '../componentes.js';
+import { seletorPessoa } from '../seletor.js';
 
 const DAGRE = 'https://cdnjs.cloudflare.com/ajax/libs/dagre/0.8.5/dagre.min.js';
 let carregamento = null;
@@ -352,8 +353,7 @@ export async function linhagens(el, params) {
     </div>
     ${lista.length ? html`
     <div class="barra-filtros">
-      <input class="campo" type="search" id="procurar-pessoa" placeholder="Encontrar uma pessoa…" list="nomes-linhagem">
-      <datalist id="nomes-linhagem">${pessoas.map((id) => html`<option value="${nomeDe(id)}">`)}</datalist>
+      ${seletorPessoa({ criar: false, apenas: pessoas, placeholder: 'Encontrar uma pessoa nas árvores…' })}
     </div>
     ${sep === 'familias' ? legendaArvore() : ''}
     <nav class="indice-linhagens">${lista.map((c, i) => html`<a href="javascript:void 0" data-ir="${i}">
@@ -387,11 +387,11 @@ export async function linhagens(el, params) {
     }
   };
   $('.indice-linhagens', el).onclick = (e) => { const a = e.target.closest('[data-ir]'); if (a) irPara(+a.dataset.ir); };
-  $('#procurar-pessoa').onchange = (e) => {
-    const id = pessoas.find((x) => norm(nomeDe(x)) === norm(e.target.value));
+  $('[data-seletor-pessoa]', el).addEventListener('escolha', (e) => {
+    const { id } = e.detail;
     if (!id) return;
     definirParams({ ver: sep === 'escolas' ? 'escolas' : '', pessoa: id });
     irPara(lista.findIndex((c) => c.membros.has(id)), id);
-  };
+  });
   if (foco) setTimeout(() => irPara(lista.findIndex((c) => c.membros.has(foco)), foco), 60);
 }

@@ -45,6 +45,11 @@
 [data-estilo="museu"] .caixa-edicao { border-radius: 0; }
 [data-estilo="museu"] .caixa-edicao .campo, [data-estilo="museu"] .ligar-ficha .campo { text-transform: none; font-size: 14px; letter-spacing: 0; }
 [data-estilo="museu"] .editor-texto .titulo { font: 500 20px var(--f-titulo); }
+/* filtros de escolha múltipla: como os seletores do Museu (maiúsculas, cantos retos) */
+[data-estilo="museu"] .filtro-painel, [data-estilo="museu"] .filtro-opcao { border-radius: 0; }
+[data-estilo="museu"] .filtro-opcao { font: 12px var(--f-mono); text-transform: uppercase; letter-spacing: .04em; }
+[data-estilo="museu"] .filtro-procurar { text-transform: none; font-size: 13px; letter-spacing: 0; }
+[data-estilo="museu"] .filtro-opcao input { border-radius: 0; }
 
 /* ------------------------------------------------------------------ mosaico de retratos (início) */
 .heroi.com-mosaico { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 40px; align-items: center; }

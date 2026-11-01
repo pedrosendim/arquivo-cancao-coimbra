@@ -13,7 +13,7 @@ from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import parse_qs, urlparse
 
-from comum import INDICE, RAIZ, escrever_json, ler_json
+from comum import INDICE, RAIZ, em, escrever_json, ler_json, valores
 from pesquisar import pesquisar, pesquisar_media
 
 POR_PAGINA = 30
@@ -217,10 +217,12 @@ class Pedido(SimpleHTTPRequestHandler):
                                    ordem=q.get("ordem", "relevancia"), marcas=("\u0001", "\u0002"))
         else:  # sem termos: navegar por data
             w, a = ["1=1"], []
-            for campo, op in (("fonte", "="), ("tipo", "="), ("desde", ">="), ("ate", "<=")):
+            for campo in ("fonte", "tipo"):  # um ou vários valores
+                if valores(args[campo]):
+                    w.append(em(campo, valores(args[campo]))); a += valores(args[campo])
+            for campo, op in (("desde", ">="), ("ate", "<=")):
                 if args[campo]:
-                    w.append(f"{'ano' if campo in ('desde', 'ate') else campo} {op} ?")
-                    a.append(args[campo])
+                    w.append(f"ano {op} ?"); a.append(args[campo])
             w = " AND ".join(w)
             total = db.execute(f"SELECT COUNT(*) FROM docs WHERE {w}", a).fetchone()[0]
             ordem = "ASC" if q.get("ordem") == "antigos" else "DESC"
@@ -258,8 +260,6 @@ class Pedido(SimpleHTTPRequestHandler):
             w.append("(disponivel IS NULL OR disponivel = 1)")
         if q.get("tipo"):
             w.append("tipo = ?"); a.append(q["tipo"])
-        if q.get("plataforma"):
-            w.append("plataforma = ?"); a.append(q["plataforma"])
         if q.get("fonte"):
             w.append("fonte = ?"); a.append(q["fonte"])
         if q.get("doc"):
@@ -273,6 +273,11 @@ class Pedido(SimpleHTTPRequestHandler):
             else:
                 for t in slug(q["q"]).split("-"):
                     w.append("busca LIKE ?"); a.append(f"%{t}%")
+        # quantos há de cada origem com os outros filtros (para o seletor de origens)
+        por_plataforma = {r[0]: r[1] for r in db.execute(
+            f"SELECT plataforma, COUNT(DISTINCT plataforma||chave) FROM media WHERE {' AND '.join(w)} GROUP BY plataforma", a)}
+        if valores(q.get("plataforma")):  # uma ou várias origens
+            w.append(em("plataforma", valores(q["plataforma"]))); a += valores(q["plataforma"])
         w = " AND ".join(w)
         ordem = "RANDOM()" if q.get("ordem") == "aleatorio" else ("data ASC" if q.get("ordem") == "antigos" else "data DESC")
         total = db.execute(f"SELECT COUNT(DISTINCT plataforma||chave) FROM media WHERE {w}", a).fetchone()[0]
@@ -286,7 +291,7 @@ class Pedido(SimpleHTTPRequestHandler):
             if not r["miniatura"] and r["plataforma"] != "youtube":
                 img = db.execute("SELECT url FROM media WHERE doc_id = ? AND tipo = 'imagem' LIMIT 1", (r["doc_id"],)).fetchone()
                 r["imagem_post"] = img[0] if img else None
-        return {"total": total, "pagina": pagina, "por_pagina": POR_PAGINA, "resultados": res}
+        return {"total": total, "pagina": pagina, "por_pagina": POR_PAGINA, "resultados": res, "por_plataforma": por_plataforma}
 
     def api_efemerides(self, db, q):
         md = q.get("md", "")
