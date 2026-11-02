@@ -656,6 +656,19 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .par-e { color: var(--texto-3); font-style: italic; }
 .par-ficha small { display: block; color: var(--texto-3); font-size: 12.5px; margin-top: 2px; }
 @media (max-width: 700px) { .par { grid-template-columns: 1fr; } .par-e { display: none; } }
+/* histórico e propostas: o que muda */
+.diferencas { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 3px; font: 14px/1.5 var(--f-ui); }
+.diferencas li { padding: 3px 8px; border-radius: 4px; }
+.diferencas li b { display: inline-block; width: 14px; }
+.diferencas li.mais { background: color-mix(in srgb, var(--verde) 10%, transparent); }
+.diferencas li.menos { background: var(--vinho-suave); text-decoration: line-through; text-decoration-color: color-mix(in srgb, var(--vinho) 45%, transparent); }
+.diferencas li.muda { background: var(--ouro-suave); }
+.historico { list-style: none; padding: 0; margin: 0; }
+.historico > li { padding: 14px 0; border-bottom: 1px solid var(--linha); }
+.historico .meta { font: 13px var(--f-ui); color: var(--texto-3); margin: 0 0 4px; }
+.historico summary, .o-que-muda summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); }
+.o-que-muda { margin: 10px 0; }
+.o-que-muda h4 { font: 600 14px var(--f-ui); margin: 12px 0 0; }
 .papeis-lista { margin: 12px 0 0; padding-left: 18px; font: 14px/1.6 var(--f-ui); color: var(--texto-2); }
 
 #entrar[hidden], #nav-propostas[hidden] { display: none; }

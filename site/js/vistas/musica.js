@@ -7,6 +7,7 @@ import { filtroMultiplo } from '../filtros.js';
 import { editando } from '../edicao.js';
 import { botaoNova, botaoCorrigir, formFacto, seccaoReferencias } from '../fichas.js';
 import { naoConfundir, seccaoDesambiguar } from '../desambiguar.js';
+import { botaoHistorico } from '../historico.js';
 
 const factosSimples = tabelaFactos;
 
@@ -75,7 +76,7 @@ export function gravacao(el, id) {
       ${naoConfundir('gravacoes', g)}
       ${g.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(g.editorial.por)} em ${fmtData(g.editorial.data)}.</p>` : ''}
       <div class="acoes-topo">
-        ${botaoCorrigir('gravacoes', g.id)}
+        ${botaoCorrigir('gravacoes', g.id)}${botaoHistorico('gravacoes', g.id)}
         ${todosMedia.length ? html`<button class="botao primario" data-fila="${raw(dadosItem(todosMedia.map((m) => E.por.media[m]).filter((x) => x && visivel(x)).map(itemCurado)))}">Ouvir o disco</button>` : ''}
         ${Object.entries(g.ligacoes || {}).filter(([, u]) => u).map(([k, u]) => html`<a class="botao" href="${u}" target="_blank" rel="noopener">${k} ↗</a>`)}
       </div></div></header>
@@ -137,7 +138,7 @@ export function obra(el, id) {
         ${o.letra?.length ? html`<br>Letra: ${o.letra.map((p, k) => html`${k ? ', ' : ''}<a href="#/pessoa/${p}">${nomeDe(p)}</a>`)}` : ''}</p>
       ${naoConfundir('obras', o)}
       ${o.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(o.editorial.por)} em ${fmtData(o.editorial.data)}.</p>` : ''}
-      <div class="acoes-topo">${botaoCorrigir('obras', o.id)}
+      <div class="acoes-topo">${botaoCorrigir('obras', o.id)}${botaoHistorico('obras', o.id)}
         ${itens.length > 1 ? html`<button class="botao primario" data-fila="${raw(dadosItem(itens))}">Comparar as ${itens.length} interpretações em sequência</button>` : ''}</div>
     </header>
     ${o.letra_texto ? html`<section class="seccao"><h2>Letra</h2><div class="letra">${o.letra_texto.citacao}</div>
@@ -190,7 +191,7 @@ export function instrumento(el, id) {
     <header class="cabecalho"><p class="sobretitulo">${[i.tipo, i.ano].filter(Boolean).join(' · ')}</p><h1>${i.designacao}</h1>
       ${i.construtor ? html`<p class="lead">Construtor: <a href="#/pessoa/${i.construtor}">${nomeDe(i.construtor)}</a></p>` : ''}
       ${i.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(i.editorial.por)} em ${fmtData(i.editorial.data)}.</p>` : ''}
-      ${editando() ? html`<div class="acoes-topo">${botaoCorrigir('instrumentos', i.id)}</div>` : ''}</header>
+      <div class="acoes-topo">${botaoCorrigir('instrumentos', i.id)}${botaoHistorico('instrumentos', i.id)}</div></header>
     ${i.imagens?.length ? html`<div class="galeria">${i.imagens.map((im) => figuraImagem(im.url, im.legenda, ligacaoFonte(im.fontes?.[0])))}</div>` : ''}
     ${i.proprietarios?.length ? html`<section class="seccao"><h2>Quem a tocou ou possuiu</h2><ul class="lista-simples">
       ${i.proprietarios.map((p) => html`<li><a href="#/pessoa/${p.pessoa}">${nomeDe(p.pessoa)}</a><span class="mudo">${p.periodo || ''}</span>${marcas(p.fontes)}</li>`)}</ul></section>` : ''}

@@ -22,6 +22,7 @@ import { iniciarFiltros } from './filtros.js';
 import { iniciarFichas, novaFicha, editarFicha } from './fichas.js';
 import { separar } from './desambiguar.js';
 import { porValidar } from './vistas/validar.js';
+import { historico } from './historico.js';
 
 const ROTAS = [
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
@@ -31,7 +32,7 @@ const ROTAS = [
   [/^doc\/([^/]+)$/, documento], [/^fontes$/, fontes],
   [/^blogue$/, blogue], [/^blogue\/(novo)$/, editarArtigo], [/^blogue\/([^/]+)\/editar$/, editarArtigo], [/^blogue\/([^/]+)$/, artigo],
   [/^contribuidores$/, contribuidores], [/^contribuir$/, contribuir], [/^propostas$/, propostas],
-  [/^nova\/([a-z]+)$/, novaFicha], [/^editar\/([a-z]+)\/([^/]+)$/, editarFicha], [/^separar\/([a-z]+)\/([^/]+)$/, separar], [/^validar$/, porValidar],
+  [/^nova\/([a-z]+)$/, novaFicha], [/^editar\/([a-z]+)\/([^/]+)$/, editarFicha], [/^separar\/([a-z]+)\/([^/]+)$/, separar], [/^validar$/, porValidar], [/^historico\/([a-z]+)\/([^/]+)$/, historico],
 ];
 
 async function encaminhar({ manterPosicao = false } = {}) {

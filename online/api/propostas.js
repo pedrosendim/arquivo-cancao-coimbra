@@ -23,7 +23,7 @@ export async function onRequestGet({ request, env }) {
       : corridas.some((v) => v.status !== 'completed') ? 'a-verificar'
         : corridas.every((v) => ['success', 'neutral', 'skipped'].includes(v.conclusion)) ? 'passou' : 'falhou';
     return {
-      numero: p.number, titulo: p.title, data: p.created_at, url: p.html_url,
+      numero: p.number, titulo: p.title, data: p.created_at, url: p.html_url, base: p.base.sha, head: p.head.sha,
       autor: { github: login, nome: porGithub[login]?.nome || `@${login}`, id: porGithub[login]?.id || null },
       ficheiros: ficheiros.map((f) => ({ caminho: f.filename, estado: f.status })), validacao,
       soDados: ficheiros.every((f) => RE_EDITAVEL.test(f.filename) && (!f.previous_filename || RE_EDITAVEL.test(f.previous_filename))),

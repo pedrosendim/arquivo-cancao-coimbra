@@ -7,6 +7,7 @@ import argparse
 import json
 import re
 import sqlite3
+import subprocess
 import threading
 import webbrowser
 from functools import partial
@@ -20,7 +21,7 @@ POR_PAGINA = 30
 # ficheiros que o modo de edição pode ler e gravar (nunca o arquivo/ nem os scripts)
 RE_EDITAVEL = re.compile(r"dados/(pessoas|instrumentos|gravacoes|obras|media|blogue)/[a-z0-9]+(-[a-z0-9]+)*\.json"
                          r"|dados/contribuidores\.json|fontes/fontes\.json")
-SEM_INDICE = {"sessao", "dados"}  # rotas da edição: funcionam mesmo sem o índice do arquivo
+SEM_INDICE = {"sessao", "dados", "historico", "versao"}  # rotas da edição: funcionam mesmo sem o índice do arquivo
 GRAVACAO = threading.Lock()
 # erros de validação já existentes antes de uma gravação, guardados enquanto dados/ não mudar por fora
 CONHECIDOS = {"assinatura": None, "erros": set()}
@@ -176,6 +177,32 @@ class Pedido(SimpleHTTPRequestHandler):
         from validar import carregar_contribuidores
         dono = next((c for c in carregar_contribuidores().values() if c.get("papel") == "dono"), None)
         return {"modo": "local", "contribuidor": dono}
+
+    def api_historico(self, db, q):
+        """Versões de um ficheiro de dados (git log), a mais recente primeiro; o que ainda não foi publicado vem à frente."""
+        caminho = q.get("caminho", "")
+        if not RE_EDITAVEL.fullmatch(caminho):
+            raise LookupError("ficheiro não editável")
+        git = lambda *a: subprocess.run(["git", *a], cwd=RAIZ, capture_output=True, text=True, encoding="utf-8").stdout
+        versoes = []
+        for linha in git("log", "-n", "40", "--format=%H%x1f%P%x1f%aI%x1f%an%x1f%s", "--", caminho).splitlines():
+            sha, pais, data, autor, mensagem = (linha.split("\x1f") + [""] * 5)[:5]
+            versoes.append({"sha": sha, "pai": pais.split(" ")[0], "data": data, "autor": autor, "mensagem": mensagem})
+        if git("status", "--porcelain", "--", caminho).strip():
+            versoes.insert(0, {"sha": "local", "pai": versoes[0]["sha"] if versoes else "", "data": "", "autor": "cópia local",
+                               "mensagem": "Alterações ainda não publicadas"})
+        return {"versoes": versoes}
+
+    def api_versao(self, db, q):
+        """O ficheiro numa versão do git («local»: como está agora no disco); null se não existia."""
+        caminho, sha = q.get("caminho", ""), q.get("sha", "")
+        if not RE_EDITAVEL.fullmatch(caminho) or not re.fullmatch(r"[0-9a-f]{7,40}|local", sha):
+            raise LookupError("pedido inválido")
+        if sha == "local":
+            f = RAIZ / caminho
+            return {"conteudo": ler_json(f) if f.exists() else None}
+        r = subprocess.run(["git", "show", f"{sha}:{caminho}"], cwd=RAIZ, capture_output=True, text=True, encoding="utf-8")
+        return {"conteudo": json.loads(r.stdout) if r.returncode == 0 else None}
 
     def api_dados(self, db, q):
         """Ficheiro original de dados/ (sem os campos que o construir.py acrescenta), para o modo de edição."""

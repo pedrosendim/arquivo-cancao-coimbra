@@ -8,6 +8,7 @@ import { caixaTopo, formNovaImagem, formNovaRelacao, marcaEditorial } from '../f
 import { seccaoMembros } from './grupos.js';
 import { formVida, formFacto, seccaoReferencias, linhaVida, botaoNova } from '../fichas.js';
 import { naoConfundir, seccaoDesambiguar } from '../desambiguar.js';
+import { botaoHistorico } from '../historico.js';
 import { arvoreFamiliaDe } from './linhagens.js';
 
 const riqueza = (p) => (p.biografia?.length || 0) * 3 + (p.factos?.length || 0) + (p.relacoes?.length || 0) + (p.imagens?.length || 0) * 2;
@@ -105,6 +106,7 @@ export async function pessoa(el, id) {
           ${rels.length ? html`<a class="botao" href="#/linhagens?pessoa=${id}">Ver nas linhagens</a>` : ''}
           ${comArquivo() ? html`<a class="botao" href="#/arquivo?q=${encodeURIComponent('"' + p.nome + '"')}">Pesquisar no arquivo</a>` : ''}
           <a class="botao" href="#/cronologia?pessoa=${id}">Cronologia</a>
+          ${botaoHistorico('pessoas', id)}
         </div>
       </div>
     </header>

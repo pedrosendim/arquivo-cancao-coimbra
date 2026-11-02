@@ -73,7 +73,8 @@ export async function onRequestPost({ request, env }) {
   try {
     // um segundo antes de entrar: o commit que o GitHub cria tem esta hora ou mais tarde (o site usa-a, ver estado.js)
     const em = new Date(Math.floor(Date.now() / 1000) * 1000 - 1000).toISOString();
-    await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, { method: 'PUT', body: JSON.stringify({ merge_method: 'squash' }) });
+    // «rebase»: o commit entra tal como foi feito, com o nome de quem o fez (o histórico de cada ficha mostra-o)
+    await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, { method: 'PUT', body: JSON.stringify({ merge_method: 'rebase' }) });
     await gh(env, `/repos/${R}/git/refs/heads/${ramo}`, { method: 'DELETE' }).catch(() => null);
     return json({ ok: true, publicado: true, proposta: pr.html_url, numero: pr.number, em });
   } catch (e) { // por exemplo, outra alteração à mesma ficha entretanto: fica como proposta

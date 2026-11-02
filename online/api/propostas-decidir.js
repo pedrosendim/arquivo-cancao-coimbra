@@ -19,9 +19,12 @@ export async function onRequestPost({ request, env }) {
     if (corridas.some((v) => v.status === 'completed' && !['success', 'neutral', 'skipped'].includes(v.conclusion))) {
       return json({ erro: 'a validação desta proposta falhou: não pode ser aprovada assim' }, 409);
     }
+    // quem aprovou fica registado na própria proposta
+    await gh(env, `/repos/${R}/issues/${pr.number}/comments`, { method: 'POST', body: JSON.stringify({ body: `Aprovada por ${c.nome}.` }) }).catch(() => null);
     try {
       await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, {
-        method: 'PUT', body: JSON.stringify({ merge_method: 'squash', commit_message: `Aprovada por ${c.nome}.` }),
+        // «rebase»: o commit entra com o nome de quem fez a proposta (o histórico de cada ficha mostra-o)
+        method: 'PUT', body: JSON.stringify({ merge_method: 'rebase' }),
       });
     } catch (e) {
       return json({ erro: 'não foi possível aprovar (talvez outra alteração à mesma ficha tenha entrado entretanto): recuse e peça para refazer', detalhe: e.message }, 409);
