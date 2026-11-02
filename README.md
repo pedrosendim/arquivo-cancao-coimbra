@@ -19,6 +19,7 @@ Duplo clique em **`iniciar.bat`** (ou `python scripts/servidor.py --abrir`) e o 
 | **Arquivo** | Pesquisa de texto integral nos 8.397 posts e 833 comentários, com leitor limpo |
 | **Fontes e método** | Fontes aprovadas e propostas, regras e estado da validação |
 | **Blogue** | Textos assinados por quem contribui (novidades, pedidos de ajuda, memórias); ligam às fichas, mas não são fonte |
+| **Por validar** | Lista de trabalho de quem edita: fichas que parecem repetidas (juntar ou marcar como diferentes), fichas que misturam duas pessoas (separar), divergências por comentar, fontes propostas, fichas e testemunhos por rever |
 | **Contribuidores** | Quem ajuda, por convite, e o que cada um fez; **Como contribuir** é o guia para quem não é programador |
 
 Atalhos: `Ctrl+K` ou `/` abre a pesquisa rápida. O leitor em baixo continua a tocar enquanto navega e tem fila de audição.

@@ -649,6 +649,13 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .caixa-edicao label.item-separar { display: flex; align-items: center; gap: 8px; margin: 0; font-weight: 400; }
 .mini-separar { width: 44px; height: 44px; object-fit: cover; border-radius: 4px; flex: none; }
 .nao-confundir a { font-weight: 500; }
+#nav-validar[hidden] { display: none; }
+.pares { display: grid; gap: 10px; }
+.par { display: grid; grid-template-columns: 1fr auto 1fr; gap: 8px 14px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--linha); }
+.par .acoes { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px; }
+.par-e { color: var(--texto-3); font-style: italic; }
+.par-ficha small { display: block; color: var(--texto-3); font-size: 12.5px; margin-top: 2px; }
+@media (max-width: 700px) { .par { grid-template-columns: 1fr; } .par-e { display: none; } }
 .papeis-lista { margin: 12px 0 0; padding-left: 18px; font: 14px/1.6 var(--f-ui); color: var(--texto-2); }
 
 #entrar[hidden], #nav-propostas[hidden] { display: none; }

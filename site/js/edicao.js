@@ -624,7 +624,7 @@ function dadosFormulario(form) {
 
 export function iniciarEdicao(redesenhar) {
   E.editando = ler('editando', false);
-  const botao = $('#modo-edicao'), entrar = $('#entrar'), navPropostas = $('#nav-propostas');
+  const botao = $('#modo-edicao'), entrar = $('#entrar'), navPropostas = $('#nav-propostas'), navValidar = $('#nav-validar');
   const online = () => E.sessao?.modo === 'online';
   const desenhar = () => {
     botao.hidden = !sessao();
@@ -637,6 +637,7 @@ export function iniciarEdicao(redesenhar) {
     entrar.querySelector('span').textContent = dentro ? `Sair (${sessao()?.nome || '@' + E.sessao.github})` : 'Entrar';
     entrar.title = dentro ? 'Terminar a sessão neste browser' : 'Entrar com a conta do GitHub (para contribuidores convidados)';
     navPropostas.hidden = !(online() && sessao());
+    navValidar.hidden = !sessao(); // a lista de trabalho de quem edita
   };
   entrar.onclick = () => { entrar.href = E.sessao?.github ? '/api/sair' : `/api/entrar?volta=${encodeURIComponent(location.hash || '#/')}`; };
   botao.onclick = () => { E.editando = !E.editando; guardar('editando', E.editando); desenhar(); redesenhar(); };
