@@ -66,7 +66,7 @@ function componentes(lig) {
 function nomeFamilia(c) {
   const conta = {};
   for (const id of c.membros) {
-    const t = (E.por.pessoas[id]?.nome || '').split(/\s+/).filter((w) => !PARTICULAS.has(norm(w)));
+    const t = (E.por.pessoas[id]?.nome || '').replace(/\s*\([^)]*\)/g, '').split(/\s+/).filter((w) => w && !PARTICULAS.has(norm(w)));
     if (t.length > 1) conta[t.at(-1)] = (conta[t.at(-1)] || 0) + 1;
   }
   const ord = Object.entries(conta).sort((a, b) => b[1] - a[1]);
@@ -340,6 +340,17 @@ export async function linhagens(el, params) {
   const titulo = (c) => (sep === 'familias' ? `Família ${nomeFamilia(c)}` : `Escola de ${nomeEscola(c)}`);
   const anos = (c) => (c.desde ? `${c.desde}${c.ate && c.ate !== c.desde ? '–' + c.ate : ''}` : 'datas por apurar');
   const pessoas = [...new Set(lista.flatMap((c) => [...c.membros]))].sort((a, b) => nomeDe(a).localeCompare(nomeDe(b)));
+  const chave = (c) => [...c.membros].sort()[0]; // estável para o endereço, mesmo quando a ordem muda
+  // na lista de escolha, agrupadas por século (do nascimento mais antigo)
+  const SECULOS = { 17: 'Século XVII', 18: 'Século XVIII', 19: 'Século XIX', 20: 'Século XX', 21: 'Século XXI' };
+  const grupo = (c) => (c.desde ? SECULOS[Math.floor((c.desde - 1) / 100) + 1] || 'Outras datas' : 'Datas por apurar');
+  const grupos = [];
+  lista.forEach((c, i) => { const g = grupo(c); if (grupos.at(-1)?.[0] !== g) grupos.push([g, []]); grupos.at(-1)[1].push(i); });
+
+  const foco = params.pessoa || '';
+  let atual = foco ? lista.findIndex((c) => c.membros.has(foco)) : lista.findIndex((c) => chave(c) === params.familia);
+  if (atual < 0) atual = 0;
+  const [anterior, seguinte] = sep === 'familias' ? ['Família anterior', 'Família seguinte'] : ['Escola anterior', 'Escola seguinte'];
 
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Linhagens</h1>
@@ -347,20 +358,21 @@ export async function linhagens(el, params) {
         ? 'As famílias da Canção de Coimbra, cada uma com a sua árvore — pais, mães, cônjuges, irmãos e filhos que as fontes nomeiam —, pela ordem da história.'
         : 'Quem aprendeu com quem: as escolas de mestres e discípulos, pela ordem da história.'}</p></header>
     <div class="separadores" role="tablist">
-      <button role="tab" data-ver="familias" aria-selected="${sep === 'familias'}">Famílias <span class="mudo">${familias.length}</span></button>
-      <button role="tab" data-ver="escolas" aria-selected="${sep === 'escolas'}">Escolas <span class="mudo">${escolas.length}</span></button>
-      <a href="#/grupos" style="margin-left:auto;align-self:center;font-size:14px">Grupos →</a>
+      <button role="tab" data-ver="familias" aria-selected="${String(sep === 'familias')}">Famílias <span class="mudo">${familias.length}</span></button>
+      <button role="tab" data-ver="escolas" aria-selected="${String(sep === 'escolas')}">Escolas <span class="mudo">${escolas.length}</span></button>
     </div>
     ${lista.length ? html`
     <div class="barra-filtros">
+      <div class="escolher-linhagem">
+        <button class="botao" type="button" id="anterior" title="${anterior} (mais antiga)" aria-label="${anterior}">‹</button>
+        <select class="campo" id="escolher" aria-label="Escolher">${grupos.map(([g, is]) => html`<optgroup label="${g}">
+          ${is.map((i) => html`<option value="${i}">${titulo(lista[i])} · ${anos(lista[i])} · ${plural(lista[i].membros.size, 'pessoa', 'pessoas')}</option>`)}</optgroup>`)}</select>
+        <button class="botao" type="button" id="seguinte" title="${seguinte} (mais recente)" aria-label="${seguinte}">›</button>
+      </div>
       ${seletorPessoa({ criar: false, apenas: pessoas, placeholder: 'Encontrar uma pessoa nas árvores…' })}
     </div>
     ${sep === 'familias' ? legendaArvore() : ''}
-    <nav class="indice-linhagens">${lista.map((c, i) => html`<a href="javascript:void 0" data-ir="${i}">
-      <b>${titulo(c)}</b><span>${anos(c)}</span></a>`)}</nav>
-    <div id="arvores">${lista.map((c, i) => html`<section class="familia" id="linhagem-${i}">
-      <h2>${titulo(c)} <small>${anos(c)} · ${plural(c.membros.size, 'pessoa', 'pessoas')}</small></h2>
-      <div class="arvore-caixa" data-i="${i}"><p class="carregando">A desenhar</p></div></section>`)}</div>`
+    <section class="familia" id="linhagem"><h2></h2><div class="arvore-caixa"><p class="carregando">A desenhar</p></div></section>`
     : vazioCurado(sep === 'familias' ? 'famílias' : 'escolas')}
   </div>`.s;
 
@@ -369,29 +381,33 @@ export async function linhagens(el, params) {
 
   let dagre;
   try { dagre = await carregarDagre(); } catch {
-    $$('.arvore-caixa', el).forEach((c) => { c.innerHTML = '<p class="mudo">Não foi possível carregar a biblioteca de árvores (sem internet?).</p>'; });
+    $('.arvore-caixa', el).innerHTML = '<p class="mudo">Não foi possível carregar a biblioteca de árvores (sem internet?).</p>';
     return;
   }
-  const foco = params.pessoa || '';
-  $$('.arvore-caixa', el).forEach((caixa) => { caixa.innerHTML = desenharArvore(dagre, lista[+caixa.dataset.i], foco).s; });
 
-  const irPara = (i, id) => {
-    const s = document.getElementById(`linhagem-${i}`);
-    s?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    const no = id && s?.querySelector(`[data-id="${CSS.escape(id)}"]`);
+  /** Mostra uma família (ou escola) de cada vez; com uma pessoa em foco, centra a árvore nela. */
+  const mostrar = (i, id = '') => {
+    atual = Math.max(0, Math.min(lista.length - 1, i));
+    const c = lista[atual], s = $('#linhagem', el);
+    $('#escolher', el).value = atual;
+    $('#anterior', el).disabled = atual === 0;
+    $('#seguinte', el).disabled = atual === lista.length - 1;
+    s.querySelector('h2').innerHTML = html`${titulo(c)} <small>${anos(c)} · ${plural(c.membros.size, 'pessoa', 'pessoas')} · ${atual + 1} de ${lista.length}</small>`.s;
+    const caixa = s.querySelector('.arvore-caixa');
+    caixa.innerHTML = desenharArvore(dagre, c, id).s;
+    definirParams({ ver: sep === 'escolas' ? 'escolas' : '', familia: id ? '' : chave(c), pessoa: id });
+    const no = id && caixa.querySelector(`[data-id="${CSS.escape(id)}"]`);
     if (no) {
-      $$('.no-arvore.foco', el).forEach((x) => x.classList.remove('foco'));
-      no.classList.add('foco');
-      const caixa = no.closest('.arvore-caixa');
+      s.scrollIntoView({ behavior: 'smooth', block: 'start' });
       caixa.scrollLeft = no.offsetLeft * (parseFloat(getComputedStyle(no.parentElement).zoom) || 1) - caixa.clientWidth / 2 + 80;
     }
   };
-  $('.indice-linhagens', el).onclick = (e) => { const a = e.target.closest('[data-ir]'); if (a) irPara(+a.dataset.ir); };
+  $('#escolher', el).onchange = (e) => mostrar(+e.target.value);
+  $('#anterior', el).onclick = () => mostrar(atual - 1);
+  $('#seguinte', el).onclick = () => mostrar(atual + 1);
   $('[data-seletor-pessoa]', el).addEventListener('escolha', (e) => {
     const { id } = e.detail;
-    if (!id) return;
-    definirParams({ ver: sep === 'escolas' ? 'escolas' : '', pessoa: id });
-    irPara(lista.findIndex((c) => c.membros.has(id)), id);
+    if (id) mostrar(lista.findIndex((c) => c.membros.has(id)), id);
   });
-  if (foco) setTimeout(() => irPara(lista.findIndex((c) => c.membros.has(foco)), foco), 60);
+  mostrar(atual, foco);
 }

@@ -137,7 +137,7 @@ export function mediateca(el, params) {
         : 'Os vídeos e áudios identificados nas fichas, com as pessoas e obras de cada um.'}
         Os vídeos tocam no leitor em baixo e continuam enquanto navega.</p></header>
     <div class="separadores" role="tablist">${Object.entries(separadores).map(([k, n]) =>
-      html`<button role="tab" data-sep="${k}" aria-selected="${k === sep}">${n}</button>`)}</div>
+      html`<button role="tab" data-sep="${k}" aria-selected="${String(k === sep)}">${n}</button>`)}</div>
     <div class="barra-filtros">
       <input class="campo" type="search" id="q" placeholder="Nome, obra, local… (procura no título do post e no texto à volta)" value="${q}">
       <select class="campo" id="estado" title="Catalogado = identificado nas fichas, com fonte"><option value="">Todos</option><option value="catalogados">✓ Só catalogados</option></select>

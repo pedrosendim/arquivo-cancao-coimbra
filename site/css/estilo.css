@@ -288,10 +288,12 @@ a.cartao:hover, .cartao.clicavel:hover { border-color: var(--linha-forte); trans
 /* só rola na horizontal, nos ecrãs estreitos, e sem barra visível */
 .separadores { display: flex; gap: 2px; border-bottom: 1px solid var(--linha); margin-bottom: 22px; overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
 .separadores button { border: 0; background: none; padding: 10px 14px; color: var(--texto-3); border-bottom: 2px solid transparent; white-space: nowrap; }
-.separadores button[aria-selected="true"] { color: var(--texto); border-color: var(--ouro); }
+.separadores button:hover { color: var(--texto); }
+/* o separador escolhido: a negrito e com o traço da cor do site */
+.separadores button[aria-selected="true"], .separadores a.separador[aria-current="page"] {
+  color: var(--texto); font-weight: 600; border-bottom: 3px solid var(--ouro); }
 .separadores a.separador { padding: 10px 14px; color: var(--texto-3); border-bottom: 2px solid transparent; white-space: nowrap; }
 .separadores a.separador:hover { color: var(--texto); text-decoration: none; }
-.separadores a.separador[aria-current="page"] { color: var(--texto); border-color: var(--ouro); }
 
 /* ============================================================ ficha de pessoa */
 .ficha-topo { display: grid; grid-template-columns: 200px 1fr; gap: 32px; align-items: end; margin-bottom: 10px; }
@@ -428,14 +430,14 @@ table.factos tr + tr th { border-top: 0; }
   background: radial-gradient(circle at 1px 1px, var(--linha) 1px, transparent 0) 0 0/22px 22px, var(--fundo-2); }
 .arvore-caixa .arvore-mundo { position: relative; zoom: .86; margin: 0 auto; }
 .arvore-caixa .carregando { padding: 20px; }
-.familia { margin: 34px 0 0; scroll-margin-top: 20px; }
+.familia { margin: 18px 0 0; scroll-margin-top: 20px; }
+/* linhagens: uma família de cada vez (anterior · lista · seguinte) */
+.escolher-linhagem { display: flex; gap: 6px; align-items: center; flex: 1 1 380px; min-width: 0; }
+.escolher-linhagem select { flex: 1; min-width: 0; }
+.escolher-linhagem .botao { flex: none; width: 38px; height: 38px; padding: 0; font-size: 18px; justify-content: center; }
+.escolher-linhagem .botao:disabled { opacity: .35; cursor: default; }
 .familia > h2 { font-size: 26px; margin-bottom: 12px; display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
 .familia > h2 small { font: 13px var(--f-ui); color: var(--texto-3); }
-.indice-linhagens { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; }
-.indice-linhagens a { display: flex; flex-direction: column; padding: 8px 12px; border: 1px solid var(--linha); border-radius: 10px;
-  background: var(--superficie); color: var(--texto); font-size: 13.5px; line-height: 1.25; }
-.indice-linhagens a:hover { border-color: var(--ouro); text-decoration: none; }
-.indice-linhagens a span { color: var(--texto-3); font-size: 12px; }
 .pais-incognitos { position: absolute; width: 34px; height: 34px; border-radius: 50%; border: 2px dashed var(--linha-forte);
   background: var(--superficie); display: grid; place-items: center; color: var(--texto-3); font: 600 15px var(--f-ui); }
 .no-arvore { position: absolute; width: 156px; height: 216px; display: flex; flex-direction: column; align-items: flex-start; gap: 6px;
@@ -591,6 +593,7 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .a-editar .ficha-topo { align-items: start; }
 /* escolher uma pessoa: lista que se filtra ao escrever */
 .seletor-pessoa { position: relative; flex: 1 1 260px; }
+.seletor-pessoa > .campo { width: 100%; }
 .seletor-pessoa.escolhido .campo { border-color: var(--verde); font-weight: 600; }
 .seletor-pessoa.nova .campo { border-color: var(--ouro); font-style: italic; }
 .seletor-lista {

@@ -49,7 +49,7 @@ export function cronologia(el, params) {
       <p class="lead">Todos os factos com data, de todas as fichas, numa só linha do tempo.</p></header>
     <div class="barra-filtros">
       ${filtroMultiplo({ id: 'pessoa', todos: 'Todas as pessoas', unidade: ['pessoa', 'pessoas'], opcoes: opcoesPessoas, escolhidos: pessoas })}
-      <div class="fichas" id="tipos">${Object.entries(TIPOS).map(([k, n]) => html`<button class="ficha" data-t="${k}" aria-pressed="${tipos.has(k)}">${n}</button>`)}</div>
+      <div class="fichas" id="tipos">${Object.entries(TIPOS).map(([k, n]) => html`<button class="ficha" data-t="${k}" aria-pressed="${String(tipos.has(k))}">${n}</button>`)}</div>
     </div>
     <nav class="decadas" id="decadas"></nav>
     <div id="linha"></div></div>`.s;

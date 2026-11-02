@@ -32,10 +32,10 @@ export function listaPessoas(el, params) {
       <select class="campo" id="ordem"><option value="nome">Ordem alfabética</option><option value="ricas">Mais documentadas primeiro</option><option value="nasc">Por ano de nascimento</option></select>
     </div>
     <div class="fichas" id="papeis" style="margin:-8px 0 22px">
-      <button class="ficha" data-papel="" aria-pressed="${!papeis.size}" title="Todas as pessoas com papel musical">Música<span class="n">${todas.length - nFamiliares}</span></button>
+      <button class="ficha" data-papel="" aria-pressed="${String(!papeis.size)}" title="Todas as pessoas com papel musical">Música<span class="n">${todas.length - nFamiliares}</span></button>
       ${Object.entries(contagem).filter(([k]) => k !== 'outro').sort((a, b) => b[1] - a[1]).map(([k, n]) =>
-        html`<button class="ficha" data-papel="${k}" aria-pressed="${papeis.has(k)}">${PAPEIS[k] || k}<span class="n">${n}</span></button>`)}
-      ${nFamiliares ? html`<button class="ficha" data-papel="familiares" aria-pressed="${papeis.has('familiares')}" title="Familiares nomeados nas fontes, sem papel musical">Familiares<span class="n">${nFamiliares}</span></button>` : ''}
+        html`<button class="ficha" data-papel="${k}" aria-pressed="${String(papeis.has(k))}">${PAPEIS[k] || k}<span class="n">${n}</span></button>`)}
+      ${nFamiliares ? html`<button class="ficha" data-papel="familiares" aria-pressed="${String(papeis.has('familiares'))}" title="Familiares nomeados nas fontes, sem papel musical">Familiares<span class="n">${nFamiliares}</span></button>` : ''}
     </div>
     <div class="grelha" id="grelha"></div></div>`.s;
   $('#ordem').value = ordem;

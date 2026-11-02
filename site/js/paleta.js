@@ -15,7 +15,7 @@ function desenhar() {
     : [...(arquivo ? [{ rotulo: 'Arquivo dos blogues', tipo: 'Ir para', rota: '#/arquivo' }] : []), { rotulo: 'Mediateca', tipo: 'Ir para', rota: '#/mediateca' },
       { rotulo: 'Linhagens', tipo: 'Ir para', rota: '#/linhagens' }, { rotulo: 'Fontes e método', tipo: 'Ir para', rota: '#/fontes' }];
   sel = Math.min(sel, itens.length - 1);
-  $('#paleta-lista').innerHTML = html`${itens.map((it, i) => html`<li data-i="${i}" aria-selected="${i === sel}">${it.rotulo}<span class="tipo">${it.tipo}</span></li>`)}`.s;
+  $('#paleta-lista').innerHTML = html`${itens.map((it, i) => html`<li data-i="${i}" aria-selected="${String(i === sel)}">${it.rotulo}<span class="tipo">${it.tipo}</span></li>`)}`.s;
 }
 
 export function abrirPaleta() {

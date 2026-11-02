@@ -5,6 +5,7 @@ export const raw = (s) => new Raw(String(s ?? ''));
 export const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
   ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+// true/false dão '' (para ${cond && html`…`}); num atributo como aria-selected escreva-se ${String(cond)}
 function render(v) {
   if (v == null || v === false || v === true) return '';
   if (v instanceof Raw) return v.s;

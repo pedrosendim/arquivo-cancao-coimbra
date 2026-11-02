@@ -42,7 +42,9 @@
 [data-estilo="museu"] .mosaico a { border: 1px solid var(--linha-forte); filter: sepia(.25); }
 /* modo de edição: o que se escreve lê-se como foi escrito, sem maiúsculas forçadas */
 [data-estilo="museu"] .caixa-edicao { border-radius: 0; }
-[data-estilo="museu"] .caixa-edicao .campo, [data-estilo="museu"] .ligar-ficha .campo { text-transform: none; font-size: 14px; letter-spacing: 0; }
+[data-estilo="museu"] .caixa-edicao .campo, [data-estilo="museu"] .ligar-ficha .campo,
+[data-estilo="museu"] .seletor-pessoa > .campo { text-transform: none; font-size: 14px; letter-spacing: 0; }
+[data-estilo="museu"] .escolher-linhagem .botao { font-size: 20px; line-height: 1; }
 [data-estilo="museu"] .editor-texto .titulo { font: 500 20px var(--f-titulo); }
 /* filtros de escolha múltipla: como os seletores do Museu (maiúsculas, cantos retos) */
 [data-estilo="museu"] .filtro-painel, [data-estilo="museu"] .filtro-opcao { border-radius: 0; }
