@@ -3,7 +3,8 @@
   "tipo": "pessoa",
   "nome": "Manuela Ricciulli",
   "nomes_alternativos": [
-    "Dra. Manuela Ricciulli"
+    "Dra. Manuela Ricciulli",
+    "D. Manuela Ricciulli"
   ],
   "papeis": [],
   "biografia": [],
@@ -19,6 +20,22 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
           "doc": "gc-v:3877914886718455376",
           "citacao": "na neta Manuela, que vem a cursar o Conservatório de Coimbra até ao 6º ano, seguindo depois para a Faculdade de Medicina da Universidade de Coimbra, onde conclui o curso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Mãe dos dois filhos de Petrónio Ricciulli",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
+          "doc": "gc-v:3877914886718455376",
+          "citacao": "Aí conhece a sua futura mulher, mãe dos seus dois filhos, a Sra. D. Manuela Ricciulli."
         }
       ],
       "conflito": false,
@@ -44,9 +61,30 @@
         }
       ],
       "nota": "A mãe é «mãe dos seus dois filhos» (D. Manuela Ricciulli); a ligação filha–mãe não é escrita em frase própria."
+    },
+    {
+      "tipo": "conjuge_de",
+      "alvo": "petronio-ricciuli",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/petronio-ricciulli.html",
+          "doc": "gc-v:3877914886718455376",
+          "citacao": "Aí conhece a sua futura mulher, mãe dos seus dois filhos, a Sra. D. Manuela Ricciulli."
+        }
+      ],
+      "nota": "Homónima da filha, Dra. Manuela Ricciulli."
     }
   ],
   "imagens": [],
   "ligacoes": [],
-  "estado_revisao": "rascunho"
+  "estado_revisao": "rascunho",
+  "juntou": [
+    {
+      "id": "manuela-ricciulli-mulher-de-petronio-ricciulli",
+      "nome": "Manuela Ricciulli",
+      "por": "editor-do-arquivo",
+      "data": "2026-11-02"
+    }
+  ]
 }
