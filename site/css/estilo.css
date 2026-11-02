@@ -644,6 +644,11 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .formularios-lado { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 0 16px; }
 .formularios-lado .caixa-edicao { max-width: none; }
 .acoes-lista { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; }
+.grupo-separar { border: 0; border-top: 1px solid var(--linha); padding: 10px 0 0; margin: 4px 0 0; display: grid; gap: 4px; }
+.grupo-separar legend { font-weight: 600; padding: 0 8px 0 0; }
+.caixa-edicao label.item-separar { display: flex; align-items: center; gap: 8px; margin: 0; font-weight: 400; }
+.mini-separar { width: 44px; height: 44px; object-fit: cover; border-radius: 4px; flex: none; }
+.nao-confundir a { font-weight: 500; }
 .papeis-lista { margin: 12px 0 0; padding-left: 18px; font: 14px/1.6 var(--f-ui); color: var(--texto-2); }
 
 #entrar[hidden], #nav-propostas[hidden] { display: none; }

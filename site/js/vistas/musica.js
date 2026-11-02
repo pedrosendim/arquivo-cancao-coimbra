@@ -6,6 +6,7 @@ import { cartaoMediaCurado, itemCurado, dadosItem, figuraImagem, vazioCurado, ta
 import { filtroMultiplo } from '../filtros.js';
 import { editando } from '../edicao.js';
 import { botaoNova, botaoCorrigir, formFacto, seccaoReferencias } from '../fichas.js';
+import { naoConfundir, seccaoDesambiguar } from '../desambiguar.js';
 
 const factosSimples = tabelaFactos;
 
@@ -62,6 +63,7 @@ export function discografia(el, params) {
 
 export function gravacao(el, id) {
   const g = E.por.gravacoes[id];
+  if (!g && E.juntadas.gravacoes?.[id]) { location.replace(`#/gravacao/${E.juntadas.gravacoes[id]}`); return; }
   if (!g) { el.innerHTML = '<div class="conteudo"><h1>Gravação não encontrada</h1></div>'; return; }
   const spotify = g.ligacoes?.spotify && classificar(g.ligacoes.spotify);
   const todosMedia = (g.faixas || []).flatMap((f) => f.media || []);
@@ -70,6 +72,7 @@ export function gravacao(el, id) {
       <p class="sobretitulo">${[FORMATOS[g.formato], g.editora, g.referencia].filter(Boolean).join(' · ')}</p>
       <h1>${g.titulo}</h1><p class="anos">${[g.ano, g.local].filter(Boolean).join(', ')}</p>
       <p>${(g.interpretes || []).map((i, k) => html`${k ? ' · ' : ''}<a href="#/pessoa/${i.pessoa}">${nomeDe(i.pessoa)}</a>${i.funcao ? html` <span class="mudo">(${i.funcao})</span>` : ''}`)}</p>
+      ${naoConfundir('gravacoes', g)}
       ${g.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(g.editorial.por)} em ${fmtData(g.editorial.data)}.</p>` : ''}
       <div class="acoes-topo">
         ${botaoCorrigir('gravacoes', g.id)}
@@ -83,6 +86,7 @@ export function gravacao(el, id) {
     ${g.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(g.factos, { editar: editando() && `gravacoes/${g.id}` })}
       ${editando() ? formFacto(`gravacoes/${g.id}`) : ''}</section>` : ''}
     ${seccaoReferencias(g, `gravacoes/${g.id}`)}
+    ${seccaoDesambiguar('gravacoes', g)}
     ${g.fontes?.length ? html`<section class="seccao biografia estreito"><h2>Fontes</h2>${g.fontes.filter((c) => c.citacao).map(blocoCitacao)}</section>` : ''}
   </div>`.s;
 }
@@ -121,6 +125,7 @@ export function listaObras(el, params) {
 
 export function obra(el, id) {
   const o = E.por.obras[id];
+  if (!o && E.juntadas.obras?.[id]) { location.replace(`#/obra/${E.juntadas.obras[id]}`); return; }
   if (!o) { el.innerHTML = '<div class="conteudo"><h1>Obra não encontrada</h1></div>'; return; }
   const faixas = E.faixasDeObra[id] || [];
   const media = E.mediaDeObra[id] || [];
@@ -130,6 +135,7 @@ export function obra(el, id) {
       ${o.titulos_alternativos?.length ? html`<p class="mudo">Também: ${o.titulos_alternativos.join('; ')}</p>` : ''}
       <p class="lead">${o.musica?.length ? html`Música: ${o.musica.map((p, k) => html`${k ? ', ' : ''}<a href="#/pessoa/${p}">${nomeDe(p)}</a>`)}` : ''}
         ${o.letra?.length ? html`<br>Letra: ${o.letra.map((p, k) => html`${k ? ', ' : ''}<a href="#/pessoa/${p}">${nomeDe(p)}</a>`)}` : ''}</p>
+      ${naoConfundir('obras', o)}
       ${o.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(o.editorial.por)} em ${fmtData(o.editorial.data)}.</p>` : ''}
       <div class="acoes-topo">${botaoCorrigir('obras', o.id)}
         ${itens.length > 1 ? html`<button class="botao primario" data-fila="${raw(dadosItem(itens))}">Comparar as ${itens.length} interpretações em sequência</button>` : ''}</div>
@@ -139,6 +145,7 @@ export function obra(el, id) {
     ${o.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(o.factos, { editar: editando() && `obras/${o.id}` })}
       ${editando() ? formFacto(`obras/${o.id}`) : ''}</section>` : ''}
     ${seccaoReferencias(o, `obras/${o.id}`)}
+    ${seccaoDesambiguar('obras', o)}
     ${faixas.length ? html`<section class="seccao"><h2>Gravações</h2><ul class="lista-simples">${faixas.map(({ gravacao: g, faixa }) => html`<li>
       <span class="mono mudo">${g.ano || '—'}</span><a href="#/gravacao/${g.id}">${g.titulo}</a>
       <span class="mudo">${(g.interpretes || []).map((i) => nomeDe(i.pessoa)).join(', ')}</span>

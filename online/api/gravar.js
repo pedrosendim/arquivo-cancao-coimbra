@@ -9,7 +9,10 @@ export async function onRequestPost({ request, env }) {
   if (erro) return erro;
   const pedido = await request.json().catch(() => null);
   const alteracoes = pedido?.alteracoes || [];
-  if (!alteracoes.length || alteracoes.length > 20) return json({ erro: 'nada para gravar' }, 400);
+  if (!alteracoes.length || alteracoes.length > 80) return json({ erro: 'nada para gravar' }, 400);
+  // uma ficha juntada a outra (desambiguação) apaga-se na mesma gravação em que a outra a regista em «juntou»
+  const juntadas = new Set(alteracoes.filter((a) => a.conteudo && String(a.caminho).startsWith('dados/'))
+    .flatMap((a) => (a.conteudo.juntou || []).map((j) => `dados/${a.caminho.split('/')[1]}/${j.id}.json`)));
 
   for (const a of alteracoes) {
     if (!RE_EDITAVEL.test(String(a.caminho))) return json({ erro: `ficheiro não editável: ${a.caminho}` }, 400);
@@ -22,7 +25,7 @@ export async function onRequestPost({ request, env }) {
     }
     if (a.conteudo === null) { // só se apagam textos do blogue e fichas criadas no modo de edição, ainda sem factos
       const atual = /^dados\/(pessoas|obras|gravacoes|instrumentos|media)\//.test(a.caminho) ? await lerFicheiro(env, a.caminho) : null;
-      if (!a.caminho.startsWith('dados/blogue/') && !(atual?.editorial && !atual.factos?.length && !atual.biografia?.length)) {
+      if (!a.caminho.startsWith('dados/blogue/') && !juntadas.has(a.caminho) && !(atual?.editorial && !atual.factos?.length && !atual.biografia?.length)) {
         return json({ erro: 'só se apagam textos do blogue e fichas criadas no modo de edição, sem factos' }, 400);
       }
     } else if (typeof a.conteudo !== 'object' || Array.isArray(a.conteudo)) return json({ erro: 'conteúdo inválido' }, 400);

@@ -6,6 +6,7 @@
 import { E, carregar, juntarPendentes, REL, CAMPOS, nomeDe } from './estado.js';
 import { $, api, aviso, guardar, ler, fmtData, norm, classificar } from './util.js';
 import { ESPECIES, lerCampos, fichaVazia } from './fichas.js';
+import { idDoRotulo } from './desambiguar.js';
 
 export const sessao = () => E.sessao?.contribuidor || null;
 export const editando = () => !!sessao() && E.editando;
@@ -142,6 +143,100 @@ function fichaNova(nome) {
 
 /** Relação sem fonte própria (indicada no modo de edição ou com citações aí acrescentadas): pode ser retirada. */
 const relacaoDeContribuidor = deContribuidor;
+
+// ------------------------------------------------------------------ desambiguação
+// Juntar duas fichas que são a mesma; separar uma ficha que mistura duas pessoas (ou duas músicas) com o mesmo nome;
+// marcar duas fichas como diferentes («não confundir com»). Tudo o que noutras fichas aponta para elas é corrigido.
+
+const troca = (lista, de, para) => [...new Set((lista || []).map((x) => (x === de ? para : x)))];
+/** Onde cada tipo de ficha é referido noutras: [tipo da ficha que refere, troca as referências de → para]. */
+const LIGACOES = {
+  pessoas: [
+    ['pessoas', (f, de, para) => { for (const r of f.relacoes || []) if (r.alvo === de) r.alvo = para; }],
+    ['gravacoes', (f, de, para) => { for (const i of f.interpretes || []) if (i.pessoa === de) i.pessoa = para; }],
+    ['obras', (f, de, para) => { f.musica = troca(f.musica, de, para); f.letra = troca(f.letra, de, para); }],
+    ['instrumentos', (f, de, para) => {
+      if (f.construtor === de) f.construtor = para;
+      for (const x of f.proprietarios || []) if (x.pessoa === de) x.pessoa = para;
+    }],
+    ['media', (f, de, para) => { f.pessoas = troca(f.pessoas, de, para); }],
+  ],
+  obras: [
+    ['gravacoes', (f, de, para) => { for (const x of f.faixas || []) if (x.obra === de) x.obra = para; }],
+    ['media', (f, de, para) => { f.obras = troca(f.obras, de, para); }],
+  ],
+  gravacoes: [['media', (f, de, para) => { if (f.gravacao === de) f.gravacao = para; }]],
+  media: [['gravacoes', (f, de, para) => { for (const x of f.faixas || []) if (x.media) x.media = troca(x.media, de, para); }]],
+  instrumentos: [],
+};
+
+/** Fichas (de outros ficheiros) que referem `id`, lidas do repositório e já corrigidas para `para`. */
+async function corrigirReferencias(tipo, id, para, ignorar = new Set(), escolher = () => true) {
+  const res = [];
+  for (const [t, trocar] of LIGACOES[tipo]) {
+    for (const x of E.base[t] || []) {
+      const chave = `${t}/${x.id}`;
+      if (ignorar.has(chave) || !JSON.stringify(x).includes(`"${id}"`) || !escolher(t, x.id)) continue;
+      const f = await lerFicheiro(`dados/${chave}.json`);
+      const antes = JSON.stringify(f);
+      trocar(f, id, para);
+      if (t === 'pessoas') f.relacoes = semRepetidas(f.relacoes, f.id);
+      if (JSON.stringify(f) !== antes) res.push([`dados/${chave}.json`, f]);
+    }
+  }
+  return res;
+}
+
+/** Relações sem repetições nem relações consigo própria; se duas iguais tiverem fontes diferentes, juntam-se. */
+function semRepetidas(relacoes, dono) {
+  const vistas = new Map();
+  for (const r of relacoes || []) {
+    if (r.alvo === dono) continue;
+    const k = `${r.tipo}|${r.alvo}`;
+    if (!vistas.has(k)) { vistas.set(k, r); continue; }
+    const v = vistas.get(k);
+    v.fontes = [...(v.fontes || []), ...(r.fontes || [])];
+    if (v.fontes.length) delete v.editorial;
+  }
+  return [...vistas.values()];
+}
+
+const juntarListas = (a, b, chave = (x) => JSON.stringify(x)) => {
+  const vistos = new Set((a || []).map(chave));
+  return [...(a || []), ...(b || []).filter((x) => !vistos.has(chave(x)))];
+};
+
+/** Junta a ficha `b` em `a` (as duas do mesmo tipo): nada se perde, o que só `b` tinha passa para `a`. */
+function fundir(tipo, a, b) {
+  const titulo = ESPECIES[tipo].titulo;
+  for (const [k, v] of Object.entries(b)) { // campos simples que `a` não tinha
+    if (['id', 'editorial', 'estado_revisao', 'revisto_por', 'revisto_em', titulo].includes(k)) continue;
+    if (typeof v === 'string' && v && !a[k]) a[k] = v;
+    if (v && typeof v === 'object' && !Array.isArray(v) && !a[k]) a[k] = v;
+  }
+  const alt = tipo === 'pessoas' ? 'nomes_alternativos' : 'titulos_alternativos';
+  if (['pessoas', 'obras'].includes(tipo)) {
+    a[alt] = [...new Set([...(a[alt] || []), b[titulo], ...(b[alt] || [])])].filter((x) => x && norm(x) !== norm(a[titulo]));
+  }
+  for (const k of ['papeis', 'musica', 'letra', 'pessoas', 'obras']) if (a[k] || b[k]) a[k] = [...new Set([...(a[k] || []), ...(b[k] || [])])];
+  for (const k of ['biografia', 'factos', 'fontes', 'ligacoes']) if (a[k] || b[k]) a[k] = juntarListas(a[k], b[k]);
+  if (a.imagens || b.imagens) a.imagens = juntarListas(a.imagens, b.imagens, (x) => x.url);
+  if (a.referencias || b.referencias) a.referencias = juntarListas(a.referencias, b.referencias, (x) => x.url);
+  if (a.relacoes || b.relacoes) a.relacoes = semRepetidas([...(a.relacoes || []), ...(b.relacoes || []).map((r) => ({ ...r }))], a.id);
+  if (a.interpretes || b.interpretes) a.interpretes = juntarListas(a.interpretes, b.interpretes, (x) => x.pessoa);
+  if (a.proprietarios || b.proprietarios) a.proprietarios = juntarListas(a.proprietarios, b.proprietarios, (x) => x.pessoa);
+  if (!a.faixas?.length && b.faixas?.length) a.faixas = b.faixas;
+  if (b.nota_editor) a.nota_editor = [a.nota_editor, b.nota_editor].filter(Boolean).join(' / ');
+  a.distinta_de = juntarListas(a.distinta_de, b.distinta_de, (x) => x.id).filter((x) => x.id !== a.id && x.id !== b.id);
+  if (!a.distinta_de.length) delete a.distinta_de;
+  a.juntou = [...(a.juntou || []), ...(b.juntou || [])];
+  // nascimento, morte, naturalidade e nome completo: se as duas fichas diziam coisas diferentes, fica à vista
+  for (const campo of ['nascimento', 'morte', 'naturalidade', 'nome_completo']) {
+    const v = (a.factos || []).filter((f) => f.campo === campo);
+    const diferentes = new Set(v.map((f) => `${f.data || ''}|${norm(f.local || f.valor)}`));
+    if (diferentes.size > 1) v.forEach((f) => { f.conflito = true; });
+  }
+}
 
 const ACOES = {
   // ---- fichas de pessoas
@@ -347,6 +442,87 @@ const ACOES = {
     if (ctx.fontes) alteracoes.push(['fontes/fontes.json', ctx.fontes]);
     const ir = esp.rota ? `#/${esp.rota}/${ficha.id}` : ficha.pessoas?.[0] ? `#/pessoa/${ficha.pessoas[0]}` : esp.lista;
     return { alteracoes, resumo: novo ? `${esp.nome} nova: ${titulo}` : `${titulo}: dados corrigidos`, ir };
+  },
+
+  // ---- desambiguação
+  async juntar({ tipo, manter, outra, nota }) {
+    const esp = ESPECIES[tipo];
+    if (!E.por[tipo]?.[outra]) outra = idDoRotulo(tipo, outra); // obras e discos escolhem-se pelo título
+    exigir(esp && manter && outra && manter !== outra, 'Escolha a outra ficha (diferente desta).');
+    const a = await lerFicheiro(`dados/${tipo}/${manter}.json`), b = await lerFicheiro(`dados/${tipo}/${outra}.json`);
+    exigir(!(a.distinta_de || []).some((x) => x.id === outra), `As duas fichas estão marcadas como diferentes («não confundir»). Se afinal são a mesma, retire primeiro essa marca.`);
+    fundir(tipo, a, b);
+    a.juntou.push({ id: outra, [esp.titulo]: b[esp.titulo], ...assinar(texto(nota) ? { nota: texto(nota) } : {}) });
+    // quem apontava para a ficha juntada passa a apontar para esta (a antiga deixa de existir; o endereço reencaminha)
+    const outras = await corrigirReferencias(tipo, outra, manter, new Set([`${tipo}/${manter}`, `${tipo}/${outra}`]));
+    for (const [, f] of outras) if (f.distinta_de) f.distinta_de = f.distinta_de.map((x) => (x.id === outra ? { ...x, id: manter } : x));
+    return { alteracoes: [[`dados/${tipo}/${manter}.json`, a], [`dados/${tipo}/${outra}.json`, null], ...outras],
+      resumo: `${a[esp.titulo]}: juntada a ficha «${b[esp.titulo]}»`, ir: esp.rota ? `#/${esp.rota}/${manter}` : esp.lista };
+  },
+
+  async distintas({ tipo, a: idA, b: idB, nota, retirar }) {
+    const esp = ESPECIES[tipo];
+    if (!E.por[tipo]?.[idB]) idB = idDoRotulo(tipo, idB);
+    exigir(esp && idA && idB && idA !== idB, 'Escolha a outra ficha (diferente desta).');
+    const alteracoes = [];
+    for (const [x, y] of [[idA, idB], [idB, idA]]) {
+      const f = await lerFicheiro(`dados/${tipo}/${x}.json`);
+      f.distinta_de = (f.distinta_de || []).filter((d) => d.id !== y);
+      if (!retirar) f.distinta_de.push({ id: y, ...assinar(texto(nota) ? { nota: texto(nota) } : {}) });
+      if (!f.distinta_de.length) delete f.distinta_de;
+      alteracoes.push([`dados/${tipo}/${x}.json`, f]);
+    }
+    const nome = (id) => E.por[tipo]?.[id]?.[esp.titulo] || id;
+    return { alteracoes, resumo: `${nome(idA)} e ${nome(idB)}: ${retirar ? 'retirada a marca «não confundir»' : 'marcadas como diferentes'}` };
+  },
+
+  /** Separar: o que se escolheu (factos, excertos, relações, fotografias, gravações, interpretações…) passa para outra
+   *  ficha, nova ou já existente; as duas ficam marcadas «não confundir com». */
+  async separar({ tipo, id, destino, nome, outro, itens, nota }) {
+    const esp = ESPECIES[tipo];
+    exigir(['pessoas', 'obras'].includes(tipo), 'Só se separam pessoas e obras.');
+    itens = [].concat(itens || []);
+    exigir(itens.length, 'Escolha o que pertence à outra ficha.');
+    const a = await lerFicheiro(`dados/${tipo}/${id}.json`);
+    let b;
+    if (destino === 'existente') {
+      if (!E.por[tipo]?.[outro]) outro = idDoRotulo(tipo, outro);
+      exigir(E.por[tipo]?.[outro] && outro !== id, 'Escolha a outra ficha na lista.');
+      b = await lerFicheiro(`dados/${tipo}/${outro}.json`);
+    } else {
+      nome = texto(nome) || a[esp.titulo];
+      b = { ...fichaVazia(tipo), [esp.titulo]: nome, estado_revisao: 'rascunho' };
+      b.id = unico(slug(nome).slice(0, 70).replace(/-+$/, ''), (x) => !!E.por[tipo]?.[x]);
+      b.editorial = assinar({ nota: `Separada de «${a[esp.titulo]}»${texto(nota) ? `: ${texto(nota)}` : ''}` });
+      if (tipo === 'pessoas') Object.assign(b, { tipo: a.tipo || 'pessoa' });
+    }
+    const escolhido = new Set(itens);
+    // na própria ficha: listas cujos elementos se movem (por posição, ou pelo endereço nas imagens e referências)
+    const mover = (k, chave) => {
+      if (!a[k]?.length) return;
+      const ficam = [];
+      a[k].forEach((x, i) => (escolhido.has(`${k}:${chave ? chave(x) : i}`) ? (b[k] ||= []).push(x) : ficam.push(x)));
+      a[k] = ficam;
+    };
+    for (const k of ['factos', 'biografia', 'relacoes', 'fontes', 'ligacoes']) mover(k);
+    mover('imagens', (x) => x.url);
+    mover('referencias', (x) => x.url);
+    for (const k of ['musica', 'letra', 'titulos_alternativos', 'nomes_alternativos']) {
+      const vao = (a[k] || []).filter((x) => escolhido.has(`${k}:${x}`));
+      if (vao.length) { b[k] = [...new Set([...(b[k] || []), ...vao])]; a[k] = a[k].filter((x) => !vao.includes(x)); }
+    }
+    if (escolhido.has('letra_texto') && a.letra_texto) { b.letra_texto = a.letra_texto; delete a.letra_texto; }
+    if (tipo === 'pessoas') b.relacoes = semRepetidas(b.relacoes, b.id);
+    // noutras fichas: só as referências escolhidas («gravacoes:<id>», «pessoas:<id>» para relações de outras pessoas…)
+    const outras = await corrigirReferencias(tipo, id, b.id, new Set([`${tipo}/${id}`, `${tipo}/${b.id}`]), (t, x) => escolhido.has(`${t}:${x}`));
+    // e as diferenças passam a estar registadas
+    for (const [x, y] of [[a, b], [b, a]]) {
+      x.distinta_de = (x.distinta_de || []).filter((d) => d.id !== y.id);
+      x.distinta_de.push({ id: y.id, ...assinar(texto(nota) ? { nota: texto(nota) } : {}) });
+    }
+    return { alteracoes: [[`dados/${tipo}/${id}.json`, a], [`dados/${tipo}/${b.id}.json`, b], ...outras],
+      resumo: `${a[esp.titulo]}: ${itens.length} ${itens.length === 1 ? 'elemento passou' : 'elementos passaram'} para «${b[esp.titulo]}»`,
+      ir: `#/${esp.rota}/${b.id}` };
   },
 
   // ---- fontes

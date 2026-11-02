@@ -136,6 +136,9 @@ export async function carregar() {
   E.fontes = {}; E.contribuidores = {}; E.catalogados = new Map();
   for (const k of ['relacoesDe', 'instrumentosDe', 'gravacoesDe', 'obrasDe', 'mediaDe', 'mediaDeObra', 'faixasDeObra', 'blogueDe']) E[k] = {};
   for (const t of Object.keys(E.por)) for (const x of base[t] || []) E.por[t][x.id] = x;
+  // fichas juntadas a outra: o endereço antigo leva à ficha que ficou
+  E.juntadas = {};
+  for (const t of Object.keys(E.por)) for (const x of base[t] || []) for (const j of x.juntou || []) (E.juntadas[t] ||= {})[j.id] = x.id;
   for (const f of base.fontes || []) E.fontes[f.id] = f;
   for (const c of base.contribuidores || []) E.contribuidores[c.id] = c;
   base.blogue ||= [];

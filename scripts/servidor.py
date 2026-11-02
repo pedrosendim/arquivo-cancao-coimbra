@@ -126,10 +126,14 @@ class Pedido(SimpleHTTPRequestHandler):
         from construir import gerar
         from validar import validar
         alteracoes = pedido.get("alteracoes") or []
+        # uma ficha juntada a outra (desambiguação) apaga-se na mesma gravação em que a outra a regista em «juntou»
+        juntadas = {f"dados/{a['caminho'].split('/')[1]}/{j.get('id')}.json" for a in alteracoes if isinstance(a.get("conteudo"), dict)
+                     and str(a.get("caminho", "")).startswith("dados/") for j in a["conteudo"].get("juntou") or []}
         for a in alteracoes:
             if not RE_EDITAVEL.fullmatch(str(a.get("caminho", ""))):
                 return self.json({"erro": f"ficheiro não editável: {a.get('caminho')}"}, 400)
-            if a.get("conteudo") is None and not (a["caminho"].startswith("dados/blogue/") or criada_na_edicao(RAIZ / a["caminho"])):
+            if a.get("conteudo") is None and not (a["caminho"].startswith("dados/blogue/") or a["caminho"] in juntadas
+                                                  or criada_na_edicao(RAIZ / a["caminho"])):
                 return self.json({"erro": "só se apagam textos do blogue e fichas criadas no modo de edição, sem factos"}, 400)
             if a.get("conteudo") is not None and not isinstance(a["conteudo"], dict):
                 return self.json({"erro": "conteúdo inválido"}, 400)

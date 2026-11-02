@@ -7,6 +7,7 @@ import { caixaTopo, formNovaImagem, formNovaRelacao, marcaEditorial } from '../f
 
 import { seccaoMembros } from './grupos.js';
 import { formVida, formFacto, seccaoReferencias, linhaVida, botaoNova } from '../fichas.js';
+import { naoConfundir, seccaoDesambiguar } from '../desambiguar.js';
 import { arvoreFamiliaDe } from './linhagens.js';
 
 const riqueza = (p) => (p.biografia?.length || 0) * 3 + (p.factos?.length || 0) + (p.relacoes?.length || 0) + (p.imagens?.length || 0) * 2;
@@ -67,6 +68,7 @@ export function listaPessoas(el, params) {
 
 export async function pessoa(el, id) {
   const p = E.por.pessoas[id];
+  if (!p && E.juntadas.pessoas?.[id]) { location.replace(`#/pessoa/${E.juntadas.pessoas[id]}`); return; }
   if (!p) { el.innerHTML = '<div class="conteudo"><h1>Pessoa não encontrada</h1></div>'; return; }
   // num grupo, os membros têm secção própria e não se repetem nas relações
   const rels = (E.relacoesDe[id] || []).filter((r) => !(p.tipo === 'grupo' && r.tipo === 'membro_de' && r.sentido === 'inv'));
@@ -92,6 +94,7 @@ export async function pessoa(el, id) {
         <h1>${p.nome}</h1>
         ${anos ? html`<p class="anos">${anos}</p>` : ''}
         ${linhaVida(p)}
+        ${naoConfundir('pessoas', p)}
         ${p.nomes_alternativos?.length ? html`<p class="alt">Também referido/a como: ${p.nomes_alternativos.join('; ')}</p>` : ''}
         ${p.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(p.editorial.por)} em ${fmtData(p.editorial.data)}, sem fonte própria.</p>` : ''}
         ${p.nota_editor && !ed ? html`<p class="alt" title="Decisão de quem edita o arquivo, não de uma fonte">✎ ${dono(p.nota_editor_por) ? 'Nota do editor' : `Nota de ${nomeContribuidor(p.nota_editor_por)}`}: ${p.nota_editor}</p>` : ''}
@@ -150,6 +153,7 @@ export async function pessoa(el, id) {
       ${ed ? formNovaImagem(id) : ''}</section>` : ''}
 
     ${seccaoReferencias(p, `pessoas/${id}`)}
+    ${seccaoDesambiguar('pessoas', p)}
 
     ${textos.length ? html`<section class="seccao"><h2>No blogue do arquivo <small>textos assinados que falam desta ficha</small></h2>
       <ul class="lista-simples">${textos.map((t) => html`<li><span class="mono mudo">${fmtData(t.data, true)}</span>

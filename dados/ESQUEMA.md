@@ -259,6 +259,9 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
 - `referencias[]` = `{ titulo, url, publicacao?, autor?, ano?, editorial }`: artigos e páginas onde a pessoa (ou a obra…) aparece.
   São leituras indicadas, **não fontes**, enquanto não forem citadas num facto.
 - `distinta_de[]` = `{ id, por, data, nota? }`: fichas com o mesmo nome que são de pessoas (ou obras…) diferentes. Fica nas duas.
+- `juntou[]` = `{ id, nome|titulo, por, data, nota? }`: fichas que eram a mesma pessoa (ou obra, ou disco) e foram juntadas a esta
+  no modo de edição («Juntar»). O ficheiro da ficha juntada deixa de existir; tudo o que apontava para ela passa a apontar para esta,
+  e o endereço antigo reencaminha. «Separar» faz o contrário: o que se escolhe passa para outra ficha, e ficam as duas com `distinta_de`.
 - Fonte proposta ao citar: quando um contribuidor cita uma página de um site que ainda não está em `fontes/fontes.json`, o site
   regista-o como fonte `pendente` (com `proposta_por`). A citação fica à vista com «pendente» e o `validar.py` dá só um aviso,
   até um editor aprovar ou rejeitar a fonte.

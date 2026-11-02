@@ -195,6 +195,10 @@ class Validador:
         if x.get("editorial"):  # ficha criada no modo de edição
             self.assinatura(f"{onde}.editorial", x["editorial"])
         self.referencias(onde, x.get("referencias"))
+        for k, j in enumerate(x.get("juntou") or []):  # ficha juntada a esta: o ficheiro dela já não existe
+            if j.get("id") in ent[tipo]:
+                self.erros.append(f"{onde}.juntou[{k}]: a ficha juntada '{j.get('id')}' ainda existe")
+            self.assinatura(f"{onde}.juntou[{k}]", j)
         for k, d in enumerate(x.get("distinta_de") or []):
             if d.get("id") not in ent[tipo]:
                 self.erros.append(f"{onde}.distinta_de[{k}]: ficha inexistente '{d.get('id')}'")
@@ -334,8 +338,9 @@ def validar():
         if post.get("estado") not in ("rascunho", "publicado"):
             v.erros.append(f"{o}: estado '{post.get('estado')}' (rascunho ou publicado)")
         v.contribuidor(f"{o}.autor", post.get("autor"))
+        juntadas = {j.get("id") for t in ("pessoas", "obras", "gravacoes", "instrumentos") for x in ent[t].values() for j in x.get("juntou") or []}
         for m in mencoes(post.get("texto")):
-            if not any(m in ent[t] for t in ("pessoas", "obras", "gravacoes", "instrumentos")):
+            if m not in juntadas and not any(m in ent[t] for t in ("pessoas", "obras", "gravacoes", "instrumentos")):
                 v.erros.append(f"{o}: liga a uma ficha inexistente '{m}'")
 
     return ent, v
