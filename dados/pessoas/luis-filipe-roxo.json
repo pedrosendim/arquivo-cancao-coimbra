@@ -4,9 +4,7 @@
   "nome": "Luís Filipe Roxo",
   "nomes_alternativos": [
     "Luís Filipe Roxo Ferreira",
-    "Luís Filipe",
-    "Luís Filipe Rôxo",
-    "Luis Filipe Roxo"
+    "Luís Filipe"
   ],
   "papeis": [
     "luthier",
@@ -333,6 +331,38 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "raizes-de-coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/antigos-tunos-na-mealhada-no-passado.html",
+          "doc": "gc-i:5494792900334158352",
+          "citacao": "Antigos Tunos na Mealhada, no passado sábado. Grupo \"Raízes de Coimbra\", com Alcides Freixo (g), Octávio Sérgio (g), Luís Filipe (v), Mário Rovira e Heitor Lopes na voz."
+        }
+      ],
+      "nota": "viola; 2007"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-brojo-e-portugal-espectculo.html",
+          "doc": "gc-i:115680851220862521",
+          "citacao": "Aparecem na fotografia Aurélio Reis (v), António Pinho de Brojo (g), Rui Pato (v), Augusto Camacho Vieira (voz), António Portugal (g) e Luís Filpe (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/grupo-brojoportugal-filmagens-no.html",
+          "doc": "gc-i:114448817903250166",
+          "citacao": "vendo-se António Portugal (g), Augusto Camacho (de pé), Aurélio Reis (v), António Brojo (g) e Luís Filipe (v)."
+        }
+      ],
+      "nota": "viola"
     }
   ],
   "imagens": [
@@ -383,5 +413,13 @@
       "url": "https://arquivos.rtp.pt/conteudos/movimento-parte-ii-30/"
     }
   ],
-  "estado_revisao": "rascunho"
+  "estado_revisao": "rascunho",
+  "juntou": [
+    {
+      "id": "luis-filipe",
+      "nome": "Luís Filipe",
+      "por": "editor-do-arquivo",
+      "data": "2026-11-02"
+    }
+  ]
 }
