@@ -82,7 +82,7 @@ Configuração da Cloudflare (Workers & Pages › Worker `arquivo-cancao-coimbra
 - Build command `python3 scripts/construir.py`, Deploy command `npx wrangler deploy`;
 - segredos (tipo «Secret») `GITHUB_CLIENT_ID` e `GITHUB_CLIENT_SECRET` (aplicação OAuth do GitHub, com o endereço de
   regresso `<endereço do site>/api/entrar/github`) e `GITHUB_TOKEN` (token *fine-grained* do dono, só para este
-  repositório: Contents e Pull requests em leitura e escrita, Checks em leitura). O token expira: quando o renovar,
+  repositório: Contents e Pull requests em leitura e escrita; a validação lê-se sem permissão porque o repositório é público). O token expira: quando o renovar,
   substitua o segredo.
 
 ## Direitos

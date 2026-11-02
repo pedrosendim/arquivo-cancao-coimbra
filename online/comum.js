@@ -69,7 +69,7 @@ export async function gh(env, caminho, opcoes = {}) {
     const texto = (await r.text()).slice(0, 300);
     const erro = new Error(/not accessible by personal access token/i.test(texto)
       // o token do site (segredo GITHUB_TOKEN) não tem uma das permissões: diz-se qual é o problema em vez da resposta crua
-      ? 'o token do site não tem permissão para isto. No GitHub, edite o token e confirme: Contents e Pull requests em «Read and write», Checks em «Read-only»'
+      ? 'o token do site não tem permissão para isto. No GitHub, edite o token e confirme: Contents e Pull requests em «Read and write»'
       : `GitHub respondeu ${r.status}: ${texto}`);
     erro.estado = r.status;
     throw erro;
