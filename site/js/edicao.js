@@ -2,7 +2,7 @@
 // revisão, fontes, blogue). Cada ação lê o ficheiro original de dados/, altera-o e envia-o para gravar.
 // Na cópia local o servidor grava, valida e reconstrói o site; online, a mesma alteração seguirá como
 // proposta, que um editor aprova. Nada aqui é fonte: tudo fica assinado (quem, quando, porquê) e à vista.
-import { E, carregar, REL, nomeDe } from './estado.js';
+import { E, carregar, juntarPendentes, REL, nomeDe } from './estado.js';
 import { $, api, aviso, guardar, ler } from './util.js';
 
 export const sessao = () => E.sessao?.contribuidor || null;
@@ -250,7 +250,7 @@ export async function executar(nome, dados) {
   exigir(sessao(), 'Precisa de entrar como contribuidor.');
   exigir(ACOES[nome], `Ação desconhecida: ${nome}`);
   const { alteracoes, resumo, ir } = await ACOES[nome](dados);
-  return { ir, resposta: await gravar(alteracoes, resumo) };
+  return { ir, alteracoes, resposta: await gravar(alteracoes, resumo) };
 }
 
 /** Campos de um formulário; caixas com o mesmo nome terminado em [] dão uma lista. */
@@ -295,21 +295,20 @@ export function iniciarEdicao(redesenhar) {
     if (el.tagName === 'BUTTON') el.disabled = true;
     aviso('A gravar…');
     try {
-      const { ir, resposta } = await executar(nome, dados);
-      if (online()) { // o site publicado só muda quando a Cloudflare voltar a construí-lo
+      const { ir, alteracoes, resposta } = await executar(nome, dados);
+      if (online() && !resposta.publicado) { // proposta de um contribuidor: espera pela aprovação de um editor
         el.removeAttribute('aria-busy');
         el.querySelectorAll?.('button').forEach((b) => { b.disabled = false; });
         if (el.tagName === 'BUTTON') el.disabled = false;
-        if (resposta.publicado) alert('Gravado e aprovado. O site atualiza-se dentro de 1 a 2 minutos (recarregue a página).');
-        else {
-          alert('Proposta enviada. Um editor vai revê-la; depois de aprovada, aparece no site com o seu nome.');
-          location.hash = '#/propostas';
-        }
+        alert('Proposta enviada. Um editor vai revê-la; depois de aprovada, aparece no site com o seu nome.');
+        location.hash = '#/propostas';
         return;
       }
+      // online, o site publicado só muda quando a Cloudflare o reconstruir; quem gravou vê já a alteração (estado.js)
+      if (online()) juntarPendentes(alteracoes, resposta.em || new Date().toISOString());
       await carregar();
       desenhar();
-      aviso('Gravado');
+      aviso(online() ? 'Gravado. Os outros visitantes veem a alteração dentro de 1 a 2 minutos.' : 'Gravado');
       if (ir && ir !== location.hash) location.hash = ir; else await redesenhar();
     } catch (e) {
       alert(`Não foi gravado: ${e.message}${e.erros?.length ? '\n\n' + e.erros.join('\n') : ''}`);

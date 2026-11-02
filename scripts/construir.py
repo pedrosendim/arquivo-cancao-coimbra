@@ -3,10 +3,11 @@
 Uso:  python scripts/construir.py [--forcar]
 """
 import json
+import subprocess
 import sys
 from datetime import datetime, timezone
 
-from comum import ARQUIVO, DADOS, FONTES, SITE_DADOS, classificar_url, escrever_json, ler_json
+from comum import ARQUIVO, DADOS, FONTES, RAIZ, SITE_DADOS, classificar_url, escrever_json, ler_json
 from validar import TIPOS, VERIFICACAO, carregar_blogue, mencoes, validar
 
 # estado dos media catalogados (verificar_media.py); a cópia em dados/ serve à publicação online, sem o arquivo
@@ -21,6 +22,16 @@ def main():
         if "--forcar" not in sys.argv:
             sys.exit(f"\n{len(v.erros)} erros: corrija-os (ou use --forcar) antes de construir o site.")
     gerar(ent, v)
+
+
+def versao_em():
+    """Hora do último commit, o que esta construção publica. O site online compara-a com a hora das alterações
+    gravadas por quem está a editar, para saber se a versão publicada já as tem."""
+    try:
+        r = subprocess.run(["git", "log", "-1", "--format=%cI"], cwd=RAIZ, capture_output=True, text=True, timeout=10)
+        return r.stdout.strip() or None
+    except (OSError, subprocess.SubprocessError):
+        return None
 
 
 def gerar(ent, v):
@@ -76,6 +87,7 @@ def gerar(ent, v):
 
     base = {
         "gerado_em": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "versao_em": versao_em(),
         "fontes": fontes,
         **{t: sorted(ent[t].values(), key=lambda d: d.get("nome") or d.get("titulo") or d.get("designacao") or d["id"])
            for t in TIPOS},

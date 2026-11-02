@@ -19,7 +19,6 @@
 [data-estilo="museu"] table.factos th, [data-estilo="museu"] .quando, [data-estilo="museu"] .botao, [data-estilo="museu"] .ficha {
   font-family: var(--f-mono); }
 [data-estilo="museu"] .sobretitulo { color: var(--texto-3); letter-spacing: .06em; }
-[data-estilo="museu"] .sobretitulo::before { content: "N.º 01 — "; color: var(--ouro); }
 [data-estilo="museu"] .conteudo { counter-reset: seccao; }
 [data-estilo="museu"] .seccao > h2 { border-bottom: 0; border-top: 1px solid var(--linha-forte); padding: 12px 0 0; counter-increment: seccao; }
 [data-estilo="museu"] .seccao > h2::before { content: counter(seccao, decimal-leading-zero); font: 500 12px var(--f-mono); color: var(--ouro); margin-right: 14px; align-self: center; }

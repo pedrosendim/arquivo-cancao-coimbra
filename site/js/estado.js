@@ -1,5 +1,5 @@
 // Carrega site/dados/base.json e constrói índices cruzados entre entidades.
-import { api, norm, classificar, preferencias } from './util.js';
+import { api, norm, classificar, preferencias, ler, guardar } from './util.js';
 
 const chaveDe = (url) => { const c = classificar(url); return c ? `${c.plataforma}|${c.chave}` : null; };
 /** Um media catalogado nas fichas que corresponde a esta plataforma+chave, se existir. */
@@ -47,6 +47,77 @@ export const E = {
 const junta = (mapa, chave, valor) => { if (chave) (mapa[chave] ||= []).push(valor); };
 
 /** Lê base.json e (re)constrói todos os índices; volta a correr depois de cada gravação do modo de edição. */
+// ------------------------------------------------------------------ alterações à espera de publicação
+// Online, o que um editor grava entra logo no repositório, mas o site publicado só muda quando a Cloudflare o volta
+// a construir (1 a 2 minutos). Entretanto, neste browser, as alterações aplicam-se por cima do base.json; saem
+// quando chega uma versão do site feita a partir de um commit igual ou posterior (versao_em, de construir.py).
+
+const PENDENTES = 'alteracoesPendentes';
+const VALIDADE = 20 * 60 * 1000; // nunca mais de 20 minutos, mesmo que a construção falhe
+
+export function juntarPendentes(alteracoes, em) {
+  guardar(PENDENTES, ler(PENDENTES, []).concat(alteracoes.map(([caminho, conteudo]) => ({ caminho, conteudo, em }))));
+}
+
+const chaveOrdem = (d) => d.nome || d.titulo || d.designacao || d.id;
+
+/** O que o construir.py acrescenta às fichas: citações verificadas, imagens escondidas à parte, estado dos vídeos. */
+function comoNoSite(tipo, novo, antigo) {
+  const verificadas = new Set();
+  const chave = (c) => `${c.fonte}|${c.url}|${(c.citacao || '').trim()}`;
+  const percorrer = (x, f) => {
+    if (Array.isArray(x)) x.forEach((y) => percorrer(y, f));
+    else if (x && typeof x === 'object') { if ('citacao' in x && 'fonte' in x) f(x); Object.values(x).forEach((y) => percorrer(y, f)); }
+  };
+  if (antigo) percorrer(antigo, (c) => { if (c.verificada) verificadas.add(chave(c)); });
+  percorrer(novo, (c) => { c.verificada = verificadas.has(chave(c)); });
+  if ((tipo === 'pessoas' || tipo === 'instrumentos') && (novo.imagens || []).some((im) => im.oculta)) {
+    novo.imagens_ocultas = novo.imagens.filter((im) => im.oculta);
+    novo.imagens = novo.imagens.filter((im) => !im.oculta);
+  }
+  if (tipo === 'media' && antigo) {
+    if ('disponivel' in antigo) novo.disponivel = antigo.disponivel;
+    if (antigo.miniatura && !novo.miniatura) novo.miniatura = antigo.miniatura;
+  }
+  if (tipo === 'blogue') {
+    const tipoDe = (id) => ['pessoas', 'obras', 'gravacoes', 'instrumentos'].find((t) => E.base[t]?.some((d) => d.id === id));
+    const ids = [...(novo.texto || '').matchAll(/\[\[([a-z0-9]+(?:-[a-z0-9]+)*)(?:\|[^\]]*)?\]\]|\]\(#\/(?:pessoa|obra|gravacao|instrumento)\/([a-z0-9-]+)\)/g)]
+      .map((m) => m[1] || m[2]);
+    novo.mencoes = [...new Set(ids)].map((id) => ({ tipo: tipoDe(id), id })).filter((m) => m.tipo);
+  }
+  return novo;
+}
+
+function aplicar(base, { caminho, conteudo }) {
+  if (caminho === 'fontes/fontes.json') {
+    const n = Object.fromEntries((base.fontes || []).map((f) => [f.id, f.n_citacoes || 0]));
+    base.fontes = conteudo.fontes.map((f) => ({ ...f, n_citacoes: n[f.id] || 0 }));
+    return;
+  }
+  if (caminho === 'dados/contribuidores.json') { base.contribuidores = conteudo.contribuidores; return; }
+  const m = caminho.match(/^dados\/(pessoas|instrumentos|gravacoes|obras|media|blogue)\/([a-z0-9-]+)\.json$/);
+  if (!m) return;
+  const [, tipo, id] = m;
+  const lista = (base[tipo] ||= []);
+  const i = lista.findIndex((d) => d.id === id);
+  if (conteudo === null) { if (i >= 0) lista.splice(i, 1); return; }
+  const novo = comoNoSite(tipo, structuredClone(conteudo), i >= 0 ? lista[i] : null);
+  if (i >= 0) lista[i] = novo;
+  else {
+    lista.push(novo);
+    if (tipo !== 'blogue') lista.sort((a, b) => (chaveOrdem(a) < chaveOrdem(b) ? -1 : chaveOrdem(a) > chaveOrdem(b) ? 1 : 0));
+  }
+}
+
+function aplicarPendentes(base) {
+  const versao = Date.parse(base.versao_em || base.gerado_em || 0) || 0;
+  const pendentes = ler(PENDENTES, []).filter((p) => Date.parse(p.em) > versao && Date.now() - Date.parse(p.em) < VALIDADE);
+  guardar(PENDENTES, pendentes);
+  E.base = base; // para as menções do blogue
+  for (const p of pendentes) aplicar(base, p);
+  return pendentes.length;
+}
+
 export async function carregar() {
   let base;
   try {
@@ -54,6 +125,7 @@ export async function carregar() {
     base = r.ok ? await r.json() : null;
   } catch { base = null; }
   base ||= { fontes: [], pessoas: [], instrumentos: [], gravacoes: [], obras: [], media: [] };
+  E.aPublicar = aplicarPendentes(base);
   E.base = base;
   E.vazio = !['pessoas', 'instrumentos', 'gravacoes', 'obras', 'media'].some((t) => base[t]?.length);
   E.por = { pessoas: {}, instrumentos: {}, gravacoes: {}, obras: {}, media: {} };
