@@ -65,7 +65,22 @@
       "nota": "voz; 2023 (o artigo separa o nome em «Pedro Nascimento» e «Novais Miranda»)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://scontent.flis12-1.fna.fbcdn.net/v/t39.30808-6/758929701_4142888579188097_1412426783455453536_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx744x744&ctp=s744x744&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Mhmq57MsjiAQ7kNvwEQcGyr&_nc_oc=AdoAUbGv9edwWVolThwkihhLwdQMx9Qmtef4LsYD6AF6N5wFGur9LilnuM5TraaFu87Z5DZnk3in1z9MCmLg_ZZu&_nc_zt=23&_nc_ht=scontent.flis12-1.fna&_nc_gid=Pki3Rz4uSQz5eX21ApJdBA&_nc_ss=7b2a8&oh=00_AQR-aAaTFOjZT6NeGLtdBINXIZcuIXZuA7waeAIJ2pK-hg&oe=6AEDAF6D",
+      "legenda": "Pedro Sendim Miranda com a Estudantina Universitária de Coimbra, no Jardim da Sereia",
+      "fontes": [],
+      "editorial": {
+        "por": "editor-do-arquivo",
+        "data": "2026-11-02",
+        "origem": "https://www.facebook.com/photo/?fbid=4142888572521431&set=a.110491585761170"
+      },
+      "escolhida": {
+        "por": "editor-do-arquivo",
+        "data": "2026-11-02"
+      }
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho",
   "nota_editor": "Identificação e nome completo indicados pelo editor do arquivo (29-10-2026). É conhecido como «Pedro Sendim Miranda», de alcunha «Chibante». Segundo o editor do arquivo, além do Grupo de Fado d'Anto, já tocou com Luís Barroso, Ni Ferreirinha e Francisco Costa na ilha do Pico (ainda sem fonte arquivada).",
