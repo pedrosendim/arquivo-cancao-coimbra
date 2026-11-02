@@ -2,6 +2,8 @@
 import { E, PAPEIS, vida, iniciais } from '../estado.js';
 import { $, html, raw, esc, norm, debounce, definirParams, miniatura } from '../util.js';
 import { retrato, vazioCurado } from '../componentes.js';
+import { editando } from '../edicao.js';
+import { botaoNova } from '../fichas.js';
 
 /** Membros de um grupo: quem tem `membro_de` a apontar para ele. */
 export const membrosDe = (id) => (E.relacoesDe[id] || []).filter((r) => r.tipo === 'membro_de' && r.sentido === 'inv');
@@ -22,7 +24,8 @@ export function grupos(el, params) {
   let q = params.q || '';
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Grupos</h1>
-      <p class="lead">Grupos de fado, quintetos, trios e conjuntos — com as formações que as fontes documentam.</p></header>
+      <p class="lead">Grupos de fado, quintetos, trios e conjuntos — com as formações que as fontes documentam.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('pessoas', true)}</p>` : ''}</header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Grupo ou membro" value="${q}"></div>
     <div class="grelha larga" id="grelha"></div></div>`.s;
   const desenhar = () => {

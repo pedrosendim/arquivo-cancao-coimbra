@@ -1,7 +1,7 @@
 // /api/gravar: o que se altera no modo de edição vai para o repositório como proposta (pull request).
 // A proposta de um contribuidor espera por um editor; a de um editor ou do dono é aprovada logo.
 // Em ambos os casos o GitHub corre o validar.py e a Cloudflare só publica se a validação passar.
-import { APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, mesmaOrigem, repositorio, textoJson } from '../comum.js';
+import { ADMINS, APROVAM, RE_EDITAVEL, exigirContribuidor, gh, json, lerFicheiro, mesmaOrigem, repositorio, textoJson } from '../comum.js';
 
 export async function onRequestPost({ request, env }) {
   if (!mesmaOrigem(request)) return json({ erro: 'pedido recusado: só o próprio site pode gravar' }, 403);
@@ -13,9 +13,15 @@ export async function onRequestPost({ request, env }) {
 
   for (const a of alteracoes) {
     if (!RE_EDITAVEL.test(String(a.caminho))) return json({ erro: `ficheiro não editável: ${a.caminho}` }, 400);
-    if (a.caminho === 'dados/contribuidores.json' && c.papel !== 'dono') return json({ erro: 'só o dono do arquivo gere os contribuidores' }, 403);
+    if (a.caminho === 'dados/contribuidores.json') {
+      if (!ADMINS.includes(c.papel)) return json({ erro: 'só os administradores gerem os contribuidores' }, 403);
+      if (c.papel !== 'dono') { // o fundador do arquivo só ele próprio o muda
+        const fundador = (reg) => JSON.stringify((reg?.contribuidores || []).filter((x) => x.papel === 'dono'));
+        if (fundador(await lerFicheiro(env, a.caminho)) !== fundador(a.conteudo)) return json({ erro: 'os dados do fundador do arquivo só ele os pode mudar' }, 403);
+      }
+    }
     if (a.conteudo === null) { // só se apagam textos do blogue e fichas criadas no modo de edição, ainda sem factos
-      const atual = a.caminho.startsWith('dados/pessoas/') ? await lerFicheiro(env, a.caminho) : null;
+      const atual = /^dados\/(pessoas|obras|gravacoes|instrumentos|media)\//.test(a.caminho) ? await lerFicheiro(env, a.caminho) : null;
       if (!a.caminho.startsWith('dados/blogue/') && !(atual?.editorial && !atual.factos?.length && !atual.biografia?.length)) {
         return json({ erro: 'só se apagam textos do blogue e fichas criadas no modo de edição, sem factos' }, 400);
       }

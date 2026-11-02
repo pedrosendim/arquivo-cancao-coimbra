@@ -240,9 +240,10 @@ O que um contribuidor sabe sem fonte entra **assinado** e marcado com ✎. Fica 
 ```
 
 Os papéis:
-- `dono`: há sempre um. Convida pessoas e muda papéis.
-- `editor`: aprova fontes e propostas e marca fichas como `revisto`.
-- `contribuidor`: propõe.
+- `dono`: o fundador (administrador). Há sempre um, e só ele muda os próprios dados e papel.
+- `administrador`: convida pessoas e muda papéis (menos o do fundador); aprova como os editores.
+- `editor`: aprova fontes e propostas e marca fichas como `revisto`. O que grava entra logo.
+- `contribuidor`: propõe (cria e corrige fichas, acrescenta factos, fontes, fotografias, relações); um editor aprova.
 - `antigo`: deixou de ter acesso, mas os contributos ficam com o seu nome.
 
 ### Assinatura
@@ -251,7 +252,16 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
 
 - `relacoes[].editorial`: relação indicada por um contribuidor. Leva `"fontes": []`.
 - `fontes[].acrescentada`: citação acrescentada por um contribuidor, que escolheu uma fonte aprovada e copiou a frase. Pode ter `referencia` (por exemplo «p. 45»). Se a página estiver arquivada, a citação é verificada como as outras; se não estiver, fica «não verificada».
-- `editorial` no topo de uma ficha de pessoa: ficha criada no modo de edição, a partir de uma relação. Só se pode apagar enquanto não tiver factos.
+- `editorial` no topo de uma ficha (de qualquer tipo): ficha criada no modo de edição. Só se pode apagar enquanto não tiver factos.
+- `factos[].editorial`: **testemunho** de um contribuidor (o que sabe sem fonte), com `nota` a dizer como sabe. Leva `"fontes": []`.
+  Nascimento e morte entram como factos (`campo`, `valor`, `data`, `local`); uma versão diferente de outra já registada fica com
+  `"conflito": true` nas duas.
+- `referencias[]` = `{ titulo, url, publicacao?, autor?, ano?, editorial }`: artigos e páginas onde a pessoa (ou a obra…) aparece.
+  São leituras indicadas, **não fontes**, enquanto não forem citadas num facto.
+- `distinta_de[]` = `{ id, por, data, nota? }`: fichas com o mesmo nome que são de pessoas (ou obras…) diferentes. Fica nas duas.
+- Fonte proposta ao citar: quando um contribuidor cita uma página de um site que ainda não está em `fontes/fontes.json`, o site
+  regista-o como fonte `pendente` (com `proposta_por`). A citação fica à vista com «pendente» e o `validar.py` dá só um aviso,
+  até um editor aprovar ou rejeitar a fonte.
 - `imagens[].editorial`: fotografia acrescentada. Leva `origem`, a página onde a fotografia está publicada.
 - `imagens[].escolhida`: quem escolheu esta imagem para retrato. O retrato é sempre a primeira imagem da lista.
 - `imagens[].oculta`: imagem escondida, por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro.
@@ -273,5 +283,8 @@ O `texto` usa marcas simples: `## Título`, `**negrito**`, `*itálico*`, `- list
 - Uma assinatura, uma nota editorial ou um texto do blogue **nunca é fonte**. Não se cita e não serve para deduzir factos.
 - O agente não cria assinaturas em nome de ninguém e não altera nem apaga contribuições assinadas. Também não volta a mostrar imagens escondidas.
 - Se uma fonte aprovada confirmar mais tarde uma relação indicada por um contribuidor, acrescenta-se a citação em `fontes` e mantém-se o `editorial`.
+- Fichas marcadas com `distinta_de` nunca se juntam: são pessoas (ou obras) diferentes com o mesmo nome. Ao investigar uma delas,
+  confirmar a qual pertence cada excerto antes de o acrescentar.
+- Um testemunho (`factos[].editorial`) nunca se cita nem se usa para deduzir; uma fonte pendente não se usa até ser aprovada.
 - O `validar.py` recusa assinaturas de contribuidores inexistentes, datas mal escritas, fotografias sem `origem` e ligações do blogue a fichas inexistentes.
 - O servidor local (`/api/gravar`) só aceita escritas do próprio site neste computador. Valida antes de gravar e repõe os ficheiros se a alteração criar erros.

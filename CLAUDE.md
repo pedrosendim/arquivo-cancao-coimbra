@@ -7,7 +7,7 @@ Comunicar com o utilizador em **português europeu**.
 ## Princípios (não negociáveis)
 
 - **Não produzir informação nova.** O site só arruma o que as fontes dizem. Nada de resumos escritos pela IA, deduções ou conhecimento próprio do modelo.
-- **Só fontes aprovadas** (`fontes/fontes.json`, estado `aprovada`) pelo utilizador (o dono do arquivo) ou por um editor que ele convidou (`dados/contribuidores.json`). Fontes novas são *propostas* (`scripts/fontes.py propor`). A IA nunca aprova.
+- **Só fontes aprovadas** (`fontes/fontes.json`, estado `aprovada`) pelo utilizador (o fundador do arquivo), por um administrador ou por um editor (`dados/contribuidores.json`). Fontes novas são *propostas* (`scripts/fontes.py propor`; um contribuidor que cita um site novo também o propõe, e a citação fica «pendente» até à decisão). A IA nunca aprova.
 - **Cada afirmação tem citação literal** verificável no arquivo local; o `scripts/validar.py` tem de passar sem erros.
 - **Divergências entre fontes ficam visíveis** (`"conflito": true`), sem escolher versão.
 - Fichas escritas pela IA ficam `"estado_revisao": "rascunho"`; só o dono ou um editor marcam `revisto`.
@@ -21,7 +21,7 @@ Comunicar com o utilizador em **português europeu**.
 fontes/fontes.json     registo de fontes (aprovada | pendente | rejeitada)
 arquivo/               cópia local das fontes (blogger/, web/) + indice.sqlite. Privado: não publicar.
 dados/<tipo>/<id>.json fichas curadas: pessoas, instrumentos, gravacoes, obras, media (ver dados/ESQUEMA.md)
-dados/contribuidores.json  contribuidores convidados (dono | editor | contribuidor | antigo)
+dados/contribuidores.json  contribuidores convidados (dono = fundador | administrador | editor | contribuidor | antigo)
 dados/blogue/<id>.json textos assinados do blogue (não são fonte)
 scripts/               recolha, índice, pesquisa, validação, construção, servidor (só biblioteca padrão do Python)
 site/                  site estático (HTML/CSS/JS sem build); site/dados/base.json é gerado

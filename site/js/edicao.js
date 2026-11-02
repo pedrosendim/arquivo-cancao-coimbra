@@ -1,14 +1,18 @@
-// Modo de edição: contribuições assinadas de quem o dono do arquivo convidou (fotografias, notas, famílias,
-// revisão, fontes, blogue). Cada ação lê o ficheiro original de dados/, altera-o e envia-o para gravar.
+// Modo de edição: contribuições assinadas de quem os administradores do arquivo convidaram (fichas novas, dados,
+// nascimento e morte, factos, referências, fotografias, notas, famílias, revisão, fontes, blogue). Cada ação lê o
+// ficheiro original de dados/, altera-o e envia-o para gravar.
 // Na cópia local o servidor grava, valida e reconstrói o site; online, a mesma alteração seguirá como
 // proposta, que um editor aprova. Nada aqui é fonte: tudo fica assinado (quem, quando, porquê) e à vista.
-import { E, carregar, juntarPendentes, REL, nomeDe } from './estado.js';
-import { $, api, aviso, guardar, ler } from './util.js';
+import { E, carregar, juntarPendentes, REL, CAMPOS, nomeDe } from './estado.js';
+import { $, api, aviso, guardar, ler, fmtData, norm, classificar } from './util.js';
+import { ESPECIES, lerCampos, fichaVazia } from './fichas.js';
 
 export const sessao = () => E.sessao?.contribuidor || null;
 export const editando = () => !!sessao() && E.editando;
-export const podeAprovar = () => ['dono', 'editor'].includes(sessao()?.papel);
-export const eDono = () => sessao()?.papel === 'dono';
+// papéis: o fundador («dono») e os administradores gerem os contribuidores; com os editores, aprovam; os contribuidores propõem
+export const ADMINS = ['dono', 'administrador'];
+export const eAdmin = () => ADMINS.includes(sessao()?.papel);
+export const podeAprovar = () => [...ADMINS, 'editor'].includes(sessao()?.papel);
 export const hoje = () => new Date().toLocaleDateString('sv-SE'); // AAAA-MM-DD na hora local
 const assinar = (extra = {}) => ({ por: sessao().id, data: hoje(), ...extra });
 
@@ -21,12 +25,33 @@ const lerFicheiro = async (caminho) => (await api('dados', { caminho })).conteud
 const fichaPessoa = (id) => `dados/pessoas/${id}.json`;
 const urlValida = (u) => /^https?:\/\/\S+$/.test(u || '');
 const exigir = (cond, msg) => { if (!cond) throw new Error(msg); };
+const texto = (v) => String(v ?? '').trim();
 
-async function comPessoa(id, alterar) {
-  const caminho = fichaPessoa(id);
-  const p = await lerFicheiro(caminho);
-  const resumo = alterar(p);
-  return { alteracoes: [[caminho, p]], resumo: `${p.nome}: ${resumo}` };
+/** Altera uma ficha («pessoas/<id>», «obras/<id>»…). `alterar` recebe a ficha e um contexto onde as fontes novas
+ *  (propostas ao citar um site que ainda não é fonte) se juntam, para irem na mesma gravação. */
+async function comFicha(alvo, alterar) {
+  const [tipo, id] = String(alvo || '').split('/');
+  exigir(ESPECIES[tipo] && id, 'Ficha desconhecida.');
+  const caminho = `dados/${tipo}/${id}.json`;
+  const f = await lerFicheiro(caminho);
+  const ctx = {};
+  const resumo = await alterar(f, ctx);
+  const alteracoes = [[caminho, f]];
+  if (ctx.fontes) alteracoes.push(['fontes/fontes.json', ctx.fontes]);
+  return { alteracoes, resumo: `${f[ESPECIES[tipo].titulo] || id}: ${resumo}` };
+}
+const comPessoa = (id, alterar) => comFicha(`pessoas/${id}`, alterar);
+
+/** AAAA, AAAA-MM ou AAAA-MM-DD a partir dos campos dia, mês e ano (vazio se não houver ano). */
+function dataDe(d) {
+  const ano = texto(d.ano), mes = texto(d.mes), dia = texto(d.dia);
+  if (!ano) { exigir(!mes && !dia, 'Falta o ano.'); return ''; }
+  exigir(/^\d{4}$/.test(ano), 'O ano escreve-se com quatro algarismos (ex.: 1925).');
+  if (!mes) { exigir(!dia, 'Escolha também o mês.'); return ano; }
+  const m = mes.padStart(2, '0');
+  if (!dia) return `${ano}-${m}`;
+  exigir(/^\d{1,2}$/.test(dia) && +dia >= 1 && +dia <= 31, 'O dia vai de 1 a 31.');
+  return `${ano}-${m}-${dia.padStart(2, '0')}`;
 }
 
 function imagemDe(p, url) {
@@ -35,19 +60,76 @@ function imagemDe(p, url) {
   return im;
 }
 
-/** A prova de uma afirmação: uma fonte aprovada com a frase copiada à letra, ou a assinatura de quem o sabe. */
-function prova({ como, fonte, fonte_url, citacao, referencia, nota }) {
-  nota = String(nota || '').trim();
-  if (como !== 'fonte') return { fontes: [], nota: '', editorial: assinar(nota ? { nota } : {}) };
-  const f = E.fontes[fonte];
-  exigir(f?.estado === 'aprovada', 'Escolha uma fonte aprovada (ou proponha-a primeiro em Fontes e método).');
-  citacao = String(citacao || '').trim();
-  exigir(citacao, 'Copie à letra a frase da fonte que o diz: é a prova.');
-  const url = String(fonte_url || '').trim() || f.url;
-  exigir(urlValida(url), 'O endereço da página tem de começar por https://');
-  referencia = String(referencia || '').trim();
-  return { fontes: [{ fonte, url, citacao, ...(referencia ? { referencia } : {}), acrescentada: assinar() }], nota };
+const semProtocolo = (u) => String(u || '').replace(/^https?:\/\/(www\.)?/i, '').replace(/\/+$/, '').toLowerCase();
+
+/** A fonte registada a que pertence um endereço: a de endereço mais comprido que seja o início dele; senão, a do
+ *  mesmo site. */
+function fonteDoEndereco(fontes, url) {
+  const u = semProtocolo(url), site = u.split('/')[0];
+  const prefixo = fontes.filter((f) => f.url && u.startsWith(semProtocolo(f.url)))
+    .sort((a, b) => semProtocolo(b.url).length - semProtocolo(a.url).length)[0];
+  return prefixo || fontes.find((f) => f.url && semProtocolo(f.url).split('/')[0] === site) || null;
 }
+
+/** Um site que ainda não é fonte do arquivo fica proposto (pendente) na mesma gravação; um editor aprova-o. */
+async function proporFonteDe(url, ctx, uso) {
+  ctx.fontes ||= await lerFicheiro('fontes/fontes.json');
+  const ja = fonteDoEndereco(ctx.fontes.fontes, url);
+  if (ja) return ja;
+  const origem = new URL(url), site = origem.hostname.replace(/^www\./, '');
+  const id = unico(slug(site).slice(0, 40).replace(/-+$/, ''), (x) => ctx.fontes.fontes.some((f) => f.id === x));
+  const f = { id, nome: site, tipo: 'site', url: `${origem.protocol}//${origem.hostname}`, autor: '', estado: 'pendente', decidido_em: null,
+    uso: [...new Set(['factos', uso])], recolha: { metodo: 'manual' }, notas: `Proposta ao citar ${url}`, proposta_por: sessao().id, proposta_em: hoje() };
+  ctx.fontes.fontes.push(f);
+  return f;
+}
+
+/** A prova de uma afirmação: o endereço da página (ou uma fonte da lista) com a frase copiada à letra, ou o testemunho
+ *  assinado de quem o sabe. Se o site ainda não for fonte do arquivo, fica proposto e a citação mostra «fonte pendente». */
+async function prova(d, ctx, uso = 'factos') {
+  const nota = texto(d.nota_testemunho || d.nota);
+  if (d.como !== 'fonte') return { fontes: [], nota: '', editorial: assinar(nota ? { nota } : {}) };
+  const citacao = texto(d.citacao), url = texto(d.fonte_url);
+  exigir(citacao, 'Copie à letra a frase da fonte que o diz: é a prova.');
+  exigir(!url || urlValida(url), 'O endereço da página tem de começar por https://');
+  let f = d.fonte ? E.fontes[d.fonte] : url ? fonteDoEndereco(E.base.fontes, url) : null;
+  exigir(url || f, 'Indique o endereço da página onde está escrito (ou, se for um livro ou disco, escolha a fonte na lista).');
+  if (!f) f = await proporFonteDe(url, ctx, uso);
+  exigir(f.estado !== 'rejeitada', `A fonte «${f.nome}» foi rejeitada pelos editores: não se pode citar.`);
+  exigir((f.uso || []).includes(uso), `A fonte «${f.nome}» não está aceite para isto (${uso === 'media' ? 'vídeos e áudios' : 'factos'}).`);
+  const referencia = texto(d.referencia);
+  return { fontes: [{ fonte: f.id, url: url || f.url, citacao, ...(referencia ? { referencia } : {}), acrescentada: assinar() }], nota };
+}
+
+/** Datas compatíveis: iguais, ou uma mais precisa do que a outra (1925 e 1925-03-03). */
+const compativeis = (a, b) => !a || !b || a.startsWith(b) || b.startsWith(a);
+
+/** Junta um facto à ficha. Se já existir igual, a fonte nova junta-se às dele. Para nascimento, morte, naturalidade e
+ *  nome completo, uma versão diferente fica ao lado das outras como divergência («As fontes divergem»). */
+function juntarFacto(ficha, facto, pr) {
+  ficha.factos ||= [];
+  const mesmos = ficha.factos.filter((x) => x.campo === facto.campo);
+  const igual = mesmos.find((x) => norm(x.valor) === norm(facto.valor) || ((x.data || facto.data) && x.data === facto.data
+    && norm(x.local || '') === norm(facto.local || '')));
+  if (igual) {
+    exigir(pr.fontes.length, 'Isso já está registado. Para o confirmar, indique a fonte (endereço e frase).');
+    igual.fontes = [...(igual.fontes || []), ...pr.fontes];
+    return 'confirmado com mais uma fonte';
+  }
+  const novo = { ...facto, fontes: pr.fontes, ...(pr.editorial ? { editorial: pr.editorial } : {}) };
+  const unicos = ['nascimento', 'morte', 'naturalidade', 'nome_completo'];
+  const diverge = (x) => !compativeis(x.data, facto.data) || (x.local && facto.local && norm(x.local) !== norm(facto.local));
+  if (unicos.includes(facto.campo) && mesmos.some(diverge)) {
+    mesmos.forEach((x) => { x.conflito = true; });
+    novo.conflito = true;
+  }
+  ficha.factos.push(novo);
+  return novo.conflito ? 'acrescentada outra versão (as fontes divergem)' : 'acrescentado';
+}
+
+/** Facto, relação ou referência acrescentada no modo de edição (e não tirada das fontes pelo agente). */
+const deContribuidor = (x) => x.editorial || (x.fontes?.length && x.fontes.every((c) => c.acrescentada));
+const autorDe = (x) => x.editorial?.por || x.fontes?.[0]?.acrescentada?.por;
 
 /** Ficha mínima de uma pessoa que ainda não está no arquivo, criada a partir de uma relação. */
 function fichaNova(nome) {
@@ -59,11 +141,11 @@ function fichaNova(nome) {
 }
 
 /** Relação sem fonte própria (indicada no modo de edição ou com citações aí acrescentadas): pode ser retirada. */
-const relacaoDeContribuidor = (r) => r.editorial || (r.fontes?.length && r.fontes.every((c) => c.acrescentada));
+const relacaoDeContribuidor = deContribuidor;
 
 const ACOES = {
   // ---- fichas de pessoas
-  revisao: ({ id, estado }) => comPessoa(id, (p) => {
+  revisao: ({ id, alvo, estado }) => comFicha(alvo || `pessoas/${id}`, (p) => {
     exigir(podeAprovar(), 'Só os editores marcam fichas como revistas.');
     p.estado_revisao = estado;
     if (estado === 'revisto') Object.assign(p, { revisto_por: sessao().id, revisto_em: hoje() });
@@ -119,7 +201,8 @@ const ACOES = {
     exigir(REL[tipo], 'Escolha o tipo de relação.');
     nova_pessoa = String(nova_pessoa || '').trim();
     exigir(E.por.pessoas[outro] || nova_pessoa, 'Escolha a pessoa na lista que aparece ao escrever o nome (ou «Criar a ficha», se ainda não existir).');
-    const relacao_ = prova(resto);
+    const ctx = {};
+    const relacao_ = await prova(resto, ctx);
     const nova = nova_pessoa ? fichaNova(nova_pessoa) : null;
     const outroId = nova ? nova.id : outro;
     exigir(outroId !== id, 'Uma pessoa não se relaciona consigo própria.');
@@ -136,6 +219,7 @@ const ACOES = {
       alteracoes.push([fichaPessoa(dono), p]);
     }
     if (nova) alteracoes.push([fichaPessoa(nova.id), nova]);
+    if (ctx.fontes) alteracoes.push(['fontes/fontes.json', ctx.fontes]);
     const nome = (x) => (nova && x === nova.id ? nova.nome : nomeDe(x));
     return { alteracoes, resumo: `${nome(dono)}: ${REL[tipo].dir} ${nome(alvo)}${nova ? ` (ficha nova: ${nova.nome})` : ''}` };
   },
@@ -147,7 +231,15 @@ const ACOES = {
     return `retirada a relação «${REL[tipo].dir} ${nomeDe(alvo)}»`;
   }),
 
-  async 'apagar-ficha'({ id }) {
+  async 'apagar-ficha'({ id, alvo }) {
+    const [tipo, idFicha] = String(alvo || `pessoas/${id}`).split('/');
+    if (tipo !== 'pessoas') {
+      const f = await lerFicheiro(`dados/${tipo}/${idFicha}.json`);
+      exigir(f.editorial && !f.factos?.length, 'Só se apagam fichas criadas no modo de edição e ainda sem factos.');
+      exigir(f.editorial.por === sessao().id || podeAprovar(), 'Só quem criou a ficha ou um editor a pode apagar.');
+      return { alteracoes: [[`dados/${tipo}/${idFicha}.json`, null]], resumo: `ficha apagada: ${f[ESPECIES[tipo].titulo]}`, ir: ESPECIES[tipo].lista };
+    }
+    id = idFicha;
     const p = await lerFicheiro(fichaPessoa(id));
     exigir(p.editorial && !p.factos?.length && !p.biografia?.length, 'Só se apagam fichas criadas no modo de edição e ainda sem factos.');
     exigir(p.editorial.por === sessao().id || podeAprovar(), 'Só quem criou a ficha ou um editor a pode apagar.');
@@ -162,13 +254,100 @@ const ACOES = {
     return { alteracoes, resumo: `ficha apagada: ${p.nome}`, ir: '#/pessoas' };
   },
 
-  'nota-facto': ({ id, indice, texto }) => comPessoa(id, (p) => {
-    const f = p.factos?.[+indice], visto = E.por.pessoas[id]?.factos?.[+indice];
-    exigir(f && visto && f.campo === visto.campo && f.valor === visto.valor, 'A ficha mudou entretanto: recarregue a página.');
-    texto = String(texto || '').trim();
-    if (texto) f.nota_editorial = assinar({ texto }); else delete f.nota_editorial;
+  'nota-facto': ({ id, alvo, indice, valorFacto, texto: nota }) => comFicha(alvo || `pessoas/${id}`, (p) => {
+    const f = p.factos?.[+indice];
+    exigir(f && (valorFacto === undefined || f.valor === valorFacto), 'A ficha mudou entretanto: recarregue a página.');
+    nota = texto(nota);
+    if (nota) f.nota_editorial = assinar({ texto: nota }); else delete f.nota_editorial;
     return `nota sobre o facto «${f.valor.slice(0, 60)}»`;
   }),
+
+  // ---- nascimento, morte, factos e referências (em fichas de qualquer tipo)
+  vida: ({ alvo, campo, local, aprox, ...d }) => comFicha(alvo, async (p, ctx) => {
+    exigir(['nascimento', 'morte'].includes(campo), 'Campo desconhecido.');
+    const data = dataDe(d);
+    local = texto(local);
+    exigir(data || local, 'Indique a data, o local, ou os dois.');
+    const quando = data ? (aprox ? `c. ${data.slice(0, 4)}` : fmtData(data)) : '';
+    const facto = { campo, valor: [quando, local].filter(Boolean).join(', '), ...(data && !aprox ? { data } : {}), ...(local ? { local } : {}) };
+    return `${CAMPOS[campo].toLowerCase()} ${juntarFacto(p, facto, await prova(d, ctx))}: ${facto.valor}`;
+  }),
+
+  'novo-facto': ({ alvo, campo, valor, local, aprox, ...d }) => comFicha(alvo, async (f, ctx) => {
+    exigir(CAMPOS[campo], 'Escolha o tipo de facto.');
+    valor = texto(valor); local = texto(local);
+    exigir(valor, 'Escreva o facto (ex.: «Atuou no Coliseu dos Recreios com Luiz Goes»).');
+    const data = dataDe(d);
+    const facto = { campo, valor: data && aprox ? `${valor} (c. ${data.slice(0, 4)})` : valor, ...(data && !aprox ? { data } : {}), ...(local ? { local } : {}) };
+    return `facto ${juntarFacto(f, facto, await prova(d, ctx))} (${CAMPOS[campo].toLowerCase()})`;
+  }),
+
+  'retirar-facto': ({ alvo, indice, valor }) => comFicha(alvo, (f) => {
+    const fa = f.factos?.[+indice];
+    exigir(fa && fa.valor === valor, 'A ficha mudou entretanto: recarregue a página.');
+    exigir(deContribuidor(fa), 'Só se retiram factos acrescentados no modo de edição; os que o agente tirou das fontes ficam (pode juntar-lhes uma nota).');
+    exigir(autorDe(fa) === sessao().id || podeAprovar(), 'Só quem o acrescentou ou um editor o pode retirar.');
+    f.factos.splice(+indice, 1);
+    const resto = f.factos.filter((x) => x.campo === fa.campo);
+    if (resto.length === 1) delete resto[0].conflito; // ficou uma só versão: já não há divergência
+    return `facto retirado: «${valor.slice(0, 60)}»`;
+  }),
+
+  'nova-referencia': ({ alvo, titulo, url, publicacao, autor, ano, nota }) => comFicha(alvo, (f) => {
+    titulo = texto(titulo); url = texto(url); ano = texto(ano);
+    exigir(titulo && urlValida(url), 'Indique o título e o endereço (https://…).');
+    exigir(!ano || /^\d{4}$/.test(ano), 'O ano escreve-se com quatro algarismos.');
+    f.referencias ||= [];
+    exigir(!f.referencias.some((r) => r.url === url), 'Essa referência já está na ficha.');
+    f.referencias.push({ titulo, url, ...(texto(publicacao) ? { publicacao: texto(publicacao) } : {}), ...(texto(autor) ? { autor: texto(autor) } : {}),
+      ...(ano ? { ano } : {}), editorial: assinar(texto(nota) ? { nota: texto(nota) } : {}) });
+    return `referência acrescentada: ${titulo}`;
+  }),
+
+  'retirar-referencia': ({ alvo, url }) => comFicha(alvo, (f) => {
+    const i = (f.referencias || []).findIndex((r) => r.url === url);
+    exigir(i >= 0, 'Essa referência já não está na ficha.');
+    exigir(f.referencias[i].editorial?.por === sessao().id || podeAprovar(), 'Só quem a acrescentou ou um editor a pode retirar.');
+    const [r] = f.referencias.splice(i, 1);
+    return `referência retirada: ${r.titulo}`;
+  }),
+
+  // ---- fichas novas e dados das fichas (pessoas e grupos, obras, discos, instrumentos, vídeos e áudios)
+  async 'guardar-ficha'({ especie: tipo, id, homonimo, ...d }) { // «tipo» é um campo das pessoas (pessoa ou grupo)
+    const esp = ESPECIES[tipo];
+    exigir(esp, 'Tipo de ficha desconhecido.');
+    const novo = !id;
+    const ficha = novo ? fichaVazia(tipo) : await lerFicheiro(`dados/${tipo}/${id}.json`);
+    Object.assign(ficha, lerCampos(tipo, d));
+    const titulo = ficha[esp.titulo];
+    exigir(titulo, `Falta: ${esp.campos.find((c) => c.k === esp.titulo).r}.`);
+    if (tipo === 'media') {
+      const c = classificar(ficha.url);
+      exigir(c && ['video', 'audio'].includes(c.tipo), 'Esse endereço não é de um vídeo ou áudio que o arquivo saiba tocar (YouTube, Vimeo, SoundCloud…).');
+      Object.assign(ficha, { tipo: c.tipo, plataforma: c.plataforma });
+      exigir(!E.base.media.some((m) => m.id !== id && m.url === ficha.url), 'Esse vídeo ou áudio já está catalogado.');
+    }
+    const ctx = {};
+    if (d.como === 'fonte') (ficha.fontes ||= []).push(...(await prova(d, ctx, esp.fonte)).fontes);
+    const alteracoes = [];
+    if (novo) {
+      // o mesmo nome noutra ficha: ou é a mesma (acrescente-se lá), ou é outra e ficam as duas marcadas «não confundir com»
+      const iguais = (E.base[tipo] || []).filter((x) => norm(x[esp.titulo]) === norm(titulo));
+      exigir(!iguais.length || homonimo, `Já existe «${iguais[0]?.[esp.titulo]}». Se for a mesma, acrescente lá o que sabe; se for outra com o mesmo nome, marque a caixa «é outra».`);
+      ficha.id = unico(slug(titulo).slice(0, 70).replace(/-+$/, '') || tipo, (x) => !!E.por[tipo]?.[x]);
+      Object.assign(ficha, { estado_revisao: 'rascunho', editorial: assinar() });
+      for (const x of iguais) {
+        (ficha.distinta_de ||= []).push({ id: x.id, ...assinar() });
+        const outra = await lerFicheiro(`dados/${tipo}/${x.id}.json`);
+        (outra.distinta_de ||= []).push({ id: ficha.id, ...assinar() });
+        alteracoes.push([`dados/${tipo}/${x.id}.json`, outra]);
+      }
+    }
+    alteracoes.unshift([`dados/${tipo}/${ficha.id}.json`, ficha]);
+    if (ctx.fontes) alteracoes.push(['fontes/fontes.json', ctx.fontes]);
+    const ir = esp.rota ? `#/${esp.rota}/${ficha.id}` : ficha.pessoas?.[0] ? `#/pessoa/${ficha.pessoas[0]}` : esp.lista;
+    return { alteracoes, resumo: novo ? `${esp.nome} nova: ${titulo}` : `${titulo}: dados corrigidos`, ir };
+  },
 
   // ---- fontes
   async 'decidir-fonte'({ id, estado, nota }) {
@@ -217,9 +396,10 @@ const ACOES = {
     return { alteracoes: [[`dados/blogue/${id}.json`, null]], resumo: `blogue: apagado «${post.titulo}»`, ir: '#/blogue' };
   },
 
-  // ---- contribuidores (só o dono convida, muda papéis e retira acessos)
+  // ---- contribuidores (os administradores convidam, mudam papéis e retiram acessos; o fundador só ele próprio)
   async 'guardar-contribuidor'({ id, nome, github, papel, apresentacao }) {
-    exigir(eDono(), 'Só o dono do arquivo gere os contribuidores.');
+    exigir(eAdmin(), 'Só os administradores gerem os contribuidores.');
+    exigir(papel !== 'dono', 'O arquivo tem um só fundador.');
     nome = String(nome || '').trim(); github = String(github || '').trim().replace(/^@/, '');
     exigir(nome, 'Indique o nome.');
     const caminho = 'dados/contribuidores.json', reg = await lerFicheiro(caminho);
@@ -228,8 +408,11 @@ const ACOES = {
       c = { id: unico(slug(nome), (x) => reg.contribuidores.some((y) => y.id === x)), nome, github, papel, desde: hoje(), apresentacao: '' };
       reg.contribuidores.push(c);
     }
+    if (c.papel === 'dono') {
+      exigir(sessao().papel === 'dono', 'Os dados do fundador do arquivo só ele os pode mudar.');
+      papel = 'dono';
+    }
     Object.assign(c, { nome, github, papel, apresentacao: String(apresentacao || '').trim() });
-    exigir(reg.contribuidores.some((x) => x.papel === 'dono'), 'O arquivo tem de ter um dono.');
     return { alteracoes: [[caminho, reg]], resumo: `contribuidor ${c.nome}: ${papel}` };
   },
 };
@@ -328,7 +511,7 @@ export function iniciarEdicao(redesenhar) {
       const resposta = prompt(pedir, valor || '');
       if (resposta === null) return;
       dados[pedirCampo || 'nota'] = resposta.trim();
-    }
+    } else if (valor !== undefined) dados.valor = valor; // sem pergunta, data-valor é um dado da ação
     correr(acao, dados, b);
   });
   document.addEventListener('submit', (e) => {

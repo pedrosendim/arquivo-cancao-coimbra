@@ -1,14 +1,11 @@
 // Discografia (gravações) e Obras (peças, letras e interpretações comparadas).
-import { E, nomeDe, visivel, comArquivo } from '../estado.js';
-import { $, html, raw, esc, norm, debounce, definirParams, classificar, miniatura, plural, NOME_PLATAFORMA } from '../util.js';
+import { E, nomeDe, visivel, comArquivo, FORMATOS, GENEROS, nomeContribuidor } from '../estado.js';
+import { $, html, raw, esc, norm, debounce, definirParams, classificar, miniatura, plural, NOME_PLATAFORMA, fmtData } from '../util.js';
 import { marcas, blocoCitacao } from '../citacoes.js';
 import { cartaoMediaCurado, itemCurado, dadosItem, figuraImagem, vazioCurado, tabelaFactos, ligacaoFonte } from '../componentes.js';
 import { filtroMultiplo } from '../filtros.js';
-
-const FORMATOS = { cilindro: 'Cilindro', 'disco de massa': 'Disco de massa', '78rpm': '78 rpm', EP: 'EP', LP: 'LP', single: 'Single',
-  CD: 'CD', cassete: 'Cassete', radio: 'Rádio', televisao: 'Televisão', inedito: 'Inédito', digital: 'Digital' };
-const GENEROS = { fado: 'Fado', balada: 'Balada', cancao: 'Canção', serenata: 'Serenata', guitarrada: 'Guitarrada',
-  variacoes: 'Variações', estudo: 'Estudo', outro: 'Outro' };
+import { editando } from '../edicao.js';
+import { botaoNova, botaoCorrigir, formFacto, seccaoReferencias } from '../fichas.js';
 
 const factosSimples = tabelaFactos;
 
@@ -40,7 +37,8 @@ export function discografia(el, params) {
   let q = params.q || '', formatos = lerLista(params.formato);
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Discografia</h1>
-      <p class="lead">Discos de 78 rpm, EP, LP, CD, gravações de rádio e televisão e registos inéditos.</p></header>
+      <p class="lead">Discos de 78 rpm, EP, LP, CD, gravações de rádio e televisão e registos inéditos.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('gravacoes')}</p>` : ''}</header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Título, intérprete, editora…" value="${q}">
       ${filtroMultiplo({ id: 'formato', todos: 'Todos os formatos', unidade: ['formato', 'formatos'], opcoes: opcoesCom(FORMATOS, todas, 'formato'), escolhidos: formatos })}</div>
     <div class="grelha" id="grelha"></div></div>`.s;
@@ -72,7 +70,9 @@ export function gravacao(el, id) {
       <p class="sobretitulo">${[FORMATOS[g.formato], g.editora, g.referencia].filter(Boolean).join(' · ')}</p>
       <h1>${g.titulo}</h1><p class="anos">${[g.ano, g.local].filter(Boolean).join(', ')}</p>
       <p>${(g.interpretes || []).map((i, k) => html`${k ? ' · ' : ''}<a href="#/pessoa/${i.pessoa}">${nomeDe(i.pessoa)}</a>${i.funcao ? html` <span class="mudo">(${i.funcao})</span>` : ''}`)}</p>
+      ${g.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(g.editorial.por)} em ${fmtData(g.editorial.data)}.</p>` : ''}
       <div class="acoes-topo">
+        ${botaoCorrigir('gravacoes', g.id)}
         ${todosMedia.length ? html`<button class="botao primario" data-fila="${raw(dadosItem(todosMedia.map((m) => E.por.media[m]).filter((x) => x && visivel(x)).map(itemCurado)))}">Ouvir o disco</button>` : ''}
         ${Object.entries(g.ligacoes || {}).filter(([, u]) => u).map(([k, u]) => html`<a class="botao" href="${u}" target="_blank" rel="noopener">${k} ↗</a>`)}
       </div></div></header>
@@ -80,7 +80,9 @@ export function gravacao(el, id) {
     ${g.faixas?.length ? html`<section class="seccao"><h2>Faixas</h2><ul class="lista-simples">${g.faixas.map((f) => html`<li>
       <span class="mono mudo">${f.n || ''}</span>${f.obra ? html`<a href="#/obra/${f.obra}">${f.titulo || E.por.obras[f.obra]?.titulo}</a>` : f.titulo}
       <span style="margin-left:auto;display:flex;gap:6px">${botoesMedia(f.media)}</span></li>`)}</ul></section>` : ''}
-    ${g.factos?.length ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(g.factos)}</section>` : ''}
+    ${g.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(g.factos, { editar: editando() && `gravacoes/${g.id}` })}
+      ${editando() ? formFacto(`gravacoes/${g.id}`) : ''}</section>` : ''}
+    ${seccaoReferencias(g, `gravacoes/${g.id}`)}
     ${g.fontes?.length ? html`<section class="seccao biografia estreito"><h2>Fontes</h2>${g.fontes.filter((c) => c.citacao).map(blocoCitacao)}</section>` : ''}
   </div>`.s;
 }
@@ -94,6 +96,7 @@ export function listaObras(el, params) {
   let q = params.q || '', generos = lerLista(params.genero);
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Obras e letras</h1>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('obras')}</p>` : ''}
       <p class="lead">Fados, baladas, serenatas e guitarradas. Em cada obra: autores, letra (quando a fonte a publica) e
         todas as interpretações catalogadas, para comparar lado a lado.</p></header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Título ou autor" value="${q}">
@@ -127,11 +130,15 @@ export function obra(el, id) {
       ${o.titulos_alternativos?.length ? html`<p class="mudo">Também: ${o.titulos_alternativos.join('; ')}</p>` : ''}
       <p class="lead">${o.musica?.length ? html`Música: ${o.musica.map((p, k) => html`${k ? ', ' : ''}<a href="#/pessoa/${p}">${nomeDe(p)}</a>`)}` : ''}
         ${o.letra?.length ? html`<br>Letra: ${o.letra.map((p, k) => html`${k ? ', ' : ''}<a href="#/pessoa/${p}">${nomeDe(p)}</a>`)}` : ''}</p>
-      ${itens.length > 1 ? html`<div class="acoes-topo"><button class="botao primario" data-fila="${raw(dadosItem(itens))}">Comparar as ${itens.length} interpretações em sequência</button></div>` : ''}
+      ${o.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(o.editorial.por)} em ${fmtData(o.editorial.data)}.</p>` : ''}
+      <div class="acoes-topo">${botaoCorrigir('obras', o.id)}
+        ${itens.length > 1 ? html`<button class="botao primario" data-fila="${raw(dadosItem(itens))}">Comparar as ${itens.length} interpretações em sequência</button>` : ''}</div>
     </header>
     ${o.letra_texto ? html`<section class="seccao"><h2>Letra</h2><div class="letra">${o.letra_texto.citacao}</div>
       <p class="citacao-rodape">Transcrita literalmente de ${E.fontes[o.letra_texto.fonte]?.nome || o.letra_texto.fonte}${marcas([o.letra_texto])}</p></section>` : ''}
-    ${o.factos?.length ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(o.factos)}</section>` : ''}
+    ${o.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(o.factos, { editar: editando() && `obras/${o.id}` })}
+      ${editando() ? formFacto(`obras/${o.id}`) : ''}</section>` : ''}
+    ${seccaoReferencias(o, `obras/${o.id}`)}
     ${faixas.length ? html`<section class="seccao"><h2>Gravações</h2><ul class="lista-simples">${faixas.map(({ gravacao: g, faixa }) => html`<li>
       <span class="mono mudo">${g.ano || '—'}</span><a href="#/gravacao/${g.id}">${g.titulo}</a>
       <span class="mudo">${(g.interpretes || []).map((i) => nomeDe(i.pessoa)).join(', ')}</span>
@@ -148,13 +155,15 @@ export function listaInstrumentos(el, params) {
   const luthiers = E.base.pessoas.filter((p) => p.papeis?.includes('luthier'));
   if (!todos.length && !luthiers.length) {
     el.innerHTML = html`<div class="conteudo"><header class="cabecalho"><p class="sobretitulo">Música</p><h1>Instrumentos e luthiers</h1>
-      <p class="lead">Guitarras de Coimbra, violas e os construtores que as fizeram.</p></header>${vazioCurado('instrumentos')}
+      <p class="lead">Guitarras de Coimbra, violas e os construtores que as fizeram.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('instrumentos')}</p>` : ''}</header>${vazioCurado('instrumentos')}
       <p style="margin-top:18px"><a class="botao" href="#/mediateca?separador=imagens&q=guitarra">Ver imagens de guitarras no arquivo</a></p></div>`.s;
     return;
   }
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Instrumentos e luthiers</h1>
-      <p class="lead">Guitarras de Coimbra, violas e os construtores que as fizeram — com fotografias publicadas nas fontes.</p></header>
+      <p class="lead">Guitarras de Coimbra, violas e os construtores que as fizeram — com fotografias publicadas nas fontes.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('instrumentos')}</p>` : ''}</header>
     ${todos.length ? html`<section class="seccao"><h2>Instrumentos <small>${todos.length}</small></h2><div class="grelha">
       ${todos.map((i) => html`<a class="cartao" href="#/instrumento/${i.id}">
         ${i.imagens?.[0] ? html`<div class="retrato" style="aspect-ratio:3/4;background-image:url('${raw(esc(miniatura(i.imagens[0].url, 500)))}')"></div>` : html`<div class="retrato" style="aspect-ratio:3/4">◈</div>`}
@@ -172,11 +181,15 @@ export function instrumento(el, id) {
   if (!i) { el.innerHTML = '<div class="conteudo"><h1>Instrumento não encontrado</h1></div>'; return; }
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">${[i.tipo, i.ano].filter(Boolean).join(' · ')}</p><h1>${i.designacao}</h1>
-      ${i.construtor ? html`<p class="lead">Construtor: <a href="#/pessoa/${i.construtor}">${nomeDe(i.construtor)}</a></p>` : ''}</header>
+      ${i.construtor ? html`<p class="lead">Construtor: <a href="#/pessoa/${i.construtor}">${nomeDe(i.construtor)}</a></p>` : ''}
+      ${i.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(i.editorial.por)} em ${fmtData(i.editorial.data)}.</p>` : ''}
+      ${editando() ? html`<div class="acoes-topo">${botaoCorrigir('instrumentos', i.id)}</div>` : ''}</header>
     ${i.imagens?.length ? html`<div class="galeria">${i.imagens.map((im) => figuraImagem(im.url, im.legenda, ligacaoFonte(im.fontes?.[0])))}</div>` : ''}
     ${i.proprietarios?.length ? html`<section class="seccao"><h2>Quem a tocou ou possuiu</h2><ul class="lista-simples">
       ${i.proprietarios.map((p) => html`<li><a href="#/pessoa/${p.pessoa}">${nomeDe(p.pessoa)}</a><span class="mudo">${p.periodo || ''}</span>${marcas(p.fontes)}</li>`)}</ul></section>` : ''}
-    ${i.factos?.length ? html`<section class="seccao"><h2>Características e história</h2>${factosSimples(i.factos)}</section>` : ''}
+    ${i.factos?.length || editando() ? html`<section class="seccao"><h2>Características e história</h2>${factosSimples(i.factos, { editar: editando() && `instrumentos/${i.id}` })}
+      ${editando() ? formFacto(`instrumentos/${i.id}`) : ''}</section>` : ''}
+    ${seccaoReferencias(i, `instrumentos/${i.id}`)}
     ${i.fontes?.length ? html`<section class="seccao biografia estreito"><h2>Fontes</h2>${i.fontes.filter((c) => c.citacao).map(blocoCitacao)}</section>` : ''}
   </div>`.s;
 }

@@ -31,8 +31,8 @@ class ErroValidacao(Exception):
 
 
 def criada_na_edicao(f):
-    """Ficha de pessoa criada por um contribuidor e ainda sem factos nem excertos: a única que se pode apagar."""
-    if f.parent.name != "pessoas" or not f.exists():
+    """Ficha criada por um contribuidor e ainda sem factos nem excertos: a única que se pode apagar."""
+    if f.parent.name not in ("pessoas", "obras", "gravacoes", "instrumentos", "media") or not f.exists():
         return False
     p = ler_json(f)
     return bool(p.get("editorial")) and not p.get("factos") and not p.get("biografia")

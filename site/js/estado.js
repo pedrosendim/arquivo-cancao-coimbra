@@ -28,6 +28,10 @@ export const CAMPOS = {
   atuacao: 'Atuação', premio: 'Prémio', homenagem: 'Homenagem', ensino: 'Ensino', instrumento: 'Instrumento',
   afinacao: 'Afinação', residencia: 'Residência', publicacao: 'Bibliografia', outro: 'Outros factos',
 };
+export const FORMATOS = { cilindro: 'Cilindro', 'disco de massa': 'Disco de massa', '78rpm': '78 rpm', EP: 'EP', LP: 'LP', single: 'Single',
+  CD: 'CD', cassete: 'Cassete', radio: 'Rádio', televisao: 'Televisão', inedito: 'Inédito', digital: 'Digital' };
+export const GENEROS = { fado: 'Fado', balada: 'Balada', cancao: 'Canção', serenata: 'Serenata', guitarrada: 'Guitarrada',
+  variacoes: 'Variações', estudo: 'Estudo', outro: 'Outro' };
 export const TIPOS_FONTE = { site: 'Site', imprensa: 'Imprensa', instituicao: 'Instituição', livro: 'Livro', blogue: 'Blogue',
   'arquivo-audiovisual': 'Arquivo audiovisual', 'base-de-dados': 'Base de dados', biblioteca: 'Biblioteca',
   'repositorio-academico': 'Repositório académico', 'arquivo-web': 'Arquivo web', plataforma: 'Plataforma', outro: 'Outro' };

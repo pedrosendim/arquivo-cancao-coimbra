@@ -19,6 +19,7 @@ import { propostas } from './vistas/propostas.js';
 import { iniciarEdicao } from './edicao.js';
 import { iniciarSeletores } from './seletor.js';
 import { iniciarFiltros } from './filtros.js';
+import { iniciarFichas, novaFicha, editarFicha } from './fichas.js';
 
 const ROTAS = [
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
@@ -28,6 +29,7 @@ const ROTAS = [
   [/^doc\/([^/]+)$/, documento], [/^fontes$/, fontes],
   [/^blogue$/, blogue], [/^blogue\/(novo)$/, editarArtigo], [/^blogue\/([^/]+)\/editar$/, editarArtigo], [/^blogue\/([^/]+)$/, artigo],
   [/^contribuidores$/, contribuidores], [/^contribuir$/, contribuir], [/^propostas$/, propostas],
+  [/^nova\/([a-z]+)$/, novaFicha], [/^editar\/([a-z]+)\/([^/]+)$/, editarFicha],
 ];
 
 async function encaminhar({ manterPosicao = false } = {}) {
@@ -146,6 +148,7 @@ async function arrancar() {
   iniciarDelegacao();
   iniciarSeletores();
   iniciarFiltros();
+  iniciarFichas();
   $('#vista').innerHTML = '<div class="conteudo"><p class="carregando">A abrir o arquivo</p></div>';
   await carregar();
   iniciarEdicao(() => encaminhar({ manterPosicao: true }));

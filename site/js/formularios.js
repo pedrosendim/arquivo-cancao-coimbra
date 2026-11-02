@@ -16,11 +16,13 @@ export const notaEditorial = (n) => (n ? html` <span class="nota-editorial" titl
 
 export function caixaTopo(p) {
   const revisto = p.estado_revisao === 'revisto';
+  // (fichas de pessoas; nas outras, o botão «Corrigir os dados» e a revisão estão no topo da ficha)
   return html`<form class="caixa-edicao" data-acao="nota-editor">
     <input type="hidden" name="id" value="${p.id}">
     <label for="nota-editor">✎ Nota do editor <small>o que sabe sem fonte (como é conhecido, uma identificação, uma dúvida). Fica assinada com o seu nome.</small></label>
     <textarea class="campo" id="nota-editor" name="texto" rows="3">${p.nota_editor || ''}</textarea>
     <div class="acoes"><button class="botao peq primario">Guardar nota</button>
+      <a class="botao peq" href="#/editar/pessoas/${p.id}">✎ Corrigir nome, outros nomes e papéis</a>
       ${podeAprovar() ? html`<button type="button" class="botao peq" data-acao="revisao" data-id="${p.id}" data-estado="${revisto ? 'rascunho' : 'revisto'}">
         ${revisto ? 'Voltar a pôr como rascunho' : 'Marcar a ficha como revista'}</button>` : ''}
       ${p.editorial && !p.factos?.length && (p.editorial.por === sessao()?.id || podeAprovar())
@@ -29,27 +31,32 @@ export function caixaTopo(p) {
   </form>`;
 }
 
-/** «Como sabe?»: por conhecimento próprio (assinado ✎) ou por uma fonte aprovada, com a frase copiada à letra. */
-export function camposFonte() {
+/** «Como sabe?»: numa fonte (o endereço da página onde está escrito, ou uma fonte da lista, e a frase copiada à letra)
+ *  ou por conhecimento próprio (testemunho assinado ✎). Com `opcional`, pode não se indicar nada. */
+export function camposProva({ padrao = 'proprio', opcional = false, uso = 'factos' } = {}) {
   const grupos = {};
-  E.base.fontes.filter((f) => f.estado === 'aprovada' && (f.uso || []).includes('factos'))
+  E.base.fontes.filter((f) => f.estado === 'aprovada' && (f.uso || []).includes(uso))
     .sort((a, b) => a.nome.localeCompare(b.nome)).forEach((f) => (grupos[f.tipo] ||= []).push(f));
+  const marcado = (v) => ((opcional ? v === 'nada' : v === padrao) ? 'checked' : '');
   return html`<fieldset class="como-sabe"><legend>Como sabe?</legend>
     <div class="linha-campos">
-      <label class="opcao"><input type="radio" name="como" value="proprio" checked> Por conhecimento próprio <small>(fica assinado ✎)</small></label>
-      <label class="opcao"><input type="radio" name="como" value="fonte"> Está numa fonte <small>(livro, artigo, jornal, site, disco…)</small></label>
+      ${opcional ? html`<label class="opcao"><input type="radio" name="como" value="nada" ${marcado('nada')}> Não indicar agora</label>` : ''}
+      <label class="opcao"><input type="radio" name="como" value="fonte" ${marcado('fonte')}> Está escrito numa fonte <small>(artigo, jornal, livro, site, disco…)</small></label>
+      ${opcional ? '' : html`<label class="opcao"><input type="radio" name="como" value="proprio" ${marcado('proprio')}> Sei por conhecimento próprio <small>(testemunho assinado ✎)</small></label>`}
     </div>
     <div class="com-fonte">
-      <label>Fonte <small>Não está na lista? <a href="#/fontes">Proponha-a em Fontes e método</a>: depois de um editor a aprovar, já a pode citar.</small>
-        <select class="campo" name="fonte"><option value="">Escolha a fonte…</option>
+      <label>Endereço da página onde está escrito <small>o artigo, o post, a página do catálogo. Se esse site ainda não for fonte do arquivo, fica proposto e um editor aprova-o.</small>
+        <input class="campo" type="url" name="fonte_url" placeholder="https://…"></label>
+      <label>Sem endereço (livro, disco, documento)? Escolha a fonte <small>Não está na lista? <a href="#/fontes">Proponha-a em Fontes e método</a>.</small>
+        <select class="campo" name="fonte"><option value="">—</option>
           ${Object.entries(grupos).map(([t, lista]) => html`<optgroup label="${TIPOS_FONTE[t] || t}">
             ${lista.map((f) => html`<option value="${f.id}">${f.nome}${f.autor ? ` — ${f.autor}` : ''}</option>`)}</optgroup>`)}</select></label>
-      <label>Endereço da página <small>o artigo, o post, a ficha do livro; em branco, fica o endereço geral da fonte</small>
-        <input class="campo" type="url" name="fonte_url" placeholder="https://…"></label>
       <label>Frase da fonte, copiada à letra <small>é a prova; se a página estiver no arquivo, o validador confirma-a palavra por palavra</small>
         <textarea class="campo" name="citacao" rows="2"></textarea></label>
-      <label>Página ou referência <small>opcional (ex.: p. 45, edição de 1987)</small><input class="campo" name="referencia"></label>
-    </div></fieldset>`;
+      <label>Página ou referência <small>opcional (ex.: p. 45, edição de 1987, minuto 3:20)</small><input class="campo" name="referencia"></label>
+    </div>
+    ${opcional ? '' : html`<div class="sem-fonte"><label>Como sabe? <small>opcional: «sou neto», «conversa com o próprio, 2019», «programa do concerto»</small>
+      <input class="campo" name="nota_testemunho"></label></div>`}</fieldset>`;
 }
 
 export function formNovaImagem(id) {
@@ -83,7 +90,7 @@ export function formNovaRelacao(p) {
       <select class="campo" name="relacao" required>${OPCOES_REL.map(([g, ops]) => html`<optgroup label="${g}">
         ${ops.map(([v, t]) => html`<option value="${v}">${t}</option>`)}</optgroup>`)}</select>
       ${seletorPessoa({ excluir: p.id })}</div>
-    ${camposFonte()}
+    ${camposProva()}
     <label>Nota <small>opcional: porquê, ou um pormenor (ex.: «segundo a família», «no Pico, em 2023»)</small><input class="campo" name="nota"></label>
     <div class="acoes"><button class="botao peq primario">Acrescentar relação</button></div>
   </form>`;

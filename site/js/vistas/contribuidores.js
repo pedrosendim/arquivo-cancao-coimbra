@@ -1,9 +1,15 @@
 // Contribuidores convidados pelo dono do arquivo (com o que cada um fez) e o guia «Como contribuir».
 import { E } from '../estado.js';
 import { html, fmtData, plural } from '../util.js';
-import { editando, eDono } from '../edicao.js';
+import { editando, eAdmin, sessao } from '../edicao.js';
 
-export const PAPEIS_CONTRIBUIDOR = { dono: 'Dono do arquivo', editor: 'Editor/a', contribuidor: 'Contribuidor/a', antigo: 'Antigo contribuidor (sem acesso)' };
+export const PAPEIS_CONTRIBUIDOR = { dono: 'Administrador (fundador)', administrador: 'Administrador/a', editor: 'Editor/a', contribuidor: 'Contribuidor/a',
+  antigo: 'Antigo contribuidor (sem acesso)' };
+const O_QUE_FAZ = {
+  administrador: 'convida pessoas e escolhe o papel de cada uma; aprova propostas e fontes',
+  editor: 'aprova ou recusa as propostas e as fontes novas; o que altera entra logo',
+  contribuidor: 'propõe: cria e corrige fichas, acrescenta factos, fontes, fotografias, famílias; um editor aprova',
+};
 
 /** Tudo o que está assinado por cada contribuidor (notas e revisões sem assinatura são do dono, anteriores ao registo). */
 function contributos() {
@@ -47,7 +53,7 @@ function formContribuidor(c) {
       <label>Nome <input class="campo" name="nome" required value="${c.nome}"></label>
       <label>Utilizador do GitHub <input class="campo" name="github" value="${c.github}" placeholder="ex.: maria-silva"></label>
       <label>Papel <select class="campo" name="papel">${Object.entries(PAPEIS_CONTRIBUIDOR)
-        .filter(([k]) => k !== 'dono' || c.papel === 'dono')
+        .filter(([k]) => (c.papel === 'dono' ? k === 'dono' : k !== 'dono'))
         .map(([k, t]) => html`<option value="${k}" ${k === c.papel ? 'selected' : ''}>${t}</option>`)}</select></label>
     </div>
     <label>Apresentação <small>opcional, aparece nesta página (ex.: guitarrista, investigador da família Grácio)</small>
@@ -58,13 +64,15 @@ function formContribuidor(c) {
 
 export function contribuidores(el, params) {
   const feito = contributos();
-  const ordem = { dono: 0, editor: 1, contribuidor: 2, antigo: 3 };
+  const ordem = { dono: 0, administrador: 1, editor: 2, contribuidor: 3, antigo: 4 };
   const lista = Object.values(E.contribuidores).sort((a, b) => ordem[a.papel] - ordem[b.papel] || a.nome.localeCompare(b.nome));
-  const gerir = editando() && eDono();
+  const gerir = editando() && eAdmin();
+  const podeGerir = (c) => gerir && (c.papel !== 'dono' || sessao()?.papel === 'dono'); // o fundador só ele próprio
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Contribuidores</h1>
       <p class="lead">Quem ajuda a construir o arquivo, por convite do seu dono. Cada contributo fica assinado com o nome de
         quem o fez e a data, e marcado com ✎ nas fichas.</p>
+      <ul class="papeis-lista">${Object.entries(O_QUE_FAZ).map(([k, t]) => html`<li><b>${PAPEIS_CONTRIBUIDOR[k]}</b>: ${t}.</li>`)}</ul>
       <p style="margin-top:16px"><a class="botao primario" href="#/contribuir">Como contribuir</a></p></header>
     <div class="grelha larga">${lista.map((c) => {
       const f = feito[c.id] || {};
@@ -77,7 +85,7 @@ export function contribuidores(el, params) {
         ${total ? html`<dl class="contributos">${Object.entries(f).map(([tipo, fichas]) => html`<dt>${tipo} <span class="n">${fichas.size}</span></dt>
           <dd>${[...fichas.values()].slice(0, 6).map((x, i) => html`${i ? ', ' : ''}<a href="${x.rota}">${x.nome}</a>`)}${fichas.size > 6 ? ` e mais ${fichas.size - 6}` : ''}</dd>`)}</dl>`
           : html`<p class="mudo">Ainda sem contributos assinados.</p>`}
-        ${gerir ? html`<details class="gerir"><summary>Alterar</summary>${formContribuidor(c)}</details>` : ''}
+        ${podeGerir(c) ? html`<details class="gerir"><summary>Alterar</summary>${formContribuidor(c)}</details>` : ''}
       </div></article>`;
     })}</div>
     ${gerir ? html`<section class="seccao estreito">${formContribuidor(null)}</section>` : ''}
@@ -121,6 +129,24 @@ export function contribuir(el) {
       </ol></section>
 
     <section class="seccao"><h2>3. Tarefas mais comuns</h2>
+      <h3>Nascimento, morte e outros factos</h3>
+      <ul><li>Na ficha da pessoa, em <b>Factos</b>, há duas caixas iguais em todas as fichas: <b>Nascimento</b> e <b>Morte</b>.
+        Escreva o dia, o mês, o ano e o local (o que souber) e diga como sabe.</li>
+        <li>Para outro facto (uma estreia, uma atuação, um prémio, uma profissão), use <b>Acrescentar um facto</b>, mais abaixo.</li>
+        <li>Se uma fonte disser outra data, acrescente-a na mesma: as duas versões ficam lado a lado, em <b>As fontes divergem</b>.</li></ul>
+      <h3>Como sabe? A fonte de cada informação</h3>
+      <ul><li><b>Está escrito numa fonte</b>: cole o endereço da página (o artigo, o post, a página do catálogo) e copie à letra a frase
+        que o diz. Se o site ainda não for uma fonte do arquivo, fica proposto e um editor decide; até lá, aparece como «pendente».
+        Para um livro ou disco sem endereço, escolha a fonte na lista e indique a página.</li>
+        <li><b>Sei por conhecimento próprio</b>: fica como testemunho, assinado com o seu nome e marcado com ✎. Diga como sabe
+        (por exemplo, «sou neto»).</li></ul>
+      <h3>Pessoas, grupos, obras, discos, instrumentos e vídeos novos</h3>
+      <ul><li>Nas listas (Pessoas, Grupos, Discografia, Obras e letras, Instrumentos, Mediateca) há o botão <b>+ Nova…</b>.
+        Antes, procure (Ctrl K) se já existe: se existir, acrescente lá.</li>
+        <li>Se já houver uma ficha com o mesmo nome mas for outra pessoa (ou outra música), marque a caixa <b>é outra</b>: as duas
+        ficam marcadas para não se confundirem.</li>
+        <li>Para corrigir o título, os autores, as faixas de um disco ou os papéis de uma pessoa, use <b>✎ Corrigir os dados</b> no topo da ficha.</li>
+        <li>Artigos e páginas onde a pessoa aparece entram em <b>Artigos e referências</b>, no fim da ficha.</li></ul>
       <h3>Trocar a fotografia de uma ficha</h3>
       <ul>
         <li>Na ficha, desça até <b>Imagens</b>. A primeira é o retrato. Noutra imagem, carregue em <b>Usar como retrato</b>.</li>
@@ -133,9 +159,7 @@ export function contribuir(el) {
       <ul><li>Na ficha, em <b>Relações</b>, use <b>Acrescentar uma relação</b>: escolha o tipo (por exemplo «é pai/mãe de»), comece
         a escrever o nome da outra pessoa e escolha-a na lista. A árvore da família atualiza-se sozinha.</li>
         <li>Se a pessoa ainda não estiver no arquivo, a última opção da lista é <b>Criar a ficha</b>: fica uma ficha com o nome, assinada por si.</li>
-        <li>Em <b>Como sabe?</b>, escolha <b>Por conhecimento próprio</b> (fica assinado com ✎) ou <b>Está numa fonte</b>: escolha a fonte
-          (livro, jornal, site…), o endereço da página e copie à letra a frase que o diz. Se a fonte não estiver na lista, proponha-a
-          primeiro em <b>Fontes e método</b>.</li></ul>
+        <li>Em <b>Como sabe?</b>, indique a fonte (o endereço e a frase) ou escolha <b>Sei por conhecimento próprio</b>.</li></ul>
       <h3>Casos de dúvida</h3>
       <ul><li>Quando as fontes não concordam, a ficha mostra a caixa <b>As fontes divergem</b>. Carregue em ✎ ao lado de um facto
         para deixar a sua nota: qual versão lhe parece certa e porquê. As versões das fontes continuam todas à vista.</li>

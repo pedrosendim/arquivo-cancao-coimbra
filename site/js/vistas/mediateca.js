@@ -4,6 +4,8 @@ import { $, $$, html, api, debounce, definirParams, NOME_PLATAFORMA, plural, nor
 import { cartaoMediaArquivo, cartaoMediaCurado, figuraImagem, semServidor, itemCurado } from '../componentes.js';
 import { enfileirar, itemDoArquivo, carregarYT } from '../leitor.js';
 import { filtroMultiplo, atualizarFiltro } from '../filtros.js';
+import { editando } from '../edicao.js';
+import { botaoNova } from '../fichas.js';
 
 const SEPARADORES = { videos: 'Vídeos', ineditos: 'Inéditos do blogue', audio: 'Áudio', partituras: 'Partituras', imagens: 'Imagens', playlists: 'Playlists' };
 const TIPO = { videos: 'video', ineditos: 'video', audio: 'audio', partituras: 'partitura', imagens: 'imagem' };
@@ -135,7 +137,8 @@ export function mediateca(el, params) {
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Mediateca</h1>
       <p class="lead">${arquivo ? 'Tudo o que os blogues incorporaram ou ligaram — vídeos, áudios e fotografias — com o texto que os acompanha.'
         : 'Os vídeos e áudios identificados nas fichas, com as pessoas e obras de cada um.'}
-        Os vídeos tocam no leitor em baixo e continuam enquanto navega.</p></header>
+        Os vídeos tocam no leitor em baixo e continuam enquanto navega.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('media')}</p>` : ''}</header>
     <div class="separadores" role="tablist">${Object.entries(separadores).map(([k, n]) =>
       html`<button role="tab" data-sep="${k}" aria-selected="${String(k === sep)}">${n}</button>`)}</div>
     <div class="barra-filtros">

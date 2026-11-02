@@ -25,7 +25,7 @@ RELACOES = {"filho_de", "irmao_de", "conjuge_de", "neto_de", "sobrinho_de", "pri
             "aluno_de", "influenciado_por", "tocou_com", "acompanhou", "membro_de"}
 PAPEIS = {"guitarrista", "violista", "cantor", "compositor", "letrista", "poeta", "luthier", "investigador",
           "colecionador", "editor", "professor", "agrupamento", "outro"}
-PAPEIS_CONTRIBUIDOR = {"dono", "editor", "contribuidor", "antigo"}  # antigo: sem acesso, os contributos ficam
+PAPEIS_CONTRIBUIDOR = {"dono", "administrador", "editor", "contribuidor", "antigo"}  # antigo: sem acesso, os contributos ficam
 RE_DATA = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 RE_DIA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RE_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
@@ -110,7 +110,10 @@ class Validador:
         if not f:
             self.erros.append(f"{onde}: fonte '{fid}' não existe em fontes.json")
             return
-        if f["estado"] != "aprovada":
+        if f["estado"] == "pendente" and c.get("acrescentada"):
+            # citada por um contribuidor num site que ainda não era fonte: fica proposta até um editor a decidir
+            self.avisos.append(f"{onde}: fonte '{fid}' por aprovar (proposta por um contribuidor)")
+        elif f["estado"] != "aprovada":
             self.erros.append(f"{onde}: fonte '{fid}' está '{f['estado']}' — só fontes aprovadas")
         if uso not in f.get("uso", []):
             self.erros.append(f"{onde}: fonte '{fid}' não está aprovada para uso '{uso}'")
@@ -169,9 +172,33 @@ class Validador:
                 self.erros.append(f"{o}: faltam 'campo' ou 'valor'")
             if fa.get("data") and not RE_DATA.match(str(fa["data"])):
                 self.erros.append(f"{o}: data '{fa['data']}' fora do formato AAAA[-MM[-DD]]")
-            self.lista_citacoes(o, fa.get("fontes"))
+            if fa.get("editorial"):  # testemunho de um contribuidor, sem fonte: fica assinado e à vista
+                self.assinatura(f"{o}.editorial", fa["editorial"])
+            self.lista_citacoes(o, fa.get("fontes"), obrigatoria=not fa.get("editorial"))
             if fa.get("nota_editorial"):
                 self.assinatura(f"{o}.nota_editorial", fa["nota_editorial"], "texto")
+
+    def referencias(self, onde, refs):
+        """Artigos e páginas indicados por contribuidores: leituras, não fontes."""
+        for i, r in enumerate(refs or []):
+            o = f"{onde}.referencias[{i}]"
+            if not str(r.get("titulo", "")).strip():
+                self.erros.append(f"{o}: sem título")
+            if not str(r.get("url", "")).startswith(("http://", "https://")):
+                self.erros.append(f"{o}: endereço inválido")
+            if r.get("ano") and not re.match(r"^\d{4}$", str(r["ano"])):
+                self.erros.append(f"{o}: ano '{r['ano']}' fora do formato AAAA")
+            self.assinatura(f"{o}.editorial", r.get("editorial"))
+
+    def comum(self, onde, x, tipo, ent):
+        """O que todas as fichas podem ter: assinatura de quem a criou, referências e «não confundir com»."""
+        if x.get("editorial"):  # ficha criada no modo de edição
+            self.assinatura(f"{onde}.editorial", x["editorial"])
+        self.referencias(onde, x.get("referencias"))
+        for k, d in enumerate(x.get("distinta_de") or []):
+            if d.get("id") not in ent[tipo]:
+                self.erros.append(f"{onde}.distinta_de[{k}]: ficha inexistente '{d.get('id')}'")
+            self.assinatura(f"{onde}.distinta_de[{k}]", d)
 
     def imagens(self, onde, imagens):
         for i, im in enumerate(imagens or []):
@@ -228,8 +255,7 @@ def validar():
         for chave in ("nota_editor_por", "revisto_por"):
             if p.get(chave):
                 v.contribuidor(f"{o}.{chave}", p[chave])
-        if p.get("editorial"):  # ficha criada no modo de edição
-            v.assinatura(f"{o}.editorial", p["editorial"])
+        v.comum(o, p, "pessoas", ent)
 
     for i, x in ent["instrumentos"].items():
         o = f"instrumentos/{i}"
@@ -239,7 +265,8 @@ def validar():
             v.lista_citacoes(f"{o}.proprietarios[{k}]", pr.get("fontes"))
         v.factos(o, x.get("factos"))
         v.imagens(o, x.get("imagens"))
-        v.lista_citacoes(o, x.get("fontes"))
+        v.lista_citacoes(o, x.get("fontes"), obrigatoria=not x.get("editorial"))
+        v.comum(o, x, "instrumentos", ent)
 
     for i, g in gravs.items():
         o = f"gravacoes/{i}"
@@ -252,7 +279,8 @@ def validar():
         if g.get("capa", {}).get("url"):
             v.lista_citacoes(f"{o}.capa", g["capa"].get("fontes"), "media", exige_texto=False)
         v.factos(o, g.get("factos"))
-        v.lista_citacoes(o, g.get("fontes"))
+        v.lista_citacoes(o, g.get("fontes"), obrigatoria=not g.get("editorial"))
+        v.comum(o, g, "gravacoes", ent)
 
     for i, ob in obras.items():
         o = f"obras/{i}"
@@ -261,7 +289,8 @@ def validar():
         if ob.get("letra_texto"):
             v.citacao(f"{o}.letra_texto", ob["letra_texto"])
         v.factos(o, ob.get("factos"))
-        v.lista_citacoes(o, ob.get("fontes"))
+        v.lista_citacoes(o, ob.get("fontes"), obrigatoria=not ob.get("editorial"))
+        v.comum(o, ob, "obras", ent)
 
     for i, m in media.items():
         o = f"media/{i}"
@@ -272,7 +301,8 @@ def validar():
         for ob in m.get("obras", []):
             ref(o, "obras", ob)
         ref(o, "gravacoes", m.get("gravacao"))
-        v.lista_citacoes(o, m.get("fontes"), "media", exige_texto=False)
+        v.lista_citacoes(o, m.get("fontes"), "media", exige_texto=False, obrigatoria=not m.get("editorial"))
+        v.comum(o, m, "media", ent)
 
     # contribuidores convidados pelo dono do arquivo
     for cid, c in v.contribuidores.items():

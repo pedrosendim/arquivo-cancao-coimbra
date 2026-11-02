@@ -6,6 +6,7 @@ import { editando } from '../edicao.js';
 import { caixaTopo, formNovaImagem, formNovaRelacao, marcaEditorial } from '../formularios.js';
 
 import { seccaoMembros } from './grupos.js';
+import { formVida, formFacto, seccaoReferencias, linhaVida, botaoNova } from '../fichas.js';
 import { arvoreFamiliaDe } from './linhagens.js';
 
 const riqueza = (p) => (p.biografia?.length || 0) * 3 + (p.factos?.length || 0) + (p.relacoes?.length || 0) + (p.imagens?.length || 0) * 2;
@@ -26,7 +27,8 @@ export function listaPessoas(el, params) {
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Pessoas</h1>
       <p class="lead">Guitarras, violas, cantores, compositores, poetas e luthiers — cada ficha reúne os excertos e factos
-        retirados das fontes aprovadas.</p></header>
+        retirados das fontes aprovadas.</p>
+      ${editando() ? html`<p class="acoes-lista">${botaoNova('pessoas')} ${botaoNova('pessoas', true)}</p>` : ''}</header>
     <div class="barra-filtros">
       <input class="campo" type="search" id="q" placeholder="Filtrar por nome" value="${q}">
       <select class="campo" id="ordem"><option value="nome">Ordem alfabética</option><option value="ricas">Mais documentadas primeiro</option><option value="nasc">Por ano de nascimento</option></select>
@@ -89,6 +91,7 @@ export async function pessoa(el, id) {
         <p class="sobretitulo">${(p.papeis || []).map((x) => PAPEIS[x] || x).join(' · ') || (p.tipo === 'grupo' ? 'Agrupamento' : 'Pessoa')}</p>
         <h1>${p.nome}</h1>
         ${anos ? html`<p class="anos">${anos}</p>` : ''}
+        ${linhaVida(p)}
         ${p.nomes_alternativos?.length ? html`<p class="alt">Também referido/a como: ${p.nomes_alternativos.join('; ')}</p>` : ''}
         ${p.editorial ? html`<p class="alt">✎ Ficha criada por ${nomeContribuidor(p.editorial.por)} em ${fmtData(p.editorial.data)}, sem fonte própria.</p>` : ''}
         ${p.nota_editor && !ed ? html`<p class="alt" title="Decisão de quem edita o arquivo, não de uma fonte">✎ ${dono(p.nota_editor_por) ? 'Nota do editor' : `Nota de ${nomeContribuidor(p.nota_editor_por)}`}: ${p.nota_editor}</p>` : ''}
@@ -106,8 +109,10 @@ export async function pessoa(el, id) {
     ${p.biografia?.length ? html`<section class="seccao biografia estreito"><h2>Nas palavras das fontes <small>${plural(p.biografia.length, 'excerto', 'excertos')}</small></h2>
       ${p.biografia.map(blocoCitacao)}</section>` : ''}
 
-    ${p.factos?.length ? html`<section class="seccao"><h2>Factos <small>clique nos números para ver a citação${ed ? ' · ✎ acrescenta uma nota assinada' : ''}</small></h2>
-      ${tabelaFactos(p.factos, { editar: ed && id })}</section>` : ''}
+    ${p.factos?.length || ed ? html`<section class="seccao"><h2>Factos <small>clique nos números para ver a citação${ed ? ' · ✎ acrescenta uma nota assinada' : ''}</small></h2>
+      ${tabelaFactos(p.factos, { editar: ed && `pessoas/${id}` })}
+      ${ed ? html`${p.tipo !== 'grupo' ? html`<div class="formularios-lado">${formVida(p, 'nascimento')}${formVida(p, 'morte')}</div>` : ''}
+        ${formFacto(`pessoas/${id}`)}` : ''}</section>` : ''}
 
     ${p.tipo === 'grupo' ? seccaoMembros(p, marcas) : ''}
 
@@ -143,6 +148,8 @@ export async function pessoa(el, id) {
           <p class="mudo">Escondida por ${nomeContribuidor(im.oculta.por)} em ${fmtData(im.oculta.data)}${im.oculta.nota ? `: ${im.oculta.nota}` : ''}</p>
           <div class="acoes"><button class="botao peq" data-acao="mostrar-imagem" data-id="${id}" data-url="${im.url}">Voltar a mostrar</button></div></div>`)}</div>` : ''}
       ${ed ? formNovaImagem(id) : ''}</section>` : ''}
+
+    ${seccaoReferencias(p, `pessoas/${id}`)}
 
     ${textos.length ? html`<section class="seccao"><h2>No blogue do arquivo <small>textos assinados que falam desta ficha</small></h2>
       <ul class="lista-simples">${textos.map((t) => html`<li><span class="mono mudo">${fmtData(t.data, true)}</span>

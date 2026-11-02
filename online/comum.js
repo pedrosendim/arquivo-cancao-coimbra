@@ -9,7 +9,9 @@
 export const repositorio = (env) => env.REPOSITORIO || 'pedrosendim/arquivo-cancao-coimbra';
 // os mesmos ficheiros que o servidor local deixa editar (scripts/servidor.py)
 export const RE_EDITAVEL = /^(dados\/(pessoas|instrumentos|gravacoes|obras|media|blogue)\/[a-z0-9]+(-[a-z0-9]+)*\.json|dados\/contribuidores\.json|fontes\/fontes\.json)$/;
-export const APROVAM = ['dono', 'editor'];
+// o fundador («dono») e os administradores gerem os contribuidores; com os editores, aprovam
+export const ADMINS = ['dono', 'administrador'];
+export const APROVAM = [...ADMINS, 'editor'];
 const AGENTE = 'arquivo-cancao-coimbra';
 
 export function json(dados, estado = 200) {

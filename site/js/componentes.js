@@ -3,20 +3,25 @@ import { E, PAPEIS, CAMPOS, vida, iniciais, catalogado, comArquivo } from './est
 import { html, raw, esc, miniatura, capaMedia, classificar, NOME_PLATAFORMA, fmtData, tituloDoc, partituraEmbed } from './util.js';
 import { itemDoArquivo } from './leitor.js';
 import { marcas } from './citacoes.js';
-import { notaEditorial } from './formularios.js';
+import { notaEditorial, marcaEditorial } from './formularios.js';
 
 /** Tabela de factos agrupados por campo; só os factos em conflito ficam na caixa «As fontes divergem».
- *  Com `editar` (id da pessoa), cada facto ganha o botão ✎ para uma nota assinada. */
+ *  Com `editar` («pessoas/<id>», «obras/<id>»… ou só o id de uma pessoa), cada facto ganha o botão ✎ para uma nota
+ *  assinada, e os acrescentados no modo de edição o botão × para os retirar. */
 export function tabelaFactos(factos, { editar } = {}) {
+  if (editar && !editar.includes('/')) editar = `pessoas/${editar}`;
+  const deContribuidor = (f) => f.editorial || (f.fontes?.length && f.fontes.every((c) => c.acrescentada));
   if (!factos?.length) return '';
   const grupos = {};
   for (const f of factos) (grupos[f.campo] ||= []).push(f);
   const ordem = Object.keys(CAMPOS);
   const posicao = (c) => { const k = ordem.indexOf(c); return k < 0 ? ordem.length : k; };
-  const linha = (f) => html`<div>${f.valor}${marcas(f.fontes)}${f.nota ? html` <span class="nota-agente" title="Nota do agente, não é facto">nota: ${f.nota}</span>` : ''}${notaEditorial(f.nota_editorial)}
-    ${editar ? html`<button class="botao-nota" data-acao="nota-facto" data-id="${editar}" data-indice="${factos.indexOf(f)}" data-pedir-campo="texto"
+  const linha = (f) => html`<div>${f.valor}${marcas(f.fontes)}${marcaEditorial(f.editorial, 'Testemunho de')}${f.nota ? html` <span class="nota-agente" title="Nota do agente, não é facto">nota: ${f.nota}</span>` : ''}${notaEditorial(f.nota_editorial)}
+    ${editar ? html`<button class="botao-nota" data-acao="nota-facto" data-alvo="${editar}" data-indice="${factos.indexOf(f)}" data-valor-facto="${f.valor}" data-pedir-campo="texto"
       data-valor="${f.nota_editorial?.texto || ''}" data-pedir="Nota sobre este facto (ex.: qual das versões lhe parece certa e porquê). Fica assinada; apague o texto para a retirar."
-      title="Acrescentar uma nota assinada a este facto">✎</button>` : ''}</div>`;
+      title="Acrescentar uma nota assinada a este facto">✎</button>
+      ${deContribuidor(f) ? html`<button class="botao-nota" data-acao="retirar-facto" data-alvo="${editar}" data-indice="${factos.indexOf(f)}" data-valor="${f.valor}"
+        data-confirmar="Retirar este facto?" title="Retirar (só factos acrescentados no modo de edição)">×</button>` : ''}` : ''}</div>`;
   return html`<table class="factos"><tbody>${Object.keys(grupos).sort((a, b) => posicao(a) - posicao(b)).map((c) => {
     const certos = grupos[c].filter((f) => !f.conflito), divergentes = grupos[c].filter((f) => f.conflito);
     return html`<tr><th>${CAMPOS[c] || c}</th><td>${certos.map(linha)}

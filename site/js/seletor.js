@@ -5,10 +5,12 @@
 import { E, PAPEIS, vida, iniciais } from './estado.js';
 import { $, $$, html, raw, esc, norm, miniatura } from './util.js';
 
-export function seletorPessoa({ excluir = '', criar = true, apenas = null, placeholder = 'Escreva um nome e escolha na lista' } = {}) {
-  return html`<div class="seletor-pessoa" data-seletor-pessoa data-excluir="${excluir}" data-criar="${criar ? '1' : ''}" data-apenas="${apenas ? apenas.join(',') : ''}">
-    <input class="campo" type="text" placeholder="${placeholder}" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false">
-    <input type="hidden" name="outro"><input type="hidden" name="nova_pessoa">
+export function seletorPessoa({ excluir = '', criar = true, apenas = null, nome = 'outro', nomeNova = 'nova_pessoa', valor = '',
+  placeholder = 'Escreva um nome e escolha na lista' } = {}) {
+  const atual = valor && E.por.pessoas[valor];
+  return html`<div class="seletor-pessoa${atual ? ' escolhido' : ''}" data-seletor-pessoa data-excluir="${excluir}" data-criar="${criar ? '1' : ''}" data-apenas="${apenas ? apenas.join(',') : ''}">
+    <input class="campo" type="text" placeholder="${placeholder}" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" value="${atual ? atual.nome : ''}">
+    <input type="hidden" name="${nome}" data-papel="id" value="${atual ? valor : ''}"><input type="hidden" name="${nomeNova}" data-papel="nova">
     <ul class="seletor-lista" role="listbox" hidden></ul>
   </div>`;
 }
@@ -66,8 +68,8 @@ function fechar(caixa) {
 function escolher(caixa, li) {
   const entrada = $('input.campo', caixa);
   const id = li.dataset.id || '', nova = li.dataset.criar || '';
-  caixa.querySelector('[name=outro]').value = id;
-  caixa.querySelector('[name=nova_pessoa]').value = nova;
+  caixa.querySelector('[data-papel=id]').value = id;
+  caixa.querySelector('[data-papel=nova]').value = nova;
   entrada.value = id ? E.por.pessoas[id].nome : nova;
   caixa.classList.toggle('escolhido', !!id);
   caixa.classList.toggle('nova', !!nova);
@@ -79,8 +81,8 @@ export function iniciarSeletores() {
   document.addEventListener('input', (e) => {
     const caixa = e.target.closest('[data-seletor-pessoa]');
     if (!caixa || !e.target.matches('input.campo')) return;
-    caixa.querySelector('[name=outro]').value = '';
-    caixa.querySelector('[name=nova_pessoa]').value = '';
+    caixa.querySelector('[data-papel=id]').value = '';
+    caixa.querySelector('[data-papel=nova]').value = '';
     caixa.classList.remove('escolhido', 'nova');
     desenhar(caixa);
   });
