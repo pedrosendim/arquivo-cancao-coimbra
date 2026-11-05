@@ -45,25 +45,13 @@
     },
     {
       "campo": "nascimento",
-      "valor": "26 de novembro de 2020",
-      "data": "2020-11-26",
-      "fontes": [],
-      "editorial": {
-        "por": "editor-do-arquivo",
-        "data": "2026-11-05"
-      },
-      "conflito": true
-    },
-    {
-      "campo": "nascimento",
       "valor": "26 de novembro de 2000",
       "data": "2000-11-26",
       "fontes": [],
       "editorial": {
         "por": "editor-do-arquivo",
         "data": "2026-11-05"
-      },
-      "conflito": true
+      }
     }
   ],
   "relacoes": [
