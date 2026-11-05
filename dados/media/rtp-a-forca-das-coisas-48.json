@@ -1,0 +1,29 @@
+{
+  "id": "rtp-a-forca-das-coisas-48",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-48/",
+  "titulo": "A Força das Coisas (Antena2, 2016)",
+  "data": "2016-01-23",
+  "pessoas": [
+    "antonio-de-almeida-santos",
+    "eduardo-filipe"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-48/",
+      "doc": "rtp-arquivos:w394b891f22d8c44b",
+      "citacao": "Programa cultural apresentado por Luís Caetano, com várias rubricas temáticas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-48/",
+      "doc": "rtp-arquivos:w394b891f22d8c44b",
+      "citacao": "Personalidades: … António Almeida Santos … Eduardo Filipe"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/jose-afonso/",
+  "titulo": "José Afonso (RTP Memória, 2015)",
+  "data": "2015-11-02",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/jose-afonso/",
+      "doc": "rtp-arquivos:w8c05f7374c7b34fa",
+      "citacao": "Estamos em 1980. José Afonso é um dos músicos convidados para o recém-estreado programa \"Sheiks com Cobertura\", onde interpreta \"Se Voaras Mais ao Perto\". Henrique Tabot, Guilherme Inês e Júlio Pereira são os amigos que o acompanham."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/jose-afonso/",
+      "doc": "rtp-arquivos:w8c05f7374c7b34fa",
+      "citacao": "José Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

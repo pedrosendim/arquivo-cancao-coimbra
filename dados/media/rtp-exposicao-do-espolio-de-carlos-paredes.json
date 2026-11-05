@@ -1,0 +1,28 @@
+{
+  "id": "rtp-exposicao-do-espolio-de-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/exposicao-do-espolio-de-carlos-paredes/",
+  "titulo": "Exposição do espólio de Carlos Paredes (RTP 1, 2008)",
+  "data": "2008-02-22",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/exposicao-do-espolio-de-carlos-paredes/",
+      "doc": "rtp-arquivos:w822b0a7b644a574c",
+      "citacao": "Lisboa, exposição do espólio do guitarrista Carlos Paredes, na Galeria da Sociedade Portuguesa de Autores."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/exposicao-do-espolio-de-carlos-paredes/",
+      "doc": "rtp-arquivos:w822b0a7b644a574c",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

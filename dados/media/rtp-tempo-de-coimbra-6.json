@@ -1,0 +1,32 @@
+{
+  "id": "rtp-tempo-de-coimbra-6",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-6/",
+  "titulo": "Tempo de Coimbra (RTP 1, 1983)",
+  "data": "1983-08-28",
+  "pessoas": [
+    "antonio-portugal",
+    "antonio-brojo",
+    "aurelio-dos-reis",
+    "rui-pato",
+    "antonio-bernardino"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-6/",
+      "doc": "rtp-arquivos:waa4cb11222196096",
+      "citacao": "Programa dedicado à antologia cronológica da história do fado de Coimbra, a década de sessenta do século XX."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-6/",
+      "doc": "rtp-arquivos:waa4cb11222196096",
+      "citacao": "Personalidades: … António Portugal … António Brojo … Aurélio dos Reis … Rui Pato … António Bernardino"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

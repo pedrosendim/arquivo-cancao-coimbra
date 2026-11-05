@@ -1,0 +1,28 @@
+{
+  "id": "rtp-inesquecivel-38",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/inesquecivel-38/",
+  "titulo": "Inesquecível (RTP Memória, 2012)",
+  "data": "2012-01-29",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/inesquecivel-38/",
+      "doc": "rtp-arquivos:w97d18da82fef7f0e",
+      "citacao": "Entrevista em estúdio conduzida por Júlio Isidro a Luiz Goes, cantor, poeta e compositor, a Ada de Castro, fadista e a Pedro Tochas, comediante, ilustradas com imagens de arquivo, reportagens de Anabela da Mata."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/inesquecivel-38/",
+      "doc": "rtp-arquivos:w97d18da82fef7f0e",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

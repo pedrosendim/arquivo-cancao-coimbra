@@ -1,0 +1,28 @@
+{
+  "id": "rtp-ensaio-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-i/",
+  "titulo": "Ensaio – Parte I (RTP 1, 1970)",
+  "data": "1970-08-02",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-i/",
+      "doc": "rtp-arquivos:w68f863c820c93164",
+      "citacao": "Magazine de caráter cultural, dedicado a temas das artes, das ideias e do quotidiano. Na primeira parte do programa, destaque para a carreira do cantor e compositor Paulo de Carvalho, para a profissão de jornalista, para a figura do ator norte-americano Humphrey Bogart, e para o percurso do médico António Menano, também fadista e compositor."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-i/",
+      "doc": "rtp-arquivos:w68f863c820c93164",
+      "citacao": "Personalidades: … António Menano"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

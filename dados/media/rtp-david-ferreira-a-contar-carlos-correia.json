@@ -1,0 +1,28 @@
+{
+  "id": "rtp-david-ferreira-a-contar-carlos-correia",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-carlos-correia/",
+  "titulo": "David Ferreira a Contar… Carlos Correia (Antena1, 2018)",
+  "data": "2018-05-21",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-carlos-correia/",
+      "doc": "rtp-arquivos:wada98a61eb6d61ea",
+      "citacao": "Neste programa, David Ferreira apresenta o estúdio de gravação de Herouville, nos arredores de Paris, nas palavras do técnico de gravação Carlos Correia, conhecido no meio musical como Boris, e que trabalhou em discos de Zeca Afonso, José Mário Branco e Sérgio Godinho que ali gravados."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-carlos-correia/",
+      "doc": "rtp-arquivos:wada98a61eb6d61ea",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

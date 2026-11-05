@@ -1,0 +1,28 @@
+{
+  "id": "rtp-musica-e-factos-6",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/musica-e-factos-6/",
+  "titulo": "Música e Factos (Antena2, 1982)",
+  "data": "1982-08-26",
+  "pessoas": [
+    "mario-garcia-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/musica-e-factos-6/",
+      "doc": "rtp-arquivos:w3549ff055863ab14",
+      "citacao": "Entrevista a Mário Afonso, responsável pelo curso de Guitarra Clássica, organizado pela Associação Académica de Coimbra e pela \"Tertúlia da Guitarra Clássica\", realizado pelo músico Roberto Olabarrieta, em Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/musica-e-factos-6/",
+      "doc": "rtp-arquivos:w3549ff055863ab14",
+      "citacao": "Personalidades: … Mário Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

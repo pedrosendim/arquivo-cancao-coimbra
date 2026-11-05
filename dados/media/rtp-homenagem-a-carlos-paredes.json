@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes/",
+  "titulo": "Homenagem a Carlos Paredes (RTP 2, 1998)",
+  "data": "1998-12-30",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes/",
+      "doc": "rtp-arquivos:wdac727861806ab61",
+      "citacao": "Programa dedicado a Carlos Paredes: A companheira, Lisboa e o lar onde se encontra internado."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes/",
+      "doc": "rtp-arquivos:wdac727861806ab61",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

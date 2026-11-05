@@ -1,0 +1,29 @@
+{
+  "id": "rtp-fado-de-coimbra-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fado-de-coimbra-parte-i/",
+  "titulo": "Fado de Coimbra – Parte I (RTP 2, 1989)",
+  "data": "1989-01-06",
+  "pessoas": [
+    "antonio-portugal",
+    "paulo-saraiva"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:wad279720dac0155c",
+      "citacao": "Primeira parte do programa em formato de tertúlia cultural, com apresentação de Alexandre Manuel e dedicado ao fado de Coimbra e às suas origens, com os convidados António Portugal, guitarrista, Teixeira Santos, Vice-Presidente da Associação dos Antigos Estudantes, Manuel Alegre, poeta, António Crespo e Luís Góis, fadistas, Paulo Saraiva, estudante universitário, e a participação especial de Janita Salomé."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:wad279720dac0155c",
+      "citacao": "Personalidades: … António Portugal … Paulo Saraiva"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

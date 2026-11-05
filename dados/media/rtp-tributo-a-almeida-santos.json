@@ -1,0 +1,20 @@
+{
+  "id": "rtp-tributo-a-almeida-santos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tributo-a-almeida-santos/",
+  "titulo": "Tributo a Almeida Santos (RTP Memória, 2019)",
+  "data": "2019-04-22",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tributo-a-almeida-santos/",
+      "doc": "rtp-arquivos:w6006e94284d2fc50",
+      "citacao": "Pequena biografia elaborada por Maria João Gama, dedicada a Almeida Santos, presidente honorário do PS, ex-presidente da Assembleia da República e cantor de fado de Coimbra, ilustrada com imagens de arquivo."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

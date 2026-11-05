@@ -1,0 +1,20 @@
+{
+  "id": "rtp-tradicao-academica",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tradicao-academica/",
+  "titulo": "Tradição académica (RTP 1, 2015)",
+  "data": "2015-05-08",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tradicao-academica/",
+      "doc": "rtp-arquivos:wb5b4c1db13c1d0c6",
+      "citacao": "Coimbra, Largo da Sé Velha, realização da Serenata Monumental, uma tradição incluída na cerimónia da Queima das Fitas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

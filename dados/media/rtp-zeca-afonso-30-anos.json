@@ -1,0 +1,28 @@
+{
+  "id": "rtp-zeca-afonso-30-anos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-30-anos/",
+  "titulo": "Zeca Afonso – 30 anos (RTP 3, 2017)",
+  "data": "2017-02-08",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-30-anos/",
+      "doc": "rtp-arquivos:w4401875ff35ea49c",
+      "citacao": "Setúbal, Associação José Afonso assinala a passagem dos trinta anos sobre a morte do cantor e compositor José Afonso, com concertos, tertúlias e exposições."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-30-anos/",
+      "doc": "rtp-arquivos:w4401875ff35ea49c",
+      "citacao": "Personalidades: … Zeca Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

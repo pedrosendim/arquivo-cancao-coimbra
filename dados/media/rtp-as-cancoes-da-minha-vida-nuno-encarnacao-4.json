@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-cancoes-da-minha-vida-nuno-encarnacao-4",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-4/",
+  "titulo": "As Canções da Minha Vida: Nuno Encarnação (Antena1, 2010)",
+  "data": "2010-08-09",
+  "pessoas": [
+    "nuno-encarnacao"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-4/",
+      "doc": "rtp-arquivos:we3f73a6e35620745",
+      "citacao": "Programa da Autoria de António Macedo, com o convidado Nuno Encarnação, deputado do PSD, que apresenta a canção “With Or Without You”, numa interpretação dos U2."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-4/",
+      "doc": "rtp-arquivos:we3f73a6e35620745",
+      "citacao": "Personalidades: … Nuno Encarnação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

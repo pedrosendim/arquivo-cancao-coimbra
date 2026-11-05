@@ -1,0 +1,28 @@
+{
+  "id": "rtp-i-festival-das-musicas-e-dos-portos",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/i-festival-das-musicas-e-dos-portos/",
+  "titulo": "I Festival das Músicas e dos Portos (Antena1, 2004)",
+  "data": "2004-09-26",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/i-festival-das-musicas-e-dos-portos/",
+      "doc": "rtp-arquivos:w2c1ebaa8f209b945",
+      "citacao": "\"I Festival das Músicas e dos Portos\", realizado na Aula Magna, da Universidade de Lisboa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/i-festival-das-musicas-e-dos-portos/",
+      "doc": "rtp-arquivos:w2c1ebaa8f209b945",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rtp-david-ferreira-a-contar-luis-de-andrade-cantado-por-zeca-e-adriano",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-luis-de-andrade-cantado-por-zeca-e-adriano/",
+  "titulo": "David Ferreira a Contar … Luís de Andrade cantado por Zeca e Adriano (Antena1, 2013)",
+  "data": "2013-10-25",
+  "pessoas": [
+    "jose-afonso",
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-luis-de-andrade-cantado-por-zeca-e-adriano/",
+      "doc": "rtp-arquivos:w1738c0dcda946327",
+      "citacao": "O poeta Luís Oliveira de Andrade (Luís Pignatelli), cantado por Adriano Correia de Oliveira e Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-luis-de-andrade-cantado-por-zeca-e-adriano/",
+      "doc": "rtp-arquivos:w1738c0dcda946327",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso) … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

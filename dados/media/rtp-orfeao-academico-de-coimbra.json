@@ -1,0 +1,20 @@
+{
+  "id": "rtp-orfeao-academico-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/orfeao-academico-de-coimbra/",
+  "titulo": "Orfeão Académico de Coimbra (RTP 1, 1967)",
+  "data": "1967-05-02",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/orfeao-academico-de-coimbra/",
+      "doc": "rtp-arquivos:w9a1905ff9ac7d417",
+      "citacao": "Coimbra, atuação do Orfeão Académico de Coimbra no Sarau das Universidades."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

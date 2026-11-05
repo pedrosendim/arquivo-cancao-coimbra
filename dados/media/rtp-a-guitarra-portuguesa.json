@@ -1,0 +1,29 @@
+{
+  "id": "rtp-a-guitarra-portuguesa",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa/",
+  "titulo": "A Guitarra Portuguesa (Antena1, 2012)",
+  "data": "2012-11-26",
+  "pessoas": [
+    "artur-paredes",
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa/",
+      "doc": "rtp-arquivos:wedf9f4e5caabfae2",
+      "citacao": "Programa apresentado por Iolanda Ferreira e Rúben de Carvalho sobre a Guitarra Portuguesa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa/",
+      "doc": "rtp-arquivos:wedf9f4e5caabfae2",
+      "citacao": "Personalidades: … Artur Paredes … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rtp-elisio-pimenta",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/elisio-pimenta/",
+  "titulo": "Elísio Pimenta (RTP 2, 1987)",
+  "data": "1987-02-14",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/elisio-pimenta/",
+      "doc": "rtp-arquivos:wfc3df1bb3800912f",
+      "citacao": "Programa apresentado por Fernando Rocha e Cecília Penteado sobre as atividades e ocupação de tempos livres na terceira idade, com os convidados, Elísio Pimenta, Grupo de Fados de Coimbra \"Toada Coimbrã\", fadista António Severino."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

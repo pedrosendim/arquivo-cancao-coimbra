@@ -1,0 +1,28 @@
+{
+  "id": "rtp-biografia-de-almeida-santos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/biografia-de-almeida-santos/",
+  "titulo": "Biografia de Almeida Santos (RTP 3, 2016)",
+  "data": "2016-01-19",
+  "pessoas": [
+    "antonio-de-almeida-santos"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/biografia-de-almeida-santos/",
+      "doc": "rtp-arquivos:w526944c115aa8a98",
+      "citacao": "Retrospetiva da vida de Almeida Santos, dirigente histórico do PS."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/biografia-de-almeida-santos/",
+      "doc": "rtp-arquivos:w526944c115aa8a98",
+      "citacao": "Personalidades: … António Almeida Santos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

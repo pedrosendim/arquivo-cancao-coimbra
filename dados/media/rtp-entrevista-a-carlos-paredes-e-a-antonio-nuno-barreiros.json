@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-carlos-paredes-e-a-antonio-nuno-barreiros",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes-e-a-antonio-nuno-barreiros/",
+  "titulo": "Entrevista a Carlos Paredes e a António Nuno Barreiros (Emissora Nacional, 1973)",
+  "data": "1973-01-04",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes-e-a-antonio-nuno-barreiros/",
+      "doc": "rtp-arquivos:wd3c2d4abc3284e79",
+      "citacao": "Entrevista ao músico Carlos Paredes, e ao crítico e musicólogo António Nuno Barreiros, sobre a evolução, influências e características da música portuguesa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes-e-a-antonio-nuno-barreiros/",
+      "doc": "rtp-arquivos:wd3c2d4abc3284e79",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

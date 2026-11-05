@@ -1,0 +1,28 @@
+{
+  "id": "rtp-fados-de-portugal-parte-i-34",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-34/",
+  "titulo": "Fados de Portugal – Parte I (RTP Int, 2001)",
+  "data": "2001-06-12",
+  "pessoas": [
+    "antonio-ataide"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-34/",
+      "doc": "rtp-arquivos:w58fc0f33a7e7f071",
+      "citacao": "Primeira parte do programa sobre fado, em direto, apresentado por António Pinto Basto com os músicos residentes, Pedro de Castro e José Luís Nobre Costa na guitarra portuguesa o Francisco Gonçalves, na viola e o José Elmiro Silva Nunes na viola baixo os fadistas convidados, Marina Rosa, Maria Jô-Jô, Olga Duarte, António Ataíde, convidado especial, Rui Mota."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-34/",
+      "doc": "rtp-arquivos:w58fc0f33a7e7f071",
+      "citacao": "Personalidades: … António Ataíde"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

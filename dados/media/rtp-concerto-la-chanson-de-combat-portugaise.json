@@ -1,0 +1,28 @@
+{
+  "id": "rtp-concerto-la-chanson-de-combat-portugaise",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-la-chanson-de-combat-portugaise/",
+  "titulo": "Concerto “La Chanson de Combat Portugaise” (Antena1, 1970)",
+  "data": "1970-11-10",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-la-chanson-de-combat-portugaise/",
+      "doc": "rtp-arquivos:w6a52f8ee36a8e704",
+      "citacao": "Em 1970, se muitos portugueses partiam do seu país à procura de trabalho ou melhores condições de vida, outros faziam o mesmo por razões políticas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-la-chanson-de-combat-portugaise/",
+      "doc": "rtp-arquivos:w6a52f8ee36a8e704",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

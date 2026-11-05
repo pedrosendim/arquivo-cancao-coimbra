@@ -1,0 +1,29 @@
+{
+  "id": "rtp-homenagem-a-manuel-alegre",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manuel-alegre/",
+  "titulo": "Homenagem a Manuel Alegre (Antena1, 1996)",
+  "data": "1996-12-20",
+  "pessoas": [
+    "maria-teresa-alegre-de-melo-duarte",
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manuel-alegre/",
+      "doc": "rtp-arquivos:wa767343ac89bf4e5",
+      "citacao": "Programa dedicado à vida e obra poética de Manuel Alegre."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-manuel-alegre/",
+      "doc": "rtp-arquivos:wa767343ac89bf4e5",
+      "citacao": "Personalidades: … Teresa Alegre Portugal … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

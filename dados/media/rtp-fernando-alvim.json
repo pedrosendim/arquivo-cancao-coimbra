@@ -1,0 +1,28 @@
+{
+  "id": "rtp-fernando-alvim",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fernando-alvim/",
+  "titulo": "Fernando Alvim (RTP 1, 2011)",
+  "data": "2011-11-08",
+  "pessoas": [
+    "fernando-alvim"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-alvim/",
+      "doc": "rtp-arquivos:webfc207cd36d5942",
+      "citacao": "Entrevista biográfica, conduzida por José Fialho Gouveia, a Fernando Alvim, músico e guitarrista, que inicia a sua carreira aos 21 anos tocando como acompanhante em casas de fado amador, teve  um programa de music-hall chamado Nova Onda, conhece Carlos Paredes com quem inicia, em 1959, uma parceria de trabalho que durou 24 anos, tocou com vários músicos do Hot Club, fez parte integrante do conjunto de músicos do popular programa televisivo Zip-Zip, fundou o Conjunto de Guitarras de Fernando Alvim (1969) e gravou um disco com João Maria Tudela, participou, ainda em 1998, no disco de Chainho, A Guitarra e Outras Mulheres, atualmente acompanha os guitarristas João Torre do Vale, António Chaínho e Pedro Caldeira Cabral, no apoio a diversos fadistas, e vem ao programa falar sobre a sua carreira e o seu último trabalho, um disco duplo \"Fados e Canções do Alvim\", onde participam grandes cantores do fado."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-alvim/",
+      "doc": "rtp-arquivos:webfc207cd36d5942",
+      "citacao": "Personalidades: … Fernando Alvim"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

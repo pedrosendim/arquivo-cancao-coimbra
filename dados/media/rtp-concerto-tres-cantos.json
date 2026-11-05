@@ -1,0 +1,28 @@
+{
+  "id": "rtp-concerto-tres-cantos",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-tres-cantos/",
+  "titulo": "Concerto “Três Cantos” (Antena1, 2009)",
+  "data": "2009-10-22",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-tres-cantos/",
+      "doc": "rtp-arquivos:w04114760424bdd36",
+      "citacao": "Emissão especial sobre o concerto \"Três Cantos\" no Campo Pequeno, uma colaboração entre Sérgio Godinho, José Mário Branco e Fausto Bordalo Dias, com entrevista aos três músicos sobre o espetáculo e a figura presente de José Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-tres-cantos/",
+      "doc": "rtp-arquivos:w04114760424bdd36",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

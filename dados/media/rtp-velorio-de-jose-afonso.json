@@ -1,0 +1,28 @@
+{
+  "id": "rtp-velorio-de-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/velorio-de-jose-afonso/",
+  "titulo": "Velório de José Afonso (RTP 2, 1987)",
+  "data": "1987-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/velorio-de-jose-afonso/",
+      "doc": "rtp-arquivos:w4e26bb3a28f02cbe",
+      "citacao": "Setúbal, Escola Secundária de São Julião, populares prestam homenagem a José Afonso, músico e compositor também conhecido por Zeca Afonso, falecido na madrugada de hoje vítima de esclerose lateral amiotrófica."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/velorio-de-jose-afonso/",
+      "doc": "rtp-arquivos:w4e26bb3a28f02cbe",
+      "citacao": "Personalidades: … José Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

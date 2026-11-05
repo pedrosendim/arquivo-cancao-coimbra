@@ -1,0 +1,36 @@
+{
+  "id": "rtp-adriano-correia-de-oliveira-parte-ii",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-parte-ii/",
+  "titulo": "Adriano Correia de Oliveira – Parte II (RTP Memória, 2009)",
+  "data": "2009-11-06",
+  "pessoas": [
+    "jose-niza",
+    "rui-pato",
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-parte-ii/",
+      "doc": "rtp-arquivos:w80a999f40893745c",
+      "citacao": "Segunda parte do programa sobre o cantor Adriano Correia de Oliveira e a canção de Coimbra, apresentado por Mário Figueiredo, com os convidados José Niza, compositor, Isabel Correia de Oliveira, filha de Adriano, e Rui Pato, médico e músico. Inclui imagens de arquivo de Adriano, contextualizando a sua vida e obra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-parte-ii/",
+      "doc": "rtp-arquivos:w80a999f40893745c",
+      "citacao": "Personalidades: … José Niza … Rui Pato"
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-parte-ii/",
+      "doc": "rtp-arquivos:w80a999f40893745c",
+      "citacao": "Adriano Correia de Oliveira – Parte II"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

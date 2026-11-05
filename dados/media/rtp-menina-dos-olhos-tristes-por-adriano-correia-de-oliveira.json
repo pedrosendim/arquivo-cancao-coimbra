@@ -1,0 +1,29 @@
+{
+  "id": "rtp-menina-dos-olhos-tristes-por-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/menina-dos-olhos-tristes-por-adriano-correia-de-oliveira/",
+  "titulo": "“Menina dos Olhos Tristes” por Adriano Correia de Oliveira (Antena1, 2015)",
+  "data": "2015-09-18",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/menina-dos-olhos-tristes-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w09f06f59f75efe5f",
+      "citacao": "Programa dedicado à canção \"Menina dos Olhos Tristes\", letra de Reinaldo Ferreira, música de Zeca Afonso, interpretação de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/menina-dos-olhos-tristes-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w09f06f59f75efe5f",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

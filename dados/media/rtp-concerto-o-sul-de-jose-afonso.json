@@ -1,0 +1,28 @@
+{
+  "id": "rtp-concerto-o-sul-de-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-o-sul-de-jose-afonso/",
+  "titulo": "Concerto “O Sul de José Afonso” (RTP 1, 2017)",
+  "data": "2017-04-26",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-o-sul-de-jose-afonso/",
+      "doc": "rtp-arquivos:we0d4bd0e992ef8ab",
+      "citacao": "Para assinalar os trinta anos da morte do cantor Zeca Afonso, o sobrinho João Afonso realiza um concerto \"O Sul de José Afonso\", onde divulga canções menos conhecidas, escritas e compostas pelo cantor, no Alentejo e no Algarve."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-o-sul-de-jose-afonso/",
+      "doc": "rtp-arquivos:we0d4bd0e992ef8ab",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

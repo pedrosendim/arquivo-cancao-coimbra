@@ -1,0 +1,35 @@
+{
+  "id": "rtp-alma-lusa-29",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+  "titulo": "Alma Lusa (Antena1, 2007)",
+  "data": "2007-12-23",
+  "pessoas": [
+    "antonio-portugal",
+    "antonio-brojo",
+    "jorge-gomes",
+    "antonio-ataide",
+    "patrick-mendes",
+    "ricardo-dias",
+    "pedro-lopes",
+    "nuno-botelho"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+      "doc": "rtp-arquivos:w08f1874990189542",
+      "citacao": "Emissão especial de Boas Festas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+      "doc": "rtp-arquivos:w08f1874990189542",
+      "citacao": "Personalidades: … António Portugal … António Brojo … Jorge Gomes … António Ataíde … Patrick Mendes … Ricardo Dias … Pedro Lopes … Nuno Botelho"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

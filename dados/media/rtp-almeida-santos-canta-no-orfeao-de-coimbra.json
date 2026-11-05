@@ -1,0 +1,28 @@
+{
+  "id": "rtp-almeida-santos-canta-no-orfeao-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/almeida-santos-canta-no-orfeao-de-coimbra/",
+  "titulo": "Almeida Santos canta no Orfeão de Coimbra (RTP 1, 2001)",
+  "data": "2001-02-11",
+  "pessoas": [
+    "antonio-de-almeida-santos"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/almeida-santos-canta-no-orfeao-de-coimbra/",
+      "doc": "rtp-arquivos:w9c43e4e0758b60d6",
+      "citacao": "Almeida Santos, Presidente da Assembleia da República, cantou no Orfeão de Coimbra em espectáculo que assinalou os 20 anos dos antigos orfeanistas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/almeida-santos-canta-no-orfeao-de-coimbra/",
+      "doc": "rtp-arquivos:w9c43e4e0758b60d6",
+      "citacao": "Personalidades: … António de Almeida Santos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

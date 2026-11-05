@@ -1,0 +1,20 @@
+{
+  "id": "rtp-concerto-de-solidariedade",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-de-solidariedade/",
+  "titulo": "Concerto de solidariedade (RTP 1, 1990)",
+  "data": "1990-05-11",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-de-solidariedade/",
+      "doc": "rtp-arquivos:w3bb15aaab3f0fedf",
+      "citacao": "Lisboa, concerto de solidariedade do Coro dos Antigos Orfeonistas do Orfeon Académico de Coimbra para angariar fundos para a Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental na Aula Magna da reitoria da Universidade de Lisboa."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

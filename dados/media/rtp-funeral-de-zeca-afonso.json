@@ -1,0 +1,28 @@
+{
+  "id": "rtp-funeral-de-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/funeral-de-zeca-afonso/",
+  "titulo": "Funeral de Zeca Afonso (RTP 1, 1987)",
+  "data": "1987-02-24",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/funeral-de-zeca-afonso/",
+      "doc": "rtp-arquivos:w9b1391727217a91f",
+      "citacao": "Setúbal, cortejo fúnebre e funeral do cantor e compositor Zeca Afonso no Cemitério da Piedade."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/funeral-de-zeca-afonso/",
+      "doc": "rtp-arquivos:w9b1391727217a91f",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-o-fado-mouraria",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/o-fado-mouraria/",
+  "titulo": "O Fado Mouraria (Antena1, 2005)",
+  "data": "2005-09-26",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-fado-mouraria/",
+      "doc": "rtp-arquivos:wf1e4c0be1271f3f2",
+      "citacao": "Lisboa, Aula Magna da Reitoria da Universidade de Lisboa, espectáculo de fados, integrado no I Festival das Músicas e dos Portos."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-fado-mouraria/",
+      "doc": "rtp-arquivos:wf1e4c0be1271f3f2",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

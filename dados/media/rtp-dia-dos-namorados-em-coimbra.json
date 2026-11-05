@@ -1,0 +1,20 @@
+{
+  "id": "rtp-dia-dos-namorados-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/dia-dos-namorados-em-coimbra/",
+  "titulo": "Dia dos Namorados em Coimbra (RTP 1, 2017)",
+  "data": "2017-02-14",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/dia-dos-namorados-em-coimbra/",
+      "doc": "rtp-arquivos:wf8d834a0b7d7a261",
+      "citacao": "Coimbra, no \"Altar do Amor\" do dia de São Valentim, poesia e serenatas com \"Elvis Presley\" registadas para a posteridade, uma iniciativa da Agência Promoção da Baixa de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

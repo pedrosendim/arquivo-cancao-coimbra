@@ -1,0 +1,28 @@
+{
+  "id": "rtp-cancao-de-coimbra-de-fernando-rolim",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-de-coimbra-de-fernando-rolim/",
+  "titulo": "Canção de Coimbra de Fernando Rolim (RTP 1, 2017)",
+  "data": "2017-03-27",
+  "pessoas": [
+    "fernando-rolim"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-de-coimbra-de-fernando-rolim/",
+      "doc": "rtp-arquivos:w03b31eed119c3c57",
+      "citacao": "Coimbra, após o interregno de uma década, Fernando Rolim, um dos nomes da canção de Coimbra, apresenta a sua nova obra discográfica \"Coimbra, um tempo que não passa\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-de-coimbra-de-fernando-rolim/",
+      "doc": "rtp-arquivos:w03b31eed119c3c57",
+      "citacao": "Personalidades: … Fernando Rolim"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

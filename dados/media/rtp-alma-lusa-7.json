@@ -1,0 +1,28 @@
+{
+  "id": "rtp-alma-lusa-7",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-7/",
+  "titulo": "Alma Lusa (Antena1, 2007)",
+  "data": "2007-12-30",
+  "pessoas": [
+    "fernando-rolim"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-7/",
+      "doc": "rtp-arquivos:wd5b4b1ebb212ebb4",
+      "citacao": "Programa especial de fim de ano, com fados interpretados por Rodrigo, Margarida Bessa, João Braga, Argentina Santos, Cristina Branco, Carlos Bastos, Vicente da Câmara, Fernando Rolim, Marisa e Manuel Chambel."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-7/",
+      "doc": "rtp-arquivos:wd5b4b1ebb212ebb4",
+      "citacao": "Personalidades: … Fernando Rolim"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

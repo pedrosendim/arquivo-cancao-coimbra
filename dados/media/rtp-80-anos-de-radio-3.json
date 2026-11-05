@@ -1,0 +1,28 @@
+{
+  "id": "rtp-80-anos-de-radio-3",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/80-anos-de-radio-3/",
+  "titulo": "80 Anos de Rádio (Antena1, 2015)",
+  "data": "2015-06-12",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/80-anos-de-radio-3/",
+      "doc": "rtp-arquivos:wde579a58f51ac58c",
+      "citacao": "As memórias mais marcantes da Rádio em Portugal, com a canção \"Trova do Vento que Passa\", letra de Manuel Alegre, na interpretação de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/80-anos-de-radio-3/",
+      "doc": "rtp-arquivos:wde579a58f51ac58c",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

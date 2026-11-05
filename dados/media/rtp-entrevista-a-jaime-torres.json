@@ -1,0 +1,29 @@
+{
+  "id": "rtp-entrevista-a-jaime-torres",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jaime-torres/",
+  "titulo": "Entrevista a Jaime Torres (Antena1, 2014)",
+  "data": "2014-02-21",
+  "pessoas": [
+    "jose-afonso",
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jaime-torres/",
+      "doc": "rtp-arquivos:w3c7765c9e60720f6",
+      "citacao": "Entrevista a Jaime Torres sobre o concerto do grupo \"Canto d'Aqui\", em Braga, de homenagem a José Afonso e a Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jaime-torres/",
+      "doc": "rtp-arquivos:w3c7765c9e60720f6",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso) … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

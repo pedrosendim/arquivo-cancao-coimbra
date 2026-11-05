@@ -1,0 +1,28 @@
+{
+  "id": "rtp-gilberto-gracio-e-antonio-eustaquio",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/gilberto-gracio-e-antonio-eustaquio/",
+  "titulo": "Gilberto Grácio e António Eustáquio (RTP Int, 2005)",
+  "data": "2005-12-23",
+  "pessoas": [
+    "gilberto-gracio"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/gilberto-gracio-e-antonio-eustaquio/",
+      "doc": "rtp-arquivos:w3e7b30bf7ff4025e",
+      "citacao": "Programa sobre o Guitolão, instrumento musical de cordas, com entrevista de Raquel Santos a Gilberto Grácio, inventor e construtor deste instrumento, e ao músico António Eustáquio."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/gilberto-gracio-e-antonio-eustaquio/",
+      "doc": "rtp-arquivos:w3e7b30bf7ff4025e",
+      "citacao": "Personalidades: … Gilberto Grácio"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

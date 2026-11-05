@@ -1,0 +1,28 @@
+{
+  "id": "rtp-sons-da-musica-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/sons-da-musica-2/",
+  "titulo": "Sons da Música (Antena1, 1983)",
+  "data": "1983-01-01",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/sons-da-musica-2/",
+      "doc": "rtp-arquivos:wf1114c63482e4ce9",
+      "citacao": "Programa sobre o lançamento do disco de José Afonso \"Como Se Fora Seu Filho\", em que algumas das canções foram escritas para a banda sonora da peça de teatro \"Fernão Mentes Pinto?\", do Grupo de Teatro \"A Barraca\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/sons-da-musica-2/",
+      "doc": "rtp-arquivos:wf1114c63482e4ce9",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

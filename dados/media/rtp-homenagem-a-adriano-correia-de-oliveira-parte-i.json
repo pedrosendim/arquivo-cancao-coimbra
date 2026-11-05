@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-adriano-correia-de-oliveira-parte-i",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-parte-i/",
+  "titulo": "Homenagem a Adriano Correia de Oliveira – Parte I (Antena1, 2007)",
+  "data": "2007-10-16",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-parte-i/",
+      "doc": "rtp-arquivos:w79258fda10857863",
+      "citacao": "Primeira parte do programa \"Memórias de Adriano\" - 25 anos da morte de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-parte-i/",
+      "doc": "rtp-arquivos:w79258fda10857863",
+      "citacao": "Homenagem a Adriano Correia de Oliveira – Parte I"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

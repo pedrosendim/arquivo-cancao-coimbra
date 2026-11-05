@@ -1,0 +1,28 @@
+{
+  "id": "rtp-alma-lusa-21",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-21/",
+  "titulo": "Alma Lusa (Antena1, 2008)",
+  "data": "2008-03-30",
+  "pessoas": [
+    "joao-farinha-1976"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-21/",
+      "doc": "rtp-arquivos:w0a3d034bb0e2bd81",
+      "citacao": "Programa de fados realizado e apresentado por Edgar Canelas. Fados interpretados por Simone de Oliveira, Maria da Fé e João Braga."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-21/",
+      "doc": "rtp-arquivos:w0a3d034bb0e2bd81",
+      "citacao": "Personalidades: … João Farinha"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

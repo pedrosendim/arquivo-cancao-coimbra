@@ -1,0 +1,28 @@
+{
+  "id": "rtp-velorio-de-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/velorio-de-zeca-afonso/",
+  "titulo": "Velório de Zeca Afonso (RTP 1, 1987)",
+  "data": "1987-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/velorio-de-zeca-afonso/",
+      "doc": "rtp-arquivos:we716582290cc5d7c",
+      "citacao": "Setúbal, velório de José \"Zeca\" Afonso, cantor vítima de esclerose lateral amiotrófica."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/velorio-de-zeca-afonso/",
+      "doc": "rtp-arquivos:we716582290cc5d7c",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

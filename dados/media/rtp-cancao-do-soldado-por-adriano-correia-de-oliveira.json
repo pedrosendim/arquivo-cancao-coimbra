@@ -1,0 +1,29 @@
+{
+  "id": "rtp-cancao-do-soldado-por-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-do-soldado-por-adriano-correia-de-oliveira/",
+  "titulo": "“Canção do Soldado” por Adriano Correia de Oliveira (Antena1, 2015)",
+  "data": "2015-10-01",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-do-soldado-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:wb79f30806dd8563b",
+      "citacao": "\"Canção do Soldado\", com letra de Urbano Tavares Rodrigues, música e interpretação de Adriano Correia de Oliveira, viola de Rui Pato."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-do-soldado-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:wb79f30806dd8563b",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

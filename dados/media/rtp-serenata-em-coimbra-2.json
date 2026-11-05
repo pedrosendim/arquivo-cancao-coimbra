@@ -1,0 +1,20 @@
+{
+  "id": "rtp-serenata-em-coimbra-2",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/serenata-em-coimbra-2/",
+  "titulo": "Serenata em Coimbra (RTP 1, 2019)",
+  "data": "2019-05-03",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-em-coimbra-2/",
+      "doc": "rtp-arquivos:w9a8db0a662cbfaa9",
+      "citacao": "Coimbra, Largo da Sé Velha enche-se com milhares de estudantes na última noite da Serenata Monumental, que marca o início da Queima das Fitas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

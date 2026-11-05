@@ -1,0 +1,20 @@
+{
+  "id": "rtp-jose-rebola",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/jose-rebola/",
+  "titulo": "José Rebola (RTP 1, 2012)",
+  "data": "2012-05-08",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/jose-rebola/",
+      "doc": "rtp-arquivos:w69423290ffddcb9a",
+      "citacao": "Entrevista biográfica conduzida por José Fialho Gouveia a José Rebola, engenheiro eletrotécnico e informático, letrista, músico e guitarrista de Coimbra, que depois de algumas experiências em bandas de rockabilly e psychobilly fundou como projeto pessoal, a banda Anaquim (referência directa a um dos seus heróis, Anakin Skywalker, da «Guerra das Estrelas»), do qual é vocalista e que conta com João Santiago, Pedro Ferreira, Filipe Ferreira e Luís Duarte."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rtp-serenata-monumental-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/serenata-monumental-em-coimbra/",
+  "titulo": "Serenata Monumental da Queima das Fitas de Coimbra (RTP 2, 2002)",
+  "data": "2002-05-03",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-monumental-em-coimbra/",
+      "doc": "rtp-arquivos:we01fc783d3aff8e7",
+      "citacao": "Coimbra, estudantes universitários da Universidade de Coimbra assistem à tradicional Serenata Monumental, no Largo da Sé Velha, que assinala o início das tradicionais festas relacionadas com a Queima das Fitas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-indicativos-promocionais",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/indicativos-promocionais/",
+  "titulo": "Indicativos Promocionais (Antena1, 2003)",
+  "data": "2003-01-01",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/indicativos-promocionais/",
+      "doc": "rtp-arquivos:w373ad62265da24e7",
+      "citacao": "Compacto de indicativos promocionais a espectáculos musicais com patrocínio da Antena 1."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/indicativos-promocionais/",
+      "doc": "rtp-arquivos:w373ad62265da24e7",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

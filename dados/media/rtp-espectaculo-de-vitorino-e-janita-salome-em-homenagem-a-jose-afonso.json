@@ -1,0 +1,28 @@
+{
+  "id": "rtp-espectaculo-de-vitorino-e-janita-salome-em-homenagem-a-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/espectaculo-de-vitorino-e-janita-salome-em-homenagem-a-jose-afonso/",
+  "titulo": "Espectáculo de Vitorino e Janita Salomé em homenagem a José Afonso (RTP 1, 1998)",
+  "data": "1998-02-19",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espectaculo-de-vitorino-e-janita-salome-em-homenagem-a-jose-afonso/",
+      "doc": "rtp-arquivos:w4ac89cbc67cf787e",
+      "citacao": "Lisboa, Vitorino e Janita Salomé preparam espetáculo de homenagem ao cantor e compositor José Afonso (Zeca Afonso), que integra o \"Festival dos 100 Dias\" organizado pela Exposição Mundial de 1998: Expo 98."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espectaculo-de-vitorino-e-janita-salome-em-homenagem-a-jose-afonso/",
+      "doc": "rtp-arquivos:w4ac89cbc67cf787e",
+      "citacao": "Personalidades: … José Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

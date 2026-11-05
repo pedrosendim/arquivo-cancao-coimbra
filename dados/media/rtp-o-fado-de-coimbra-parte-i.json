@@ -1,0 +1,28 @@
+{
+  "id": "rtp-o-fado-de-coimbra-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/o-fado-de-coimbra-parte-i/",
+  "titulo": "O Fado de Coimbra – Parte I (RTP 1, 1994)",
+  "data": "1994-02-25",
+  "pessoas": [
+    "fernando-machado-soares"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:wc87378acc5ecc37a",
+      "citacao": "Primeira parte do programa apresentado pelo músico José Pracana, com os convidados Fernando Machado Soares, fadista e compositor, e José Manuel Oliveira, fadista, com entrevista e atuações dos convidados acompanhados à guitarra por José Fontes Rocha e Ricardo Rocha, e à viola por Manuel Martins e Carlos Manuel."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-fado-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:wc87378acc5ecc37a",
+      "citacao": "Personalidades: … Fernando Machado Soares"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

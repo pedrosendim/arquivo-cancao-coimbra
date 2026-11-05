@@ -1,0 +1,28 @@
+{
+  "id": "rtp-20o-aniversario-da-morte-de-adriano-correia-de-oliveira",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/20o-aniversario-da-morte-de-adriano-correia-de-oliveira/",
+  "titulo": "20º Aniversário da morte de Adriano Correia de Oliveira (RTP 1, 2002)",
+  "data": "2002-10-16",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/20o-aniversario-da-morte-de-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:wccc7ee4fc5c88a73",
+      "citacao": "Recordação de Adriano Correia de Oliveira, no vigésimo aniversário do seu falecimento. Inclui depoimento do poeta Manuel Alegre sobre Adriano, e imagens de arquivo do cantor."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/20o-aniversario-da-morte-de-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:wccc7ee4fc5c88a73",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-fernando-machado-soares-2",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares-2/",
+  "titulo": "Fernando Machado Soares (RTP Memória, 2011)",
+  "data": "2011-07-01",
+  "pessoas": [
+    "fernando-machado-soares"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares-2/",
+      "doc": "rtp-arquivos:w4faf62070bedc73f",
+      "citacao": "Maria João Gama conversa em estúdio com Fernando Machado Soares, magistrado, cantor, poeta e compositor, uma entrevista biográfica sobre a sua carreira artística, profissional e momentos da vida pessoal, intercalada com imagens de arquivo com o convidado a cantar fados de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares-2/",
+      "doc": "rtp-arquivos:w4faf62070bedc73f",
+      "citacao": "Personalidades: … Fernando Machado Soares"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

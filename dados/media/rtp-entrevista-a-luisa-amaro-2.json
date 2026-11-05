@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-luisa-amaro-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-luisa-amaro-2/",
+  "titulo": "Entrevista a Luísa Amaro (Antena1, 2001)",
+  "data": "2001-02-14",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-luisa-amaro-2/",
+      "doc": "rtp-arquivos:w4ae3ab5b75fbbd3c",
+      "citacao": "Entrevista a Luísa Amaro, música e esposa de Carlos Paredes, sobre o atual estado de saúde do músico."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-luisa-amaro-2/",
+      "doc": "rtp-arquivos:w4ae3ab5b75fbbd3c",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

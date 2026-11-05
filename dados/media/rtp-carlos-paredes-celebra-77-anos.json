@@ -1,0 +1,28 @@
+{
+  "id": "rtp-carlos-paredes-celebra-77-anos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-celebra-77-anos/",
+  "titulo": "Carlos Paredes celebra 77 anos (RTP 1, 2002)",
+  "data": "2002-02-16",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-celebra-77-anos/",
+      "doc": "rtp-arquivos:w137f5460857ce3a1",
+      "citacao": "Retrospetiva da carreira do músico Carlos Paredes, que celebra hoje 77 anos de idade."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-celebra-77-anos/",
+      "doc": "rtp-arquivos:w137f5460857ce3a1",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

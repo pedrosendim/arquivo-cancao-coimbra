@@ -1,0 +1,20 @@
+{
+  "id": "rtp-restaurante-ramalhao",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/restaurante-ramalhao/",
+  "titulo": "Restaurante “Ramalhão” (RTP 1, 1997)",
+  "data": "1997-03-08",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/restaurante-ramalhao/",
+      "doc": "rtp-arquivos:w5e13e6aed3f91555",
+      "citacao": "Programa apresentado pelo ator João Lagarto, dedicado ao restaurante \"Ramalhão\", em Montemor-o-Velho."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rtp-serenata-estudantil-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/serenata-estudantil-em-coimbra/",
+  "titulo": "Fado de serenata em Coimbra (RTP 1, 1980)",
+  "data": "1980-05-28",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-estudantil-em-coimbra/",
+      "doc": "rtp-arquivos:wbcd1311d7b873c25",
+      "citacao": "Coimbra, estudantes da Universidade de Coimbra interpretam fado de serenata a propósito da tradicional Queima das Fitas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

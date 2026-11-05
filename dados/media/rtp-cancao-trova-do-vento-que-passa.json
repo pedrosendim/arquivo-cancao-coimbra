@@ -1,0 +1,30 @@
+{
+  "id": "rtp-cancao-trova-do-vento-que-passa",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-trova-do-vento-que-passa/",
+  "titulo": "Canção “Trova do Vento que Passa” (Antena1, 2014)",
+  "data": "2014-03-04",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "antonio-portugal",
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-trova-do-vento-que-passa/",
+      "doc": "rtp-arquivos:wf56015a90b1b4ce5",
+      "citacao": "Programa dedicado às canções de intervenção antes e depois do dia 25 de Abril de 1974, com destaque para a canção \"Trova do Vento que Passa\", de 1963, com letra de Manuel Alegre, Música de António Portugal, na interpretação de Adriano Correia de Oliveira, com acompanhamento de António Portugal (guitarra) e Rui Pato (viola)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-trova-do-vento-que-passa/",
+      "doc": "rtp-arquivos:wf56015a90b1b4ce5",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … António Portugal … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

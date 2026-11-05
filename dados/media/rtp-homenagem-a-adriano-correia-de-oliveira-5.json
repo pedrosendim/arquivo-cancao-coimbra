@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-adriano-correia-de-oliveira-5",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-5/",
+  "titulo": "Homenagem a Adriano Correia de Oliveira (Antena3, 2007)",
+  "data": "2007-10-11",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-5/",
+      "doc": "rtp-arquivos:w34ad3c3ae39e67a9",
+      "citacao": "Emissão especial de homenagem a Adriano Correia de Oliveira, na passagem do 25º aniversário da sua morte."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-5/",
+      "doc": "rtp-arquivos:w34ad3c3ae39e67a9",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

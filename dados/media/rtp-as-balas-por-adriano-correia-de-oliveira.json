@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-balas-por-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-balas-por-adriano-correia-de-oliveira/",
+  "titulo": "“As Balas” por Adriano Correia de Oliveira (Antena1, 2015)",
+  "data": "2015-10-30",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-balas-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w23484f57db214f03",
+      "citacao": "A canção \"As Balas\", com letra de Manuel da Fonseca, música e interpretação de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-balas-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w23484f57db214f03",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

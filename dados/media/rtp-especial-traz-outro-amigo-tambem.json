@@ -1,0 +1,28 @@
+{
+  "id": "rtp-especial-traz-outro-amigo-tambem",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/especial-traz-outro-amigo-tambem/",
+  "titulo": "Especial “Traz Outro Amigo Também” (Antena1, 2012)",
+  "data": "2012-05-20",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/especial-traz-outro-amigo-tambem/",
+      "doc": "rtp-arquivos:wd20cfbfc06f2f452",
+      "citacao": "Programa dedicado à reedição remasterizada do disco \"Traz Outro Amigo Também\", de José Afonso, gravado originalmente em Londres (1970)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/especial-traz-outro-amigo-tambem/",
+      "doc": "rtp-arquivos:wd20cfbfc06f2f452",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

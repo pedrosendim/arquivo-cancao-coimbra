@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-adriano-correia-de-oliveira-ii-parte",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-ii-parte/",
+  "titulo": "Homenagem a Adriano Correia de Oliveira – II Parte (Antena1, 2007)",
+  "data": "2007-10-20",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-ii-parte/",
+      "doc": "rtp-arquivos:w410e6a296a70b4d0",
+      "citacao": "Concerto na Voz do Operário (Lisboa), de Homenagem a Adriano Correia de Oliveira, \"25 Anos 25 Canções\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-ii-parte/",
+      "doc": "rtp-arquivos:w410e6a296a70b4d0",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

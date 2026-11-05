@@ -1,0 +1,28 @@
+{
+  "id": "rtp-construtor-de-instrumentos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/construtor-de-instrumentos/",
+  "titulo": "Construtor de Instrumentos (RTP 2, 1986)",
+  "data": "1986-10-16",
+  "pessoas": [
+    "gilberto-gracio"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/construtor-de-instrumentos/",
+      "doc": "rtp-arquivos:w665b00b092703acf",
+      "citacao": "Programa sobre a profissão dum construtor de instrumentos. Na sua oficina, o artesão Gilberto Grácio fala sobre esta arte ser uma tradição familiar, os segredos da sua profissão, e a natureza dos diversos instrumentos que fabrica."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/construtor-de-instrumentos/",
+      "doc": "rtp-arquivos:w665b00b092703acf",
+      "citacao": "Personalidades: … Gilberto Grácio"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

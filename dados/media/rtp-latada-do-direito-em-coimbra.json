@@ -1,0 +1,20 @@
+{
+  "id": "rtp-latada-do-direito-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/latada-do-direito-em-coimbra/",
+  "titulo": "Latada do Direito em Coimbra (RTP 1, 1967)",
+  "data": "1967-11-12",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/latada-do-direito-em-coimbra/",
+      "doc": "rtp-arquivos:wc981cb6f10eff306",
+      "citacao": "Latada de estudantes da Faculdade de Direito, incluída nas praxes aos caloiros e na abertura do ano lectivo na Universidade de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

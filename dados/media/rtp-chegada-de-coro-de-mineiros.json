@@ -1,0 +1,20 @@
+{
+  "id": "rtp-chegada-de-coro-de-mineiros",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/chegada-de-coro-de-mineiros/",
+  "titulo": "Chegada de coro de mineiros (RTP 1, 1986)",
+  "data": "1986-02-19",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/chegada-de-coro-de-mineiros/",
+      "doc": "rtp-arquivos:w28a684e1b4c5b0d0",
+      "citacao": "Lisboa, Aeroporto da Portela, chegada do coro de mineiros gauleses que irá atuar nos três concertos para crianças deficientes."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

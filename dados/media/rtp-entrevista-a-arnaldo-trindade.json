@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-arnaldo-trindade",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-arnaldo-trindade/",
+  "titulo": "Entrevista a Arnaldo Trindade (Antena1, 2012)",
+  "data": "2012-11-18",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-arnaldo-trindade/",
+      "doc": "rtp-arquivos:w0475e65ae4a00447",
+      "citacao": "Entrevista a Arnaldo Trindade a propósito da reedição em versão remasterizada (editora Orfeu) do disco \"Venham Mais Cinco\" de Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-arnaldo-trindade/",
+      "doc": "rtp-arquivos:w0475e65ae4a00447",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

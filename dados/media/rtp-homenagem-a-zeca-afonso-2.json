@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-zeca-afonso-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso-2/",
+  "titulo": "Homenagem a Zeca Afonso (Antena1, 1994)",
+  "data": "1994-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso-2/",
+      "doc": "rtp-arquivos:w73478ea92d974784",
+      "citacao": "Homenagem ao cantor José Afonso, no 7º aniversário da sua morte, uma iniciativa integrada no âmbito da Lisboa 94."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso-2/",
+      "doc": "rtp-arquivos:w73478ea92d974784",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

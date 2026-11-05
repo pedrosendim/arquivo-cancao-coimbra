@@ -1,0 +1,28 @@
+{
+  "id": "rtp-ruas-do-seculo-3",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-3/",
+  "titulo": "Ruas do Século (Antena1, 1999)",
+  "data": "1999-06-27",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-3/",
+      "doc": "rtp-arquivos:wead23ebd320d22a1",
+      "citacao": "Visita guiada pelas músicas do nosso tempo, com Sérgio Godinho, António Menano, Carlos do Carmo, Lucília do Carmo, Fausto Bordalo Dias, Alfredo Marceneiro, Adriano Correia de Oliveira, Carlos Ramos e Hermínia Silva."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-3/",
+      "doc": "rtp-arquivos:wead23ebd320d22a1",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

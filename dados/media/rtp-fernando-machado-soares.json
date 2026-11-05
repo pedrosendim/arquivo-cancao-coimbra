@@ -1,0 +1,28 @@
+{
+  "id": "rtp-fernando-machado-soares",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares/",
+  "titulo": "Fernando Machado Soares (RTP Memória, 2009)",
+  "data": "2009-11-20",
+  "pessoas": [
+    "fernando-machado-soares"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares/",
+      "doc": "rtp-arquivos:wbe3d34ae93101be7",
+      "citacao": "Maria João Gama conversa em estúdio com Fernando Machado Soares, juiz conselheiro do Supremo Tribunal de Justiça, cantor e compositor da canção de Coimbra e Administrador da Fundação Amália Rodrigues, uma entrevista biográfica sobre a sua carreira artística e profissional e momentos da vida pessoal, intercalada com imagens de arquivo."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares/",
+      "doc": "rtp-arquivos:wbe3d34ae93101be7",
+      "citacao": "Personalidades: … Fernando Machado Soares"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-tributo-a-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tributo-a-jose-afonso/",
+  "titulo": "Tributo a José Afonso (RTP 1, 2017)",
+  "data": "2017-10-25",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tributo-a-jose-afonso/",
+      "doc": "rtp-arquivos:w2d4f77538c84f85d",
+      "citacao": "Fadista Ricardo Ribeiro organiza espetáculo de tributo a Zeca Afonso, o concerto acontece no Grande Auditório do Centro Cultural de Belém."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tributo-a-jose-afonso/",
+      "doc": "rtp-arquivos:w2d4f77538c84f85d",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

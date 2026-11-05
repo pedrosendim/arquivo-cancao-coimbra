@@ -1,0 +1,30 @@
+{
+  "id": "rtp-tempo-de-coimbra-3",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-3/",
+  "titulo": "Tempo de Coimbra (RTP 1, 1983)",
+  "data": "1983-07-31",
+  "pessoas": [
+    "antonio-portugal",
+    "antonio-brojo",
+    "aurelio-dos-reis"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-3/",
+      "doc": "rtp-arquivos:wf45283a47f988fd7",
+      "citacao": "Programa dedicado à antologia cronológica da história do fado de Coimbra, a geração de Menano."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-3/",
+      "doc": "rtp-arquivos:wf45283a47f988fd7",
+      "citacao": "Personalidades: … António Portugal … António Brojo … Aurélio dos Reis"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

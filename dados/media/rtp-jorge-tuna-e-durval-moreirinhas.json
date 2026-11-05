@@ -1,0 +1,29 @@
+{
+  "id": "rtp-jorge-tuna-e-durval-moreirinhas",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/jorge-tuna-e-durval-moreirinhas/",
+  "titulo": "Jorge Tuna e Durval Moreirinhas (RTP Int, 2003)",
+  "data": "2003-06-17",
+  "pessoas": [
+    "jorge-tuna",
+    "durval-moreirinhas"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/jorge-tuna-e-durval-moreirinhas/",
+      "doc": "rtp-arquivos:wd9f34a55897e1827",
+      "citacao": "Entrevista realizada por Raquel Santos aos músicos Jorge Tuna e Durval Moreirinhas, apresentando o seu último trabalho em conjunto \"As Mãos e a Alma\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/jorge-tuna-e-durval-moreirinhas/",
+      "doc": "rtp-arquivos:wd9f34a55897e1827",
+      "citacao": "Personalidades: … Jorge Tuna … Durval Moreirinhas"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

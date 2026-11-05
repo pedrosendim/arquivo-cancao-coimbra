@@ -1,0 +1,28 @@
+{
+  "id": "rtp-maior-que-o-pensamento-combate",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-combate/",
+  "titulo": "Maior que o pensamento: Combate (RTP 1, 2011)",
+  "data": "2011-04-25",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-combate/",
+      "doc": "rtp-arquivos:wddfba07b1e306612",
+      "citacao": "Programa documental de caráter biográfico dedicado à vida e obra de José Manuel Cerqueira Afonso dos Santos (Zeca Afonso), Compositor, Músico e Intérprete de Música de Intervenção, um dos mais originais e destacados criadores nacionais no século XX, através de depoimentos de amigos e colaboradores, imagens de arquivo e atuações inéditas com enfoque na sua vida de professor e na sua dedicação à música de intervenção."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-combate/",
+      "doc": "rtp-arquivos:wddfba07b1e306612",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

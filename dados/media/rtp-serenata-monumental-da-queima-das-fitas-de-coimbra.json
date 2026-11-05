@@ -1,0 +1,20 @@
+{
+  "id": "rtp-serenata-monumental-da-queima-das-fitas-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/serenata-monumental-da-queima-das-fitas-de-coimbra/",
+  "titulo": "Serenata Monumental da Queima das Fitas de Coimbra (RTP 1, 1965)",
+  "data": "1965-05-08",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-monumental-da-queima-das-fitas-de-coimbra/",
+      "doc": "rtp-arquivos:w73360b526e48e529",
+      "citacao": "Coimbra, Serenata Monumental realizada na escadaria da Sé Velha, à meia-noite do dia 7 de maio, assinala o início das tradicionais festas relacionadas com a Queima das Fitas dos estudantes que frequentam o quarto ano de cursos superiores (quartanistas) da Universidade de Coimbra."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

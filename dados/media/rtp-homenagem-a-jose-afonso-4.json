@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-jose-afonso-4",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-4/",
+  "titulo": "Homenagem a José Afonso (Antena1, 2007)",
+  "data": "2007-10-07",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-4/",
+      "doc": "rtp-arquivos:w2c42a22b48c8f87e",
+      "citacao": "Homenagem a José Afonso na passagem dos vinte anos da sua morte.\r\nPrograma ilustrado com excertos de entrevistas, leitura de textos sobre Zeca Afonso e canções originais e adaptações do cantautor."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-4/",
+      "doc": "rtp-arquivos:w2c42a22b48c8f87e",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

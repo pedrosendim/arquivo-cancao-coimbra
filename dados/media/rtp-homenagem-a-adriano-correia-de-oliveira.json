@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-adriano-correia-de-oliveira",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira/",
+  "titulo": "Homenagem a Adriano Correia de Oliveira (RTP 1, 1994)",
+  "data": "1994-04-24",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:waea8de8760d6af2c",
+      "citacao": "Santarém, homenagem nacional ao cantor de intervenção Adriano Correia de Oliveira, doze anos após a sua morte, condecorado a título póstumo como Grande Oficial da Ordem do Infante Dom Henrique."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:waea8de8760d6af2c",
+      "citacao": "Homenagem a Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rtp-david-ferreira-a-contar-cancao-da-beira-baixa",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-cancao-da-beira-baixa/",
+  "titulo": "David Ferreira a Contar… Canção da Beira Baixa (Antena1, 2015)",
+  "data": "2015-10-12",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "edmundo-de-bettencourt"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-cancao-da-beira-baixa/",
+      "doc": "rtp-arquivos:w35c5609f94ba211d",
+      "citacao": "O esquecimento votado à canção da Beira Baixa.\r\nInterpretações de \"Era Ainda Pequenina\", por Edmundo Bettencourt, Amália Rodrigues e Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-cancao-da-beira-baixa/",
+      "doc": "rtp-arquivos:w35c5609f94ba211d",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Edmundo Bettencourt"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

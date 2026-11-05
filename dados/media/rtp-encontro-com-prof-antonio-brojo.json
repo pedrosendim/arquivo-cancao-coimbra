@@ -1,0 +1,28 @@
+{
+  "id": "rtp-encontro-com-prof-antonio-brojo",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/encontro-com-prof-antonio-brojo/",
+  "titulo": "Encontro com … António Brojo (RTP 1, 1981)",
+  "data": "1981-12-02",
+  "pessoas": [
+    "antonio-brojo"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/encontro-com-prof-antonio-brojo/",
+      "doc": "rtp-arquivos:w42db2c3505fcee14",
+      "citacao": "Programa dedicado à vida e percurso profissional do farmacêutico António Pinho Brojo, que concilia ainda a atividade de professor catedrático na Faculdade de Farmácia da Universidade de Coimbra com a de músico, acompanhando na guitarra portuguesa diversos nomes do fado."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/encontro-com-prof-antonio-brojo/",
+      "doc": "rtp-arquivos:w42db2c3505fcee14",
+      "citacao": "Personalidades: … António Pinho Brojo"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

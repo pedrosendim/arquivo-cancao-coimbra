@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-jose-afonso-3",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-3/",
+  "titulo": "Homenagem a José Afonso (Antena1, 1987)",
+  "data": "1987-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-3/",
+      "doc": "rtp-arquivos:wc0929f180491ac49",
+      "citacao": "Programa de homenagem a José Afonso, no dia da sua morte. Contém depoimentos de várias personalidades que privaram com o cantor."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-3/",
+      "doc": "rtp-arquivos:wc0929f180491ac49",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

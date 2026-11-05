@@ -1,0 +1,20 @@
+{
+  "id": "rtp-joao-maria-tudela",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/joao-maria-tudela/",
+  "titulo": "João Maria Tudela (RTP Memória, 2006)",
+  "data": "2006-02-12",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/joao-maria-tudela/",
+      "doc": "rtp-arquivos:w4d05d0f2b3faabea",
+      "citacao": "Programa de cariz biográfico, apresentado por Maria João Gama, que dá a conhecer as carreiras profissionais de grandes vultos da rádio e da televisão."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

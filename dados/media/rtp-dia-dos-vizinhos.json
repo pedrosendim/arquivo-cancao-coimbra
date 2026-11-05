@@ -1,0 +1,20 @@
+{
+  "id": "rtp-dia-dos-vizinhos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/dia-dos-vizinhos/",
+  "titulo": "Dia dos Vizinhos (RTP 1, 2010)",
+  "data": "2010-05-25",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/dia-dos-vizinhos/",
+      "doc": "rtp-arquivos:wb8559fd86a0505a3",
+      "citacao": "Condóminos do Lote 398 da Freguesia dos Olivais lança um livro para comemorar a boa vizinhança e relembrar os quarenta anos de convívio, no Dia do Vizinhos."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-cancoes-da-minha-vida-nuno-encarnacao-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-2/",
+  "titulo": "As Canções da Minha Vida: Nuno Encarnação (Antena1, 2010)",
+  "data": "2010-08-13",
+  "pessoas": [
+    "nuno-encarnacao"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-2/",
+      "doc": "rtp-arquivos:wb3c1d0bfa1a448c3",
+      "citacao": "Programa da Autoria de António Macedo, com o convidado Nuno Encarnação, deputado do PSD, que apresenta a canção “Sozinho”, numa interpretação de Caetano Veloso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-2/",
+      "doc": "rtp-arquivos:wb3c1d0bfa1a448c3",
+      "citacao": "Personalidades: … Nuno Encarnação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

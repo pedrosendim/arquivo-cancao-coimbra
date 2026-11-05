@@ -1,0 +1,29 @@
+{
+  "id": "rtp-concerto-de-homenagem-a-zeca-afonso-e-a-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-de-homenagem-a-zeca-afonso-e-a-adriano-correia-de-oliveira/",
+  "titulo": "Concerto de Homenagem a Zeca Afonso e a Adriano Correia de Oliveira (Antena1, 2012)",
+  "data": "2012-08-01",
+  "pessoas": [
+    "jose-afonso",
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-de-homenagem-a-zeca-afonso-e-a-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w34e459d202fb004d",
+      "citacao": "Transmissão do concerto de homenagem a José Afonso e a Adriano Correia de Oliveira, na Aula Magna, em Maio de 2012."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-de-homenagem-a-zeca-afonso-e-a-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w34e459d202fb004d",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso) … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

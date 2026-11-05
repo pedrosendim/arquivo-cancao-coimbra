@@ -1,0 +1,28 @@
+{
+  "id": "rtp-cantares-de-amigo-parte-ii-9",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cantares-de-amigo-parte-ii-9/",
+  "titulo": "Cantares de Amigo – Parte II (RTP 2, 1995)",
+  "data": "1995-12-23",
+  "pessoas": [
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cantares-de-amigo-parte-ii-9/",
+      "doc": "rtp-arquivos:wb0e3151bf6ab7739",
+      "citacao": "Segunda parte do programa apresentado por Paco Bandeira, dedicado a Santarém, com os convidados: José Niza, músico e deputado; Samuel, Duarte Mendes, Nuno Cabrita e Margarida Bessa, cantores."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cantares-de-amigo-parte-ii-9/",
+      "doc": "rtp-arquivos:wb0e3151bf6ab7739",
+      "citacao": "Personalidades: … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

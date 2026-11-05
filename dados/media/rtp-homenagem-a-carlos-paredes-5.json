@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-carlos-paredes-5",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-5/",
+  "titulo": "Homenagem a Carlos Paredes (RTP 2, 2002)",
+  "data": "2002-02-04",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-5/",
+      "doc": "rtp-arquivos:w3eeb04a6173e2407",
+      "citacao": "Lisboa, ensaio de \"Devaneios Flutuantes\" no Teatro Taborda, um espetáculo de homenagem ao guitarrista Carlos Paredes."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-5/",
+      "doc": "rtp-arquivos:w3eeb04a6173e2407",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rtp-fados-de-portugal-parte-i-14",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-14/",
+  "titulo": "Fados de Portugal – Parte I (RTP Int, 2001)",
+  "data": "2001-03-13",
+  "pessoas": [
+    "luiz-goes",
+    "tito-costa-santos",
+    "gilberto-gracio",
+    "joao-moura",
+    "alexandre-bateiras",
+    "joao-gomes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-14/",
+      "doc": "rtp-arquivos:we7c078df6182770c",
+      "citacao": "Primeira parte do programa sobre fado, em direto, apresentado por António Pinto Basto com os músicos residentes, Pedro de Castro e José Luís Nobre Costa na guitarra portuguesa o Francisco Gonçalves, na viola e o Armando Figueiredo na viola baixo os fadistas convidados Luís Goes, Camacho Vieira, Tito Costa Santos, Maria Mendes e o convidado especial Gilberto Grácio."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-i-14/",
+      "doc": "rtp-arquivos:we7c078df6182770c",
+      "citacao": "Personalidades: … Luís Goes … Tito Costa Santos … Gilberto Grácio … João Moura … Alexandre Bateiras … João Gomes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

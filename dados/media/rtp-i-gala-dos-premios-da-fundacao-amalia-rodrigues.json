@@ -1,0 +1,28 @@
+{
+  "id": "rtp-i-gala-dos-premios-da-fundacao-amalia-rodrigues",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/i-gala-dos-premios-da-fundacao-amalia-rodrigues/",
+  "titulo": "I Gala dos Prémios da Fundação Amália Rodrigues (Antena1, 2005)",
+  "data": "2005-10-18",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/i-gala-dos-premios-da-fundacao-amalia-rodrigues/",
+      "doc": "rtp-arquivos:w737dc8c8ba1a57c5",
+      "citacao": "Lisboa, Teatro de São Luís, espectáculo da I Gala dos \"Prémios Amália\", promovidos pela Fundação Amália Rodrigues."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/i-gala-dos-premios-da-fundacao-amalia-rodrigues/",
+      "doc": "rtp-arquivos:w737dc8c8ba1a57c5",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

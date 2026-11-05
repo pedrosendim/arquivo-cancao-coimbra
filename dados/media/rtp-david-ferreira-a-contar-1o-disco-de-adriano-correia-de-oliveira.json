@@ -1,0 +1,35 @@
+{
+  "id": "rtp-david-ferreira-a-contar-1o-disco-de-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-1o-disco-de-adriano-correia-de-oliveira/",
+  "titulo": "David Ferreira a Contar… 1º Disco de Adriano Correia de Oliveira (Antena1, 2013)",
+  "data": "2013-08-22",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "jose-niza",
+    "durval-moreirinhas",
+    "edmundo-de-bettencourt",
+    "antonio-menano",
+    "luiz-goes",
+    "fernando-machado-soares",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-1o-disco-de-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w0d1a288796ecfe6e",
+      "citacao": "O 1º Disco de Adriano Correia de Oliveira (1960), e a transformação da canção de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-1o-disco-de-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w0d1a288796ecfe6e",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … José Niza … Durval Moreirinhas … Edmundo Bettencourt … António Menano … Luís Goes … Machado Soares … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

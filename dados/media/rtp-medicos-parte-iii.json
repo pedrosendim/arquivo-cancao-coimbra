@@ -1,0 +1,20 @@
+{
+  "id": "rtp-medicos-parte-iii",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/medicos-parte-iii/",
+  "titulo": "Médicos – Parte III (RTP 1, 1986)",
+  "data": "1986-11-08",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/medicos-parte-iii/",
+      "doc": "rtp-arquivos:wd93aad0b49c874ac",
+      "citacao": "Terceira parte do concurso \"Faz de Conta\", apresentado por Raul Solnado, dedicado ao tema Médicos, com a participação de concorrentes que interpretam uma personagem do tema do concurso, e com momentos de atuações de artistas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-convivio-popular-em-argea",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/convivio-popular-em-argea/",
+  "titulo": "Convívio Popular em Árgea (RTP 1, 1975)",
+  "data": "1975-05-02",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/convivio-popular-em-argea/",
+      "doc": "rtp-arquivos:w9c64165e04f66100",
+      "citacao": "Programa sobre o convívio popular na Sociedade Musical Arcense (SMA), da aldeia de Árgea, no concelho de Torres Novas, com os cantores e compositores Pedro Lobo Antunes, Zeca Afonso e Sérgio Godinho."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/convivio-popular-em-argea/",
+      "doc": "rtp-arquivos:w9c64165e04f66100",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rtp-livraria-lello-promove-teatro-e-fado",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/livraria-lello-promove-teatro-e-fado/",
+  "titulo": "Livraria Lello promove Teatro e Fado (RTP 1, 2018)",
+  "data": "2018-06-18",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/livraria-lello-promove-teatro-e-fado/",
+      "doc": "rtp-arquivos:w0c2ce27e98a61253",
+      "citacao": "Porto, reportagem da jornalista Cláudia Viana sobre o espetáculo interativo para os visitantes de todo o mundo, como promoção da cultura portuguesa, na Livraria Lello."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

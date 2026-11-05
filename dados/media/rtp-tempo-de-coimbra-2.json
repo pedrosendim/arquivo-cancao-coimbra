@@ -1,0 +1,30 @@
+{
+  "id": "rtp-tempo-de-coimbra-2",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-2/",
+  "titulo": "Tempo de Coimbra (RTP 1, 1983)",
+  "data": "1983-08-07",
+  "pessoas": [
+    "antonio-brojo",
+    "antonio-portugal",
+    "aurelio-dos-reis"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-2/",
+      "doc": "rtp-arquivos:wc4307d49e887a0b7",
+      "citacao": "Programa dedicado à antologia cronológica da história do fado de Coimbra, a época de ouro, onde se destacam as figuras de Armando Góis e Edmundo Bettencourt."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-2/",
+      "doc": "rtp-arquivos:wc4307d49e887a0b7",
+      "citacao": "Personalidades: … António Brojo … António Portugal … Aurélio dos Reis"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

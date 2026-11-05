@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-cancoes-da-minha-vida-nuno-encarnacao-3",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-3/",
+  "titulo": "As Canções da Minha Vida: Nuno Encarnação (Antena1, 2010)",
+  "data": "2010-08-13",
+  "pessoas": [
+    "nuno-encarnacao"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-3/",
+      "doc": "rtp-arquivos:wf7019e63cee51015",
+      "citacao": "Programa da Autoria de António Macedo, com o convidado Nuno Encarnação, deputado do PSD, que apresenta a canção “O Primeiro Dia”, numa interpretação de Sérgio Godinho."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-3/",
+      "doc": "rtp-arquivos:wf7019e63cee51015",
+      "citacao": "Personalidades: … Nuno Encarnação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

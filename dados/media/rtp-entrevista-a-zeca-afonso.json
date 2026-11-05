@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-zeca-afonso/",
+  "titulo": "Entrevista a Zeca Afonso (1999)",
+  "data": "1999-07-01",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-zeca-afonso/",
+      "doc": "rtp-arquivos:w051a0609b9d42066",
+      "citacao": "Entrevista a Zeca Afonso, sobre as suas viagens a Angola e Moçambique."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-zeca-afonso/",
+      "doc": "rtp-arquivos:w051a0609b9d42066",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

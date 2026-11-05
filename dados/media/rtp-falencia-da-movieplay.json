@@ -1,0 +1,28 @@
+{
+  "id": "rtp-falencia-da-movieplay",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/falencia-da-movieplay/",
+  "titulo": "Falência da Movieplay (RTP 1, 2017)",
+  "data": "2017-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/falencia-da-movieplay/",
+      "doc": "rtp-arquivos:w95978e88c968aa28",
+      "citacao": "Lisboa, Editora Movieplay entra em processo de insolvência, e perde-se o rasto do espólio dos originais de Zeca Afonso e de outros músicos e poetas portugueses."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/falencia-da-movieplay/",
+      "doc": "rtp-arquivos:w95978e88c968aa28",
+      "citacao": "Personalidades: … Zeca Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

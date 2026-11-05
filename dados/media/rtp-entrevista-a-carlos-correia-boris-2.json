@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-carlos-correia-boris-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-correia-boris-2/",
+  "titulo": "Entrevista a Carlos Correia (Bóris) (Antena1, 2012)",
+  "data": "2012-06-03",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-correia-boris-2/",
+      "doc": "rtp-arquivos:w5e9184217d1380cc",
+      "citacao": "Entrevista a Carlos Correia (Bóris) sobre a edição do disco de Zeca Afonso \"Cantigas de Maio\" (edição remasterizada), gravado originalmente em 1971 (Paris)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-correia-boris-2/",
+      "doc": "rtp-arquivos:w5e9184217d1380cc",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

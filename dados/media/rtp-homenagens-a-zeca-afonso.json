@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagens-a-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagens-a-zeca-afonso/",
+  "titulo": "Homenagens a Zeca Afonso (RTP 1, 2017)",
+  "data": "2017-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagens-a-zeca-afonso/",
+      "doc": "rtp-arquivos:w95e3ed2a09992fcd",
+      "citacao": "Associação José Afonso celebra os trinta anos da morte de Zeca Afonso, cantor, através de dezenas de iniciativas ao longo do ano com o objetivo de preservar a memória do músico e cantor de Abril."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagens-a-zeca-afonso/",
+      "doc": "rtp-arquivos:w95e3ed2a09992fcd",
+      "citacao": "Personalidades: … Zeca Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

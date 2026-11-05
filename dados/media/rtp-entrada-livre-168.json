@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrada-livre-168",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrada-livre-168/",
+  "titulo": "Entrada Livre (RTP Int, 2001)",
+  "data": "2001-06-01",
+  "pessoas": [
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrada-livre-168/",
+      "doc": "rtp-arquivos:w4b89b695b7cd28ec",
+      "citacao": "Programa apresentado por Júlio Isidro onde se conversa sobre temas relacionados com as Comunidades Portuguesas em todo o Mundo. Convidados: Luísa Barbosa, atriz, Carlos Mendes, cantor, e José Niza, compositor."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrada-livre-168/",
+      "doc": "rtp-arquivos:w4b89b695b7cd28ec",
+      "citacao": "Personalidades: … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

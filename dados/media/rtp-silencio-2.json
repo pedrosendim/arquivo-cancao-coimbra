@@ -1,0 +1,28 @@
+{
+  "id": "rtp-silencio-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/silencio-2/",
+  "titulo": "Silêncio (Antena1, 2004)",
+  "data": "2004-09-26",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/silencio-2/",
+      "doc": "rtp-arquivos:w5d7e61fd00a37081",
+      "citacao": "Programa dedicado ao Fado, das origens à actualidade.\r\nAudição de excerto do espectáculo \"das Músicas e dos Portos\", realizado na Aula Magna da Reitoria da Universidade de Lisboa, em 2000."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/silencio-2/",
+      "doc": "rtp-arquivos:w5d7e61fd00a37081",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

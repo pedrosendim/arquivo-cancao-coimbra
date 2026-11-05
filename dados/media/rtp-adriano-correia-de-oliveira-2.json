@@ -1,0 +1,28 @@
+{
+  "id": "rtp-adriano-correia-de-oliveira-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-2/",
+  "titulo": "Adriano Correia de Oliveira (Antena1, 2012)",
+  "data": "2012-04-09",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-2/",
+      "doc": "rtp-arquivos:w1109c3936530732f",
+      "citacao": "Adriano Correia de Oliveira, o \"Trovador sem Medo\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira-2/",
+      "doc": "rtp-arquivos:w1109c3936530732f",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

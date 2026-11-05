@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-cancoes-da-minha-vida-nuno-encarnacao-5",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-5/",
+  "titulo": "As Canções da Minha Vida: Nuno Encarnação (Antena1, 2010)",
+  "data": "2010-08-13",
+  "pessoas": [
+    "nuno-encarnacao"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-5/",
+      "doc": "rtp-arquivos:wd918883b4cb82ca5",
+      "citacao": "Programa da Autoria de António Macedo, com o convidado Nuno Encarnação, deputado do PSD, que apresenta a canção “When You Say Nothing At All”, numa interpretação de Ronan Keating."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-5/",
+      "doc": "rtp-arquivos:wd918883b4cb82ca5",
+      "citacao": "Personalidades: … Nuno Encarnação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

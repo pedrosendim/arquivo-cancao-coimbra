@@ -1,0 +1,38 @@
+{
+  "id": "rtp-alma-lusa-23",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-23/",
+  "titulo": "Alma Lusa (Antena1, 2007)",
+  "data": "2007-09-16",
+  "pessoas": [
+    "jose-afonso",
+    "adriano-correia-de-oliveira",
+    "artur-paredes",
+    "octavio-sergio",
+    "antonio-brojo",
+    "pedro-nunes",
+    "fernando-marques",
+    "fernando-alvim",
+    "durval-moreirinhas",
+    "aurelio-dos-reis",
+    "manuel-joao-vaz"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-23/",
+      "doc": "rtp-arquivos:w279aa2e8b9e3c6b6",
+      "citacao": "Programa dedicado ao Fado e à Canção de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-23/",
+      "doc": "rtp-arquivos:w279aa2e8b9e3c6b6",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso) … Adriano Correia de Oliveira … Artur Paredes … Octávio Sérgio … António Brojo … Pedro Nunes … Fernando Marques … Fernando Alvim … Durval Moreirinhas … Aurélio Reis … Manuel João Vaz"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

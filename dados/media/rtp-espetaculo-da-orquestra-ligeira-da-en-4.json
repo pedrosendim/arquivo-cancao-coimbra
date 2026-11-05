@@ -1,0 +1,20 @@
+{
+  "id": "rtp-espetaculo-da-orquestra-ligeira-da-en-4",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/espetaculo-da-orquestra-ligeira-da-en-4/",
+  "titulo": "Espetáculo da Orquestra Ligeira da EN (Emissora Nacional, 1973)",
+  "data": "1973-07-02",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espetaculo-da-orquestra-ligeira-da-en-4/",
+      "doc": "rtp-arquivos:w431933afc08e315a",
+      "citacao": "Espetáculo da Orquestra Ligeira da EN dirigida pelo maestro Joaquim Luís Gomes.\r\nParticipação de António Chaínho, guitarrista e do \"Coro Masculino\" da EN."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-um-dia-com-antonio-dos-santos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/um-dia-com-antonio-dos-santos/",
+  "titulo": "Um Dia Com… António dos Santos (RTP 1, 1972)",
+  "data": "1972-10-02",
+  "pessoas": [
+    "antonio-dos-santos-couceiro"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/um-dia-com-antonio-dos-santos/",
+      "doc": "rtp-arquivos:w830ab73d3cafabed",
+      "citacao": "Programa com António dos Santos, marinheiro e cantor de baladas, conhecido por António Marinheiro, que aborda alguns aspetos sobre a sua vida e percurso artístico."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/um-dia-com-antonio-dos-santos/",
+      "doc": "rtp-arquivos:w830ab73d3cafabed",
+      "citacao": "Personalidades: … António dos Santos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

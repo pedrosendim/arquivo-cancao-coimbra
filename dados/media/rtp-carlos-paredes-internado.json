@@ -1,0 +1,28 @@
+{
+  "id": "rtp-carlos-paredes-internado",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-internado/",
+  "titulo": "Carlos Paredes internado (RTP 1, 1993)",
+  "data": "1993-12-27",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-internado/",
+      "doc": "rtp-arquivos:w0ee815c53587ffdf",
+      "citacao": "Lisboa, Hospital de Santa Maria, o músico Carlos Paredes, guitarrista, hospitalizado devido a uma paralisia nas pernas, provocada por doença desconhecida que lhe afetou a medula."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-internado/",
+      "doc": "rtp-arquivos:w0ee815c53587ffdf",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

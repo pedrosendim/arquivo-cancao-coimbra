@@ -1,0 +1,29 @@
+{
+  "id": "rtp-cancao-como-hei-de-amar-serenamente",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-como-hei-de-amar-serenamente/",
+  "titulo": "Canção “Como hei-de Amar Serenamente” (Antena1, 2014)",
+  "data": "2014-03-12",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-como-hei-de-amar-serenamente/",
+      "doc": "rtp-arquivos:w8743ff47b0dac0f8",
+      "citacao": "Programa dedicado às canções de intervenção antes e depois do dia 25 de Abril de 1974, com destaque para a canção \"Como Hei-de Amar Serenamente\", de 1970, com letra de Fernando Assis Pacheco, Música e interpretação de Adriano Correia de Oliveira, com acompanhamento de Rui Pato (viola)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-como-hei-de-amar-serenamente/",
+      "doc": "rtp-arquivos:w8743ff47b0dac0f8",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

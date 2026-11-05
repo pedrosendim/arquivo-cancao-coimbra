@@ -1,0 +1,28 @@
+{
+  "id": "rtp-estudio-5-parte-v-3",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-v-3/",
+  "titulo": "Estúdio 5 – Parte V (RTP 1, 2003)",
+  "data": "2003-02-01",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-v-3/",
+      "doc": "rtp-arquivos:wa3f924c74ff43e5b",
+      "citacao": "Quinta parte do último programa apresentado por Júlio Isidro que inclui excertos de entrevistas de programas anteriores, com os seguintes convidados: Carlos Quintas, Anabela, Carlos do Carmo, Mara Manzan, Carlos de Sousa, Les Éléphants Terribles, Ramón Galarza, Rita Guerra,  Cristina Lopes, Os Macacos das Ruas de Évora, Moniz Pereira, Maria da Fé, Camané, Simone de Oliveira, Luís Goes e Gaiteiros de Lisboa, e ainda com o conjunto musical residente composto por João Balula Cid, António Freitas, Mário Dias e Marino de Freitas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-v-3/",
+      "doc": "rtp-arquivos:wa3f924c74ff43e5b",
+      "citacao": "Personalidades: … Luís Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

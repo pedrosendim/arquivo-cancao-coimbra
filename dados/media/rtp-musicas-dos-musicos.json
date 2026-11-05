@@ -1,0 +1,28 @@
+{
+  "id": "rtp-musicas-dos-musicos",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/musicas-dos-musicos/",
+  "titulo": "Músicas dos Músicos (Antena1, 1999)",
+  "data": "1999-07-28",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/musicas-dos-musicos/",
+      "doc": "rtp-arquivos:w1f44e6a8e0a8356a",
+      "citacao": "Guilherme Inês apresenta as músicas \"New York, New York\" e \"De Sal de Linguagem Feita, de Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/musicas-dos-musicos/",
+      "doc": "rtp-arquivos:w1f44e6a8e0a8356a",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

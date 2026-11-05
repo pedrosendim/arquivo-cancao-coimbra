@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-jose-mesquita",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jose-mesquita/",
+  "titulo": "Entrevista a José Mesquita (Antena1, 2012)",
+  "data": "2012-09-16",
+  "pessoas": [
+    "jose-mesquita"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jose-mesquita/",
+      "doc": "rtp-arquivos:w52c28cf26c4ee9a0",
+      "citacao": "Entrevista ao professor José Mesquita, biólogo e intérprete da canção de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-jose-mesquita/",
+      "doc": "rtp-arquivos:w52c28cf26c4ee9a0",
+      "citacao": "Personalidades: … José Mesquita"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

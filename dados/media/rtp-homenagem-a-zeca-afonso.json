@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso/",
+  "titulo": "Homenagem a Zeca Afonso (RTP 1, 1994)",
+  "data": "1994-04-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso/",
+      "doc": "rtp-arquivos:wef83e197c830f7f1",
+      "citacao": "Lisboa, Teatro Municipal de São Luís, espetáculo de dança contemporânea em homenagem ao cantor Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-zeca-afonso/",
+      "doc": "rtp-arquivos:wef83e197c830f7f1",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

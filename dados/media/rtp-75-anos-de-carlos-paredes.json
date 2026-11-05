@@ -1,0 +1,28 @@
+{
+  "id": "rtp-75-anos-de-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/75-anos-de-carlos-paredes/",
+  "titulo": "75 anos de Carlos Paredes (RTP 1, 2000)",
+  "data": "2000-02-16",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/75-anos-de-carlos-paredes/",
+      "doc": "rtp-arquivos:wa636cbb58aee9aa4",
+      "citacao": "Lisboa, 75º aniversário de Carlos Paredes, o célebre intérprete da guitarra portuguesa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/75-anos-de-carlos-paredes/",
+      "doc": "rtp-arquivos:wa636cbb58aee9aa4",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

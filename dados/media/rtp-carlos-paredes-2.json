@@ -1,0 +1,28 @@
+{
+  "id": "rtp-carlos-paredes-2",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-2/",
+  "titulo": "Carlos Paredes (RTP 1, 2008)",
+  "data": "2008-10-21",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-2/",
+      "doc": "rtp-arquivos:wfed3698ca837be0c",
+      "citacao": "Pequena biografia de Carlos Paredes, compositor e guitarrista."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-2/",
+      "doc": "rtp-arquivos:wfed3698ca837be0c",
+      "citacao": "Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

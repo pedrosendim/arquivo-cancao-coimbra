@@ -1,0 +1,28 @@
+{
+  "id": "rtp-ensaio-parte-ii-8",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-ii-8/",
+  "titulo": "Ensaio – Parte II (RTP 1, 1970)",
+  "data": "1970-04-12",
+  "pessoas": [
+    "gilberto-gracio"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-ii-8/",
+      "doc": "rtp-arquivos:wfe4fcbd733d35a40",
+      "citacao": "Magazine de caráter cultural, dedicado a temas das artes, das ideias e do quotidiano. A segunda parte do programa foca-se no fado, com entrevistas a João Braga e ao luthier Gilberto Marques Grácio."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ensaio-parte-ii-8/",
+      "doc": "rtp-arquivos:wfe4fcbd733d35a40",
+      "citacao": "Personalidades: … Gilberto Marques Grácio"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

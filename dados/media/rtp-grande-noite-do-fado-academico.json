@@ -1,0 +1,29 @@
+{
+  "id": "rtp-grande-noite-do-fado-academico",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/grande-noite-do-fado-academico/",
+  "titulo": "Grande Noite do Fado Académico (Antena1, 2008)",
+  "data": "2008-01-27",
+  "pessoas": [
+    "francisco-de-vasconcelos",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/grande-noite-do-fado-academico/",
+      "doc": "rtp-arquivos:wd107ff16df74a240",
+      "citacao": "Transmissão do espectáculo \"9ª. Grande Noite do Fado Académico\", na Casa da Música, no Porto, numa iniciativa da Associação de Estudantes e do Grupo de Fado do Instituto Superior de Engenharia do Porto, incluindo a Homenagem a Miguel Torga, no seu centenário de nascimento."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/grande-noite-do-fado-academico/",
+      "doc": "rtp-arquivos:wd107ff16df74a240",
+      "citacao": "Personalidades: … Francisco Vasconcelos … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

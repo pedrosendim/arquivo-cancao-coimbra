@@ -1,0 +1,20 @@
+{
+  "id": "rtp-vida-quotidiana-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/vida-quotidiana-em-coimbra/",
+  "titulo": "Vida quotidiana em Coimbra (RTP 1, 1974)",
+  "data": "1974-08-25",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/vida-quotidiana-em-coimbra/",
+      "doc": "rtp-arquivos:we634f45dd4506b75",
+      "citacao": "Reportagem do jornalista Fernando Pessa sobre os novos costumes e a vida quotidiana observados em Coimbra, destacando-se o facto do comboio da Lousã passar no meio do trânsito da cidade."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-comicio-de-apoio-ao-mpla-em-lisboa",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/comicio-de-apoio-ao-mpla-em-lisboa/",
+  "titulo": "Comício de apoio ao MPLA em Lisboa (RTP 1, 1975)",
+  "data": "1975-06-01",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/comicio-de-apoio-ao-mpla-em-lisboa/",
+      "doc": "rtp-arquivos:w8d52308cc390e93d",
+      "citacao": "Coliseu dos Recreios, Liga de Unidade e Ação Revolucionária (LUAR) promove comício de apoio ao Movimento Popular de Libertação de Angola (MPLA) e ao povo de Angola, com a participação dos músicos Zeca Afonso, Francisco Fanhais e Vitorino Salomé."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/comicio-de-apoio-ao-mpla-em-lisboa/",
+      "doc": "rtp-arquivos:w8d52308cc390e93d",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

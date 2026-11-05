@@ -1,0 +1,28 @@
+{
+  "id": "rtp-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso/",
+  "titulo": "Zeca Afonso (RTP 1, 2010)",
+  "data": "2010-09-20",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso/",
+      "doc": "rtp-arquivos:w677e4088c1ab6b7d",
+      "citacao": "Pequena biografia de José Manuel Cerqueira Afonso dos Santos, conhecido pelo diminutivo familiar de Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso/",
+      "doc": "rtp-arquivos:w677e4088c1ab6b7d",
+      "citacao": "Zeca Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

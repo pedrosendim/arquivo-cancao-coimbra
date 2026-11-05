@@ -1,0 +1,20 @@
+{
+  "id": "rtp-alma-lusa-11",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-11/",
+  "titulo": "Alma Lusa (Antena1, 2008)",
+  "data": "2008-04-16",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-11/",
+      "doc": "rtp-arquivos:wf002c30882265915",
+      "citacao": "Programa apresentado por Edgar Canelas, com fados nas vozes de Alfredo Marceneiro, Argentina Santos, Simone de Oliveira, Maria da Fé, e João Braga."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

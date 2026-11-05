@@ -1,0 +1,28 @@
+{
+  "id": "rtp-amigos-recordam-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/amigos-recordam-zeca-afonso/",
+  "titulo": "Recordando Zeca Afonso (RTP 1, 2017)",
+  "data": "2017-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/amigos-recordam-zeca-afonso/",
+      "doc": "rtp-arquivos:wb97c545da03971c5",
+      "citacao": "Coimbra, quando se assinalam trinta anos sobre a morte de Zeca Afonso, músico que marcou o património musical português como cantor e compositor, os amigos recordam aquele que será sempre uma referência para a geração de Abril."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/amigos-recordam-zeca-afonso/",
+      "doc": "rtp-arquivos:wb97c545da03971c5",
+      "citacao": "Personalidades: … Zeca Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

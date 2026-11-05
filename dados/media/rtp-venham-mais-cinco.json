@@ -1,0 +1,28 @@
+{
+  "id": "rtp-venham-mais-cinco",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/venham-mais-cinco/",
+  "titulo": "“Venham Mais Cinco” (Antena1, 2016)",
+  "data": "2016-04-26",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/venham-mais-cinco/",
+      "doc": "rtp-arquivos:w5705c8bc167a9738",
+      "citacao": "Programa apresentado por Iolanda Ferreira e Rúben de Carvalho, dedicado à gravação do álbum \"Venham Mais Cinco\", de Zeca Afonso, num estúdio nos arredores de Paris."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/venham-mais-cinco/",
+      "doc": "rtp-arquivos:w5705c8bc167a9738",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

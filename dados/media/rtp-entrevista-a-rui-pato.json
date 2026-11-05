@@ -1,0 +1,29 @@
+{
+  "id": "rtp-entrevista-a-rui-pato",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-rui-pato/",
+  "titulo": "Entrevista a Rui Pato (Antena1, 2012)",
+  "data": "2012-04-01",
+  "pessoas": [
+    "rui-pato",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-rui-pato/",
+      "doc": "rtp-arquivos:w0259bb4938150b02",
+      "citacao": "Entrevista a Rui Pato, guitarrista sobre a edição do 1º disco de Zeca Afonso \"Cantares do Andarilho\" (versão remasterizada)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-rui-pato/",
+      "doc": "rtp-arquivos:w0259bb4938150b02",
+      "citacao": "Personalidades: … Rui Pato … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

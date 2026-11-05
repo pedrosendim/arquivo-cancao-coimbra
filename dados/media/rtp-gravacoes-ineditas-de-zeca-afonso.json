@@ -1,0 +1,28 @@
+{
+  "id": "rtp-gravacoes-ineditas-de-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/gravacoes-ineditas-de-zeca-afonso/",
+  "titulo": "Gravações inéditas de Zeca Afonso (RTP 3, 2019)",
+  "data": "2019-02-12",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/gravacoes-ineditas-de-zeca-afonso/",
+      "doc": "rtp-arquivos:w41f864aeee3e758c",
+      "citacao": "Descobertas duas gravações inéditas de concertos de Zeca Afonso, concerto em Coimbra em 1968, e em Carreço, concelho de Viana do Castelo em 1980."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/gravacoes-ineditas-de-zeca-afonso/",
+      "doc": "rtp-arquivos:w41f864aeee3e758c",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

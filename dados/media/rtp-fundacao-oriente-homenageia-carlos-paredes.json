@@ -1,0 +1,28 @@
+{
+  "id": "rtp-fundacao-oriente-homenageia-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/fundacao-oriente-homenageia-carlos-paredes/",
+  "titulo": "Fundação Oriente homenageia Carlos Paredes (RTP 1, 1994)",
+  "data": "1994-09-02",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fundacao-oriente-homenageia-carlos-paredes/",
+      "doc": "rtp-arquivos:w955ce6aa46b57b8b",
+      "citacao": "Lisboa, Fundação Oriente homenageia Carlos Paredes, músico e compositor com prémio de mil e quinhentos contos."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fundacao-oriente-homenageia-carlos-paredes/",
+      "doc": "rtp-arquivos:w955ce6aa46b57b8b",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-carlos-paredes-3",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-3/",
+  "titulo": "Carlos Paredes (RTP Memória, 2018)",
+  "data": "2018-03-20",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-3/",
+      "doc": "rtp-arquivos:w5659f382a52e5025",
+      "citacao": "Hoje o \"Gramofone\" entrega-se às paisagens sonoras saídas da guitarra de Carlos Paredes. No Verão Quente de 1975, a RTP transmitia um programa com a suite \"O Ouro e o Trigo\", da autoria do músico, e o excerto que mostramos tem por título \"A Montanha e a Planície\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes-3/",
+      "doc": "rtp-arquivos:w5659f382a52e5025",
+      "citacao": "Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

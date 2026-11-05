@@ -1,0 +1,20 @@
+{
+  "id": "rtp-republicas-estudantis",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/republicas-estudantis/",
+  "titulo": "Repúblicas Estudantis (RTP 1, 1994)",
+  "data": "1994-12-11",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/republicas-estudantis/",
+      "doc": "rtp-arquivos:w290a58a06dcb809e",
+      "citacao": "Reportagem da rubrica \"Vida Portuguesa\" em Coimbra, sobre as Repúblicas de estudantes universitários."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

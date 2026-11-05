@@ -1,0 +1,28 @@
+{
+  "id": "rtp-noites-de-gala-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/noites-de-gala-parte-i/",
+  "titulo": "Noites de Gala – Parte I (RTP 1, 1987)",
+  "data": "1987-05-01",
+  "pessoas": [
+    "alexandre-herculano"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/noites-de-gala-parte-i/",
+      "doc": "rtp-arquivos:w041eec55cb790f4e",
+      "citacao": "Primeira parte do programa apresentado por João Maria Tudela, cantor, músico e artista, com vários convidados, com sketches humorísticos e atuações musicais."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/noites-de-gala-parte-i/",
+      "doc": "rtp-arquivos:w041eec55cb790f4e",
+      "citacao": "Personalidades: … Alexandre Herculano"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

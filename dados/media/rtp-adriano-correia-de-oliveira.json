@@ -1,0 +1,28 @@
+{
+  "id": "rtp-adriano-correia-de-oliveira",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira/",
+  "titulo": "Adriano Correia de Oliveira (RTP 1, 2010)",
+  "data": "2010-09-24",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w3b5bcf0491e80814",
+      "citacao": "Pequena biografia de Adriano Correia de Oliveira, intérprete da canção de Coimbra e cantor de intervenção."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w3b5bcf0491e80814",
+      "citacao": "Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

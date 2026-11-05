@@ -1,0 +1,30 @@
+{
+  "id": "rtp-tempo-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra/",
+  "titulo": "Tempo de Coimbra (RTP 1, 1983)",
+  "data": "1983-07-24",
+  "pessoas": [
+    "antonio-portugal",
+    "antonio-brojo",
+    "aurelio-dos-reis"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra/",
+      "doc": "rtp-arquivos:wadaf69a4765d2062",
+      "citacao": "Programa dedicado à antologia cronológica da história do fado de Coimbra da autoria de Dórdio Guimarães."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra/",
+      "doc": "rtp-arquivos:wadaf69a4765d2062",
+      "citacao": "Personalidades: … António Portugal … António Brojo … Aurélio Reis"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

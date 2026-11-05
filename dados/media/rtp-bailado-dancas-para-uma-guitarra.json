@@ -1,0 +1,29 @@
+{
+  "id": "rtp-bailado-dancas-para-uma-guitarra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/bailado-dancas-para-uma-guitarra/",
+  "titulo": "Bailado “Danças para uma Guitarra” (RTP 1, 1983)",
+  "data": "1983-02-10",
+  "pessoas": [
+    "carlos-paredes",
+    "fernando-alvim"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/bailado-dancas-para-uma-guitarra/",
+      "doc": "rtp-arquivos:w9568f9395683e51e",
+      "citacao": "Lisboa, excerto do bailado \"Danças para uma guitarra\" pelo Grupo de Bailado da Fundação Calouste Gulbenkian, acompanhado à guitarra por Carlos Paredes e Fernando Alvim."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/bailado-dancas-para-uma-guitarra/",
+      "doc": "rtp-arquivos:w9568f9395683e51e",
+      "citacao": "Personalidades: … Carlos Paredes … Fernando Alvim"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

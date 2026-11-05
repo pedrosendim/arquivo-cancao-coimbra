@@ -1,0 +1,20 @@
+{
+  "id": "rtp-atuacao-do-orfeao-academico-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/atuacao-do-orfeao-academico-de-coimbra/",
+  "titulo": "Atuação do Orfeão Académico de Coimbra (RTP 1, 1964)",
+  "data": "1964-04-26",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/atuacao-do-orfeao-academico-de-coimbra/",
+      "doc": "rtp-arquivos:w649654f5ade7a505",
+      "citacao": "Lisboa, Coliseu dos Recreios, atuação do Orfeão Académico de Coimbra a favor dos sinistrados da ilha de São Jorge nos Açores, com a presença de Américo Tomás, presidente da República."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

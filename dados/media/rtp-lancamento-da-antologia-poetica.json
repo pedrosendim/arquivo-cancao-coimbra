@@ -1,0 +1,28 @@
+{
+  "id": "rtp-lancamento-da-antologia-poetica",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/lancamento-da-antologia-poetica/",
+  "titulo": "Lançamento da “Antologia Poética” (Antena1, 2002)",
+  "data": "2002-06-24",
+  "pessoas": [
+    "antonio-de-almeida-santos"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/lancamento-da-antologia-poetica/",
+      "doc": "rtp-arquivos:w09c731ce9b18b250",
+      "citacao": "Espectáculo musical no Auditório da RDP, por ocasião do lançamento do livro \"Antologia Poética\", do poeta e escritor Carlos Carranca. Apresentação do livro a cargo de José Manuel Ferreira e António de Almeida Santos."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/lancamento-da-antologia-poetica/",
+      "doc": "rtp-arquivos:w09c731ce9b18b250",
+      "citacao": "Personalidades: … António de Almeida Santos"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

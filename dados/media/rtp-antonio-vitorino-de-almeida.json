@@ -1,0 +1,20 @@
+{
+  "id": "rtp-antonio-vitorino-de-almeida",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/antonio-vitorino-de-almeida/",
+  "titulo": "António Vitorino de Almeida (RTP 1, 1982)",
+  "data": "1982-01-09",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/antonio-vitorino-de-almeida/",
+      "doc": "rtp-arquivos:weec42eedb314fa9f",
+      "citacao": "Magazine de divulgação de atividades culturais e recreativas apresentado por Isabel Bahia, com o convidado António Vitorino de Almeida, maestro e compositor, que conversa sobre si e sobre os seus gostos culturais."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

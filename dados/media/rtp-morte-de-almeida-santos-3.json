@@ -1,0 +1,28 @@
+{
+  "id": "rtp-morte-de-almeida-santos-3",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/morte-de-almeida-santos-3/",
+  "titulo": "Morte de Almeida Santos (RTP 1, 2016)",
+  "data": "2016-01-19",
+  "pessoas": [
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/morte-de-almeida-santos-3/",
+      "doc": "rtp-arquivos:w6560a033cd8393a9",
+      "citacao": "Reações de António Arnaut, advogado e Rui Pato, músico, à morte de Almeida Santos, ex-Presidente da Assembleia da República, e militante histórico do PS, os quais recordam a sua passagem pela Universidade de Coimbra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/morte-de-almeida-santos-3/",
+      "doc": "rtp-arquivos:w6560a033cd8393a9",
+      "citacao": "Personalidades: … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

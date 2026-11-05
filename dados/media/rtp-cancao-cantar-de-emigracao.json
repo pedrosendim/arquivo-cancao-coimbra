@@ -1,0 +1,30 @@
+{
+  "id": "rtp-cancao-cantar-de-emigracao",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-cantar-de-emigracao/",
+  "titulo": "Canção “Cantar de Emigração” (Antena1, 2014)",
+  "data": "2014-03-19",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "rui-pato",
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-cantar-de-emigracao/",
+      "doc": "rtp-arquivos:wa6973f91a70e4c60",
+      "citacao": "Programa dedicado às canções de intervenção antes e depois do dia 25 de Abril de 1974, com destaque para a canção \"Cantar de Emigração\", de 1970, com poema de Rosalia de Castro, música de José Niza, interpretação de Adriano Correia de Oliveira, com acompanhamento de Rui Pato (viola); Tiago Velez, (flauta)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-cantar-de-emigracao/",
+      "doc": "rtp-arquivos:wa6973f91a70e4c60",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Rui Pato … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

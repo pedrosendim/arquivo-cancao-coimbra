@@ -1,0 +1,20 @@
+{
+  "id": "rtp-serenata-em-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/serenata-em-coimbra/",
+  "titulo": "Serenata em Coimbra (RTP 1, 2010)",
+  "data": "2010-05-07",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/serenata-em-coimbra/",
+      "doc": "rtp-arquivos:w2c3fcac1fbee02c3",
+      "citacao": "Coimbra, Serenata monumental dá início à cerimónia da Queima das Fitas."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

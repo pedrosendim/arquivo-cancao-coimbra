@@ -1,0 +1,29 @@
+{
+  "id": "rtp-lagrima-de-preta-por-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/lagrima-de-preta-por-adriano-correia-de-oliveira/",
+  "titulo": "“Lágrima de Preta” por Adriano Correia de Oliveira (Antena1, 2015)",
+  "data": "2015-09-28",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/lagrima-de-preta-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w257c29009cf58990",
+      "citacao": "Canção \"Lágrima de Preta\", de um poema homónimo de Rómulo de Carvalho (António Gedeão), do livro \"Máquina de Fogo\", de 1961, com música de José Niza e interpretação de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/lagrima-de-preta-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w257c29009cf58990",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

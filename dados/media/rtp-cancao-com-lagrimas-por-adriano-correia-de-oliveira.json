@@ -1,0 +1,28 @@
+{
+  "id": "rtp-cancao-com-lagrimas-por-adriano-correia-de-oliveira",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas-por-adriano-correia-de-oliveira/",
+  "titulo": "“Canção com Lágrimas” por Adriano Correia de Oliveira (Antena1, 2015)",
+  "data": "2015-11-10",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w5bd1322d4960372d",
+      "citacao": "\"Canção com Lágrimas\", com letra de Manuel Alegre, música e interpretação de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas-por-adriano-correia-de-oliveira/",
+      "doc": "rtp-arquivos:w5bd1322d4960372d",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-reedicao-de-cantigas-do-maio-de-jose-afonso",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/reedicao-de-cantigas-do-maio-de-jose-afonso/",
+  "titulo": "Reedição de “Cantigas do Maio” de José Afonso (Antena1, 2012)",
+  "data": "2012-06-03",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/reedicao-de-cantigas-do-maio-de-jose-afonso/",
+      "doc": "rtp-arquivos:wfb9769478d6bab29",
+      "citacao": "Entrevista a Carlos Correia, conhecido no meio musical como Boris, sobre a reedição remasterizada do disco \"Cantigas do Maio\" de José Afonso, originalmente gravado no Strawberry Studio em Herouville, nos arredores de Paris, de 11 de Outubro a 4 de Novembro de 1971, com arranjo e direcção musical de José Mário Branco."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/reedicao-de-cantigas-do-maio-de-jose-afonso/",
+      "doc": "rtp-arquivos:wfb9769478d6bab29",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-maior-que-o-pensamento-liberdade",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-liberdade/",
+  "titulo": "Maior que o pensamento: Liberdade (RTP 1, 2011)",
+  "data": "2011-04-26",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-liberdade/",
+      "doc": "rtp-arquivos:w13d477613c0ca60c",
+      "citacao": "Programa documental de caráter biográfico dedicado à vida e obra de José Manuel Cerqueira Afonso dos Santos (Zeca Afonso), Compositor, Músico e Intérprete de Música de Intervenção, um dos mais originais e destacados criadores nacionais no século XX, através de depoimentos de amigos e colaboradores, imagens de arquivo e atuações inéditas com enfoque para a influência da Revolução de 25 de Abril na sua obra, o seu envolvimento na ação política, o seu processo criativo, a doença e a sua morte prematura."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/maior-que-o-pensamento-liberdade/",
+      "doc": "rtp-arquivos:w13d477613c0ca60c",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-filhos-da-madrugada",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/filhos-da-madrugada/",
+  "titulo": "“Filhos da Madrugada” (RTP 1, 1994)",
+  "data": "1994-04-25",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/filhos-da-madrugada/",
+      "doc": "rtp-arquivos:we152b48dc9ba2d04",
+      "citacao": "Várias bandas portuguesas juntam-se e homenageiam o músico Zeca Afonso, num álbum intitulado \"Filhos da Madrugada\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/filhos-da-madrugada/",
+      "doc": "rtp-arquivos:we152b48dc9ba2d04",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

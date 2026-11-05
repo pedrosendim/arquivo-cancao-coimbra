@@ -1,0 +1,36 @@
+{
+  "id": "rtp-a-orquestra-ligeira-convidou-luiz-goes-e-o-conjunto-de-joao-bagao",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-orquestra-ligeira-convidou-luiz-goes-e-o-conjunto-de-joao-bagao/",
+  "titulo": "A Orquestra Ligeira Convidou…Luiz Goes e o Conjunto de João Bagão (Antena1, 1982)",
+  "data": "1982-01-06",
+  "pessoas": [
+    "luiz-goes",
+    "joao-bagao",
+    "jose-mesquita",
+    "antonio-menano",
+    "edmundo-de-bettencourt",
+    "armando-goes",
+    "antonio-toscano",
+    "aires-de-aguilar",
+    "joao-gomes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-orquestra-ligeira-convidou-luiz-goes-e-o-conjunto-de-joao-bagao/",
+      "doc": "rtp-arquivos:wc9584b00c5bc2eea",
+      "citacao": "Espetáculo ao vivo da Orquestra Ligeira da EN, dirigida pelo maestro José Mesquita, com Luiz Goes e o Conjunto de João Bagão. Apresentação de Nunes Forte e Maria Clara."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-orquestra-ligeira-convidou-luiz-goes-e-o-conjunto-de-joao-bagao/",
+      "doc": "rtp-arquivos:wc9584b00c5bc2eea",
+      "citacao": "Personalidades: … Luiz Goes … João Bagão … José Mesquita … António Menano … Edmundo Bettencourt … Armando Goes … António Toscano … Aires Aguilar … João Gomes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

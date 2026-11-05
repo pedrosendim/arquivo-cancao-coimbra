@@ -1,0 +1,28 @@
+{
+  "id": "rtp-concerto-de-jose-afonso-no-coliseu-dos-recreios",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/concerto-de-jose-afonso-no-coliseu-dos-recreios/",
+  "titulo": "Concerto de José Afonso no Coliseu dos Recreios (RTP 2, 1987)",
+  "data": "1987-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-de-jose-afonso-no-coliseu-dos-recreios/",
+      "doc": "rtp-arquivos:w2edb84241dae4273",
+      "citacao": "Concerto gravado ao vivo de José Afonso, músico e compositor também conhecido por Zeca Afonso, a 29 de Janeiro de 1983, no Coliseu dos Recreios em Lisboa é recordado a propósito da sua morte ocorrida hoje de madrugada."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/concerto-de-jose-afonso-no-coliseu-dos-recreios/",
+      "doc": "rtp-arquivos:w2edb84241dae4273",
+      "citacao": "Personalidades: … José Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-o-que-e-feito-de-si-luis-goes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/o-que-e-feito-de-si-luis-goes/",
+  "titulo": "O que é Feito de Si Luís Goes? (RTP 1, 1991)",
+  "data": "1991-03-25",
+  "pessoas": [
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-que-e-feito-de-si-luis-goes/",
+      "doc": "rtp-arquivos:wba62fc5965e4cdac",
+      "citacao": "Breve biografia do médico Luís Goes, que para além da sua carreira na medicina se notabilizou como um dos maiores compositores e intérpretes da canção de Coimbra, seguida do seu depoimento sobre a sua carreira e percurso de vida."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-que-e-feito-de-si-luis-goes/",
+      "doc": "rtp-arquivos:wba62fc5965e4cdac",
+      "citacao": "Personalidades: … Luiz Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

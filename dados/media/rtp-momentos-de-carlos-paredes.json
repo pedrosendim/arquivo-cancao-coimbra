@@ -1,0 +1,28 @@
+{
+  "id": "rtp-momentos-de-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/momentos-de-carlos-paredes/",
+  "titulo": "Momentos de Carlos Paredes (RTP 1, 2004)",
+  "data": "2004-07-23",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/momentos-de-carlos-paredes/",
+      "doc": "rtp-arquivos:wddb6f0e4087be862",
+      "citacao": "Lisboa, jornalista Margarida Pinto Correia entrevista Carlos Paredes, guitarrista no programa de informação da RTP \"24 Horas\" de Outubro de 1992."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/momentos-de-carlos-paredes/",
+      "doc": "rtp-arquivos:wddb6f0e4087be862",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

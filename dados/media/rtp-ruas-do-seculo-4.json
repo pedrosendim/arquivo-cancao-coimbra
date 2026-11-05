@@ -1,0 +1,30 @@
+{
+  "id": "rtp-ruas-do-seculo-4",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-4/",
+  "titulo": "Ruas do Século (Antena1, 1999)",
+  "data": "1999-06-20",
+  "pessoas": [
+    "jose-afonso",
+    "adriano-correia-de-oliveira",
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-4/",
+      "doc": "rtp-arquivos:wfc302abf7a0eca6b",
+      "citacao": "Visita guiada pelas músicas do nosso tempo, com Zeca Afonso, José Mário Branco, Adriano Correia de Oliveira, Manuel Freire, Teresa Silva Carvalho, Amália Rodrigues e Carlos Paredes."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ruas-do-seculo-4/",
+      "doc": "rtp-arquivos:wfc302abf7a0eca6b",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso) … Adriano Correia de Oliveira … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

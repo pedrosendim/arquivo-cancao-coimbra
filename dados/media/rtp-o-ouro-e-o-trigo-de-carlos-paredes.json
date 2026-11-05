@@ -1,0 +1,29 @@
+{
+  "id": "rtp-o-ouro-e-o-trigo-de-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/o-ouro-e-o-trigo-de-carlos-paredes/",
+  "titulo": "O Ouro e o Trigo de Carlos Paredes (RTP 1, 1975)",
+  "data": "1975-08-14",
+  "pessoas": [
+    "carlos-paredes",
+    "fernando-alvim"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-ouro-e-o-trigo-de-carlos-paredes/",
+      "doc": "rtp-arquivos:w9fd0578b987d09fe",
+      "citacao": "Programa de caráter musical assente numa metáfora político social ilustrada com canções instrumentais interpretadas pelos músicos e compositores Carlos Paredes e Fernando Alvim, constituintes de uma peça musical de homenagem a Catarina Eufémia."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/o-ouro-e-o-trigo-de-carlos-paredes/",
+      "doc": "rtp-arquivos:w9fd0578b987d09fe",
+      "citacao": "Personalidades: … Carlos Paredes … Fernando Alvim"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

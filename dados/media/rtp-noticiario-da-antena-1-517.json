@@ -1,0 +1,20 @@
+{
+  "id": "rtp-noticiario-da-antena-1-517",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/noticiario-da-antena-1-517/",
+  "titulo": "Noticiário da Antena 1 (Antena1, 2001)",
+  "data": "2001-07-26",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/noticiario-da-antena-1-517/",
+      "doc": "rtp-arquivos:wd7dcabd2ed632b25",
+      "citacao": "Noticiário das 09H00 da Antena 1."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

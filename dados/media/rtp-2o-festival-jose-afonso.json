@@ -1,0 +1,28 @@
+{
+  "id": "rtp-2o-festival-jose-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/2o-festival-jose-afonso/",
+  "titulo": "2º Festival José Afonso (RTP 1, 2015)",
+  "data": "2015-05-01",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/2o-festival-jose-afonso/",
+      "doc": "rtp-arquivos:wb81addd43657c30e",
+      "citacao": "Malpica do Tejo, 2º Festival José Afonso em homenagem ao cantor José Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/2o-festival-jose-afonso/",
+      "doc": "rtp-arquivos:wb81addd43657c30e",
+      "citacao": "Personalidades: … José Afonso"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-a-forca-das-coisas-60",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-60/",
+  "titulo": "A Força das Coisas (Antena2, 2016)",
+  "data": "2016-05-21",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-60/",
+      "doc": "rtp-arquivos:wd1c7660a8d6a1d64",
+      "citacao": "Programa sobre a atividade cultural, apresentado por Luís Caetano, com várias rubricas temáticas."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/a-forca-das-coisas-60/",
+      "doc": "rtp-arquivos:wd1c7660a8d6a1d64",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

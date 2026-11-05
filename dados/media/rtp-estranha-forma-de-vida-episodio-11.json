@@ -1,0 +1,30 @@
+{
+  "id": "rtp-estranha-forma-de-vida-episodio-11",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/estranha-forma-de-vida-episodio-11/",
+  "titulo": "Estranha Forma de Vida – Episódio 11 (RTP 1, 2012)",
+  "data": "2012-02-01",
+  "pessoas": [
+    "fernando-machado-soares",
+    "jose-niza",
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estranha-forma-de-vida-episodio-11/",
+      "doc": "rtp-arquivos:w13dbd61d7db15949",
+      "citacao": "Décimo primeiro episódio da série sobre o percurso da música popular portuguesa desde a década de 1930 até à atualidade, ilustrado com imagens de Arquivo da RTP e entrevistas a cantores, músicos e compositores. Testemunhos de Arnaldo Trindade, Carlos Portugal, Fernando Machado Soares, Hugo Ribeiro, João Braga, José Mário Branco, José Niza, Manuel Freire, Rui Pato e Vitorino Salomé."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estranha-forma-de-vida-episodio-11/",
+      "doc": "rtp-arquivos:w13dbd61d7db15949",
+      "citacao": "Personalidades: … Fernando Machado Soares … José Niza … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

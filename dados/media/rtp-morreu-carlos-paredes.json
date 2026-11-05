@@ -1,0 +1,28 @@
+{
+  "id": "rtp-morreu-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/morreu-carlos-paredes/",
+  "titulo": "Morreu Carlos Paredes (RTP 1, 2004)",
+  "data": "2004-07-23",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/morreu-carlos-paredes/",
+      "doc": "rtp-arquivos:wb861434b79c37a7a",
+      "citacao": "Faleceu aos 79 anos o mestre da guitarra portuguesa, Carlos Paredes."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/morreu-carlos-paredes/",
+      "doc": "rtp-arquivos:wb861434b79c37a7a",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

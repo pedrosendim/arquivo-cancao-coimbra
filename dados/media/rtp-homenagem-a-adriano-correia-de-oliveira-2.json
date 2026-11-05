@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-adriano-correia-de-oliveira-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-2/",
+  "titulo": "Homenagem a Adriano Correia de Oliveira (Antena1, 2012)",
+  "data": "2012-01-06",
+  "pessoas": [
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-2/",
+      "doc": "rtp-arquivos:wb57d588e4fe25f78",
+      "citacao": "Homenagem ao cantor Adriano Correia de Oliveira, por ocasião do 25º Aniversário da sua morte, com concerto realizado na \"Voz do Operário\", em Lisboa. Apresentação de Cândido Mota."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-adriano-correia-de-oliveira-2/",
+      "doc": "rtp-arquivos:wb57d588e4fe25f78",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

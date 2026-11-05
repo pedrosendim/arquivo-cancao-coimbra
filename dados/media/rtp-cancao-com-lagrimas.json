@@ -1,0 +1,29 @@
+{
+  "id": "rtp-cancao-com-lagrimas",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas/",
+  "titulo": "“Canção com Lágrimas” (Antena1, 2014)",
+  "data": "2014-03-28",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "rui-pato"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas/",
+      "doc": "rtp-arquivos:w94afc078eec8078f",
+      "citacao": "Programa dedicado às canções de intervenção antes e depois do dia 25 de Abril de 1974, com destaque para a canção \"Canção com Lágrimas\", de 1964, com letra de Manuel Alegre, música e interpretação de Adriano Correia de Oliveira, com acompanhamento de Rui Pato (viola)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-com-lagrimas/",
+      "doc": "rtp-arquivos:w94afc078eec8078f",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Rui Pato"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

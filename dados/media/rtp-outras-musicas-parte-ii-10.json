@@ -1,0 +1,28 @@
+{
+  "id": "rtp-outras-musicas-parte-ii-10",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/outras-musicas-parte-ii-10/",
+  "titulo": "Outras Músicas – Parte II (RTP 2, 1990)",
+  "data": "1990-11-25",
+  "pessoas": [
+    "jose-niza"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/outras-musicas-parte-ii-10/",
+      "doc": "rtp-arquivos:we133dd1f2a209b79",
+      "citacao": "Segunda parte do programa apresentado por José Duarte sobre música no qual entrevista os convidados, José Niza, médico e compositor, Eugénio Alves, jornalista e António Curvelo, jurista e crítico de jazz."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/outras-musicas-parte-ii-10/",
+      "doc": "rtp-arquivos:we133dd1f2a209b79",
+      "citacao": "Personalidades: … José Niza"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

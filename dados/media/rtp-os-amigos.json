@@ -1,0 +1,28 @@
+{
+  "id": "rtp-os-amigos",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/os-amigos/",
+  "titulo": "Os Amigos (RTP 1, 1991)",
+  "data": "1991-01-19",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/os-amigos/",
+      "doc": "rtp-arquivos:w94e08aeb032c9d21",
+      "citacao": "Programa de poesia apresentado por Mário Viegas sobre a obra literária dos poetas José Gomes Ferreira, José Afonso e Raul de Carvalho, no Teatro Taborda de Santarém."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/os-amigos/",
+      "doc": "rtp-arquivos:w94e08aeb032c9d21",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

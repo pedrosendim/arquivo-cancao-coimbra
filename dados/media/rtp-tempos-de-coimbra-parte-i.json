@@ -1,0 +1,30 @@
+{
+  "id": "rtp-tempos-de-coimbra-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tempos-de-coimbra-parte-i/",
+  "titulo": "Tempo(s) de Coimbra – Parte I (RTP 1, 1985)",
+  "data": "1985-05-17",
+  "pessoas": [
+    "fernando-machado-soares",
+    "fernando-rolim",
+    "luiz-goes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempos-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:w7c3850ec522518d9",
+      "citacao": "Primeira parte do espetáculo dedicado ao fado de Coimbra com a participação de Alfredo Correia, Machado Soares, Fernando Rolim e Luís Goes, acompanhados à viola por Rui Pato, Aurélio Reis e Luís Filipe e à guitarra por António Brojo e António Portugal, gravado em 11 de Abril na Aula Magna em Lisboa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tempos-de-coimbra-parte-i/",
+      "doc": "rtp-arquivos:w7c3850ec522518d9",
+      "citacao": "Personalidades: … Machado Soares … Fernando Rolim … Luís Goes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

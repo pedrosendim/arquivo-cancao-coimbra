@@ -1,0 +1,29 @@
+{
+  "id": "rtp-espetaculo-amigos-maiores-que-o-pensamento",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/espetaculo-amigos-maiores-que-o-pensamento/",
+  "titulo": "Espetáculo “Amigos Maiores que o Pensamento” (Antena1, 2012)",
+  "data": "2012-04-25",
+  "pessoas": [
+    "adriano-correia-de-oliveira",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espetaculo-amigos-maiores-que-o-pensamento/",
+      "doc": "rtp-arquivos:we69679c3a732a39c",
+      "citacao": "Retransmissão do Concerto \"Amigos maiores do que o Pensamento\", de homenagem a José Afonso e a Adriano Correia de Oliveira, no dia 23 de Fevereiro de 2012, no Teatro Circo de Braga."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espetaculo-amigos-maiores-que-o-pensamento/",
+      "doc": "rtp-arquivos:we69679c3a732a39c",
+      "citacao": "Personalidades: … Adriano Correia de Oliveira … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

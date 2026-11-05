@@ -1,0 +1,20 @@
+{
+  "id": "rtp-cante-alentejano",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cante-alentejano/",
+  "titulo": "Cante Alentejano (RTP 1, 2018)",
+  "data": "2018-10-04",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cante-alentejano/",
+      "doc": "rtp-arquivos:wb4188f709b6b9d75",
+      "citacao": "Coimbra, serenata na Sé Velha junta o fado de Coimbra ao Cante Alentejano, num espetáculo que faz parte do \"Festival Correntes de Um só Rio\"."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

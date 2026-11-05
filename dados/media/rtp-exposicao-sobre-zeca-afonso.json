@@ -1,0 +1,28 @@
+{
+  "id": "rtp-exposicao-sobre-zeca-afonso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/exposicao-sobre-zeca-afonso/",
+  "titulo": "Exposição sobre Zeca Afonso (RTP Açores, 2019)",
+  "data": "2019-04-19",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/exposicao-sobre-zeca-afonso/",
+      "doc": "rtp-arquivos:w18da88c3e911e10f",
+      "citacao": "Ilha Terceira, Angra do Heroísmo, exposição na Biblioteca Luís da Silva Ribeiro assinala o 90º aniversário do músico e poeta Zeca Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/exposicao-sobre-zeca-afonso/",
+      "doc": "rtp-arquivos:w18da88c3e911e10f",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

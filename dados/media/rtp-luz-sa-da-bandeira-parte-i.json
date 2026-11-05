@@ -1,0 +1,20 @@
+{
+  "id": "rtp-luz-sa-da-bandeira-parte-i",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/luz-sa-da-bandeira-parte-i/",
+  "titulo": "Luz Sá da Bandeira – Parte I (RTP 1, 1989)",
+  "data": "1989-01-28",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/luz-sa-da-bandeira-parte-i/",
+      "doc": "rtp-arquivos:w8d99bd1806f28bd5",
+      "citacao": "Primeira parte do programa sobre fado com as atuações de Luz Sá da Bandeira, João Ferreira da Rosa, Fernando Coelho Rosa, Ana Maria Botelho e António Pinto Basto, fadistas, acompanhados por António Chainho, João Torre do Vale e José Pracana na guitarra portuguesa, e Fernando Alvim e José Carlos da Maia na viola."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

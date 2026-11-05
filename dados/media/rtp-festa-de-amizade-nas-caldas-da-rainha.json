@@ -1,0 +1,28 @@
+{
+  "id": "rtp-festa-de-amizade-nas-caldas-da-rainha",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/festa-de-amizade-nas-caldas-da-rainha/",
+  "titulo": "“Festa de Amizade” nas Caldas da Rainha (RTP 1, 1983)",
+  "data": "1983-02-05",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/festa-de-amizade-nas-caldas-da-rainha/",
+      "doc": "rtp-arquivos:w649ae9545514ab6c",
+      "citacao": "Caldas da Rainha, Pavilhão Gimnodesportivo da Mata, atletas, músicos e poetas participam no espetáculo de homenagem e apoio ao músico e compositor José Afonso (Zeca Afonso) intitulado \"Festa de Amizade\", organizado pelo Grupo de Amigos de José Afonso."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/festa-de-amizade-nas-caldas-da-rainha/",
+      "doc": "rtp-arquivos:w649ae9545514ab6c",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

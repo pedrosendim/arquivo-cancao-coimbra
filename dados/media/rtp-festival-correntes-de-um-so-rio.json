@@ -1,0 +1,28 @@
+{
+  "id": "rtp-festival-correntes-de-um-so-rio",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/festival-correntes-de-um-so-rio/",
+  "titulo": "Festival Correntes de Um Só Rio (RTP 1, 2018)",
+  "data": "2018-09-28",
+  "pessoas": [
+    "manuel-alegre-portugal"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/festival-correntes-de-um-so-rio/",
+      "doc": "rtp-arquivos:w2efce6a626fabe15",
+      "citacao": "Coimbra, arranque da primeira edição do festival \"Correntes de um só rio\", evento em que o fado e a canção de Coimbra estão em destaque e que tem associado vários tipos de espetáculos, exposições, visitas guiadas e conferências a decorrerem até 7 de outubro."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/festival-correntes-de-um-so-rio/",
+      "doc": "rtp-arquivos:w2efce6a626fabe15",
+      "citacao": "Personalidades: … Manuel Alegre Portugal"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

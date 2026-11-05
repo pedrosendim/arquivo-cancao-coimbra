@@ -1,0 +1,28 @@
+{
+  "id": "rtp-nao-me-obriguem-a-vir-para-a-rua-gritar",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/nao-me-obriguem-a-vir-para-a-rua-gritar/",
+  "titulo": "Não Me Obriguem a Vir para a Rua Gritar (RTP 1, 2007)",
+  "data": "2007-04-25",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/nao-me-obriguem-a-vir-para-a-rua-gritar/",
+      "doc": "rtp-arquivos:w6b752837352d666c",
+      "citacao": "Documentário sobre o cantor José Afonso, baseado em depoimentos de amigos e contemporâneos abordando a sua importância no contexto da época em que viveu, e de alguns jovens artistas, nascidos já após a sua morte, sobre a atualidade da sua obra."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/nao-me-obriguem-a-vir-para-a-rua-gritar/",
+      "doc": "rtp-arquivos:w6b752837352d666c",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

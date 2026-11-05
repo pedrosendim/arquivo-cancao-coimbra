@@ -1,0 +1,20 @@
+{
+  "id": "rtp-espetaculo-do-orfeao-academico-de-coimbra",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/espetaculo-do-orfeao-academico-de-coimbra/",
+  "titulo": "Espetáculo do Orfeão Académico de Coimbra (RTP 1, 1957)",
+  "data": "1957-02-24",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/espetaculo-do-orfeao-academico-de-coimbra/",
+      "doc": "rtp-arquivos:w347d4dab106e5443",
+      "citacao": "Lisboa, Pavilhão dos Desportos, coro do Orfeão Académico de Coimbra participa em espetáculo integrado em festa de caridade organizada em benefício da obra missionária dos padres do Espírito Santo, na presença de Francisco de Paula Leite Pinto, ministro da Educação Nacional, e João Antunes Varela, ministro da Justiça."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-entrevista-a-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes/",
+  "titulo": "Entrevista a Carlos Paredes (RTP 1, 1992)",
+  "data": "1992-10-01",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes/",
+      "doc": "rtp-arquivos:wbee48a08381fca4d",
+      "citacao": "Jornalista Margarida Pinto Correia entrevista Carlos Paredes, compositor e guitarrista, a propósito da comemoração do Dia Mundial da Música."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/entrevista-a-carlos-paredes/",
+      "doc": "rtp-arquivos:wbee48a08381fca4d",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

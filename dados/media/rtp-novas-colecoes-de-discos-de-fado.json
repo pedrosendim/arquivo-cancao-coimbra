@@ -1,0 +1,29 @@
+{
+  "id": "rtp-novas-colecoes-de-discos-de-fado",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/novas-colecoes-de-discos-de-fado/",
+  "titulo": "Novas coleções de discos de Fado (RTP 2, 1996)",
+  "data": "1996-04-12",
+  "pessoas": [
+    "jose-niza",
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/novas-colecoes-de-discos-de-fado/",
+      "doc": "rtp-arquivos:w739442f6e7e5ce87",
+      "citacao": "Coimbra, com coordenção de José Nisa, a MoviePlay editou \"Fados e Guitarradas de Coimbra\", dois discos dedicados ao fado de Coimbra nos anos 50 e 60."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/novas-colecoes-de-discos-de-fado/",
+      "doc": "rtp-arquivos:w739442f6e7e5ce87",
+      "citacao": "Personalidades: … José Niza … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

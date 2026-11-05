@@ -1,0 +1,28 @@
+{
+  "id": "rtp-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes/",
+  "titulo": "Carlos Paredes (RTP Memória, 2017)",
+  "data": "2017-11-03",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes/",
+      "doc": "rtp-arquivos:w570980e5bd786f9d",
+      "citacao": "Breve apresentação biográfica do virtuoso guitarrista, de terceira geração, Carlos Paredes, realizada com recurso a imagens de arquivo da execução de uma variação à guitarra.\r\nUma remontagem do programa original de 1978, para reexibição no Canal Memória."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/carlos-paredes/",
+      "doc": "rtp-arquivos:w570980e5bd786f9d",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

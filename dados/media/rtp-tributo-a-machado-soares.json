@@ -1,0 +1,28 @@
+{
+  "id": "rtp-tributo-a-machado-soares",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/tributo-a-machado-soares/",
+  "titulo": "Tributo a Machado Soares (RTP Memória, 2017)",
+  "data": "2017-05-22",
+  "pessoas": [
+    "fernando-machado-soares"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tributo-a-machado-soares/",
+      "doc": "rtp-arquivos:w61a2cac4b8b54825",
+      "citacao": "Pequena biografia elaborada por Maria João Gama, dedicada ao jurista, cantor, poeta e compositor Machado Soares, ilustrada com imagens de arquivo."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/tributo-a-machado-soares/",
+      "doc": "rtp-arquivos:w61a2cac4b8b54825",
+      "citacao": "Personalidades: … Machado Soares"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

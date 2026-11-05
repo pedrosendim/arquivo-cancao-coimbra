@@ -1,0 +1,28 @@
+{
+  "id": "rtp-zeca-afonso-em-1984",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-em-1984/",
+  "titulo": "Zeca Afonso em 1984 (RTP 1, 1987)",
+  "data": "1987-02-23",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-em-1984/",
+      "doc": "rtp-arquivos:w80c15315b9f51eda",
+      "citacao": "Setúbal, imagens de arquivo com entrevista realizada em 1984 ao cantor e compositor Zeca Afonso em sua casa."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/zeca-afonso-em-1984/",
+      "doc": "rtp-arquivos:w80c15315b9f51eda",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

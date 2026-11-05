@@ -1,0 +1,20 @@
+{
+  "id": "rtp-projeto-do-metro-do-mondego-suspenso",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/projeto-do-metro-do-mondego-suspenso/",
+  "titulo": "Projeto do Metro do Mondego suspenso (RTP 1, 2015)",
+  "data": "2015-01-05",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/projeto-do-metro-do-mondego-suspenso/",
+      "doc": "rtp-arquivos:w967f61c8711f2b57",
+      "citacao": "Coimbra, projeto Metro Mondego, sistema de transporte público ferroviário que funciona nos concelhos de Coimbra, Miranda do Corvo e Lousã, integrado no Sistema de Mobilidade do Mondego, encontra-se suspenso no troço entre Serpins e Alto de São João (Coimbra), devido à crise financeira do país."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

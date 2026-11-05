@@ -1,0 +1,28 @@
+{
+  "id": "rtp-ligeirissimo-55",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/ligeirissimo-55/",
+  "titulo": "Ligeiríssimo (RTP 1, 1977)",
+  "data": "1977-02-02",
+  "pessoas": [
+    "manuel-branquinho"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ligeirissimo-55/",
+      "doc": "rtp-arquivos:w23e2f52fd9e76738",
+      "citacao": "Programa dedicado à música, espetáculos e eventos culturais conduzido por Pedro Castelo."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/ligeirissimo-55/",
+      "doc": "rtp-arquivos:w23e2f52fd9e76738",
+      "citacao": "Personalidades: … Manuel Branquinho"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-carlos-paredes-4",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-4/",
+  "titulo": "Homenagem a Carlos Paredes (RTP 1, 2003)",
+  "data": "2003-03-03",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-4/",
+      "doc": "rtp-arquivos:w1656e80c20b008ae",
+      "citacao": "Lisboa, reedição na íntegra da obra do músico Carlos Paredes, por ocasião do seu aniversário."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-carlos-paredes-4/",
+      "doc": "rtp-arquivos:w1656e80c20b008ae",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

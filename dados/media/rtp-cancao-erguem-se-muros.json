@@ -1,0 +1,29 @@
+{
+  "id": "rtp-cancao-erguem-se-muros",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/cancao-erguem-se-muros/",
+  "titulo": "Canção “Erguem-se Muros” (Antena1, 2014)",
+  "data": "2014-04-21",
+  "pessoas": [
+    "rui-pato",
+    "adriano-correia-de-oliveira"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-erguem-se-muros/",
+      "doc": "rtp-arquivos:wce740d0de0139afd",
+      "citacao": "Programa dedicado às canções de intervenção antes e depois do dia 25 de Abril de 1974, com destaque para a canção \"Erguem-se Muros\", edição Orfeu, de 1964, com letra de António Ferreira Guedes, Música e interpretação de Adriano Correia de Oliveira, com acompanhamento de Rui Pato (viola)."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-erguem-se-muros/",
+      "doc": "rtp-arquivos:wce740d0de0139afd",
+      "citacao": "Personalidades: … Rui Pato … Adriano Correia de Oliveira"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

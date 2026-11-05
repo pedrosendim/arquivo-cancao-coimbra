@@ -1,0 +1,28 @@
+{
+  "id": "rtp-homenagem-a-jose-afonso-2",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-2/",
+  "titulo": "Homenagem a José Afonso (Antena2, 1994)",
+  "data": "1994-04-22",
+  "pessoas": [
+    "jose-afonso"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-2/",
+      "doc": "rtp-arquivos:w988e53ba3e346652",
+      "citacao": "Programa \"O Tempo das Fábulas\", com a homenagem ao cantor José Afonso. Leitura de excertos do livro \"Livra-te do Medo\", por Paulo Rato, e com as canções de José Afonso \"Era Uma Redondo Vocábulo\"; \"Grândola, Vila Morena\"; \"Vejam Bem\", do disco \"As Vozes de Abril\"."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso-2/",
+      "doc": "rtp-arquivos:w988e53ba3e346652",
+      "citacao": "Personalidades: … Zeca Afonso (José Afonso)"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

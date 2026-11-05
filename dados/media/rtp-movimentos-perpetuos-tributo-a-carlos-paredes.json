@@ -1,0 +1,28 @@
+{
+  "id": "rtp-movimentos-perpetuos-tributo-a-carlos-paredes",
+  "tipo": "video",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/movimentos-perpetuos-tributo-a-carlos-paredes/",
+  "titulo": "Movimentos Perpétuos (RTP 2, 2006)",
+  "data": "2006-07-23",
+  "pessoas": [
+    "carlos-paredes"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/movimentos-perpetuos-tributo-a-carlos-paredes/",
+      "doc": "rtp-arquivos:w3d0a8e92572071d2",
+      "citacao": "Documentário em 17 movimentos, um cine-tributo em que os testemunhos e a guitarra definem o génio, a bravura e a modéstia de Carlos Paredes. Um diálogo entre uma guitarra e uma câmara de Super8, numa estética que evoca a memória dos velhos filmes de família, plena de intimidade, e revelada na partilha de pequenas histórias da vida."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/movimentos-perpetuos-tributo-a-carlos-paredes/",
+      "doc": "rtp-arquivos:w3d0a8e92572071d2",
+      "citacao": "Personalidades: … Carlos Paredes"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

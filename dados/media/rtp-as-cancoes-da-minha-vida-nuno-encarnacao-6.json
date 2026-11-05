@@ -1,0 +1,28 @@
+{
+  "id": "rtp-as-cancoes-da-minha-vida-nuno-encarnacao-6",
+  "tipo": "audio",
+  "plataforma": "rtp-arquivos",
+  "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-6/",
+  "titulo": "As Canções da Minha Vida: Nuno Encarnação (Antena1, 2010)",
+  "data": "2010-09-10",
+  "pessoas": [
+    "nuno-encarnacao"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-6/",
+      "doc": "rtp-arquivos:wf69f489c0e1fef9d",
+      "citacao": "Programa da Autoria de António Macedo, com o convidado Nuno Encarnação, deputado do PSD, que escolheu a canção de Coimbra “O Marinheiro”, numa interpretação dum conjunto musical académico do qual o convidado fez parte."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/as-cancoes-da-minha-vida-nuno-encarnacao-6/",
+      "doc": "rtp-arquivos:wf69f489c0e1fef9d",
+      "citacao": "Personalidades: … Nuno Encarnação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}
