@@ -20,6 +20,12 @@
       "citacao": "Disco com alguns inéditos, o que é sempre de louvar. As vozes ouvem-se com muito agrado e a guitarra de Ricardo Dias mostra muita personalidade. Paredes, Brojo e Melo, bem interpretados. O disco acaba com o instrumental \"Homenagem\", do próprio Ricardo Dias."
     },
     {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+      "doc": "rtp-arquivos:we766f549f3a2866f",
+      "citacao": "Júlio Isidro conversa com Patrick Mendes, vocalista do \"Quinteto de Coimbra\", que interpreta \"Sonhar contigo ò Coimbra\"."
+    },
+    {
       "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2007/09/cristina-branco-e-o-quinteto-de-coimbra.html",
       "doc": "gc-i:3758214216366059523",
@@ -52,6 +58,12 @@
           "url": "https://www.discogs.com/artist/1841652",
           "doc": "discogs:w875f8b5a7da4151a",
           "citacao": "2001 · Guitarra E Canção De Coimbra · HM Música · CD, Album"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/37612962",
+          "doc": "discogs:w551b7c564a52468e",
+          "citacao": "Editora: HM Música – CD-1"
         }
       ],
       "conflito": true,
@@ -118,6 +130,170 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "programa «Estúdio 5» (RTP 1), apresentado por Júlio Isidro: Patrick Mendes, vocalista do Quinteto de Coimbra, interpreta «Sonhar contigo ò Coimbra»",
+      "data": "2002-12-01",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Júlio Isidro conversa com Patrick Mendes, vocalista do \"Quinteto de Coimbra\", que interpreta \"Sonhar contigo ò Coimbra\"."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Data: 2002-12-01"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Terceira parte do programa de entretenimento apresentado por Júlio Isidro"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Nome do Programa: Estúdio 5"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Canal: RTP 1"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«Sonhar Contigo ó Coimbra», pelo Quinteto de Coimbra, na emissão especial de Boas Festas do programa «Alma Lusa» (Antena 1)",
+      "data": "2007-12-23",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+          "doc": "rtp-arquivos:w08f1874990189542",
+          "citacao": "Quinteto de Coimbra, \"Sonhar Contigo ó Coimbra\"."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+          "doc": "rtp-arquivos:w08f1874990189542",
+          "citacao": "Descrição: Emissão especial de Boas Festas."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+          "doc": "rtp-arquivos:w08f1874990189542",
+          "citacao": "Data: 2007-12-23"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+          "doc": "rtp-arquivos:w08f1874990189542",
+          "citacao": "Nome do Programa: Alma Lusa"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/alma-lusa-29/",
+          "doc": "rtp-arquivos:w08f1874990189542",
+          "citacao": "Canal: Antena1"
+        }
+      ],
+      "conflito": false,
+      "nota": "Entre as «Personalidades» da ficha da RTP estão António Ataíde, Patrick Mendes, Ricardo Dias, Pedro Lopes e Nuno Botelho."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Fado E Guitarra Portuguesa», Casa Do Fado, Lda. – 001, 2002 (Discogs; «(C) 2002 Quinteto de Coimbra - Casa de Fado Lda.»)",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11681713",
+          "doc": "discogs:wd8fb0d507789b089",
+          "citacao": "Título: Fado E Guitarra Portuguesa"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11681713",
+          "doc": "discogs:wd8fb0d507789b089",
+          "citacao": "Editora: Casa Do Fado, Lda. – 001"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/11681713",
+          "doc": "discogs:wd8fb0d507789b089",
+          "citacao": "(C) 2002 Quinteto de Coimbra - Casa de Fado Lda."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Discogs dá a este CD o mesmo alinhamento de 14 faixas do CD «Guitarra E Canção De Coimbra» (HM Música – CD-1, 2001)."
+    },
+    {
+      "campo": "outro",
+      "valor": "DVD com o título «À Capella Quinteto De Coimbra (Fado De Coimbra)», Magic Music Produção Multimédia Lda – MMR 20044, 2004 (Discogs, artista «Various»)",
+      "data": "2004",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/26013424",
+          "doc": "discogs:wb6bb601fb98d6e91",
+          "citacao": "Título: À Capella Quinteto De Coimbra (Fado De Coimbra)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/26013424",
+          "doc": "discogs:wb6bb601fb98d6e91",
+          "citacao": "Artistas: Various"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/26013424",
+          "doc": "discogs:wb6bb601fb98d6e91",
+          "citacao": "Editora: Magic Music Produção Multimédia Lda – MMR 20044"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/26013424",
+          "doc": "discogs:wb6bb601fb98d6e91",
+          "citacao": "Formato: 1 × DVD, Stereo"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/26013424",
+          "doc": "discogs:wb6bb601fb98d6e91",
+          "citacao": "Data: 2004"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não fica como gravação do grupo: a ficha do Discogs não diz quem toca (artista «Various»; junto de cada faixa vem um nome, ex.: «3 Fado Hilário — Augusto Hilário», sem dizer se é autor ou intérprete). O título junta «À Capella» e «Quinteto De Coimbra», como a assinatura «àCapella Quinteto de Coimbra, Casa de Fado, Lda.» do convite de 2009 (facto seguinte), e as notas do Discogs põem «ÀCapella» entre os apoios. A nota biográfica de Bruno Costa (arquivo-pt:w57e22e44256d1b8c) separa o «Grupo de Fados Quinteto de Coimbra» do «Grupo de Fados àCapella» e refere um «DVD “àCapella”». A ligação ao grupo fica para o editor."
+    },
+    {
+      "campo": "outro",
+      "valor": "o Centro Cultural àCapella assina «Quinteto de Coimbra, Casa de Fado, Lda.» no convite para o seu 6.º aniversário (post de 21-7-2009)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/acapella.html",
+          "doc": "gc-iii:2548843268683122593",
+          "citacao": "o Centro Cultural àCapella comemora o seu sexto aniversário"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/acapella.html",
+          "doc": "gc-iii:2548843268683122593",
+          "citacao": "àCapella Quinteto de Coimbra, Casa de Fado, Lda."
+        }
+      ],
+      "conflito": false,
+      "nota": "O CD de 2001 é «Edição Quinteto de Coimbra/Casa de Fados, Lda.» (ver acima)."
     }
   ],
   "relacoes": [],

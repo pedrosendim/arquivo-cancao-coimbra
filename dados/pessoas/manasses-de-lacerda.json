@@ -65,6 +65,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/01/manasses-de-lacerda.html",
           "doc": "gc-v:4110616990423718425",
           "citacao": "MANASSÉS FERREIRA DE LACERDA BOTELHO, nasceu na vila de Sabrosa"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/3623994",
+          "doc": "discogs:wa6508f7c6645cc6f",
+          "citacao": "Nome real: Manassés Ferreira de Lacerda Botelho"
         }
       ],
       "conflito": false,
@@ -87,6 +93,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manasses-de-lacerda.html",
           "doc": "gc-v:226409051890340454",
           "citacao": "nasceu em Sabrosa (Trás os Montes) a 6 de Janeiro de 1885"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/3623994",
+          "doc": "discogs:wa6508f7c6645cc6f",
+          "citacao": "He was born in Sabrosa (Portugal) on January 6, 1885"
         }
       ],
       "conflito": false,
@@ -109,6 +121,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/05/manasses-de-lacerda-e-petronio-ricciulli.html",
           "doc": "gc-v:3059048621861323592",
           "citacao": "Faleceu no Rio de Janeiro, Brasil, a 18 de Maio de 1962."
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/artist/3623994",
+          "doc": "discogs:wa6508f7c6645cc6f",
+          "citacao": "died in Rio de Janeiro (Brazil) on May 18, 1962."
         }
       ],
       "conflito": false,
@@ -180,6 +198,21 @@
     },
     {
       "campo": "formacao",
+      "valor": "Matriculou-se na 5.ª classe dos liceus, no Liceu de Coimbra, no ano letivo de 1900-1901",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/blog-post.html",
+          "doc": "gc-iv:2148514942094234791",
+          "citacao": "Manassés de Lacerda, cantor que se matriculou na 5.ª Classe dos Liceus, Liceu de Coimbra, no ano lectivo de 1900-1901"
+        }
+      ],
+      "conflito": true,
+      "nota": "Terceira versão sobre o início dos estudos no Liceu de Coimbra (as outras dão 1900 e 1901)."
+    },
+    {
+      "campo": "formacao",
       "valor": "Depois de residir temporariamente em Bragança, foi aluno do Colégio de São Carlos, no Porto",
       "local": "Porto",
       "fontes": [
@@ -188,6 +221,20 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/01/retrato-de-manasss-pormenor-da-folha.html",
           "doc": "gc-i:113734692170677571",
           "citacao": "Residiu temporariamente em Bragança, tendo passado a aluno do Colégio de São Carlos no Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudou em Coimbra no início do século XX, mas não chegou a entrar na Universidade de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Foi antigo escolar de Coimbra no início do século 20, mas não chegou a entrar na UC."
         }
       ],
       "conflito": false,
@@ -223,6 +270,20 @@
       "nota": ""
     },
     {
+      "campo": "atividade",
+      "valor": "Popularizou a música do «Fado do Monte Estoril», adaptada e com o título «Fado Maria», nas academias de Coimbra (1901-1904) e do Porto (1904-1906)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-do-monte-estoril.html",
+          "doc": "gc-v:6979737371089462686",
+          "citacao": "O próprio Manassés de Lacerda gravaria esta música, com as devidas adaptações, sendo responsável pela sua popularização nas academias de Coimbra (1901-1904) e do Porto (1904-1906), com o título modificado para Fado Maria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
       "campo": "outro",
       "valor": "Saiu de Coimbra em 1904 e alistou-se como voluntário no exército, em cavalaria",
       "data": "1904",
@@ -234,7 +295,23 @@
           "citacao": "Saiu de Coimbra, nesse ano de 1904, aos 19 anos, e alista-se como voluntário no exército, em cavalaria."
         }
       ],
-      "conflito": false,
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Deixou Coimbra e foi para o Porto em 1905",
+      "data": "1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "deixa Coimbra e vai para o Porto em 1905"
+        }
+      ],
+      "conflito": true,
       "nota": ""
     },
     {
@@ -257,6 +334,20 @@
       ],
       "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "A emigração do Porto para o Brasil em 1908 (segundo Divaldo de Freitas) merece reservas: em 1909 Manassés ainda terá colaborado numa digressão da Tuna Académica do Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/fado-das-andorinhas.html",
+          "doc": "gc-i:113737212443773006",
+          "citacao": "Divaldo de Freitas, em “Emudecem Rouxinóis do Mondego”, 1972, dá a entender que Manassés emigrou do Porto para o Brasil em 1908, afirmação merecedora de algumas reservas, pois em 1909 o mesmo Manassés ainda terá prestado colaboração a uma digressão da Tuna Académica do Porto."
+        }
+      ],
+      "conflito": true,
+      "nota": "Divaldo Gaspar de Freitas, Emudecem Rouxinóis do Mondego (1972), citado no post."
     },
     {
       "campo": "atuacao",
@@ -350,7 +441,44 @@
           "citacao": "Quanto às gravações protagonizadas expressamente por artistas ligados a Coimbra, os primeiros registos de discos de massa conhecidos começam em 1906 (Manassés de Lacerda)"
         }
       ],
-      "conflito": false,
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em 1905, já no Porto, gravou numerosíssimos fados; o «Fado Maria» foi um dos muitos gravados entre 1905 e 1906-07",
+      "data": "1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "deixa Coimbra e vai para o Porto em 1905, onde, logo nesse mesmo ano de 1905, grava numerosíssimos fados."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "Na sua versão original, este fado tem por título \"Fado Maria\", sendo um dos muitos fados gravados por Manassés de Lacerda entre 1905 e 1906-07."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Residindo no Porto, gravou entre o 2.º semestre de 1906 e 1907 inúmeros discos de 78 rotações para a Companhia Francesa de Gramophone e para a Beka-Grand-Record",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Residindo no Porto, gravou entre o 2º semestre de 1906 e 1907 inúmeros discos de 78 rotações para a Companhia Francesa de Gramophone e para a Beka-Grand-Record."
+        }
+      ],
+      "conflito": true,
       "nota": ""
     },
     {
@@ -405,6 +533,32 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2023/04/noticia-da-passagem-de-manasses-pela.html",
           "doc": "gc-v:8580010178364701355",
           "citacao": "Fica assim claro que as edições da casa Arthur Barbedo foram realizadas um ano antes da datação estimativa, isto é, em 1906."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/ultimos-destaques-no-blogue-porto.html",
+          "doc": "gc-v:3237989754973688542",
+          "citacao": "permitem datar com maior rigor e fiabilidade as edições do repertório impresso de Manassés de Lacerda, apontando para o ano de 1906."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-do-monte-estoril.html",
+          "doc": "gc-v:6979737371089462686",
+          "citacao": "Os sucessos fonográficos de Manassés foram editados no Porto pela casa de Arthur Barbedo, em três séries de partituras, em 1906, e mais tarde pela casa Moreira de Sá"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "As três séries de partituras «Fados e Canções Portuguesas cantadas por Manassés de Lacerda…» foram publicadas entre 1905 e 1907 pela casa Arthur Barbedo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
+          "doc": "gc-i:113370173660515952",
+          "citacao": "foram também publicadas, entre 1905 e 1907, três séries de edições musicais sob o título de «Fados e Canções Portuguesas cantadas por Manassés de Lacerda para cilindros e discos de máquinas falantes» ... A editora dessas três séries de partituras foi a casa Arthur Barbedo"
         }
       ],
       "conflito": true,
@@ -595,6 +749,14 @@
     {
       "rotulo": "Uma tournée de Manassés de Lacerda no Brasil (1915)",
       "url": "https://guitarradecoimbra4.blogspot.com/2022/06/um-recital-de-manasses-de-lacerda-no.html"
+    },
+    {
+      "rotulo": "Repertório de Manassés de Lacerda (1) (2016)",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html"
+    },
+    {
+      "rotulo": "Manassés de Lacerda no Discogs",
+      "url": "https://www.discogs.com/artist/3623994"
     }
   ],
   "estado_revisao": "rascunho"

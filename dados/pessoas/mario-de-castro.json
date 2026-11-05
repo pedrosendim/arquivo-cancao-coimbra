@@ -7,11 +7,329 @@
     "Mário Castro"
   ],
   "papeis": [
-    "violista"
+    "violista",
+    "guitarrista",
+    "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "Após feita a instrução primária, na sua terra, Mário de Castro, vai estudar para o Liceu de Coimbra, e seguidamente entra na Escola Agrária de Coimbra, acabando o curso de antigos Regentes Agrícolas, no ano de 1943."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "Dez anos antes de se formar, ainda estudante do liceu, no ano de 1933, já dava nas vistas como violista, e assim, com 15 anos de idade, entra na Tuna Académica da Universidade de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "Mário de Castro, vai fazer parte da Tuna, e como cantava bem, acaba por entrar também, no Orfeon, como 2º tenor. Ainda teve tempo para colaborar como cantor convidado no Orfeon Universitário da Universidade do Porto"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "Em 1952, já no grupo de António Brojo, e com Aurélio Reis, ambos nas violas, acompanham as guitarras deste inesquecível Professor de Farmácia, e também de António Portugal. Gravam um conjunto de oito fonogramas de 78 rpm, para a etiqueta Melodia."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "A questão da distribuição dos honorários entre os elementos do grupo teve importância no avolumar de um certo clima de mal-estar que em 1954 levou ao afastamento do viola Mário Castro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "Mário de Castro soube conciliar a sua vida profissional de enólogo, com as inúmeras saídas em grupos de Fados e Guitarradas de Coimbra, dentro e fora, da Tuna e do Orfeon. Pelo país, pelas ilhas da Madeira e dos Açores, Norte de África, Europa e América, por todos esse sítios andou o Eng. Mário de Castro, e ainda teve disponibilidade para ir em 1960, numa célebre digressão à Índia Portuguesa."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+      "doc": "gc-v:6932557905111137493",
+      "citacao": "O Eng. Mário Henriques de Castro, enólogo de reconhecidos méritos, membro permanente da Associação Internacional de Engenheiros Enólogos ... vem a falecer em Coimbra, a 2 de Março de 2003."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Mário Henriques de Castro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Fez ontem, dia 2 de Março de 2013, 10 anos, que faleceu em Coimbra, MÁRIO HENRIQUES DE CASTRO. Nascera em Semide, Miranda do Corvo, a 4 de Setembro de 1918."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "MÁRIO Henriques DE CASTRO, nasceu na freguesia de Semide, no concelho de Miranda do Corvo, a 4 de Setembro de 1918."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Semide (Miranda do Corvo), 4 de setembro de 1918",
+      "data": "1918-09-04",
+      "local": "Semide, Miranda do Corvo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Fez ontem, dia 2 de Março de 2013, 10 anos, que faleceu em Coimbra, MÁRIO HENRIQUES DE CASTRO. Nascera em Semide, Miranda do Corvo, a 4 de Setembro de 1918."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "MÁRIO Henriques DE CASTRO, nasceu na freguesia de Semide, no concelho de Miranda do Corvo, a 4 de Setembro de 1918."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Mário Henriques de Castro (1918-1999), agrónomo, diplomado pela Escola Agrária de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Manuel Marques Inácio (GC V, 2013 e 2014); o post de 2016 dá só o ano."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 2 de março de 2003",
+      "data": "2003-03-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "vem a falecer em Coimbra, a 2 de Março de 2003."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "MÁRIO DE CASTRO (1918 – 2003). Violista, guitarrista, cantor"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/afonso-lopes-vieira-paulo-saraiva-e.html",
+          "doc": "gc-v:1984861926879580006",
+          "citacao": "Mário de Castro (1918 – 2003)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "MÁRIO DE CASTRO (1918 – 2003). Violista, guitarrista, cantor"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (GC V, 2013); os posts de 2014 dão só o ano, no cabeçalho. O texto do post de março de 2014 diz 2002 e o post de 2016 diz 1999 (factos seguintes)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 2002",
+      "data": "2002",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "faz 14 anos que MÁRIO DE CASTRO faleceu em Coimbra, no ano de 2002."
+        }
+      ],
+      "conflito": true,
+      "nota": "O cabeçalho do mesmo post (2 de março de 2014) diz «(1918 – 2003)»."
+    },
+    {
+      "campo": "morte",
+      "valor": "1999",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Mário Henriques de Castro (1918-1999), agrónomo, diplomado pela Escola Agrária de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 2016 sobre os registos do grupo de Pinho Brojo (1952-1953)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Escola Agrária de Coimbra: curso de Regentes Agrícolas, concluído em 1943",
+      "data": "1943",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Após feita a instrução primária, na sua terra, Mário de Castro, vai estudar para o Liceu de Coimbra, e seguidamente entra na Escola Agrária de Coimbra, acabando o curso de antigos Regentes Agrícolas, no ano de 1943."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "Engenheiro Agrário formado pela Escola de Coimbra, enólogo de créditos reconhecidos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "Mário Henriques de Castro (1918-1999), agrónomo, diplomado pela Escola Agrária de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2014 diz «Engenheiro Agrário» e o de 2016 «agrónomo»; o ano só vem no texto de 2013."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Enólogo; membro permanente da Associação Internacional de Engenheiros Enólogos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "O Eng. Mário Henriques de Castro, enólogo de reconhecidos méritos, membro permanente da Associação Internacional de Engenheiros Enólogos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/mario-de-castro.html",
+          "doc": "gc-v:7314369852527229565",
+          "citacao": "Engenheiro Agrário formado pela Escola de Coimbra, enólogo de créditos reconhecidos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o post de 2013, a informação sobre a associação vem do artigo de José Miguel Baptista «Elogio da Memória – Mário de Castro», Diário de Coimbra, 4 de abril de 2003."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Entrou na Tuna Académica da Universidade de Coimbra em 1933, com 15 anos, como violista; 2.º tenor no Orfeon; cantor convidado no Orfeon Universitário do Porto",
+      "data": "1933",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Dez anos antes de se formar, ainda estudante do liceu, no ano de 1933, já dava nas vistas como violista, e assim, com 15 anos de idade, entra na Tuna Académica da Universidade de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Mário de Castro, vai fazer parte da Tuna, e como cantava bem, acaba por entrar também, no Orfeon, como 2º tenor. Ainda teve tempo para colaborar como cantor convidado no Orfeon Universitário da Universidade do Porto"
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o post de 2013, a colaboração com o Orfeon Universitário do Porto vem do artigo de José Miguel Baptista no Diário de Coimbra (4 de abril de 2003)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em 1952, nas violas do grupo de António Brojo (com Aurélio Reis), grava oito fonogramas de 78 rpm para a etiqueta Melodia, postos em circulação só em 1953",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Em 1952, já no grupo de António Brojo, e com Aurélio Reis, ambos nas violas, acompanham as guitarras deste inesquecível Professor de Farmácia, e também de António Portugal. Gravam um conjunto de oito fonogramas de 78 rpm, para a etiqueta Melodia."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Estes discos haveriam de ser editados e colocados em circulação, apenas em 1953."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiras gravações de Luiz Goes, para a Rádio Triunfo, ao lado de António Brojo, António Portugal, Aurélio Reis e Mário de Castro: dois discos de 78 rotações publicados em 1953",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Luiz Goes grava pela primeira vez para a firma portuense Rádio Triunfo, ao lado dos guitarristas António Brojo, António Portugal, Aurélio Reis e Mário de Castro. Em dois discos de 78 rotações, publicados em 1953, inclui duas composições suas: “Minha Barca” e “Soneto”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do Gramofone (RTP Memória), de João Carlos Callixto, que chama «guitarristas» aos quatro instrumentistas."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão à Índia Portuguesa em 1960, organizada pela Associação dos Antigos Alunos da Universidade de Coimbra",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "e ainda teve disponibilidade para ir em 1960, numa célebre digressão à Índia Portuguesa. Esta viagem foi organizada pela Associação dos Antigos Alunos da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Em 1952, já no grupo de António Brojo, e com Aurélio Reis, ambos nas violas, acompanham as guitarras deste inesquecível Professor de Farmácia, e também de António Portugal."
+        }
+      ],
+      "nota": "viola, no grupo de António Brojo (1952)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Em 1952, já no grupo de António Brojo, e com Aurélio Reis, ambos nas violas, acompanham as guitarras deste inesquecível Professor de Farmácia, e também de António Portugal."
+        }
+      ],
+      "nota": "viola, no grupo de António Brojo (1952)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "aurelio-dos-reis",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/mario-de-castro_3.html",
+          "doc": "gc-v:6932557905111137493",
+          "citacao": "Em 1952, já no grupo de António Brojo, e com Aurélio Reis, ambos nas violas, acompanham as guitarras deste inesquecível Professor de Farmácia, e também de António Portugal."
+        }
+      ],
+      "nota": "as duas violas do grupo de António Brojo (1952)"
+    },
     {
       "tipo": "membro_de",
       "alvo": "grupo-de-antonio-brojo",

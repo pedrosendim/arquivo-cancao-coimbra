@@ -7,9 +7,48 @@
   ],
   "papeis": [
     "cantor",
-    "guitarrista"
+    "guitarrista",
+    "letrista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Feitos os estudos secundários, Horácio Menano, matriculou-se na Universidade de Coimbra, em Filosofia a 22.10.1907, em Medicina a 15.10.1910 e em Ciências a 13.11.1911."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Durante o seu tempo de estudante viveu no Bairro Sousa Pinto e no de Sante Teresa, acompanhando como guitarrista, os cantores da época, sobretudo Agostinho Fontes, este, da mesma idade, e outros que como ele àndavam pela Tuna e Orfeon Académico. Acompanhou muitas vezes o seu irmão António."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Foi autor de alguns Fados de Coimbra, mas diz-se que o seu irmão António Menano, se terá apropriado de alguns, face ao desinteresse do irmão. São letra sua, e música do irmão Francisco, o SOLITÁRIO (Dizem que as mães querem mais), sendo também sua, uma quadra do \"FADO DA PRAIA (Resume-se a coisa pouca), sendo também sua, a primeira quadra da composição \"BALADA (Perguntas-me o que é morrer)\"."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Concluídos os estudos na Universidade, obteve o grau de bacharel em Filosofia, a 9.11.1912, e em Medicina, a 29.07.1915."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Pelo caminho foi mobilizado e combateu em França, na Primeira Grande Guerra, de 1914 - 1918, integrando o Corpo Expedicionário Português."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+      "doc": "gc-v:4817856943706734857",
+      "citacao": "Em 1925, ruma definitivamente a Lisboa, onde exerce clínica de médico urologista, afastando-se das guitarradas de Coimbra."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -22,15 +61,33 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
           "doc": "gc-i:115835816405850891",
           "citacao": "Horácio Paulo Menano (1890-1972?)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "Letra: 1ª e 2ª quadras de Horácio Paulo Menano (1890-ca. 1972)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "o mano Horácio (1890 – 1972)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "Francisco Paulo Menano, Horácio Paulo Menano (1890- 1971), Abel Menano e Alberto Menano."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "Só o ano; o dia e o lugar estão no facto «Fornos de Algodres, 25 de janeiro de 1890»."
     },
     {
       "campo": "morte",
-      "valor": "1972 (com dúvida na fonte)",
-      "data": "",
+      "valor": "1972 (com dúvida em dois dos textos: «1972?» e «ca. 1972»)",
+      "data": "1972",
       "local": "",
       "fontes": [
         {
@@ -38,10 +95,22 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
           "doc": "gc-i:115835816405850891",
           "citacao": "Horácio Paulo Menano (1890-1972?)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "Letra: 1ª e 2ª quadras de Horácio Paulo Menano (1890-ca. 1972)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "o mano Horácio (1890 – 1972)"
         }
       ],
       "conflito": true,
-      "nota": "A biografia de 2013 dá 1 de julho de 1971 (facto seguinte)."
+      "nota": "Os posts de 2006 e 2007 (GC I) escrevem «1972?» e «ca. 1972»; o de 2014 sobre António Menano (GC V) escreve «1890 – 1972». As biografias de 2013 e 2014 dão 1 de julho de 1971 (facto seguinte)."
     },
     {
       "campo": "morte",
@@ -54,10 +123,43 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
           "doc": "gc-v:4817856943706734857",
           "citacao": "faleceu em Santos-o-Velho, Lisboa, a 1 de Julho de 1971"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/afonso-lopes-vieira-e-horacio-paulo.html",
+          "doc": "gc-v:593765719428418840",
+          "citacao": "HORÁCIO PAULO MENANO, nasceu em Fornos de Algodres, distrito da Guarda, a 25 de Janeiro de 1890 e faleceu em Santos-o-Velho em Lisboa, a 1 de Julho de 1971."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "Francisco Paulo Menano, Horácio Paulo Menano (1890- 1971), Abel Menano e Alberto Menano."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:3601858408909756739",
+          "citacao": "falecimentos de Anthero Dias Alte da Veiga (1960) ... Francisco Paulo Menano (1970); Horácio Menano (1971)"
         }
       ],
       "conflito": true,
-      "nota": "O post de 2006 sobre António Menano dá «1972?»."
+      "nota": "Biografias de Manuel Marques Inácio (GC V, 2013 e 2014). O post de janeiro de 2013 sobre António Menano (lista baseada num testemunho do Eng. Nuno Menano, de 11-09-2003) e o de 2016 dão só o ano. Os posts de 2006, 2007 e maio de 2014 dão 1972 (facto anterior). A nota final do próprio post de 25-01-2013 diz «Contamos apresentá-la a 10 de Junho, data em faz 42 anos que nos deixou», com outro dia e outro mês (facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "10 de junho («data em faz 42 anos que nos deixou», segundo a nota final do post de 2013)",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Contamos apresentá-la a 10 de Junho, data em faz 42 anos que nos deixou."
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota final (sobre a fotografia que faltava) do post de 25-01-2013 (GC V), que no início dá «1 de Julho de 1971» (facto anterior). A frase não diz o ano, por isso o facto fica sem data."
     },
     {
       "campo": "nascimento",
@@ -70,6 +172,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
           "doc": "gc-v:4817856943706734857",
           "citacao": "HORÁCIO PAULO MENANO, nasceu em Fornos de Algodres, distrito da Guarda, a 25 de janeiro de 1890"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/afonso-lopes-vieira-e-horacio-paulo.html",
+          "doc": "gc-v:593765719428418840",
+          "citacao": "HORÁCIO PAULO MENANO, nasceu em Fornos de Algodres, distrito da Guarda, a 25 de Janeiro de 1890 e faleceu em Santos-o-Velho em Lisboa, a 1 de Julho de 1971."
         }
       ],
       "conflito": false,
@@ -86,10 +194,102 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
           "doc": "gc-i:115835816405850891",
           "citacao": "formado em Filosofia (1912) e Medicina (1915), destacou-se como cantor e executante de guitarra em afinação natural"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Concluídos os estudos na Universidade, obteve o grau de bacharel em Filosofia, a 9.11.1912, e em Medicina, a 29.07.1915."
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia de 2013 dá as datas: bacharel em Filosofia a 9-11-1912 e em Medicina a 29-07-1915 (com matrícula em Ciências a 13-11-1911). Um post de 2021 diz «Diplomado em Medicina e em Ciências» (facto seguinte)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Diplomado em Medicina e em Ciências",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/1921-2021-alguns-nomes.html",
+          "doc": "gc-v:8109630216501829428",
+          "citacao": "Dr. HORÁCIO PAULO MENANO. Diplomado em Medicina e em Ciências, assistente nas FM/UC e na FCiências da UC. Guitarrista, serenateiro e compositor amador."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post «1921 (2021): alguns nomes» (GC V). Os textos de 2006 e 2013 dizem Filosofia e Medicina (facto anterior)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Naturalista adjunto do Museu e Laboratório Zoológico (1914-1921); segundo assistente na Faculdade de Ciências (1915-1922) e na Faculdade de Medicina (1920-1924); médico urologista em Lisboa a partir de 1925",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Exerceu o cargo de Naturalista adjunto, do Museu e Laboratório Zoológico, de 30. 05.1914 a 21.06.1921. Na Faculdade de Ciências, foi segundo assistente provisório na disciplina de Ciências Biológicas, de 1915 a 1919, deixando de ser provisório, nos anos de 1919 a 1922."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Regressado, veio a ser segundo assistente, na disciplina de Clínica e Policlínica Cirúrgica, na Faculdade de Medicina, de 1920 a 1924."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Em 1925, ruma definitivamente a Lisboa, onde exerce clínica de médico urologista, afastando-se das guitarradas de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/11/1921-2021-alguns-nomes.html",
+          "doc": "gc-v:8109630216501829428",
+          "citacao": "Dr. HORÁCIO PAULO MENANO. Diplomado em Medicina e em Ciências, assistente nas FM/UC e na FCiências da UC. Guitarrista, serenateiro e compositor amador."
         }
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Combateu em França na Primeira Grande Guerra, no Corpo Expedicionário Português (embarcou como médico militar, segundo o post de 2014)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "Pelo caminho foi mobilizado e combateu em França, na Primeira Grande Guerra, de 1914 - 1918, integrando o Corpo Expedicionário Português."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "O irmão Horácio embarca no CEP como médico militar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Letras: «Solitário» («Dizem que as mães querem mais», música do irmão Francisco Menano), uma quadra do «Fado da Praia» e a primeira quadra da «Balada (Perguntas-me o que é morrer)»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "São letra sua, e música do irmão Francisco, o SOLITÁRIO (Dizem que as mães querem mais), sendo também sua, uma quadra do \"FADO DA PRAIA (Resume-se a coisa pouca), sendo também sua, a primeira quadra da composição \"BALADA (Perguntas-me o que é morrer)\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "Música: Francisco Paulo Menano (1888-1970) Letra: 1ª e 2ª quadras de Horácio Paulo Menano (1890-ca. 1972) Incipit: Dizem que as mães querem mais"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2007 (GC I) atribui-lhe a 1.ª e a 2.ª quadras de «Dizem que as mães querem mais»."
     },
     {
       "campo": "outro",
@@ -183,9 +383,35 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/horacio-paulo-menano.html",
+          "doc": "gc-v:4817856943706734857",
+          "citacao": "acompanhando como guitarrista, os cantores da época, sobretudo Agostinho Fontes, este, da mesma idade, e outros que como ele àndavam pela Tuna e Orfeon Académico. Acompanhou muitas vezes o seu irmão António."
+        }
+      ],
+      "nota": "guitarra, no tempo de estudante em Coimbra"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYd0lHqUiDzPfKEV6ufpMbZuDca2bqV5eKy3PFU9Kl3GMZDGhcdiaEcccfTLcOr36jh_9VrtjORXazyjj6mjsT3USazu_lxBUVc6cex7TkbXsxvNn9nwKJRj0kXgGQ6duna6hSscyCAx9W/s1600/Horacio+Paulo+Menanop.jpg",
+      "legenda": "O Dr. Horácio Menano, lançando um foguete em festa de família.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/afonso-lopes-vieira-e-horacio-paulo.html",
+          "doc": "gc-v:593765719428418840",
+          "citacao": "Nota – Na foto o Dr. Horácio Menano, lançando um foguete em festa de família, algo que gostava de fazer para gáudio dos seus filhos e netos."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

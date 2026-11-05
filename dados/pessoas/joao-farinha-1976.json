@@ -39,6 +39,12 @@
       "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."
     },
     {
+      "fonte": "jornal-a-cabra",
+      "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+      "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+      "citacao": "Acontece que, em 2010, o Luís Carlos e o Luís Barroso, que já eram amigos de longa data, lançaram-me o desafio de os acompanhar no projeto “Fado ao Centro”, que permitiu que a minha vida se dedicasse só ao fado de Coimbra."
+    },
+    {
       "fonte": "joao-farinha-site",
       "url": "https://joao-farinha.com/bio",
       "doc": "joao-farinha-site:w9363a51837eae2aa",
@@ -193,8 +199,8 @@
           "citacao": "JOÃO FARINHA, Gründer des Fado Ao Centro"
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "O site oficial escreve «Fado ao Centro (2011)» e o texto de Gelsenkirchen chama-lhe «Gründer» (fundador). Na entrevista ao jornal A Cabra (2018), diz que em 2010 Luís Carlos e Luís Barroso o desafiaram a acompanhá-los no projeto: ver esse facto."
     },
     {
       "campo": "atividade",
@@ -443,6 +449,92 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Gestão de Empresas na Faculdade de Economia da Universidade de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Nos quatro primeiros anos de faculdade, onde estudei Gestão de Empresas, na Faculdade de Economia da Universidade de Coimbra, andei deslumbrado com a vida académica."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Entrou na Secção de Fado da AAC pelo coro masculino Schola Cantorum (formado em 1997); começou a cantar fado de Coimbra para ir a Marrocos, em 1997",
+      "data": "1997",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Tal só aconteceu quando entrei na Secção de Fado da Associação Académica de Coimbra (SF/AAC) através do coro Schola Cantorum, um coro masculino, formado em 1997."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "comecei a cantar fado de Coimbra para ir a Marrocos, em 1997."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Apresentou o seu primeiro tema original numa récita de quintanistas, por volta do final da década de 90",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "o meu primeiro espetáculo académico foi numa récita de quintanistas, por volta do final da década de 90, onde apresentei o meu primeiro tema original"
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto com o grupo Coimbra em Bruxelas, no Bozar",
+      "data": "",
+      "local": "Bruxelas",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Mais tarde, com o grupo Coimbra, a parte artística começa de facto a ser importante: tivemos um concerto memorável em Bruxelas, no Bozar"
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 2010, Luís Carlos e Luís Barroso desafiaram-no a juntar-se ao projeto «Fado ao Centro»",
+      "data": "2010",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Acontece que, em 2010, o Luís Carlos e o Luís Barroso, que já eram amigos de longa data, lançaram-me o desafio de os acompanhar no projeto “Fado ao Centro”, que permitiu que a minha vida se dedicasse só ao fado de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018). O site oficial escreve «Fado ao Centro (2011)» e o texto de Gelsenkirchen chama-lhe «Gründer» (fundador)."
     }
   ],
   "relacoes": [
@@ -477,6 +569,44 @@
         }
       ],
       "nota": "voz (2008-2009)"
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Para as minhas canções, como para toda a minha geração, Luís Góis é uma grande referência."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Todavia, Carlos Paredes e Luís Góis são as minhas grandes referências no Fado de Coimbra."
+        }
+      ],
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018), que escreve «Luís Góis»."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "No entanto, Carlos Paredes também é daqueles que produz sons que me fazem viver Coimbra e experienciar a cidade de outra forma."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2018/05/20-anos-de-fado-na-voz-de-joao-farinha/",
+          "doc": "jornal-a-cabra:wd1bf9476a41231ff",
+          "citacao": "Todavia, Carlos Paredes e Luís Góis são as minhas grandes referências no Fado de Coimbra."
+        }
+      ],
+      "nota": "Entrevista ao jornal A Cabra (25-05-2018)."
     }
   ],
   "imagens": [

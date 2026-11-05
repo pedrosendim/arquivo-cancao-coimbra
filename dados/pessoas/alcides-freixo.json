@@ -7,8 +7,116 @@
     "guitarrista",
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "de seguida funda o grupo “Saudade Coimbrã”, com Alcides Freixo – guitarra, Joaquim Santos e José Freitas – violas"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "Fundou o Quarteto de Guitarras de Coimbra “AEMINIUM”, conjuntamente com seu filho e guitarrista Carlos Jesus, e com os violas Alcides Freixo e Paulo Larguesa"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+      "doc": "gc-v:3717422105827945575",
+      "citacao": "Atualmente pertence à Associação Cultural “Guitarras de Coimbra” do qual é fundador e 1º guitarra, conjuntamente com Alcides Freixo e Alexandre Cortesão – guitarras"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+      "doc": "gc-i:9108416061494472635",
+      "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/alcides-freixo.html",
+      "doc": "gc-v:1018920548008319760",
+      "citacao": "Morreu Alcides Freixo, guitarrista do \"Raízes de Coimbra\", um bom amigo, executante peculiar da guitarra de Coimbra. Encontrava sempre qualquer coisa nos acompanhamentos das peças para as melhorar."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "morte",
+      "valor": "Morte noticiada no GC-V em 28 de julho de 2014 («Morreu Alcides Freixo»)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/alcides-freixo.html",
+          "doc": "gc-v:1018920548008319760",
+          "citacao": "Morreu Alcides Freixo, guitarrista do \"Raízes de Coimbra\""
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto não diz a data nem o local da morte; 28-07-2014 é a data de publicação do post. No dia seguinte o blogue reproduziu uma notícia do Diário de Coimbra (gc-v:3666177076364881938), só em imagem."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista do grupo «Raízes de Coimbra», o grupo de fados dos Antigos Tunos; «executante peculiar da guitarra de Coimbra»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/alcides-freixo.html",
+          "doc": "gc-v:1018920548008319760",
+          "citacao": "Morreu Alcides Freixo, guitarrista do \"Raízes de Coimbra\", um bom amigo, executante peculiar da guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+          "doc": "gc-i:9108416061494472635",
+          "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra no CD «Coimbra d'ontem... Coimbra d'hoje», do grupo Guitarras de Coimbra (Aeminium Records AE 003, dezembro de 2001)",
+      "data": "2001-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "-CD Coimbra d’ontem... Coimbra d’hoje. Coimbra, Aeminum Records, AE 003, 2001, faixa n.º 7. Canta José Neves, acompanhado por António Jesus/Alexandre Cortesão/Alcides Freixo/Aníbal Moreira/Bernardino Gonçalves/Fernando Plácido."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/antonio-de-jesus.html",
+          "doc": "gc-v:3717422105827945575",
+          "citacao": "tendo produzido o trabalho discográfico intitulado “Coimbra d’ontem e Coimbra d’hoje”, editado em Dezembro de 2001"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra de Coimbra no CD «280 anos» / «280 Anos Depois» da Associação dos Antigos Tunos da Universidade de Coimbra (2010), com o grupo Raízes de Coimbra (faixa 6, «Variações em Lá menor I»)",
+      "data": "2010",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o_6.html",
+          "doc": "gc-v:4854827849779335605",
+          "citacao": "Primeiro registo fonográfico conhecido de VARIAÇÕES EM LÁ MENOR I, no CD 280 anos, Associação dos Antigos Tunos da Universidade de Coimbra 1985-2010. Coimbra: 2010, faixa n.º 6: Octávio Sérgio (gC)/Alcides Freixo (gC), José Ourives (gC) e Humberto Matias/Armando Luís de Carvalho Homem (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-rodrigues-antonio-das-aguas.html",
+          "doc": "gc-v:7197291463809859069",
+          "citacao": "Recentemente voltei a gravá-la num disco “280 Anos Depois”, com os Antigos Tunos e o grupo Raízes de Coimbra. Fui acompanhado por Alcides Freixo e José Ourives nas guitarras"
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação refere outra peça («Variações em Lá Maior», de António Rodrigues) gravada no mesmo disco; o autor do texto não se identifica no post."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",

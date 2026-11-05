@@ -133,10 +133,22 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/02/as-pupilas-do-senhor-reitor-e-outras.html",
           "doc": "gc-i:113917268982237953",
           "citacao": "quiçá no momento da fundação da Secção de Fado da Associação Académica de Coimbra (1980)"
+        },
+        {
+          "fonte": "revista-fadista-fado-cale",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_6e792fcd6b9d418f8ed19c65860a8e70.pdf",
+          "doc": "revista-fadista-fado-cale:wb56899d873000c0f",
+          "citacao": "Em junho de 1980 é fundada a Secção de Fado da A.A.C. com o intuito de promover e divulgar a Canção de Coimbra."
+        },
+        {
+          "fonte": "revista-fadista-fado-cale",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_dee90ed2f1df4f8fbb45a17c31892f76.pdf",
+          "doc": "revista-fadista-fado-cale:w6b0ab066a97a54a5",
+          "citacao": "culmina, e bem, com o aparecimento da Secção de Fado em 1980 e da sua grande preocupação no ensino dos instrumentos e do canto"
         }
       ],
       "conflito": true,
-      "nota": "Concorda com os aniversários noticiados em 2005 (25 anos) e 2010 (30 anos); diverge da notícia de 2018 que fala em 40 anos de actividade."
+      "nota": "Concorda com os aniversários noticiados em 2005 (25 anos) e 2010 (30 anos); diverge da notícia de 2018 que fala em 40 anos de actividade. A Revista Fadista n.º 1 (António Vicente, agosto de 2023) precisa «junho de 1980»; a n.º 5 (Manuel Fernando Marques Inácio, setembro de 2024) fala no «aparecimento da Secção de Fado em 1980»."
     },
     {
       "campo": "formacao",
@@ -225,10 +237,16 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
           "doc": "gc-iv:8594621721074033745",
           "citacao": "Joaquim Reis (jornalista, fundador da Secção de Fado da AAC)"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231906/http://www.cidadevirtual.pt:80/fadocoimbra/recort27.htm",
+          "doc": "arquivo-pt:we1ea1ec660663198",
+          "citacao": "um enorme grupo de (mais uma vez) apaixonados, onde pontificavam o Mário Afonso, o João Moura e o Quim Reis, lançam mãos ao projecto que desde há muito acalentavam: criar uma Secção de Fado de Coimbra no seio da AAC."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "O texto de Luís Alcoforado («Memórias de um Cantor de Coimbra em Tempos de Ressurgimento», site «Fado de Coimbra») junta João Moura aos dois nomes."
     },
     {
       "campo": "outro",
@@ -447,6 +465,20 @@
     },
     {
       "campo": "outro",
+      "valor": "a criação da Secção, no início dos anos 80, contribuiu muito para a formação de uma nova geração de instrumentistas, cantores e autores («há quem já a apelide de 4ª geração de oiro»)",
+      "fontes": [
+        {
+          "fonte": "revista-fadista-fado-cale",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_6e6a4e9620e841358dea3aff0c8f3a7b.pdf",
+          "doc": "revista-fadista-fado-cale:w7b635148aaccbf97",
+          "citacao": "A criação da Secção de Fado da AAC, no início dos anos 80, contribuiu muito para a formação de uma nova geração de instrumentistas, cantores e autores de grande qualidade, que deixaram uma marca indelével na Canção de Coimbra - há quem já a apelide de 4ª geração de oiro."
+        }
+      ],
+      "conflito": false,
+      "nota": "João Carlos Oliveira, «A Canção de Coimbra e as transformações políticas e sociais nas décadas de 60 e 70 do Séc XX», Revista Fadista n.º 7 (fevereiro de 2025)."
+    },
+    {
+      "campo": "outro",
       "valor": "em 1981 a direção da Secção realizou o Sarau da Queima das Fitas, para o qual foi recriada a Orxestra Pitagórica",
       "data": "1981",
       "fontes": [
@@ -620,8 +652,50 @@
           "citacao": "Em 1985 integrara o Grupo Oficial da Secção de Fado da AAC, com Luís Alcoforado, Carlos Costa, José Ourives e João Carvalho."
         }
       ],
+      "conflito": true,
+      "nota": "O sujeito da frase é Rui Lucas. O texto de Luís Alcoforado (facto seguinte) dá outra composição para o grupo oficial que criou «por volta de 1985»."
+    },
+    {
+      "campo": "outro",
+      "valor": "por volta de 1985, Luís Alcoforado criou, com José Ourives, Jójó, Carlos Costa, Rui Lucas e Fernando Silva, o grupo oficial da Secção, que «haveria de transformar-se» nos Praxis Nova",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231906/http://www.cidadevirtual.pt:80/fadocoimbra/recort27.htm",
+          "doc": "arquivo-pt:we1ea1ec660663198",
+          "citacao": "A minha história pessoal estabiliza por volta de 1985. Com José Ourives, Jójó, Carlos Costa, Rui Lucas e Fernando Silva, criei o grupo oficial da Secção que haveria de transformar-se numa magnífica aventura chamada Praxis Nova com a posterior participação do José Rabaça, do Luís Carlos Santos, do Rui Moreira e do Victor Silva."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Luís Alcoforado no site «Fado de Coimbra». O post de 2006 sobre Rui Lucas (facto anterior) nomeia João Carvalho e não refere Jójó nem Fernando Silva."
+    },
+    {
+      "campo": "outro",
+      "valor": "primeiro grupo saído das escolas da Secção: Luís Alcoforado, José Santos, Mira Marques, Filipe e Rogério, com participações regulares de Paulo Saraiva",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231906/http://www.cidadevirtual.pt:80/fadocoimbra/recort27.htm",
+          "doc": "arquivo-pt:we1ea1ec660663198",
+          "citacao": "Com o José Santos, o Mira Marques, o Filipe e o Rogério formei o primeiro grupo saído das escolas da Secção, que havia de ter também participações regulares do Paulo Saraiva."
+        }
+      ],
       "conflito": false,
-      "nota": "O sujeito da frase é Rui Lucas."
+      "nota": "Texto de Luís Alcoforado («Memórias de um Cantor de Coimbra em Tempos de Ressurgimento»), na secção de recortes do site «Fado de Coimbra»."
+    },
+    {
+      "campo": "outro",
+      "valor": "os Praxis Nova surgiram do trabalho das escolas da Secção e foram durante cinco anos o grupo oficial da Secção",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207234937/http://www.cidadevirtual.pt:80/fadocoimbra/recort51.htm",
+          "doc": "arquivo-pt:w7752dded07ac3714",
+          "citacao": "o grupo Praxis Nova surgiu há treze anos do trabalho das escolas da secção de Fado da AAC, tendo sido, durante cinco anos, o grupo oficial daquela secção, autonomizando-se depois para uma carreira ao serviço da música de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do grupo: praxis-nova (onde ficam as versões divergentes sobre o ano de origem)."
     },
     {
       "campo": "atuacao",
@@ -690,6 +764,12 @@
           "fonte": "gc-i",
           "url": "https://guitarradecoimbra.blogspot.com/2007/06/noites-da-cano-de-coimbra-2007.html",
           "doc": "gc-i:1872584601877491539",
+          "citacao": "participação nas serenatas das comemorações dos 10 anos da Secção de Fado da Associação Académica de Coimbra, em 1990"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
           "citacao": "participação nas serenatas das comemorações dos 10 anos da Secção de Fado da Associação Académica de Coimbra, em 1990"
         }
       ],
@@ -959,6 +1039,39 @@
     },
     {
       "campo": "atuacao",
+      "valor": "tertúlia sobre a construção da guitarra de Coimbra com Fernando Meireles e Pedro Ventura, na República dos Galifões, organizada por Francisco Pereira, vice-presidente da SF/AAC, integrada no Mês do Fado (12 de novembro de 2022)",
+      "data": "2022-11-12",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "12 Novembro, 2022"
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "SF/AAC promove Tertúlia sobre Canção de Coimbra na República dos Galifões. Fernando Meireles e Pedro Ventura conversam sobre processo de construção das guitarras de Coimbra."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "No dia 12 de novembro duas gerações de fado, representadas por Fernando Meireles e Pedro Ventura, encontraram-se para discutir as origens da guitarra e da Canção de Coimbra. O evento aconteceu na República dos Galifões e foi organizado por Francisco Pereira, atual vice-presidente da Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "O debate está integrado nas comemorações do mês do fado, que estão a decorrer em novembro."
+        }
+      ],
+      "conflito": false,
+      "nota": "A Cabra, «Mês do Fado junta gerações de Luthiers» (Gustavo Eler)."
+    },
+    {
+      "campo": "atuacao",
       "valor": "Serenata Monumental de 2023 no Paço das Escolas, por imposição de obras na Sé Velha, segundo o presidente da Secção, João Sousa",
       "data": "2023-05-18",
       "local": "Coimbra",
@@ -1141,10 +1254,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-CD Coimbra, Baladas, Fados e Guitarradas, Coimbra, Secção de Fado, SF003, Coimbra, 1994. Texto do booklet por Jorge Gomes. Antologia constituída por 17 temas. Pretende ser uma amostragem do trabalho desenvolvido pela Secção de Fado da AAC entre 1980 e 1994."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071504/http://www.cidadevirtual.pt:80/fadocoimbra/vcdsf.html",
+          "doc": "arquivo-pt:wabe59c72beb36b59",
+          "citacao": "COIMBRA - BALADAS, FADOS E GUITARRADAS Secção de Fado da Associação Académica de Coimbra Ano de Gravação - 1994 Editora - Agitarte, Produção de Audiovisuais, Lda"
         }
       ],
       "conflito": false,
-      "nota": "Ficha: baladas-fados-e-guitarradas-seccao-de-fado-cd-sf003."
+      "nota": "Ficha: baladas-fados-e-guitarradas-seccao-de-fado-cd-sf003. A página de vendas do site «Fado de Coimbra» indica «Editora - Agitarte, Produção de Audiovisuais, Lda» e lista 17 temas, cantores, guitarras e violas."
     },
     {
       "campo": "publicacao",

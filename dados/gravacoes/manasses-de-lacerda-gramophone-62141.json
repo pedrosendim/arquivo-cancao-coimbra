@@ -1,0 +1,59 @@
+{
+  "id": "manasses-de-lacerda-gramophone-62141",
+  "titulo": "Fado Mouraria nº 1",
+  "formato": "78rpm",
+  "editora": "Gramophone",
+  "referencia": "62141",
+  "ano": "",
+  "local": "Porto",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Mouraria nº 1",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Mouraria nº 1», gravado por Manassés de Lacerda no 78 rpm Gramophone 62141; gravação no Porto, pelo ano de 1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+          "doc": "gc-i:113303176582708596",
+          "citacao": "Fado Mouraria nº 1: fado gravado por Manassés de Lacerda no 78 rpm Gramophone 62141. A gravação ocorreu no Porto, pelo ano de 1905."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+      "doc": "gc-i:113303176582708596",
+      "citacao": "Fado Mouraria nº 1: fado gravado por Manassés de Lacerda no 78 rpm Gramophone 62141. A gravação ocorreu no Porto, pelo ano de 1905."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

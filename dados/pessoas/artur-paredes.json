@@ -90,6 +90,12 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
           "doc": "gc-i:112586632108463577",
           "citacao": "Artur Paredes nasceu em Coimbra, a 10 de Maio de 1899 (no mesmo ano que Edmundo de Bettencourt)"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Filho de Maria do Céu e de Gonçalo Rodrigues Paredes, Artur Paredes, nasceu em Coimbra, na viragem do século, em 10 de Maio de 1899."
         }
       ],
       "conflito": false,
@@ -147,6 +153,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
           "doc": "gc-v:8370485658185134350",
           "citacao": "Artur Paredes faleceu no hospital, na freguesia dos Anjos, em Lisboa, a 20 de Dezembro de 1980."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Faleceu a 20 de Dezembro de 1980, em Lisboa, vítima de doença prolongada e da grande consternação provocada pela morte da esposa, que nunca conseguiu superar."
         },
         {
           "fonte": "gc-i",
@@ -282,10 +294,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/05/artur-paredes.html",
           "doc": "gc-v:8370485658185134350",
           "citacao": "Casou em Bragança, a 23 de Agosto de 1924 com a estudante de Coimbra, Alice Duarte Candeias, natural de Ribeira de Frades."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Em 1924 contrai matrimónio na cidade de Bragança com Alice Candeias, licenciada em Histórico-Filosóficas e mais tarde directora e professora num colégio particular em Lisboa."
         }
       ],
       "conflito": true,
-      "nota": "Nome da mulher segundo Manuel Marques Inácio (2014). Ver a outra versão do nome no facto seguinte."
+      "nota": "Nome da mulher segundo Manuel Marques Inácio (2014). Ver a outra versão do nome no facto seguinte. O Museu do Fado chama-lhe «Alice Candeias» e indica só o ano e a cidade do casamento."
     },
     {
       "campo": "outro",
@@ -522,8 +540,22 @@
           "citacao": "Terá a antiga Emissora Nacional guardado registos gravados (bobines de fita de aço) dos concertos dados entre a década de 1940 e inícios dos anos 50 pelo trio Artur Paredes/Carlos Paredes/Arménio Silva? A resposta infelizmente é negativa."
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "Periodicidade segundo a cronologia de 2006: «mensalmente, todas as segundas feiras». O Museu do Fado fala de um «programa semanal»: ver o facto seguinte."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor de um programa semanal de fados e guitarradas de Coimbra, emitido pela Emissora Nacional, em que participava o filho Carlos Paredes",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "anos mais tarde, surge a oportunidade de ser o autor de um programa semanal de fados e guitarradas de Coimbra, emitido pela Emissora Nacional no qual, o seu filho Carlos Paredes participa."
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia do Museu do Fado. Diverge na periodicidade do facto anterior («mensalmente»)."
     },
     {
       "campo": "atividade",
@@ -1128,6 +1160,87 @@
       ],
       "conflito": false,
       "nota": "As guitarras em si ficam para a ficha de instrumentos (outro agente)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuação em Sevilha, em 1929, na Exposição Ibero-Americana, com a «Embaixada Artística da Academia de Coimbra» (Afonso de Sousa, Guilherme Barbosa e António Menano)",
+      "data": "1929",
+      "local": "Sevilha",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Em 1929, Artur Paredes desloca-se a Sevilha, no âmbito da “Exposição Ibero-Americana”, para uma actuação com a “Embaixada Artística da Academia de Coimbra”, composta por Afonso de Sousa (guitarrista), Guilherme Barbosa (violista) e António Menano (cantor)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do Museu do Fado."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Nos últimos anos tocava para um círculo muito fechado de amigos, acompanhado à viola por Carlos de Figueiredo, por José Manso Fernandes (2.ª guitarra) e, ocasionalmente, por Fernando Alvim, com quem gravou em cassete composições novas nunca tornadas públicas",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Nos últimos anos da sua vida tocava para um \"círculo muito fechado de amigos, acompanhado à viola pelo juíz Dr. Carlos de Figueiredo, pelo Dr. José Manso Fernandes em segunda-guitarra e, ocasionalmente, por Fernando Alvim, com quem gravou em cassete algumas das suas novas composições, nunca tornadas públicas.\" (cf. Pedro Caldeira Cabral, 1999: 240)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Citação de Pedro Caldeira Cabral (A Guitarra de Portugal, Ediclube, 1999, p. 240) no texto do Museu do Fado."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem da Associação Académica de Coimbra, 3 de novembro de 1996, no TAGV",
+      "data": "1996-11-03",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "A 03 de Novembro de 1996 é homenageado pela Associação Académica de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/homenagem-artur-paredes-organizada.html",
+          "doc": "gc-i:113952256814210613",
+          "citacao": "Homenagem a Artur Paredes, organizada pela AAC em 3 de Novembro de 1996, no TAGV."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Reedições em CD pela Movieplay: «Carlos Paredes – Artur Paredes» (coleção «O Melhor dos Melhores», 1994) e «Artur Paredes» (2003), acompanhado por Carlos Paredes e Arménio Silva",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Em 1994 é editado pela Movieplay, para a colecção “O Melhor dos Melhores” o CD intitulado “Carlos Paredes – Artur Paredes”, ao que se segue em 2003, o CD “Artur Paredes”. Em ambos os registos, o guitarrista é acompanhado por Carlos Paredes e Arménio Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do Museu do Fado."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Manuel Alegre dedica-lhe o soneto «Artur Paredes (Variações em Ré Menor)», no livro «Coimbra Nunca Vista» (D. Quixote, 2003)",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "ao que se segue em 2003, o CD “Artur Paredes”. ... Também neste ano, na obra “Coimbra Nunca Vista” (Ed. D. Quixote) Manuel Alegre dedica-lhe o soneto intitulado “Artur Paredes (Variações em Ré Menor)”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do Museu do Fado («Também neste ano», a seguir a 2003)."
     }
   ],
   "relacoes": [
@@ -1152,6 +1265,12 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html",
           "doc": "gc-i:112586632108463577",
           "citacao": "Seu pai – Gonçalo Rodrigues Paredes"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Filho de Maria do Céu e de Gonçalo Rodrigues Paredes, Artur Paredes, nasceu em Coimbra"
         }
       ],
       "nota": ""
@@ -1184,9 +1303,15 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
           "doc": "gc-v:5472433292246116899",
           "citacao": "No que respeita à formação musical e segundo depoimentos de seu neto Carlos Paredes, seu avô terá aprendido a tocar com seu bisavô António Paredes, e por sua vez terá ensinado seu filho Artur."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "precocemente começou a tocar guitarra portuguesa que aprendeu através dos ensinamentos de seu pai, Gonçalo Paredes e do seu tio Manuel Paredes, ambos excelentes guitarristas de Coimbra."
         }
       ],
-      "nota": "A fonte usa o condicional ('terá ensinado') e baseia-se em depoimentos de Carlos Paredes. A rever pelo editor."
+      "nota": "A fonte usa o condicional ('terá ensinado') e baseia-se em depoimentos de Carlos Paredes. A rever pelo editor. A biografia do Museu do Fado afirma-o sem condicional e junta o tio Manuel Paredes."
     },
     {
       "tipo": "acompanhou",
@@ -1209,6 +1334,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/06/disco-de-78-rpm-hmv-e.html",
           "doc": "gc-v:4640425963079735725",
           "citacao": "Participação como guitarrista solista e autor dos arranjos nos registos de Edmundo Bettencourt"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Nesta trajectória, Artur Paredes tocou a solo e acompanhou autores e cantores como António Menano, Armando Goes, Edmundo Bettencourt, Lucas Junot, Paradela de Oliveira."
         }
       ],
       "nota": ""
@@ -1222,6 +1353,12 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2011/07/o-documentario-armando-goes-acompanhado.html",
           "doc": "gc-iv:1158496258119568019",
           "citacao": "O documentário “Armando Goes, acompanhado por Artur Paredes, a cantar o fado \"Asas Brancas” foi realizado por Francisco Ferreira Júnior, em meados de 1930"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Nesta trajectória, Artur Paredes tocou a solo e acompanhou autores e cantores como António Menano, Armando Goes, Edmundo Bettencourt, Lucas Junot, Paradela de Oliveira."
         }
       ],
       "nota": ""
@@ -1266,6 +1403,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/04/goncalo-paredes.html",
           "doc": "gc-v:5472433292246116899",
           "citacao": "Gonçalo Paredes vem a ter dois filhos da sua companheira Maria do Céu, nascida em 1872. A filha mais velha de seu nome Isabel Paredes, nascida em 1896, na freguesia de Santa Cruz de Coimbra e depois o filho Artur Paredes nascido também em Coimbra, no ano de 1899."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Filho de Maria do Céu e de Gonçalo Rodrigues Paredes, Artur Paredes, nasceu em Coimbra"
         }
       ],
       "nota": "A fonte chama-lhe «companheira» de Gonçalo Paredes; o pai casou em 1904 com outra mulher (Maria de Jesus Baptista)."
@@ -1282,6 +1425,70 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "manuel-rodrigues-paredes",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "precocemente começou a tocar guitarra portuguesa que aprendeu através dos ensinamentos de seu pai, Gonçalo Paredes e do seu tio Manuel Paredes, ambos excelentes guitarristas de Coimbra."
+        }
+      ],
+      "nota": "Biografia do Museu do Fado. Manuel Paredes é o tio, Manuel Rodrigues Paredes (relação «sobrinho_de»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Nesta trajectória, Artur Paredes tocou a solo e acompanhou autores e cantores como António Menano, Armando Goes, Edmundo Bettencourt, Lucas Junot, Paradela de Oliveira."
+        }
+      ],
+      "nota": "Biografia do Museu do Fado."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "lucas-junot",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes",
+          "doc": "museu-do-fado:w4600147cdc94e47e",
+          "citacao": "Nesta trajectória, Artur Paredes tocou a solo e acompanhou autores e cantores como António Menano, Armando Goes, Edmundo Bettencourt, Lucas Junot, Paradela de Oliveira."
+        }
+      ],
+      "nota": "Biografia do Museu do Fado."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "tem a honra de ser acompanhado em festas e reuniões de convívio de antigos estudantes, por Artur Paredes, Afonso de Sousa e até Francisco Menano"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "O Artur Paredes, por exemplo, acompanhou-me tinha eu nove anos de idade."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Luiz Goes apontado como \"menino prodígio\", cantou acompanhado por Artur Paredes"
+        }
+      ],
+      "nota": "Em festas e convívios de antigos estudantes, quando Luiz Goes era criança e jovem (texto de Álvaro José Ferreira, com palavras do próprio, GC I, 2007; notícia da Lusa, GC IV, 2012)."
     }
   ],
   "imagens": [
@@ -1378,6 +1585,10 @@
     {
       "rotulo": "Texto de José Niza (CD Movieplay, 2003)",
       "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-cd-artur-paredes-da-etiqueta.html"
+    },
+    {
+      "rotulo": "Biografia no Museu do Fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/artur-paredes"
     }
   ],
   "estado_revisao": "rascunho"

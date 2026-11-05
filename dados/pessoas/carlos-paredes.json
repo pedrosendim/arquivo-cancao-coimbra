@@ -27,10 +27,28 @@
       "citacao": "Então, abandona o violino e o piano para se dedicar por inteiro, sob a orientação do pai, à guitarra."
     },
     {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+      "doc": "museu-do-fado:wad578bdde21350e7",
+      "citacao": "No ano de 1949 Carlos Paredes torna-se funcionário administrativo do Estado, trabalhando durante muitos anos no arquivo de radiografias do Hospital de S. José, até se reformar a 1 de Novembro de 1986."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+      "doc": "museu-do-fado:wad578bdde21350e7",
+      "citacao": "em 1958, aderiu ao então clandestino Partido Comunista Português. Na manhã de 26 de Setembro desse mesmo ano foi preso pela PIDE no seu local de trabalho, permaneceu detido por 18 meses"
+    },
+    {
       "fonte": "gc-v",
       "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
       "doc": "gc-v:7731614956364981809",
       "citacao": "Com algum nome e carreira atrás de si, Carlos Paredes, edita finalmente, em 1962, o seu primeiro disco a solo, um EP intitulado \"Carlos Paredes\", com chancela da Alvorada[15]."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+      "doc": "museu-do-fado:wad578bdde21350e7",
+      "citacao": "no ano de 1971, sai aquela que é unanimemente considerada a sua obra-prima, o disco \"Movimento Perpétuo\""
     },
     {
       "fonte": "gc-iii",
@@ -63,6 +81,12 @@
           "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
           "doc": "gc-iii:5513966222208144572",
           "citacao": "Carlos Paredes, que nasceu em Coimbra, a 16 de Fevereiro de 1925"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Carlos Paredes nasce em Coimbra a 16 de Fevereiro de 1925."
         }
       ],
       "conflito": false,
@@ -85,6 +109,18 @@
           "url": "https://guitarracoimbra.blogspot.com/2009/12/legado-de-carlos-paredes-coimbra.html",
           "doc": "gc-iii:5513966222208144572",
           "citacao": "faleceu em Lisboa, a 23 de Julho de 2004"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "(N. 16 fevereiro, 1925 - M. 23 julho, 2004)"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2025/02/biblioteca-municipal-de-coimbra-homenageia-carlos-paredes-com-mostra-bibliografica/",
+          "doc": "cm-coimbra:wd7d19af931f38a05",
+          "citacao": "O mestre da guitarra viria a falecer em Lisboa, aos 79 anos, a 23 de julho de 2004"
         }
       ],
       "conflito": false,
@@ -99,6 +135,12 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/12/viagem-pelo-canto-e-pela-guitarra-de.html",
           "doc": "gc-i:113370173660515952",
           "citacao": "Carlos Paredes nasceu em Coimbra em 1925. É filho de Artur Paredes, neto de Gonçalo Paredes e sobrinho-neto de Manuel Rodrigues Paredes, pelo que provém de uma família de destacados guitarristas de Coimbra"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Filho de Artur Paredes, neto de Gonçalo Paredes e sobrinho-neto de Manuel Rodrigues Paredes, é herdeiro de uma vasta tradição familiar onde a guitarra esteve sempre presente."
         }
       ],
       "conflito": false,
@@ -147,6 +189,42 @@
       "nota": "A fonte cita esta versão apenas para a refutar."
     },
     {
+      "campo": "formacao",
+      "valor": "Aprendeu com o pai as primeiras posições de mão na guitarra e, por brincadeira, começou com cerca de 9 anos a acompanhá-lo",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Com o pai, Carlos Paredes aprendeu as primeiras posições de mão na guitarra e, por brincadeira, começou com cerca de 9 anos a acompanhar o pai."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão do Museu do Fado, cujo texto foi «elaborado com base no catálogo da exposição \"Estar com Paredes\", CML/EBAHL, 2000». Diverge das idades dadas nos factos anteriores (4 e 12 anos)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Instrução primária no Jardim-Escola João de Deus e depois Liceu Passos Manuel, em Lisboa; em 1943, exame de admissão ao curso industrial do Instituto Superior Técnico, de que frequentou só o primeiro ano",
+      "data": "1943",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Carlos Paredes aprende a ler e conclui a instrução primária no Jardim-escola João de Deus e, depois, frequenta o Liceu Passos Manuel."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Faz o exame de admissão ao Curso industrial do Instituto Superior Técnico, em 1943, mas frequenta apenas o primeiro ano."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
       "campo": "residencia",
       "valor": "A família muda-se para Lisboa em 1934",
       "data": "1934",
@@ -157,10 +235,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
           "doc": "gc-v:7731614956364981809",
           "citacao": "Em 1934, a família muda-se para Lisboa"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Por volta de 1934 a família instala-se em Lisboa."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "O Museu do Fado diz «por volta de 1934»."
     },
     {
       "campo": "atividade",
@@ -213,6 +297,20 @@
       "nota": ""
     },
     {
+      "campo": "atividade",
+      "valor": "«Já com 14 anos», apresenta-se com Artur Paredes num programa semanal, da autoria deste, na Emissora Nacional",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Mais tarde, já com 14 anos, apresenta-se em parceria com Artur Paredes num programa semanal, da autoria deste, na Emissora nacional."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão do Museu do Fado sobre o mesmo programa dos dois factos anteriores; a fonte dá a idade e não o ano."
+    },
+    {
       "campo": "gravacao",
       "valor": "Gravações de 1957 a acompanhar o pai, retiradas do mercado a pedido de Artur Paredes",
       "data": "1957",
@@ -249,10 +347,37 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
           "doc": "gc-v:7731614956364981809",
           "citacao": "[15] EP, Alvorada, AEP 60508, 1962."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "A sua primeira aventura discográfica em nome próprio, o EP \"Carlos Paredes\", data de 1962."
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "A lista da discografia da mesma página do Museu do Fado data o EP «Carlos Paredes» de 1957 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Carlos Paredes», Alvorada, 1957 (lista da discografia do Museu do Fado, que dá o EP «Verdes Anos» como o de 1962)",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "1957 - \"Carlos Paredes\" - EP, Alvorada;"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "1962 - \"Verdes Anos\" - EP, Alvorada;"
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto biográfico da mesma página diz que o EP «Carlos Paredes» «data de 1962»."
     },
     {
       "campo": "outro",
@@ -264,10 +389,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2013/02/hoje-dia-16-de-fevereiro-de-2013-88.html",
           "doc": "gc-v:7731614956364981809",
           "citacao": "é preso pela PIDE, acusado de pertencer ao Partido Comunista Português, de que era de facto militante, e expulso da função pública. Durante os 18 meses em que esteve detido, primeiro no Aljube e depois na prisão de Caxias"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "em 1958, aderiu ao então clandestino Partido Comunista Português. Na manhã de 26 de Setembro desse mesmo ano foi preso pela PIDE no seu local de trabalho, permaneceu detido por 18 meses"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "O Museu do Fado dá o dia da prisão: 26 de setembro de 1958."
     },
     {
       "campo": "outro",
@@ -300,6 +431,162 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
           "doc": "gc-v:4606377539993451751",
           "citacao": "Considerado padrinho de Carlos Paredes, Afonso de Sousa recebe a família Paredes em Leiria para férias de verão com alguma regularidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário administrativo do Estado desde 1949, no arquivo de radiografias do Hospital de S. José, Lisboa, até se reformar a 1 de novembro de 1986",
+      "data": "1949",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "No ano de 1949 Carlos Paredes torna-se funcionário administrativo do Estado, trabalhando durante muitos anos no arquivo de radiografias do Hospital de S. José, até se reformar a 1 de Novembro de 1986."
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2025/02/biblioteca-municipal-de-coimbra-homenageia-carlos-paredes-com-mostra-bibliografica/",
+          "doc": "cm-coimbra:wd7d19af931f38a05",
+          "citacao": "onde foi funcionário administrativo do Hospital de São José (arquivo de radiologia) até à aposentação."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Música para cinema: «Rendas de Metais Preciosos» (curta-metragem de Cândido Costa Pinto, 1960), já com Fernando Alvim; «Os Verdes Anos» (1962) e «Mudar de Vida» (1966), de Paulo Rocha; «Fado Corrido» (1964), de Jorge Brum do Canto",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Dois anos antes, em 1960, tinha composto a música da banda sonora da curta-metragem \"Rendas de Metais Preciosos\" realizada por Cândido Costa Pinto. Na execução desta peça foi acompanhado por Fernando Alvim, começando uma parceria que se prolongaria por mais de 20 anos."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "para além da música feita para \"Os Verdes Anos\" (1962), que se tornou um dos seus ex-libris, e \"Mudar de Vida\" (1966), do cineasta Paulo Rocha, ou de \"Fado Corrido\" (1964), realizado por Jorge Brum do Canto"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto do Museu do Fado foi «elaborado com base no catálogo da exposição \"Estar com Paredes\", CML/EBAHL, 2000»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco «Movimento Perpétuo» (1971)",
+      "data": "1971",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "no ano de 1971, sai aquela que é unanimemente considerada a sua obra-prima, o disco \"Movimento Perpétuo\""
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Última atuação em público: Aula Magna da Reitoria da Universidade de Lisboa, outubro de 1993, acompanhado por Luísa Amaro",
+      "data": "1993-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "A última actuação em público de Carlos Paredes foi em Outubro de 1993, na Aula Magna da Reitoria da Universidade de Lisboa, acompanhado por Luisa Amaro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio da Casa da Imprensa, como solista (1961)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "1961 - Prémio da Casa da Imprensa, como Solista"
+        }
+      ],
+      "conflito": false,
+      "nota": "A página do Museu do Fado lista ainda prémios de 1981, 1984, 1987 e 1988."
+    },
+    {
+      "campo": "premio",
+      "valor": "Comendador da Ordem de Santiago da Espada, pelo Presidente da República, a 10 de junho de 1992",
+      "data": "1992-06-10",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "1992 - Ordem de Comendador de Santiago e Espada oferecida pelo Senhor Presidente da República a 10 de Junho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Exposição temporária «Estar com Paredes», no Museu do Fado (junho a setembro de 2000)",
+      "data": "2000",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Entre Junho e Setembro de 2000, o Museu do fado deu a conhecer o percurso biográfico e profissional de Carlos Paredes, através de uma exposição temporária de título \"Estar com Paredes\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Mostra bibliográfica «Carlos Paredes: Uma Guitarra Intemporal», na Biblioteca Municipal de Coimbra, pelo centenário do nascimento (12 de fevereiro a 14 de março de 2025)",
+      "data": "2025-02-12",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2025/02/biblioteca-municipal-de-coimbra-homenageia-carlos-paredes-com-mostra-bibliografica/",
+          "doc": "cm-coimbra:wd7d19af931f38a05",
+          "citacao": "10 Fevereiro 2025 ... O guitarrista Carlos Paredes vai ser homenageado na Biblioteca Municipal de Coimbra por ocasião da celebração do centenário do seu aniversário"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2025/02/biblioteca-municipal-de-coimbra-homenageia-carlos-paredes-com-mostra-bibliografica/",
+          "doc": "cm-coimbra:wd7d19af931f38a05",
+          "citacao": "“Carlos Paredes: Uma Guitarra Intemporal” é uma mostra bibliográfica que inclui discos de vinil, CDs, monografias e periódicos do acervo da biblioteca, que abre no dia 12 de fevereiro e pode ser visitada gratuitamente até 14 de março"
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia da Câmara Municipal de Coimbra de 10-02-2025."
+    },
+    {
+      "campo": "outro",
+      "valor": "Apelidado «o homem dos mil dedos»",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2025/02/biblioteca-municipal-de-coimbra-homenageia-carlos-paredes-com-mostra-bibliografica/",
+          "doc": "cm-coimbra:wd7d19af931f38a05",
+          "citacao": "Apelidado o “homem dos mil dedos”"
         }
       ],
       "conflito": false,

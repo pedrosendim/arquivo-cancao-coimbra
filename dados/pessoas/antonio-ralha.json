@@ -5,9 +5,41 @@
   "nomes_alternativos": [],
   "papeis": [
     "guitarrista",
-    "investigador"
+    "investigador",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-ralha-toca-em-guitarra-de.html",
+      "doc": "gc-iii:5451655584911506912",
+      "citacao": "António Ralha toca em guitarra de Coimbra, \"Variações em Sol M\" de Artur Paredes, no programa de Sansão Coelho, Cantos e Contos de Coimbra, de 1982, acompanhado por Jorge Gomes em guitarra e Manuel Dourado em viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/04/cancao-flora_23.html",
+      "doc": "gc-v:869271124746681255",
+      "citacao": "trauteio do cantor Walter Figueiredo (1920-1990) que protagonizou performances no Ateneu de Coimbra e na formação conimbricense de António Ralha/Jorge Gomes (gg) e Manuel Dourado (v)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-CD Coimbra de Sempre, Raul Dinis, Discossete 971000, Lisboa, 1993. Canta o barítono Raul Moreira Dinis. Guitarras por António Ralha e Jorge Gomes. Viola a cargo de Manuel Dourado."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+      "doc": "gc-i:111625557581214571",
+      "citacao": "António Ralha, um guitarrista com belíssimas peças em agenda, à espera de verem a luz do dia. Em assuntos do foro coimbrão e da sua música, está perfeitamente documentado."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/12/homenagem-artur-paredes.html",
+      "doc": "gc-iii:4258860388092757380",
+      "citacao": "Foram oradores António Ralha e Fernando Marques. O primeiro destacou aspetos vários da vida e obra de Artur Paredes, assim como dos seus seguidores."
+    }
+  ],
   "factos": [
     {
       "campo": "gravacao",
@@ -19,6 +51,148 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/07/cano-de-coimbra-e-os-seus-instrumentos.html",
           "doc": "gc-i:112139186031286402",
           "citacao": "CD Olhar Coimbra, Coimbra, Secção de Fado da AAC, ano de 1998, com Jorge Gomes/António Ralha (gg)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/07/a-toutinegra-do-moinho.html",
+          "doc": "gc-v:1642315113044080624",
+          "citacao": "no CD Olhar Coimbra, Coimbra, SFAAC, ano de 1998, faixa 11, com guitarras de António Ralha/Jorge Gomes"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os posts de 2005 e 2022 dão como editora a Secção de Fado da AAC; o de 2026 dá «pelo grupo Arrium Porrium», Agitarte (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "guitarras, com Jorge Gomes, no CD «Olhar Coimbra», pelo grupo Arrium Porrium (Agitarte, Coimbra, 1998)",
+      "data": "1998",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Olhar Coimbra, pelo grupo Arrium Porrium, Coimbra, Agitarte, Coimbra, 1998. ... Guitarras por António Ralha e Jorge Gomes."
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge na editora dos posts de 2005 e 2022, que dão a Secção de Fado da AAC (facto anterior)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "guitarras, com Jorge Gomes (viola de Manuel Dourado), no CD «Coimbra de Sempre», de Raul Dinis (Discossete 971000, Lisboa, 1993)",
+      "data": "1993",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Coimbra de Sempre, Raul Dinis, Discossete 971000, Lisboa, 1993. Canta o barítono Raul Moreira Dinis. Guitarras por António Ralha e Jorge Gomes. Viola a cargo de Manuel Dourado."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/fado-alentejano-msica-armando-do-carmo.html",
+          "doc": "gc-i:113505349800504155",
+          "citacao": "Raul Dinis”, Lisboa, Discossete CD 97 1000, ano de 1993, faixa nº 2, com António Ralha/Jorge Gomes (gg) e Manuel Dourado (v)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "guitarras, com Jorge Gomes (viola de Manuel Dourado), no CD «Dr. Serra Leitão. Fados e Baladas de Coimbra» (Discossete 951000, Lisboa, 1993)",
+      "data": "1993",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Dr. Serra Leitão. Fados e Baladas de Coimbra, Discossete 951000, Lisboa, 1993. Canta Serra Leitão. Guitarras por António Ralha e Jorge Gomes. Viola a cargo de Manuel Dourado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa de televisão «Cantos e Contos de Coimbra», de Sansão Coelho (1982): toca as «Variações em Sol M» de Artur Paredes e acompanha cantores, com Jorge Gomes (guitarra) e Manuel Dourado (viola)",
+      "data": "1982",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-ralha-toca-em-guitarra-de.html",
+          "doc": "gc-iii:5451655584911506912",
+          "citacao": "António Ralha toca em guitarra de Coimbra, \"Variações em Sol M\" de Artur Paredes, no programa de Sansão Coelho, Cantos e Contos de Coimbra, de 1982, acompanhado por Jorge Gomes em guitarra e Manuel Dourado em viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/jorge-cravo-canta-fado-da-ansiedade-no.html",
+          "doc": "gc-iii:7591169633948766759",
+          "citacao": "Jorge Cravo canta \"Fado da Ansiedade\", no programa televisivo de Sansão Coelho, Cantos e Contos de Coimbra, de 1982, acompanhado por António Ralha e Jorge Gomes em guitarra, Manuel Dourado em viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os posts do GC III publicam os vídeos do programa."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Um dos dezassete testemunhos do livro «Canção de Coimbra – Testemunhos vivos (Antologia de textos)», editado pela Direção-Geral da AAC",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "Livro \"Canção de Coimbra - Testemunhos vivos (Antologia de textos)\", saído em 2003, editado pela Direcção Geral da Associação Académica de Coimbra, uma edição da responsabilidade do Pelouro da Cultura. São dezassete testemunhos de outras tantas personalidades ligadas ao \"Fado de Coimbra\". ... António Ralha, um guitarrista com belíssimas peças em agenda, à espera de verem a luz do dia."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 16-05-2005 (GC I) diz «saído em 2003». O post de 11-01-2015 (GC V) dá 2002 (facto seguinte), tal como outros posts do arquivo (GC I, 30-12-2005 e 25-08-2006; GC V, 22-03-2015)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Entre os autores dos textos do livro «Canção de Coimbra. Testemunhos vivos (Antologia de textos)», Coimbra, Pelouro da Cultura da Direção-Geral da AAC, 2002, 247 págs.",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:6730802912983745449",
+          "citacao": "AAVV-Canção de Coimbra. Testemunhos vivos (Antologia de textos). Coimbra: Edição da Responsabilidade do Pelouro da Cultura da Direção-Geral da AAC, 2002, 247 págs. ... inclui textos de Rui Pato, José Miguel Baptista, Fernando Gomes Alves, José Niza, Jorge Gomes, António Ralha, Manuel Borralho."
+        }
+      ],
+      "conflito": true,
+      "nota": "Bibliografia do post de 11-01-2015 (GC V), sobre o cinquentenário do LP «Fados from Coimbra». O post de 16-05-2005 (GC I) diz «saído em 2003» (facto anterior)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Textos de apresentação de discos: o CD de inéditos de Jorge Cravo (com um texto de Manuel Rocha) e o disco de homenagem a Flávio Rodrigues, com José Paulo",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/jorge-cravo-e-o-seu-novo-cd-de-ineditos.html",
+          "doc": "gc-iii:4753121288822097243",
+          "citacao": "Jorge Cravo e o seu novo CD de inéditos de Canto de Coimbra. Os textos de António Ralha e Manuel Rocha dizem o essencial sobre a qualidade deste trabalho."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/disco-de-homenagem-flavio-rodrigues-com.html",
+          "doc": "gc-iv:6870674672924499807",
+          "citacao": "Disco de homenagem a Flávio Rodrigues, com a participação de José Paulo em guitarra, Aurélio Reis e Eduardo Aroso em viola e Manuel Rocha em violino. O texto de António Ralha diz-nos o essencial sobre este trabalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post do GC III é de 24-11-2010; o texto não dá o ano do CD."
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor de «Procissão», peça tocada por Miguel Raposo (guitarra) e Philippe Raposo (viola dedilhada)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/05/blog-post_24.html",
+          "doc": "gc-iii:3147577352107794046",
+          "citacao": "\"Procissão\" de António Ralha, tocada em guitarra por Miguel Raposo e em viola dedilhada por Philippe Raposo."
         }
       ],
       "conflito": false,
@@ -40,8 +214,54 @@
       "nota": ""
     }
   ],
-  "relacoes": [],
-  "imagens": [],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:116637465870871135",
+          "citacao": "OCTÁVIO SÉRGIO DE MATOS AZEVEDO nasceu em Viseu a 15 de Agosto de 1937 ... Em Coimbra a partir de 1957 – cursando Físico-Químicas na Faculdade de Ciências – e até 1965 – com uma interrupção castrense em 1961 –, integrou grupos com – por ordem cronológica – David Leandro 21, António Ralha 22"
+        }
+      ],
+      "nota": "Texto de Armando Luís de Carvalho Homem: Octávio Sérgio, em Coimbra entre 1957 e 1965, integrou grupos com António Ralha (guitarras)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-cravo",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/jorge-cravo-canta-fado-da-despedida-no.html",
+          "doc": "gc-iii:3818349424550636831",
+          "citacao": "Jorge Cravo canta \"Fado da despedida do V Ano Médico de 1928\" no programa de Sansão Coelho, Cantos e Contos de Coimbra, de 1982. É acompanhado por António Ralha e Jorge Gomes em guitarra e Manuel Dourado em viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/jorge-cravo-canta-fado-da-ansiedade-no.html",
+          "doc": "gc-iii:7591169633948766759",
+          "citacao": "Jorge Cravo canta \"Fado da Ansiedade\", no programa televisivo de Sansão Coelho, Cantos e Contos de Coimbra, de 1982, acompanhado por António Ralha e Jorge Gomes em guitarra, Manuel Dourado em viola."
+        }
+      ],
+      "nota": "guitarra, no programa «Cantos e Contos de Coimbra» (1982)"
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKUQ_R0bc2RHsi-j7Q6hOzDQwY8u7zmAW7cZprwo2JUlu819jnijbYUOtlAvYwysFILhaOxOusZ3IpXA4FW0rrcITli6cEfmDoeTiZEMaINKFUrmx5AN-1l0VefmrzLa33NJkeTWEXTEs/s1600/ARalha-1981-1.jpg",
+      "legenda": "António Ralha fotografado por Eduardo Craveiro, em 1981, durante um Seminário do Fado de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/antonio-ralha-fotografado-por-eduardo.html",
+          "doc": "gc-iv:4701881821326161142",
+          "citacao": "António Ralha fotografado por Eduardo Craveiro, em 1981, durante um Seminário do Fado de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

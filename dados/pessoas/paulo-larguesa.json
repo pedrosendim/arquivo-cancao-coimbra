@@ -2,12 +2,143 @@
   "id": "paulo-larguesa",
   "tipo": "pessoa",
   "nome": "Paulo Larguesa",
-  "nomes_alternativos": [],
-  "papeis": [
-    "violista"
+  "nomes_alternativos": [
+    "Paulo Largueza"
   ],
-  "biografia": [],
-  "factos": [],
+  "papeis": [
+    "violista",
+    "professor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Desde muito jovem tem desenvolvido intensa actividade como “viola” em casas de Fado, quer como solista, quer como acompanhador. Tem com vários grupos quer em espectáculos ao vivo quer em gravações para as quais tem sido solicitado."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
+      "doc": "gc-v:1436266136812530715",
+      "citacao": "1-Serenata Monumental da Queima das Fitas, Coimbra, Sé Velha, 6 de maio de 1994: grupo Quarto Crescente, da TAUC, com Adamo Caetano (v), Tiago Cunha (gC), Miguel Drago (gC), Paulo Larguesa (v), Rui Ferreira/José Manuel Beato (vozes)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Em 2 de Maio de 1998 participou no VI Seminário de Canção de Coimbra ... sendo também acompanhado por António José Moreira e Miguel Drago nas guitarras, e Paulo Larguesa e Nuno Encarnação nas violas em Canção Pagã."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/paulo-larguesa-teve-amabilidade-de-me.html",
+      "doc": "gc-i:5376982714279881975",
+      "citacao": "Paulo Larguesa teve a amabilidade de me enviar o seu último trabalho, CD \"Ao Sul - Carlos Jesus, Paulo Larguesa - Guitars\". É um disco só de \"guitarradas\", em que os dois instrumentistas se encaixam muito bem."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Nos últimos anos tem participado em vários trabalhos discográficos com diversos artistas de reconhecido renome. Presentemente é professor de Guitarra Clássica e Viola de acompanhamento do Fado de Coimbra na escola dos “Antigos Orfeonistas da Universidade de Coimbra”."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/fernando-marques-enviou-me-estas-duas.html",
+      "doc": "gc-iv:5594620454907735080",
+      "citacao": "Este grupo é composto pelo autor em guitarra de Coimbra, Paulo Larguesa em viola e António Diniz no canto."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Viola em casas de fado, desde muito jovem, como solista e como acompanhador, com vários grupos, ao vivo e em gravações",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Desde muito jovem tem desenvolvido intensa actividade como “viola” em casas de Fado, quer como solista, quer como acompanhador. Tem com vários grupos quer em espectáculos ao vivo quer em gravações para as quais tem sido solicitado."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica do programa dos III Encontros Internacionais de Guitarra Portuguesa (Coimbra, 2009), no GC III."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Professor de guitarra clássica e de viola de acompanhamento do fado de Coimbra na escola dos Antigos Orfeonistas da Universidade de Coimbra (em 2009)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Presentemente é professor de Guitarra Clássica e Viola de acompanhamento do Fado de Coimbra na escola dos “Antigos Orfeonistas da Universidade de Coimbra”."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Presentemente»: nota biográfica de 2009."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a Luiz Goes no TAGV (VI Seminário de Canção de Coimbra, 2 de maio de 1998): viola, com Nuno Encarnação, a acompanhar Jorge Cravo em «Canção Pagã»",
+      "data": "1998-05-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em 2 de Maio de 1998 participou no VI Seminário de Canção de Coimbra ... tendo actuado com o GAFCC na Homenagem a Luiz Goes, no Teatro Académico de Gil Vicente (Coimbra), ... sendo também acompanhado por António José Moreira e Miguel Drago nas guitarras, e Paulo Larguesa e Nuno Encarnação nas violas em Canção Pagã."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Jorge Cravo no livrete do CD «Canções d'Inquietude» (2005), reproduzida no GC I."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Ao Sul – Carlos Jesus, Paulo Larguesa – Guitars», só de guitarradas, com 4 inéditos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/paulo-larguesa-teve-amabilidade-de-me.html",
+          "doc": "gc-i:5376982714279881975",
+          "citacao": "Paulo Larguesa teve a amabilidade de me enviar o seu último trabalho, CD \"Ao Sul - Carlos Jesus, Paulo Larguesa - Guitars\". É um disco só de \"guitarradas\", em que os dois instrumentistas se encaixam muito bem. Boa sonoridade no conjunto, com 4 inéditos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 11-01-2007 («o seu último trabalho»)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola em CD de outros intérpretes: «Coimbra dentro da alma» (Arlindo de Carvalho), «Coimbra Entre Margens» (Alcides Cruz), «Coimbra … enCANTO e POESIA» (Victor Silva) e «Minha Alma… és tu» (Carlos Pedro, apresentado em 2009)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/cd-coimbra-dentro-da-alma-amavelmente.html",
+          "doc": "gc-i:890195993894082012",
+          "citacao": "CD \"Coimbra dentro da alma\", amavelmente oferecido por Paulo Larguesa, com Arlindo de Carvalho a cantar, Carlos Jesus na guitarra e Paulo Larguesa na viola."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/cd-coimbra-entre-margens-de-alcides.html",
+          "doc": "gc-ii:4486948010131701759",
+          "citacao": "CD \"Coimbra Entre Margens\" de Alcides Cruz, com Carlos Jesus (g), Paulo Larguesa (v) e Arnaldo Carvalho (vb)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/01/blog-post_16.html",
+          "doc": "gc-ii:8094846127473964657",
+          "citacao": "CD \"COIMBRA ... enCANTO e POESIA\", com Victor Silva na voz, Paulo Larguesa com Aníbal Moreira nas violas e Pedro Paredes com Carlos Jesus nas guitarras"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Apresentação pública do CD “ Minha Alma….és tu”  de autoria de Carlos Pedro, no canto e Paulo Larguesa e Ricardo Dias na viola e guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notas de Octávio Sérgio sobre os discos (GC I, 2007; GC II, 2008 e 2009) e programa dos III Encontros Internacionais de Guitarra Portuguesa (GC III, 2009)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -59,6 +190,51 @@
         }
       ],
       "nota": "viola (1994, 2007)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "carlos-jesus",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/paulo-larguesa-teve-amabilidade-de-me.html",
+          "doc": "gc-i:5376982714279881975",
+          "citacao": "Paulo Larguesa teve a amabilidade de me enviar o seu último trabalho, CD \"Ao Sul - Carlos Jesus, Paulo Larguesa - Guitars\". É um disco só de \"guitarradas\", em que os dois instrumentistas se encaixam muito bem."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/o-grupo-fadvocal-interpreta-minha.html",
+          "doc": "gc-iii:4672179446114815124",
+          "citacao": "Carlos Jesus e Paulo Larguesa acompanham Felisberto Queirós em \"Saudades de Coimbra\"."
+        }
+      ],
+      "nota": "Duo do CD «Ao Sul» (guitarra e viola); também juntos no Quarteto Aeminium e em CD de outros cantores."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "felisberto-queiroz",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/o-grupo-fadvocal-interpreta-minha.html",
+          "doc": "gc-iii:4672179446114815124",
+          "citacao": "Carlos Jesus e Paulo Larguesa acompanham Felisberto Queirós em \"Saudades de Coimbra\"."
+        }
+      ],
+      "nota": "Viola, em «Saudades de Coimbra» (GC III, 2010)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-cravo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Em 2 de Maio de 1998 participou no VI Seminário de Canção de Coimbra ... tendo actuado com o GAFCC na Homenagem a Luiz Goes, no Teatro Académico de Gil Vicente (Coimbra), ... sendo também acompanhado por António José Moreira e Miguel Drago nas guitarras, e Paulo Larguesa e Nuno Encarnação nas violas em Canção Pagã."
+        }
+      ],
+      "nota": "Viola, em «Canção Pagã», na homenagem a Luiz Goes no TAGV (1998)."
     }
   ],
   "imagens": [

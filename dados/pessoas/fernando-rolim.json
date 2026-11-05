@@ -8,22 +8,378 @@
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Fernando José Monteiro Rolim, nasceu em Coimbra, herdando de muito novo o gosto pela música. Primeiro, com apenas oito anos iniciou-se no violino e já adulto estudou canto lírico."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Os estudos, primários e secundários, passou-os entre Cantanhede, Chamusca e Santarém. Nesta última cidade integrou a conhecida Orquestra Típica Scalabitana, como solista, onde efectuou os seus primeiros espectáculos públicos. Também em Santarém fez parte do grupo local de fados de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Depois de concluir os estudos secundários, rumou a Coimbra, sua cidade natal, onde ingressou na Faculdade de Medicina, em 1950, licenciando-se em 1958."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Durante este período como estudante de Coimbra, Fernando Rolim inscreveu-se na Tuna Académica, no naipe de violinos, transitando rapidamente para o de cantores. No Orfeão Académico, onde foi solista, pertenceu ao naipe de primeiros tenores."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "O primeiro registo discográfico data de 1953, um «single» de 78 rotações com o selo Arnaldo Trindade, seguindo-se outros E.P's. Em 1984 e 1985 gravou dois álbuns em parceria com outros cantores."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Após o serviço militar cumprido, como médico militar em Angola, entre 1961 e 1963, Fernando Rolim radicou-se em Setúbal onde se especializou como médico pediatra e alergologia infantil."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+      "doc": "gc-i:5411706257769796084",
+      "citacao": "Cantor de eleição, do chamado '2º período de ouro do fado de Coimbra', Fernando Rolim está de volta à edição discográfica com «Regresso de quem nunca partiu»"
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/cancao-de-coimbra-de-fernando-rolim/",
+      "doc": "rtp-arquivos:w03b31eed119c3c57",
+      "citacao": "Coimbra, após o interregno de uma década, Fernando Rolim, um dos nomes da canção de Coimbra, apresenta a sua nova obra discográfica \"Coimbra, um tempo que não passa\"."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
-      "valor": "1931",
-      "data": "1931",
+      "valor": "Coimbra, 2 de dezembro de 1931",
+      "data": "1931-12-02",
+      "local": "Coimbra",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Fernando Rolim (n. 1931)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 2 de Dezembro nasceu em Coimbra Fernando José Monteiro Rolim."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Fernando José Monteiro Rolim, nasceu em Coimbra, herdando de muito novo o gosto pela música."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/quem-e-quem.html",
+          "doc": "gc-v:6160737607304603738",
+          "citacao": "FERNANDO JOSÉ MONTEIRO ROLIM, de Coimbra, n. 02.12.1931"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), só com o ano. A cronologia «Canções e Guitarradas nas décadas de 1930-1940» (blogue I) põe o nascimento na secção «1931»; o «Quem é quem» do blogue V (2021) dá a data completa."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Faculdade de Medicina da Universidade de Coimbra: ingresso em 1950, licenciatura em 1958",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Depois de concluir os estudos secundários, rumou a Coimbra, sua cidade natal, onde ingressou na Faculdade de Medicina, em 1950, licenciando-se em 1958."
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia do blogue I regista, na secção «1949», «Fernando José Monteiro Rolim, de Medicina» a inscrever-se nos violinos da TAUC."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Violino desde os oito anos; estudou canto lírico já adulto",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Primeiro, com apenas oito anos iniciou-se no violino e já adulto estudou canto lírico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em Santarém, solista da Orquestra Típica Scalabitana (primeiros espetáculos públicos) e membro do grupo local de fados de Coimbra",
+      "data": "",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Nesta última cidade integrou a conhecida Orquestra Típica Scalabitana, como solista, onde efectuou os seus primeiros espectáculos públicos. Também em Santarém fez parte do grupo local de fados de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tuna Académica (violinos, depois cantores) e Orfeon Académico (solista, primeiros tenores); acompanhou também, por convite, o Grupo Coral da Faculdade de Letras; com estes organismos, digressões pelo país e pelo estrangeiro (Espanha, França, Suíça, Holanda, Reino Unido e Brasil)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Durante este período como estudante de Coimbra, Fernando Rolim inscreveu-se na Tuna Académica, no naipe de violinos, transitando rapidamente para o de cantores. No Orfeão Académico, onde foi solista, pertenceu ao naipe de primeiros tenores."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Também acompanhou por diversas vezes, por convite, o Grupo Coral da Faculdade de Letras da Universidade de Coimbra. Com estes organismos académicos realizou digressões pelo país e pelo estrangeiro, nomeadamente: Espanha; França; Suíça; Holanda; Reino Unido e Brasil."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Fernando José Monteiro Rolim, de Medicina, inscreve-se nos violinos da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia do blogue I, a inscrição na TAUC está na secção «1949»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico pediatra (e alergologia infantil), radicado em Setúbal; médico militar em Angola (1961-1963)",
+      "data": "",
+      "local": "Setúbal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Após o serviço militar cumprido, como médico militar em Angola, entre 1961 e 1963, Fernando Rolim radicou-se em Setúbal onde se especializou como médico pediatra e alergologia infantil."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/fernando-rolim-homenageado-em-santarem.html",
+          "doc": "gc-iii:2782453453354576824",
+          "citacao": "Fernando Rolim, distinto médico pediatra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro registo discográfico em 1953, um disco de 78 rpm com o selo Arnaldo Trindade, seguido de EP; dois álbuns com outros cantores em 1984 e 1985",
+      "data": "1953",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "O primeiro registo discográfico data de 1953, um «single» de 78 rotações com o selo Arnaldo Trindade, seguindo-se outros E.P's. Em 1984 e 1985 gravou dois álbuns em parceria com outros cantores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "78 rpm Melodia 15.094: «Vento não batas à porta» (Florêncio de Carvalho) / «Não olhes para os meus olhos», com António Brojo e António Portugal (guitarras) e Aurélio Reis e Mário de Castro (violas)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/4864/fernando_rolim_vento_nao_batas_a_porta",
+          "doc": "museu-do-fado:w542ad2deb5242580",
+          "citacao": "Etiqueta: Vento não batas à porta / (Florêncio de Carvalho) - Fado Canção / Fernando Rolim / com acompanhamento / Dr. António Brojo - António Portugal / “Guitarras” / Dr. Aurélio Reis - Mário de Castro / “Violas”"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531485",
+          "doc": "discogs:wb1afe1356f4a6b2c",
+          "citacao": "Editora: Melodia (4) – 15.094"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531485",
+          "doc": "discogs:wb1afe1356f4a6b2c",
+          "citacao": "B Não Olhes Para Os Meus Olhos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Nem o Discogs nem o Museu do Fado indicam a data."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Regresso de quem nunca partiu»: lançamento anunciado para 9 de novembro, no hotel Meliá, em Coimbra",
+      "data": "2007",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Fernando Rolim está de volta à edição discográfica com «Regresso de quem nunca partiu»"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/10/fernando-rolim.html",
+          "doc": "gc-i:5411706257769796084",
+          "citacao": "Vai ser editado mais um disco de Fernando Rolim. O lançamento será dia 9 deste mês de Novembro no hotel Meliá, em Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Anúncio no post de 1-11-2007. O post de 11-11-2007 dá o lançamento «no sábado passado, no hotel Tryp», sem dizer o dia: ver o facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Fernando Rolim - Regresso de quem nunca partiu»: lançamento «no sábado passado, no hotel Tryp, em Coimbra» (post de 11-11-2007)",
+      "data": "2007",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/blog-post_3455.html",
+          "doc": "gc-i:3046596415817084664",
+          "citacao": "Imagens do lançamento do CD \"Fernando Rolim - Regresso de quem nunca partiu\", no sábado passado, no hotel Tryp, em Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 11-11-2007, com imagens do lançamento; não indica o dia. O anúncio de 1-11-2007 dava o dia 9 de novembro, no hotel Meliá: ver o facto anterior."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco «Coimbra, um tempo que não passa», apresentado em Coimbra em março de 2017",
+      "data": "2017",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/cancao-de-coimbra-de-fernando-rolim/",
+          "doc": "rtp-arquivos:w03b31eed119c3c57",
+          "citacao": "Coimbra, após o interregno de uma década, Fernando Rolim, um dos nomes da canção de Coimbra, apresenta a sua nova obra discográfica \"Coimbra, um tempo que não passa\"."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/03/lancamento-do-cd-de-fernando-rolim.html",
+          "doc": "gc-v:2645566369901045789",
+          "citacao": "Lançamento do CD de Fernando Rolim Recortes de imprensa Fonte: jornal As Beiras, 27.03.2017"
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia da RTP de 27-03-2017."
+    },
+    {
+      "campo": "outro",
+      "valor": "Presente na reunião de Lisboa (junho de 1977) de onde saiu a ideia dos Seminários sobre o Fado de Coimbra",
+      "data": "1977-06",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A ideia dos Seminários surgiu na sequência de uma reunião em Lisboa, em Junho de 1977, onde estiveram presentes, entre outros, Teixeira Santos, Luiz Goes, Fernando Rolim, Machado Soares, Alexandre Herculano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de João Moura, «Coimbra do meu tempo»."
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de Mérito Cultural (notícia do Diário de Coimbra, maio de 2006)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/fernando-rolim-vai-receber-uma-medalha.html",
+          "doc": "gc-i:114826056058527720",
+          "citacao": "Fernando Rolim vai receber uma medalha de Mérito Cultural. Diário de Coimbra de ontem."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 22-05-2006 com recorte do Diário de Coimbra; o texto do post não diz quem atribui a medalha."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem no ISEC (outubro de 2006)",
+      "data": "2006",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/homenagem-fernando-rolim-logo-pelas-21.html",
+          "doc": "gc-i:116022333769161030",
+          "citacao": "Homenagem a Fernando Rolim, logo, pelas 21 horas, no ISEC. Diário as Beiras de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 7-10-2006."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem em Santarém, terra onde fez os estudos liceais, promovida pelo Grupo de Guitarra e Canto de Coimbra do Centro Cultural Regional de Santarém (Fórum Mário Viegas e serenata no Convento de S. Francisco)",
+      "data": "2010",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/fernando-rolim-que-vai-ser-homenageado.html",
+          "doc": "gc-iii:2466497382734319595",
+          "citacao": "Fernando Rolim, que vai ser homenageado no próximo sábado, dia 22, em Santarém, terra onde fez os estudos liceais"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/fernando-rolim-homenageado-em-santarem.html",
+          "doc": "gc-iii:2782453453354576824",
+          "citacao": "A homenagem a Fernando Rolim, promovida pelo Grupo de Guitarra e Canto de Coimbra do Centro Cultural Regional de Santarém, teve dois actos. O primeiro, à tarde, no Fórum Mário Viegas, o segundo, à noite, com a Serenata no belíssimo cenário do Convento de S. Francisco."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Vicente Batalha no «Correio do Ribatejo», reproduzido no blogue III (1-6-2010)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "«Fernando Rolim / As ondas de um mar sem fim», homenagem no Convento de São Francisco, Coimbra, 2 de fevereiro de 2025",
+      "data": "2025-02-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/01/homenagem-ao-cantor-fernando-rolim.html",
+          "doc": "gc-v:6639113177555754350",
+          "citacao": "Cartaz promocional da homenagem em agenda para o dia 2/2/2025, pelas 17h, Coimbra, Convento de São Francisco ao médico e cantor Fernando Rolim, com o título «Fernando Rolim /As ondas de um mar sem fim»."
+        }
+      ],
+      "conflito": false,
+      "nota": "Organização: Academia do Fado, da Canção e da Guitarra de Coimbra, Câmara Municipal de Coimbra e Universidade de Coimbra."
     },
     {
       "campo": "atividade",
@@ -84,6 +440,19 @@
         }
       ],
       "nota": "tenor"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "carlos-figueiredo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Começa a cantar com regularidade no grupo liderado por Carlos Figueiredo. Militavam nesta formação José Afonso (2º tenor), Fernando Rolim (1º tenor), Mário Mendes (cantor), Arnaldo Passos (1º g), António Melo (2º g), Carlos Figueiredo (v) e Mário Castro (v)."
+        }
+      ],
+      "nota": "1.º tenor no grupo liderado por Carlos Figueiredo (viola), na secção «1949» da cronologia do blogue I."
     }
   ],
   "imagens": [

@@ -2,12 +2,325 @@
   "id": "almeida-d-eca",
   "tipo": "pessoa",
   "nome": "Almeida d'Eça",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Artur de Almeida d'Eça",
+    "Artur Almeida d'Eça",
+    "Artur Maria Santos de Moura Coutinho Almeida d'Eça"
+  ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Artur Maria Santos de Moura Coutinho Almeida d’Eça nasceu em Lisboa, no dia 03 de setembro de 1902, tendo falecido no Porto a 29 de junho de 1958."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Após ter frequentado o Liceu de Leiria, matriculou-se na Faculdade de Ciências da Universidade de Coimbra no ano lectivo de 1921-1922, instituição que frequentou pelo menos até cerca de 1933, sem concluir o respectivo curso. Foi funcionário dos Caminhos de Ferro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Almeida d’Eça destacou-se como solista do naipe dos barítonos do Orfeon Académico Elias de Aguiar na década de 1920. Na qualidade de membro do naipe dos barítonos e de Director daquele coral, participou na digressão do Orfeon a Paris, realizada em junho de 1924 sob a regência do Dr. António Avelino Joyce (1886-1964). Eleito Delegado do Orfeon em janeiro de 1926, visitou Valladolid, Bilbau, Santander e S. Sebastian."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "A participação do Artur Almeida d'Eça em espectáculos da TAUC parece-me ter-se centrado nos anos lectivos 1925/1926 e 1926/1927, tendo participado nas duas excursões de 1926 e 1927 a Espanha."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Almeida d’Eça gravou em finais de 1929, em Lisboa, para a POLYDOR, pelo menos 8 discos de 78 rpm, com 16 faixas sonoras, acompanhado exclusivamente em guitarra de Coimbra de 17 trastos pelo estudante da FM/UC Felix Albano de Noronha (1902-1968) e pelo estudante da FD/UC Afonso de Sousa (1906-1993)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Almeida d’Eça foi ainda sócio do Fado Académico de Coimbra, agremiação fundada em 1930 na AAC, tendo pertencido aos respectivos órgãos directivos em 1933."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Almeida d’Eça revela ser um cantor de gosto ecléctico, munido de um repertório alargado, capaz de responder às solicitações das serenatas nocturnas de cortejamento e aos recitais de palco e salão"
+    }
+  ],
   "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Artur Maria Santos de Moura Coutinho Almeida d'Eça",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Artur Maria Santos de Moura Coutinho Almeida d’Eça nasceu em Lisboa"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "Artur Maria Santos de Moura Coutinho Almeida d’Eça nasceu em Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica de José Anjos de Carvalho e António Manuel Nunes (versões de 2005 e 2015)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, 3 de setembro de 1902",
+      "data": "1902-09-03",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Artur Maria Santos de Moura Coutinho Almeida d’Eça nasceu em Lisboa, no dia 03 de setembro de 1902"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "Artur Maria Santos de Moura Coutinho Almeida d’Eça nasceu em Lisboa, no dia 03 de Setembro de 1902"
+        }
+      ],
+      "conflito": false,
+      "nota": "Outro post (gc-v:3772168108461181292) escreve, a seu respeito, «também vindo Porto»."
+    },
+    {
+      "campo": "morte",
+      "valor": "Porto, 29 de junho de 1958",
+      "data": "1958-06-29",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "tendo falecido no Porto a 29 de junho de 1958."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "tendo falecido no Porto a 29 de Junho de 1958."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu de Leiria; matriculado na Faculdade de Ciências da Universidade de Coimbra em 1921-1922, que frequentou pelo menos até cerca de 1933, sem concluir o curso",
+      "data": "1921",
+      "local": "Leiria; Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Após ter frequentado o Liceu de Leiria, matriculou-se na Faculdade de Ciências da Universidade de Coimbra no ano lectivo de 1921-1922, instituição que frequentou pelo menos até cerca de 1933, sem concluir o respectivo curso."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário dos Caminhos de Ferro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Foi funcionário dos Caminhos de Ferro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Solista do naipe dos barítonos e diretor do Orfeon Académico na década de 1920; digressão a Paris (junho de 1924, regência de António Joyce); delegado do Orfeon em 1926 (Valladolid, Bilbau, Santander e S. Sebastián)",
+      "data": "1924-06",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Almeida d’Eça destacou-se como solista do naipe dos barítonos do Orfeon Académico Elias de Aguiar na década de 1920. Na qualidade de membro do naipe dos barítonos e de Director daquele coral, participou na digressão do Orfeon a Paris, realizada em junho de 1924 sob a regência do Dr. António Avelino Joyce (1886-1964). Eleito Delegado do Orfeon em janeiro de 1926, visitou Valladolid, Bilbau, Santander e S. Sebastian."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/02/almeida-deca-na-sra-de-vagos.html",
+          "doc": "gc-v:2532313104636970438",
+          "citacao": "Artur de Almeida d'Eça (1902-1958), matriculado na Faculdade de Ciências / UC, associado da TAUC e do Orfeon Académico era em 1929 um cantor bem conhecido no meio académico. Além do mais, fazia solos no naipe dos barítonos do Orfeon da regência do Padre Dr. Luís Elias de Aguiar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Participação em espetáculos da TAUC (anos letivos de 1925/1926 e 1926/1927) e nas excursões de 1926 e 1927 a Espanha; delegado na preparação da viagem de 1927",
+      "data": "1926",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "A participação do Artur Almeida d'Eça em espectáculos da TAUC parece-me ter-se centrado nos anos lectivos 1925/1926 e 1926/1927, tendo participado nas duas excursões de 1926 e 1927 a Espanha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Segundo o jornal \"La Voz de Galicia\", de 7 de maio de 1926, p. 2, intitulado \"La Tuna de Coimbra en La Coruña\", pode ler-se: \"En la segunda parte fueron aplaudidísimos recitando o cantando fados y trozos populares los académicos Almeida Eça, [Mário] Delgado, Costa y Paradela."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "O jornal de Salamanca confirma que o cantor desempenhou o cargo de delegado na preparação da viagem a Espanha em 1927"
+        }
+      ],
+      "conflito": false,
+      "nota": "La Voz de Galicia (7-05-1926) e El Adelanto (Salamanca, 29-01-1927), citados no post."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Solo na 2.ª parte da rapsódia «Cantares da Nossa Terra», de António Joyce, num dos dois discos de 78 rpm do Orfeon Académico de Coimbra (His Master's Voice, E.Q. 71)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "De assinalar que há um solo cantado por Almeida d’Eça num dos dois discos de 78 rpm gravados pelo Orfeon Académico de Coimbra, na 2.ª parte da rapsódia Cantares da Nossa Terra, de António Joyce (Disco His Master’s Voice, E.Q. 71, master 7-69277)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Finais de 1929, em Lisboa, para a Polydor: pelo menos 8 discos de 78 rpm (16 faixas), acompanhado nas guitarras de Coimbra por Albano de Noronha e Afonso de Sousa",
+      "data": "1929",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Almeida d’Eça gravou em finais de 1929, em Lisboa, para a POLYDOR, pelo menos 8 discos de 78 rpm, com 16 faixas sonoras, acompanhado exclusivamente em guitarra de Coimbra de 17 trastos pelo estudante da FM/UC Felix Albano de Noronha (1902-1968) e pelo estudante da FD/UC Afonso de Sousa (1906-1993)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão 2/2015 do inventário de José Anjos de Carvalho e António Manuel Nunes, que diz ter completado os dados em falta na primeira versão (2005). O post lista os discos Polydor P 42127 a P 42142."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Finais de 1929, para a Polydor: pelo menos cinco discos de 78 rpm, acompanhado por Albano de Noronha e Afonso de Sousa",
+      "data": "1929",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "Almeida d’Eça gravou em finais de 1929, para a POLYDOR, pelo menos cinco discos de 78 rpm, acompanhado exclusivamente em Guitarra de Coimbra de 17 trastos por Albano de Noronha e Afonso de Sousa."
+        }
+      ],
+      "conflito": true,
+      "nota": "Primeira versão do inventário (2005), com dados incompletos; a versão de 2015 dá pelo menos 8 discos."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Nossa Senhora de Vagos» (música de D. José Paes), disco de 78 rpm Polydor P42139, editado em 1929",
+      "data": "1929",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/02/almeida-deca-na-sra-de-vagos.html",
+          "doc": "gc-v:2532313104636970438",
+          "citacao": "Nossa Senhora de Vagos figura no disco de 78 rpm Polydor P42139, editado em 1929"
+        }
+      ],
+      "conflito": false,
+      "nota": "No mesmo post: «A música é do compositor, maestro e estudante D. José Paes»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Sócio do Fado Académico de Coimbra (fundado em 1930 na AAC); membro da direção em 1933",
+      "data": "1933",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Almeida d’Eça foi ainda sócio do Fado Académico de Coimbra, agremiação fundada em 1930 na AAC, tendo pertencido aos respectivos órgãos directivos em 1933."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 23 de Janeiro de 1933 integraram a nova direcção do FAC os estudantes Xabregas, Alfredo Chaves de Carvalho, José Alves de Oliveira, Hernâni Marques, Luís Providência e Costa (2º g), Mário Galvão Videira, Augusto Castelão de Oliveira de Almeida (v), Manuel Vicente de Faria (cantor), António Osório Vaz (cantor), Artur de Almeida d’Eça (barítono)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autoria: segundo depoimentos de Afonso de Sousa, a música e a letra de «Pequenina», que gravou, seriam da sua autoria",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/relao-do-esplio-fonogrfico-do-cantor.html",
+          "doc": "gc-i:113448025235455995",
+          "citacao": "Com base em depoimentos de Afonso de Sousa, sabemos que existe pelo menos mais um disco, onde figura uma composição intitulada “Pequenina”, gravada por Almeida d’Eça, cujas música e letra seriam de sua autoria, reminiscência dum idílio leiriense que depois se esvaneceu."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão de 2005. A de 2015 conclui que nenhuma música nem letra é da autoria do cantor."
+    },
+    {
+      "campo": "outro",
+      "valor": "Autoria: concluído o estudo fonobiográfico, não se encontrou nenhuma música nem letra da autoria do cantor; o «Fado das Andorinhas» que a memória oral lhe atribui é de José Paradela de Oliveira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "Embora o nome de Almeida d’Eça ocorra na memória oral conimbricense como autor da composição Fado das Andorinhas (Porque os meus olhos se apartem), este título é de José Paradela de Oliveira e, estudo fonobiográfico concluído, não encontramos nenhuma música nem letra que sejam da autoria do cantor."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão de 2015. A de 2005 registava o depoimento de Afonso de Sousa sobre «Pequenina»."
+    },
     {
       "campo": "outro",
       "valor": "1902 – 1958; cantor de Coimbra vindo do Porto; acompanhou o Orfeon Académico a França em 1924; ainda em 1933 fazia parte do Fado Académico",
@@ -38,7 +351,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNbg7XJ1IdgGGLKK-APGBSLfwI18m8dAz7TIoBI0b_k7BWRd9YLx9Y1IX-WHhzsa6LnuVK0ZcCSvWIzi4Ii5uALOM1UeDhxrBRhzLji8zDbs1tWJUthfd7cVfBoIGDlK8EIDVqh8mipG9z/s1600/almeidade%C3%A7a.jpg",
+      "legenda": "Retrato-perfil de Almeida d'Eça (apud Divaldo de Freitas: 1972).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "1-Retrato-perfil de Almeida d'Eça (apud Divaldo de Freitas: 1972)"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

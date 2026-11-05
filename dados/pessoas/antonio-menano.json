@@ -6,7 +6,8 @@
     "António Paulo Menano"
   ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "compositor"
   ],
   "biografia": [
     {
@@ -14,6 +15,48 @@
       "url": "https://guitarradecoimbra4.blogspot.com/2015/06/dia-internacional-dos-arquivos-13.html",
       "doc": "gc-v:3128225641968121608",
       "citacao": "António Paulo Menano (1895-1969), estudante formado em Medicina pela Universidade de Coimbra (1923), médico, cantor, tenor solista do Orfeon Académico de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+      "doc": "gc-v:7606241160622190046",
+      "citacao": "ANTÓNIO Paulo MENANO, nasceu em Fornos de Algodres a 5 de Maio de 1895."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+      "doc": "gc-v:7606241160622190046",
+      "citacao": "Concluído o curso liceal em Coimbra e logo no seu ano de caloiro, em Março de 1915, António actua num sarau em Aveiro organizado pela Associação Académica de Coimbra, com a participação da Tuna e do Orfeon. É a sua estreia pública."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+      "doc": "gc-i:115835816405850891",
+      "citacao": "Foi nesse ano lectivo que se procedeu à reorganização do Orfeon Académico, agora sob a regência do Padre Dr. Elias Luís de Aguiar e onde António Menano se tornou solista e ensaiador do naipe dos primeiros tenores, passando também a cantor “titular” de fados e canções nos saraus e noutros espectáculos e actividades que se realizavam."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+      "doc": "gc-i:115835816405850891",
+      "citacao": "Concluído nesse mesmo ano de 1923 o Curso de Medicina, o Dr. António Paulo Menano passa a exercer clínica em Fornos de Algodres, terra natal da Família Menano e onde seus pais, António da Costa Menano e Januária Paulo Menano, residiam."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+      "doc": "gc-i:115835816405850891",
+      "citacao": "António Menano tornar-se-ia definitivamente o cantor de Coimbra mais conhecido e de maior fama em todo o país com as gravações que realizou entre os anos de 1927, 1928 e 1930, em Paris, Lisboa, Berlim e Madrid, para a companhia de discos Odeon, na sequência do contrato firmado em 17 de Novembro de 1926."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+      "doc": "gc-i:115835816405850891",
+      "citacao": "Anos depois, em 1933, mercê dos contactos encetados através do navio Quanza, abandonando voluntariamente a sua meteórica e impressionante carreira artística, que fora a mais prometedora da Década de Oiro (1920-1930), António Menano partiu para Moçambique, onde exerceu clínica durante quase de 30 anos, fixando-se na vila de Inhaminga e depois na cidade da Beira. De África regressaria definitivamente a Portugal em 1961."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+      "doc": "gc-v:7606241160622190046",
+      "citacao": "Regressado à Europa, à chamada Metrópole, António Menano radica-se em Lisboa, onde vira a falecer oito anos mais tarde, a 11 de Setembro de 1969, na sua residência na Rua José Falcão, nº 57, em Lisboa."
     }
   ],
   "factos": [
@@ -30,6 +73,587 @@
       ],
       "conflito": false,
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). As datas (1895-1969) coincidem com as da biografia já registada."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "António Paulo Menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "ANTÓNIO Paulo MENANO, nasceu em Fornos de Algodres a 5 de Maio de 1895."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Natural de Fornos de Algodres, António Paulo Menano é um dos poucos divos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Fornos de Algodres, 5 de maio de 1895",
+      "data": "1895-05-05",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "ANTÓNIO Paulo MENANO, nasceu em Fornos de Algodres a 5 de Maio de 1895."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "(Fornos de Algodres, 05-05-1895; Lisboa, 11-09-1969)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano.html",
+          "doc": "gc-i:115802189159680428",
+          "citacao": "Faz hoje 37 anos que morreu António Menano (5 de Maio de 1895 - 11 de Setembro de 1969)."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "António Paulo Menano nasceu em Fornos de Algodres no dia 05 de Maio de 1895."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-3/",
+          "doc": "rtp-arquivos:wf45283a47f988fd7",
+          "citacao": "compositor e fadista António Menano (1895-1969)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A ficha da RTP dá só o ano. O texto do GC-IV de 2012 dá 1885 (facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Fornos de Algodres, 1885",
+      "data": "1885",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/inventariacao-e-descricao-dedocumentos.html",
+          "doc": "gc-iv:3812538722670723281",
+          "citacao": "O Dr. António Paulo Menano nasceu em Fornos de Algodres no ano de 1885 e faleceu em Lisboa em 1969."
+        }
+      ],
+      "conflito": true,
+      "nota": "Só este texto (inventário do reportório gravado por Lomelino Silva, GC-IV, 2012) dá 1885; as outras fontes dizem 1895."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 11 de setembro de 1969, na residência da Rua José Falcão, n.º 57",
+      "data": "1969-09-11",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "António Menano radica-se em Lisboa, onde vira a falecer oito anos mais tarde, a 11 de Setembro de 1969, na sua residência na Rua José Falcão, nº 57, em Lisboa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "A sua última residência foi na Rua José Falcão, nº 57, 5º Esquerdo, em Lisboa, onde, em 11 de Setembro de 1969, viria a falecer."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano.html",
+          "doc": "gc-i:115802189159680428",
+          "citacao": "Faz hoje 37 anos que morreu António Menano (5 de Maio de 1895 - 11 de Setembro de 1969)."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "António Menano faleceu em 11 de Setembro de 1969."
+        }
+      ],
+      "conflito": true,
+      "nota": "O cabeçalho da mesma página do Museu do Fado diz «11 novembro» (facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "11 de novembro de 1969 (cabeçalho da biografia do Museu do Fado)",
+      "data": "1969-11-11",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "(N. 5 maio, 1895 - M. 11 novembro, 1969)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto da mesma página diz «faleceu em 11 de Setembro de 1969»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Matricula-se na Faculdade de Medicina da Universidade de Coimbra em outubro de 1914",
+      "data": "1914-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Quando António Menano se matriculou na Faculdade de Medicina da UC em Outubro de 1914"
+        }
+      ],
+      "conflito": true,
+      "nota": "No post do GC-V de 2014 lê-se «em Outubro, no ano lectivo de 1914 – 1925» (sic) e, na nota final, «quando foi em 1915»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Ingressa no curso de Medicina da Universidade de Coimbra em 1915 (estudou na FM/UC entre 1915 e 1923)",
+      "data": "1915",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "Em 1915, António Menano ingressa no curso de Medicina da Universidade de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/evocacao-de-antonio-menano-na-rtp-1970.html",
+          "doc": "gc-v:8733023454403965005",
+          "citacao": "que estudou na FM/UC entre 1915-1923"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "diz-se que o cantor passou a frequentar a Universidade em 1920, quando foi em 1915"
+        }
+      ],
+      "conflito": true,
+      "nota": "A terceira citação corrige o livro «Fado e as Toiradas em Portugal», que dava 1920."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Forma-se em Medicina pela Universidade de Coimbra em 1923",
+      "data": "1923",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Concluído nesse mesmo ano de 1923 o Curso de Medicina, o Dr. António Paulo Menano passa a exercer clínica em Fornos de Algodres"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Forma-se em finais do ano seguinte de 1923."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/inventariacao-e-descricao-dedocumentos.html",
+          "doc": "gc-iv:3812538722670723281",
+          "citacao": "Médico formado pela Universidade de Coimbra (1923) exerceu longamente em Moçambique."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Sarau em Aveiro organizado pela Associação Académica de Coimbra, com a Tuna e o Orfeon (março de 1915): «a sua estreia pública»",
+      "data": "1915-03",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "em Março de 1915, António actua num sarau em Aveiro organizado pela Associação Académica de Coimbra, com a participação da Tuna e do Orfeon. É a sua estreia pública."
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto de J. Anjos de Carvalho e A. M. Nunes (GC-I, 2006) põe antes, em fevereiro de 1915, a homenagem a António Nobre (facto seguinte)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Homenagem a António Nobre promovida pela revista «A Galera» (fevereiro de 1915), onde «viu despontar a sua estrela»",
+      "data": "1915-02",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "António Menano viu despontar a sua estrela em Fevereiro de 1915, numa homenagem promovida a António Nobre pela revista “A Galera”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Solista e ensaiador do naipe dos primeiros tenores do Orfeon Académico, sob a regência de Elias de Aguiar",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "onde António Menano se tornou solista e ensaiador do naipe dos primeiros tenores, passando também a cantor “titular” de fados e canções nos saraus"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "António Menano é convidado para o referido grupo como solista e ensaiador."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Passa a integrar a Direção do Orfeon Académico (1918)",
+      "data": "1918",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "No ano de 1918 António Menano passa a integrar a Direcção do Orfeon Académico"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Em 1918, passa a integrar a Direcção do Orfeon Académico."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "em 1918 António Menano passa a integrar a Direcção do Orfeon Académico"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Os Três Mais Lindos Fados de Coimbra» (Livraria Neves, 1915), primeira edição musical com fados seus",
+      "data": "1915",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "É também em 1915 que surgem, numa primeira edição musical publicada pela Livraria Neves, à Rua Larga, duas composições da autoria de António Menano. Essa publicação, intitulada “Os Três Mais Lindos Fados de Coimbra”"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "Segundo José Niza “É também em 1915 que surge a primeira edição musical com fados de autoria de António Menano, “Os três mais lindos fados de Coimbra” publicada pela Livraria Neves…”"
+        }
+      ],
+      "conflito": false,
+      "nota": "Edição musical (partitura). O Museu do Fado cita José Niza, «Fado de Coimbra II»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon e da TAUC a Espanha (Salamanca, Madrid e Valladolid), abril de 1923",
+      "data": "1923-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Em Abril de 1923, António Menano, já casado mas ainda não formado, participou na digressão do Orfeon e da TAUC a Espanha, actuando em Salamanca, Madrid e Valladolid."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon Académico a França (Paris, Trocadero; Toulouse, Bordéus e Baiona), junho de 1924",
+      "data": "1924-06",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Em 14 de Junho de 1924, o Orfeon Académico seguiu para Paris, onde actuou no Trocadero, realizando depois saraus em Toulouse, Bordéus e Bayona. António Menano tomou parte na digressão"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico: consultório em Fornos de Algodres (1924-1933) e, a partir dos finais dos anos 20, clínica a bordo do navio Quanza",
+      "local": "Fornos de Algodres",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Neste ano de 1924 e até 1933, o cantor abre consultório na sua Fornos de Algodres, mas a partir dos finais dos anos 20, passa a exercer clínica a bordo do navio de passageiros Quanza"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Concluído nesse mesmo ano de 1923 o Curso de Medicina, o Dr. António Paulo Menano passa a exercer clínica em Fornos de Algodres"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico em Moçambique (1933-1961): clínico da TransZambesia Railway, em Inhaminga e depois na Beira",
+      "data": "1933",
+      "local": "Moçambique",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Assim em 1933 resolvem partir para Moçambique onde o médico cantor vai exercer funções como clínico da TransZambesia Railway."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "António Menano partiu para Moçambique, onde exerceu clínica durante quase de 30 anos, fixando-se na vila de Inhaminga e depois na cidade da Beira. De África regressaria definitivamente a Portugal em 1961."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "em 1933 parte voluntariamente para Inhaminga, em Moçambique, para exercer medicina. Regressará definitivamente a Portugal em 1961."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Lisboa, depois do regresso definitivo de África (1961)",
+      "data": "1961",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "De África regressaria definitivamente a Portugal em 1961."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "António Menano radica-se em Lisboa, onde vira a falecer oito anos mais tarde"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Contrato com a Odeon (17 de novembro de 1926); primeira sessão de gravação em Paris, em maio de 1927, acompanhado por Flávio Rodrigues (guitarra) e Augusto Louro (viola)",
+      "data": "1927-05",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Em 1926 António Menano assinou o contrato de gravação com a empresa fonográfica Odeon e no mês de Maio de 1927 fez a primeira sessão de registos em Paris, acompanhado pela dupla Flávio Rodrigues/Augusto Louro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "na sequência do contrato firmado em 17 de Novembro de 1926"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "no mês de Maio faz a primeira série de gravações em Paris, acompanhado á guitarra por Flávio Rodrigues e à viola por Augusto Louro."
+        }
+      ],
+      "conflito": false,
+      "nota": "No post do GC-V de 2014 a frase começa «Em 1926, António Menano assina um contrato de gravação com a empresa Odeon e no mês de Maio faz…», sem repetir o ano; o mesmo post dá as gravações de Paris como de 1927."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações para a Odeon em 1927, 1928 e 1930, em Paris, Lisboa, Berlim e Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "com as gravações que realizou entre os anos de 1927, 1928 e 1930, em Paris, Lisboa, Berlim e Madrid, para a companhia de discos Odeon"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/06/evocacao-de-antonio-menano-na-rtp-1970.html",
+          "doc": "gc-v:8733023454403965005",
+          "citacao": "Entre 1927-1930 gravou um número muito avultado de fonogramas na Odeon"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os textos que citam José Niza dão gravações só em Paris, Lisboa e Berlim, entre 1927 e 1928/1929 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo José Niza: gravações para a Odeon entre 1927 e 1929, em Paris (1927), Lisboa (primavera de 1928) e Berlim (dezembro de 1928)",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "com as gravações que fez entre os anos de 1927 e 1929, em Paris, Lisboa e Berlim, para a companhia Odeon de Paris."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "resulta que 18 deles (9 discos) foram gravados em Paris (1927), 22 (11 discos) foram gravados em Lisboa (Primavera de 1928) e, finalmente, 36 (18 discos) foram produzidos em Berlim (Dezembro de 1928)."
+        }
+      ],
+      "conflito": true,
+      "nota": "As duas citações são de José Niza, «Fado de Coimbra II» (1999), citado pelo Museu do Fado e pelo GC-V."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Embaixada Artística da Academia de Coimbra na Exposição Ibero-Americana de Sevilha (1929), com Artur Paredes, Afonso de Sousa e Guilherme Barbosa",
+      "data": "1929",
+      "local": "Sevilha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Em 1929, por ocasião da Exposição Ibero-Americana de Sevilha, o Dr. António Menano foi o cantor escolhido para integrar a Embaixada Artística enviada pela Academia de Coimbra"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "No âmbito da “Exposição Ibero-Americana”, que teve lugar em Sevilha no ano de 1929, António Menano é convidado a integrar a “Embaixada Artística da Academia de Coimbra”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Recital no Instituto Superior de Agronomia, Tapada da Ajuda, Lisboa (outubro de 1956)",
+      "data": "1956-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "destaca-se a de Outubro de 1956, em Lisboa, no Instituto Superior de Agronomia, na Tapada da Ajuda, no célebre recital que deu, já sexagenário"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Em Lisboa, ficou célebre um recital que deu, aos 61 anos, no Instituto Superior de Agronomia, na Tapada da Ajuda, em Outubro de 1956."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Última atuação pública: inauguração da Galeria Rodin, do pintor Mário Silva, Lisboa, 16 de dezembro de 1967",
+      "data": "1967-12-16",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "A sua segunda e última actuação pública de 1967, teve lugar a 16 de Dezembro, por ocasião da inauguração, em Lisboa, da Galeria Rodin, do pintor Mário Silva"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Também foi notícia a sua última actuação pública em Lisboa, na galeria Rodin, de Mário Silva, em Dezembro de 1967."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Placa evocativa dos condiscípulos do V Ano Médico (1922-1923), descerrada nas Bodas de Ouro do curso de Medicina; inscrição datada de 24 de junho de 1973",
+      "data": "1973-06-24",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "Na celebração das Bodas de Ouro do curso de Medicina, foi descerrada uma placa evocativa ... Ao António Menano ... 24 de Junho de 1973"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Grande Oficial da Ordem do Infante D. Henrique (8 de março de 1996)",
+      "data": "1996-03-08",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/antonio-menano",
+          "doc": "museu-do-fado:w54f740bb55a7dfca",
+          "citacao": "Em 08 de Março de 1996, António Menano foi distinguido com o grau Grande Oficial da Ordem Infante D. Henrique."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Alcunha: «Rouxinol do Mondego»",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "Apodado de o “Rouxinol do Mondego”"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-menano.html",
+          "doc": "gc-v:7606241160622190046",
+          "citacao": "Ali viveu o célebre “rouxinol do Mondego” com a sua família"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -70,6 +694,19 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "francisco-menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "A escola vocal seguida por António Menano não seria, contudo, um mero repisar dos ensinamentos colhidos em mentores como Paulo de Sá, Francisco Menano e Agostinho Fontes."
+        }
+      ],
+      "nota": "No canto («mentores»). O mesmo texto nomeia Paulo de Sá e Agostinho Fontes, que ainda não têm ficha."
     }
   ],
   "imagens": [

@@ -3,14 +3,398 @@
   "tipo": "pessoa",
   "nome": "António Nogueira",
   "nomes_alternativos": [
-    "Tó Nogueira"
+    "Tó Nogueira",
+    "António Manuel Raposo Galvão Nogueira"
   ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "ANTÓNIO Manuel Raposo Galvão NOGUEIRA, Tó Nogueira para os seus companheiros e amigos, nasceu em Coimbra a 2 de Maio de 1958 e faleceu na sua cidade natal, a 16 de Abril de 2003."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Foi aluno do Liceu Normal D. João III, hoje Escola Secundária José Estêvão, onde veio a concluir o ensino secundário no ano lectivo de 1975 -76. Nos seus tempos de estudante liceal cantou nos coros do Liceu D. João III e de de D. Pedro de Cristo, do Centro Académico de Democracia Cristã (CADC)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Iniciou-se a cantar o Fado de Coimbra com mestre Dr. Jorge Gomes, na Associação Cristã da Mocidade (ACM), no ano de 1976."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Tó Nogueira cantou nesse ano na “ … Serenata dos Claustros de Santa Cruz, por ocasião das Festas da Cidade, onde cantou (Ao morrer os olhos dizem). Foi a sua estreia em público, com dezoito anos de idade, ao lado de José Mesquita, Alfredo Correia e Amândio de Figueiredo …”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Da escola da ACM, segue a partir de 1978 para a Escola do Chiado da Câmara Municipal de Coimbra, onde como aluno de mestre Jorge Gomes tem o nº 1."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Esteve profundamente envolvido na organização da 1ª Semana Académica em 1979 e na organização da Queima das Fitas de 1980, a primeira que se realizou depois do Luto Académico decretado em 1969, em luta contra a ditadura e a guerra colonial."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Na Primavera de 1988, nos estúdios Edisco, gravou, com trinta anos, o seu primeiro, e infelizmente único disco da Canção de Coimbra, intitulado “10 anos … uma Serenata”, ao lado de João Moura (guitarra), José Santos (viola), e os cantores Victor Silva e Luís Cartário que constituíam o “Grupo de Fados e Guitarras de Coimbra”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+      "doc": "gc-v:6510254946763417386",
+      "citacao": "Tinha uma assinalável mão para o desenho e a caricatura. Foi autor de diversos cartazes evocativos da Queima das Fitas e de centenas de caricaturas de estudantes da Academia de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António Manuel Raposo Galvão Nogueira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "ANTÓNIO Manuel Raposo Galvão NOGUEIRA, Tó Nogueira para os seus companheiros e amigos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-nogueira.html",
+          "doc": "gc-v:3733051898304101408",
+          "citacao": "ANTÓNIO Manuel Raposo Galvão NOGUEIRA, o Tó Nogueira para a sua família e amigos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Manuel Marques Inácio."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 2 de maio de 1958",
+      "data": "1958-05-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "ANTÓNIO Manuel Raposo Galvão NOGUEIRA, Tó Nogueira para os seus companheiros e amigos, nasceu em Coimbra a 2 de Maio de 1958"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-nogueira.html",
+          "doc": "gc-v:3733051898304101408",
+          "citacao": "nasceu em Coimbra a 2 de Maio de 1958, tendo falecido na sua terra natal a 16 de Abril de 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 16 de abril de 2003",
+      "data": "2003-04-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "nasceu em Coimbra a 2 de Maio de 1958 e faleceu na sua cidade natal, a 16 de Abril de 2003."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-nogueira.html",
+          "doc": "gc-v:3733051898304101408",
+          "citacao": "nasceu em Coimbra a 2 de Maio de 1958, tendo falecido na sua terra natal a 16 de Abril de 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Ensino secundário no Liceu Normal D. João III (concluído em 1975-76); cantou nos coros do Liceu e de D. Pedro de Cristo (CADC)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Foi aluno do Liceu Normal D. João III, hoje Escola Secundária José Estêvão, onde veio a concluir o ensino secundário no ano lectivo de 1975 -76. Nos seus tempos de estudante liceal cantou nos coros do Liceu D. João III e de de D. Pedro de Cristo, do Centro Académico de Democracia Cristã (CADC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aprendeu a cantar o Fado de Coimbra com Jorge Gomes: na ACM a partir de 1976 e, desde 1978, na Escola do Chiado da Câmara Municipal de Coimbra, onde foi o aluno n.º 1",
+      "data": "1976",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Iniciou-se a cantar o Fado de Coimbra com mestre Dr. Jorge Gomes, na Associação Cristã da Mocidade (ACM), no ano de 1976."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Da escola da ACM, segue a partir de 1978 para a Escola do Chiado da Câmara Municipal de Coimbra, onde como aluno de mestre Jorge Gomes tem o nº 1."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Serenata dos Claustros de Santa Cruz, nas Festas da Cidade (1976), aos 18 anos, ao lado de José Mesquita, Alfredo Correia e Amândio de Figueiredo",
+      "data": "1976",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Iniciou-se a cantar o Fado de Coimbra com mestre Dr. Jorge Gomes, na Associação Cristã da Mocidade (ACM), no ano de 1976. ... Tó Nogueira cantou nesse ano na “ … Serenata dos Claustros de Santa Cruz, por ocasião das Festas da Cidade, onde cantou (Ao morrer os olhos dizem). Foi a sua estreia em público, com dezoito anos de idade, ao lado de José Mesquita, Alfredo Correia e Amândio de Figueiredo …”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho de Jorge Cravo, citado no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata no Pavilhão dos Olivais, a 24 de setembro de 1980, com Henrique Ferrão e Rijo Madeira (guitarras), Arsénio Carvalho (viola) e Jorge Cravo (voz)",
+      "data": "1980-09-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Recorda-nos ainda o Dr. Jorge Cravo, que o seu amigo integrou o grupo de fados e guitarradas de Coimbra que actuou a 24 de Setembro de 1980, no Pavilhão dos Olivais ... Nessa noite estiveram nas guitarras Henrique Ferrão e Rijo Madeira, e na viola, Arsénio Carvalho. Cantaram António Nogueira e Jorge Cravo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho de Jorge Cravo, citado no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantou em todas as serenatas da Queima das Fitas de 1981 a 1987",
+      "data": "1981",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Informa-nos ainda que “ … de 1981 a 1987 cantou em todas as serenatas da Queima das Fitas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Informação de Jorge Cravo, citada no post, que lista os temas cantados em cada ano."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Pomba Branca» e «Balada a um Pescador» no programa de televisão «Canção de Coimbra - Anos 80» (1989), de José Mesquita, com João Moura e Domingos Mateus (guitarras) e José Santos (viola)",
+      "data": "1989",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/02/antonio-nogueira-canta-pomba-branca.html",
+          "doc": "gc-iv:6235440693152314122",
+          "citacao": "António Nogueira canta \"Pomba Branca\", acompanhado por João Moura e Domingos Mateus em guitarra, José Santos em viola, no programa de José Mesquita, Canção de Coimbra - Anos 80, de 1989."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/antonio-nogueira-canta-balada-um.html",
+          "doc": "gc-iii:2458589486777085947",
+          "citacao": "António Nogueira canta Balada a um Pescador, acompanhado por João Moura e Domingos Mateus nas guitarras, e José Santos na viola, no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois posts têm os vídeos."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «10 anos… uma Serenata», do Grupo de Fados e Guitarras de Coimbra (Edisco, GFC 001), gravado na primavera de 1988: o seu único disco",
+      "data": "1988",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Na Primavera de 1988, nos estúdios Edisco, gravou, com trinta anos, o seu primeiro, e infelizmente único disco da Canção de Coimbra, intitulado “10 anos … uma Serenata”"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP 10 anos... uma serenata, pelo Grupo de Fados e Guitarras de Coimbra, Porto, Edisco, GFC 001, GF 00002,1988, 1.200$00. Textos de apresentação assinados por Luís Goes e Mário Afonso. Cantam António Nogueira, Luís Catario e Victor Silva."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2-05-2014 (gc-v:3733051898304101408) escreve «1888»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«gravou um fonograma em 1888 intitulado “10 anos … uma Serenata”» (data tal como está no post)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-nogueira.html",
+          "doc": "gc-v:3733051898304101408",
+          "citacao": "Cantou o Fado de Coimbra, gravou um fonograma em 1888 intitulado “10 anos … uma Serenata”"
+        }
+      ],
+      "conflito": true,
+      "nota": "Os outros posts dão 1988 (gravação na primavera de 1988)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD de homenagem «Por ti, fraternidade», com a sua voz; a canção que dá título ao disco, de José Santos, é cantada por Luiz Goes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cd-de-antnio-nogueira-por-ti.html",
+          "doc": "gc-i:112051366182298594",
+          "citacao": "CD de António Nogueira, \"Por ti, fraternidade\". Disco de homenagem a uma grande figura da Canção Coimbrã. A abrir está uma belíssima canção de José Santos, exactamente com o título que dá nome ao disco, na voz de Luiz Goes. ... A voz de António Nogueira é bastante expressiva."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 4-07-2005, posterior à sua morte. O texto de 2014 chama ao LP de 1988 o seu «único disco»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Desenho e caricatura: cartazes evocativos da Queima das Fitas e centenas de caricaturas de estudantes da Academia de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Tinha uma assinalável mão para o desenho e a caricatura. Foi autor de diversos cartazes evocativos da Queima das Fitas e de centenas de caricaturas de estudantes da Academia de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Envolvido na organização da 1.ª Semana Académica (1979) e da Queima das Fitas de 1980, a primeira depois do Luto Académico de 1969",
+      "data": "1979",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Esteve profundamente envolvido na organização da 1ª Semana Académica em 1979 e na organização da Queima das Fitas de 1980, a primeira que se realizou depois do Luto Académico decretado em 1969, em luta contra a ditadura e a guerra colonial."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de educação física e preparador físico de equipas de futebol e andebol; presidente da Junta de Freguesia de Santa Cruz",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "foi professor de educação física e preparador físico de equipas de futebol e andebol. ... Era o Presidente da Junta de Freguesia de Santa Cruz"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Miradouro António Nogueira, na rua António José de Almeida, perto da casa onde nasceu (Câmara Municipal de Coimbra)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A Câmara Municipal de Coimbra decidiu em tempo, atribuir o nome de Miradouro António Nogueira ao miradouro localizado na rua António José de Almeida, perto da casa onde nasceu."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sala António Nogueira: nome dado à Sala de Ensaios da Secção de Fado da Associação Académica de Coimbra, de que foi sócio n.º 1",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "A Secção de Fado da Associação Académica de Coimbra decidiu atribuir o nome de Sala António Nogueira à Sala de Ensaios, em homenagem a este seu sócio nº1"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/homenagem-t-nogueira-pela-seco-de-fado.html",
+          "doc": "gc-i:5760886414115510450",
+          "citacao": "Homenagem a Tó Nogueira pela Secção de Fado da Associação Académica de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda fonte é um post de 16-12-2007 com a notícia do Diário de Coimbra."
+    }
+  ],
   "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "Iniciou-se a cantar o Fado de Coimbra com mestre Dr. Jorge Gomes, na Associação Cristã da Mocidade (ACM), no ano de 1976."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html",
+          "doc": "gc-v:6510254946763417386",
+          "citacao": "onde como aluno de mestre Jorge Gomes tem o nº 1."
+        }
+      ],
+      "nota": "canto; ACM (1976) e Escola do Chiado (a partir de 1978)"
+    },
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2014/04/eugenio-da-veiga-e-antonio-nogueira.html", "doc": "gc-v:6510254946763417386", "citacao": "A Secção de Fado da Associação Académica de Coimbra decidiu atribuir o nome de Sala António Nogueira à Sala de Ensaios, em homenagem a este seu sócio nº1, responsável também pelo ressurgimento da sua Orxestra Pitagórica"}], "nota": "Sócio n.º 1 da Secção; responsável também pelo ressurgimento da Orxestra Pitagórica. A Sala de Ensaios tem o seu nome."},
     {
       "tipo": "membro_de",
@@ -51,7 +435,20 @@
       "nota": "voz; 1980-1981"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwrW7BMlfIDYle-X14zTuDN1r2dxpaN6HUjBReQt1kRZpBx76mivAcaO6fWOA0nj0eUsq_IRo0pDF5AWP89qWxXLXof-cOINs-y8DdLq7WKlffWwSo2jKxbPtWevupMZyGTpae4T-voRLi/s1600/AntonioNogueira.jpg",
+      "legenda": "António Nogueira (1958 – 2003), cantor. Única fotografia do post evocativo de 2014, sem legenda própria.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/antonio-nogueira.html",
+          "doc": "gc-v:3733051898304101408",
+          "citacao": "ANTÓNIO NOGUEIRA (1958 – 2003). Cantor"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

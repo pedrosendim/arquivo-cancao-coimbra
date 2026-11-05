@@ -1,0 +1,58 @@
+{
+  "id": "manasses-de-lacerda-gramophone-62139",
+  "titulo": "Fado Corrido nº 1",
+  "formato": "78rpm",
+  "editora": "Gramophone",
+  "referencia": "62139",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Corrido nº 1 (Meu doce fado és tão triste)",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Corrido nº 1 (Meu doce fado és tão triste)», gravado por Manassés de Lacerda, por 1905, no 78 rpm Gramophone 62139",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+          "doc": "gc-i:113303176582708596",
+          "citacao": "Fado Corrido nº 1 (Meu doce fado és tão triste): gravado por Manasses, por 1905, no 78 rpm Gramophone 62139."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+      "doc": "gc-i:113303176582708596",
+      "citacao": "Fado Corrido nº 1 (Meu doce fado és tão triste): gravado por Manasses, por 1905, no 78 rpm Gramophone 62139."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

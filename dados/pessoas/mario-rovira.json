@@ -6,8 +6,164 @@
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/grupo-razes-de-coimbra-em-av-integrado.html",
+      "doc": "gc-i:9108416061494472635",
+      "citacao": "Este grupo, constituído por Octávio Sérgio e Alcides Freixo nas guitarras, Humberto Matias na viola e com os cantores Mário Rovira e Heitor Lopes, é o habitual Grupo de Fados dos Antigos Tunos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/mrio-rovira-vai-expor-um-conjunto-de.html",
+      "doc": "gc-i:6687081001874883486",
+      "citacao": "Mário Rovira vai expor um conjunto de quadros a óleo de figuras que sobressairam na guitarra e na viola de Coimbra."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/mario-rovira-canta-inquietacao-num.html",
+      "doc": "gc-iv:3746252082114566323",
+      "citacao": "Mário Rovira canta \"Inquietação\", num espectáculo dos Antigos Tunos em Pombal, no dia 20-9-2008, acompanhado pelo grupo Raízes de Coimbra"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/12/faleceu-arquimedes-da-silva-santos-1921.html",
+      "doc": "gc-v:1961548258762611587",
+      "citacao": "existe uma reconstituição feita pelo cantor Mário Rovira com acompanhamento do grupo Raízes de Coimbra, vídeo editado por Octávio Sérgio em 12.01.2019, https://www.youtube.com/watch?v=vJqQFfgj66k, tendo Octávio Sérgio como solista. Registo sonoro no CD Fado de Coimbra, fados e guitarradas, Volume 2, Coimbra, [edição] Fado ao Centro, 2012, faixa 19."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+      "doc": "gc-v:356613865380152505",
+      "citacao": "Alinhamento do grupo Raízes de Coimbra: Santarém, 4 de Julho de 2025 ... Fado das minhas penas - Mário Rovira ... Vira de Coimbra - Mário Rovira"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Canta no grupo de «Fados» dos Antigos Tunos da Universidade de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-na-mealhada-_113069028479990980.html",
+          "doc": "gc-i:113069028479990980",
+          "citacao": "Antigos Tunos na Mealhada, ontem. Canta Mário Rovira. Foto de Armando Duarte."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antigos-tunos-na-pvoa-cs-alcobaa.html",
+          "doc": "gc-i:114148780547243408",
+          "citacao": "Antigos Tunos na Póvoa - Cós, Alcobaça. Ensaio do grupo de \"Fados\": Mário Rovira, Victor Nunes e Heitor Lopes a cantar; Humberto Matias (v) e Octávio Sérgio (g)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Posts de 30-10-2005 e 4-03-2006. A ficha do grupo Raízes de Coimbra regista também o nome «Grupo de Fados dos Antigos Tunos»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pintura: exposição de quadros a óleo com retratos de cultores da guitarra e da viola de Coimbra, inaugurada na Casa da Cultura",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/mrio-rovira-vai-expor-um-conjunto-de.html",
+          "doc": "gc-i:6687081001874883486",
+          "citacao": "Mário Rovira vai expor um conjunto de quadros a óleo de figuras que sobressairam na guitarra e na viola de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/exposio-de-pintura-de-mrio-rovira-ontem.html",
+          "doc": "gc-i:8592434567742793263",
+          "citacao": "Exposição de pintura de Mário Rovira, ontem inaugurada com pompa e circunstância, na Casa da Cultura, com a presença de Carlos Encarnação (Presidente da Câmara) e Mário Nunes (Vereador da Cultura). Foram retratados os seguintes cultores da guitarra e da viola de Coimbra:"
+        }
+      ],
+      "conflito": false,
+      "nota": "Posts de 15 e 16-11-2007; o segundo enumera os cultores retratados."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Inquietação» num espetáculo dos Antigos Tunos em Pombal, acompanhado pelo grupo Raízes de Coimbra",
+      "data": "2008-09-20",
+      "local": "Pombal",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/03/mario-rovira-canta-inquietacao-num.html",
+          "doc": "gc-iv:3746252082114566323",
+          "citacao": "Mário Rovira canta \"Inquietação\", num espectáculo dos Antigos Tunos em Pombal, no dia 20-9-2008, acompanhado pelo grupo Raízes de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post tem o vídeo da atuação."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Exaltação», de Miguel Torga e João Branco, acompanhado pelo conjunto instrumental dos Raízes de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/exaltacao-de-miguel-torga-e-joao-branco.html",
+          "doc": "gc-iii:46785054367536424",
+          "citacao": "\"Exaltação\", de Miguel Torga e João Branco, cantado por Mário Rovira, acompanhado pelo conjunto instrumental do \"Raízes de Coimbra\", com Octávio Sérgio, José Ourives, Alcides Freixo, Humberto Matias e Armando Luís de Carvalho Homem."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post (março de 2010) tem o vídeo da atuação."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Reconstituição da Balada de Despedida do V Ano Médico de 1948-1949, com o grupo Raízes de Coimbra: faixa 19 do CD «Fado de Coimbra, fados e guitarradas, Volume 2» (Fado ao Centro, 2012)",
+      "data": "2012",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/12/faleceu-arquimedes-da-silva-santos-1921.html",
+          "doc": "gc-v:1961548258762611587",
+          "citacao": "Foi autor da letra da Balada de Despedida do V Ano Médico de 1948-1949, com música de Manuel Raposo Marques ... existe uma reconstituição feita pelo cantor Mário Rovira com acompanhamento do grupo Raízes de Coimbra ... Registo sonoro no CD Fado de Coimbra, fados e guitarradas, Volume 2, Coimbra, [edição] Fado ao Centro, 2012, faixa 19."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Discogs dá 2011 para este CD (ver a ficha da gravação fado-ao-centro-fados-e-guitarradas-vol-2-2011)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Balada De Despedida Do 5º Ano De Medicina 1948 / 49», faixa 1-19 do CD duplo «Fado De Coimbra (Fados & Guitarradas Volume 2)», Fado Ao Centro, 2011",
+      "data": "2011",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10872795",
+          "doc": "discogs:waedde0e700c4b9e8",
+          "citacao": "Título: Fado De Coimbra (Fados & Guitarradas Volume 2) ... Editora: Fado Ao Centro – none ... Data: 2011 ... 1-19 Balada De Despedida Do 5º Ano De Medicina 1948 / 49 — Mário Rovira 3:43"
+        }
+      ],
+      "conflito": true,
+      "nota": "O blogue (gc-v:1961548258762611587) dá 2012."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata monumental de Santarém, com o grupo Raízes de Coimbra: canta «Fado das minhas penas» e «Vira de Coimbra»",
+      "data": "2025-07-04",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/aconteceu-em-santarem.html",
+          "doc": "gc-v:356613865380152505",
+          "citacao": "Cartaz da «Serenata monumental de Santarém», que teve lugar em Santarém no dia 4 de julho. ... Alinhamento do grupo Raízes de Coimbra: Santarém, 4 de Julho de 2025 ... Fado das minhas penas - Mário Rovira ... Vira de Coimbra - Mário Rovira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -24,6 +180,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2017/09/ecos-do-espetaculo-de-evocacao-da-vida.html",
           "doc": "gc-v:906810479970597771",
           "citacao": "Raízes de Coimbra (Octávio Sérgio, Paulo Alexandre,\nArmando Luís de Carvalho Homem, Rui Pato, Humberto Matias, Heitor Lopes, Mário\nRovira)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/raizes-de-coimbra.html",
+          "doc": "gc-v:8391288124811939979",
+          "citacao": "Caricaturas de José Maria Oliveira de cinco elementos do grupo Raízes de Coimbra. De cima para baixo: Rui Pato, Heitor Lopes, Mário Rovira Nuno Oliveira e Humberto Matias."
         }
       ],
       "nota": "voz; 2007-2017"
@@ -42,7 +204,32 @@
       "nota": "voz"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1020529.jpg",
+      "legenda": "Antigos Tunos na Mealhada. Canta Mário Rovira. Foto de Armando Duarte.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-na-mealhada-_113069028479990980.html",
+          "doc": "gc-i:113069028479990980",
+          "citacao": "Antigos Tunos na Mealhada, ontem. Canta Mário Rovira. Foto de Armando Duarte."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzXstfYIYlmVYX_xevrakS8J4vBqn5CHFksZTTyHL7bRL_DSvWMh9gp37qmAD-DyNIH1XuROdoqHlM16ufxheUb5veP_rq1mZo41mReTZ-g5cwr2ed4Me6nuOzaLg4nE7lZ8fORO7Z5kTb/s1600/MRoviraCARICATURA+ZM.jpg",
+      "legenda": "Caricatura de Mário Rovira por José Maria Oliveira (desenho), numa série de caricaturas de elementos do grupo Raízes de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/raizes-de-coimbra.html",
+          "doc": "gc-v:8391288124811939979",
+          "citacao": "Caricaturas de José Maria Oliveira de cinco elementos do grupo Raízes de Coimbra. De cima para baixo: Rui Pato, Heitor Lopes, Mário Rovira Nuno Oliveira e Humberto Matias."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

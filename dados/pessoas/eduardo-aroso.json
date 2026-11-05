@@ -8,8 +8,208 @@
     "compositor",
     "poeta"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+      "doc": "gc-i:112284538101742504",
+      "citacao": "Eduardo Aroso nasceu em Coimbra, no ano de 1952. Diplomou-se com o Curso do Magistério Primário (1973), iniciando estudos de música, do autodidactismo ao Conservatório de música e vice-versa. Posteriormente, licenciou-se no Ensino de Música do Ensino Básico."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "E tudo começou em 1972! ... José Carlos Teixeira, ao tempo caloiro de Engenharia na FCTUC, conheceu Eduardo Aroso, que já vinha exercitando a viola, nomeadamente nas atividades da FNAT."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "Em 1973, e com o regresso do Álvaro Aroso a Coimbra (tinha passado algum tempo em Lisboa), ficou constituído o primeiro conjunto instrumental da Tertúlia do Fado de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-de-poesia-habitante-sensvel-de.html",
+      "doc": "gc-i:111715678329620217",
+      "citacao": "O autor é componente do Grupo de Estudos Figueira da Foz (Gresfoz), integrado no qual participou, por convite da Associacion Prometeo de Poesia Nueva de Madrid, em: Homenagem a Camões e Miguel Torga (Coimbra, 1980)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+      "doc": "gc-i:112284538101742504",
+      "citacao": "Foi regente do Coro de Professores de Coimbra, co-fundador da Academia Monteverdi e da Tertúlia do Fado de Coimbra, na qual, durante 30 anos, vem mantendo actividade ininterrupta. Autor de várias obras musicais, repartidas por canções didácticas e outras, fados/baladas e estudos para guitarra clássica e guitarra portuguesa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 1952",
+      "data": "1952",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Eduardo Aroso nasceu em Coimbra, no ano de 1952."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de abertura do livro «A Quinta Nau» (Gresfoz, 2003), transcrito no GC I."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso do Magistério Primário (1973); estudos de música, do autodidatismo ao Conservatório; licenciatura no Ensino de Música do Ensino Básico",
+      "data": "1973",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Diplomou-se com o Curso do Magistério Primário (1973), iniciando estudos de música, do autodidactismo ao Conservatório de música e vice-versa. Posteriormente, licenciou-se no Ensino de Música do Ensino Básico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de Educação Musical do quadro da Escola Ferrer Correia (em 2003)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Actualmente é professor de Educação Musical do Quadro da Escola Ferrer Correia."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Actualmente» refere-se ao texto do livro «A Quinta Nau» (2003)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Regente do Coro de Professores de Coimbra; cofundador da Academia Monteverdi e da Tertúlia do Fado de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Foi regente do Coro de Professores de Coimbra, co-fundador da Academia Monteverdi e da Tertúlia do Fado de Coimbra, na qual, durante 30 anos, vem mantendo actividade ininterrupta."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor de canções didáticas, fados e baladas e estudos para guitarra clássica e guitarra portuguesa; membro da Sociedade Portuguesa de Autores",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Autor de várias obras musicais, repartidas por canções didácticas e outras, fados/baladas e estudos para guitarra clássica e guitarra portuguesa. É membro da Sociedade Portuguesa de Autores."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/valsa-do-ms-de-maio.html",
+          "doc": "gc-i:111025361078627909",
+          "citacao": "\"Valsa do mês de Maio\". Peça para Guitarra de Eduardo Aroso, com acompanhamento de viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/mrio-silva-eleito-personalidade-do-ano.html",
+          "doc": "gc-i:112208391938409139",
+          "citacao": "a interpretar \"Lieds eruditos de Coimbra\", peças dos poetas Fernando Pessoa, Miguel Torga, António Arnaut e António Reis Santos, musicadas por Eduardo Aroso e uma pelo seu irmão Álvaro Aroso."
+        }
+      ],
+      "conflito": false,
+      "nota": "A partitura da «Valsa do Mês de Maio» foi publicada no GC I em 2005, em várias partes."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cofundador do Gresfoz – Grupo de Estudos Figueira da Foz (1983)",
+      "data": "1983",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Co-fundador do Gresfoz – Grupo de Estudos Figueira da Foz – 1983"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Poesia: «A Poesia vai à Escola» (1980), «Poemas do Arquétipo» (Gresfoz, 1990), «O Olhar da Serra» (Gresfoz, 1995), «Habitante Sensível» (Universitária Editora, 1997)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "A Poesia vai à Escola (ed. de autor; obra adquirida pela Fundação Calouste Gulbenkian); 1980. Poemas do Arquétipo (ed. Gresfoz); 1990. O Olhar da Serra (ed. Gresfoz); 1995 Habitante Sensível (Universitária Editora, Lisboa); 1997."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/livro-de-poesia-o-olhar-da-serra-de.html",
+          "doc": "gc-i:111418433816501048",
+          "citacao": "Livro de poesia \"O Olhar da Serra\", de Eduardo Aroso, saído em 1995."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-de-poesia-habitante-sensvel-de.html",
+          "doc": "gc-i:111715678329620217",
+          "citacao": "Livro de poesia \"Habitante sensível\" de Eduardo Aroso, da Universitária Editora, saído em 1997."
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista de obras do livro «A Quinta Nau» (2003), transcrita no GC I."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Ensaio «A Guitarra Portuguesa – Aproximações Histórico-Musicais à sua Génese e Fixação em Portugal» (Gresfoz, 2000)",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Ensaio ... A Guitarra Portuguesa – Aproximações Histórico-Musicais à sua Génese e Fixação em Portugal (ed. Gresfoz); 2000."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Poesia: «A Quinta Nau» (Edições Gresfoz, 2003)",
+      "data": "2003",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/livro-de-poesia-de-eduardo-aroso.html",
+          "doc": "gc-i:112284538101742504",
+          "citacao": "Livro de poesia de Eduardo Aroso, \"A Quinta Nau\", das Edições Gresfoz, saído no ano de 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -35,9 +235,87 @@
         }
       ],
       "nota": "viola; fundador, 1972-1994"
+    },
+    {
+      "tipo": "irmao_de",
+      "alvo": "alvaro-aroso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/mrio-silva-eleito-personalidade-do-ano.html",
+          "doc": "gc-i:112208391938409139",
+          "citacao": "musicadas por Eduardo Aroso e uma pelo seu irmão Álvaro Aroso."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/jose-miguel-baptista-canta-madrugadas.html",
+          "doc": "gc-iii:8602390141706813915",
+          "citacao": "José Miguel Baptista canta \"Madrugadas Silentes\", no programa televisivo de Sansão Coelho, Cantos e Contos de Coimbra, de 1982, acompanhado por Álvaro Aroso e Carlos Teixeira em guitarra, Eduardo Aroso em viola."
+        }
+      ],
+      "nota": "viola, no programa «Cantos e Contos de Coimbra» (1982)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "victor-nunes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/victor-nunes-canta-ondas-do-mar-no.html",
+          "doc": "gc-iii:6895749085397430707",
+          "citacao": "Victor Nunes canta \"Ondas do Mar\", no programa Coimbra Musical de Rui Ramos, de 1978, acompanhado por Álvaro Aroso e Carlos Teixeira em guitarra, Eduardo Aroso em viola."
+        }
+      ],
+      "nota": "viola, no programa «Coimbra Musical» (1978)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "joaquim-matos",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/joaquim-matos-canta-fado-das-romarias.html",
+          "doc": "gc-iii:2630644008839012895",
+          "citacao": "Joaquim Matos canta Fado das Romarias, no programa Coimbra Musical da RTP Memória, de 1978. É acompanhado por Álvaro Aroso, Carlos Teixeira e Eduardo Aroso."
+        }
+      ],
+      "nota": "no programa «Coimbra Musical» (1978)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "nuno-de-carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/nuno-de-carvalho-canta-balada-do.html",
+          "doc": "gc-iii:7883428809616593904",
+          "citacao": "Nuno de Carvalho canta \"Balada do Entardecer\", no programa de Sansão Coelho, de 1982, Cantos e Contos de Coimbra. É acompanhado por Álvaro Aroso e Carlos Teixeira, em guitarra e Eduardo Aroso em viola."
+        }
+      ],
+      "nota": "viola, no programa «Cantos e Contos de Coimbra» (1982)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/E%20Aroso%20e%20Polibio.jpg",
+      "legenda": "Eduardo Aroso, ladeado por Polybio Serra e Silva, a ler um texto do grupo «Os Quatro Elementos» no segundo dia das III Jornadas de Temática Musical promovidas pela AATUC.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/segundo-dia-das-iii-jornad_113123612370419625.html",
+          "doc": "gc-i:113123612370419625",
+          "citacao": "Segundo dia das III Jornadas de Temática Musical promovidas pela AATUC. Eduardo Aroso, ladeado por Polybio Serra e Silva, está a ler um texto elaborado pelo Grupo \"Os Quatro Elementos\""
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

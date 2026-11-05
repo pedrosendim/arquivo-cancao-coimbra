@@ -3,10 +3,12 @@
   "tipo": "pessoa",
   "nome": "Peres de Vasconcelos",
   "nomes_alternativos": [
-    "Miguel A. Peres de Vasconcelos"
+    "Miguel A. Peres de Vasconcelos",
+    "Miguel Augusto Peres de Vasconcelos"
   ],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
   "biografia": [
     {
@@ -20,6 +22,30 @@
       "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
       "doc": "gc-i:113908184282626130",
       "citacao": "No final da década de 1920 (ano de 1928) gravou discos para a editora Columbia"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/peres-de-vasconcelos.html",
+      "doc": "gc-iv:6489852679150606282",
+      "citacao": "Peres de Vasconcelos tem a sua guitarra de juventude no Museu Académico de Coimbra e deixou gravado pelo menos um disco de 78rpm antes de 1930 com peças instrumentais de marcado toque arcaizante."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+      "doc": "gc-v:8559117907437236213",
+      "citacao": "Guitarrista, autor de composições e arranjos, com discos gravados, em 1933 era professor de Matemática no Liceu Fernão de Magalhães, na cidade de Chaves, tendo sido transferido nesse mesmo ano como membro da comissão instaladora do Liceu Infante Sagres, inaugurado em Portimão."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+      "doc": "gc-v:8559117907437236213",
+      "citacao": "Em junho de 1951 [proximamente dia 6] o Dr. Miguel Augusto Peres de Vasconcelos tocou solos de guitarra de Coimbra no sarau comemorativo do 1.º centenário da fundação do Liceu de Aveiro, acompanhado à viola pelos Drs. João Rigueira e João Vieira Gamelas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+      "doc": "gc-v:8559117907437236213",
+      "citacao": "Na década de 1960 residia em Lourenço Marques e exercia funções como reitor do Liceu António Enes, aparecendo em várias fotografias de memórias partilhadas na internet. Não se sabe em que data faleceu nem se regressou a Portugal."
     }
   ],
   "factos": [
@@ -38,6 +64,151 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Miguel Augusto Peres de Vasconcelos",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/peres-de-vasconcelos.html",
+          "doc": "gc-iv:6489852679150606282",
+          "citacao": "Foto de antigo estudante de Coimbra e executante de guitarra Miguel Augusto Peres de Vasconcelos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+          "doc": "gc-v:8559117907437236213",
+          "citacao": "o Dr. Miguel Augusto Peres de Vasconcelos tocou solos de guitarra de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Antigo estudante da Universidade de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Miguel A. Peres de Vasconcelos, antigo estudante da UC e executante de guitarra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os posts não dizem que curso frequentou."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Ensino liceal: reitor do Liceu de Viseu (inícios da década de 1930), do Liceu de Lourenço Marques e do Liceu de Guimarães (com ponto de interrogação na fonte)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Após a conclusão do curso dedicou-se ao ensino liceal, tendo desempenhado o cargo de Reitor no Liceu de Viseu (inícios da década de 1930), Liceu de Lourenço Marques e Liceu de Guimarães (?)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António Manuel Nunes (2006). Em 2011 o mesmo autor tinha só «notícia não confirmada» de que teria lecionado no Liceu de Viseu (gc-iv)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de Matemática no Liceu Fernão de Magalhães, em Chaves (1933); no mesmo ano, membro da comissão instaladora do Liceu Infante Sagres, em Portimão; na década de 1960, reitor do Liceu António Enes, em Lourenço Marques",
+      "data": "1933",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+          "doc": "gc-v:8559117907437236213",
+          "citacao": "em 1933 era professor de Matemática no Liceu Fernão de Magalhães, na cidade de Chaves, tendo sido transferido nesse mesmo ano como membro da comissão instaladora do Liceu Infante Sagres, inaugurado em Portimão. Na década de 1960 residia em Lourenço Marques e exercia funções como reitor do Liceu António Enes"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/peres-de-vasconcelos.html",
+          "doc": "gc-iv:6489852679150606282",
+          "citacao": "Nesta foto aparece identificado como Reitor do Liceu António Enes, sito em Lourenço Marques/Maputo, durante o baile dos finalistas de 1965."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de António Manuel Nunes (2024 e 2011)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Solos de guitarra de Coimbra no sarau do 1.º centenário do Liceu de Aveiro (junho de 1951), acompanhado à viola por João Rigueira e João Vieira Gamelas",
+      "data": "1951-06",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/09/uma-atuacao-de-peres-de-vasconcelos-em.html",
+          "doc": "gc-v:8559117907437236213",
+          "citacao": "Em junho de 1951 [proximamente dia 6] o Dr. Miguel Augusto Peres de Vasconcelos tocou solos de guitarra de Coimbra no sarau comemorativo do 1.º centenário da fundação do Liceu de Aveiro, acompanhado à viola pelos Drs. João Rigueira e João Vieira Gamelas."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post indica «proximamente dia 6»."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra toeira de Coimbra de 17 trastos, da oficina do violeiro Raul Simões (anos 20), a sua guitarra de juventude, depositada no Museu Académico de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Guitarra Toeira de Coimbra, com escala de 17 trastos ligeiramente abaulada, voluta oval clássica, decoração austera, ilharga baixa (6 cms ao atadilho, 5 cms ao cepo), proveniente da oficina do violeiro Raul Simões. Cordofone tipicamente anos 20. Facto insólito, apresenta dois cavaletes."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/peres-de-vasconcelos.html",
+          "doc": "gc-iv:6489852679150606282",
+          "citacao": "Peres de Vasconcelos tem a sua guitarra de juventude no Museu Académico de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2006 publica uma fotografia da guitarra depositada no Museu Académico."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Columbia J 858 («Variações em Dó Sustenido Menor», de Peres de Vasconcelos; «Variações em Lá Menor») e Columbia J 829 («Variações Sobre o Fado em Ré Menor»; «Variações em Fá Menor»), solos de guitarra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarra-de-peres-de-vasconcelos.html",
+          "doc": "gc-i:113908184282626130",
+          "citacao": "Variações em Dó Sustenido Menor, de Peres de Vasconcelos. Solo de guitarra por P. de Vasconcelos, Columbia J 858 P 330; -Variações em Lá Menor (referido como popular), Columbia J 858 P 229; -Variações Sobre o Fado em Ré Menor, Columbia J 829 P 297; -Variações em Fá Menor, Columbia J 829 P 298."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1921/miguel_a_peres_de_vasconcelos_variacoes_sobre_o_fado_em_re_menor",
+          "doc": "museu-do-fado:w3f14bc5ef81e9436",
+          "citacao": "Etiqueta: Variações sobre o fado em ré menor / (composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de / guitarra e viola"
+        }
+      ],
+      "conflito": false,
+      "nota": "Discos inventariados no post de António Manuel Nunes (2006); a ficha do Arquivo Sonoro do Museu do Fado (Co.J829) atribui-lhe a composição das «Variações sobre o fado em ré menor»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Columbia J 825: «Fado da Severa (Variações)» e «Variações em mi menor», composições suas, em solo de guitarra; na segunda, com acompanhamento de viola de Mário Fonseca",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1919/miguel_a_peres_de_vasconcelos_fado_da_severa_variacoes",
+          "doc": "museu-do-fado:w297bc5d90351506d",
+          "citacao": "Editora: Co.J825 ... Etiqueta: Fado da Severa (Variações) / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / Com acompanhamento de / guitarra e viola"
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/1920/miguel_a_peres_de_vasconcelos_variacoes_em_mi_menor",
+          "doc": "museu-do-fado:w04c13c1e416db40c",
+          "citacao": "Editora: Co.J825 ... Etiqueta: Variações em Mi menor / (Composição de Miguel A. Peres de Vasconcelos) / Solo de guitarra Miguel A. Peres de Vasconcelos / com acompanhamento de / viola (Mário Fonseca)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Fichas do Arquivo Sonoro do Museu do Fado. O post do gc-i (2006) dizia que não estava identificado o violista que gravou com ele (nos discos J 858 e J 829)."
     }
   ],
   "relacoes": [],

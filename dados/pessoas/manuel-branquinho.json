@@ -7,10 +7,536 @@
   ],
   "papeis": [
     "cantor",
-    "guitarrista"
+    "guitarrista",
+    "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+      "doc": "gc-v:7851605342237403874",
+      "citacao": "Viveu na cidade de Coimbra dos 4 aos 22 anos, ou seja de 1933 a 1952. Matriculou-se no Liceu D. João III, em Coimbra, no ano de 1940, na mesma altura que José Afonso (1929 – 1987), seu condiscípulo da mesma idade, de quem foi amigo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+      "doc": "gc-v:7319636902635719332",
+      "citacao": "O próprio cartão confirma como data de 1ª inscrição na TAUC o ano letivo de 1943-1944, informação que Manuel Branquinho nos corroborou em entrevista na sua residência de Braga a 11.09.1998, na qual referiu pelo menos duas vezes que entrara para a TAUC como violinista pelos catorze anos de idade"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+      "doc": "gc-v:7851605342237403874",
+      "citacao": "Ainda estudante liceal, começa a aprender a tocar viola, e depois guitarra, com o barbeiro Flávio Rodrigues da Silva (1902 – 1950), que ensinou muitos e muitos estudantes, na sua barbearia da Velha Alta. Manuel Branquinho, aprendeu com facilidade a tocar guitarra, e já ensinava os mais novos, quando jovem estudante de Direito, pelos anos de 1948 a 1951."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+      "doc": "gc-v:7851605342237403874",
+      "citacao": "Com apenas 20 anos, vai integrar em 1949, o “Grupo de Fados e Guitarradas de Coimbra”, na deslocação do Orfeon a África (Angola e Moçambique), que durou os três meses, das férias grandes desse ano."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+      "doc": "gc-v:2760474974079693510",
+      "citacao": "A sua ida ao Brasil em 1951, tem 22 anos, marca profundamente a sua vida. No ano seguinte volta ao Brasil, por lá fica muitos anos"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+      "doc": "gc-i:111559689216335368",
+      "citacao": "Regressado do Brasil em 1966, Manuel Duarte Branquinho retomou o Curso de Direito e reingressou no Orfeon Académico, onde rapidamente subiu a solista 1.º tenor e Presidente da Assembleia-Geral."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+      "doc": "gc-v:7319636902635719332",
+      "citacao": "A residir em Lisboa, entre 1972-1977, Manuel Branquinho fez atuações frequentes em casas de fados. Por volta de 1975 gravou um EP com um grupo de fadistas e em 1977 gravou um LP em que assegurou sozinho voz, guitarras e violas."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Manuel Duarte Branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+          "doc": "gc-v:2760474974079693510",
+          "citacao": "MANUEL Duarte BRANQUINHO nasceu em Condeixa-a-Velha"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/manuel-duarte-branquinho-1-cantor-e.html",
+          "doc": "gc-i:113553766972857717",
+          "citacao": "Manuel Duarte Branquinho (1): cantor e guitarrista"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Condeixa-a-Velha, Coimbra, 25 de março de 1929",
+      "data": "1929-03-25",
+      "local": "Condeixa-a-Velha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+          "doc": "gc-v:2760474974079693510",
+          "citacao": "MANUEL Duarte BRANQUINHO nasceu em Condeixa-a-Velha, Coimbra, a 25 de Março de 1929"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Faz hoje, dia 25 de Março de 2013, 84 anos que MANUEL DUARTE BRANQUINHO, nasceu em Condeixa-a-Velha, Coimbra, no ano de 1929."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Branquinho (Condeixa, 25/03/1929; Braga, 1999)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/03/manuel-branquinho-completaria-70-anos.html",
+          "doc": "gc-ii:8402734339849024404",
+          "citacao": "Manuel Branquinho completaria 80 anos na última quarta-feira, 25 de Março."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão do local: «Condeixa-a-Nova» (gc-i:113553766972857717). A cronologia (gc-i:116638481779194072) diz só «Condeixa»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Condeixa-a-Nova, 1929",
+      "data": "1929",
+      "local": "Condeixa-a-Nova",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/manuel-duarte-branquinho-1-cantor-e.html",
+          "doc": "gc-i:113553766972857717",
+          "citacao": "Nasceu em Condeixa-a-Nova no ano de 1929 e faleceu em Braga em 1999."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de António M. Nunes (2005). Outra versão do local: «Condeixa-a-Velha» (gc-v:2760474974079693510 e gc-v:7851605342237403874)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Braga, 8 de fevereiro de 1999",
+      "data": "1999-02-08",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+          "doc": "gc-v:2760474974079693510",
+          "citacao": "faleceu em Braga a 8 de Fevereiro de 1999."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Faleceu em Braga, a 8 de Fevereiro de 1999."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/manuel-duarte-branquinho-1-cantor-e.html",
+          "doc": "gc-i:113553766972857717",
+          "citacao": "faleceu em Braga em 1999."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Branquinho (Condeixa, 25/03/1929; Braga, 1999)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão: 1989 (Armando Luís de Carvalho Homem, gc-i:111559689216335368)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1989",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Manuel Branquinho (1929-1989)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Armando Luís de Carvalho Homem, reproduzido no blogue em 2005. Outra versão: Braga, 8 de fevereiro de 1999 (vários textos do blogue)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, de 1933 a 1952 (dos 4 aos 22 anos)",
+      "data": "1933",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Viveu na cidade de Coimbra dos 4 aos 22 anos, ou seja de 1933 a 1952."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III, em Coimbra (matrícula em 1940), condiscípulo de José Afonso",
+      "data": "1940",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Matriculou-se no Liceu D. João III, em Coimbra, no ano de 1940, na mesma altura que José Afonso (1929 – 1987), seu condiscípulo da mesma idade, de quem foi amigo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Direito: ficou-se pelo terceiro ano incompleto ao emigrar para o Brasil (1952); voltou a Coimbra em 1966 para o acabar",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Em 1952, decide emigrar para o Brasil, ficando-se pelo terceiro ano incompleto, do curso de Direito. Regressa com a família no ano de 1966, volta a Coimbra para acabar o curso, e ali permanece até 1972."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Regressado do Brasil em 1966, Manuel Duarte Branquinho retomou o Curso de Direito"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão: o curso foi «interrompido no seu início» com a viagem ao Brasil (gc-v:2760474974079693510). Um cartão da TAUC de 14-11-1952 dá-o como «aluno inscrito no 1º ano (?) da FD/UC» (gc-v:7319636902635719332)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Direito interrompido no seu início com a viagem ao Brasil; terminado anos mais tarde, depois do regresso",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+          "doc": "gc-v:2760474974079693510",
+          "citacao": "O curso de Direito interrompido no seu início, quando desta viagem ... Só seria a ser terminado anos mais tarde após o regresso de Manuel Branquinho a Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (2014). Outra versão: «terceiro ano incompleto» (gc-v:7851605342237403874)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro da Tuna Académica da Universidade de Coimbra (1943-1952), onde entrou como violinista",
+      "data": "1943",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Foi também membro da Tuna Académica da Universidade de Coimbra, de 1943 a 1952."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "O próprio cartão confirma como data de 1ª inscrição na TAUC o ano letivo de 1943-1944"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Duarte Branquinho estreia-se no naipe dos violinos da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia (gc-i:116638481779194072) a estreia nos violinos figura sob o ano de 1943."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do Orfeon Académico de Coimbra (1948-1952 e 1966-1972), onde chegou a solista 1.º tenor e Presidente da Assembleia-Geral",
+      "data": "1948",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Durante o seu período estudantil, foi membro do Orfeon Académico, de 1948 a 1952, e depois de um interregno de 14 anos, regressa ao Orfeon, onde fica de 1966 a 1972."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "reingressou no Orfeon Académico, onde rapidamente subiu a solista 1.º tenor e Presidente da Assembleia-Geral."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Dá «aulas de guitarra» na sua residência à Couraça dos Apóstolos, a 25 centavos por minuto",
+      "data": "1945",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Branquinho dá “aulas de guitarra” na sua residência à Couraça dos Apostólos, a 25 centavos por minuto."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "No prédio da Couraça, Manuel Branquinho ainda deu aulas de guitarra a iniciados, tendo praticado preços que na altura foram considerados escandalosos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia (gc-i:116638481779194072) a entrada figura sob o ano de 1945. Outro texto (gc-v:7851605342237403874) diz que «já ensinava os mais novos, quando jovem estudante de Direito, pelos anos de 1948 a 1951»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon a Angola e Moçambique (1949, três meses), no «Grupo de Fados e Guitarradas de Coimbra», com Almeida Santos (guitarra), Tavares de Melo (viola) e os cantores Anarolino Fernandes, José Afonso e Napoleão Amorim",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "O grupo era constituído por Manuel Branquinho e Almeida Santos, nas guitarras, na viola Tavares de Melo, e os cantores de serviço eram o Anarolino Fernandes, José Afonso, Napoleão Amorim"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Agosto o Orfeon deslocou-se em digressão a Angola e Moçambique durante três meses. ... O grupo oficial era formado por Manuel Branquinho/Almeida Santos, Tavares de Melo e Anarolino Fernandes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia a entrada figura sob o ano de 1949."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do TEUC ao Brasil (verão de 1951), com Tavares de Melo (viola) e os cantores Camacho Vieira e Napoleão Amorim",
+      "data": "1951",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/manuel-branquinho.html",
+          "doc": "gc-v:2760474974079693510",
+          "citacao": "Nesse grupo foram o Manuel Branquinho na guitarra, Tavares de Melo (1924 – 1992) na viola, os cantores Camacho Vieira (n. 1924) e Napoleão Amorim (n. 1924)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "depois da digressão efetuada com o TEUC no verão de 1951"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Brasil, de 1952 a 1966",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Em 1952, decide emigrar para o Brasil ... Regressa com a família no ano de 1966"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (2013). Outra versão, mais adiante no mesmo post: «só regressa a Portugal com a família, passados que foram 14 anos. Estamos no ano de 1962.» O texto de Armando Luís de Carvalho Homem (gc-i:111559689216335368) diz «Regressado do Brasil em 1966»."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Brasil, de 1952 a 1962 (regresso a Portugal com a família «passados que foram 14 anos»)",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Em 1952, decide emigrar para o Brasil ... só regressa a Portugal com a família, passados que foram 14 anos. Estamos no ano de 1962."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (2013). O mesmo post diz antes «Regressa com a família no ano de 1966» e, no mesmo parágrafo desta frase, que interrompeu o curso de Direito, «a que só voltará em 1966»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "No Rio de Janeiro, fundador, guitarrista solista e cantor do grupo «Os Trovadores de Coimbra» (décadas de 1950-1960)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Se não erramos (passados que são quase vinte anos), Branquinho informou que no Rio de Janeiro foi fundador, guitarrista solista e cantor de um grupo musical designado Os Trovadores de Coimbra. Esta formação terá mantido atividade no Brasil e na América Latina nas décadas de 1950-1960."
+        }
+      ],
+      "conflito": false,
+      "nota": "Informação dada pelo próprio em entrevista (Braga, 11-09-1998), com a reserva do autor do post («Se não erramos»)."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra de Coimbra da oficina João Pedro Grácio Júnior, que levou para o Brasil; em 1964 comprou outra guitarra a Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Manuel Branquinho tinha uma guitarra de Coimbra da oficina João Pedro Grácio Júnior, que levara para o Brasil. Em 1964, numa passagem por Portugal, comprou outra guitarra a Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco de 78 rpm gravado no Brasil (verão de 1951), com Eduardo Tavares de Melo (viola) e Augusto Camacho Vieira (voz), que se julga não ter sido lançado comercialmente",
+      "data": "1951",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Aquando da sua 1ª deslocação ao Brasil no verão de 1951, Manuel Branquinho (gC), Eduardo Tavares de Melo (v) e Augusto Camacho Vieira (voz) gravaram um disco de 78 que julgamos não ter sido lançado no circuito comercial."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Manuel Branquinho, Coimbra, Algarve» (Rio de Janeiro, Som Indústria e Comércio SA, S-1.004, 1961), como cantor e guitarrista solista de Os Trovadores de Coimbra",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Em 1961, Branquinho voltou a gravar como cantor e guitarrista solista de Os Trovadores de Coimbra. ... LP MANUEL BRANQUINHO, COIMBRA, ALGARVE, Rio de Janeiro, Som Indústria e Comércio SA, S-1.004, ano de 1961"
+        }
+      ],
+      "conflito": false,
+      "nota": "Referência anotada pelo autor do post em 1998."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP como cantor, com Luís Plácido, José Delgado e Fernando Plácido (inclui «Fado Manassés» e «Balada do Encantamento»), depois do regresso do Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "gravou um EP com Luís Plácido / José Delgado / Fernando Plácido (inclui, por exemplo, «Fado Manassés» e «Balada do Encantamento»)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou «Morena dos Meus Abrolhos», de João de Oliveira Anjo (letra e música de 1943)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "João de Oliveira Anjo faz divulgar Morena dos Meus Abrolhos (letra e música: 1943), posteriormente gravada por Manuel Branquinho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Por volta de 1975, EP com um grupo de fadistas; em 1977, LP em que assegurou sozinho voz, guitarras e violas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Por volta de 1975 gravou um EP com um grupo de fadistas e em 1977 gravou um LP em que assegurou sozinho voz, guitarras e violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "A confirmar pelo editor: a lista de José Niza transcrita em gc-v:7851605342237403874 dá um EP de 1976 e um LP de 1978; podem ser os mesmos discos, com anos diferentes. Nenhum dos posts o diz."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo José Niza, 20 fonogramas das etiquetas Orfeu e Imavox: «Fados de Coimbra» (EP, 1967), «Fados de Coimbra» (12 EP, 1968), «Fados de Coimbra» (5 LP, 1966, 1967, 1968 e 1969), «Fados de Coimbra» (EP, 1976) e «Fados de Coimbra» (LP, 1978)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Gravou muitos discos, como guitarrista e como cantor. Segundo José Niza, contam-se 20 fonogramas de etiquetas Orfeu e Imavox, que resumidamente se enunciam: - Fados de Coimbra (EP – 1967) - Fados de Coimbra (12 EP’s – 1968) - Fados de Coimbra (5 LP’s – 1966, 1967, 1968 e 1969) - Fados de Coimbra (EP – 1976) - Fados de Coimbra (LP – 1978)"
+        }
+      ],
+      "conflito": false,
+      "nota": "José Niza, Fado de Coimbra II (Ediclube, 1999), p. 251, citado no post (texto de Manuel Marques Inácio, 2013). A confirmar pelo editor: o EP de 1976 e o LP de 1978 podem ser os mesmos discos que gc-v:7319636902635719332 diz gravados «por volta de 1975» (EP) e «em 1977» (LP); nenhum dos posts o diz."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Entre 1968 e 1970: atuações no Emissor Regional de Coimbra (presença regular no programa «Serenata de Coimbra»), deslocação a França e homenagens a Lucas Junot e Manassés de Lacerda",
+      "data": "1968",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Entre 1968-1970 Manuel Branquinho fez atuações no Emissor Regional de Coimbra, deslocou-se a França, esteve presente nas homenagens a Lucas Junot e Manassés de Lacerda e foi assíduo nos encontros anuais dinamizados pela AEEC."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Foi também presença regular no programa Serenata de Coimbra do ERC (o cantor que com ele alternava era normalmente Vítor Nunes)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Lisboa, 1972-1977 (transitou para o Ministério da Educação); atuações frequentes em casas de fados",
+      "data": "1972",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Informou que trabalhou na escola Brotero e que em 1972 transitou para Lisboa, para o Ministério da Educação liderado por Veiga Simão. A residir em Lisboa, entre 1972-1977, Manuel Branquinho fez atuações frequentes em casas de fados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -58,6 +584,161 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
           "doc": "gc-i:116638481779194072",
           "citacao": "Manuel Branquinho (Condeixa, 25/03/1929; Braga, 1999) começa a aprender guitarra com Flávio Rodrigues, sendo estudante do Liceu de Coimbra."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Na guitarra, as grandes figuras da sua admiração eram o seu professor Flávio Rodrigues e o mestre dos mestres: Artur Paredes. Sentia-se também particularmente influenciado por Paulo de Sá, Felisberto Ferreirinha, Afonso de Sousa e Raposo Marques"
+        }
+      ],
+      "nota": "A fonte chama a Artur Paredes uma das «grandes figuras da sua admiração» e continua «Sentia-se também particularmente influenciado por…»."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "afonso-de-sousa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Sentia-se também particularmente influenciado por Paulo de Sá, Felisberto Ferreirinha, Afonso de Sousa e Raposo Marques"
+        }
+      ],
+      "nota": "A mesma frase nomeia Paulo de Sá, Felisberto Ferreirinha e Raposo Marques, que ainda não têm ficha."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-de-almeida-santos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Tocou guitarra com Almeida Santos, Mário Marini, Fernando Abreu Lima, entre outros"
+        }
+      ],
+      "nota": "Guitarras (digressão do Orfeon a África, 1949, e grupo da OLA da TAUC)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "alfredo-caseiro-da-rocha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "e com violas, como Tavares de Melo, Mário Barroso, Alfredo Caseiro da Rocha, e mais tarde com Jorge Gomes."
+        }
+      ],
+      "nota": "Viola."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "e com violas, como Tavares de Melo, Mário Barroso, Alfredo Caseiro da Rocha, e mais tarde com Jorge Gomes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Formou grupo com Gabriel Ferreira (g.) e Jorge Gomes [!!!!!] (v.)"
+        }
+      ],
+      "nota": "Jorge Gomes na viola, depois do regresso do Brasil (1966)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/09/mais-elementos-sobre-manuel-branquinho.html",
+          "doc": "gc-v:7319636902635719332",
+          "citacao": "Manuel Branquinho (gC), Eduardo Tavares de Melo (v) e Augusto Camacho Vieira (voz) gravaram um disco de 78"
+        }
+      ],
+      "nota": "Digressão do TEUC ao Brasil e disco de 78 rpm (1951)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "anarolino-pacheco-fernandes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "alexandre-herculano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-rolim",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/manuel-branquinho.html",
+          "doc": "gc-v:7851605342237403874",
+          "citacao": "Acompanhou cantores como Camacho Vieira, Florêncio de Carvalho, Anarolino Fernandes, Alexandre Herculano, Luiz Goes, Fernando Rolim, Machado Soares, e muitos outros."
         }
       ],
       "nota": ""

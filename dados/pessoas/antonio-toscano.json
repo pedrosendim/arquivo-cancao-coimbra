@@ -9,8 +9,131 @@
     "violista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/12/aniversarios-e-aniversariantes-na.html",
+      "doc": "gc-v:4172682257802577241",
+      "citacao": "ANTÓNIO SIMÃO TOSCANO, Santa Maria da Feira, 29.09.1932: atividade na Academia de Coimbra na década de 1950, formado pela FD/UC. Executante de viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-orfeon-academico-no-brasil-1954.html",
+      "doc": "gc-v:361024260822014332",
+      "citacao": "A formação de Canção de Coimbra que acompanhou o Orfeon em 1954 era constituída por António Pinho Brojo/José Maria Amaral/Humberto Amado Gomes (gg), Manuel Pepe/António Toscano (vv) e Luiz Goes/Fernando Rolim/Fernando Machado Soares/Higino Casquilho Faria."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+      "doc": "gc-i:112950536448120156",
+      "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/06/cancoes-d-amor-e-de-esperanca-o-lp-dito.html",
+      "doc": "gc-v:4838746103295241188",
+      "citacao": "Luiz Goes (barítono), acompanhado por António Andias (gC, arranjos e solos), Durval Moreirinhas (v), João Gomes (v), António Toscano (v)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-LP Canções para quase todos, por Luís Goes, Vecemi, 1775031, Lisboa, 1983. Canta Luís Goes. Guitarras: João Bagão e Aires de Aguillar. Violas: João Gomes, António Toscano e Durval Moreirinhas."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Santa Maria da Feira, 29 de setembro de 1932",
+      "data": "1932-09-29",
+      "local": "Santa Maria da Feira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/aniversarios-e-aniversariantes-na.html",
+          "doc": "gc-v:4172682257802577241",
+          "citacao": "ANTÓNIO SIMÃO TOSCANO, Santa Maria da Feira, 29.09.1932: atividade na Academia de Coimbra na década de 1950, formado pela FD/UC. Executante de viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1932 ... -Em 29 de Setembro nasce em Santa Maria da Feira António Simão Toscano."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/homenagem-antnio-toscano.html",
+          "doc": "gc-i:3185859882358224784",
+          "citacao": "em Santa Maria da Feira, sua terra natal!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia do GC-I (2006), o ano é o cabeçalho da secção em que a frase se encontra."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formado pela Faculdade de Direito da Universidade de Coimbra; atividade na Academia de Coimbra na década de 1950",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/aniversarios-e-aniversariantes-na.html",
+          "doc": "gc-v:4172682257802577241",
+          "citacao": "atividade na Academia de Coimbra na década de 1950, formado pela FD/UC. Executante de viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Antigo orfeonista (Orfeon Académico de Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/comemorao-dos-125-anos-do-orfeon.html",
+          "doc": "gc-i:116224780691816642",
+          "citacao": "António Toscano, antigo orfeonista, marcou presença."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viola na formação de Canção de Coimbra que acompanhou o Orfeon Académico ao Brasil (1954)",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-orfeon-academico-no-brasil-1954.html",
+          "doc": "gc-v:361024260822014332",
+          "citacao": "A formação de Canção de Coimbra que acompanhou o Orfeon em 1954 era constituída por António Pinho Brojo/José Maria Amaral/Humberto Amado Gomes (gg), Manuel Pepe/António Toscano (vv) e Luiz Goes/Fernando Rolim/Fernando Machado Soares/Higino Casquilho Faria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola nas gravações de Luiz Goes de março de 1967 (EP Columbia ELMS 3002 e LP «Coimbra de Ontem e de Hoje», Columbia SPMX 5004)",
+      "data": "1967-03",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva (EP Columbia, ELMS 3002 e LP Coimbra de Ontem e de Hoje, Columbia, SPMX 5004)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/1967-esplendor-da-nova-cancao-de-coimbra.html",
+          "doc": "gc-v:5310750683617065434",
+          "citacao": "apoiado por João Bagão/Aires de Aguillar/Carlos Paredes (ggC) e pelas violas de João Gomes/António Toscano e Fernando Neto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "nome_completo",
       "valor": "António Simão Toscano",
@@ -38,6 +161,86 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP «Canções de Amor e de Esperança» (Luiz Goes; gravado em dezembro de 1971, comercializado em 1972)",
+      "data": "1971-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/cancoes-d-amor-e-de-esperanca-o-lp-dito.html",
+          "doc": "gc-v:4838746103295241188",
+          "citacao": "LP LUIZ GOES / CANÇÕES DE AMOR E DE ESPERANÇA, Paço d'Arcos / Portugal, Columbia 072-40179, gravado em dezembro de 1971, comercializado em 1972."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/06/cancoes-d-amor-e-de-esperanca-o-lp-dito.html",
+          "doc": "gc-v:4838746103295241188",
+          "citacao": "Luiz Goes (barítono), acompanhado por António Andias (gC, arranjos e solos), Durval Moreirinhas (v), João Gomes (v), António Toscano (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP «Canções para quase todos» (Luiz Goes, Vecemi 1775031, 1983)",
+      "data": "1983",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Canções para quase todos, por Luís Goes, Vecemi, 1775031, Lisboa, 1983. Canta Luís Goes. Guitarras: João Bagão e Aires de Aguillar. Violas: João Gomes, António Toscano e Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor da música de «Trova da Vila da Feira», «Canção para quem vier», «Cântico de um Pescador», «Alegria», «Regresso da Pesca» e «Aqui», gravadas por Luiz Goes, entre outras canções",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/homenagem-antnio-toscano.html",
+          "doc": "gc-i:3185859882358224784",
+          "citacao": "O Toscano enviou-me a lista das músicas, cantadas, de que é Autor: 1 - Trova da Vila da Feira ---------- Leonel Neves-António Toscano 2 - Canção para quem vier -------- Luiz Goes -António Toscano 3 - Cântico de um Pescador ----- Leonel Neves-António Toscano 4 - Alegria --------------------- Edmundo Bettencourt-Antómio Toscano 5 - Regresso da Pesca ------------ Leonel Neves-António Toscano 6 - Aqui --------------------- Miguel Torga-António Toscano Constam da Integral do Luiz Goes (1 a 6)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista enviada pelo próprio, transcrita por Joaquim Pinho no GC-I (2007); inclui ainda quatro canções com letra de Leonel Neves e de Carlos Carranca."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Jantar de aniversário dos 75 anos, no Clube Feirense, com a Liga de Amigos da Feira, Santa Maria da Feira (sábado, 29 de setembro)",
+      "local": "Santa Maria da Feira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/homenagem-antnio-toscano.html",
+          "doc": "gc-i:3185859882358224784",
+          "citacao": "Confirma-se o \"jantar\" de aniversário dos 75 anos do Dr. António Toscano, sábado, 29 de Setembro, às 18.00, no Clube Feirense - (não é o do futebol), que organiza juntamente com a Liga de Amigos da Feira, em Santa Maria da Feira, sua terra natal!"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio publicado no GC-I a 26-09-2007; o texto não diz o ano."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado pelo Orfeon da Feira (notícia do Correio da Feira de 23-1-2012)",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/antonio-toscano.html",
+          "doc": "gc-iv:9065957765541257034",
+          "citacao": "António Toscano homenageado pelo Orfeon da Feira. Correio da Feira de 23-1-2012."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -56,9 +259,21 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2019/03/linguagens-e-propostas-das-segundas.html",
           "doc": "gc-v:7363514650320825950",
           "citacao": "Canta Luiz Goes barítono, acompanhado por João Bagão (arranjos e solos de gC), Aires de Aguillar (2ª gC), António Toscano/Fernando Neto (vv) e João Gomes (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+          "doc": "gc-i:112950536448120156",
+          "citacao": "Gravada por Luiz Goes, em Março de 1967, acompanhado à guitarra por João Carlos Bagão e Aires Máximo de Aguilar e, à viola, por António Simão Toscano e Fernando Neto Mateus da Silva"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/luiz-goes-canta-aqui-de-miguel-torga-e.html",
+          "doc": "gc-iii:7205406399139432264",
+          "citacao": "Luiz Goes canta \"Aqui\", de Miguel Torga e António Toscano. Acompanham-no João Bagão em guitarra, João Gomes e António Toscano em viola."
         }
       ],
-      "nota": "viola nos LP «Canções do Mar e da Vida» (1969) e «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021)."
+      "nota": "viola nos LP «Canções do Mar e da Vida» (1969) e «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021). Também nas gravações de março de 1967 e no programa de televisão «Canção de Coimbra - Anos 80»."
     }
   ],
   "imagens": [],

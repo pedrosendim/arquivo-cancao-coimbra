@@ -8,9 +8,30 @@
   ],
   "papeis": [
     "cantor",
-    "guitarrista"
+    "guitarrista",
+    "violista",
+    "letrista",
+    "poeta"
   ],
   "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+      "doc": "gc-i:111936512903583592",
+      "citacao": "Lucas Rodrigues Junot nasceu em Santos, Brasil, em 1902. Filho de emigrantes portugueses em terras de Vera Cruz."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+      "doc": "gc-v:4338528853333350101",
+      "citacao": "LUCAS JUNOT, fizera a instrução primária no Brasil, mas quando chega a Coimbra é matriculado a 16 de Junho de 1914, com doze anos, na escola anexa à Sé Velha, entrando no Liceu Dr. José Falcão, a 8 de Outubro do ano seguinte. Em 1922, está a matricular-se em Matemática, na Faculdade de Ciências da Universidade de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+      "doc": "gc-v:4338528853333350101",
+      "citacao": "Em Agosto de 1925, vai como violista da Tuna, em digressão ao Brasil, e lá começa a cantar no Grupo de Fados e Guitarradas."
+    },
     {
       "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
@@ -18,10 +39,22 @@
       "citacao": "Os registos fonográficos efectuados pelo cantor e guitarrista Lucas Junot decorreram em Londres, nos estúdios Columbia, no mês de Maio de 1927."
     },
     {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/01/lucas-junot-e-pedro-ramalho.html",
+      "doc": "gc-v:5845687390769923827",
+      "citacao": "Era licenciado em Matemática, trabalhou em Angola e no Continente, tendo mais tarde partido para o Brasil, onde foi professor e funcionário do Instituto de Meteorologia. Pelo meio, em 1932, e no Brasil, foi combatente numa revolução pró-constitucionalista."
+    },
+    {
       "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2006/10/fotos-junot-27-encontro-de-antigos.html",
       "doc": "gc-i:116220620867149862",
       "citacao": "Encontro de antigos estudantes de Coimbra. Lucas Junot está sentado a meio da mesa."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+      "doc": "gc-v:4338528853333350101",
+      "citacao": "Veio a Portugal, com uma bolsa da Gulbenkian um ano antes de falecer, o que acontece, na cama de um hospital em Santos, no dia 29 de Agosto de 1968."
     }
   ],
   "factos": [
@@ -40,6 +73,295 @@
       "nota": ""
     },
     {
+      "campo": "nascimento",
+      "valor": "Santos (Brasil), 20 de janeiro de 1902",
+      "data": "1902-01-20",
+      "local": "Santos (Brasil)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/lucas-junot-e-pedro-ramalho.html",
+          "doc": "gc-v:5845687390769923827",
+          "citacao": "LUCAS RODRIGUES JUNOT, nasceu a 20 de Janeiro de 1902 em Santos, Brasil e faleceu na mesma cidade a 29 de Agosto de 1968."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "LUCAS RODRIGUES JUNOT (1902 - 1968). Faz hoje, dia 20 de Janeiro, 111 anos que nasceu em Santos (Brasil), o cantor, violista e guitarrista, Lucas Junot."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "Lucas Rodrigues Junot nasceu em Santos, Brasil, em 1902."
+        }
+      ],
+      "conflito": true,
+      "nota": "Textos de Manuel Marques Inácio (GC V, 2013 e 2014). O texto de Rui Lopes (GC I, 2005) dá só o lugar e o ano. Uma legenda de 2006 dá 20 de fevereiro de 1902 e um post de 2013 dá o ano de 1903 (factos seguintes)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "20 de fevereiro de 1902",
+      "data": "1902-02-20",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/fotos-junot-2-o-casal-junot-com-os.html",
+          "doc": "gc-i:116214866142663420",
+          "citacao": "Tendo o cantor nascido em 20 de Fevereiro de 1902, a foto poderá datar-se de 1904 ou 1905."
+        }
+      ],
+      "conflito": true,
+      "nota": "Legenda de uma fotografia de família (foto de Maria Adelaide Junot, remetida por Rui Lopes). Diverge no mês dos posts de 2013 e 2014 (20 de janeiro)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1903",
+      "data": "1903",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Lucas Junot (1903 – 1968), integrado como violista, no grupo da Tuna, começa a cantar no grupo de fados, já em terras do Brasil, na sua terra natal"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post sobre Francisco Menano (GC V, 2013). As restantes fontes dão 1902."
+    },
+    {
+      "campo": "morte",
+      "valor": "Santos (Brasil), 29 de agosto de 1968",
+      "data": "1968-08-29",
+      "local": "Santos (Brasil)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/lucas-junot-e-pedro-ramalho.html",
+          "doc": "gc-v:5845687390769923827",
+          "citacao": "LUCAS RODRIGUES JUNOT, nasceu a 20 de Janeiro de 1902 em Santos, Brasil e faleceu na mesma cidade a 29 de Agosto de 1968."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "Faz hoje, dia 20 de Janeiro, 111 anos que nasceu em Santos (Brasil), o cantor, violista e guitarrista, Lucas Junot. Faleceu na sua cidade natal, a 29 de Agosto de 1968."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/sobrinho-de-lucas-junot-doou-autarquia.html",
+          "doc": "gc-i:112238432381187063",
+          "citacao": "Lucas Junot que já faleceu em 1968"
+        }
+      ],
+      "conflito": false,
+      "nota": "A mensagem de Rui Lopes (GC I, 2005) dá só o ano."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Matemática na Faculdade de Ciências da Universidade de Coimbra: matrícula em 1922; licenciado em Ciências Matemáticas a 26 de julho de 1927, segundo a placa de homenagem",
+      "data": "1927-07-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "Em 1922, está a matricular-se em Matemática, na Faculdade de Ciências da Universidade de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "Contudo, também continuava a cursar Matemática concluindo o curso em 1927."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "\"Nesta casa viveu o estudante brasileiro Lucas Junot. 1902-1968. Licenciado em Ciências Matemáticas em 26 de julho de 1927, e que enobreceu o Fado de Coimbra. Homenagem dos seus colegas do Brasil, 26-07-1970\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data exata vem dos dizeres da placa, transcritos no post de 2005."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tuna Académica da Universidade de Coimbra: digressões a Espanha (1922) e ao Brasil (1925)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "Fará parte da Tuna Académica da Universidade de Coimbra, participando nas famosas tournées a Espanha (1922) e ao Brasil (1925)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Rui Lopes (GC I, 2005). O texto de 2013 (facto seguinte) põe a digressão a Espanha em 1923."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tuna Académica: digressão a Espanha em 1923; em agosto de 1925, como violista da Tuna, digressão ao Brasil, onde começa a cantar no Grupo de Fados e Guitarradas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "No ano seguinte, 1923, já vai com a Tuna Académica, numa digressão a Espanha. Em Agosto de 1925, vai como violista da Tuna, em digressão ao Brasil, e lá começa a cantar no Grupo de Fados e Guitarradas."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (GC V, 2013). O texto de Rui Lopes (facto anterior) põe a digressão a Espanha em 1922."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra toeira de 17 trastos, em afinação natural (iniciação um pouco antes de 1920); a sua guitarra toeira foi depositada no Museu Académico",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Discípulo do guitarrista Francisco da Silveira Morais, Junot fez a sua iniciação na guitarra toeira de 17 trastos um pouco antes de 1920, ainda com uso da afinação natural."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "Por decisão da sua viúva foram depositados no Museu Académico as provas das matrizes fonográficas, os discos completos e ainda a Guitarra Toeira de Coimbra de Junot, com escala de 17 trastos, ilharga baixa, voluta oval sem arestas, e tampo escorado por duas travessas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de António Manuel Nunes (GC I, 2005)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor da letra do «Fado de Santa Clara» («Eu ouvi, de Santa Clara»), com música de Francisco Paulo Menano (cerca de 1923)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Título: Fado de Santa Clara (serenata) Incipit: Eu ouvi, de Santa Clara Música: Francisco Paulo Menano Letra: Lucas Rodrigues Junot Data: cerca 1923"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2024/01/composicoes-que-celebrem-cem-anos-1924.html",
+          "doc": "gc-v:267804272814198086",
+          "citacao": "Fado de Santa Clara, composto em 1923, como música de seu irmão Francisco Menano e letra do cantor Lucas Junot."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "No entanto, ficará mais conhecido por ser o autor do célebre Fado de Santa Clara (eu ouvi de Santa Clara …)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto de Rui Lopes (GC I, 2005) diz só «autor do célebre Fado de Santa Clara», sem distinguir letra e música."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Cantos Outonais» (poesias), edição póstuma, Santos, 1977; vários livros de ensino da Matemática",
+      "data": "1977",
+      "local": "Santos (Brasil)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "O texto original completo vem publicado em Lucas Junot, Cantos Outonais (poesias)/ Edição Póstuma, Santos, 1977, pág. 72."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "foi poeta, ficou um livro póstumo de poesias \"Cantos Outonais\" e vários livros de ensino da Matemática."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Banco de Angola, em Luanda; no Brasil, jornalista no Rio de Janeiro, funcionário do Instituto de Meteorologia (Santos e Rio de Janeiro), professor de liceu e explicador de matemática",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "Seguem nesse ano para Luanda, pois ele vai trabalhar no Banco de Angola."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "Quando chega ao Brasil, trabalha como jornalista no Rio de Janeiro, depois no Instituto de Meteorologia, em Santos e Rio de Janeiro, é professor de liceu, e explicador de matemática."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Membro fundador da Associação dos Antigos Estudantes de Coimbra no Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "quando foi fundada a Associação dos Antigos Estudantes de Coimbra no Brasil, Lucas Junot foi um membro fundador e dos membros mais activos desta."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Rui Lopes (GC I, 2005)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Conhecido em Coimbra como «Rouxinol do Mondego», segundo Rui Lopes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lucas-junot-um-brasileiro-cantar.html",
+          "doc": "gc-i:111936512903583592",
+          "citacao": "perguntou se ainda tinham algum disco do “Rouxinol do Mondego” (nome pelo qual era conhecido nos seus tempos de Coimbra)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Outros documentos do arquivo dão a mesma alcunha a António Menano (ex.: gc-i:115835816405850891)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem da Associação dos Antigos Estudantes de Coimbra, 25 de junho de 1970: descerramento de uma lápide na casa onde habitou (entre o Largo da Sé Velha e a Rua dos Coutinhos) e serão no pátio do Museu Nacional Machado de Castro",
+      "data": "1970-06-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "Placa de homenagem ao cantor e guitarrista Lucas Rodrigues Junot (1902-1968), afixada num prédio sito entre o Largo da Sé Velha e a entrada da Rua dos Coutinhos, Coimbra. ... No dia 25 de Junho de 1970 a Associação dos Antigos Estudantes de Coimbra promoveu uma sentida homenagem a este importante cantor da Escola Ultra-Romântica, com descerramento de uma lápide na casa onde habitou mais regularmente, e serão cultural no pátio do Museu Nacional Machado de Castro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Os dizeres da placa, transcritos no mesmo post, terminam em «Homenagem dos seus colegas do Brasil, 26-07-1970» (facto seguinte, com essa data)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Placa idealizada pelos antigos estudantes de Coimbra radicados no Brasil: «Homenagem dos seus colegas do Brasil, 26-07-1970»",
+      "data": "1970-07-26",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
+          "doc": "gc-i:113389236988259358",
+          "citacao": "A placa, idealizada pelos antigos estudantes de Coimbra radicados no Brasil, apresenta os seguintes dizeres: \"Nesta casa viveu o estudante brasileiro Lucas Junot. 1902-1968. Licenciado em Ciências Matemáticas em 26 de julho de 1927, e que enobreceu o Fado de Coimbra. Homenagem dos seus colegas do Brasil, 26-07-1970\"."
+        }
+      ],
+      "conflito": true,
+      "nota": "Dizeres da placa, transcritos no post de 6-12-2005 (GC I, António M. Nunes). O texto do mesmo post data a homenagem e o descerramento da lápide de 25 de junho de 1970 (facto anterior)."
+    },
+    {
       "campo": "gravacao",
       "valor": "Gravou em Londres, nos estúdios Columbia, em maio de 1927; além de cantar, tocou a guitarra de acompanhamento",
       "data": "1927-05",
@@ -56,7 +378,33 @@
       "nota": ""
     }
   ],
-  "relacoes": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "francisco-da-silveira-morais",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Discípulo do guitarrista Francisco da Silveira Morais, Junot fez a sua iniciação na guitarra toeira de 17 trastos um pouco antes de 1920"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Junot executou a guitarra de acompanhamento, instrumento que aprendera a dedilhar rudimentarmente com o seu amigo Francisco da Silveira Morais."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "LUCAS JUNOT, aprendera a tocar com o seu amigo e guitarrista Francisco da Silveira Morais (1899 - 1959)"
+        }
+      ],
+      "nota": "guitarra"
+    }
+  ],
   "imagens": [
     {
       "url": "http://photos1.blogger.com/hello/258/3919/1024/Lucas%20Junot%20livro%20de%20Santos%201.7.jpg",
@@ -67,6 +415,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/04/fotografia-de-lucas-junot-includa-no.html",
           "doc": "gc-i:114592291243723518",
           "citacao": "Fotografia de Lucas Junot, incluída no livro de poesia deste, \"Cantos Outonais\"."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm1womp84T8nPTIwfxk1tjsICSOJBEHbnGH0IFN6SWf8lQyrw8NOEUhs9ZjD9JO9suF7_Gfg8qRMl9mI6NSDhSWqD0Lq-EZJzj6AjfyPEElLpK5tx2S2hk3LWzZ8OM-jJ1O8870V9SpES9/s1600/Lucas+Junot+Caloiro+1922.jpg",
+      "legenda": "Lucas Junot em 1922, seu ano de caloiro em Coimbra (foto extraída do livro de Rui Lopes).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/lucas-junot.html",
+          "doc": "gc-v:4338528853333350101",
+          "citacao": "(Foto extraída do livro de Rui Lopes: Lucas Junot em 1922, seu ano de caloiro em Coimbra)"
         }
       ]
     }

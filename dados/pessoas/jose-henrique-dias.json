@@ -2,12 +2,387 @@
   "id": "jose-henrique-dias",
   "tipo": "pessoa",
   "nome": "José Henrique Dias",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "José Henrique Rodrigues Dias",
+    "Bicho Cantor"
+  ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+      "doc": "gc-i:7418546518128054647",
+      "citacao": "Natural de Coimbra (1934), nasceu e viveu na velha Alta, tendo assistido à terrível demolição. Fez o liceu no D. João III, actual José Falcão."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/09/jos-henrique-dias-no-jornal-o.html",
+      "doc": "gc-i:115806987814249710",
+      "citacao": "José Dias ficou conhecido em Coimbra como o \"Bicho Cantor\", devido ao facto de ter começado a cantar a canção de Coimbra ainda antes de entrar na Universidade."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+      "doc": "gc-i:7418546518128054647",
+      "citacao": "Começou por frequentar o curso de Medicina, os dois primeiros anos em Coimbra, até ao quarto ano em Lisboa, curso que abandonou, desenvolvendo a partir de então actividades de criação literária e de encenação teatral, dedicando-se a partir de então ao ensino. Integrou em Coimbra a TAUC, o OAC e o CITAC."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+      "doc": "gc-i:7418546518128054647",
+      "citacao": "De 1956 a 1969 exerceu actividade jornalística, sendo Redactor Principal do Notícias de Chaves, publicando várias séries de crónicas. De 1963 a 1976 leccionou no Ensino Secundário, tendo sido orientador de estágios pedagógicos."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "O ano de 1958 revela-se muito frutuoso. ... Na R.T.P. – Jorge Godinho e António Portugal (g.), Manuel Pepe e Levy Baptista (v.). Cantam Sutil Roque, Sousa Pereira e José Henrique Dias."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+      "doc": "gc-i:7418546518128054647",
+      "citacao": "A partir de 1984 ingressa como assistente na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa, iniciando a sua carreira docente no Ensino Superior."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/jose-henrique-dias-canta-na-serenata.html",
+      "doc": "gc-iv:7718079014818081465",
+      "citacao": "José Henrique Dias canta na Serenata a Amália Rodrigues, na noite de 30 de junho de 1994, em Lisboa, acompanhado por Francisco Vasconcelos e Serrano Baptista em guitarra, João Gomes e João Oliveira em viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/morreu-hoje-jose-henrique-dias-o-nosso.html",
+      "doc": "gc-v:5717445310807317287",
+      "citacao": "Morreu hoje José Henrique Dias, o nosso \"Bicho Cantor\"."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Henrique Rodrigues Dias",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "José Henrique Rodrigues Dias ... O Prof. Doutor José Henrique Dias passa, a partir da edição 8.401 d' O Despertar (8 de Setembro de 2006), a colaborar regularmente com o nosso semanário"
+        }
+      ],
+      "conflito": false,
+      "nota": "Nome do título do post que reproduz as notas curriculares publicadas n'O Despertar de 8 de setembro de 2006."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra (velha Alta), 3 de agosto de 1934",
+      "data": "1934-08-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/neste-dia-16-de-marco-de-2014-faz-189.html",
+          "doc": "gc-v:1168002132764932880",
+          "citacao": "JOSÉ Henrique DIAS, nasceu na velha Alta de Coimbra, a 3 de Agosto de 1934"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Natural de Coimbra (1934), nasceu e viveu na velha Alta, tendo assistido à terrível demolição."
+        }
+      ],
+      "conflito": false,
+      "nota": "O dia vem da biografia de Manuel Marques Inácio (GC V, 16-03-2014, primeiro aniversário da morte). As notas curriculares do semanário O Despertar (8 de setembro de 2006), reproduzidas no GC I (2007), dão o mesmo local e só o ano."
+    },
+    {
+      "campo": "morte",
+      "valor": "S. João do Estoril, 16 de março de 2013",
+      "data": "2013-03-16",
+      "local": "S. João do Estoril",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/neste-dia-16-de-marco-de-2014-faz-189.html",
+          "doc": "gc-v:1168002132764932880",
+          "citacao": "Faleceu após doença prolongada, na sua casa de S. João do Estoril, a 16 de Março de 2013."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/morreu-hoje-jose-henrique-dias-o-nosso.html",
+          "doc": "gc-v:5717445310807317287",
+          "citacao": "Morreu hoje José Henrique Dias, o nosso \"Bicho Cantor\"."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/jose-henrique-dias.html",
+          "doc": "gc-v:5399910266745066050",
+          "citacao": "Notícia da morte de José Henrique Dias no Diário de Coimbra de hoje, com texto de João Henriques."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data e o local vêm da biografia de Manuel Marques Inácio (GC V, 16-03-2014). O post «Morreu hoje» (GC V, 16-03-2013) e a notícia do Diário de Coimbra reproduzida no blogue a 17-03-2013 (imagem, sem texto arquivado) ficam como corroboração."
+    },
+    {
+      "campo": "outro",
+      "valor": "Alcunha «Bicho Cantor», por ter começado a cantar a canção de Coimbra antes de entrar na Universidade",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/jos-henrique-dias-no-jornal-o.html",
+          "doc": "gc-i:115806987814249710",
+          "citacao": "José Dias ficou conhecido em Coimbra como o \"Bicho Cantor\", devido ao facto de ter começado a cantar a canção de Coimbra ainda antes de entrar na Universidade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/morreu-hoje-jose-henrique-dias-o-nosso.html",
+          "doc": "gc-v:5717445310807317287",
+          "citacao": "Morreu hoje José Henrique Dias, o nosso \"Bicho Cantor\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III; frequentou Medicina (dois anos em Coimbra, até ao 4.º ano em Lisboa), que abandonou; licenciado em História pela Universidade de Coimbra; mestre e doutor pela Universidade Nova de Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Fez o liceu no D. João III, actual José Falcão."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Começou por frequentar o curso de Medicina, os dois primeiros anos em Coimbra, até ao quarto ano em Lisboa, curso que abandonou"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Licenciado em História pela Universidade de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Mestre em História Cultural e Política pela Universidade Nova de Lisboa"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Doutor em História e Teoria das Ideias, com a Especialidade de História das Ideias Sociais, com distinção e louvor, pela UNL."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notas curriculares do semanário O Despertar (2006), reproduzidas no GC I (2007)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Jornalista (redator principal do Notícias de Chaves, 1956-1969); professor do ensino secundário (1963-1976), da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa (a partir de 1984; aposentado em 2000) e do Instituto Superior Miguel Torga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "De 1956 a 1969 exerceu actividade jornalística, sendo Redactor Principal do Notícias de Chaves, publicando várias séries de crónicas. De 1963 a 1976 leccionou no Ensino Secundário, tendo sido orientador de estágios pedagógicos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "A partir de 1984 ingressa como assistente na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa, iniciando a sua carreira docente no Ensino Superior."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Professor Aposentado da Universidade Nova de Lisboa (2000)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Professor do Instituto Superior Miguel Torga"
+        }
+      ],
+      "conflito": false,
+      "nota": "Notas curriculares do semanário O Despertar (2006), reproduzidas no GC I (2007)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cantor da música coimbrã, com gravações discográficas; integrou a TAUC, o Orfeon Académico (OAC) e o CITAC; da «2.ª Década de Oiro do Fado de Coimbra» (anos 50)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Conhecido como cantor da música coimbrã, com participação em gravações discográficas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "Integrou em Coimbra a TAUC, o OAC e o CITAC."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/jose-henrique-dias.html",
+          "doc": "gc-iii:435824515047444306",
+          "citacao": "terá lugar o lançamento do livro de crónicas/contos \"A Outra Face do Espelho\", de autoria do Professor Doutor José Henrique Dias prestigiado Professor Universitário e consagrado Cantor de Coimbra, tendo integrado a \"2ª Década de Oiro do Fado de Coimbra\" ( anos 50 )"
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda parte é do texto de «Tito» Costa Santos (GC III, 2009)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Integrou o grupo da primeira serenata na televisão, com Luiz Goes, Sutil Roque, Jorge Godinho, Levi Batista, António Portugal e Fernando Rolim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/grupo-da-primeira-serenata-na-televiso.html",
+          "doc": "gc-i:114754729236998544",
+          "citacao": "Grupo da primeira Serenata na televisão, de pé: Luiz Goes, Sutil Roque, Jorge Godinho, Levi Batista e António Portugal ... Em baixo: Fernando Rolim e José Henrique Dias (possuidor desta foto)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de uma fotografia do seu espólio; a legenda não dá a data."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata transmitida pela RTP a 4 de maio de 1958, cantando com Sutil Roque e Sousa Pereira; guitarras de António Portugal e Jorge Godinho, violas de Manuel Pepe e Levy Baptista",
+      "data": "1958-05-04",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/neste-dia-16-de-marco-de-2014-faz-189.html",
+          "doc": "gc-v:1168002132764932880",
+          "citacao": "na Serenata transmitida pela RTP, a 4 de Maio de 1958, cantando com Sutil Roque e Sousa Pereira. Nas guitarras estavam António Portugal e Jorge Godinho. Nas violas, Manuel Pepe e Levy Baptista."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "O ano de 1958 revela-se muito frutuoso. ... Na R.T.P. – Jorge Godinho e António Portugal (g.), Manuel Pepe e Levy Baptista (v.). Cantam Sutil Roque, Sousa Pereira e José Henrique Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": "O dia vem da biografia de Manuel Marques Inácio (GC V, 2014); a frase começa por «Em 1957 participa com Luiz Goes, Sutil Roque e Fernando Rolim, na Serenata transmitida pela RTP». A biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008) põe no ano de 1958 as gravações para a RTP com estes cantores e instrumentistas."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Gravação para a televisão americana no Mosteiro dos Jerónimos, cantando com Sutil Roque e Sousa Pereira, acompanhados por Jorge Godinho e António Portugal (guitarras) e Manuel Pepe e Levy Baptista (violas)",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "a gravação para a T.V. americana levada a cabo no Mosteiro dos Jerónimos: Jorge Godinho e António Portugal (g.), Manuel Pepe e Levy Baptista (v.). Cantam Sutil Roque, Sousa Pereira e José Henrique Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008); o texto não dá a data desta gravação."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata a Amália Rodrigues, Lisboa, 30 de junho de 1994, acompanhado por Francisco Vasconcelos e Serrano Baptista (guitarras) e João Gomes e João Oliveira (violas)",
+      "data": "1994-06-30",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/01/jose-henrique-dias-canta-na-serenata.html",
+          "doc": "gc-iv:7718079014818081465",
+          "citacao": "José Henrique Dias canta na Serenata a Amália Rodrigues, na noite de 30 de junho de 1994, em Lisboa, acompanhado por Francisco Vasconcelos e Serrano Baptista em guitarra, João Gomes e João Oliveira em viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post tem o vídeo (Blogger) desta atuação."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco coletivo «De Coimbra … por bem» (33 rpm, Discossete, LP-800, 1991), dedicado à Cruz Vermelha Portuguesa",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/neste-dia-16-de-marco-de-2014-faz-189.html",
+          "doc": "gc-v:1168002132764932880",
+          "citacao": "Gravou apenas dois discos, em gravação colectiva. O primeiro, “De Coimbra … por bem” em 1991, de 33 rpms, com etiqueta da Discossete, LP – 800, dedicado á Cruz Vermelha Portuguesa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira. ... O disco apresenta a data de 1991, da Discossete, LP - 800."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Manuel Marques Inácio (GC V, 2014) e legenda de fotografia do Grupo Serenata de Coimbra (GC I, 2007)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco coletivo «Grupo Serenata de Coimbra … para o mundo» (VCD 50008), gravado em 1997 e editado em 1998",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/neste-dia-16-de-marco-de-2014-faz-189.html",
+          "doc": "gc-v:1168002132764932880",
+          "citacao": "O segundo designado “Grupo Serenata de Coimbra … para o mundo”, foi gravado em 1997, editado em 1998, disco VCD 50008."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Manuel Marques Inácio (GC V, 2014); o post do GC I (2005) não dá a data."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Luiz Goes – Trovador do tempo novo», in Arquivo Coimbrão, vol. XXXVIII, Coimbra, 2005",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "\"Luiz Goes - Trovador do tempo novo\", in Arquivo Coimbrão.Vol. XXXVIII,Coimbra, 2005."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bibliografia nas notas curriculares d'O Despertar (2006)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A outra face do espelho»: crónicas n'O Despertar (a partir de 8 de setembro de 2006) e livro de crónicas/contos com o mesmo título",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/jos-henrique-rodrigues-dias.html",
+          "doc": "gc-i:7418546518128054647",
+          "citacao": "O Prof. Doutor José Henrique Dias passa, a partir da edição 8.401 d' O Despertar (8 de Setembro de 2006), a colaborar regularmente com o nosso semanário, assinando crónicas sob a epígrafe “A outra face do espelho”"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/jose-henrique-dias.html",
+          "doc": "gc-iii:435824515047444306",
+          "citacao": "terá lugar o lançamento do livro de crónicas/contos \"A Outra Face do Espelho\", de autoria do Professor Doutor José Henrique Dias"
+        }
+      ],
+      "conflito": false,
+      "nota": "Lançamento do livro anunciado no GC III em junho de 2009 («na próxima terça feira, dia 16 de Junho»)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",

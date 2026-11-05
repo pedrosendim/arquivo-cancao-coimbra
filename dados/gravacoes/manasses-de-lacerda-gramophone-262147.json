@@ -44,8 +44,22 @@
           "citacao": "Título: Maria Paula ... Editora: Gra.262147  Referências: Disque Pour Gramophone 17643u, 262147_; 262147 ... Etiqueta: Maria Paula  / canção popular / canatada pelo tenor Lacerda e coros, Lisboa."
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Maria Paula», Gramophone 261147, tenor Manassés de Lacerda (?) com coro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/escuta-de-fonogramas-da-coleccao-joao.html",
+          "doc": "gc-v:643756313646546986",
+          "citacao": "MARIA PAULA, Gramophone 261147, tenor Manassés de Lacerda (?) com coro"
+        }
+      ],
+      "conflito": true,
+      "nota": "Número diferente (261147) do da ficha do Arquivo Sonoro do Museu do Fado (262147); o post põe em dúvida o intérprete com «(?)»."
     },
     {
       "campo": "outro",

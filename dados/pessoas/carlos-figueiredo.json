@@ -2,13 +2,367 @@
   "id": "carlos-figueiredo",
   "tipo": "pessoa",
   "nome": "Carlos Figueiredo",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Carlos Diniz de Figueiredo Júnior",
+    "Carlos Figueiredo Júnior"
+  ],
   "papeis": [
     "violista",
-    "compositor"
+    "compositor",
+    "letrista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Em Coimbra, começou a aprender guitarra, no início da década de 40 do século passado, com o barbeiro mestre Flávio Rodrigues (1902 - 1950), tendo depois optado definitivamente pela viola de acompanhamento."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Carlos Figueiredo, teve a sua Queima das Fitas em 1947, e formou-se em Direito, no ano de 1949."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Foi membro do Orfeon, da Tuna e do TEUC, e com estes organismos académicos realizou inúmeras digressões em Portugal e no estrangeiro. Ficou célebre a sua deslocação com o Orfeon a África, em 1949."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Data desta fase (1949/1950) a primeira composição de Carlos Figueiredo, O Sol anda lá no céu."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Acrescente-se que as primeiras composições gravadas, por Augusto Camacho Vieira, em 16 de Maio de 1953, quando era finalista do curso de Medicina, foram “Sonhando” e “Sé Velha”, um disco Columbia de 78 rpm"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Acompanhou à viola, o veterano Antero da Veiga, Francisco Menano, Armando Simões, Abílio de Moura e Artur Paredes, e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "Tem mais de 50 composições de sua autoria, entre Músicas e Letras, sendo que as mais importantes, são as que se apresentam no fonograma de 1982, gravado em Lisboa pela Rádio Triunfo Lda, e que constituiu um êxito assinalável."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+      "doc": "gc-v:6663490921310741186",
+      "citacao": "termina a carreira como Juiz Desembargador nas Relações de Évora, Porto e Lisboa. Casado e com uma filha, viveu o resto dos seus dias na sua casa de Lisboa. Faleceu em Lisboa, a 24 de Abril de 1999."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Carlos Diniz de Figueiredo Júnior",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "CARLOS DINIZ DE FIGUEIREDO JÚNIOR."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/carlos-figueiredo-e-antonio-rodrigues.html",
+          "doc": "gc-v:1047710418260423334",
+          "citacao": "CARLOS Diniz de FIGUEIREDO JÚNIOR, nasceu no Alentejo"
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia do blogue I (secção «1949») escreve «Carlos Figueiredo Júnior» na lista da digressão do Orfeon a Angola e Moçambique."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Niza, 3 de fevereiro de 1924",
+      "data": "1924-02-03",
+      "local": "Niza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "O Dr. Carlos Figueiredo, nasceu em Niza, a 3 de Fevereiro de 1924"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "FIGUEIREDO (1924 - 1999). Violista, Compositor."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 3-2-2013, assinado por Manuel Marques Inácio («Faz hoje, dia 3 de Fevereiro de 2013, 89 anos que nasceu»). O post de 3-2-2014 dá 1923: ver o facto seguinte."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Niza (Alentejo), 3 de fevereiro de 1923",
+      "data": "1923-02-03",
+      "local": "Niza",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/carlos-figueiredo-e-antonio-rodrigues.html",
+          "doc": "gc-v:1047710418260423334",
+          "citacao": "CARLOS Diniz de FIGUEIREDO JÚNIOR, nasceu no Alentejo, em Niza a 3 de Fevereiro de 1923."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/carlos-figueiredo-e-antonio-rodrigues.html",
+          "doc": "gc-v:1047710418260423334",
+          "citacao": "CARLOS FIGUEIREDO (1923 – 1999)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 3-2-2014 («Neste dia 3 de Fevereiro de 2014 fazem 91 anos que CARLOS FIGUEIREDO nasceu em Niza»). O post de 3-2-2013 dá 1924."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 24 de abril de 1999",
+      "data": "1999-04-24",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Faleceu em Lisboa, a 24 de Abril de 1999."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/carlos-figueiredo-e-antonio-rodrigues.html",
+          "doc": "gc-v:1047710418260423334",
+          "citacao": "Faleceu em Lisboa a 24 de Abril de 1999."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Direito na Universidade de Coimbra: primeiro ano jurídico em 1943/1944, Queima das Fitas em 1947, formatura em 1949",
+      "data": "1949",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Fez o primeiro ano jurídico, no ano lectivo de 1943/1944"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Carlos Figueiredo, teve a sua Queima das Fitas em 1947, e formou-se em Direito, no ano de 1949."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Viveu em Coimbra de 1939 a 1953",
+      "data": "1939",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "viveu em Coimbra de 1939 a 1953"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do Orfeon, da Tuna e do TEUC; digressão do Orfeon a África (Angola e Moçambique) em 1949",
+      "data": "1949",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Foi membro do Orfeon, da Tuna e do TEUC, e com estes organismos académicos realizou inúmeras digressões em Portugal e no estrangeiro. Ficou célebre a sua deslocação com o Orfeon a África, em 1949."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Agosto o Orfeon deslocou-se em digressão a Angola e Moçambique durante três meses. Seguiram nesta digressão Higino Casquilho Faria, Manuel Duarte Branquinho, António Roxo Leão, Anarolino Pacheco Fernandes, Eduardo Tavares de Melo, Manuel Joaquim do Ó Gomes Pepe, José Manuel Cerqueira Afonso dos Santos, Napoleão Ferreira Amorim, Carlos Figueiredo Júnior e António de Almeida Santos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia do blogue I, a digressão está na secção «1949»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Liderava um grupo (viola) em que cantavam José Afonso e Fernando Rolim, com Mário Mendes, Arnaldo Passos, António Melo e Mário Castro",
+      "data": "1949",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Começa a cantar com regularidade no grupo liderado por Carlos Figueiredo. Militavam nesta formação José Afonso (2º tenor), Fernando Rolim (1º tenor), Mário Mendes (cantor), Arnaldo Passos (1º g), António Melo (2º g), Carlos Figueiredo (v) e Mário Castro (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia do blogue I, secção «1949»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Mais de 50 composições de sua autoria, entre músicas e letras; a primeira, «O Sol anda lá no céu», é de 1949/1950",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Tem mais de 50 composições de sua autoria, entre Músicas e Letras"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Data desta fase (1949/1950) a primeira composição de Carlos Figueiredo, O Sol anda lá no céu."
+        }
+      ],
+      "conflito": false,
+      "nota": "Sobre a autoria das letras das composições do disco de 1982, as fontes divergem: ver os dois factos seguintes."
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições do disco de 1982: todas com música e letra suas, com exceção de «Rua Larga» (letra de José Régio) e de «Sé Velha» (letra de Fernando Quintela)",
+      "data": "1982",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Tem mais de 50 composições de sua autoria, entre Músicas e Letras, sendo que as mais importantes, são as que se apresentam no fonograma de 1982 ... As composições escolhidas para o disco, foram: ... São estas, sem sombra de dúvidas, as sua melhores composições, todas com música e letra suas, com excepção da composição \"RUA LARGA\", que tem letra de José Régio, e da \"SÉ VELHA\", cuja letra é de Fernando Quintela."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de 3-2-2013 (Manuel Marques Inácio). O registo de António Manuel Nunes no blogue V (2026) diz que nem todas as letras reclamadas por Carlos de Figueiredo são dele: ver o facto seguinte."
+    },
+    {
+      "campo": "outro",
+      "valor": "LP «Saudades da Rua Larga» (1982): «Nem todas as letras reclamadas por Carlos de Figueiredo são da autoria do compositor»",
+      "data": "1982",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Saudades da Rua Larga. Fados de Coimbra, pela Tertúlia Académica Rua Larga, Rádio Triunfo, RT 10012, Lisboa, 1982. ... Nem todas as letras reclamadas por Carlos de Figueiredo são da autoria do compositor."
+        }
+      ],
+      "conflito": true,
+      "nota": "Registo «[Alguns] registos fonográficos da CC (ca. 1977- ca. 2001)», de António Manuel Nunes (blogue V, 2026). O post de 2013 diz que as composições do disco são todas «com música e letra suas», com exceção de «Rua Larga» e de «Sé Velha»: ver o facto anterior."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola nas primeiras gravações das suas composições, por Augusto Camacho Vieira (Columbia, 78 rpm, 16 de maio de 1953): «Sonhando» e «Sé Velha», e depois «Mágoa» e «A Tua Rua», com Petrónio Ricciulli e Egas Berrance nas guitarras",
+      "data": "1953-05-16",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Acrescente-se que as primeiras composições gravadas, por Augusto Camacho Vieira, em 16 de Maio de 1953, quando era finalista do curso de Medicina, foram “Sonhando” e “Sé Velha”, um disco Columbia de 78 rpm, e depois outro semelhante, da mesma editora, com as composições, “Mágoa” e “A Tua Rua”. Nas gravações, estiveram nas guitarras, Petrónio Ricciulli e Egas Berrance, e à viola, o autor, Carlos Figueiredo."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data de 16 de maio de 1953 é a das primeiras («Sonhando» e «Sé Velha»)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco «Saudades de Coimbra – Fados de Coimbra» (Rádio Triunfo, Lisboa, 1982), da Tertúlia da Rua Larga, com as suas composições mais importantes; viola, com Ferreira Alves",
+      "data": "1982",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Tem mais de 50 composições de sua autoria, entre Músicas e Letras, sendo que as mais importantes, são as que se apresentam no fonograma de 1982, gravado em Lisboa pela Rádio Triunfo Lda"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Nesse disco, gravado pelo Grupo de Fados e Guitarradas de Coimbra “Tertúlia da Rua Larga”, e designado por Saudades de Coimbra – FADOS DE COIMBRA, estiveram nas guitarras, os Engs. Silva Ramos e Teotónio Xavier, e o Dr. Fernando Xavier. Nas violas, os Drs. Ferreira Alves e Carlos Figueiredo."
+        }
+      ],
+      "conflito": true,
+      "nota": "Título segundo o post de 3-2-2013 (Manuel Marques Inácio). O post do blogue I de 2007 e o registo do blogue V (2026) chamam ao disco «Saudades da Rua Larga»: ver o facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Saudades da Rua Larga. Fados de Coimbra» (Tertúlia Académica Rua Larga, Rádio Triunfo, RT 10012, Lisboa, 1982), disco de 33 rpm cantado por Pedro Magalhães Ramalho; viola, com Ferreira Alves",
+      "data": "1982",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. ... Nas violas, estavam o Dr. Carlos Figueiredo e Dr. A. Ferreira Alves."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Saudades da Rua Larga. Fados de Coimbra, pela Tertúlia Académica Rua Larga, Rádio Triunfo, RT 10012, Lisboa, 1982. ... Violas: António Leão Ferreira Alves e Carlos de Figueiredo."
+        }
+      ],
+      "conflito": true,
+      "nota": "Título segundo o post do blogue I de 2007 («25 Anos do Disco») e o registo de António Manuel Nunes no blogue V (2026). O post de 2013 chama ao disco «Saudades de Coimbra – Fados de Coimbra»: ver o facto anterior."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Delegado Procurador da República na Pampilhosa da Serra; notário em Angola (Benguela, Novo Redondo, Nova Lisboa e Cabinda); passagem por Moçambique (Porto Amélia); juiz em Macau; terminou a carreira como Juiz Desembargador nas Relações de Évora, Porto e Lisboa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Na sua vida profissional, o Dr. Carlos Figueiredo, depois de ser Delegado Procurador da República, na Pampilhosa da Serra, seguiu para Angola, por onde se manteve muitos anos, exercendo a profissão de notário, em Benguela, Novo Redondo, Nova Lisboa e Cabinda. Passou ainda por Moçambique (Porto Amélia), regressando depois à chamada metrópole. Seguiu como juiz, para Macau"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "termina a carreira como Juiz Desembargador nas Relações de Évora, Porto e Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -41,6 +395,168 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "fernando-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/petronio-ricciuli.html",
+          "doc": "gc-v:3569653449940106088",
+          "citacao": "Os três, Petrónio, Carlos Figueiredo e Egas, tinham sido alunos, dos irmãos Flávio e Fernando Rodrigues"
+        }
+      ],
+      "nota": "A biografia de 2013 só refere Flávio Rodrigues como mestre."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "anthero-da-veiga",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Acompanhou à viola, o veterano Antero da Veiga, Francisco Menano, Armando Simões, Abílio de Moura e Artur Paredes"
+        }
+      ],
+      "nota": "À viola («o veterano Antero da Veiga»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "francisco-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Acompanhou à viola, o veterano Antero da Veiga, Francisco Menano, Armando Simões, Abílio de Moura e Artur Paredes"
+        }
+      ],
+      "nota": "À viola."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "abilio-ribeiro-de-moura",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Acompanhou à viola, o veterano Antero da Veiga, Francisco Menano, Armando Simões, Abílio de Moura e Artur Paredes"
+        }
+      ],
+      "nota": "À viola. A fonte escreve «Abílio de Moura»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "Acompanhou à viola, o veterano Antero da Veiga, Francisco Menano, Armando Simões, Abílio de Moura e Artur Paredes, e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes)"
+        }
+      ],
+      "nota": "À viola; mais tarde também com Octávio Sérgio."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "francisco-de-vasconcelos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "teotonio-xavier",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»); também no disco da Tertúlia da Rua Larga (1982)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-m-xavier",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»); também no disco da Tertúlia da Rua Larga (1982)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-silva-ramos",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»); também no disco da Tertúlia da Rua Larga (1982). A fonte escreve «Silva Ramos»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "humberto-amado-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        }
+      ],
+      "nota": "À viola (frase iniciada por «Acompanhou à viola»). A fonte escreve «Amado Gomes»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/carlos-figueiredo.html",
+          "doc": "gc-v:6663490921310741186",
+          "citacao": "e mais tarde Carlos Couceiro, Frias Gonçalves, Francisco Vasconcelos, Teotónio Xavier, Fernando Xavier, Silva Ramos, Amado Gomes, Octávio Sérgio (juntamente com Artur Paredes) e muito outros."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "A 28 de Junho fui ao Castelo de S. Jorge com José Amaral à guitarra e Carlos Figueiredo à viola."
+        }
+      ],
+      "nota": "À viola; em 1987, no Castelo de S. Jorge, com José Amaral (Bloco de Notas de Octávio Sérgio)."
     }
   ],
   "imagens": [

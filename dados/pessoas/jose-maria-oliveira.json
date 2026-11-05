@@ -6,8 +6,182 @@
   "papeis": [
     "guitarrista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-actuar-em-macau.html",
+      "doc": "gc-i:116136226878428717",
+      "citacao": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999. Canta Joaquim Rogério. Na viola Maurício Monteiro e na guitarra José Maria Oliveira."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-sediado-em-faro.html",
+      "doc": "gc-i:116136187245084730",
+      "citacao": "Grupo Ecos de Coimbra, sediado em Faro. Cantam António Vinagre e Joaquim Rogério. Viola, Maurício Monteiro e Guitarra, José Maria Oliveira. Actuação na Biblioteca Municipal de Faro, no ano de 2004."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/10/trs-pinturas-do-tambm-guitarrista-jos.html",
+      "doc": "gc-i:116143848926477728",
+      "citacao": "Três pinturas do também guitarrista José Maria Oliveira, que vão estar expostas, a partir de 27 deste mês de Outubro, na Biblioteca Municipal de Faro, com o título genérico de \"Os Cinco Sentidos\"."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/11/caricatura-de-octvio-srgio-realizada.html",
+      "doc": "gc-i:116421542126894390",
+      "citacao": "Caricatura de Octávio Sérgio realizada por José Maria Oliveira. Pelo que já aqui foi mostrado e por mais este trabalho, podemos afirmar, sem sombra de dúvida, estar perante um artista de corpo inteiro. E mais: toca guitarra de Coimbra!"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/exposio-de-pintura-de-jos-maria.html",
+      "doc": "gc-i:990645299361771291",
+      "citacao": "O Fado na Pintura Exposição de Pintura de José Maria Oliveira Galeria do Convento Espírito Santo, Loulé 10 de Fevereiro a 10 de Março de 2007"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/11/arrancamos-aqui-no-algarve-com-uma.html",
+      "doc": "gc-iii:2044017210942287725",
+      "citacao": "ARRANCÁMOS AQUI NO ALGARVE COM UMA TERTÚLIA SOBRE A CANÇÃO E A GUITARRA DE COIMBRA. OS ENCONTROS REALIZAM-SE TODAS AS ÚLTIMAS QUARTAS FEIRAS DO MÊS, EM FARO, RUA CÂNDIDO GUERREIRO, PELAS 21H30 NO PÁTIO DAS ARTES"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Com o grupo Ecos de Coimbra em Macau, na Messe dos Oficiais (guitarra)",
+      "data": "1999-09",
+      "local": "Macau",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-actuar-em-macau.html",
+          "doc": "gc-i:116136226878428717",
+          "citacao": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999. Canta Joaquim Rogério. Na viola Maurício Monteiro e na guitarra José Maria Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pintura: exposição na Biblioteca Municipal de Faro, a partir de 27 de outubro, com o título genérico «Os Cinco Sentidos»",
+      "data": "",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/trs-pinturas-do-tambm-guitarrista-jos.html",
+          "doc": "gc-i:116143848926477728",
+          "citacao": "Três pinturas do também guitarrista José Maria Oliveira, que vão estar expostas, a partir de 27 deste mês de Outubro, na Biblioteca Municipal de Faro, com o título genérico de \"Os Cinco Sentidos\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/exposio-de-pintura-na-bibl_116370363216053772.html",
+          "doc": "gc-i:116370363216053772",
+          "citacao": "Exposição de pintura na Biblioteca Municipal de Faro, no passado dia 27, com o título genérico de \"Os Cinco Sentidos\", com quadros de José Maria Oliveira."
+        }
+      ],
+      "conflito": true,
+      "nota": "Posts de outubro e novembro de 2006. Dois outros posts de outubro de 2006 dão o título «Nos cinco Sentidos» («Nos 5 sentidos» no cartaz definitivo): ver o facto seguinte."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pintura: exposição «Nos cinco Sentidos» («Nos 5 sentidos» no cartaz definitivo), na Biblioteca Municipal de Faro, a partir de 27 de outubro",
+      "data": "",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/exposio-de-pintura-nos-cinco-sentidos.html",
+          "doc": "gc-i:116126940096928746",
+          "citacao": "Exposição de Pintura \"Nos cinco Sentidos\", de José Maria Oliveira, na Biblioteca Municipal de Faro, a partir de 27 deste mês de Outubro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/cartaz-definitivo-da-exposio-de.html",
+          "doc": "gc-i:116146472244690672",
+          "citacao": "Cartaz definitivo da exposição de Pintura com o título \"Nos 5 sentidos\", de José Maria Oliveira, na Biblioteca Municipal de Faro, a partir de 27 deste mês de Outubro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Posts de outubro de 2006. Outros posts (outubro e novembro de 2006) dão o título genérico «Os Cinco Sentidos»: ver o facto anterior."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pintura: exposição «O Fado na Pintura», Galeria do Convento Espírito Santo, Loulé, de 10 de fevereiro a 10 de março de 2007, com atuações do grupo Ecos de Coimbra",
+      "data": "2007-02-10",
+      "local": "Loulé",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/exposio-de-pintura-de-jos-maria.html",
+          "doc": "gc-i:990645299361771291",
+          "citacao": "O Fado na Pintura Exposição de Pintura de José Maria Oliveira Galeria do Convento Espírito Santo, Loulé 10 de Fevereiro a 10 de Março de 2007 ... Momento de fado de Coimbra por “Ecos de Coimbra”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Caricaturista: caricaturas de guitarristas e de outros cultores da Canção de Coimbra publicadas no blogue",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/caricatura-de-octvio-srgio-realizada.html",
+          "doc": "gc-i:116421542126894390",
+          "citacao": "Caricatura de Octávio Sérgio realizada por José Maria Oliveira."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/jose-maria-oliveira-enviou-me-este.html",
+          "doc": "gc-iv:7632761590360358474",
+          "citacao": "Lembram-se das suas caricaturas de guitarristas?"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/07/jose-ourives.html",
+          "doc": "gc-v:7665935285444923006",
+          "citacao": "Mais uma caricatura feita pelo nosso amigo guitarrista, José Maria Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os títulos dos posts referem caricaturas suas de Octávio Sérgio, Jorge Gomes, Paulo Soares (Jojó), Fernando Xavier, Francisco Martins, José Ourives e de elementos dos grupos Raízes de Coimbra e Ecos de Coimbra."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Colaboração no jornal «O Algarve»: crónicas semanais e uma rubrica quinzenal de crítica de arte; artigo sobre a morte de António Portugal",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/um-artigo-que-escrevi-aquando-do.html",
+          "doc": "gc-i:7662387032598302390",
+          "citacao": "Um artigo que escrevi aquando do falecimento de António Portugal (No jornal \"O Algarve\"), onde colaborei semanalmente com crónicas meio \"underground\" e com uma rubrica quinzenal de crítica de arte."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto assinado por José Maria Oliveira, publicado no blogue em janeiro de 2007."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tertúlia mensal sobre a Canção e a Guitarra de Coimbra, em Faro, no Pátio das Artes",
+      "data": "",
+      "local": "Faro",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/11/arrancamos-aqui-no-algarve-com-uma.html",
+          "doc": "gc-iii:2044017210942287725",
+          "citacao": "ARRANCÁMOS AQUI NO ALGARVE COM UMA TERTÚLIA SOBRE A CANÇÃO E A GUITARRA DE COIMBRA. OS ENCONTROS REALIZAM-SE TODAS AS ÚLTIMAS QUARTAS FEIRAS DO MÊS, EM FARO, RUA CÂNDIDO GUERREIRO, PELAS 21H30 NO PÁTIO DAS ARTES"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto assinado por José Maria Oliveira, num post de novembro de 2009."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -30,12 +204,55 @@
           "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/o-grupo-de-guitarra-e-canto-de-coimbra.html",
           "doc": "gc-ii:3993957054683374503",
           "citacao": "O grupo de Guitarra e Canto de Coimbra \"Ecos de Coimbra\", vai comemorar vinte anos de existência."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-actuar-em-macau.html",
+          "doc": "gc-i:116136226878428717",
+          "citacao": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999. Canta Joaquim Rogério. Na viola Maurício Monteiro e na guitarra José Maria Oliveira."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/jose-maria-oliveira-enviou-me-este.html",
+          "doc": "gc-iv:7632761590360358474",
+          "citacao": "José Maria Oliveira enviou-me este cartaz dum espetáculo em que vai participar, imtegrado no grupo \"Ecos de Coimbra\"."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/ecos-de-coimbra.html",
+          "doc": "gc-v:2289529763294056572",
+          "citacao": "José Maria Oliveira Orlando Almeida Pedro Antunes Ricardo Silva Caricaturas dos elementos do Grupo residente em Faro, \"Ecos de Coimbra\", da autoria de José Maria Oliveira."
         }
       ],
-      "nota": "guitarra; 2004-2008"
+      "nota": "guitarra; 1999-2015"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5SzOqSqMBG_oUd_d5LC_fuBly8nxQSUZJS1L-pV3u5cEbF-U_snX_kb35tOtWKRYGN2E9QoGM8uLSG22ghjmBWhcRZanC7QPXyB-4fRE3yqxMiTunKMKoRfd5wKnmNAbsq_qGXdK96pA/s1600/JMOliveira+e+Grupo+1.jpg",
+      "legenda": "Grupo Ecos de Coimbra no Teatro Lethes. Da esquerda para a direita: José Maria Oliveira, António Vinagre, David Correia, José Cabrita, João Rego, Orlando Almeida e Malha Valente.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/grupo-ecos-de-coimbra.html",
+          "doc": "gc-v:5640957562371684151",
+          "citacao": "Da esquerda para a direita: José Maria Oliveira, António Vinagre, David Correia, José Cabrita ( nosso decano - faz 90 anos este ano), João Rego. Orlando Almeida e Malha Valente. Foi tirada dia 13 deste mês no teatro Lethes."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMjUBoAMSYVgY-8HV8PaIYLCnbid6l3_mx_0gLr_XFqysqmkQhad4pM0DjY5iecxGKwoWU5VE2Zk3GgNBFxeW9QpjMcz0WQN6nb9QKIUhTTx9bM2o6l2wYXbeicdj8-EgBHBfEIwQj84v/s1600/Jose+Maria+Oliveira.jpg",
+      "legenda": "José Maria Oliveira: caricatura (desenho) da sua autoria, na série de caricaturas dos elementos do grupo Ecos de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/ecos-de-coimbra.html",
+          "doc": "gc-v:2289529763294056572",
+          "citacao": "José Maria Oliveira Orlando Almeida Pedro Antunes Ricardo Silva Caricaturas dos elementos do Grupo residente em Faro, \"Ecos de Coimbra\", da autoria de José Maria Oliveira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

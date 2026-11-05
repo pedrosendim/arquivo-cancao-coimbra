@@ -2,11 +2,44 @@
   "id": "jose-mesquita",
   "tipo": "pessoa",
   "nome": "José Mesquita",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "José Firmino Moreira Mesquita"
+  ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "compositor"
   ],
   "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+      "doc": "gc-v:11815251966694745",
+      "citacao": "Ao chegar a Coimbra (1954), integrou-se rapidamente no ambiente académico, inscrevendo-se no Orfeon Académico que então comemorava as suas bodas de diamante, e, mais tarde, no Coral da Faculdade de Letras (CELUC)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
+      "doc": "gc-v:6007738648378406322",
+      "citacao": "Foi comprado pelo então estudante da Faculdade de Ciências da Universidade de Coimbra José Mesquita entre 1955-1957 (futuro lente e investigador da FCT/UC, cultor da CC)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+      "doc": "gc-v:11815251966694745",
+      "citacao": "Após uma interrupção na atividade musical durante a preparação do seu doutoramento, recomeçou a cantar em público em 1975, a convite do seu colega e amigo, Prof. A. Pinho Brojo (guitarrista de grande relevo nos anos 40-50)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+      "doc": "gc-v:6190918462132593194",
+      "citacao": "Logo após a Revolução do 25 de abril de 1974, a revivificação da Canção de Coimbra conhece em 1979 dois importantes momentos fonográficos protagonizados pelo segundo tenor e professor da FCT/UC José Mesquita."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+      "doc": "gc-v:11815251966694745",
+      "citacao": "Foi cofundador do “Grupo de Guitarras e Cantares de Coimbra” (iniciativa de António Portugal e António Brojo, para reconstituição “formal” do seu grupo dos anos 50) com o qual cantou, durante mais de duas décadas, em concertos, digressões (País e estrangeiro), programas de rádio e TV e outros eventos relacionados com o Fado de Coimbra."
+    },
     {
       "fonte": "gc-iii",
       "url": "https://guitarracoimbra.blogspot.com/2010/06/jose-mesquita-canta-suplica-no-programa.html",
@@ -15,12 +48,567 @@
     },
     {
       "fonte": "gc-v",
-      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/brevemente-descoberto-mais-um-violao-de.html",
-      "doc": "gc-v:6007738648378406322",
-      "citacao": "Foi comprado pelo então estudante da Faculdade de Ciências da Universidade de Coimbra José Mesquita entre 1955-1957 (futuro lente e investigador da FCT/UC, cultor da CC)."
+      "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+      "doc": "gc-v:11815251966694745",
+      "citacao": "Em 1989, foi autor, coordenador e participante de uma nova série de televisão (6 programas) que, com a designação de “Canção de Coimbra-Anos 80”, foi dedicada aos inéditos publicitados nesta década"
     }
   ],
-  "factos": [],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Firmino Moreira Mesquita",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "José Firmino Moreira Mesquita é natural de Sarzeda, município de Sernancelhe"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 25 de Abril de 1935 nasce em Sernancelhe José Firmino Moreira Mesquita."
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com o maestro José Firmino, que aparece noutros posts como arranjador."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Sernancelhe, 25 de abril de 1935",
+      "data": "1935-04-25",
+      "local": "Sernancelhe",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 25 de Abril de 1935 nasce em Sernancelhe José Firmino Moreira Mesquita."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Alinhamento das transposições musicais de repertório composto por José Mesquita entre 1978-2014 ... Música: José Firmino Moreira Mesquita (n. 1935)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda fonte dá só o ano."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Sarzeda, município de Sernancelhe, na Beira Alta",
+      "data": "",
+      "local": "Sarzeda (Sernancelhe)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "José Firmino Moreira Mesquita é natural de Sarzeda, município de Sernancelhe, na Beira Alta, localidade onde nasceu em 1935."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica atualizada em 17.10.2017, publicada no blogue com informação enviada pelo próprio."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu Nacional de Viseu (1947-1954); Faculdade de Ciências da Universidade de Coimbra (1954-1958): licenciatura em Ciências Biológicas e doutoramento em Biologia",
+      "data": "",
+      "local": "Viseu; Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Depois de terminar os seus estudos secundários lo Liceu Nacional de Viseu (out/1947-jul/1954) foi para Coimbra frequentar a Faculdade de Ciências (out/1954-out/1958) onde se licenciou em Ciências Biológicas e doutorou em Biologia, após estágios realizados na Universidade do Porto e na Sorbonne (Paris)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Docente e investigador da Universidade de Coimbra; professor catedrático da FCTUC desde 1978, aposentado",
+      "data": "1978",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Na Universidade de Coimbra prosseguiu a sua carreira académica, como docente e investigador, sendo Professor catedrático da Faculdade de Ciências e Tecnologia (FCTUC ) desde 1978, atualmente na situação de aposentado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Ao chegar a Coimbra (1954) inscreveu-se no Orfeon Académico e, mais tarde, no Coral da Faculdade de Letras (CELUC)",
+      "data": "1954",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Ao chegar a Coimbra (1954), integrou-se rapidamente no ambiente académico, inscrevendo-se no Orfeon Académico que então comemorava as suas bodas de diamante, e, mais tarde, no Coral da Faculdade de Letras (CELUC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Recomeçou a cantar em público em 1975, a convite de António Pinho Brojo",
+      "data": "1975",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Após uma interrupção na atividade musical durante a preparação do seu doutoramento, recomeçou a cantar em público em 1975, a convite do seu colega e amigo, Prof. A. Pinho Brojo (guitarrista de grande relevo nos anos 40-50)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A adenda do mesmo texto diz «1975/76»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Começou a compor em 1978; autor de algumas dezenas de músicas, fados e/ou canções de matriz coimbrã",
+      "data": "1978",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "começou a compor em 1978, passando a integrar as suas composições nos fonogramas que gravou a partir de então (ver discografia). É Autor de algumas dezenas de músicas, entre fados e/ou canções de matriz coimbrã"
+        }
+      ],
+      "conflito": false,
+      "nota": "O mesmo post lista 43 partituras de obras compostas por José Mesquita."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1980 integrou o grupo fundador do Coro dos Antigos Orfeonistas do Orfeon Académico de Coimbra",
+      "data": "1980",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Em 1980 integrou o grupo fundador do “Coro dos Antigos Orfeonistas do Orfeon Académico de Coimbra”, com o qual, desde então, tem colaborado regularmente"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Autor, coordenador e participante da série de televisão «Canção de Coimbra-Anos 80» (6 programas)",
+      "data": "1989",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Em 1989, foi autor, coordenador e participante de uma nova série de televisão (6 programas) que, com a designação de “Canção de Coimbra-Anos 80”, foi dedicada aos inéditos publicitados nesta década"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Participação nas séries televisivas «Tempo(s) de Coimbra» (1983) e «Coimbra sem tempo» (1985)",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "De realçar a sua ampla participação nas séries televisivas “Tempo(s) de Coimbra” (1983) e “Coimbra sem tempo” (1985)"
+        }
+      ],
+      "conflito": true,
+      "nota": "As fontes dão anos diferentes para o programa «Tempo(s) de Coimbra»: 1983, 1984 e 1985."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Feiticeira», de Ângelo Araújo, no programa de Dórdio Guimarães «Tempo de Coimbra», do ano de 1984",
+      "data": "1984",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/09/jose-mesquita-canta-feiticeira-no.html",
+          "doc": "gc-iii:7912080791546744662",
+          "citacao": "José Mesquita canta \"Feiticeira\", de Ângelo Araújo, no programa de Dórdio Guimarães, Tempo de Coimbra, do ano de 1984"
+        }
+      ],
+      "conflito": true,
+      "nota": "As fontes dão anos diferentes para o programa «Tempo(s) de Coimbra»: 1983, 1984 e 1985."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Súplica» no programa televisivo «Tempos de Coimbra», 1985",
+      "data": "1985",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/jose-mesquita-canta-suplica-no-programa.html",
+          "doc": "gc-iii:3631378934192077708",
+          "citacao": "José Mesquita canta \"Súplica\" no programa televisivo \"Tempos de Coimbra\", 1985"
+        }
+      ],
+      "conflito": true,
+      "nota": "As fontes dão anos diferentes para o programa «Tempo(s) de Coimbra»: 1983, 1984 e 1985."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discografia a solo (sem colaborações nem compilações): 4 LP (1978-1987) e 6 CD (1996-2012)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "A sua discografia, a solo, (excluindo colaborações e compilações ) compreende 4 LP’s (1978-1987) e 6 CD’s (1996- 2012)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canções de Coimbra», VADECA/Roda SSRL-9000 (1978)",
+      "data": "1978",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Canções de Coimbra (1978): LP edit.VADECA/Roda estereo(SSRL-9000)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O mesmo número SSRL 9000 aparece noutras fontes com o ano de 1979 e com outro título."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canções de Coimbra por Antigos Estudantes», Vadeca/Valentim de Carvalho, SSRL 9000, Lisboa, 1979; guitarras de António Brojo e Jorge Gomes, violas de Aurélio dos Reis e Manuel Dourado",
+      "data": "1979",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Canções de Coimbra por Antigos Estudantes, Vadeca/Valentim de Carvalho, SSRL 9000, Lisboa, 1979. Canta José Mesquita. Guitarras: António Brojo e Jorge Gomes. Violas: Aurélio dos Reis e Manuel Dourado."
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de 2017 dá 1978 para o SSRL-9000."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Fados e baladas de Coimbra por antigos estudantes. Dr. José Mesquita», RODA, SSRL 9000, 1979",
+      "data": "1979",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "LP Fados e baladas de Coimbra por antigos estudantes. Dr. José Mesquita. Lisboa: RODA, SSRL 9000, 1979"
+        }
+      ],
+      "conflito": true,
+      "nota": "Para o SSRL 9000, as outras fontes dão o título «Canções de Coimbra»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Fados e Baladas de Coimbra (por Antigos Estudantes)», VADECA/Roda SSRL-9001, 1979; regista o inédito «Tempo que não passa»",
+      "data": "1979",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Fados e Baladas de Coimbra (1979): LP edit.VADECA/Roda estereo(SSRL-9001)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Fados e Baladas de Coimbra por Antigos Estudantes, Vadeca/Valentim de Carvalho, SSRL 9001, Lisboa, 1979. Canta José Mesquita. Guitarras: António Brojo e Jorge Gomes. Violas: Aurélio dos Reis e Manuel Dourado. Regista 10 temas, sendo inédito Tempo que não passa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Dr. José Mesquita canta a Coimbra dos Poetas», Fotossonoro (Edisom 620591), 1983; guitarras de António Portugal e António Brojo, violas de Aurélio dos Reis e Luís Filipe",
+      "data": "1983",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Coimbra dos Poetas (1983): LP edit. Fotossonoro (Edison)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Dr. José Mesquita canta a Coimbra dos Poetas, Fotossonoro, Edisom 620591, 1983, 552$00. Canta José Mesquita. Guitarras: António Portugal e António Brojo. Violas: Aurélio dos Reis e Luís Filipe. Contém 12 temas, sendo 11 inéditos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «José Mesquita. Ecos da Canção Coimbrã», Philips 832 303-1, 1987 (reedição em CD em 1996); guitarra de Octávio Sérgio, violas de António Sérgio [Sérgio Azevedo] e Durval Moreirinhas",
+      "data": "1987",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Ecos da Canção Coimbrã (1987): LP Polygram Discos, S.A. (Philips) (Reedição em CD-1996/532339-2)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP José Mesquita. Ecos da Canção Coimbrã, Philips, 832 303-1, 1987, 1.115$00. Voz de José Mesquita. Guitarra de Octávio Sérgio. Violas por António Sérgio [Sérgio Azevedo] e Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra dos Poetas (II)», 1999, dist. Loja da Música e Coimbra XXI (também em CD duplo)",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Coimbra dos Poetas (II) (1999): CD Dist. Loja da Música e Coimbra XXI. (Também em CD duplo)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post data de 2000 o duplo CD «José Mesquita. Coimbra dos Poetas»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Duplo CD «José Mesquita. Coimbra dos Poetas», 2000",
+      "data": "2000",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/lisboa-e-o-fado-raros-so-os-espaos.html",
+          "doc": "gc-i:114595878691405010",
+          "citacao": "livreto do duplo CD José Mesquita. Coimbra dos Poetas, 2000)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de 2017 dá 1999."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra das Canções Trovas e Baladas», 1999, dist. Loja da Música e Coimbra XXI (também em CD duplo)",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Coimbra das Canções Trovas e Baladas (1999): CD Dist. Loja da Música e Coimbra XXI (Também em CD duplo)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post dá janeiro de 2000."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Duplo CD «José Mesquita. Coimbra das Canções, Trovas e Baladas», Coimbra, sem editor, janeiro de 2000",
+      "data": "2000-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "-duplo CD “José Mesquita. Coimbra das Canções, Trovas e Baladas”, Coimbra, sem editor, Janeiro de 2000"
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de 2017 dá 1999."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD duplo «Trovas Serenas… e outras canções na Galáxia Sonora Coimbrã», 2008, ed. e dist. Ovação",
+      "data": "2008",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Trovas Serenas…e outras canções na Galáxia Sonora Coimbrã (2008): (CD duplo). Edit. e dist. Ovação."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Anúncio do lançamento de um duplo CD com Canto e Guitarra de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/jos-mesquita-vai-lanar-no-mercado.html",
+          "doc": "gc-ii:7866545578393119386",
+          "citacao": "José Mesquita vai lançar no mercado discográfico um duplo CD com Canto e Guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 10-03-2008, sobre um texto de Patrícia Cruz Almeida no Diário As Beiras («Diário as Beiras de ontem», citado no post). O post não diz o título do disco."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Alain Oulman em “jeito Coimbrão”… singela homenagem ao músico e à sua intérprete de eleição Amália», 2012, dist. Ovação",
+      "data": "2012",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-ALAIN OULMAN em “jeito Coimbrão”…singela homenagem ao músico e à sua intérprete de eleição AMÁLIA ( 2012 ): CD Dist. Ovação."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/jose-mesquita.html",
+          "doc": "gc-iv:7206090160923113270",
+          "citacao": "Novo disco de José Mesquita em homenagem a Alain Oulman e Amália Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Colaboração na coletânea «Tempo(s) de Coimbra – oito décadas no canto e na guitarra» (6 LP, EMI-Valentim de Carvalho), 1985",
+      "data": "1985",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Tempo(s) de Coimbra-oito décadas no canto e na guitarra (1985). Coletânea de 6 LP`s-EMI Valentim de Carvalho (Reedição em CD -1992; 2013)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra fonte data a antologia de 1984 (ver também a ficha da gravação tempos-de-coimbra-emi-2603881)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Álbum «Tempo(s) de Coimbra, Oito décadas no canto e na guitarra», pelo Grupo de Guitarras e Cantares de Coimbra, EMI-Valentim de Carvalho, 1984 (6 LP)",
+      "data": "1984",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-álbum Tempo(s) de Coimbra, Oito décadas no canto e na guitarra. Pelo Grupo de Guitarras e Cantares de Coimbra, Lisboa, Emi-Valentim de Carvalho, 1984. Antologia constituída por 6 LPs."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Disco 1: LP Do princípio do século até fim dos anos 20, EMI-Valentim de Carvalho, 2603831, Lisboa, 1990. Cantam José Mesquita, Alfredo Correia e António Bernardino."
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de 2017 dá 1985. A segunda citação é do disco 1 da edição de 1990."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Cantor homenageado na «XIV Grande Noite do Fado Académico» (2013), organizada pela Associação de Estudantes do ISEP",
+      "data": "2013",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "-Foi o cantor homenageado na “XIV Grande Noite do Fado Académico-2013” (Organização da Associação de Estudantes do Instituto de Engenharia do Porto (ISEP)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Artigo «Canção de Coimbra/Reflexões», Arquivo Coimbrão, vol. 37, pp. 397-424, 2007",
+      "data": "2007",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "** Este tema, que tem sido abordado por José Mesquita em colóquios, crónicas, entrevistas…está desenvolvido num artigo intitulado “Canção de Coimbra/Reflexões”in Arquivo Coimbrão, vol.37, 397-424, 2007."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro de partituras «Novos fados/canções de Coimbra [contributo para a sua renovação]», Coimbra, edição do autor em ebook, outubro de 2017, 207 págs. (43 partituras)",
+      "data": "2017-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "NOVOS FADOS/CANÇÕES DE COIMBRA [CONTRIBUTO PARA A SUA RENOVAÇÃO]/JOSÉ MESQUITA, Coimbra, Edição do Autor em ebook, outubro de 2017, 207 págs.. Transcrições musicais para piano (parte melódica) de Rui César Vilão e José Ricardo Cardoso Silva. ... Contém 43 partituras relativas a obras compostas por José Mesquita"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -34,6 +622,19 @@
         }
       ],
       "nota": "voz; digressão a Macau e Hong Kong (2004)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-brojo-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/10/o-blogue-guitarra-de-coimbra-tem-honra.html",
+          "doc": "gc-v:11815251966694745",
+          "citacao": "Foi cofundador do “Grupo de Guitarras e Cantares de Coimbra” (iniciativa de António Portugal e António Brojo, para reconstituição “formal” do seu grupo dos anos 50) com o qual cantou, durante mais de duas décadas"
+        }
+      ],
+      "nota": "voz; cofundador. A fonte chama-lhe «Grupo de Guitarras e Cantares de Coimbra»; o post gc-i:116670874430043267 escreve «Grupo de Guitarras e Cantares de Coimbra (grupo Brojo/Portugal)»."
     }
   ],
   "imagens": [

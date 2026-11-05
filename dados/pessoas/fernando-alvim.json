@@ -4,10 +4,298 @@
   "nome": "Fernando Alvim",
   "nomes_alternativos": [],
   "papeis": [
-    "violista"
+    "violista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Iniciou o estudo de guitarra clássica na sua juventude na Escola de Guitarra do Prof. Duarte Costa em Lisboa, tendo posteriormente frequentado os cursos de guitarra clássica ministrados pelo Prof. Emilio Pujol, no Conservatório Nacional."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Na década de 50 começa a frequentar assiduamente o Hot Club. Barney Kessel, Jim Hall, Wes Montgomery são, entre outros, alguns dos seus inspiradores."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "De 1959 a 1984 colaborou regularmente com Carlos Paredes, realizando um duo de concerto e criando as harmonias e os acompanhamentos rítmicos das músicas deste guitarrista. Os dois efectuaram concertos pelos cinco continentes e actuaram em prestigiadas salas tais como o Olympia e o Bobino, em Paris; o Teatro da Ópera de Sidney, entre outras. Participou em toda a discografia de Carlos Paredes."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Interessou-se, também, pela Bossa-Nova divulgando este último estilo em Portugal principalmente através do programa de variedades Nova Onda, que foi emitido quinzenalmente na Emissora Nacional de 1961 a 1963."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Nos anos 70 constituiu o seu próprio conjunto de guitarras tendo com ele gravado 2 EPs e 1 LP, com peças de sua autoria e de outros compositores e participado em numerosos programas da Emissora Nacional."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Dedicou-se também ao fado gravando inúmeros discos e acompanhando diversos intérpretes como Amália Rodrigues, Luz Sá da Bandeira, Mísia, Carlos do Carmo, Vicente da Câmara e outros."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/fernando-alvim.html",
+      "doc": "gc-v:7184568930260988183",
+      "citacao": "Morreu Fernando Alvim, o acompanhador por excelência de Carlos Paredes."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Ourém, 6 de novembro de 1934",
+      "data": "1934-11-06",
+      "local": "Ourém",
+      "fontes": [
+        {
+          "fonte": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q10281231",
+          "doc": "wikidata:wea791bc7eb09baa9",
+          "citacao": "date of birth 6 November 1934"
+        },
+        {
+          "fonte": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q10281231",
+          "doc": "wikidata:wea791bc7eb09baa9",
+          "citacao": "place of birth Ourém"
+        }
+      ],
+      "conflito": false,
+      "nota": "Wikidata, entrada Q10281231 («Portuguese guitarist»): a data tem como referência o IMDb; o local foi importado da Wikipédia em português. Não se encontrou a data nos blogues."
+    },
+    {
+      "campo": "morte",
+      "valor": "27 de fevereiro de 2015",
+      "data": "2015-02-27",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q10281231",
+          "doc": "wikidata:wea791bc7eb09baa9",
+          "citacao": "date of death 27 February 2015"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/fernando-alvim.html",
+          "doc": "gc-v:7184568930260988183",
+          "citacao": "Morreu Fernando Alvim, o acompanhador por excelência de Carlos Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data vem da Wikidata (referência: IMDb). O post do blogue V, de 2 de março de 2015, noticia a morte e reproduz um texto do jornal Público de 28 de fevereiro de 2015."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Guitarra clássica na Escola de Guitarra do Prof. Duarte Costa (Lisboa) e nos cursos do Prof. Emilio Pujol no Conservatório Nacional",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Iniciou o estudo de guitarra clássica na sua juventude na Escola de Guitarra do Prof. Duarte Costa em Lisboa, tendo posteriormente frequentado os cursos de guitarra clássica ministrados pelo Prof. Emilio Pujol, no Conservatório Nacional."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica do programa dos III Encontros Internacionais de Guitarra Portuguesa (Coimbra, 2009)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Colaborou regularmente com Carlos Paredes de 1959 a 1984, em duo de concerto, criando as harmonias e os acompanhamentos rítmicos; participou em toda a sua discografia",
+      "data": "1959",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "De 1959 a 1984 colaborou regularmente com Carlos Paredes, realizando um duo de concerto e criando as harmonias e os acompanhamentos rítmicos das músicas deste guitarrista."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Participou em toda a discografia de Carlos Paredes."
+        }
+      ],
+      "conflito": true,
+      "nota": "O Museu do Fado põe o início da parceria em 1960 (ver o facto seguinte)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Acompanhou Carlos Paredes na banda sonora de «Rendas de Metais Preciosos» (1960), início de uma parceria de mais de 20 anos",
+      "data": "1960",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Dois anos antes, em 1960, tinha composto a música da banda sonora da curta-metragem \"Rendas de Metais Preciosos\" realizada por Cândido Costa Pinto. Na execução desta peça foi acompanhado por Fernando Alvim, começando uma parceria que se prolongaria por mais de 20 anos."
+        }
+      ],
+      "conflito": true,
+      "nota": "Página de Carlos Paredes no Museu do Fado. A nota biográfica dos III Encontros (blogue III, 2009) dá «De 1959 a 1984»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Divulgou a bossa-nova no programa «Nova Onda» da Emissora Nacional (1961-1963); colaborou no programa «Zip-Zip» (harmonizações, seleção de intérpretes e músicas compostas para o programa)",
+      "data": "1961",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Interessou-se, também, pela Bossa-Nova divulgando este último estilo em Portugal principalmente através do programa de variedades Nova Onda, que foi emitido quinzenalmente na Emissora Nacional de 1961 a 1963."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "No final da década de 60 e início da década de 70 participou activamente no programa de variedades Zip-Zip tendo colaborado na harmonização das canções a apresentar, na selecção de intérpretes e composto várias músicas para esse programa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Com o seu próprio conjunto de guitarras, nos anos 70, gravou 2 EP e 1 LP, com peças suas e de outros compositores",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Nos anos 70 constituiu o seu próprio conjunto de guitarras tendo com ele gravado 2 EPs e 1 LP, com peças de sua autoria e de outros compositores"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD duplo com composições suas (notícia do Diário as Beiras de 26-9-2011)",
+      "data": "2011",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/fernando-alvim-lanca-cd-duplo-com.html",
+          "doc": "gc-iv:2384169642101545720",
+          "citacao": "Fernando Alvim lança CD duplo com composições de sua autoria. Diário as Beiras de 26-9-2011."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«A Guitarra Portuguesa Encontra o Jazz», com Ricardo Marques (guitarra portuguesa), nos III Encontros Internacionais de Guitarra Portuguesa (Coimbra, outubro de 2009): estreia de peças originais, entre elas «Manhã Feliz», «Viajando no Comboio» e «Improviso Tropical», de sua autoria",
+      "data": "2009-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "No programa “A Guitarra Portuguesa Encontra o Jazz”, Fernando Alvim e Ricardo Marques estreiam um conjunto de peças originais com influências de Jazz e Bossa Nova, aqui interpretadas à Guitarra e à Viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Manhã Feliz - Fernando Alvim ... Viajando no Comboio - Fernando Alvim ... Improviso Tropical - Fernando Alvim"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programa dos III Encontros Internacionais de Guitarra Portuguesa (Coimbra, 10-18 de outubro de 2009)."
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de mérito cultural da Câmara Municipal de Cascais (7 de junho de 2005)",
+      "data": "2005-06-07",
+      "local": "Cascais",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 7 de Junho de 2005 recebe a medalha de mérito cultural atribuída pela Câmara Municipal de Cascais."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/homenagem-fernando-alvim-o-tec-e-eptc.html",
+          "doc": "gc-i:111791443233811758",
+          "citacao": "O TEC e a EPTC, convidam-no para a homenagem a Fernando Alvim. Espaço Memória - TEC, 7 de Junho 18h30."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado pela Câmara Municipal do Porto, com as Armas da Cidade do Porto (12 de maio de 2007)",
+      "data": "2007-05-12",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 12 de Maio de 2007 é homenageado pela Câmara Municipal do Porto tendo recebido as Armas da Cidade do Porto."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de Mérito Cultural da Câmara Municipal de Constância (9 de junho de 2008)",
+      "data": "2008-06-09",
+      "local": "Constância",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 9 de Junho de 2008 recebe a Medalha de Mérito Cultural atribuída pela Câmara Municipal de Constância."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de Ouro do Município de Ourém (20 de junho de 2008)",
+      "data": "2008-06-20",
+      "local": "Ourém",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 20 de Junho de 2008 recebe a Medalha de Ouro do Município de Ourém"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "gravacao",
       "valor": "Viola no LP Guitarra Portuguesa de Carlos Paredes (Columbia SPMX 5002, 1967)",
@@ -42,9 +330,103 @@
         }
       ],
       "nota": "À viola. Em 1967, na primeira atuação de Pedro Caldeira Cabral como solista (Rádio Clube Português), segundo o excerto autobiográfico de «A Guitarra Portuguesa» (1999) reproduzido no Museu do Fado."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/fernando-alvim.html",
+          "doc": "gc-v:7184568930260988183",
+          "citacao": "Morreu Fernando Alvim, o acompanhador por excelência de Carlos Paredes."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "De 1959 a 1984 colaborou regularmente com Carlos Paredes, realizando um duo de concerto e criando as harmonias e os acompanhamentos rítmicos das músicas deste guitarrista."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "Na execução desta peça foi acompanhado por Fernando Alvim, começando uma parceria que se prolongaria por mais de 20 anos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/ep-de-carlos-paredes-com-fernando.html",
+          "doc": "gc-i:111343639995711332",
+          "citacao": "EP de Carlos Paredes com Fernando Alvim. Este primeiro disco de Carlos Paredes editado em 1962 pela Alvorada - Rádio Triunfo"
+        }
+      ],
+      "nota": "À viola. O início da parceria diverge entre as fontes (1959 ou 1960): ver os factos «atividade»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Além de Carlos Paredes, acompanhou vários guitarristas tais como: Artur Paredes, João Torre do Vale, Pedro Caldeira Cabral"
+        }
+      ],
+      "nota": "À viola."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-janita-salom-melro_21.html",
+          "doc": "gc-i:111143636122887357",
+          "citacao": "Na guitarrada, fui acompanhado por Durval Moreirinhas à guitarra e Fernando Alvim à viola."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "peça gravada em 1980 por Octávio Sérgio [com Durval Moreirinhas / Fernando Alvim]"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/fernando-alvim.html",
+          "doc": "gc-v:7184568930260988183",
+          "citacao": "Ainda tive o privilégio de ser acompanhado por ele nas Variações em Lá M de António Rodrigues (António das Águas) no disco de Janita Salomé, \"O MELRO\"."
+        }
+      ],
+      "nota": "À viola, nas «Variações em Lá maior» de António Rodrigues (António das Águas), no disco «Melro» de Janita Salomé (gravação de 1980). O post do blogue I é de Octávio Sérgio («tocada por mim»)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Alvim.jpg",
+      "legenda": "Fernando Alvim no TAGV («No final, Fernando Alvim posou para a posteridade»).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/antnio-chanho-e-fernando-a_113340788159049929.html",
+          "doc": "gc-i:113340788159049929",
+          "citacao": "António Chaínho e Fernando Alvim no TAGV. No final, Fernando Alvim posou para a posteridade."
+        }
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Alvim.jpg?width=800",
+      "legenda": "Fernando Alvim. Fotografia de José Goulão (Wikimedia Commons, CC BY-SA 2.0).",
+      "fontes": [
+        {
+          "fonte": "wikimedia-commons",
+          "url": "https://commons.wikimedia.org/wiki/File%3AFernando_Alvim.jpg",
+          "doc": "wikimedia-commons:w2a38540645cac6be",
+          "citacao": "Imagem (P18) da entidade Wikidata Q10281231: Fernando Alvim"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

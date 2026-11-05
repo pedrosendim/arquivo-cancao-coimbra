@@ -1,0 +1,100 @@
+{
+  "id": "francisco-da-silveira-morais",
+  "tipo": "pessoa",
+  "nome": "Francisco da Silveira Morais",
+  "nomes_alternativos": [
+    "Francisco Morais",
+    "Chico Morais"
+  ],
+  "papeis": [
+    "guitarrista"
+  ],
+  "biografia": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, freguesia de Santa Cruz, 15 de junho de 1899",
+      "data": "1899-06-15",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-da-silveira-morais_20.html",
+          "doc": "gc-v:2014459490563157926",
+          "citacao": "Fez ontem, dia 19 de Fevereiro de 2013, 54 anos que faleceu em Coimbra, o Dr. Francisco da Silveira Morais. Nascera a 15 de Junho de 1899, na freguesia de Santa Cruz, da mesma cidade."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-morais.html",
+          "doc": "gc-v:5345829630349444379",
+          "citacao": "faz 55 anos que FRANCISCO MORAIS faleceu em Coimbra, a 19 de Fevereiro do ano de 1959. Nasceu em Coimbra a 15 de Junho de 1899."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Manuel Marques Inácio (GC V, 2013 e 2014)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 19 de fevereiro de 1959",
+      "data": "1959-02-19",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-morais.html",
+          "doc": "gc-v:5345829630349444379",
+          "citacao": "faz 55 anos que FRANCISCO MORAIS faleceu em Coimbra, a 19 de Fevereiro do ano de 1959. Nasceu em Coimbra a 15 de Junho de 1899."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "«Chico Morais», como os amigos o tratavam",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-morais.html",
+          "doc": "gc-v:5345829630349444379",
+          "citacao": "Colocámos neste blog a 19 e a 20 de Fevereiro de 2013, dois pequenos textos biográficos sobre “Chico Morais”, como os seus amigos o tratavam."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro ativo da Tuna e do Orfeon Académico de Coimbra, «sendo um guitarrista afamado»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-da-silveira-morais_20.html",
+          "doc": "gc-v:2014459490563157926",
+          "citacao": "No seu tempo de estudante universitário, participou activamente em todas actividades académicas, foi membro activo da Tuna, e do Orfeon Académico de Coimbra, sendo um guitarrista afamado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em maio de 1927 participou na gravação de cinco fonogramas com o cantor José Paradela de Oliveira",
+      "data": "1927-05",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-da-silveira-morais_20.html",
+          "doc": "gc-v:2014459490563157926",
+          "citacao": "Participou em Maio de 1927, na gravação de cinco fonogramas com o cantor estudante de Direito, seu amigo, José Paradela de Oliveira (1904 – 1970)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "relacoes": [],
+  "imagens": [],
+  "ligacoes": [],
+  "estado_revisao": "rascunho"
+}

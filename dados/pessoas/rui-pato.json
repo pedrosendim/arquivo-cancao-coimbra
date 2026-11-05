@@ -2,11 +2,52 @@
   "id": "rui-pato",
   "tipo": "pessoa",
   "nome": "Rui Pato",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Rui de Melo Pato",
+    "Rui de Melo Rocha Pato",
+    "Rui de Melo da Rocha Pato"
+  ],
   "papeis": [
     "violista"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/08/rui-pato.html",
+      "doc": "gc-iii:6119351123744482732",
+      "citacao": "Estávamos no início dos anos 60 e eu já tocava viola num grupo de fados no Liceu D. João III (actual Escola Secundária José Falcão), de que faziam parte Francisco Martins, guitarrista"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+      "doc": "gc-v:4888476747986321236",
+      "citacao": "De 1962 a 1969 José Afonso seria predominantemente acompanhado em viola dedilhada de cordas de nylon pelo jovem aluno do Liceu D. João III /Coimbra, Rui de Melo Pato (n. Coimbra, 1946), que a partir de 1965 frequentou a FM / UC e foi associado da Tuna Académica (TAUC)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+      "doc": "gc-i:1259402797223755712",
+      "citacao": "Rui Pato não se limitou a acompanhar José Afonso e Adriano Correia de Oliveira em viola nylon. Trabalhou paralelamente um interessante reportório instrumental: no EP “Canção Longe. Rui Pato interpreta em viola José Afonso”, Rapsódia, 1963"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+      "doc": "gc-v:4888476747986321236",
+      "citacao": "O viola Rui Pato permutaria com as figuras de proa mais progressistas da década, deixando a sua assinatura em trabalhados gravados por José Afonso, Adriano Correia de Oliveira, António Portugal, António Bernardino e Nuno Guimarães."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+      "doc": "gc-iii:1951802223216688905",
+      "citacao": "A dupla com José Afonso foi interrompida pela PIDE em 1970 quando a polícia política impediu que Rui Pato seguisse para Londres para gravar \"Traz Outro Amigo Também\", na sequência da crise académica de 69."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/08/rui-pato.html",
+      "doc": "gc-iii:6119351123744482732",
+      "citacao": "Depois disso, quando me formei em Medicina, em 1972, dediquei-me ao exercício da profissão e só muito raramente fazia música, o que voltou a acontecer com o Adriano numa Festa do Avante e, depois, a pedido do Zeca, no seu último concerto no Coliseu, onde eu o acompanhei em três temas dos seus mais antigos."
+    }
+  ],
   "factos": [
     {
       "campo": "nome_completo",
@@ -19,10 +60,48 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
           "doc": "gc-v:6775765202156850938",
           "citacao": "com um filho (Rui de Melo Pato) que nasce em 1946"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "Rui de Melo Pato (n. Coimbra, 1946)"
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "As fontes dão três formas do nome completo: «Rui de Melo Pato», «Rui de Melo Rocha Pato» e «Rui de Melo da Rocha Pato»."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Rui de Melo Rocha Pato",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "Rui de Melo Rocha Pato nasceu em Coimbra, no dia 04 de Junho de 1946, filho do jornalista-fotógrafo Rocha Pato"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto assinado por Luís Pinheiro de Almeida, retirado do blogue da AJA («Do Blog da AJA») e reproduzido no post."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Rui de Melo da Rocha Pato",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 5 de Junho nasce em Coimbra Rui de Melo da Rocha Pato."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia «Canções e Guitarradas nas décadas de 1930-1940», de António José Soares e António Manuel Nunes."
     },
     {
       "campo": "nascimento",
@@ -35,10 +114,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
           "doc": "gc-v:6775765202156850938",
           "citacao": "com um filho (Rui de Melo Pato) que nasce em 1946"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "Rui de Melo Pato (n. Coimbra, 1946)"
         }
       ],
-      "conflito": false,
-      "nota": "Texto de Rui Pato sobre o pai, reproduzido no blogue."
+      "conflito": true,
+      "nota": "Texto de Rui Pato sobre o pai, reproduzido no blogue. O post de 2026 (GC V) indica «n. Coimbra, 1946», sem o dia."
     },
     {
       "campo": "nascimento",
@@ -52,8 +137,278 @@
           "citacao": "acompanhado por Rui Pato (n. 1946)"
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": "Texto de Jorge Cravo, «Este mês ouvimos… José Afonso» (Biblioteca Municipal de Coimbra, agosto de 2025). A reportagem da Lusa citada na relação com José Afonso diz que «tinha 16 anos quando, em 1961» começou a acompanhá-lo; o editor deve confrontar as duas indicações."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 4 de junho de 1946",
+      "data": "1946-06-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "Rui de Melo Rocha Pato nasceu em Coimbra, no dia 04 de Junho de 1946, filho do jornalista-fotógrafo Rocha Pato"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto assinado por Luís Pinheiro de Almeida, retirado do blogue da AJA e reproduzido no post. Diverge no dia da cronologia do GC I e do post de aniversário do GC IV (5 de junho)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 5 de junho de 1946",
+      "data": "1946-06-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1946 ... A 5 de Junho nasce em Coimbra Rui de Melo da Rocha Pato."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/hoje-dia-5-de-junho-rui-pato-faz-anos.html",
+          "doc": "gc-iv:6128838757456229777",
+          "citacao": "Hoje, dia 5 de Junho, Rui Pato faz anos."
+        }
+      ],
+      "conflito": true,
+      "nota": "Na cronologia de António José Soares e António Manuel Nunes (GC I), o ano resulta do cabeçalho da secção «1946» em que a frase se encontra. O post do GC IV (5 de junho de 2011) indica só o dia de anos, sem o ano nem o local."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Aluno do Liceu D. João III, em Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "pelo jovem aluno do Liceu D. João III /Coimbra, Rui de Melo Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Frequentou a Faculdade de Medicina da Universidade de Coimbra a partir de 1965",
+      "data": "1965",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "Rui de Melo Pato (n. Coimbra, 1946), que a partir de 1965 frequentou a FM / UC"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formou-se em Medicina em 1972",
+      "data": "1972",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/rui-pato.html",
+          "doc": "gc-iii:6119351123744482732",
+          "citacao": "quando me formei em Medicina, em 1972"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/rui-pato-em-entrevista-ao-diario-as.html",
+          "doc": "gc-iv:4571057852059234079",
+          "citacao": "quando me formei em Medicina, em 1972"
+        }
+      ],
+      "conflito": false,
+      "nota": "Palavras de Rui Pato na entrevista de Lídia Pereira ao Diário as Beiras (agosto de 2009), reproduzida nos dois posts."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico pneumologista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "Reputado pneumologista"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/02/jose-afonso.html",
+          "doc": "gc-iv:8334078135708839830",
+          "citacao": "O médico Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Associado da Tuna Académica da Universidade de Coimbra (TAUC)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "que a partir de 1965 frequentou a FM / UC e foi associado da Tuna Académica (TAUC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Repertório instrumental em viola: EP «Canção Longe. Rui Pato interpreta em viola José Afonso» (Rapsódia, 1963); «Balada do Outono» no EP «Baladas e Canções» (Ofir, 1964); «Canto da Primavera» no EP «Baladas do Dr. José Afonso» (Ofir, 1964)",
+      "data": "1963",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/cano-de-coimbra-no-sculo-xix-1840-1900.html",
+          "doc": "gc-i:1259402797223755712",
+          "citacao": "no EP “Canção Longe. Rui Pato interpreta em viola José Afonso”, Rapsódia, 1963, destacam-se as peças “Canção Longe” (=Meu Bem), “Pastor de Bensafrim”, “Lianor” e “Selecção de Baladas”; segue-se “Balada do Outono”, no EP “Baladas e Canções”, Ofir, 1964; e “Canto da Primavera”, no EP “Baladas do Dr. José Afonso”, Ofir, 1964"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António Manuel Nunes."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Ballades Portugaises», de Germano Rocha (Paris, Barclay 920012, 1966), com repertório de José Afonso: viola, com José Niza, e António Andias na guitarra de Coimbra; gravado em Paris em 1966; o nome aparece disfarçado («Ruy Mello»)",
+      "data": "1966",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/germano-rocha.html",
+          "doc": "gc-v:520694391036674926",
+          "citacao": "Capa e contracapa de um registo fonográfico efectuado em Paris, no ano de 1966, com reportório de José Afonso na voz de Germano Rocha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/germano-rocha.html",
+          "doc": "gc-v:520694391036674926",
+          "citacao": "LP BALLADES PORTUGAISES. GERMANO ROCHA. Paris: Barclay 920012, 1966. ... Canta Germano Rocha. Arranjos e acompanhamento garantido por António Andias da Paula (guitarra de Coimbra), José Niza e Rui Pato (violas). Os nomes estão disfarçados (“Niza Mendes”, “Paula”, Ruy Mello”) para evitar problemas com as editoras portuguesas."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 dá o registo como efectuado em 1966 (imagens cedidas por Rui Pato); o post de 2026 cita José Niza (1999), para quem a gravação terá sido feita ainda em 1965 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo José Niza (1999), a gravação do LP «Ballades Portugaises» de Germano Rocha (edição de 1966) terá sido realizada meses antes, ainda em 1965; cantor acompanhado por António Andias (gC1), Rui Pato (v) e José Niza (v)",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "LP Germano Rocha, Ballades Portugaises, Paris, Barclay 920012, edição de 1966. Segundo Niza (1999), a gravação terá sido realizada meses antes, ainda em 1965. Cantor acompanhado por António Andias (gC1), Rui Pato (v), José Niza (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": "José Niza, Fado de Coimbra (1999), citado no post de 2026."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canção da Primavera», de Francisco Filipe Martins / Rui Pato (abril de 1986)",
+      "data": "1986-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-dez.html",
+          "doc": "gc-i:111246059322520811",
+          "citacao": "Foi por Abril de 1986 que surgiu no mercado o LP Canção da Primavera, de Francisco Filipe Martins / Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem no caderno do CD «Primavera 2», reproduzido no post."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Francisco Filipe Martins - Primavera 2» (Philips - PolyGram), saído em 1998: viola, com Humberto Matias, a acompanhar Francisco Martins",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-disco-francisco-filipe-martins.html",
+          "doc": "gc-i:111246658306644045",
+          "citacao": "Disco editado pela PHILIPS - PolyGram, e saído em 1998. ... Francisco Martins foi acompanhado por Rui Pato e Humberto Matias à viola e Manuel Rocha em Violino."
+        }
+      ],
+      "conflito": true,
+      "nota": "Octávio Sérgio dá o disco como saído em 1998; o texto de Armando Luís de Carvalho Homem no caderno do mesmo disco diz «Em Abril de 1996, eis que a mesma dupla (...) ‘reincide’» (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em abril de 1996 a dupla Francisco Filipe Martins / Rui Pato «reincide», com o violino de Manuel Rocha e a viola de Humberto Matias",
+      "data": "1996-04",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-dez.html",
+          "doc": "gc-i:111246059322520811",
+          "citacao": "Em Abril de 1996, eis que a mesma dupla (agora com o violino de Manuel Rocha e o ‘reforço’ da viola de Humberto Matias), ‘reincide’."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Armando Luís de Carvalho Homem no caderno do CD «Primavera 2», reproduzido no post. Diverge do ano de saída (1998) dado por Octávio Sérgio."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto no caderno do CD «Francisco Filipe Martins - Primavera 2» (Philips - PolyGram)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Texto de Rui Pato inserto no disco"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-disco-francisco-filipe-martins.html",
+          "doc": "gc-i:111246658306644045",
+          "citacao": "O que há a dizer sobre este trabalho, está magnificamente exposto, nos textos que se seguem, por Armando Luís de Carvalho Homem e Rui Pato (Ambos incluídos no caderno que acompanha o disco)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Três violas (guitarras clássicas): uma Odemira, da fábrica Luso-Espanhola (1967), uma de Luís Filipe Roxo (1980) e uma de Jorge Ulisses, fabricante de Braga (1999)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "Tenho actualmente três guitarras (violas): uma Odemira, da fábrica Luso-Espanhola, fabricada em 1967, uma do Luís Filipe Roxo, fabricada em 1980, e uma (a melhor de todas), de um fabricante de Braga , o Jorge Ulisses, feita em 1999."
+        }
+      ],
+      "conflito": false,
+      "nota": "Palavras de Rui Pato citadas no texto de Luís Pinheiro de Almeida (post de 7 de julho de 2010)."
     },
     {
       "campo": "publicacao",
@@ -265,9 +620,124 @@
           "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7321",
           "doc": "mpagdp:w3727eb9700537669",
           "citacao": "Músico, iniciou em 1962, com 16 anos, uma estreita colaboração com José Afonso. Rui Pato acompanhou o cantor pela primeira vez à viola na gravação do \"Menino d'oiro\"."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "tendo sido o acompanhante à viola de José Afonso, por escolha deste, na primeira fase da sua carreira na balada, de 1962 a 1969."
         }
       ],
-      "nota": "Divergência: a reportagem da Lusa (2012) situa o início em 1961; o blogue Guitarra de Coimbra V (2018) cita Rui Pato a dizer que a gravação de outubro de 1962 foi «o primeiro contacto que tive com o Zeca Afonso». O texto «Sobre o artista» de A Música Portuguesa a Gostar Dela Própria (2011) diz que iniciou a colaboração «em 1962, com 16 anos» e que o acompanhou pela primeira vez na gravação do «Menino d'oiro»."
+      "nota": "Divergência: a reportagem da Lusa (2012) situa o início em 1961; o blogue Guitarra de Coimbra V (2018) cita Rui Pato a dizer que a gravação de outubro de 1962 foi «o primeiro contacto que tive com o Zeca Afonso». O texto «Sobre o artista» de A Música Portuguesa a Gostar Dela Própria (2011) diz que iniciou a colaboração «em 1962, com 16 anos» e que o acompanhou pela primeira vez na gravação do «Menino d'oiro». O texto de Luís Pinheiro de Almeida reproduzido no GC III (2010) indica «de 1962 a 1969»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/rui-pato.html",
+          "doc": "gc-iii:1951802223216688905",
+          "citacao": "Entre 1960 e 1971 foi também um dos principais acompanhantes de Adriano Correia de Oliveira."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/rui-pato.html",
+          "doc": "gc-iii:6119351123744482732",
+          "citacao": "Ainda antes, por altura de 1965, comecei também a acompanhar o Adriano [Correia de Oliveira]"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/08/rui-pato.html",
+          "doc": "gc-iii:6119351123744482732",
+          "citacao": "Mas continuei a acompanhar o Adriano em 1969, em 70, ainda gravei com ele “O canto e as armas”, com poemas de Manuel Alegre."
+        }
+      ],
+      "nota": "viola. Divergência nas datas: o texto de Luís Pinheiro de Almeida (GC III, 2010) diz «Entre 1960 e 1971»; na entrevista ao Diário as Beiras (agosto de 2009, reproduzida no GC III), Rui Pato diz que começou «por altura de 1965» e que ainda o acompanhou «Em 70, 71, 72»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Tive o privilégio de acompanhar em viola alguns dos grandes nomes da guitarra portuguesa tocada no seu estilo Coimbrão. Uma só vez esse génio criativo do Carlos Paredes"
+        }
+      ],
+      "nota": "viola, «Uma só vez»; texto de Rui Pato no caderno do CD «Francisco Filipe Martins - Primavera 2», reproduzido no GC I (2005)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Tive o privilégio de acompanhar em viola alguns dos grandes nomes da guitarra portuguesa tocada no seu estilo Coimbrão. Uma só vez esse génio criativo do Carlos Paredes, muitas outras a raiva incontida do António Portugal"
+        }
+      ],
+      "nota": "viola; texto de Rui Pato no caderno do CD «Francisco Filipe Martins - Primavera 2», reproduzido no GC I (2005)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Tive o privilégio de acompanhar em viola alguns dos grandes nomes da guitarra portuguesa tocada no seu estilo Coimbrão. ... quase tantas ainda a riqueza do estilo tão coimbrão do Pinho Brojo"
+        }
+      ],
+      "nota": "viola; texto de Rui Pato no caderno do CD «Francisco Filipe Martins - Primavera 2», reproduzido no GC I (2005)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "francisco-martins",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Tive o privilégio de acompanhar em viola alguns dos grandes nomes da guitarra portuguesa tocada no seu estilo Coimbrão. ... e nos últimos anos, o Francisco Martins."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-disco-francisco-filipe-martins.html",
+          "doc": "gc-i:111246658306644045",
+          "citacao": "Francisco Martins foi acompanhado por Rui Pato e Humberto Matias à viola e Manuel Rocha em Violino."
+        }
+      ],
+      "nota": "viola; LP «Canção da Primavera» (1986) e CD «Francisco Filipe Martins - Primavera 2»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/rui-pato-acompanha-luiz-goes-em-homem.html",
+          "doc": "gc-iii:4495523153712321701",
+          "citacao": "Rui Pato acompanha Luiz Goes em \"Homem Só, Meu Irmão\", no programa \"Tempos de Coimbra\", no ar em 1985, na RTP."
+        }
+      ],
+      "nota": "viola; programa «Tempos de Coimbra» (RTP, 1985)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/registos-fonogrficos-de-carlos-leal-e.html",
+          "doc": "gc-i:115151098147348832",
+          "citacao": "Tema gravado por António Bernardino em 1966, acompanhado à guitarra por António Portugal e Manuel Borralho e, à viola, por Rui Pato (EP Fados de Coimbra, Alvorada AEP 60817)"
+        }
+      ],
+      "nota": "viola; EP «Fados de Coimbra» (Alvorada AEP 60817, 1966)."
     }
   ],
   "imagens": [
@@ -280,6 +750,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/04/rui-pato.html",
           "doc": "gc-i:111445636466870984",
           "citacao": "Rui Pato. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoXGAeu7KGhGD13gCmFqzhOPlX1sWwnQnP5l_kFOh60O87TlboRgYqD4C2pPp7P5gESgL3HEVdvE3jA03rc6bz8F8mlt1VxVUsBguS4_BEywlQxzYdzVidPyyxdu4IP1QKxHR_GM8Kh0Dz/s1600/RPato+1958.jpg",
+      "legenda": "Rui Pato em 1958, com 12 anos, já agarrado a uma viola",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/hoje-dia-5-de-junho-rui-pato-faz-anos.html",
+          "doc": "gc-iv:6128838757456229777",
+          "citacao": "Em cima, uma foto de Rui Pato datada de 1958, com 12 anos, já agarrado a uma viola."
         }
       ]
     }

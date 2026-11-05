@@ -2,12 +2,46 @@
   "id": "jorge-gomes",
   "tipo": "pessoa",
   "nome": "Jorge Gomes",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Jorge Luís da Costa Gomes",
+    "Jorge Luís Costa Gomes"
+  ],
   "papeis": [
     "guitarrista",
-    "professor"
+    "professor",
+    "violista"
   ],
   "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+      "doc": "gc-i:6887860940434040026",
+      "citacao": "Jorge Gomes, de nome completo Jorge Luís da Costa Gomes, nascido em 19 de Julho de 1941, começou a tocar guitarra aos 15 anos, em Coimbra. Licenciou-se em História."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+      "doc": "gc-i:112937132851911513",
+      "citacao": "É já em ambiente de velório e de morte simbólica da CC que o formador Jorge Gomes inicia em 1972, e de modo sistemático, o ensino da guitarra coimbrã (núcleo sediado no Complexo das Piscinas Municipais)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+      "doc": "gc-v:7089790293110351255",
+      "citacao": "Segundo relatos de Jorge Gomes, o primeiro curso teve lugar no ano de 1972, numa sala localizada no átrio das piscinas municipais, tendo as classes durado até 1974, com cerca de 8 a 10 alunos / alunas por ano."
+    },
+    {
+      "fonte": "tauc-arquivo-digital",
+      "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+      "doc": "tauc-arquivo-digital:w860332618b8db975",
+      "citacao": "O Gomes, que, nesses anos, era professor nas escolas da TAUC e da Secção de Fado da AAC, tornou-se um garante da existência de grupos de fados, com razoável qualidade, no seio da Academia"
+    },
+    {
+      "fonte": "tauc-arquivo-digital",
+      "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+      "doc": "tauc-arquivo-digital:w860332618b8db975",
+      "citacao": "Ele afastou-se da TAUC por volta de 1998(?) — sinceramente não me lembro se terá existido alguma razão em concreto — e continuou a ensinar na Secção de Fado até Março de 2020"
+    },
     {
       "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-carlos-paredes-guitarra.html",
@@ -87,6 +121,286 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Jorge Luís da Costa Gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+          "doc": "gc-i:6887860940434040026",
+          "citacao": "Jorge Gomes, de nome completo Jorge Luís da Costa Gomes"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/bases-para-o-projecto-de-candidatura.html",
+          "doc": "gc-i:113179133591062054",
+          "citacao": "Dr. Jorge Luís da Costa GOMES (Guitarra de Coimbra, Viola Toeira, Música Tradicional de Coimbra)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra grafia: «Jorge Luís Costa Gomes» (cronologia, gc-i:116638481779194072)."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Jorge Luís Costa Gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 19 de Julho nasce em Coimbra Jorge Luís Costa Gomes."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra grafia: «Jorge Luís da Costa Gomes» (gc-i:6887860940434040026; bases da candidatura, gc-i:113179133591062054)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 19 de julho de 1941",
+      "data": "1941-07-19",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+          "doc": "gc-i:6887860940434040026",
+          "citacao": "nascido em 19 de Julho de 1941"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 19 de Julho nasce em Coimbra Jorge Luís Costa Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia de António José Soares e António Manuel Nunes (gc-i:116638481779194072) a entrada figura sob o ano de 1941."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a tocar guitarra aos 15 anos, em Coimbra",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+          "doc": "gc-i:6887860940434040026",
+          "citacao": "começou a tocar guitarra aos 15 anos, em Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciado em História (curso de História na Faculdade de Letras da Universidade de Coimbra)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+          "doc": "gc-i:6887860940434040026",
+          "citacao": "Licenciou-se em História."
+        },
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "O professor de guitarra era o Jorge Gomes, que nessa data ainda não tinha concluído o curso de História na FLUC."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Nessa data»: o 2.º semestre do ano letivo de 1990/1991, segundo o texto de Adamo Caetano (2024)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Inicia em 1972, de modo sistemático, o ensino da guitarra de Coimbra, nos cursos de viola e guitarra promovidos pela Secretaria da Juventude (sala no átrio das piscinas municipais; classes até 1974)",
+      "data": "1972",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+          "doc": "gc-i:112937132851911513",
+          "citacao": "o formador Jorge Gomes inicia em 1972, e de modo sistemático, o ensino da guitarra coimbrã (núcleo sediado no Complexo das Piscinas Municipais)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "Documentário apresentado por Fialho Gouveia sobre a 2.ª edição dos cursos de viola e guitarra de Coimbra promovidos pela Secretaria da Juventude ... classe de guitarra de Coimbra coordenada pelo executante de viola e guitarra Jorge Gomes ... Segundo relatos de Jorge Gomes, o primeiro curso teve lugar no ano de 1972, numa sala localizada no átrio das piscinas municipais, tendo as classes durado até 1974"
+        }
+      ],
+      "conflito": false,
+      "nota": "O documentário é «Movimento - Parte II» (RTP, 15-12-1973), descrito no post gc-v:7089790293110351255."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Formador da Escola Municipal do Chiado (1978-1990), com Fernando Monteiro",
+      "data": "1978",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/msica-tradicional-de-coimbra-temas-da.html",
+          "doc": "gc-i:113179243540256654",
+          "citacao": "Escola Municipal do Chiado (1978-1990), orientada pelos formadores Dr. Jorge Gomes e Dr. Fernando Monteiro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No dia 19 de Maio de 1979 ocorreu o II Seminário sobre o Fado de Coimbra que teve o seu ponto alto na Serenata Monumental na Sé Velha e onde estiveram presentes inúmeros cultores do \"Fado de Coimbra\", com destaque para o grupo de alunos da “Escola de Fado”, que funcionava no Edificio Chiado e era dirigida por Jorge Gomes."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é do texto de João Moura («Coimbra do meu tempo»), sobre a serenata de 19-05-1979."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Professor nas escolas da TAUC (anos 90; afastou-se por volta de 1998) e da Secção de Fado da AAC (até março de 2020)",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "O Gomes, que, nesses anos, era professor nas escolas da TAUC e da Secção de Fado da AAC ... Ele afastou-se da TAUC por volta de 1998(?) — sinceramente não me lembro se terá existido alguma razão em concreto — e continuou a ensinar na Secção de Fado até Março de 2020"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Adamo Caetano, 6-07-2024 («nesses anos»: depois de 1992)."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Na reportagem de 1973, a sua guitarra «parece ser uma João Pedro Grácio Júnior de finais dos anos 50, adquirida a Octávio Sérgio nos alvores dos sixties»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "A guitarra do formador parece ser uma João Pedro Grácio Júnior de finais dos anos 50, adquirida a Octávio Sérgio nos alvores dos sixties."
+        }
+      ],
+      "conflito": false,
+      "nota": "Identificação feita pelo autor do post a partir das imagens, com reserva («parece ser»)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Na reportagem «Movimento - Parte II» (RTP, 15-12-1973), atuação em Santa Clara-a-Velha com António Ralha (gC), Manuel Dourado (v), Luís Filipe (v) e Victor Nunes (voz)",
+      "data": "1973-12-15",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "«Movimento - Parte II», 15.12.1973, RTP Arquivo ... nas imagens finais, tomadas em Santa a Clara-a-Velha, atuação de uma formação constituída por Jorge Gomes (gC), António Ralha (gC), Manuel Dourado (v), Luís Filipe (v) e Victor Nunes (voz)."
+        }
+      ],
+      "conflito": false,
+      "nota": "A ficha do RTP Arquivos (rtp-arquivos:w864e351701e5351d) não nomeia os músicos."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra, com António Pinho Brojo, nos LP de José Mesquita «Fados e baladas de Coimbra por antigos estudantes» (RODA, SSRL 9000 e SSRL 9001, 1979), com Aurélio dos Reis e Manuel Dourado (violas)",
+      "data": "1979",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "LP Fados e baladas de Coimbra por antigos estudantes. Dr. José Mesquita. Lisboa: RODA, SSRL 9000, 1979, acompanhado por António Pinho Brojo/Jorge Gomes (ggC) e Aurélio dos Reis/Manuel Dourado (vv)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "LP Fados e baladas de Coimbra por antigos estudantes. Dr. José Mesquita. Lisboa: RODA, SSRL 9001, 1979, acompanhado por António Pinho Brojo/Jorge Gomes (ggC) e Aurélio dos Reis/Manuel Dourado (vv)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão de gc-v:6190918462132593194 (AMNunes, 2018): o mesmo título nos dois LP e a editora RODA. Outra versão: gc-v:4163497511678760872 (AMNunes, 2026) chama ao SSRL 9000 «Canções de Coimbra por Antigos Estudantes» e dá Vadeca/Valentim de Carvalho aos dois LP; o texto de João Moura (gc-i:114505781169831106) também fala de «Canções de Coimbra» e «Fados e Baladas de Coimbra» (editora Vadeca)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra, com António Brojo, nos LP de José Mesquita «Canções de Coimbra por Antigos Estudantes» (SSRL 9000) e «Fados e Baladas de Coimbra por Antigos Estudantes» (SSRL 9001), Vadeca/Valentim de Carvalho, Lisboa, 1979, com Aurélio dos Reis e Manuel Dourado (violas)",
+      "data": "1979",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Canções de Coimbra por Antigos Estudantes, Vadeca/Valentim de Carvalho, SSRL 9000, Lisboa, 1979. Canta José Mesquita. Guitarras: António Brojo e Jorge Gomes. Violas: Aurélio dos Reis e Manuel Dourado."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Fados e Baladas de Coimbra por Antigos Estudantes, Vadeca/Valentim de Carvalho, SSRL 9001, Lisboa, 1979. Canta José Mesquita. Guitarras: António Brojo e Jorge Gomes. Violas: Aurélio dos Reis e Manuel Dourado."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "É também em 1979 que aparecem ao público os trabalhos discográficos do Prof. José Mesquita intitulados “Canções de Coimbra” e “Fados e Baladas de Coimbra” (editora Vadeca) em que colaboram Pinho Brojo e Jorge Gomes, nas guitarras, e Aurélio dos Reis e Manuel Dourado, nas violas."
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão de gc-v:4163497511678760872 (AMNunes, 2026). A terceira citação é do texto de João Moura («Coimbra do meu tempo», adaptação de um texto de «Canção de Coimbra, testemunhos vivos», 2002, citado no post), que não dá números de catálogo. Outra versão: gc-v:6190918462132593194 (AMNunes, 2018) dá aos dois LP o título «Fados e baladas de Coimbra por antigos estudantes» e a editora RODA."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor de «Maio de 78», guitarrada composta para celebrar a restauração da Serenata, em 1978",
+      "data": "1978",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/06/maio-de-78-de-jorge-gomes.html",
+          "doc": "gc-v:6225189247922165319",
+          "citacao": "João Alvarez e Durval Moreirinhas no \"Maio de 78\" de Jorge Gomes."
+        },
+        {
+          "fonte": "jornal-diario-de-coimbra",
+          "url": "https://www.uc.pt/media_uc/maio_2018/Documentos/03052018_serenata_DC",
+          "doc": "jornal-diario-de-coimbra:w75586cdccb23cb2d",
+          "citacao": "será a guitarrada “Maio 78”, de Jorge Gomes, composto para celebrar a restauração da Serenata, em 1978."
+        }
+      ],
+      "conflito": false,
+      "nota": "Diário de Coimbra de 3-05-2018 (abertura da Serenata Monumental da Queima das Fitas desse ano)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Evento «Jorge Gomes | Meio século no ensino da Guitarra de Coimbra», no foyer do grande auditório do Convento São Francisco",
+      "data": "2021-10-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "No dia 5 de Outubro de 2021 aconteceu em Coimbra, no foyer do grande auditório do Convento São Francisco, um evento que assinalou «Jorge Gomes | Meio século no ensino da Guitarra de Coimbra»"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Medalha da cidade de Coimbra, grau ouro, atribuída pela Câmara Municipal de Coimbra na sessão solene no Convento São Francisco",
+      "data": "2024-07-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "No dia 4 de Julho de 2024, a Câmara Municipal de Coimbra, na sessão solene que aconteceu no Convento São Francisco, distinguiu Jorge Gomes com a medalha da cidade, grau ouro."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -119,12 +433,120 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/12/placa-de-homenagem-ao-cantor-e.html",
           "doc": "gc-i:113389236988259358",
           "citacao": "tendo actuado Manuel Julião (voz e viola), o grupo de Manuel Branquinho (com Jorge Gomes) e o Grupo de Hermínio Menino."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Formou grupo com Gabriel Ferreira (g.) e Jorge Gomes [!!!!!] (v.)"
         }
       ],
       "nota": "viola; Sabrosa (1968) e homenagem a Lucas Junot (1970)"
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "Jorge Gomes é, para mim, a escola técnica de Artur Paredes personificada. É claro que ele também estudava e ensinava repertório de outros guitarristas (incluindo Carlos Paredes), mas a sua referência, digna da maior admiração e estudo contínuo, sempre foi a produção guitarrística de Artur Paredes."
+        }
+      ],
+      "nota": "Texto de Adamo Caetano (2024)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-ralha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "atuação de uma formação constituída por Jorge Gomes (gC), António Ralha (gC), Manuel Dourado (v), Luís Filipe (v) e Victor Nunes (voz)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/05/producao-fonografica-do-conjunto.html",
+          "doc": "gc-v:317687412411170614",
+          "citacao": "acompanhado em guitarra de Coimbra por António Ralha/Jorge Gomes e na viola por Manuel Dourado"
+        }
+      ],
+      "nota": "Guitarras, com Manuel Dourado na viola: reportagem da RTP de 1973 e CD de Serra Leitão (1993)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "luis-filipe-roxo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/08/os-primitivos-cursos-de-viola-e.html",
+          "doc": "gc-v:7089790293110351255",
+          "citacao": "atuação de uma formação constituída por Jorge Gomes (gC), António Ralha (gC), Manuel Dourado (v), Luís Filipe (v) e Victor Nunes (voz)."
+        }
+      ],
+      "nota": "Reportagem da RTP de 1973; Luís Filipe era o formador da classe de viola dos mesmos cursos."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Pelos alvores da década de 70 teve alguma actividade com – e para além de António Portugal (g.) e Aurélio Afonso dos Reis (v.) – Jorge Gomes (g.) e Luís Filipe [Roxo Ferreira] / Manuel Dourado (vv.)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "Guitarras: António Brojo e Jorge Gomes."
+        }
+      ],
+      "nota": "A primeira frase refere-se a António Brojo (inícios dos anos 70); a segunda, ao LP de José Mesquita de 1979."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Octávio Sérgio de Matos Azevedo pertencera ao Orfeon Académico e ao Coro Misto, e integrara grupos com Jorge Gomes, David Leandro"
+        }
+      ],
+      "nota": "Grupos dos anos 60."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhreKV2K3u_TtnkINbc80OCWMw_acjKM_Ex5Sdqm2irgxvAF7AcI73KG3o5oboJEeF9tX4WVWgxW7_2_HuNrXqlTsdUZFeC8WLuUpFwYpdyAvuC0YbSoBXLoTGA828EUTylhl8fqA/s1600-h/Jorge+Gomes+livro+Fado+Falado.jpg",
+      "legenda": "Jorge Gomes (Jorge Luís da Costa Gomes): foto do livro «Fado Falado» (colecção Um Século de Fado, Ediclube, 1999), que ilustra a entrevista de Baptista-Bastos. Foto de José Santos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-gomes-de-nome-completo-jorge-lus.html",
+          "doc": "gc-i:6887860940434040026",
+          "citacao": "Jorge Gomes, de nome completo Jorge Luís da Costa Gomes ... Esta foto do livro Fado Falado, da colecção Um Século de Fado, da Ediclube, saído em 1999, ilustra uma interessante entrevista que o autor Baptista-Bastos, lhe fez. A foto é de José Santos."
+        }
+      ]
+    },
+    {
+      "url": "https://tunauc.wordpress.com/wp-content/uploads/2024/07/jorge-luiz-da-costa-gomes-tauc-anos-90.jpg",
+      "legenda": "Jorge Gomes, sala museu da TAUC, anos 90 (1993)",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/2024/07/06/jorge-gomes-o-mestre-de-guitarra-escola-de-coimbra/",
+          "doc": "tauc-arquivo-digital:w860332618b8db975",
+          "citacao": "Jorge Gomes, sala museu da TAUC, anos 90 (1993)."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

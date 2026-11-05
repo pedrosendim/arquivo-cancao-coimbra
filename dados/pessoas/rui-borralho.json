@@ -6,8 +6,116 @@
   "papeis": [
     "violista"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "A 23 de Novembro nasce no Congo Belga Rui Borralho."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:6800273436579906074",
+      "citacao": "Iniciou-se na viola de cordas de nylon, conjuntamente com seu irmão Rui Borralho, junto de Rui Nazareth. O conjunto Scoubidous (1961-1967), em fase de formação, precisou de uma formação de guitarras de Coimbra para algumas das suas atuações e foi neste contexto que Manuel Borralho iniciou a sua aprendizagem, tendo tocado com seus irmãos José Borralho (gC), e Rui Borralho (v)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/06/sobre-jos-tito-mackay.html",
+      "doc": "gc-i:115077275843459530",
+      "citacao": "Vendo bem, os anos que vão de ca. 1957 a ca. 1965 assistiram a um conjunto de modificações de tomo na prática da viola de acompanhamento. ... nomes como Manuel Pepe, Levi Baptista, José Tito, Durval Moreirinhas, Paulo Alão, Humberto Matias e um pouco mais tarde Rui Pato, Jorge Moutinho, Jorge Rino, Jorge Ferraz de Oliveira ou Rui Borralho operaram uma autêntica revolução"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "A partir de 1966/67, ingressou na Tuna Académica da Universidade de Coimbra (TAUC) onde ocupou o naipe de bandolas e aí passou a fazer parte do seu grupo de fados que incluía Manuel Borralho (guitarra), Rui Pato e Rui Borralho (violas) para além dos cantores António Bernardino e José Manuel dos Santos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+      "doc": "gc-i:113872260824886914",
+      "citacao": "acompanhado à guitarra por Nuno Guimarães e Manuel Borralho e, à viola, por Jorge Rino e Rui Borralho: EP “António Bernardino. Fado Corrido de Coimbra”, Porto, Ofir, AM 4.101), ano de 1967."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/02/tua-rua.html",
+      "doc": "gc-iii:5117704203999313597",
+      "citacao": "Espécime gravado também por Mário Soares da Veiga em 1968 no EP Contos Velhinhos, Porto, OFIR 4.116, acompanhado à guitarra por Manuel Borralho e Hermínio Menino e, à viola, por Jorge Rino e Rui Borralho."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Congo Belga, 23 de novembro de 1946",
+      "data": "1946-11-23",
+      "local": "Congo Belga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 23 de Novembro nasce no Congo Belga Rui Borralho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na cronologia de António José Soares e António Manuel Nunes (gc-i:116638481779194072) a entrada figura sob o ano de 1946."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Iniciou-se na viola de cordas de nylon, com o irmão Manuel Borralho, junto de Rui Nazareth",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:6800273436579906074",
+          "citacao": "Iniciou-se na viola de cordas de nylon, conjuntamente com seu irmão Rui Borralho, junto de Rui Nazareth."
+        }
+      ],
+      "conflito": false,
+      "nota": "A frase está na biografia de Manuel Gonçalves Borralho, que «se iniciou» «conjuntamente com seu irmão Rui Borralho»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola (com Jorge Rino) no EP «Contos Velhinhos» de Mário Soares da Veiga (Porto, Ofir 4.116, 1968), com Manuel Borralho e Hermínio Menino nas guitarras",
+      "data": "1968",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/tua-rua.html",
+          "doc": "gc-iii:5117704203999313597",
+          "citacao": "Espécime gravado também por Mário Soares da Veiga em 1968 no EP Contos Velhinhos, Porto, OFIR 4.116, acompanhado à guitarra por Manuel Borralho e Hermínio Menino e, à viola, por Jorge Rino e Rui Borralho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-ep-mrio-soares-da-veiga-contos.html",
+          "doc": "gc-i:111402712950047494",
+          "citacao": "Capa do EP \"Mário Soares da Veiga, Contos Velhinhos - Fados de Coimbra\", etiqueta Ofir. Hermínio Menino e Manuel Borralho à guitarra; Jorge Rino e Rui Borralho à viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Contos velhinhos – OFIR AM 4116 com Mário Soares da Veiga, Hermínio Menino, Jorge Rino e Rui Borralho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola (alternando com Rui Pato, Jorge Rino e Jorge Ferraz) nos quatro EP gravados por Nuno Guimarães nos seus dois últimos anos em Coimbra, a acompanhar José Manuel Santos e António Bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Nos dois últimos anos da sua estadia em Coimbra, José Nuno Guimarães Guedes dos Santos gravara quatro EP’s 45 RPM, com Manuel Borralho (g.), Rui Pato / Rui Borralho / Jorge Rino / Jorge Ferraz (vv.), acompanhando os cantores José Manuel Santos (dois) e António Bernardino (outros dois)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não diz em que EP toca cada viola."
+    },
     {
       "campo": "gravacao",
       "valor": "Viola no EP Fado Corrido de Coimbra de António Bernardino (Ofir AM 4.101)",
@@ -48,6 +156,64 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "grupo-de-fados-da-tauc",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "aí passou a fazer parte do seu grupo de fados que incluía Manuel Borralho (guitarra), Rui Pato e Rui Borralho (violas) para além dos cantores António Bernardino e José Manuel dos Santos."
+        }
+      ],
+      "nota": "Viola, a partir de 1966/67 (biografia de José Ferraz de Oliveira no CD «Canções d'Inquietude»)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+          "doc": "gc-i:113872260824886914",
+          "citacao": "acompanhado à guitarra por Nuno Guimarães e Manuel Borralho e, à viola, por Jorge Rino e Rui Borralho: EP “António Bernardino. Fado Corrido de Coimbra”, Porto, Ofir, AM 4.101), ano de 1967."
+        }
+      ],
+      "nota": "Viola no EP «Fado Corrido de Coimbra» (1967)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "nuno-guimaraes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Nos dois últimos anos da sua estadia em Coimbra, José Nuno Guimarães Guedes dos Santos gravara quatro EP’s 45 RPM, com Manuel Borralho (g.), Rui Pato / Rui Borralho / Jorge Rino / Jorge Ferraz (vv.)"
+        }
+      ],
+      "nota": "Quatro EP gravados nos dois últimos anos da estadia de Nuno Guimarães em Coimbra."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jorge-rino",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/tua-rua.html",
+          "doc": "gc-iii:5117704203999313597",
+          "citacao": "acompanhado à guitarra por Manuel Borralho e Hermínio Menino e, à viola, por Jorge Rino e Rui Borralho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+          "doc": "gc-i:113872260824886914",
+          "citacao": "à viola, por Jorge Rino e Rui Borralho"
+        }
+      ],
+      "nota": "As duas violas dos EP de Mário Soares da Veiga (1968) e de António Bernardino (1967)."
     }
   ],
   "imagens": [

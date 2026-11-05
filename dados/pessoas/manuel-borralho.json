@@ -9,7 +9,44 @@
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Biografia de Manuel Borralho (Guitarra de Coimbra) Nasceu em Coimbra em 12 de Outubro de 1943."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Iniciou-se na guitarra em 1961, ainda estudante do liceu. Integrou vários grupos de fados e guitarradas de Coimbra, actividade esta que manteve em simultâneo com o grupo inicial constituído com seus irmãos José e Rui Borralho."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "De 1962 a 1970, António Bernardino, Adriano Correia de Oliveira, José Manuel dos Santos e Fernando Gomes Alves (cantores), Francisco Filipe Martins, António Portugal, Hermínio Menino. Nuno Guimarães, António Andias e José Ferraz de Oliveira (guitarras) e Rui Pato, Rui Borralho, Jorge Rino e Jorge Ferraz (violas) foram sendo os seus companheiros, em diversos grupos com os quais fez espectáculos de vária índole, digressões, gravações de discos e gravações de programas para o Emissor Regional de Coimbra e para a RTP."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Pertenceu à Tuna Académica da Universidade de Coimbra de 1963 a 1970, onde integrava o naipe de violas e, de 1966 a 1970, o seu Grupo de Fados."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Vive em Braga onde exerce Medicina desde 1976."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+      "doc": "gc-i:113527307497443177",
+      "citacao": "Saiu de Coimbra em finais de 1970 e após 10 anos de interregno, recomeçou com José Ferraz de Oliveira (guitarra), Manuel Gouveia Ferreira (viola) e Fernando Gomes Alves (cantor) uma actividade regular, integrado no Grupo “Presença de Coimbra”."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -41,6 +78,82 @@
       ],
       "conflito": false,
       "nota": "Texto de Armando Luís de Carvalho Homem no livrete do CD, reproduzido no post."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Iniciou-se na guitarra em 1961, ainda estudante do liceu; na Tuna Académica (1963-1970) integrava o naipe de violas",
+      "data": "1961",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Iniciou-se na guitarra em 1961, ainda estudante do liceu."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Pertenceu à Tuna Académica da Universidade de Coimbra de 1963 a 1970, onde integrava o naipe de violas"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia do livrete do CD «Canções d'Inquietude» (2005), reproduzida no post."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico; exerce Medicina em Braga desde 1976 (biografia de 2005)",
+      "data": "1976",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Vive em Braga onde exerce Medicina desde 1976."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/duas-palavras-sobre-designacao-conjunto.html",
+          "doc": "gc-v:1552415873352881508",
+          "citacao": "Manuel Gonçalves Borralho (gC2, caloiro da FM /UC)"
+        }
+      ],
+      "conflito": false,
+      "nota": "«FM/UC»: Faculdade de Medicina da Universidade de Coimbra."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP: «Serenata de Coimbra» (Ofir AM 4039), «Coimbra antiga» (Ofir 4069), «Contos velhinhos» (Ofir AM 4116), «Fado corrido de Coimbra» (Ofir AM 4101), «Fados de Coimbra» (Alvorada AEP 60817 e AEP 60818, com António Bernardino, António Portugal e Rui Pato) e «Guitarradas de Coimbra» (Alvorada AEP 60927, com António Portugal e Rui Pato)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Serenata de Coimbra – OFIR AM 4039 com José Manuel dos Santos, Nuno Guimarães, Rui Pato e Jorge Ferraz ... Coimbra antiga – OFIR 4069 com José Manuel dos Santos, Nuno Guimarães, Rui Pato e Jorge Rino ... Contos velhinhos – OFIR AM 4116 com Mário Soares da Veiga, Hermínio Menino, Jorge Rino e Rui Borralho ... Fado corrido de Coimbra – OFIR AM 4101 com António Bernardino, Nuno Guimarães, Jorge Rino e Rui Borralho ... Fados de Coimbra – ALVORADA AEP 60817 e AEP 60818 com António Bernardino, António Portugal e Rui Pato ... Guitarradas de Coimbra – ALVORADA AEP 60927 com António Portugal e Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": "Secção «Discografia» da biografia no livrete do CD «Canções d'Inquietude» (2005)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fez parte de uma tertúlia de «Fado de Coimbra» que João Moura conheceu depois de ingressar na Universidade do Minho (1984)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Março de 1984. Ingresso na Universidade do Minho ... Através do António Mingocho, conheci uma tertúlia de \"Fado de Coimbra\" de que faziam parte, entre outros, o Manuel Borralho e o Luís Cerqueira, guitarristas que viveram Coimbra antes de mim"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de João Moura, «Coimbra do meu tempo»."
     }
   ],
   "relacoes": [
@@ -53,9 +166,15 @@
           "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
           "doc": "gc-iii:1214458622098257184",
           "citacao": "os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Pertenceu à Tuna Académica da Universidade de Coimbra de 1963 a 1970, onde integrava o naipe de violas e, de 1966 a 1970, o seu Grupo de Fados."
         }
       ],
-      "nota": "guitarra; serenata na Sé do Funchal, 30 de dezembro de 1968"
+      "nota": "guitarra; serenata na Sé do Funchal, 30 de dezembro de 1968; no Grupo de Fados da TAUC de 1966 a 1970, segundo a biografia do livrete de «Canções d'Inquietude» (2005)"
     },
     {
       "tipo": "membro_de",
@@ -72,9 +191,15 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2025/04/por-dentro-das-flores.html",
           "doc": "gc-v:1403020400799042504",
           "citacao": "As instrumentações e acompanhamentos de gC e v estiveram a cargo de Manuel Borralho (gC1), José Ferraz de Oliveira (gC2), Manuel Gouveia Ferreira (v) e Tiago Ferraz de Oliveira (v)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/textos-e-biografias-do-cd-canes.html",
+          "doc": "gc-i:113527307497443177",
+          "citacao": "Saiu de Coimbra em finais de 1970 e após 10 anos de interregno, recomeçou com José Ferraz de Oliveira (guitarra), Manuel Gouveia Ferreira (viola) e Fernando Gomes Alves (cantor) uma actividade regular, integrado no Grupo “Presença de Coimbra”."
         }
       ],
-      "nota": "guitarra (gC1); do CD de 1999 ao de 2024"
+      "nota": "guitarra (gC1); do CD de 1999 ao de 2024; atividade regular no grupo depois de 10 anos de interregno desde a saída de Coimbra (finais de 1970), segundo a biografia de 2005"
     },
     {
       "tipo": "membro_de",

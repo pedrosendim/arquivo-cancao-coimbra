@@ -127,11 +127,53 @@
     "disponivel": true,
     "verificado_em": "2026-10-28T20:14:06+00:00"
   },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/20-anos-a-cantar-antigos-orfeonistas-da-universidade-de-coimbra": {
+    "disponivel": true,
+    "miniatura": "https://cdn-images.rtp.pt/arquivo/2026/09/Orquestra.png?ixlib=php-1.1.0",
+    "titulo": "20 Anos a Cantar: Antigos Orfeonistas da Universidade de Coimbra",
+    "verificado_em": "2026-10-29T09:27:32+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/20-anos-a-cantar-antigos-orfeonistas-da-universidade-de-coimbra-2": {
+    "disponivel": true,
+    "miniatura": "https://cdn-images.rtp.pt/arquivo/2026/09/Sara.png?ixlib=php-1.1.0",
+    "titulo": "20 Anos a Cantar: Antigos Orfeonistas da Universidade de Coimbra",
+    "verificado_em": "2026-10-29T09:27:34+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/20o-aniversario-da-morte-de-adriano-correia-de-oliveira": {
+    "disponivel": true,
+    "miniatura": "https://cdn-images.rtp.pt/arquivo/2017/10/adriano3.png?ixlib=php-1.1.0",
+    "titulo": "20º Aniversário da morte de Adriano Correia de Oliveira",
+    "verificado_em": "2026-10-29T09:27:37+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/2o-festival-jose-afonso": {
+    "disponivel": true,
+    "miniatura": "https://cdn-images.rtp.pt/arquivo/2026/04/outo.png?ixlib=php-1.1.0",
+    "titulo": "2º Festival José Afonso",
+    "verificado_em": "2026-10-29T09:27:42+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/75-anos-de-carlos-paredes": {
+    "disponivel": true,
+    "miniatura": "https://cdn-images.rtp.pt/arquivo/2021/09/c-paredes.png?ixlib=php-1.1.0",
+    "titulo": "75 anos de Carlos Paredes",
+    "verificado_em": "2026-10-29T09:28:14+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/80-anos-de-radio-3": {
+    "disponivel": true,
+    "miniatura": "https://arquivos.rtp.pt/wp-content/themes/par/img/RTPArquivosShare.jpg",
+    "titulo": "80 Anos de Rádio",
+    "verificado_em": "2026-10-29T09:28:15+00:00"
+  },
   "rtp-arquivos|https://arquivos.rtp.pt/conteudos/a-cancao-de-coimbra": {
     "disponivel": true,
     "miniatura": "https://arquivos.rtp.pt/wp-content/themes/par/img/RTPArquivosShare.jpg",
     "titulo": "A Canção de Coimbra",
     "verificado_em": "2026-10-29T09:28:26+00:00"
+  },
+  "rtp-arquivos|https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa": {
+    "disponivel": true,
+    "miniatura": "https://arquivos.rtp.pt/wp-content/themes/par/img/RTPArquivosShare.jpg",
+    "titulo": "A Guitarra Portuguesa",
+    "verificado_em": "2026-10-29T09:28:40+00:00"
   },
   "rtp-arquivos|https://arquivos.rtp.pt/conteudos/a-guitarra-portuguesa-parte-ii": {
     "disponivel": true,

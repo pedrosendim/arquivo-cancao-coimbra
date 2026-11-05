@@ -4,39 +4,161 @@
   "nome": "Durval Moreirinhas",
   "nomes_alternativos": [],
   "papeis": [
-    "violista"
+    "violista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+      "doc": "gc-iv:4268738759842523870",
+      "citacao": "Durval Araújo Cerqueira Moreirinhas nasceu em Celorico de Basto, a 11 de Abril de 1937. Em 1947 foi residir para Coimbra, tendo-se matriculado no Liceu D. João III. Ainda “bicho”, entrou para a Tuna Académica da Universidade de Coimbra."
+    },
+    {
+      "fonte": "diario-de-noticias",
+      "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+      "doc": "diario-de-noticias:w6680ad65c0daf653",
+      "citacao": "aos 15 anos, entrou para a Tuna Académica da Universidade de Coimbra, mas os primeiros estudos musicais fez com o seu pai."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+      "doc": "gc-iv:4268738759842523870",
+      "citacao": "Conjuntamente com José Niza, gravou 1961, as primeiras baladas de José Afonso, exclusivamente acompanhadas á viola: Balada Aleixo e Minha Mãe. Com António Portugal, Eduardo Melo e Jorge Moutinho, Durval Moreirinhas gravou também o primeiro disco de Adriano Correia de Oliveira."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "Em 1962 Humberto Matias sai para o serviço militar, garantindo o lugar de viola Durval Moreirinhas, que entretanto ficara livre do grupo liderado por Jorge Tuna."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+      "doc": "gc-iv:4268738759842523870",
+      "citacao": "Passando a residir e a trabalhar em Lisboa – no Banco Borges & Irmão – passou a acompanhar António Andias, com o qual gravou um importante disco de Luiz Goes – Cantares de Amor e de Esperança."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+      "doc": "gc-iv:4268738759842523870",
+      "citacao": "Posteriormente, veio a integrar um novo grupo com Octávio Sérgio, António Bernardino e Armando Marta. Foi, aliás., com Octávio Sérgio que acompanhou José Afonso no LP Fados de Coimbra e outras canções (1981)."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+      "doc": "gc-iv:4268738759842523870",
+      "citacao": "Mais tarde, já em Lisboa, Jorge Tuna e Durval Moreirinhas voltam a tocar juntos e gravam em discos 28 guitarradas, todas da autoria de Jorge Tuna."
+    },
+    {
+      "fonte": "diario-de-noticias",
+      "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+      "doc": "diario-de-noticias:w6680ad65c0daf653",
+      "citacao": "referiu Fernando Machado Soares em novembro de 2006, quando o violista recebeu o Prémio Amália Música de Coimbra, com Jorge Tuna, músico com o qual estava a preparar um novo álbum."
+    }
+  ],
   "factos": [
     {
+      "campo": "nome_completo",
+      "valor": "Durval Araújo Cerqueira Moreirinhas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Durval Araújo Cerqueira Moreirinhas nasceu em Celorico de Basto"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "Falecimento de Durval [Araújo Cerqueira] Moreirinhas"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Araújo Cerqueira Moreirinhas nasceu em Celorico de Basto, na Beira Alta"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto do GC IV (2012) é assinado por Carlos Carranca."
+    },
+    {
       "campo": "nascimento",
-      "valor": "1937",
-      "data": "1937",
+      "valor": "Celorico de Basto, 11 de abril de 1937",
+      "data": "1937-04-11",
+      "local": "Celorico de Basto",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "músicas do viola Durval Moreirinhas (1937-2017)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "Falecimento de Durval [Araújo Cerqueira] Moreirinhas (Celorico de Basto, 11.04.1937; Lisboa, 12.06.2017)"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Durval Araújo Cerqueira Moreirinhas nasceu em Celorico de Basto, a 11 de Abril de 1937."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1937 ... A 11 de Abril nasce em Celorico de Basto Durval Araújo Cerqueira Moreirinhas."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Araújo Cerqueira Moreirinhas nasceu em Celorico de Basto, na Beira Alta, a 11 de abril de 1937"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Jorge Cravo (revista Fadista n.º 6, 2024) dá só o ano. A cronologia do GC I (António José Soares e António Manuel Nunes) tem a entrada na secção «1937». O DN acrescenta «na Beira Alta»."
     },
     {
       "campo": "morte",
-      "valor": "2017",
-      "data": "2017",
+      "valor": "Lisboa, 12 de junho de 2017",
+      "data": "2017-06-12",
+      "local": "Lisboa",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "músicas do viola Durval Moreirinhas (1937-2017)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "Falecimento de Durval [Araújo Cerqueira] Moreirinhas (Celorico de Basto, 11.04.1937; Lisboa, 12.06.2017)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/01/sobre-homenagem-durval-moreirinhas.html",
+          "doc": "gc-v:1391519358534874584",
+          "citacao": "O Durval faleceu a 12.Jun de 2017"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "O músico e compositor Durval Moreirinhas, de 80 anos, que acompanhou nomes como Amália Rodrigues e José Afonso, apontado como um dos \"históricos\" da canção de Coimbra, morreu segunda-feira, em Lisboa, disse hoje o músico Rui Pato."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Jorge Cravo (revista Fadista n.º 6, 2024) dá só o ano. A terceira citação é de uma carta de Valdemar Benavente (18-01-2018) reproduzida no GC V. O DN (13-06-2017) diz «morreu segunda-feira, em Lisboa», sem data."
     },
     {
       "campo": "gravacao",
@@ -52,6 +174,286 @@
       ],
       "conflito": false,
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), a propósito do cantor Armando Marta (1940-2007), que gravou o EP com «quatro temas de sua autoria»."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Coimbra, a partir de 1947 (aos dez anos, segundo o DN)",
+      "data": "1947",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Em 1947 foi residir para Coimbra, tendo-se matriculado no Liceu D. João III."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "aos dez anos foi residir para Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III, em Coimbra; estudante da Universidade de Coimbra na década de 1960",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "tendo-se matriculado no Liceu D. João III"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "estudante da UC na década de 1960"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Entrou na Tuna Académica da Universidade de Coimbra (TAUC) ainda «bicho» (aos 15 anos, segundo o DN); sócio da TAUC",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Ainda “bicho”, entrou para a Tuna Académica da Universidade de Coimbra."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "aos 15 anos, entrou para a Tuna Académica da Universidade de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "sócio da TAUC, membro dos grupos de Jorge Tuna, irmãos Melo (Coimbra Quartet)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pertenceu também ao Orfeon, com o qual fez muitas digressões",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Para além da Tuna Académica, pertenceu também ao Orfeon, com o qual realizou inúmeras digressões."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Além da Tuna Académica, pertenceu também ao Orfeon, com o qual realizou inúmeras digressões."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Trabalhou em Lisboa, no Banco Borges & Irmão (BBI)",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Passando a residir e a trabalhar em Lisboa – no Banco Borges & Irmão"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/espectculo-para-o-clube-do-bbi-em-1987.html",
+          "doc": "gc-i:111835375714798487",
+          "citacao": "Espectáculo para o clube do BBI, em 1987, banco onde trabalhava o Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou com José Niza, em 1961, as primeiras baladas de José Afonso acompanhadas só à viola: «Balada Aleixo» e «Minha Mãe»",
+      "data": "1961",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Conjuntamente com José Niza, gravou 1961, as primeiras baladas de José Afonso, exclusivamente acompanhadas á viola: Balada Aleixo e Minha Mãe."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Com o compositor José Niza, gravou em 1961, as primeiras baladas de José Afonso, exclusivamente acompanhadas à viola, \"Balada Aleixo\" e \"Minha Mãe\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou o primeiro disco de Adriano Correia de Oliveira, com António Portugal, Eduardo Melo e Jorge Moutinho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Com António Portugal, Eduardo Melo e Jorge Moutinho, Durval Moreirinhas gravou também o primeiro disco de Adriano Correia de Oliveira."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Com António Portugal, Eduardo Melo e Jorge Moutinho, Durval Moreirinhas gravou o primeiro disco de Adriano Correia de Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou com Jorge Tuna, em Lisboa, 28 guitarradas, todas da autoria de Jorge Tuna",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Mais tarde, já em Lisboa, Jorge Tuna e Durval Moreirinhas voltam a tocar juntos e gravam em discos 28 guitarradas, todas da autoria de Jorge Tuna."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participou na gravação de mais de três dezenas de discos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Participou na gravação de mais de três dezenas de discos, com Luiz Goes, José Afonso, Adriano Correia de Oliveira, Machado Soares"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "De António Menano a Amália Rodrigues, participou na gravação de mais de três dezenas de discos, segundo dados da Fundação Amália Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois textos dão a mesma lista de cantores; o DN acrescenta o grupo Alma de Coimbra."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor da música de uma dezena de fados e baladas, entre os quais a «Balada do 6.º Ano Médico» de 1962, com letra de João Barros Madeira",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "É autor da música de uma dezena de fados e baladas, entre as quais a Balada do 6º Ano Médico de 1962, com letra de João Barros Madeira."
+        }
+      ],
+      "conflito": true,
+      "nota": "O DN dá outro número (ver o facto seguinte)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor de doze fados e baladas de Coimbra (segundo o texto do programa dos Prémios Amália, citado pelo DN)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Segundo o mesmo texto, Moreirinhas é autor de doze fados e baladas de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto de Carlos Carranca (GC IV, 2012) diz «uma dezena» (ver o facto anterior)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuou em grandes salas, como o Lincoln Center de Nova Iorque e o Olympia de Paris",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "Durval Moreirinhas actuou nas mais importantes salas de espectáculo do Mundo, pisando palcos como o do Lincoln Centre de Nova Iorque ou o Olympia de Paris."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "\"a sua viola fez-se ouvir em várias partes do mundo, do Olympia de paris ao Lincoln Center de Nova Iorque, passando pela Suécia, Espanha, Alemanha, Brasil, Argentina, Canadá, Japão, Angola, Cabo Verde, Itália, Macau e Hong Kong\""
+        }
+      ],
+      "conflito": false,
+      "nota": "A citação do DN vem do texto do programa dos Prémios Amália."
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Amália Rodrigues (Prémio Amália Música de Coimbra), com Jorge Tuna, em novembro de 2006",
+      "data": "2006-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jorge-tuna-durval-moreirinhas-e-o.html",
+          "doc": "gc-i:116307121642436380",
+          "citacao": "Jorge Tuna, Durval Moreirinhas e o Orfeon Académico de Coimbra distinguidos com o prémio Amália Rodrigues."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/jorge-tuna-e-durval-moreirinhas.html",
+          "doc": "gc-i:116594214279148628",
+          "citacao": "Jorge Tuna e Durval Moreirinhas receberam o Prémio Amália Rodrigues."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "em novembro de 2006, quando o violista recebeu o Prémio Amália Música de Coimbra, com Jorge Tuna"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os posts do GC I remetem para o Diário de Coimbra («de ontem», num post de 9-11-2006) e para O Despertar de 7-12-2006 (texto de José Henrique Dias), reproduzidos em imagem."
     }
   ],
   "relacoes": [
@@ -102,6 +504,12 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
           "doc": "gc-iv:4268738759842523870",
           "citacao": "Foi, aliás., com Octávio Sérgio que acompanhou José Afonso no LP Fados de Coimbra e outras canções (1981)."
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "que acompanhou nomes como Amália Rodrigues e José Afonso"
         }
       ],
       "nota": "Viola em 1961 (Minha Mãe, Balada Aleixo) e no LP de 1981."
@@ -123,7 +531,198 @@
           "citacao": "tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)"
         }
       ],
-      "nota": "Dito num post de 2005 sobre Jorge Tuna e num comentário do blogue (Alfredo Moreirinhas, 2014), que cita uma carta do próprio Durval."
+      "nota": "Dito num post de 2005 sobre Jorge Tuna e num comentário do blogue (Alfredo Moreirinhas, 2014), que cita uma carta do próprio Durval. O DN diz que «os primeiros estudos musicais fez com o seu pai», sem o nomear (ver a biografia); nenhuma fonte arquivada diz que aprendeu com o tenente Custódio Moreirinhas, por isso não há relação aluno_de: fica para o editor."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-tuna",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: Jorge Tuna"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/06/falecimento-de-durval-moreirinhas-acaba.html",
+          "doc": "gc-v:6502826520381650928",
+          "citacao": "Envio-lhe um vídeo em que o Durval acompanha Jorge Tuna numa composição deste último, “OUTONAL”. E não se limita a acompanhar; toca em diálogo com a guitarra."
+        }
+      ],
+      "nota": "viola. A segunda citação é uma mensagem de Marinela St. Aubyn reproduzida no GC V (2017), sobre «Outonal» no Teatro São Jorge, 8-3-2012."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jorge-godinho",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: Jorge Tuna, Jorge Godinho"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como Jorge Godinho"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "eduardo-de-melo",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: ... Eduardo de Melo"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como Jorge Godinho, Eduardo de Melo"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "ernesto-de-melo",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: ... Ernesto de Melo"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... Ernesto de Melo"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-andias",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "passou a acompanhar António Andias, com o qual gravou um importante disco de Luiz Goes"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... António Andias"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: ... Octávio Sérgio"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... Octávio Sérgio"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "joao-bagao",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: ... João Bagão"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... João Bagão"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "carlos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/durval-moreirinhas.html",
+          "doc": "gc-iv:4268738759842523870",
+          "citacao": "A lista dos guitarristas que acompanhou não é menos importante: ... Carlos Couceiro"
+        },
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... Carlos Couceiro"
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "Canção com refrão gravada em dezembro de 1964, na Holanda, por José Miguel Baptista, acompanhado à guitarra por Eduardo de Melo e Ernesto de Melo e, à viola, por Durval Moreirinhas"
+        }
+      ],
+      "nota": "viola, no LP «Portugal: Fados from Coimbra» (gravado na Holanda em dezembro de 1964), com o Coimbra Quartet."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "ricardo-dias",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... e Ricardo Dias e Antonio José Moreira."
+        }
+      ],
+      "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-jose-moreira",
+      "fontes": [
+        {
+          "fonte": "diario-de-noticias",
+          "url": "https://www.dn.pt/artes/morreu-o-musico-durval-moreirinhas-8560525.html",
+          "doc": "diario-de-noticias:w6680ad65c0daf653",
+          "citacao": "Durval Moreirinhas acompanhou músicos como ... e Ricardo Dias e Antonio José Moreira."
+        }
+      ],
+      "nota": "viola"
     }
   ],
   "imagens": [

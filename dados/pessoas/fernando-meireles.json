@@ -86,6 +86,82 @@
       "nota": "Forma do nome diferente da do blogue («Fernando Meireles Pinto»). Ficha do instrumento: guitarra-fernando-meireles-2002-colecao-fernandez."
     },
     {
+      "campo": "nascimento",
+      "valor": "Paço de Sousa, Penafiel, 14 de março de 1959",
+      "data": "1959-03-14",
+      "local": "Paço de Sousa, Penafiel",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Fernando Meireles (Paço de Sousa, Penafiel 14/3/1959, Coimbra, cordofones)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Lista de construtores «Na região do Centro» da página «Violeiros e Guitarreiros Portugueses» de José Lúcio. A mesma página, mais acima, diz «nasceu em 1960» (ver o facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1960",
+      "data": "1960",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Fernando Meireles ... Construtor autodidacta, nasceu em 1960."
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrada própria de Fernando Meireles na mesma página de José Lúcio, que noutra lista dá 14/3/1959 (ver o facto anterior)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Construtor autodidata; «ligado à Associação da Universidade de Coimbra», faz guitarras portuguesas e bandolins",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Construtor autodidacta, nasceu em 1960. Ligado à Associação da Universidade de Coimbra fabrica Guitarras Portuguesas e Bandolins de grande qualidade."
+        }
+      ],
+      "conflito": false,
+      "nota": "Página «Violeiros e Guitarreiros Portugueses» de José Lúcio (captura do Arquivo.pt de 2023)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tertúlia com o construtor Pedro Ventura sobre a construção das guitarras de Coimbra, na República dos Galifões, a 12 de novembro de 2022 (Mês do Fado da Secção de Fado da AAC)",
+      "data": "2022-11-12",
+      "local": "Coimbra, República dos Galifões",
+      "fontes": [
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "Mês do Fado junta gerações de Luthiers ... 12 Novembro, 2022 ... SF/AAC promove Tertúlia sobre Canção de Coimbra na República dos Galifões. Fernando Meireles e Pedro Ventura conversam sobre processo de construção das guitarras de Coimbra."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "No dia 12 de novembro duas gerações de fado, representadas por Fernando Meireles e Pedro Ventura, encontraram-se para discutir as origens da guitarra e da Canção de Coimbra. O evento aconteceu na República dos Galifões e foi organizado por Francisco Pereira, atual vice-presidente da Secção de Fado da Associação Académica de Coimbra (SF/AAC)."
+        },
+        {
+          "fonte": "jornal-a-cabra",
+          "url": "https://acabra.pt/2022/11/mes-do-fado-junta-geracoes-de-luthiers/",
+          "doc": "jornal-a-cabra:wbb442e5c966f21b8",
+          "citacao": "Quanto aos convidados, Fernando Meireles relembrou a sua trajetória e o que o levou a começar a produzir instrumentos musicais."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia de Gustavo Eler no jornal A Cabra (12-11-2022). Pedro Ventura não tem ficha."
+    },
+    {
       "campo": "atividade",
       "valor": "Começou a construir instrumentos (cavaquinhos) em 1984, aos 26 anos",
       "data": "1984",

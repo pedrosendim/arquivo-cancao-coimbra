@@ -2,12 +2,297 @@
   "id": "alexandre-herculano",
   "tipo": "pessoa",
   "nome": "Alexandre Herculano",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Alexandre Herculano Gomes dos Santos",
+    "Dr. Alexandre Herculano"
+  ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2021/01/quem-e-quem.html",
+      "doc": "gc-v:6160737607304603738",
+      "citacao": "ALEXANDRE HERCULANO GOMES DOS SANTOS, de Vinhais, n 07.10.1927"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+      "doc": "gc-v:4523928270509205449",
+      "citacao": "Em Dezembro outra serenata transmitida pelo mesmo emissor, agora com os cantores Alexandre Herculano, Alcides Santos e Almeida Santos."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Alexandre Herculano Gomes dos Santos (dito Manassés), de Direito, inscreve-se no naipe de violas da Tuna."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+      "doc": "gc-v:8719890612728345524",
+      "citacao": "Em 1968 a etiqueta Decca, explorada comercialmente pela Valentim de Carvalho, editou um 45 rpm com quatro faixas sonoras garantidas pelo antigo estudante da FD/UC Alexandre Herculano Gomes dos Santos. O cantor estudara em Coimbra entre a segunda metade da década de 1940 e os inícios dos anos 50."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "A ideia dos Seminários surgiu na sequência de uma reunião em Lisboa, em Junho de 1977, onde estiveram presentes, entre outros, Teixeira Santos, Luiz Goes, Fernando Rolim, Machado Soares, Alexandre Herculano"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+      "doc": "gc-i:2571257686721265926",
+      "citacao": "Grupo \"Serenata de Coimbra\", fundado em 30 de Abril de 1981, em Lisboa. ... Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/12/alexandre-herculano-cantar-para-amalia.html",
+      "doc": "gc-iii:6095733738617511298",
+      "citacao": "Alexandre Herculano a cantar numa serenata para Amália Rodrigues, \"Lá longe\", na noite de 30 de Junho de 1994. É acompanhado em guitarra por Francisco Vasconcelos e Serrano Baptista e em viola por João Gomes e João Oliveira."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Alexandre Herculano Gomes dos Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "garantidas pelo antigo estudante da FD/UC Alexandre Herculano Gomes dos Santos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/quem-e-quem.html",
+          "doc": "gc-v:6160737607304603738",
+          "citacao": "ALEXANDRE HERCULANO GOMES DOS SANTOS, de Vinhais, n 07.10.1927"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Alexandre Herculano Gomes dos Santos (dito Manassés), de Direito"
+        }
+      ],
+      "conflito": false,
+      "nota": "Não confundir com o escritor Alexandre Herculano, nem com o liceu e a rua com o mesmo nome, que aparecem muitas vezes nos blogues."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Vinhais, 7 de outubro de 1927",
+      "data": "1927-10-07",
+      "local": "Vinhais",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/01/quem-e-quem.html",
+          "doc": "gc-v:6160737607304603738",
+          "citacao": "ALEXANDRE HERCULANO GOMES DOS SANTOS, de Vinhais, n 07.10.1927"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post «Quem é quem» do blogue V (2021), uma «lista de antiguidades» de cantores."
+    },
+    {
+      "campo": "outro",
+      "valor": "Dito «Manassés»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Alexandre Herculano Gomes dos Santos (dito Manassés), de Direito, inscreve-se no naipe de violas da Tuna."
+        }
+      ],
+      "conflito": false,
+      "nota": "Alcunha registada na cronologia do blogue I; não confundir com o cantor Manassés de Lacerda."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudante da Faculdade de Direito da Universidade de Coimbra, entre a segunda metade da década de 1940 e o início dos anos 50",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "antigo estudante da FD/UC Alexandre Herculano Gomes dos Santos. O cantor estudara em Coimbra entre a segunda metade da década de 1940 e os inícios dos anos 50."
+        }
+      ],
+      "conflito": false,
+      "nota": "«FD/UC»: Faculdade de Direito da Universidade de Coimbra."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantor numa serenata transmitida em dezembro «pelo mesmo emissor», com Alcides Santos e Almeida Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "Em Dezembro outra serenata transmitida pelo mesmo emissor, agora com os cantores Alexandre Herculano, Alcides Santos e Almeida Santos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "Colaboraram com este grupo outros cantores como Manuel Julião (1915 - 1982), Camacho Vieira e Alexandre Herculano."
+        }
+      ],
+      "conflito": false,
+      "nota": "Resenha sobre Tavares de Melo no post «IN MEMORIAM» (2014); o grupo é o formado por José Amaral em 1944. No texto, o «mesmo emissor» é o Emissor Regional de Coimbra da Emissora Nacional, e esta serenata vem a seguir às de janeiro de 1947 e de novembro «desse ano», em que Alexandre Herculano não é referido; o ano da serenata de dezembro não vem escrito."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inscreveu-se no naipe de violas da Tuna Académica, como estudante de Direito",
+      "data": "1949",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Alexandre Herculano Gomes dos Santos (dito Manassés), de Direito, inscreve-se no naipe de violas da Tuna."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia «Canções e Guitarradas nas décadas de 1930-1940» (blogue I), secção «1949»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Dr. Alexandre Herculano – Fado Hilário» (Decca / Valentim de Carvalho, PEP 1238, [1968]), tenor, com João Bagão (solos de guitarra e arranjos), Aires Máximo de Aguillar (2.ª guitarra) e António Toscano / Fernando Neto Mateus (violas): «Fado Hylario [Moderno]», «Balada da Areia», «Santa Clara», «Cantiga de Amor-Saudade»",
+      "data": "1968",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "EP DR. ALEXANDRE HERCULANO, FADO HILÁRIO, Lisboa, Decca/Valentim de Carvalho PEP 1238, s/d. [1968]. Canta Alexandre Herculano (tenor), acompanhado por João Bagão (solos de gC e arranjos), Aires Máximo de Aguillar (2ª gC), António Toscano/Fernando Neto Mateus (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "FADO HYLARIO [MODERNO], credita a autoria musical a Augusto Hylario ... BALADA DA AREIA, credita Jorge Gouveia como autor da música. ... SANTA CLARA, credita corretamente a autoria musical a Ângelo Araújo. ... CANTIGA DE AMOR-SAUDADE, credita corretamente a música a João Bagão."
+        }
+      ],
+      "conflito": false,
+      "nota": "O disco não tem data impressa («s/d.»); 1968 vem do texto do post. O post discute as autorias creditadas no disco."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Reedição integral no LP «Fados de Coimbra» (Discos Roda / Vadeca, SPRL 7002, Lisboa, 1980), com gravações de Ângelo Fernandes e Carlos Alberto Pereira",
+      "data": "1980",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "Uma reedição integral de 1980: LP FADOS DE COIMBRA, Lisboa, Discos Roda/Vadeca SPRL 7002, 1980. Compilação de registos efetuados nas décadas de 1960-1970 por Alexandre Herculano, Ângelo Fernandes e Carlos Alberto Pereira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «De Coimbra ... por bem» do Grupo Serenata de Coimbra (Discossete, LP-800, 1991), voz",
+      "data": "1991",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "quando da promoção do disco de 33 rt. intitulado \"De Coimbra ... por bem\", em 16 de Janeiro de 1992."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira. O disco apresenta a data de 1991, da Discossete, LP - 800."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Presente na reunião de Lisboa (junho de 1977) de onde saiu a ideia dos Seminários sobre o Fado de Coimbra",
+      "data": "1977-06",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A ideia dos Seminários surgiu na sequência de uma reunião em Lisboa, em Junho de 1977, onde estiveram presentes, entre outros, Teixeira Santos, Luiz Goes, Fernando Rolim, Machado Soares, Alexandre Herculano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de João Moura, «Coimbra do meu tempo»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata do 1.º Seminário do Fado de Coimbra (maio de 1978)",
+      "data": "1978-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/incio-da-serenata-de-maio-de-78.html",
+          "doc": "gc-i:114696922602127653",
+          "citacao": "Início da Serenata de Maio de 78, durante o 1º Seminário do Fado de Coimbra. De pé: Sutil Roque, Alexandre Herculano, António Portugal, Mário Pombo e José Miguel Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de uma fotografia de grupo."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa «Noites de Gala» (RTP 1): canta «Lá longe» (Florêncio de Carvalho) e «Balada do Outono» (José Afonso) e, com João Maria Tudela, um excerto da «Balada da despedida» (Fernando Machado Soares), acompanhado por Francisco Vasconcelos, Silva Xavier, Alcindo Costa e António Ferreira Alves",
+      "data": "1987-05-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/noites-de-gala-parte-i/",
+          "doc": "rtp-arquivos:w041eec55cb790f4e",
+          "citacao": "Alexandre Herculano, canta os fados de Coimbra \"Lá longe\" de Florêncio de Carvalho, \"Balada do Outono\" de Zeca Afonso e acompanhado por João Maria Tudela excerto da \"Balada da despedida\" de Fernando Machado Soares, sempre acompanhado por Francisco Vasconcelos, Silva Xavier, Alcindo Costa e António Ferreira Alves nas guitarras e violas"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do RTP Arquivos «Noites de Gala – Parte I», data 1987-05-01."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata para Amália Rodrigues (30 de junho de 1994): canta «Lá longe», acompanhado por Francisco Vasconcelos e Serrano Baptista (guitarras) e João Gomes e João Oliveira (violas)",
+      "data": "1994-06-30",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/12/alexandre-herculano-cantar-para-amalia.html",
+          "doc": "gc-iii:6095733738617511298",
+          "citacao": "Alexandre Herculano a cantar numa serenata para Amália Rodrigues, \"Lá longe\", na noite de 30 de Junho de 1994. É acompanhado em guitarra por Francisco Vasconcelos e Serrano Baptista e em viola por João Gomes e João Oliveira."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -21,6 +306,25 @@
         }
       ],
       "nota": "voz (disco de 1991)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "joao-bagao",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "o mesmo João Bagão que em 1968 gravou com Alexandre Herculano."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/02/registos-fonograficos-de-alexandre.html",
+          "doc": "gc-v:8719890612728345524",
+          "citacao": "Canta Alexandre Herculano (tenor), acompanhado por João Bagão (solos de gC e arranjos)"
+        }
+      ],
+      "nota": "EP de 1968 (Decca / Valentim de Carvalho, PEP 1238): João Bagão nos solos de guitarra e arranjos."
     }
   ],
   "imagens": [],

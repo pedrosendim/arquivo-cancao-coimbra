@@ -2,11 +2,58 @@
   "id": "francisco-martins",
   "tipo": "pessoa",
   "nome": "Francisco Martins",
-  "nomes_alternativos": [],
-  "papeis": [
-    "guitarrista"
+  "nomes_alternativos": [
+    "Francisco Filipe Martins",
+    "Chico Martins"
   ],
-  "biografia": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+      "doc": "gc-i:111246023300739811",
+      "citacao": "O Chico Martins, como é tratado em Coimbra, aqui nascido em 1946, desde os 12 anos é levado pela mão do seu tio Nunes Vicente a frequentar as tertúlias do fado e da guitarra"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+      "doc": "gc-i:111245833593360333",
+      "citacao": "Francisco Martins começou a aprender guitarra de Coimbra aos 12 anos com António Portugal."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+      "doc": "gc-i:111245833593360333",
+      "citacao": "Em Outubro de 1962, com 16 anos, participa pela primeira vez em um espectáculo transmitido em directo pela RTP no Pavilhão dos Desportos em Lisboa, com o seu grupo constituído por: Francisco Martins e Manuel Borralho (Guitarras), Rui Pato (viola), Robalo de Andrade e João Farinha (cantores)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+      "doc": "gc-i:111245833593360333",
+      "citacao": "Em Julho de 1964 participa no “Encontro da Saudade” realizado no Pátio da Universidade de Coimbra, tendo tido o privilégio de descerrar a lápide de homenagem a Augusto Hilário por ocasião do seu centenário."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+      "doc": "gc-i:111245833593360333",
+      "citacao": "Nos fins dos anos sessenta integra o grupo de António Portugal, tendo participado com este em vários espectáculos, nomeadamente na RTP e grava com ele em 1970 o seu segundo disco, o álbum “Flores para Coimbra” sendo acompanhado à viola por Luís Filipe e mais uma vez a voz de António Bernardino."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+      "doc": "gc-v:2890446221495220147",
+      "citacao": "formou-se em medicina no ano de 1973 e especializou-se em Neurorradiologia, tendo sido até ao ano 2000 director do Serviço de Neurorradiologia dos HUC."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+      "doc": "gc-i:111245833593360333",
+      "citacao": "Em 1986 grava para a PolyGram o seu terceiro disco, o álbum “Canção da Primavera”, exclusivamente instrumental, onde inclui seis variações de sua autoria e quatro de Artur Paredes. É acompanhado por Rui Pato. Este álbum foi então nomeado para o prémio “Setes de Ouro”."
+    }
+  ],
   "factos": [
     {
       "campo": "gravacao",
@@ -19,11 +66,507 @@
           "citacao": "-EP “Fados de Coimbra”, Porto, Orfeu, ATEP 6184, ano de 1964, canta António Bernardino acompanhado por António Portugal/Francisco Martins (gg) e Jorge Moutinho (v);"
         }
       ],
+      "conflito": true,
+      "nota": "Na viola do EP de 1964, esta fonte indica Jorge Moutinho; outra (gc-v:4703744537336695092) indica Rui Pato."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP 45 rpm (1964) com António Bernardino, António Portugal e Rui Pato",
+      "data": "1964",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "[1] Um EP 45 RPM, com António Bernardino, António Portugal e Rui Pato (1964)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota de Armando Luís de Carvalho Homem (2012), citada no post. Para o EP Orfeu ATEP 6184 (1964), outra fonte indica Jorge Moutinho na viola."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Francisco Filipe Martins",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "Evocação de Francisco Filipe Martins (1946-2014)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "acaba de nos deixar o médico-radiologista Francisco Filipe Martins"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 1946",
+      "data": "1946",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "O Chico Martins, como é tratado em Coimbra, aqui nascido em 1946"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "Evocação de Francisco Filipe Martins (1946-2014)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira fonte é o texto de Rui Pato no CD «Primavera 2», transcrito no blogue."
+    },
+    {
+      "campo": "morte",
+      "valor": "2014",
+      "data": "2014",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "Evocação de Francisco Filipe Martins (1946-2014)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "Vítima de doença degenerativa, acaba de nos deixar o médico-radiologista Francisco Filipe Martins, que era também um dos grandes nome vivos da Guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/francisco-martins.html",
+          "doc": "gc-v:8532648174551460144",
+          "citacao": "Morreu Francisco Martins, um dos últimos grandes intérpretes e criador da Guitarra e do Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "As duas notícias da morte são posts de 27 e 28-07-2014; nenhuma escreve a data nem o local."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formou-se em Medicina em 1973 e especializou-se em Neurorradiologia",
+      "data": "1973",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "formou-se em medicina no ano de 1973 e especializou-se em Neurorradiologia"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico neurorradiologista; diretor do Serviço de Neurorradiologia dos HUC até 2000",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "tendo sido até ao ano 2000 director do Serviço de Neurorradiologia dos HUC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeira atuação em público aos 13 anos, no casamento de Luiz Goes, no Hotel Bragança, em Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Faz a sua primeira actuação em público aos 13 anos, no casamento de Luiz Goes, no Hotel Bragança em Coimbra, sendo acompanhado pelos irmãos Barros Neves e tendo cantado Carlos Encarnação, Robalo de Andrade e João Farinha."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia extraída da capa do CD «Primavera 2», transcrita no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo transmitido em direto pela RTP no Pavilhão dos Desportos, em Lisboa, com Manuel Borralho, Rui Pato, Robalo de Andrade e João Farinha",
+      "data": "1962-10",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Em Outubro de 1962, com 16 anos, participa pela primeira vez em um espectáculo transmitido em directo pela RTP no Pavilhão dos Desportos em Lisboa, com o seu grupo constituído por: Francisco Martins e Manuel Borralho (Guitarras), Rui Pato (viola), Robalo de Andrade e João Farinha (cantores)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Encontro da Saudade», serenata do centenário do nascimento de Augusto Hilário, no Pátio da Universidade de Coimbra: descerrou a lápide de homenagem a Hilário e atuou com o seu grupo (transmissão da RTP)",
+      "data": "1964-07-04",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Em Julho de 1964 participa no “Encontro da Saudade” realizado no Pátio da Universidade de Coimbra, tendo tido o privilégio de descerrar a lápide de homenagem a Augusto Hilário por ocasião do seu centenário."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/07/coimbra-portal-da-capela-da-uc-ao-patio.html",
+          "doc": "gc-v:2233750020513111485",
+          "citacao": "Coimbra, portal da capela da UC ao pátio das Escolas, 4 de julho de 1964: atuação do grupo de Francisco Martins no âmbito do «Encontro da Saudade», serenata do centenário do nascimento de Augusto Hylario, com transmissão radiofónica e televisiva."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Com o seu grupo (Francisco Martins, José Ferraz de Oliveira, Rui Pato, António Bernardino e João Farinha), faz uma serenata nas escadas da Capela da Universidade, espectáculo este transmitido em directo pela RTP."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo a segunda fonte, esta formação de alunos liceais começou a atuar por volta de 1959, após ensaios em casa de António Portugal."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Grava em 1970, com António Portugal, o álbum «Flores para Coimbra» (voz de António Bernardino, viola de Luís Filipe)",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "grava com ele em 1970 o seu segundo disco, o álbum “Flores para Coimbra” sendo acompanhado à viola por Luís Filipe e mais uma vez a voz de António Bernardino."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outras fontes dão 1969 para a gravação."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Grava em 1969, com António Portugal, António Bernardino e Luís Filipe, o disco «Flores para Coimbra» (Orfeu), como guitarrista e compositor",
+      "data": "1969",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "grava com ele, em [1969], o seu segundo disco, o álbum \"Flores para Coimbra\", sendo acompanhado à viola por Luís Filipe e, mais uma vez, a voz de António Bernardino."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/07/nos-50-anos-da-gravacao-do-lp-flores.html",
+          "doc": "gc-v:8647259852848236287",
+          "citacao": "No segundo semestre de 1969 o 2º tenor António Bernardino gravou na Orfeu um conjunto de composições vocais, acompanhado pelas guitarras coimbrãs de António Portugal /Francisco Martins e pela viola de Luís Filipe Roxo Ferreira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-p_111246023300739811.html",
+          "doc": "gc-i:111246023300739811",
+          "citacao": "Foi isso que o António Portugal fez em 1969, pedindo a colaboração do Chico como guitarrista e como compositor nesse histórico disco “Flores para Coimbra”."
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia da capa do CD «Primavera 2» (gc-i:111245833593360333) dá 1970. O post gc-v:8647259852848236287 dá os EP como de [1969] e o LP Orfeu SB-1198 como editado em [1970]."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor de dois fados incluídos em «Flores para Coimbra»: «E Alegre se Fez Triste» e «Trova da Planície»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Neste disco, inclui dois fados de sua autoria “E Alegre se Fez Triste” e “Trova da Planície”."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/07/aeminium.html",
+          "doc": "gc-iv:722478390244384563",
+          "citacao": "A música do fado \"E alegre se fez triste\" não é de José Niza mas sim de Francisco Martins."
+        }
+      ],
+      "conflito": true,
+      "nota": "A divergência é só sobre «E Alegre se Fez Triste»: no EP Orfeu ATEP 6557 «Guitarras do Meu País», o Discogs credita esta faixa a Manuel Alegre e António Portugal (facto seguinte); «Trova da Planície» vem creditada a Orlando de Carvalho e Francisco Martins. A primeira citação é da biografia da capa do CD «Primavera 2», transcrita no blogue. A segunda é de um post de 2012 sobre o disco do grupo Aeminium, que diz também haver outra música, de José Niza, para o mesmo poema."
+    },
+    {
+      "campo": "atividade",
+      "valor": "No EP «Guitarras do Meu País» (Orfeu ATEP 6557, 1969), em que é uma das guitarras, «E Alegre Se Fez Triste» vem creditada a Manuel Alegre e António Portugal",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/8523171",
+          "doc": "discogs:w935057d9aec84070",
+          "citacao": "Título: Guitarras Do Meu País ... Editora: Orfeu – ATEP 6557 ... Data: 1969 ... B1 E Alegre Se Fez Triste [Manuel Alegre, António Portugal] ... ACOMPANHAMENTO: António Portugal (Guitarra), Francisco Martins (Guitarra) e Luís Filipe (Viola);"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão do Discogs, que não diz o papel de cada nome (letra ou música). No mesmo EP: «B2 Trova Da Planície [Orlando de Carvalho, Francisco Martins]». Segundo o post gc-v:8647259852848236287, este EP é um dos dois que editaram parte da gravação de «Flores para Coimbra»; o mesmo post diz que a ficha técnica do fonograma é «incompleta em matéria de arranjos e com alguns gatos autorais», sem dizer quais. A biografia do CD «Primavera 2» dá este fado como da autoria de Francisco Martins, e um post de 2012 diz que a música é dele (facto anterior)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP instrumental «Canção da Primavera» (PolyGram, 1986), com Rui Pato: seis variações da sua autoria e quatro de Artur Paredes; nomeado para os «Setes de Ouro»",
+      "data": "1986",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Em 1986 grava para a PolyGram o seu terceiro disco, o álbum “Canção da Primavera”, exclusivamente instrumental, onde inclui seis variações de sua autoria e quatro de Artur Paredes. É acompanhado por Rui Pato. Este álbum foi então nomeado para o prémio “Setes de Ouro”."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-dez.html",
+          "doc": "gc-i:111246059322520811",
+          "citacao": "Foi por Abril de 1986 que surgiu no mercado o LP Canção da Primavera, de Francisco Filipe Martins / Rui Pato (com o apoio do violoncelo de Celso de Carvalho [já desaparecido] em dois temas)"
+        }
+      ],
+      "conflito": false,
+      "nota": "No texto de Rui Pato (gc-i:111246023300739811), a gravação foi encorajada em 1985."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Primavera 2: Música para Guitarra de Coimbra» (Philips/PolyGram), gravado em março de 1996 e saído em 1998, com Rui Pato, Humberto Matias e Manuel Rocha",
+      "data": "1998",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-disco-francisco-filipe-martins.html",
+          "doc": "gc-i:111246658306644045",
+          "citacao": "Capa do disco \"Francisco Filipe Martins - Primavera 2\". Disco editado pela PHILIPS - PolyGram, e saído em 1998."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-disco-francisco-filipe-martins.html",
+          "doc": "gc-i:111246658306644045",
+          "citacao": "Francisco Martins foi acompanhado por Rui Pato e Humberto Matias à viola e Manuel Rocha em Violino."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/francisco-filipe-martins-dez.html",
+          "doc": "gc-i:111246059322520811",
+          "citacao": "Texto incluído na capa do CD Primavera 2: Música para Guitarra de Coimbra, de Francisco Filipe Martins, [Lisboa], Philips/Polygram, 1998, 8 cols."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/recordar-francisco-martins.html",
+          "doc": "gc-iv:8614639215870335201",
+          "citacao": "CD \"Primavera 2\", Gravado para a Philips /PolyGram em Março de 1996."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "O CD foi lançado no início do Verão de 1998, por altura da EXPO de Lisboa, onde aliás Francisco Martins e os seus companheiros actuaram."
+        }
+      ],
+      "conflito": true,
+      "nota": "O primeiro parágrafo do post gc-v:4703744537336695092 diz que «Momento Breve n.º 2» saiu «num CD de 1996»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Momento Breve n.º 2», saído num CD de 1996",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "«Momento Breve n.º 2», saído num CD de 1996."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outras fontes dizem que o CD «Primavera 2», que abre com este tema, foi gravado em 1996 e saiu em 1998."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Convívios Musicais / Francisco Filipe Martins: música para guitarra de Coimbra» (edição do autor, 2006): onze peças inéditas e uma reposição, com Aníbal Moreira (viola), Manuel Rocha (violino) e José Filipe Martins (piano)",
+      "data": "2006",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/contracapa-do-cd-convvios-musicais-com.html",
+          "doc": "gc-i:115766710185496837",
+          "citacao": "Contracapa do CD \"Convívios Musicais\", com o subtítulo \"Francisco Filipe Martins - música para guitarra de Coimbra\". Disco saído há poucos dias, mostra-nos onze peças inéditas e uma reposição com nova roupagem ... Está muito bem apoiado pela viola eficaz de Aníbal Moreira, no magnífico violino de Manuel Rocha e no sóbrio piano do filho José Filipe Martins."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/vitima-de-doenca-degenerativa-acaba-de.html",
+          "doc": "gc-v:4703744537336695092",
+          "citacao": "texto incluído no desdobrável que acompanha o CD Convívios Musicais / Francisco Filipe Martins: música para guitarra de Coimbra, Ed. do Autor, 2006"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Em 1992 e 1993 liderou o Grupo de Fados do Orfeon dos Antigos Estudantes de Coimbra",
+      "data": "1992",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Em 1992 1 1993 liderou o grupo de Fados do Orfeon dos Antigos Estudantes de Coimbra, acompanhado por Rui Pato e Humberto Matias."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/evocacao-de-francisco-filipe-martins.html",
+          "doc": "gc-v:2890446221495220147",
+          "citacao": "Em 1992 e 1993 liderou o Grupo de Fados do Orfeon dos Antigos Estudantes de Coimbra, com Rui Pato, Octávio Sérgio e Humberto Matias."
+        }
+      ],
+      "conflito": false,
+      "nota": "As duas versões diferem nos acompanhantes: a de 2016 junta Octávio Sérgio."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compôs em 1996 um tema para a homenagem a David Mourão Ferreira transmitida pela RTP 2 no programa «Acontece»",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Em 1996 compõe um tema para a homenagem a David Mourão Ferreira, que a RTP 2 transmitiu no programa “Acontece”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado pela Orquestra Clássica do Centro nos III Encontros Internacionais de Guitarra Portuguesa (outubro de 2009)",
+      "data": "2009-10",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/francisco-martins-homenageado-no-ambito.html",
+          "doc": "gc-iii:2456040517362350120",
+          "citacao": "Francisco Martins homenageado no âmbito dos III Encontros Internacionais de Guitarra Portuguesa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/10/premio-francisco-martins.html",
+          "doc": "gc-v:7926315697366810188",
+          "citacao": "em Out./2009 a Orquestra Clássica do Centro (OCC), com o apoio da Câmara Municipal de Coimbra prestou-me uma emocionante homenagem no âmbito dos III Encontros Internacionais de Guitarra Portuguesa"
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é de um texto do próprio Francisco Martins (Coimbra, 2012), transcrito no post."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata que lhe dedicaram a Orquestra Clássica do Centro, a Tuna de Medicina da Universidade de Coimbra e a Tuna Feminina «As Mondeguinas» (outubro de 2012)",
+      "data": "2012-10",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/10/premio-francisco-martins.html",
+          "doc": "gc-v:7926315697366810188",
+          "citacao": "Em Out./2012, fui agradavelmente surpreendido por uma comovente Serenata que me dedicaram a OCC, a Tuna de Medicina da Universidade de Coimbra e a Tuna Feminina “As Mondeguinas”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do próprio Francisco Martins (Coimbra, 2012), transcrito no post."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livro de partituras da sua obra (primeiro volume), apresentado no Pavilhão Centro, em Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/12/apresentacao-do-livro-de-partituras-da.html",
+          "doc": "gc-iv:7696678211565385656",
+          "citacao": "Apresentação do livro de partituras da obra de Francisco Martins no Pavilhão Centro em Coimbra."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/12/francisco-filipe-martins-vai-ter-no.html",
+          "doc": "gc-iv:8409405514864627620",
+          "citacao": "Francisco Filipe Martins vai ter no próximo sábado o lançamento do primeiro volume das partituras da sua obra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Posts de dezembro de 2012; o texto não escreve a data do lançamento."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Prémio Francisco Martins, criado pela Orquestra Clássica do Centro a partir de outubro de 2015",
+      "data": "2015-10",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/10/premio-francisco-martins.html",
+          "doc": "gc-v:7926315697366810188",
+          "citacao": "A associação Orquestra Clássica do Centro com o apoio institucional da Câmara Municipal de Coimbra e a colaboração da Livraria Almedina cria, a partir de Outubro de 2015, o PRÉMIO FRANCISCO MARTINS."
+        }
+      ],
       "conflito": false,
       "nota": ""
     }
   ],
-  "relacoes": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/biografia-de-francisco-martins-extrada.html",
+          "doc": "gc-i:111245833593360333",
+          "citacao": "Francisco Martins começou a aprender guitarra de Coimbra aos 12 anos com António Portugal."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/10/premio-francisco-martins.html",
+          "doc": "gc-v:7926315697366810188",
+          "citacao": "É meu dever reconhecer que as lições de guitarra que recebi do meu velho mestre António Portugal deram alguns frutos."
+        }
+      ],
+      "nota": "guitarra de Coimbra, a partir dos 12 anos. A segunda citação é de um texto do próprio Francisco Martins (2012)."
+    }
+  ],
   "imagens": [
     {
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTcDO986BHOyhkN5RC1av3EJl23QyPdcX-Zpa9G0CXgI67zSqNK2NGcvTgetTWr5QVMxh6VzSiy0P3WeI5iYE7lU5LgVbDAr9uWLpTjd3WH-WGgysa0nd0_fNpv8_Nj1pXrHC1-n8keYBs/s1600/FMartins.jpg",

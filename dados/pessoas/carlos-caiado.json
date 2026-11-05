@@ -2,13 +2,155 @@
   "id": "carlos-caiado",
   "tipo": "pessoa",
   "nome": "Carlos Caiado",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Carlos Manuel Simões Caiado"
+  ],
   "papeis": [
     "violista",
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "O Grupo de Fados e Guitarras de Coimbra nasce em 1978. Encontrava-me no segundo ano de Farmácia, com quarto na República dos Pyn-Guyns, e fui contactado pelo Vítor Baltasar e pelo Carlos Caiado para fazer parte, como guitarrista, de um grupo de fados de Coimbra, recém-criado e constituído maioritariamente por estudantes da Universidade."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "Ao estrear-se na Sé, o nosso grupo interpretou o \"Fado Corrido de Coimbra\" (Vitor Baltasar) e \"Adeus Minho Encantador\" (Carlos Caiado)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "O grupo de fados da Secção de Fados da A.A.C. integrou, em 1982, uma embaixada académica numa digressão a França e Itália, de 30 de Março a 9 de Abril, com actuações em Toulose, Montpellier, Aix-en-Provence, Veneza, Bolonha, Pádua e Roma. O grupo de fados que integrava a comitiva resultou da fusão do nosso grupo (Tó Nogueira e Carlos Caiado) com a Tertúlia do Fado de Coimbra"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html",
+      "doc": "gc-v:3601858408909756739",
+      "citacao": "Em meados dos anos de 1980 um jovem associado da Secção de Fado da AAC, Carlos Manuel Simões Caiado, promoveu a recolha, notação musical e edição de mais de cem composições, associando os títulos a regiões portuguesas: Antologia do Fado de Coimbra, Coimbra, 1986."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/antologia-do-fado-de-coimbra-de-carlos.html",
+      "doc": "gc-i:111170580928876065",
+      "citacao": "meu colega no coro dos Antigos Orfeonistas e toca viola no Grupo de Fados deste mesmo grupo, onde eu também participo."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Carlos Manuel Simões Caiado",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/carlos-caiado-entrevista-d_113640820165096182.html",
+          "doc": "gc-i:113640820165096182",
+          "citacao": "Carlos Caiado ... Entrevista de Mário Afonso a Carlos Manuel Simões Caiado por alturas do lançamento do cancioneiro \"Antologia do Fado de Coimbra\"."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:3601858408909756739",
+          "citacao": "um jovem associado da Secção de Fado da AAC, Carlos Manuel Simões Caiado"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post gc-i:113640820165096182, com o título «Carlos Caiado», reproduz a entrevista da revista «A Sebenta» (1.º semestre de 1986, pág. 26). Identificação a confirmar pelo fundador: os dois posts dão o nome completo do autor da «Antologia do Fado de Coimbra» (1986), a quem Octávio Sérgio (gc-i:111170580928876065) chama «Carlos Caiado» e que era em 2005 viola do Grupo de Fados dos Antigos Orfeonistas. Nenhum diz que é o Carlos Caiado do Grupo de Fados e Guitarras de Coimbra (1978-1982) do texto de João Moura (gc-i:114505781169831106); a ligação a esta ficha baseia-se só no nome."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Antologia do Fado de Coimbra» (Coimbra, 1986): recolha, notação musical e edição de mais de cem composições, com os títulos associados a regiões portuguesas; prefácio de Luís Plácido",
+      "data": "1986",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:3601858408909756739",
+          "citacao": "promoveu a recolha, notação musical e edição de mais de cem composições, associando os títulos a regiões portuguesas: Antologia do Fado de Coimbra, Coimbra, 1986."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/antologia-do-fado-de-coimbra-de-carlos.html",
+          "doc": "gc-i:111170580928876065",
+          "citacao": "\"Antologia do Fado de Coimbra\" de Carlos Caiado. Este livro que Carlos Caiado teve a amabilidade de me oferecer no ano de 1993, foi editado em 1986 ... Não resisto a transcrever o final do prefácio escrito por Luís Plácido"
+        }
+      ],
+      "conflito": false,
+      "nota": "Octávio Sérgio (2005) chama-lhe «primeiro volume» e diz que espera o segundo. Identificação a confirmar pelo fundador: o autor da Antologia chama-se «Carlos Caiado» (gc-i:111170580928876065) e «Carlos Manuel Simões Caiado» (gc-v:3601858408909756739, gc-i:113640820165096182); nenhum destes posts diz que é o Carlos Caiado estudante do Grupo de Fados e Guitarras de Coimbra (1978-1982). A ligação baseia-se só no nome."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental da Semana Académica (Sé Velha, 2 de junho de 1979), com o Grupo de Fados e Guitarras de Coimbra: canta «Adeus Minho Encantador»",
+      "data": "1979-06-02",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "O grupo participou em 1979, a convite da Direcção Geral da A.A.C., na Serenata Monumental da Semana Académica que teve lugar no dia 2 de Junho, sábado, na Sé Velha. ... Ao estrear-se na Sé, o nosso grupo interpretou o \"Fado Corrido de Coimbra\" (Vitor Baltasar) e \"Adeus Minho Encantador\" (Carlos Caiado)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de João Moura («Coimbra do meu tempo»), reproduzido no blogue."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata monumental de 22 de maio de 1980 (largo da Sé), na viola do Grupo de Fados e Guitarras de Coimbra",
+      "data": "1980-05-22",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A serenata monumental de 1980, a 22 de Maio, excedeu todas as expectativas. Às 23 horas já todo o largo da Sé ... Para além do nosso grupo, constituído pelo Francisco Alte da Veiga (guitarra), Carlos Caiado e José António (violas), Vítor Baltasar, José Neves e Luís Cartario (vozes)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Embaixada académica a França e Itália (30 de março a 9 de abril de 1982), no grupo de fados resultante da fusão do Grupo de Fados e Guitarras de Coimbra com a Tertúlia do Fado de Coimbra",
+      "data": "1982-03-30",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "integrou, em 1982, uma embaixada académica numa digressão a França e Itália, de 30 de Março a 9 de Abril, com actuações em Toulose, Montpellier, Aix-en-Provence, Veneza, Bolonha, Pádua e Roma. O grupo de fados que integrava a comitiva resultou da fusão do nosso grupo (Tó Nogueira e Carlos Caiado) com a Tertúlia do Fado de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do coro dos Antigos Orfeonistas e viola do respetivo Grupo de Fados (2005)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/antologia-do-fado-de-coimbra-de-carlos.html",
+          "doc": "gc-i:111170580928876065",
+          "citacao": "meu colega no coro dos Antigos Orfeonistas e toca viola no Grupo de Fados deste mesmo grupo, onde eu também participo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/ii-noite-de-fadosdei_111521978741692607.html",
+          "doc": "gc-i:111521978741692607",
+          "citacao": "II Noite de Fados@DEI. \"Grupo de Fados dos Antigos Orfeonistas\". ..., Octávio Sérgio e Carlos Caiado. A cantar, António Crespos."
+        }
+      ],
+      "conflito": false,
+      "nota": "O primeiro texto é de Octávio Sérgio (2005). Identificação a confirmar pelo fundador: este viola dos Antigos Orfeonistas é, no mesmo post, o autor da «Antologia do Fado de Coimbra»; nenhum dos dois posts diz que é o Carlos Caiado do Grupo de Fados e Guitarras de Coimbra (1978-1982). A ligação baseia-se só no nome."
+    }
+  ],
   "relacoes": [
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "Muitos outros fizeram parte da direcção nos dois primeiros anos: Artur Ribeiro, Carlos Delfim, Mário Toste, José Carlos Amaral, Carlos Andrade, Luís Serra e Silva, Paulo Serra e Silva, Carlos Caiado"}, {"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o.html", "doc": "gc-v:3601858408909756739", "citacao": "Em meados dos anos de 1980 um jovem associado da Secção de Fado da AAC, Carlos Manuel Simões Caiado, promoveu a recolha, notação musical e edição de mais de cem composições"}], "nota": "Membro das direções dos dois primeiros anos (1981-1983); associado em meados dos anos 80 (Antologia do Fado de Coimbra, 1986). Identificação de Carlos Manuel Simões Caiado com esta ficha a confirmar."},
     {"tipo": "membro_de", "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)"}], "nota": "Estreia do Grupo de Cordas, Sarau da Queima de 1982."},

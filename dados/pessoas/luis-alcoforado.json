@@ -4,9 +4,53 @@
   "nome": "Luís Alcoforado",
   "nomes_alternativos": [],
   "papeis": [
-    "cantor"
+    "cantor",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/convvio-na-associao-acadmi_111834086058804737.html",
+      "doc": "gc-i:111834086058804737",
+      "citacao": "Convívio na Associação Académica no ano de 1987. Luís Alcoforado canta acompanhado por Carlos Costa e Paulo Soares."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+      "doc": "gc-i:113639247173462895",
+      "citacao": "O dia 20/04/1988, 4ª feira, foi inteiramente preenchido pelos grupos da Secção de Fado da AAC. O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v), realizou então uma concorrida serenata no Penedo da Saudade."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+      "doc": "gc-i:115651512446535518",
+      "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/fado-do-centenario-cantado-por-luis.html",
+      "doc": "gc-iii:4926755016381055165",
+      "citacao": "Fado do Centenário, cantado por Luís Alcoforado, no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80, de 1989, acompanhado por Paulo Soares e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+      "doc": "gc-v:4163497511678760872",
+      "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+      "doc": "gc-i:111625557581214571",
+      "citacao": "Luís Alcoforado, uma voz que se projecta no espaço, sem necessidade de microfone, tem gravações interessantes com o grupo Praxis Nova. É compositor, também, de alguns \"Fados\"."
+    },
+    {
+      "fonte": "mpagdp",
+      "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436",
+      "doc": "mpagdp:wc8ebc6495b6486a8",
+      "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"
+    }
+  ],
   "factos": [
     {
       "campo": "atuacao",
@@ -23,6 +67,158 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta num convívio na Associação Académica (1987), acompanhado por Carlos Costa e Paulo Soares",
+      "data": "1987",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/convvio-na-associao-acadmi_111834086058804737.html",
+          "doc": "gc-i:111834086058804737",
+          "citacao": "Convívio na Associação Académica no ano de 1987. Luís Alcoforado canta acompanhado por Carlos Costa e Paulo Soares."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de fotografia."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata no Penedo da Saudade com o Grupo de Fados da Secção de Fado, na 1.ª Semana Cultural da AAC, 20 de abril de 1988",
+      "data": "1988-04-20",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+          "doc": "gc-i:113639247173462895",
+          "citacao": "No mês de Abril desse ano a Direcção Geral da AAC promoveu a \"1ª Semana Cultural da AAC\". O dia 20/04/1988, 4ª feira, foi inteiramente preenchido pelos grupos da Secção de Fado da AAC. O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v), realizou então uma concorrida serenata no Penedo da Saudade."
+        }
+      ],
+      "conflito": false,
+      "nota": "Relato da revista A Briosa, n.º 7 (30 de maio de 1988), citado no post (GC I, 2006)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "No programa televisivo de José Mesquita «Canção de Coimbra – Anos 80» (1989) canta «Fado do Centenário» e «Coimbra, Adeus e Noite», com Paulo Soares e José Rabaça (guitarras), Luís Carlos e Carlos Costa (violas)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/fado-do-centenario-cantado-por-luis.html",
+          "doc": "gc-iii:4926755016381055165",
+          "citacao": "Fado do Centenário, cantado por Luís Alcoforado, no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80, de 1989, acompanhado por Paulo Soares e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/luis-alcoforado-canta-coimbra-adeus-e.html",
+          "doc": "gc-iii:6638468156703924791",
+          "citacao": "Luís Alcoforado canta \"Coimbra, Adeus e Noite\", no programa televisivo de José Mesquita de 1989, Canção de Coimbra - Anos 80."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois posts têm o vídeo (Blogger) destas interpretações."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Cassete «Praxis Nova. Canções de Coimbra» (Porto, Fortes & Rangel, DCS 017, 1989), 11 temas, com os Praxis Nova",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Coimbra em Canções», dos Praxis Nova (Aurastúdios, 1991), em que canta com Victor Silva",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco «Baladas de Despedida – anos 80», editado em 1994, entre os cantores (com Jorge Cravo, António Pimentel, Rui Pedro Lucas e Alcides Sá Esteves)",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-baladas-de-despedida_15.html",
+          "doc": "gc-i:111090300118676425",
+          "citacao": "Capa do disco \"Baladas de Despedida - anos 80\". Foi um disco editado em 1994 que nos mostra a veia criativa dos jovens da geração de 80. ... A cantar, Jorge Cravo, António Pimentel, Rui Pedro Lucas, Alcides Sá Esteves e Luís Alcoforado."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de Octávio Sérgio (GC I, 2005). Outro post do GC I (2006, sobre o EP «Toada Coimbrã») refere um LP «Baladas da Despedida dos Anos 80», Duplisom LP 1.004, de 1990, sem nomear os cantores: o editor deve confirmar se é o mesmo disco."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor de alguns fados",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "É compositor, também, de alguns \"Fados\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de Octávio Sérgio sobre os autores do livro «Canção de Coimbra – Testemunhos vivos» (GC I, 2005)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Testemunho sobre a década de 1980 no livro «Canção de Coimbra. Testemunhos vivos. Antologia de textos» (Direção-Geral da Associação Académica de Coimbra, 2002)",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Canção de Coimbra. Testemunhos vivos. Antologia de textos (Coimbra: Direção-Geral da Associação Académica de Coimbra, 2002, 247 p.)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Evocaram a década de 1980 João Moura, Jorge Cravo e Luís Alcoforado."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de António M. Nunes (2012). Ver o facto seguinte: o GC I (2005) diz que o livro saiu em 2003."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Testemunho no livro «Canção de Coimbra – Testemunhos vivos (Antologia de textos)», saído em 2003 (Direção Geral da Associação Académica de Coimbra)",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "Livro \"Canção de Coimbra - Testemunhos vivos (Antologia de textos)\", saído em 2003, editado pela Direcção Geral da Associação Académica de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "Luís Alcoforado, uma voz que se projecta no espaço, sem necessidade de microfone, tem gravações interessantes com o grupo Praxis Nova."
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota de Octávio Sérgio (GC I, 2005)."
     }
   ],
   "relacoes": [

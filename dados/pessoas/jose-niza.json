@@ -2,13 +2,409 @@
   "id": "jose-niza",
   "tipo": "pessoa",
   "nome": "José Niza",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "José Manuel Niza Antunes Mendes"
+  ],
   "papeis": [
     "violista",
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "1938 ... A 16 de Setembro nasce em Santarém José Manuel Niza Antunes Mendes."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/jose-afonso-e-jose-niza-2-historias/",
+      "doc": "aja:w8b0e6d41ffb3da14",
+      "citacao": "José Afonso canta acompanhado por Levy Baptista, David Leandro, José Niza e Sousa Rafael (Cine-Teatro Restauração, Luanda, 1958)"
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/biografia/",
+      "doc": "aja:w9bc271d41e62cb13",
+      "citacao": "Em 1962 é editado o álbum «Coimbra Orfeon of Portugal», pela Monitor, dos Estados Unidos, com «Minha Mãe» e «Balada Aleixo», onde José Afonso rompe definitivamente com o acompanhamento das guitarras. Nestas duas baladas é acompanhado exclusivamente à viola por José Niza e Durval Moreirinhas."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+      "doc": "aja:wb55ce4f562cf6502",
+      "citacao": "Em 1969, pouco antes de ir para a guerra, eu tinha composto a música para duas peças do CITAC ... Para esta segunda peça compus muitas canções, entre as quais “Cantar de Emigração”, “Emigração”, “Para Rosalía”."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+      "doc": "aja:wb55ce4f562cf6502",
+      "citacao": "E estamos chegados a Agosto de 1971, altura em que regressei da guerra e comecei a trabalhar na produção dos discos Orfeu."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+      "doc": "aja:wb55ce4f562cf6502",
+      "citacao": "A minha eleição para a Assembleia Constituinte e, depois, para a Assembleia da República, impediram-me de continuar a trabalhar com o Zeca – e na editora."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+      "doc": "gc-iv:8594621721074033745",
+      "citacao": "Antigo estudante da Coimbra formado em Medicina, executante de guitarra e viola. Médico e político. Deixou obra ligada à coordenação de fontes fonográficas na Movieplay."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/jose-niza.html",
+      "doc": "gc-iv:5284482246681195808",
+      "citacao": "Morreu hoje José Niza, o autor do livro donde esta sua pequena biografia foi retirada."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Manuel Niza Antunes Mendes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 16 de Setembro nasce em Santarém José Manuel Niza Antunes Mendes."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/03/blog-post.html",
+          "doc": "gc-iv:7543298694750533443",
+          "citacao": "Música: José Manuel Niza Antunes Mendes (1938-2011)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Santarém, 16 de setembro de 1938",
+      "data": "1938-09-16",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1938 ... A 16 de Setembro nasce em Santarém José Manuel Niza Antunes Mendes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "José Manuel Niza Antunes Mendes (1938-2011)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/rosalia-de-castro.html",
+          "doc": "gc-v:775189457340334487",
+          "citacao": "José Niza (1938 – 2011)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-jose-niza-2-historias/",
+          "doc": "aja:w8b0e6d41ffb3da14",
+          "citacao": "José Niza (1938-2011)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O dia e o local vêm da cronologia de A. J. Soares e A. M. Nunes (GC I, 2006, na secção «1938»); as outras citações deste facto dão só o ano («1938-2011»). O local diverge: o texto de José Anjos de Carvalho e A. M. Nunes (GC IV, 2012) dá Lisboa (facto seguinte). O ano também diverge: 1939 noutro texto de A. M. Nunes (2012)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa, 16 de setembro de 1938",
+      "data": "1938-09-16",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/03/blog-post.html",
+          "doc": "gc-iv:7543298694750533443",
+          "citacao": "O autor da música nasceu em Lisboa em 16.9.1938"
+        }
+      ],
+      "conflito": true,
+      "nota": "«Pesquisa e texto: José Anjos de Carvalho e António Manuel Nunes» (GC IV, 2012, post «Cantar de Emigração (Este parte)»). O local diverge da cronologia de 2006 (Santarém, facto anterior); ver também o facto seguinte (1939)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1939",
+      "data": "1939",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), CD De capa e batina/José Afonso"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/nota-este-texto-foi-anteriormente.html",
+          "doc": "gc-v:6236402850068348465",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), CD De capa e batina/José Afonso"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de António M. Nunes (2012), republicado no GC V em 2025."
+    },
+    {
+      "campo": "morte",
+      "valor": "Santarém, 23 de setembro de 2011",
+      "data": "2011-09-23",
+      "local": "Santarém",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/03/blog-post.html",
+          "doc": "gc-iv:7543298694750533443",
+          "citacao": "faleceu na cidade de santarém em 23.9.2011"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/jose-niza.html",
+          "doc": "gc-iv:5284482246681195808",
+          "citacao": "Morreu hoje José Niza, o autor do livro donde esta sua pequena biografia foi retirada."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-jose-niza-2-historias/",
+          "doc": "aja:w8b0e6d41ffb3da14",
+          "citacao": "José Niza (1938-2011)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A data e o local têm citação literal no texto de José Anjos de Carvalho e A. M. Nunes (GC IV, 2012). O post do GC IV de 23-09-2011 («Morreu hoje») fica como corroboração; o texto da AJA dá só o ano."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Formado em Medicina pela Universidade de Coimbra (FM/UC)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José Niza era formado na FM/UC, antigo executante de guitarra e viola, e compositor."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Antigo estudante da Coimbra formado em Medicina, executante de guitarra e viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António M. Nunes (2012)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico e político",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Antigo estudante da Coimbra formado em Medicina, executante de guitarra e viola. Médico e político."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António M. Nunes (2012)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Eleito para a Assembleia Constituinte e, depois, para a Assembleia da República",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+          "doc": "aja:wb55ce4f562cf6502",
+          "citacao": "A minha eleição para a Assembleia Constituinte e, depois, para a Assembleia da República, impediram-me de continuar a trabalhar com o Zeca – e na editora."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/homenagem-jos-niza.html",
+          "doc": "gc-ii:1160051366014780284",
+          "citacao": "o reencontro político, já em democracia, no Partido Socialista, e depois no parlamento, logo a partir da constituinte."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho do próprio («O meu amigo Zeca (II) por José Niza», AJA, 2007) e palavras de Almeida Santos na homenagem relatada no GC II (2008)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor: em 1969 compôs a música de duas peças do CITAC, com canções como «Cantar de Emigração», «Emigração» e «Para Rosalía»; a letra de «Cantar de Emigração» é de Rosalía de Castro, traduzida e adaptada por ele, e a voz de Adriano Correia de Oliveira",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+          "doc": "aja:wb55ce4f562cf6502",
+          "citacao": "Em 1969, pouco antes de ir para a guerra, eu tinha composto a música para duas peças do CITAC ... Para esta segunda peça compus muitas canções, entre as quais “Cantar de Emigração”, “Emigração”, “Para Rosalía”."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/03/blog-post.html",
+          "doc": "gc-iv:7543298694750533443",
+          "citacao": "Música: José Manuel Niza Antunes Mendes (1938-2011) ... Letra: María Rosalía Rita de Castro (1837-1885), traduzida e adaptada por José Manuel Niza Antunes Mendes ... Voz: Adriano Correia de Oliveira"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/livro-cano-de-coimbra-testemunhos.html",
+          "doc": "gc-i:111625557581214571",
+          "citacao": "José Niza, um compositor já consagrado, de quem Adriano Correia de Oliveira se socorreu para obter alguns dos seus êxitos. Tocador de viola de acompanhamento e autor de livros sobre o \"Fado de Coimbra\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho do próprio («O meu amigo Zeca (II) por José Niza», AJA, 2007); ficha da partitura no GC IV (2012)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Produção dos discos Orfeu a partir de agosto de 1971; produziu ou dirigiu quatro discos de José Afonso: «Eu vou ser como a toupeira» (Madrid, 1972), «Venham mais cinco» (Paris, 1973), «Coro dos Tribunais» (Londres, 1974) e «Com as minhas tamanquinhas» (Lisboa, 1976)",
+      "data": "1971-08",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+          "doc": "aja:wb55ce4f562cf6502",
+          "citacao": "E estamos chegados a Agosto de 1971, altura em que regressei da guerra e comecei a trabalhar na produção dos discos Orfeu."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/o-meu-amigo-zeca-ii-por-jose-niza/",
+          "doc": "aja:wb55ce4f562cf6502",
+          "citacao": "Nos anos seguintes produzi, ou dirigi, quatro importantes discos do Zeca: “Eu vou ser como a toupeira” (Madrid – 1972), “Venham mais cinco” (Paris – 1973), “Coro dos Tribunais” (Londres – 1974) e “Com as minhas tamanquinhas” (Lisboa – 1976)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho do próprio («O meu amigo Zeca (II) por José Niza», AJA, 2007)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão da Tuna Académica a Angola (1958), à guitarra, no grupo que acompanhava José Afonso, com David Leandro, Sousa Rafael e Levy Baptista",
+      "data": "1958",
+      "local": "Angola",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Viagem com a Tuna Académica da Universidade de Coimbra a Angola, integrado num grupo constituído por David Leandro e José Niza (guitarras), Sousa Rafael e Levy Baptista (violas)."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-jose-niza-2-historias/",
+          "doc": "aja:w8b0e6d41ffb3da14",
+          "citacao": "José Afonso canta acompanhado por Levy Baptista, David Leandro, José Niza e Sousa Rafael (Cine-Teatro Restauração, Luanda, 1958)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia de José Afonso e legenda de fotografia (AJA)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Fado de Coimbra» (2 tomos, Ediclube, 1999, coleção «Um Século de Fado»); coube-lhe a coordenação dos dois volumes dedicados ao fado de Coimbra, com 7 CD",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), Fado de Coimbra (2 tomos, Alfragide: Ediclube, 1999, colecção «Um século de fado»)."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/biografia-de-jose-afonso-por-jose-niza/",
+          "doc": "aja:wa88317d4b8270703",
+          "citacao": "Biografia retirada do livro de José Niza, “Fado de Coimbra II”, da colecção “Um Século de Fado” da Ediclube, saída em 1999."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/coleccao-um-seculo-de-fado-ediclube/",
+          "doc": "aja:w3f9b80381a3d25f6",
+          "citacao": "Nesta colecção, foram dedicados ao fado de Coimbra estes dois volumes em conjunto com 7 CD’s, tendo cabido a José Niza a sua coordenação."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/morreu-hoje-jose-henrique-dias-o-nosso.html",
+          "doc": "gc-v:5717445310807317287",
+          "citacao": "uma pequena biografia extraída do livro de José Niza, Fado de Coimbra II, da Ediclube, 1999."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto seguinte: o post do GC IV de 23-09-2011 chama ao livro «Guitarra de Coimbra II»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Guitarra de Coimbra II», da coletânea «Um Século de Fado», Ediclube, 1999",
+      "data": "1999",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/09/jose-niza.html",
+          "doc": "gc-iv:5284482246681195808",
+          "citacao": "Trata-se do livro Guitarra de Coimbra II, da coletânea \"Um Século de Fado\", da Ediclube, saído em 1999."
+        }
+      ],
+      "conflito": true,
+      "nota": "Título diferente do registado noutros textos («Fado de Coimbra II»)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Textos e coordenação de edições fonográficas da Movieplay: «Adriano/Obra completa» (1994), «De capa e batina/José Afonso» (1996), «Fados e guitarradas de Coimbra. Volume I» (1996) e livreto do CD «Artur Paredes» (2003)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Mendes Antunes] (1939-2011), Adriano/Obra completa (Lisboa: Movieplay/Orfeu 35.033, 1994)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), CD De capa e batina/José Afonso (Lisboa: Movieplay JA 8000, 1996, com remasterização de 10 registos fonográficos)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), Fados e guitarradas de Coimbra. Volume I (Lisboa: Movieplay, MOV. 30.332 A/B, 1996)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "José [Manuel] Niza [Antunes Mendes] (1939-2011), “Artur Paredes”, livreto do CD Artur Paredes acompanhado por Carlos Paredes e Arménio Silva (Lisboa: MOV 30.480, 2003)."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Deixou obra ligada à coordenação de fontes fonográficas na Movieplay."
+        }
+      ],
+      "conflito": false,
+      "nota": "Inventário de António M. Nunes (2012)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem no Teatro Sá da Bandeira, promovida pelo Centro Cultural Regional de Santarém e pelo Grupo Guitarra e Canto de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/homenagem-jos-niza.html",
+          "doc": "gc-ii:1160051366014780284",
+          "citacao": "O Teatro Sá da Bandeira foi pequeno para acolher tantos e tão notáveis amigos de José Niza, na homenagem que o Centro Cultural Regional de Santarém e o Grupo Guitarra e Canto de Coimbra lhe promoveram no passado sábado."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 12-02-2008 («no passado sábado»)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "acompanhou",
@@ -25,9 +421,60 @@
           "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
           "doc": "gc-i:2563501984106623261",
           "citacao": "sendo o cantor acompanhado à viola por José Niza e Durval Moreirinhas"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-e-jose-niza-2-historias/",
+          "doc": "aja:w8b0e6d41ffb3da14",
+          "citacao": "José Afonso canta acompanhado por Levy Baptista, David Leandro, José Niza e Sousa Rafael (Cine-Teatro Restauração, Luanda, 1958)"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-em-angola/",
+          "doc": "aja:w46de4e24d16941fc",
+          "citacao": "À esquerda de José Afonso, sentado, está David Leandro, e atrás, José Niza, ambos parte do grupo que acompanhava José Afonso, assim como Sousa Rafael."
         }
       ],
       "nota": "Viola em «Minha Mãe» e «Balada Aleixo», gravadas em 1961 (LP Coimbra Orfeon of Portugal, 1962). Noutras digressões (TAUC, Angola 1958; Suécia) a cronologia da AJA indica-o à guitarra."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Depois, e até 1958, será ainda acompanhado pelas guitarras de Fernando Xavier, Jorge Godinho, Dário Cruz, David Leandro Ribeiro e José Niza"
+        }
+      ],
+      "nota": "Guitarra, até 1958. Texto de Álvaro José Ferreira («Galeria da Música Portuguesa») reproduzido no GC I (2007)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Para além de José Afonso e Adriano Correia de Oliveira, participou a fadista lisboeta e castiça Esmeralda Amoedo, tendo os acompanhamentos sido assegurados, para além de Jorge Godinho, por José Niza (g.) e Durval Moreirinhas (v.)."
+        }
+      ],
+      "nota": "Guitarra, na digressão à Suécia (Gala dos Reais Clubes Escandinavos), datada de 1963 na biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008); a cronologia da AJA data a digressão de março de 1962."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Jorge Godinho e Jorge Tuna (guitarras) e José Niza e Durval Moreirinhas (violas) acompanharam Sousa Pereira, Barros Madeira e Sutil Roque."
+        }
+      ],
+      "nota": "Viola, no disco «Coimbra Orfeon of Portugal» (Monitor). Biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008)."
     },
     {
       "tipo": "acompanhou",

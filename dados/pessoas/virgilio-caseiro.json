@@ -2,13 +2,450 @@
   "id": "virgilio-caseiro",
   "tipo": "pessoa",
   "nome": "Virgílio Caseiro",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Virgílio Alberto Valente Caseiro"
+  ],
   "papeis": [
     "cantor",
-    "compositor"
+    "compositor",
+    "investigador"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+      "doc": "gc-i:112006774527243201",
+      "citacao": "Virgílio Caseiro nasceu em Ansião em 1948 e aqui fez os primeiros estudos liceais."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+      "doc": "gc-i:112006774527243201",
+      "citacao": "Concluiu-os de seguida em Coimbra, e aqui entrou na Universidade, frequentando o curso de Engenharia Mecânica. Em simultâneo, inscreveu-se no Orfeon e nele actuou como 1º Tenor."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+      "doc": "gc-i:112006774527243201",
+      "citacao": "Concluído o serviço militar, optou definitivamente pela carreira musical. Nesse sentido, terminou em 1978 o Curso Superior de Canto, no Conservatório Regional de Música de Coimbra e obteve, em 1988, o grau de licenciatura em Ciências Musicais na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/novas-canes-para-coimbra-virglio.html",
+      "doc": "gc-i:111525187175097118",
+      "citacao": "Pode dizer-se que o Dr. Virgílio Caseiro despertou para o Fado de Coimbra em 1982, ano em que assumiu a regência do Orfeon Académico de Coimbra e, quase simultaneamente, passou a integrar o Grupo de Fados Cancioneiro de Coimbra, um dos poucos então existentes."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+      "doc": "gc-ii:5274905562552734852",
+      "citacao": "Foi Maestro do Orfeon Académico de Coimbra no período de 1982 a 1996."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+      "doc": "gc-ii:5274905562552734852",
+      "citacao": "Desde 2001 que assumiu a direcção e responsabilidade artística da Orquestra de Câmara de Coimbra (a partir de 2005 Orquestra Clássica do Centro) sendo também seu Maestro Titular."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+      "doc": "gc-ii:5274905562552734852",
+      "citacao": "Iniciou em 2003 as funções de Maestro do Coro dos Antigos Orfeonistas da Universidade de Coimbra."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Virgílio Alberto Valente Caseiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Virgílio Alberto Valente Caseiro Nasceu em Ansião em 1948."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Ansião, 1948",
+      "data": "1948",
+      "local": "Ansião",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Virgílio Caseiro nasceu em Ansião em 1948 e aqui fez os primeiros estudos liceais."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Virgílio Alberto Valente Caseiro Nasceu em Ansião em 1948."
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira fonte é a biografia incluída na sua tese de mestrado (1992), transcrita no blogue."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Primeiros estudos liceais em Ansião, concluídos em Coimbra; frequentou o curso de Engenharia Mecânica na Universidade de Coimbra",
+      "data": "",
+      "local": "Ansião; Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Virgílio Caseiro nasceu em Ansião em 1948 e aqui fez os primeiros estudos liceais. Concluiu-os de seguida em Coimbra, e aqui entrou na Universidade, frequentando o curso de Engenharia Mecânica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso Superior de Canto no Conservatório Regional de Música de Coimbra, terminado em 1978",
+      "data": "1978",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "terminou em 1978 o Curso Superior de Canto, no Conservatório Regional de Música de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de 2009 indica o Conservatório Nacional de Lisboa."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso Superior de Música (Canto) do Conservatório Nacional de Lisboa; fez também Composição",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Possui o Curso Superior de Música (Canto) do Conservatório Nacional de Lisboa. Fez também Composição."
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia da tese de 1992 indica o Conservatório Regional de Música de Coimbra (1978)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Ciências Musicais na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa (1988)",
+      "data": "1988",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "obteve, em 1988, o grau de licenciatura em Ciências Musicais na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Licenciou-se em Ciências Musicais na Faculdade de Ciências Humanas e Sociais da Universidade Nova de Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Mestre em Ciências Musicais pela Faculdade de Letras da Universidade de Coimbra; tese de mestrado sobre a história do Orfeon Académico (1992)",
+      "data": "1992",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Mestre em Ciências Musicais, pela Faculdade de Letras da Universidade de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Biografia de Virgílio Caseiro inserta na sua tese de Mestrado sobre a História do Orfeon Académico, no ano de 1992"
+        }
+      ],
+      "conflito": false,
+      "nota": "O blogue transcreveu desta tese várias biografias de regentes do Orfeon (João Arroio, António Joyce, Elias de Aguiar, Raposo Marques, Joel Canhão e outros)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Enquanto estudante de Engenharia Mecânica, inscreveu-se no Orfeon e atuou como 1.º tenor",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "frequentando o curso de Engenharia Mecânica. Em simultâneo, inscreveu-se no Orfeon e nele actuou como 1º Tenor."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Maestro do Orfeon Académico de Coimbra de 1982 a 1996",
+      "data": "1982",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Foi Maestro do Orfeon Académico de Coimbra no período de 1982 a 1996."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Como maestro, criou e dirigiu desde a sua fundação o Coro de Professores de Coimbra, coro que abandonou em 1982 para assumir a direcção do Orfeon, que continua a reger."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda fonte é de 1992 («que continua a reger»)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Maestro e cofundador da Orquestra de Câmara de Coimbra no início da década de 90",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Foi Maestro e co-fundador da Orquestra de Câmara de Coimbra no início da década de 90."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Ainda como maestro, criou e dirigiu a Orquestra de Câmara de Coimbra e o Grupo de Música medieval e renascentista, ''Ars Musicae''."
+        }
+      ],
+      "conflito": true,
+      "nota": "No mesmo post de 2009, a apresentação da orquestra diz que a Orquestra de Câmara de Coimbra «surge» em 2001."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Maestro titular da Orquestra de Câmara de Coimbra (depois Orquestra Clássica do Centro) desde a sua fundação, em 2001",
+      "data": "2001",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Em 2001, surge a Orquestra de Câmara de Coimbra, constituída em moldes profissionais e composta por 25 elementos ... Tendo por maestro titular desde a fundação o Dr. Virgílio Caseiro"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Desde 2001 que assumiu a direcção e responsabilidade artística da Orquestra de Câmara de Coimbra (a partir de 2005 Orquestra Clássica do Centro) sendo também seu Maestro Titular."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outras passagens dizem que foi cofundador da orquestra no início da década de 90, e a biografia da tese de 1992 já a refere. Quanto ao novo nome, o mesmo post diz «a partir de 2005» e, noutro ponto, que a mudança foi aprovada em 2004."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Maestro do Coro dos Antigos Orfeonistas da Universidade de Coimbra desde 2003",
+      "data": "2003",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Iniciou em 2003 as funções de Maestro do Coro dos Antigos Orfeonistas da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor adjunto na Escola Superior de Educação de Coimbra, onde coordenou o Departamento de Educação Musical, até à aposentação",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/biografia-de-virglio-caseiro-inserta.html",
+          "doc": "gc-i:112006774527243201",
+          "citacao": "Actualmente é Professor Adjunto Equiparado da Escola Superior de Educação, e aqui coordena o Departamento de Educação Musical."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Desenvolveu, até à sua aposentação, actividade docente na Escola Superior de Educação de Coimbra, onde foi Professor Adjunto de nomeação definitiva, tendo à sua responsabilidade a cadeira de Direcção Coral e Instrumental"
+        }
+      ],
+      "conflito": false,
+      "nota": "Um post de 20-10-2006 (gc-i:116134687331200790) anuncia «Virgílio Caseiro deixa a ESEC»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Livros «O Orfeon Académico de Coimbra - das Origens à Actualidade» e «Novas Canções para Coimbra»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Tem publicados os livros O Orfeon Académico de Coimbra - das Origens à Actualidade; Novas Canções para Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Novas Canções para Coimbra» (Musicentro, 1994): 12 novas canções de Coimbra, com prefácio de Fernando Monteiro",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/novas-canes-para-coimbra-virglio.html",
+          "doc": "gc-i:111525187175097118",
+          "citacao": "\"Novas Canções para Coimbra - Virgílio Caseiro\". Virgílio Caseiro ofereceu-me este magnífico livro no ano de 1994, ano da sua edição pela Musicentro. ... No prefácio da edição, começa Fernando Monteiro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/texto-de-introduo-ao-livro-de-virglio.html",
+          "doc": "gc-i:111525116303391517",
+          "citacao": "Vem tudo isto a propósito do trabalho que agora se pretende apresentar e dar a conhecer: 12 novas canções de Coimbra (talvez 12 novos fados!)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O blogue publicou partituras do livro, como «Vivi um Sonho» e «Tempos Idos»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Cassete «Tempos Idos» (gravação de 1995, Public-Art): guitarra e voz, com Octávio Sérgio, José Paulo, César Nogueira e Rui Silva",
+      "data": "1995",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/tempos-idos-cassete.html",
+          "doc": "gc-i:111151600491453997",
+          "citacao": "Tempos Idos - Cassete. Gravação feita em 1995, editada pela Public-Art. Em guitarra: Octávio Sérgio, José Paulo e Virgílio Caseiro. À viola: César Nogueira. Vozes: José Paulo, Virgílio Caseiro e Rui Silva."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Balada das Capas Negras», pelo Grupo de Fados Cancioneiro de Coimbra (Espacial 3200097, 1995): voz",
+      "data": "1995",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de Coimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge Gomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio Caseiro e João Robalo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Nome atribuído à Sala de Direção do Orfeon Académico, nas instalações da AAC",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Enquanto ao serviço deste organismo foi homenageado com a indicação do seu nome para a Sala de Direcção do organismo, nas instalações académicas da A.A.C."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Medalha de Mérito Cultural da Câmara Municipal de Coimbra (2004)",
+      "data": "2004",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Ainda em 2004 foi agraciado com a Medalha de Mérito Cultural, atribuída pela Câmara Municipal de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Prestígio Salgado Zenha, da Direção-Geral da Associação Académica de Coimbra (2006)",
+      "data": "2006",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Já em 2006 foi agraciado com o prémio Prestígio Salgado Zenha, pela Direcção-Geral da Associação Académica de Coimbra, como reconhecimento do trabalho desenvolvido em prol da Academia e da Cidade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Comenda da Ordem de Santiago de Espada (2006)",
+      "data": "2006",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "Ainda em 2006 e por decisão de Sua Ex.ª o Presidente da República, recebeu a Comenda da Ordem de Santiago de Espada."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/virglio-caseiro-comendador.html",
+          "doc": "gc-i:114149687034413771",
+          "citacao": "Virgílio Caseiro Comendador. Foi ontem agraciado com as insígnias de Comendador da Ordem de Santiago de Espada."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda fonte é um post de 4-03-2006 («Foi ontem agraciado»)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -19,12 +456,43 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-CD Balada das Capas Negras, pelo Grupo de Fados Cancioneiro de\nCoimbra, Espacial, 3200097, 1995. Texto de apresentação assinado por Jorge\nGomes. Vozes de José Horácio Miranda, Amândio Marques Ferreira, Virgílio\nCaseiro e João Robalo. Guitarras por Fernando Monteiro e António Gameiro Lopes.\nViolas a cargo de Nuno Figueiredo e Luís Santos. Regista 12 temas, dos quais 4\nsão inéditos."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/nos-proximos-dias-18-e-19-de-abril.html",
+          "doc": "gc-ii:5274905562552734852",
+          "citacao": "bem como no grupo de canção coimbrã Cancioneiro de Coimbra onde é cantor desde 1982."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/novas-canes-para-coimbra-virglio.html",
+          "doc": "gc-i:111525187175097118",
+          "citacao": "quase simultaneamente, passou a integrar o Grupo de Fados Cancioneiro de Coimbra, um dos poucos então existentes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/texto-de-introduo-ao-livro-de-virglio.html",
+          "doc": "gc-i:111525116303391517",
+          "citacao": "Um muito obrigado terá que ficar aqui também para todos os elementos do Grupo de Fados Cancioneiro de Coimbra, grupo que o autor da presente obra integra"
         }
       ],
       "nota": "voz; CD de 1995"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Virgilio%20Horta%20Teatro.jpg",
+      "legenda": "Coro dos Antigos Orfeonistas nos Açores. O maestro Virgílio Caseiro antes do espectáculo no Teatro Faialense, na Horta.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/coro-dos-antigos-orfeonist_115222819667465774.html",
+          "doc": "gc-i:115222819667465774",
+          "citacao": "Coro dos Antigos Orfeonistas nos Açores. O maestro Virgílio Caseiro antes do espectáculo no Teatro Faialense, na Horta."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

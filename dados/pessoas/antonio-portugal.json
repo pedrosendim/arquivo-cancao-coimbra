@@ -2,12 +2,57 @@
   "id": "antonio-portugal",
   "tipo": "pessoa",
   "nome": "António Portugal",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "António Jorge Moreira Portugal"
+  ],
   "papeis": [
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "O estudante liceal António Portugal (dito Fífias) frequenta a casa de Flávio Rodrigues."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Constitui-se no Liceu D. João III uma formação juvenil com José Afonso, Luís Goes, António Portugal, Manuel Mora e Costa Brás."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "António Jorge Moreira Portugal (1931-1994), segundo guitarra, estudante da FD/UC e distinto fotógrafo de arte"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "O Grupo de António Portugal, designado Coimbra Quintet pelo marketing fonográfico, foi uma formação musical masculina juvenil nascida no meio universitário de Coimbra em meados da década de 1950. O grupo teve intensa actividade artística interna e externa entre 1954-1958, apesar de não ser uma formação profissional."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+      "doc": "gc-i:8635885017785878138",
+      "citacao": "António Jorge Moreira Portugal esteve no centro do processo inicial do movimento da trova, com Adriano Correia de Oliveira e António Bernardino (e o papel decisivo dos poemas de Manuel Alegre)."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+      "doc": "gc-iv:8594621721074033745",
+      "citacao": "Projecto desenvolvido entre 1982-1983 pelo Grupo de Guitarras e Cantares de Coimbra constituído pelos instrumentistas António Brojo/António Portugal (gg) e Aurélio Reis/Luís Filipe Roxo (vv), com apresentação inicial no programa da RTP1 “Tempo de Coimbra” (1983)."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/no-terceiro-aniversario-da-morte-de.html",
+      "doc": "gc-ii:563689731678125196",
+      "citacao": "É pelo menos assim que a ouço em Variações inacabadas (seu último disco) ao lado de António Brojo (com quem se estreou no mundo discográfico)"
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -19,10 +64,38 @@
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "sem esquecer a guitarra de António Portugal (1931-1994)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "António Jorge Moreira Portugal (1931 – 1994), a quem nos iremos referir à data do seu falecimento em 26 de Junho."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "António Pinho de Brojo (1928-1999) e António [Jorge Moreira] Portugal (1931-1994), Tempo(s) de Coimbra"
         }
       ],
       "conflito": false,
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "República Centro Africana, 23 de outubro de 1931",
+      "data": "1931-10-23",
+      "local": "República Centro Africana",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 23 de Outubro nasce na República Centro Africana António Portugal (Coimbra, 26/07/1994)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada da secção «1931» da cronologia «Canções e Guitarradas nas décadas de 1930-1940» (António José Soares e António Manuel Nunes); o ano vem do cabeçalho da secção. Só esta fonte indica o dia e o local."
     },
     {
       "campo": "morte",
@@ -34,10 +107,261 @@
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "sem esquecer a guitarra de António Portugal (1931-1994)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "António Jorge Moreira Portugal (1931 – 1994), a quem nos iremos referir à data do seu falecimento em 26 de Junho."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "António Pinho de Brojo (1928-1999) e António [Jorge Moreira] Portugal (1931-1994), Tempo(s) de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+    },
+    {
+      "campo": "morte",
+      "valor": "26 de junho de 1994",
+      "data": "1994-06-26",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "António Jorge Moreira Portugal (1931 – 1994), a quem nos iremos referir à data do seu falecimento em 26 de Junho."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/antonio-portugal-executa-valsa-para-um.html",
+          "doc": "gc-iii:4696658772740013372",
+          "citacao": "Este vídeo funciona como uma pequena homenagem a António Portugal no aniversário da sua morte (26-6-1994)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/no-terceiro-aniversario-da-morte-de.html",
+          "doc": "gc-ii:563689731678125196",
+          "citacao": "A guitarra de António Portugal emudeceu para sempre em 26 de Junho de 1994"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html",
+          "doc": "gc-v:3520864908274944871",
+          "citacao": "no qual se mantém atá à morte de Portugal, em 26 de Junho de 1994."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "no dia 26 de Junho (data do falecimento de António Portugal)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A cronologia de António José Soares e António Manuel Nunes (gc-i, 2006) dá 26/07/1994. O texto do gc-ii é de Paulo Sucena, publicado no «JL» três anos após a morte, segundo o post."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 26 de julho de 1994",
+      "data": "1994-07-26",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em 23 de Outubro nasce na República Centro Africana António Portugal (Coimbra, 26/07/1994)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia «Canções e Guitarradas nas décadas de 1930-1940» (António José Soares e António Manuel Nunes). Diverge no mês dos outros posts, que dão 26 de junho. Só esta fonte indica o local."
+    },
+    {
+      "campo": "morte",
+      "valor": "1944",
+      "data": "1944",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/paulo-saraiva.html",
+          "doc": "gc-v:3520864908274944871",
+          "citacao": "Considerava-se especialmente influenciado por José Afonso (1929 - 1987), António Portugal (1931 -1944) e Adriano Correia de Oliveira (1942 - 1982)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Só neste parêntese; o mesmo post diz, umas linhas antes, «até à morte de Portugal, em 26 de Junho de 1994». Possível gralha, a rever pelo editor."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "António Jorge Moreira Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "António Jorge Moreira Portugal esteve no centro do processo inicial do movimento da trova"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/manuel-ribeiro-alegre.html",
+          "doc": "gc-v:157692702495522882",
+          "citacao": "António Jorge Moreira Portugal (1931 – 1994), a quem nos iremos referir à data do seu falecimento em 26 de Junho."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "O primeiro texto é a biografia de A. L. Carvalho Homem (2005), reproduzida no post de 2007."
+    },
+    {
+      "campo": "outro",
+      "valor": "Dito «Fífias» quando estudante liceal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "O estudante liceal António Portugal (dito Fífias) frequenta a casa de Flávio Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": "Alcunha. Entrada da secção «1947» da cronologia de António José Soares e António Manuel Nunes."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudante da FD/UC",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "António Jorge Moreira Portugal (1931-1994), segundo guitarra, estudante da FD/UC e distinto fotógrafo de arte"
+        }
+      ],
+      "conflito": false,
+      "nota": "No tempo das gravações do grupo de Pinho Brojo (1952-1953), segundo o post."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Advogado",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Guitarrista, compositor, cofundador do Movimento da Trova, advogado."
+        }
+      ],
+      "conflito": false,
+      "nota": "Comunicação de António Manuel Nunes no Teatro Paulo Quintela (2012), na entrada bibliográfica sobre o «depoimento» de 1992."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cofundador do Movimento da Trova; esteve no centro do processo inicial do movimento, com Adriano Correia de Oliveira e António Bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Guitarrista, compositor, cofundador do Movimento da Trova, advogado."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "António Jorge Moreira Portugal esteve no centro do processo inicial do movimento da trova, com Adriano Correia de Oliveira e António Bernardino (e o papel decisivo dos poemas de Manuel Alegre)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fotógrafo de arte",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "António Jorge Moreira Portugal (1931-1994), segundo guitarra, estudante da FD/UC e distinto fotógrafo de arte"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/antonio-portugal.html",
+          "doc": "gc-iii:7966881830147239410",
+          "citacao": "Inauguração da exposição de fotografia, António Portugal, um compositor de imagens, com fotografias do seu arquivo fotográfico."
+        }
+      ],
+      "conflito": false,
+      "nota": "A exposição fez parte da evocação de 27 de junho de 2009 (programa assinado por Jorge Cravo)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Um depoimento» [sobre o canto e a guitarra de Coimbra], revista Médice, n.º 13, janeiro de 1992, p. 36",
+      "data": "1992-01",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "António [Jorge Moreira] Portugal (1931-1994), “Um depoimento” [sobre o canto e a guitarra de Coimbra, suas raízes e evolução ao longo dos tempos], revista Médice, n.º 13, Janeiro [de] 1992, p. 36."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiras gravações de Luiz Goes, para a Rádio Triunfo, em dois discos de 78 rpm publicados em 1953, ao lado de António Brojo, Aurélio Reis e Mário de Castro",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Luiz Goes grava pela primeira vez para a firma portuense Rádio Triunfo, ao lado dos guitarristas António Brojo, António Portugal, Aurélio Reis e Mário de Castro. Em dois discos de 78 rotações, publicados em 1953"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha de João Carlos Callixto sobre Luiz Goes (RTP Memória, Gramofone)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Solista de guitarra de Coimbra no LP «Serenata de Coimbra» do Coimbra Quintet, com Luiz Goes (Philips P10141R; gravado em Madrid em março de 1957, edição internacional em 1958)",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "I-LP SERENATA DE COIMBRA. COIMBRA QUINTET. Madrid: Philips P10141R, março de 1957 [gravação], 1958 [edição internacional] ... acompanhado por António Jorge Moreira Portugal (1931-1994), solista de guitarra de Coimbra de concerto"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Variações inacabadas» (1994), o seu último disco, ao lado de António Brojo",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/no-terceiro-aniversario-da-morte-de.html",
+          "doc": "gc-ii:563689731678125196",
+          "citacao": "É pelo menos assim que a ouço em Variações inacabadas (seu último disco) ao lado de António Brojo"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "no CD Variações inacabadas (1994)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto do gc-ii é de Paulo Sucena, publicado no «JL», segundo o post."
     },
     {
       "campo": "atividade",
@@ -160,6 +484,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
           "doc": "gc-v:1760813732173371136",
           "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "integra o Quinteto de Coimbra, mais uma vez liderado por António Portugal e contando desta vez com Jorge Godinho, Manuel Pepe e Levy Baptista."
         }
       ],
       "nota": "guitarrista solista (1.º gC)"
@@ -226,6 +556,82 @@
         }
       ],
       "nota": "2.ª guitarra nas gravações Melodia de 1952-1953; 1.ª guitarra no EP «Coimbra» (registo de 1956) e no EP «Balada do Outono» (1960)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "esteve no centro do processo inicial do movimento da trova, com Adriano Correia de Oliveira e António Bernardino ... mas também acompanhou Adriano ou «Berna» com formações mais alargadas"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "O Portugal acompanha o Zeca Afonso, o Adriano Correia de Oliveira, o António Bernardino."
+        }
+      ],
+      "nota": "Biografia de A. L. Carvalho Homem (2005), reproduzida no post de 2007; o texto da AJA é uma entrevista de António Manuel Nunes a António Pinho Brojo."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/antnio-portugal.html",
+          "doc": "gc-i:8635885017785878138",
+          "citacao": "No ano seguinte acompanhou António Bernardino (com Francisco Martins e Luís Filipe) no álbum emblemático Flores para Coimbra"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/antonio-pinho-brojo-sobre-jose-afonso/",
+          "doc": "aja:wb483ee0551bf3759",
+          "citacao": "O Portugal acompanha o Zeca Afonso, o Adriano Correia de Oliveira, o António Bernardino."
+        }
+      ],
+      "nota": "Álbum «Flores para Coimbra»; o texto da AJA é uma entrevista de António Manuel Nunes a António Pinho Brojo."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Luiz Fernando de Sousa Pires de Goes (1933-2012), barítono solista, acompanhado por António Jorge Moreira Portugal (1931-1994), solista de guitarra de Coimbra de concerto"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "do Coimbra Quintet, a que Luiz Goes deu voz, acompanhado por António Portugal (g.C), Jorge Godinho (g.C), Manuel Pepe (v.) e Levi Baptista (v.)"
+        }
+      ],
+      "nota": "LP «Serenata de Coimbra» do Coimbra Quintet (Philips, gravado em Madrid em 1957)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/perdidos-e-achados-ttulos-e-letras.html",
+          "doc": "gc-i:115499186423197692",
+          "citacao": "o Dr. Augusto Camacho alterou o título e letra e bem assim a música e veio a gravá-lo, na forma e título por que é conhecido, Serenata (Na noite cheia de mágoa), em 1992, com acompanhamento de António Brojo/António Portugal (gg) e Aurélio Reis/Luís Filipe Roxo (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/11/o-blogue-guitarra-de-coimbra-e-dra.html",
+          "doc": "gc-v:8770600345518377924",
+          "citacao": "acompanhado pelas guitarras de Dr. António Pinho Brojo e Dr. António Portugal e pelas violas de Dr. Luís Filipe Roxo e Dr. Aurélio Reis [arranjo gC de António Portugal, 1983]."
+        }
+      ],
+      "nota": "Gravação de «Serenata (Na noite cheia de mágoa)» (1992) e «Tempo sem Sombras», de Nuno Guimarães e A. Torrado (arranjo de 1983)."
     }
   ],
   "imagens": [

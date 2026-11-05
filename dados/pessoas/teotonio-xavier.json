@@ -2,12 +2,160 @@
   "id": "teotonio-xavier",
   "tipo": "pessoa",
   "nome": "Teotónio Xavier",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Teotónio Manuel da Silva Xavier"
+  ],
   "papeis": [
     "guitarrista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/alcipe-alcipe-o-pseudnimo-literrio-de.html",
+      "doc": "gc-i:115558925463129035",
+      "citacao": "Na primeira metade da década de 1960, Carlos Paredes tinha executado a \"Canção de Alcipe\" numa bobine, gravação doméstica que Teotónio Xavier fez chegar em mão a António Portugal."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+      "doc": "gc-i:6261226112741350940",
+      "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. ... uma referência, na História do Fado de Coimbra, no ano de 1982."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-antnio-de-almeida-santos.html",
+      "doc": "gc-i:111645883781292708",
+      "citacao": "Teotónio Xavier tem aqui uma perfeita interpretação do \"Ré menor\" de Almeida Santos, com belíssima sonoridade e boa interpretação."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+      "doc": "gc-ii:2176792741751625156",
+      "citacao": "um apontamento musical a cargo de elementos do Grupo Porta Férrea ( Eng.º Teotónio Xavier (guitarra), Dr. António Toscano (viola) e Eng.º Soares da Costa (viola) que acompanharão o Dr. Mário Veiga e o consagrado Dr. Augusto Camacho."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/03/teotnio-xavier.html",
+      "doc": "gc-i:6250445477132308706",
+      "citacao": "CONHECEDOR DO UNIVERSO DA GUITARRA DE COIMBRA EM TODAS AS SUAS VERTENTES E DAS \"MANHAS\" TÉCNICAS DO INSTRUMENTO, QUE NÃO SE IMPORTA DE EXPLICAR A QUEM O OUVE."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Teotónio Manuel da Silva Xavier",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/12/aniversarios-e-aniversariantes-na.html",
+          "doc": "gc-v:4172682257802577241",
+          "citacao": "TEOTÓNIO MANUEL DA SILVA XAVIER, ... Executante de guitarra de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista «Aniversários e aniversariantes na galáxia sonora coimbrã» (António Manuel Nunes, GC V, 2017)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Engenheiro (tratado por «Eng.» nas fontes)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/direccao-da-liga-dos-amigos-do-museu.html",
+          "doc": "gc-iv:7093593714097150277",
+          "citacao": "O Eng º Teotónio Xavier doará ao Museu Académico de Coimbra a colecção integral de discos de vinil de Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": "As fontes só indicam o título («Eng.», «Eng º»); não dizem a especialidade nem onde exerceu."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra no LP «Saudades da Rua Larga» (33 rpm, 1982), cantado por Pedro Magalhães Ramalho, com o Grupo Tertúlia Académica da Rua Larga",
+      "data": "1982",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/25-anos-do-disco.html",
+          "doc": "gc-i:6261226112741350940",
+          "citacao": "Há 25 anos foi editado o Disco de 33 rpm – Saudades da Rua Larga, cantado por Pedro Magalhães Ramalho, acompanhado pelo Grupo Tertúlia Académica da Rua Larga. Do Grupo, faziam parte, nas guitarras, Eng. José Silva Ramos, Dr. Fernando M. Xavier, Eng. Teotónio Xavier e Dr. H. Amado Gomes. ... uma referência, na História do Fado de Coimbra, no ano de 1982."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do convite para o jantar dos 25 anos do disco (Lisboa, 4 de novembro de 2007), publicado no GC I."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «António de Almeida Santos – Coimbra no Outono da Voz» (Profissom, «2004(?)»): acompanha Almeida Santos e toca o «Ré menor» de Almeida Santos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-antnio-de-almeida-santos.html",
+          "doc": "gc-i:111645883781292708",
+          "citacao": "Capa do CD \"António de Almeida Santos - Coimbra no Outono da Voz\", uma edição Profissom, saído em 2004(?). Canta Almeida Santos, acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro, Alexandre Bateiras, Rodrigues Rocha, Samuel, José Niza e Paco Bandeira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-antnio-de-almeida-santos.html",
+          "doc": "gc-i:111645883781292708",
+          "citacao": "Teotónio Xavier tem aqui uma perfeita interpretação do \"Ré menor\" de Almeida Santos, com belíssima sonoridade e boa interpretação."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data do CD tem ponto de interrogação na fonte."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra do Grupo Porta Férrea (grupo de fados de antigos estudantes de Coimbra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "mentor e entusiasta do \"Porta Férrea - Grupo de Fados de Antigos Estudantes de Coimbra. ... um apontamento musical a cargo de elementos do Grupo Porta Férrea ( Eng.º Teotónio Xavier (guitarra), Dr. António Toscano (viola) e Eng.º Soares da Costa (viola) que acompanharão o Dr. Mário Veiga e o consagrado Dr. Augusto Camacho."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/carlos-couceiro.html",
+          "doc": "gc-iii:1314552025483598074",
+          "citacao": "os instrumentistas do \"Porta Férrea\" ( Teotónio Xavier, João Reis, Durval Moreirinhas, Soares da Costa e António Toscano)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O grupo não tem ficha no arquivo; por isso fica como facto e não como relação membro_de."
+    },
+    {
+      "campo": "outro",
+      "valor": "Anúncio de que doaria ao Museu Académico de Coimbra a coleção integral de discos de vinil de Artur Paredes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/01/direccao-da-liga-dos-amigos-do-museu.html",
+          "doc": "gc-iv:7093593714097150277",
+          "citacao": "Teotónio Xavier doará ao Museu Académico de Coimbra a colecção integral de discos de vinil de Artur Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programa de uma sessão da Liga dos Amigos do Museu Académico de Coimbra, publicado no GC IV (janeiro de 2012); o post não confirma a entrega."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -21,6 +169,58 @@
         }
       ],
       "nota": "guitarra; LP de 1982"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/homenagem-ngelo-arajo-na-s_114812729429616304.html",
+          "doc": "gc-i:114812729429616304",
+          "citacao": "Sutil Roque canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano."
+        }
+      ],
+      "nota": "guitarra; homenagem a Ângelo Araújo em S. João da Madeira"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-rolim",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/05/homenagem-ngelo-arajo-na-s_114812779030003652.html",
+          "doc": "gc-i:114812779030003652",
+          "citacao": "Fernando Rolim canta acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro e António Toscano."
+        }
+      ],
+      "nota": "guitarra; homenagem a Ângelo Araújo em S. João da Madeira"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-de-almeida-santos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/capa-do-cd-antnio-de-almeida-santos.html",
+          "doc": "gc-i:111645883781292708",
+          "citacao": "Capa do CD \"António de Almeida Santos - Coimbra no Outono da Voz\", uma edição Profissom, saído em 2004(?). Canta Almeida Santos, acompanhado por Durval Moreirinhas, Teotónio Xavier, Carlos Couceiro, Alexandre Bateiras, Rodrigues Rocha, Samuel, José Niza e Paco Bandeira."
+        }
+      ],
+      "nota": "guitarra; CD «Coimbra no Outono da Voz»"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "carlos-couceiro",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/carlos-couceiro-foi-homenageado-ontem.html",
+          "doc": "gc-ii:4319647197219245653",
+          "citacao": "Carlos Couceiro foi homenageado, ontem, com uma serenata nas escadas da Sé Velha, com os Pardalitos do Mondego e o seu grupo, constituído por ele na guitarra, Teotónio Xavier, também na guitarra, António Toscano na viola"
+        }
+      ],
+      "nota": "guitarra, no grupo de Carlos Couceiro"
     }
   ],
   "imagens": [],

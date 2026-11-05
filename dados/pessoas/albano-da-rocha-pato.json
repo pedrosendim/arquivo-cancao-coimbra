@@ -6,9 +6,53 @@
     "Rocha Pato"
   ],
   "papeis": [
-    "outro"
+    "outro",
+    "editor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "ALBANO DA ROCHA PATO, nascido em S. João da Azenha, Avelãs de Caminho, no dia 25 de Setembro de 1923 começou a sua vida profissional como funcionário do Turismo da Curia , onde conheceu Manuel Pinto de Azevedo , proprietário do Jornal \"O Primeiro de Janeiro\" que o convida a ser o responsável pela parte redatorial do Jornal na cidade de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "Rocha Pato instala-se em Coimbra no ano de 1945 casado e com um filho (Rui de Melo Pato) que nasce em 1946. Mantém-se como repórter do Primeiro de Janeiro em Coimbra até meados dos anos 70."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "Era presença permanente na tertúlia das mesas dos intelectuais e artistas do café A Brasileira de Coimbra, onde fez amizades e mantinha convívio diário com Torga, Paulo Quintela, irmãos Vilaça, Fernando Machado Soares, José Afonso"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "Apoiou, alojou e colaborou com José Afonso na fase de emergência e legitimação da NOVA BALADA DE COIMBRA"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "Foi ele que tratou de tudo, editora, estúdio, capa, etc, para os três primeiros discos de Baladas de José Afonso."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+      "doc": "gc-v:6775765202156850938",
+      "citacao": "Em meados da década de 70, larga a delegação do Primeiro de Janeiro na Rua Ferreira Borges e vai trabalhar para o Diário Popular , criando uma delegação no Largo das Ameias."
+    },
+    {
+      "fonte": "aja",
+      "url": "https://aja.pt/rocha-pato-100-anos/",
+      "doc": "aja:w1b85d138a0bdf552",
+      "citacao": "Albano da Rocha Pato (1923-1982), jornalista e fotógrafo, pai de Rui Pato, e figura incontornável na discografia e carreira de José Afonso, tendo sido responsável pela produção e edição dos seus primeiros discos"
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -21,10 +65,28 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
           "doc": "gc-v:6775765202156850938",
           "citacao": "ALBANO DA ROCHA PATO, nascido em S. João da Azenha, Avelãs de Caminho, no dia 25 de Setembro de 1923"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "Albano da Rocha Pato (1923-1982), jornalista e fotógrafo"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "Albano da Rocha Pato (1923-1982), jornalista, afirma-se como o agente artístico de José Afonso"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/correspondencia-de-jose-afonso.html",
+          "doc": "gc-v:2423947274672883910",
+          "citacao": "o jornalista Albano da Rocha Pato (1923-1983)"
         }
       ],
       "conflito": true,
-      "nota": "Texto de Rui Pato reproduzido no blogue."
+      "nota": "Texto de Rui Pato reproduzido no blogue. A Associação José Afonso (25-09-2023, «Rocha Pato: 100 anos») dá só o ano. A terceira citação é do post «Turbulentos sixties, a pegada do 2º Modernismo na CC» (António Manuel Nunes, GC V, 2018), que noutro parágrafo dá (1925-1982) (ver o facto de 1925); a quarta, do post «Correspondência de José Afonso» (GC V, 2025), que dá (1923-1983)."
     },
     {
       "campo": "nascimento",
@@ -43,6 +105,22 @@
       "nota": ""
     },
     {
+      "campo": "nascimento",
+      "valor": "1925",
+      "data": "1925",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/11/turbulentos-sixties-pegada-do-2.html",
+          "doc": "gc-v:6190918462132593194",
+          "citacao": "O jornalista e amante de fotografia Albano da Rocha Pato (1925-1982)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de António Manuel Nunes (GC V, 2018); o mesmo post dá também (1923-1982) (ver o facto de 1923)."
+    },
+    {
       "campo": "morte",
       "valor": "1 de abril de 1982, subitamente, com 57 anos",
       "data": "1982-04-01",
@@ -53,10 +131,22 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
           "doc": "gc-v:6775765202156850938",
           "citacao": "vem a falecer subitamente com 57 anos em 1 de Abril de 1982"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "No dia um de abril passaram 33 anos sobre o falecimento de Rocha Pato"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "Albano da Rocha Pato (1923-1982), jornalista e fotógrafo"
         }
       ],
       "conflito": true,
-      "nota": ""
+      "nota": "A segunda citação é de António Manuel Nunes, no mesmo post (título: «Nos 33 anos do falecimento de Rocha Pato (1923-1982)»). A AJA (2023) dá só o ano."
     },
     {
       "campo": "morte",
@@ -69,10 +159,16 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
           "doc": "gc-i:111266173031281151",
           "citacao": "Albano da Rocha Pato (1924-1983)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/correspondencia-de-jose-afonso.html",
+          "doc": "gc-v:2423947274672883910",
+          "citacao": "o jornalista Albano da Rocha Pato (1923-1983)"
         }
       ],
       "conflito": true,
-      "nota": ""
+      "nota": "O GC I (2005) dá (1924-1983); o post «Correspondência de José Afonso» (António Manuel Nunes, GC V, 2025), sobre o livro de Octávio Fonseca, dá (1923-1983)."
     },
     {
       "campo": "profissao",
@@ -91,10 +187,154 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
           "doc": "gc-v:6775765202156850938",
           "citacao": "vai trabalhar para o Diário Popular"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "Albano da Rocha Pato (1923-1982), jornalista e fotógrafo"
         }
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fotógrafo, vencedor de vários galardões de fotografia",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Grande fotógrafo, vencedor de vários galardões de fotografia."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "jornalista e fotógrafo, pai de Rui Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Rui Pato reproduzido no GC V (2015)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Responsável pela produção e edição dos primeiros discos de baladas de José Afonso (editora, estúdio, capa); assinou textos de apresentação de EP e sugeriu a fotografia da capa do EP «Cantares de José Afonso» (Columbia, 1964)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Foi ele que tratou de tudo, editora, estúdio, capa, etc, para os três primeiros discos de Baladas de José Afonso."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "figura incontornável na discografia e carreira de José Afonso, tendo sido responsável pela produção e edição dos seus primeiros discos"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "por ter idealizado a realização de fotografias [capas de discos] num bairro insalubre às margens do Choupal, por ter assinado textos de apresentação de EP(s), por ter tentado iludir o lápis da censura, por ter viabilizado a produção dos primeiros EP(s) de baladas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Capa do EP CANTARES DE JOSÉ AFONSO. Lisboa: Columbia, E16 40023, 1964, 1.ª edição censurada e retirada de circulação. O pretexto foi a fotografia a preto e branco realizada por Eduardo Varela Pécurto, um dos habitués de A Brasileira, por sugestão e direta orientação de Rocha Pato"
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira citação é de Rui Pato; a terceira e a quarta, de António Manuel Nunes (GC V, 2015)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto da contracapa do EP «Baladas de Coimbra» de José Afonso (Rapsódia EPF 5.182, outubro de 1962)",
+      "data": "1962",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Contracapa do EP BALADAS DE COIMBRA. Porto: Rapsódia EPF 5.182, editado em outubro de 1962"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Rocha Pato faz o jogo que dele se espera, finge apresentar um Dr. de Coimbra que também é cantor, menciona os esteriótipos do costume e para bom entendedor diz que José Afonso fundou um movimento literário-musical novo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post (António Manuel Nunes, 2015) apresenta a contracapa como «um exemplo da discreta responsabilidade de Rocha Pato no apoio à afirmação e legitimação da Nova Balada de Coimbra»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Criou a revista «Vinhos de Portugal», a primeira revista sobre vinhos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "Paralelamente cria a primeira revista sobre vinhos , a revista \"Vinhos de Portugal\" que teve uma regularidade na publicação durante alguns anos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Rui Pato."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem anunciada pela AJA (25-09-2023) para «o próximo dia 29», na Biblioteca Municipal de Coimbra, com exposição das cartas e postais que José Afonso lhe escreveu entre 1962 e 1970",
+      "data": "2023",
+      "local": "Coimbra, Biblioteca Municipal",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/rocha-pato-100-anos/",
+          "doc": "aja:w1b85d138a0bdf552",
+          "citacao": "No próximo dia 29, irá ser homenageado na Biblioteca Municipal de Coimbra, onde serão expostas ao público as dezenas de cartas e postais que José Afonso escreveu a Rocha Pato entre os anos de 1962 a 1970."
+        }
+      ],
+      "conflito": true,
+      "nota": "Anúncio da AJA publicado a 25-09-2023 («faria hoje 100 anos»). A CM de Coimbra e a AJA, a 26-09-2023, põem a sessão de homenagem na Casa Municipal da Cultura e a exposição na Biblioteca Municipal (ver o facto seguinte). Nenhuma fonte arquivada diz que a homenagem se realizou."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sessão de homenagem anunciada pela Câmara Municipal de Coimbra (26-09-2023) para 29 de setembro, às 18h00, na Sala Sá de Miranda da Casa Municipal da Cultura, «no ano em que se comemora o centenário do seu nascimento»: evocação pelo filho, Rui Pato; apontamento musical de António Ataíde (voz), acompanhado por Rui Pato (viola); inauguração da exposição «A Sintonia de duas vidas: Rocha Pato e José Afonso», patente na Sala do Empréstimo da Biblioteca Municipal de Coimbra",
+      "data": "2023",
+      "local": "Coimbra, Casa Municipal da Cultura",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2023/09/cm-de-coimbra-homenageia-o-jornalista-rocha-pato-no-ano-do-centenario-do-seu-nascimento/",
+          "doc": "cm-coimbra:wf792857d9a74eeab",
+          "citacao": "vai realizar uma sessão de homenagem ao jornalista Rocha Pato, no ano em que se comemora o centenário do seu nascimento. A homenagem vai decorrer no próximo dia 29 de setembro, pelas 18h00, na Sala Sá de Miranda, da Casa Municipal da Cultura, e agrega três momentos: uma evocação a Rocha Pato pelo filho, Rui Pato; um apontamento musical de António Ataíde (voz), acompanhado por Rui Pato (viola), na interpretação de algumas baladas e canções de José Afonso; e a inauguração da exposição “A Sintonia de duas vidas: Rocha Pato e José Afonso”"
+        },
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/2023/09/cm-de-coimbra-homenageia-o-jornalista-rocha-pato-no-ano-do-centenario-do-seu-nascimento/",
+          "doc": "cm-coimbra:wf792857d9a74eeab",
+          "citacao": "A exposição, de entrada livre, vai estar patente na Sala do Empréstimo da Biblioteca Municipal de Coimbra"
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/homenagem-a-rocha-pato/",
+          "doc": "aja:w29fcaa2808d53019",
+          "citacao": "A Câmara Municipal (CM) de Coimbra vai homenagear o jornalista Rocha Pato (1923 – 1982) na próxima sexta-feira, dia 29 de setembro, pelas 18h00, na Casa Municipal da Cultura."
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia da CM de Coimbra de «26 Setembro 2023», cujo primeiro parágrafo a AJA reproduz no mesmo dia («Homenagem a Rocha Pato», 26/09/2023). São anúncios: nenhuma fonte arquivada diz que a homenagem se realizou. O anúncio da AJA de 25-09-2023 diz «homenageado na Biblioteca Municipal de Coimbra» (ver o facto anterior)."
     },
     {
       "campo": "outro",
@@ -130,7 +370,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCm7sXgfctCIZmK1nGPR43OWfE8DnZhBZMf6wuEioLNw-tmlsOV3NyGjJKRLEOQ8Gmpx05ctovfyvVTjQZGRwUxqpZ5egJHaRcIydBZAW76d8GUcN-Cr8LTMQksRgp_4GzYQ7RQTrueyi/s1600/ROCHAPATO+(2).jpg",
+      "legenda": "O jornalista Rocha Pato com um dos seus cachimbos. Fotografia do acervo pessoal de Rui Pato.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/nos-33-anos-do-falecimento-de-rocha.html",
+          "doc": "gc-v:6775765202156850938",
+          "citacao": "O jornalista Rocha Pato com um dos seus muitos inseparáveis cachimbos que tinha fama de fumar e... mordiscar. Fotografia do acervo pessoal de Rui Pato"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

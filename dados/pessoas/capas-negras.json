@@ -11,10 +11,28 @@
   ],
   "biografia": [
     {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+      "doc": "arquivo-pt:w15ae2f43498199a6",
+      "citacao": "É de notar que este grupo representa a sequência natural da transição de gerações na canção de Coimbra, já que alguns destes elementos faziam também parte do Grupo Académico de Fados e Canções de Coimbra, grupo este, que estava na viragem de uma nova época da sua actividade."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+      "doc": "arquivo-pt:w15ae2f43498199a6",
+      "citacao": "Em Setembro de 1993 assume-se o inicio da terceira fase deste grupo, com a entrada de Eduardo Jaime Filipe, cantor, vindo do grupo de fados \"Alma-Matter\" e aluno das escolas da Secção de Fado da A.A.C. É então desde de 1993 que este grupo mantém inalterável esta sua composição actual (um guitarra, um viola e dois cantores)."
+    },
+    {
       "fonte": "gc-v",
       "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
       "doc": "gc-v:1436266136812530715",
       "citacao": "Capas Negras Grupo constituído por Luís Alvelos/Eduardo Filipe (vozes), António José Moreira (gC), Nuno Encarnação (v)"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+      "doc": "arquivo-pt:w15ae2f43498199a6",
+      "citacao": "Em 1996, na Serenata Monumental da Queima das Fitas, o grupo apresenta a balada de despedida do 5º ano de Engenharia Electrotécnica e 5º ano de Engenharia Civil, de Luis Alvelos e António J. Moreira, que representa também a despedida dos \"Capas Negras\" de todas as actividades académicas."
     },
     {
       "fonte": "gc-i",
@@ -30,6 +48,249 @@
     }
   ],
   "factos": [
+    {
+      "campo": "formacao",
+      "valor": "formação do início do verão de 1988 (site «Fado de Coimbra»); «No ano de 1988, funda o Grupo Capas Negras» (nota biográfica de António José Moreira no site do grupo)",
+      "data": "1988",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "embora a sua formação seja do inicio do verão de 1988"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20090622215104/http://www.capasnegras.com/composicao_grupo_am.htm",
+          "doc": "arquivo-pt:w4ce67db56d54acb1",
+          "citacao": "No ano de 1988, funda o Grupo Capas Negras."
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge da «História do Grupo» do site oficial (capturas de 2009 a 2022), que dá o início do verão de 1989 (facto seguinte)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "formação do início do verão de 1989 («História do Grupo», site oficial do grupo)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "embora a sua formação seja do inicio do verão de 1989"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do site «Fado de Coimbra» e da nota biográfica de António José Moreira no próprio site do grupo, que dão 1988."
+    },
+    {
+      "campo": "estreia",
+      "valor": "início da atividade académica na Serenata da Festa das Latas e Imposição de Insígnias do ano letivo de 1988/89, em novembro (site «Fado de Coimbra»)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "O grupo de fados de Coimbra \"Capas Negras\" inicia a sua actividade académica na Serenata da Festa das Latas e Imposição de Insígnias do ano lectivo de 1988/89, em Novembro"
+        }
+      ],
+      "conflito": true,
+      "nota": "A «História do Grupo» do site oficial dá novembro de 1989 (facto seguinte)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "início da atividade académica na Serenata da Festa das Latas e Imposição de Insígnias do ano de 1989, em novembro («História do Grupo», site oficial)",
+      "data": "1989-11",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "O grupo de fados de Coimbra \"Capas Negras\" inicia a sua actividade académica na Serenata da Festa das Latas e Imposição de Insígnias do ano de 1989, em Novembro"
+        }
+      ],
+      "conflito": true,
+      "nota": "O site «Fado de Coimbra» dá o ano letivo de 1988/89."
+    },
+    {
+      "campo": "outro",
+      "valor": "formação inicial (site «Fado de Coimbra»): António José Moreira e António Rabaça (guitarras), Manuel Pêra e José Carlos Ribeiro (violas), Rui Silva (cantor); manteve-se cerca de dois anos",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Fizeram parte da formação inicial deste grupo: António José Moreira (Guitarra) António Rabaça (Guitarra) Manuel Pêra (Viola) José Carlos Ribeiro (Viola) Rui Silva (Cantor) Esta formação mantém-se durante cerca de dois anos"
+        }
+      ],
+      "conflito": true,
+      "nota": "A biografia de Jorge Cravo no mesmo site dá «Manuel Rabaça» como segundo guitarrista da 1.ª fase (facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "segundo a biografia de Jorge Cravo (site «Fado de Coimbra»): 1.ª fase com António José Moreira e Manuel Rabaça (guitarras), Manuel Pera (viola) e Rui Silva (cantor); fase posterior com António José Moreira, Nuno Encarnação (viola) e Luís Alvelos (cantor), com colaboração de José Carlos Ribeiro e Nuno Figueiredo nas violas; Jorge Cravo integrou o grupo de maio de 1990 a julho de 1992",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050213023328/http://www.cidadevirtual.pt:80/fadocoimbra/cravo.htm",
+          "doc": "arquivo-pt:w144748d04a0ac80c",
+          "citacao": "De Maio de 1990 a Julho de 1992, integrou o Grupo \"Capas Negras\", constituído numa 1ª fase, por António José Moreira e Manuel Rabaça nas guitarras, Manuel Pera (viola) e Rui Silva (cantor); e numa fase posterior por António José Moreira, Nuno Encarnação (viola) e Luis Alvelos (cantor), tendi havido ainda, de permeio, a colaboração de José Carlos Ribeiro e Nuno Figueiredo nas violas."
+        }
+      ],
+      "conflito": true,
+      "nota": "A página do grupo no mesmo site dá «António Rabaça» como segundo guitarrista da formação inicial e não menciona Jorge Cravo como elemento (refere-o como coautor da balada de despedida do 4.º ano de Física, de 1993)."
+    },
+    {
+      "campo": "outro",
+      "valor": "no verão de 1990 entrou Luís Alvelos (cantor), vindo das escolas da Secção de Fado da AAC e do Grupo de Fados Trovas e Vielas de Coimbra; no início do ano letivo de 1990/91 entrou Nuno Figueiredo (viola); formação de então: António José Moreira (guitarra), José Carlos Ribeiro e Nuno Figueiredo (violas), Luís Alvelos (cantor)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "No verão de 1990 integra os \"Capas Negras\" Luís Alvelos, cantor, vindo das escolas da Secção de Fado da Associação Académica de Coimbra (A.A.C.) e do Grupo de Fados Trovas e Vielas de Coimbra, grupo este que representou a Secção de Fado da A.A.C. durante um ano."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "no inicio do ano lectivo 1990/91, integra o grupo Nuno Figueiredo (Viola) vindo também ele das escolas da Secção de Fado da A.A.C. e do Grupo de Fados Trovas e Vielas de Coimbra , que se extinguira já nessa altura."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Nesta fase os \"Capas Negras\" são: António José Moreira (Guitarra) José Carlos Ribeiro (Viola) Nuno Figueiredo (Viola) Luis Alvelos (Cantor)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "primeira criação do grupo: balada de despedida do 5.º ano de Engenharia Mecânica (Nuno Figueiredo e António José Moreira), que encerrou a Serenata Monumental de 1991",
+      "data": "1991",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "É com esta formação que se apresenta a primeira criação do grupo em forma de balada de despedida do 5º ano de Engenharia Mecânica, da autoria de Nuno Figueiredo e António José Moreira, encerrando a Serenata Monumental de 1991."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "no verão de 1992 entrou Nuno Miguel Encarnação (viola), do grupo «Tinteto de Coimbra»; formação: António José Moreira (guitarra), Nuno Encarnação (viola), Luís Alvelos (cantor)",
+      "data": "1992",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "No verão de 1992 é convidado a integrar o grupo Nuno Miguel Encarnação, que pertencia ao grupo de fados \"Tinteto de Coimbra\" e frequentava as escolas da Secção de Fado da A.A.C."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "No verão de 1992 é convidado a integrar o grupo Nuno Miguel Encarnação, que pertencia ao grupo de fados \"Tinteto de Coimbra\" e frequentava as escolas da Secção de Fado da A.A.C., ficando o grupo com a seguinte formação: António José Moreira (Guitarra) Nuno Encarnação (Viola) Luis Alvelos (Cantor)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de Nuno Encarnação no site do grupo dá março de 1992 (facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Nuno Encarnação integra o grupo em março de 1992 (nota biográfica no site do grupo)",
+      "data": "1992-03",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20090622215031/http://www.capasnegras.com/composicao_grupo_ne.html",
+          "doc": "arquivo-pt:w74a206585601b8ec",
+          "citacao": "Em Março de 1992 integra o Grupo de Fados Capas Negras."
+        }
+      ],
+      "conflito": true,
+      "nota": "A «História do Grupo» (site oficial) e a página do grupo no site «Fado de Coimbra» dão o verão de 1992."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "balada de despedida do 4.º ano de Física (Jorge Cravo e António José Moreira), apresentada na Serenata Monumental de 1993, com o autor da letra a cantar com o grupo",
+      "data": "1993",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "Em 1993 os \"Capas Negras\" apresentam a balada de despedida do 4º ano de Física, da autoria de Jorge Cravo e António José Moreira, tendo o grupo convidado o autor de letra para a apresentação deste tema inédito na Serenata Monumental de 1993, subindo à Sé Velha o grupo com dois cantores."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "em setembro de 1993 começa a «terceira fase», com a entrada de Eduardo Jaime Filipe (cantor), vindo do grupo «Alma-Matter»; composição mantida desde 1993 (um guitarra, um viola e dois cantores)",
+      "data": "1993-09",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "Em Setembro de 1993 assume-se o inicio da terceira fase deste grupo, com a entrada de Eduardo Jaime Filipe, cantor, vindo do grupo de fados \"Alma-Matter\" e aluno das escolas da Secção de Fado da A.A.C. É então desde de 1993 que este grupo mantém inalterável esta sua composição actual (um guitarra, um viola e dois cantores)."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20090622215120/http://www.capasnegras.com/composicao_grupo_ef.html",
+          "doc": "arquivo-pt:w0d2ee01d35e423e3",
+          "citacao": "Em 1993 transita para os Capas Negras onde iniciou uma nova fase do seu percurso na Canção de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "a partir de 1993, criação de temas próprios, com letras de Luís Alvelos e Eduardo Filipe e música de António José Moreira («Última Luz», «Novo Canto», «Fado de uma vida», «Canção de uma cidade adormecida», entre outros)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "A partir desta altura o grupo faz uma restruturação do seu repertório e estão reunidas as condições para iniciar uma fase de criação dos seus próprios temas, com letras de Luís Alvelos e Eduardo Filipe, musicados por António José Moreira. É assim que surgem temas como Última Luz, Novo Canto, Fado de uma vida, Canção de uma cidade adormecida, entre outros."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "participação em todas as Serenatas Monumentais da Queima das Fitas e nas Serenatas da Festa das Latas e Imposição de Insígnias, de 1989 a 1996",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003740/http://capasnegras.com/curriculo.html",
+          "doc": "arquivo-pt:w9f6322624c39b300",
+          "citacao": "Participação em todas as Serenatas Monumentais, por altura da Queima das Fitas de Coimbra e nas Serenatas da Festa das Latas e Imposição de Insígnias, desde 1989 a 1996"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Participação em todas as Serenatas Monumentais, por altura da Queima das Fitas de Coimbra e nas Serenatas da Festa das Latas e Imposição de Insígnias, desde 1989 a 1996"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "atuacao",
       "valor": "Serenata Monumental da Queima das Fitas, Sé Velha, 6 de maio de 1994",
@@ -120,6 +381,120 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "3.º Festival Internacional de Música de Coimbra (1995), Cerizay (1995), Viena (1995, convite do ICEP), VII Festival Internacional de Música da Coruña (1996) e geminação Coimbra–São Paulo (1997)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Representação no 3º Festival Internacional de Música de Coimbra (1995), onde apresentou temas de sua autoria; · Apresentação em Cerizay (1995), cidade geminada com Montermor-o-Velho, na feira do livro português e apresentação num espectáculo para a comunidade portuguesa nessa cidade; · Vienna (1995), convidados pelo ICEP, nas comemorações dos 30 anos de amizade e comércio Portugal-Áustria e 25 anos de relações comerciais entre os dois países; · VIIº Festival Internacional de Música da Coruña (1996)"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Geminação entre as cidades de Coimbra e São Paulo (1997)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental de 1996: balada de despedida do 5.º ano de Engenharia Electrotécnica e do 5.º ano de Engenharia Civil (Luís Alvelos e António J. Moreira), que foi também a despedida do grupo de todas as atividades académicas",
+      "data": "1996",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html",
+          "doc": "arquivo-pt:w15ae2f43498199a6",
+          "citacao": "Em 1996, na Serenata Monumental da Queima das Fitas, o grupo apresenta a balada de despedida do 5º ano de Engenharia Electrotécnica e 5º ano de Engenharia Civil, de Luis Alvelos e António J. Moreira, que representa também a despedida dos \"Capas Negras\" de todas as actividades académicas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "espetáculo de homenagem ao guitarrista António Pinho Brojo em Gouveia, 15 de julho de 2001",
+      "data": "2001-07-15",
+      "local": "Gouveia",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003740/http://capasnegras.com/curriculo.html",
+          "doc": "arquivo-pt:w9f6322624c39b300",
+          "citacao": "Espectáculo de Homenagem ao guitarrista Prof. António Pinho Brojo em Gouveia no dia 15 de Julho de 2001"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "programas de televisão: RTP, SIC, TVI, TVE, NHK (Japão), Televisão Russa, TF1/2, TV Globo, RTBF, RAI, televisões holandesa e inglesa; dois episódios da série «Alves dos Reis» (RTP1)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003740/http://capasnegras.com/curriculo.html",
+          "doc": "arquivo-pt:w9f6322624c39b300",
+          "citacao": "Participações em programas de televisão: RTP, SIC, TVI, TVE, NHK (Japão), Televisão Russa, TF1/2, TV Globo, RTBF, RAI e recentemente na televisão Holandesa e Inglesa e em dois episódios da série portuguesa Alves dos Reis transmitida na RTP1."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participações em dois discos de Fado de Coimbra editados pela Associação Académica de Coimbra, com temas da sua autoria (site «Fado de Coimbra», captura de 2004)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html",
+          "doc": "arquivo-pt:w09700a12e3a3497c",
+          "citacao": "Participações em dois discos de Fado de Coimbra editados pela Associação Académica de Coimbra, integrando temas de sua autoria"
+        }
+      ],
+      "conflito": false,
+      "nota": "Página do grupo no site «Fado de Coimbra» (captura de 10-12-2004); a data mais recente que essa página refere é 1997. O currículo no site do grupo (captura de 12-04-2022) e a nota biográfica de António José Moreira no mesmo site (captura de 22-06-2009) falam em três (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participações em três discos de Fado de Coimbra editados pela Associação Académica de Coimbra, com sete inéditos da sua autoria (currículo no site do grupo)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20220412003740/http://capasnegras.com/curriculo.html",
+          "doc": "arquivo-pt:w9f6322624c39b300",
+          "citacao": "Participações em três discos de Fado de Coimbra editados pela Associação Académica de Coimbra, com sete inéditos de sua autoria"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20090622215104/http://www.capasnegras.com/composicao_grupo_am.htm",
+          "doc": "arquivo-pt:w4ce67db56d54acb1",
+          "citacao": "É a partir desta fase que volta a compor e gravar temas inéditos, participando assim em três CDs com os Capas Negras."
+        }
+      ],
+      "conflito": false,
+      "nota": "Currículo no site do grupo (captura de 12-04-2022). A nota biográfica de António José Moreira no mesmo site (captura de 22-06-2009) fala em «três CDs com os Capas Negras». A página do grupo no site «Fado de Coimbra» (captura de 10-12-2004) fala em dois discos (facto anterior)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "espetáculo só instrumental de guitarradas de Coimbra (cerca de uma hora), com António José Moreira (guitarra de Coimbra) e Nuno Encarnação (viola), que explicam cada peça",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20090622220056/http://www.capasnegras.com/espectaculos_tipo_guitarradas.html",
+          "doc": "arquivo-pt:w8cc42bcf54737645",
+          "citacao": "Esta é uma actuação apenas instrumental com uma duração aproximada de uma hora. Durante a actuação os próprios executantes falam de cada uma das peças executadas, explicando a época e alguns pormenores da sua composição. Esta actuação tem a presença de António José Moreira na guitarra de Coimbra e de Nuno Encarnação na viola."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [],
@@ -137,6 +512,15 @@
       ]
     }
   ],
-  "ligacoes": [],
+  "ligacoes": [
+    {
+      "rotulo": "Site do grupo (capasnegras.com), «História do Grupo» — cópia do Arquivo.pt, 2022",
+      "url": "https://arquivo.pt/wayback/20220412003452/http://capasnegras.com/historia_grupo.html"
+    },
+    {
+      "rotulo": "Página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt, 2004)",
+      "url": "https://arquivo.pt/wayback/20041210101620/http://www.cidadevirtual.pt:80/fadocoimbra/capasneg.html"
+    }
+  ],
   "estado_revisao": "rascunho"
 }

@@ -6,37 +6,107 @@
     "Dr. Afonso de Sousa"
   ],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "violista",
+    "compositor",
+    "poeta"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Afonso de Sousa, filho de José de Souza, proprietário em Maceira, e de Rosália Coelho de Sousa, nasceu na Quinta do Paraíso, Maceira, município de Leiria, no dia de São João, 24 de junho de 1906"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+      "doc": "gc-i:112697421710706208",
+      "citacao": "Frequentou o Liceu Rodrigues Lobo entre 1915 e 1923, onde se iniciou nas serenatas, violão, guitarra, flauta e concertina. Foi aluno da Faculdade de Direito da Universidade de Coimbra entre 1923 e 1930."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Entre 1925-1926 lançou-se na experimentação dos acordes da guitarra de Coimbra como discípulo de Felix Albano de Noronha (1902-1968), no quarto do seu amigo à rua de S. João."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+      "doc": "gc-i:115111053849885559",
+      "citacao": "Como 2º guitarra de Artur Paredes, gravou os discos da His Master's Voice e a 2ª série de gravações de Edmundo de Bettencourt."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Entre 1927-1930, Afonso de Sousa grava repertório próprio como solista de guitarra de Coimbra, participa nas gravações de Artur Almeida d’Eça, nos segundos registos de Edmundo Bettencourt e acompanha duas séries não comercializadas de Noronha."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Afonso de Sousa termina o curso em 1930. Arruma a mala, faz ainda algumas presenças nos palcos e nas serenatas de rua sem muita vontade de partir. Inscreve-se na Ordem dos Advogados, obtém cédula profissional e abre banca de advogado na comarca de Leiria."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+      "doc": "gc-i:112697421710706208",
+      "citacao": "Faleceu em Leiria, no dia 18 de Dezembro de 1993."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
-      "valor": "1906",
-      "data": "1906",
-      "local": "",
+      "valor": "Quinta do Paraíso, Maceira (Leiria), 24 de junho de 1906",
+      "data": "1906-06-24",
+      "local": "Maceira (Leiria)",
       "fontes": [
         {
           "fonte": "gc-i",
           "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
           "doc": "gc-i:115308142543235485",
           "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Advogado, poeta, publicista, guitarrista, nasceu em Maceira, Concelho de Leiria, a 24 de Junho de 1906, filho de José de Sousa e de Rosália Coelho de Sousa. Faleceu em Leiria, no dia 18 de Dezembro de 1993."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa, filho de José de Souza, proprietário em Maceira, e de Rosália Coelho de Sousa, nasceu na Quinta do Paraíso, Maceira, município de Leiria, no dia de São João, 24 de junho de 1906"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/crise-acadmica-de-1969-pgina-de.html",
+          "doc": "gc-i:114531711727881259",
+          "citacao": "Dedico esta crónica à memória do Dr. Afonso de Sousa, nascido em Maceira, arredores de Leiria, no dia 24 de Junho de 1906"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A nota biográfica do GC-I (2005) acompanha o texto do próprio Afonso de Sousa (1978) e é de António Manuel Nunes."
     },
     {
       "campo": "morte",
-      "valor": "1993",
-      "data": "1993",
-      "local": "",
+      "valor": "Leiria, 18 de dezembro de 1993",
+      "data": "1993-12-18",
+      "local": "Leiria",
       "fontes": [
         {
           "fonte": "gc-i",
           "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
           "doc": "gc-i:115308142543235485",
           "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Faleceu em Leiria, no dia 18 de Dezembro de 1993."
         }
       ],
       "conflito": false,
@@ -53,6 +123,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/07/uma-guitarra-de-artur-paredes-para.html",
           "doc": "gc-i:115308142543235485",
           "citacao": "Filho do Dr. Afonso de Sousa (1906-1993), advogado em Leiria"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Inscreve-se na Ordem dos Advogados, obtém cédula profissional e abre banca de advogado na comarca de Leiria."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Exerceu advocacia em Leiria."
         }
       ],
       "conflito": false,
@@ -69,10 +151,321 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
           "doc": "gc-i:113883259360177144",
           "citacao": "Afonso de Sousa, para sempre amado 2º guitarra de Artur Paredes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como 2º guitarra de Artur Paredes, gravou os discos da His Master's Voice e a 2ª série de gravações de Edmundo de Bettencourt."
         }
       ],
       "conflito": false,
-      "nota": "Ficha mínima criada pela investigação sobre a família Grácio."
+      "nota": "Ficha mínima criada pela investigação sobre a família Grácio. A segunda citação é um extrato do livro de José Niza «Um Século de Fado - Fado de Coimbra II», reproduzido no blogue."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu Rodrigues Lobo, Leiria (1915-1923); curso de Direito na Universidade de Coimbra (1923-1930)",
+      "data": "1930",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Frequentou o Liceu Rodrigues Lobo entre 1915 e 1923, onde se iniciou nas serenatas, violão, guitarra, flauta e concertina. Foi aluno da Faculdade de Direito da Universidade de Coimbra entre 1923 e 1930."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "ingressou na Universidade de Coimbra em 1923, para cursar Direito, tendo-se licenciado em 1930."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Afonso de Sousa termina o curso em 1930."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Iniciação na guitarra de Coimbra como discípulo de Felix Albano de Noronha (1925-1926)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Entre 1925-1926 lançou-se na experimentação dos acordes da guitarra de Coimbra como discípulo de Felix Albano de Noronha (1902-1968), no quarto do seu amigo à rua de S. João."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Sócio da TAUC e do Orfeon Académico, com participação nas récitas em Portugal e no estrangeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Foi sócio da TAUC e do Orfeon Académico, tendo participado nas récitas dadas por esses organismos em Portugal e no Estrangeiro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Pertenceu à Tuna Académica e ao Orfeon Académico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações de 1927 a 1930: 2.ª guitarra nas gravações de Artur Paredes (HMV) e na 2.ª série de Edmundo Bettencourt; com Armando Goes e Almeida d'Eça como 2.ª guitarra de Albano de Noronha; repertório próprio como solista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Entre 1927-1930, Afonso de Sousa grava repertório próprio como solista de guitarra de Coimbra, participa nas gravações de Artur Almeida d’Eça, nos segundos registos de Edmundo Bettencourt e acompanha duas séries não comercializadas de Noronha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Gravou também com Armando Goes e Artur Almeida d'Eça, como 2º guitarra de Albano de Noronha."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Como solista, na Columbia (1929): «[Variações sobre o] Fado Liró» (música de Nicolino Milano) e «Variações de Coimbra» (música sua), com violão de Laurénio da Silva Tavares",
+      "data": "1929",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Gravações de Afonso de Sousa/Columbia, 1929: [Variações sobre o] Fado Liró, música de Nicolino Milano, violão por Laurénio da Silva Tavares, editado; Variações de Coimbra [8], música de Afonso de Sousa, violão por Laurénio da Silva Tavares, editado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Embaixada Artística da Academia de Coimbra na Exposição Ibero-Americana de Sevilha (outubro de 1929), como 2.ª guitarra, com António Menano, Artur Paredes e Guilherme Barbosa",
+      "data": "1929-10",
+      "local": "Sevilha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Outubro de 1929: atuação da Feira Ibero-Americana de Sevilha com António Menano, Artur Paredes (gC), Guilherme Barbosa (v), estando presente Afonso XIII."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "representação que era constituída por mais três elementos: Artur Paredes, solista e acompanhador, Afonso de Sousa, 2ª guitarra e Guilherme Barbosa, violão."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Quinzena Cultural de Coimbra em Lisboa (1939), com Artur Paredes, Carlos Paredes, Paradela de Oliveira e Armando Goes",
+      "data": "1939",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Em 1939 participa na Quinzena Cultural de Coimbra em Lisboa, ao lado de Artur Paredes, Carlos Paredes, Paradela de Oliveira e Armando Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuação na Índia Portuguesa (dezembro de 1960), com Pinho de Brojo, Mário Castro, Fernando Rolim e Luiz Goes",
+      "data": "1960-12",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Dezembro 1960: atuação na Índia Portuguesa com Pinho de Brojo, Mário Castro, Fernando Rolim, Luiz Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições: «Asas Brancas» e «Desalento» (música e letra), «Mimosa» (letra); instrumentais para guitarra de Coimbra «Saudades de Coimbra», «Temas Tristes», «Variações de Coimbra» e «Variações em Lá menor»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "1.Composições de que é autor: ASAS BRANCAS (Quando era pequenino a desventura), música e letra DESALENTO (Quando eu morrer, rosas brancas), música e letra MIMOSA (Os teus dedos jardineiros), só a letra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "SAUDADES DE COMBRA, op. instrumental para guitarra de Coimbra TEMAS TRISTES, op. instrumental para guitarra de Coimbra VARIAÇÕES DE COIMBRA, op. instrumental para guitarra de Coimbra VARIAÇÕES EM LÁ MENOR, op. instrumental para guitarra de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como compositor, deixou-nos Variações de Coimbra, Temas Tristes, Variações em Lá menor e Saudades de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Autor (letra e música) de «Rosas Brancas», segundo José Niza",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como poeta e compositor, é autor de Asas Brancas, Rosas Brancas e Desalento."
+        }
+      ],
+      "conflito": true,
+      "nota": "Extrato do livro de José Niza reproduzido no GC-I (2006). O texto de A. M. Nunes (GC-V, 2016) diz que a atribuição é errada (facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "«Rosas Brancas» é-lhe erradamente atribuída: composição de autor não identificado, possivelmente de Felisberto Passos (confusão com «Desalento»)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "2.Composições que lhe são erradamente atribuídas ROSAS BRANCAS (Quando eu morrer, rosas brancas), composição de autor não identificado, possivelmente de Felisberto Passos, gravada pela primeira vez na década de 1950 por João Maria Tudella. Trata-se de confusão com o título DESALENTO, gravado por Almeida d’Eça e Raul Dinis."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Farrapos» (1928), poemas",
+      "data": "1928",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "- Farrapos (1928), poemas."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Do Choupal até à Lapa, recordações de um antigo estudante de Coimbra» (Coimbra Editora, 1973; 2.ª edição, 1988)",
+      "data": "1973",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "– Do Choupal até à Lapa, recordações de um antigo estudante de Coimbra. Coimbra: Coimbra Editora, 1973 [2.ª edição, Coimbra: Coimbra Editora, 1988]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«O Fado propriamente dito e o “chamado Fado de Coimbra”», comunicação ao I Seminário do Fado de Coimbra (20 de maio de 1978), publicada no Boletim da Associação dos Antigos Estudantes de Coimbra, n.º 13 (julho de 1978)",
+      "data": "1978",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "(*)Pelo Dr. Afonso de Sousa, in Boletim da Associação dos Antigos Estudantes de Coimbra, nº 13, Coimbra, Julho de 1978, pp. 19-31. Comunicação apresentada no I Seminário do Fado de Coimbra, em 20 de Maio de 1978."
+        }
+      ],
+      "conflito": false,
+      "nota": "O título é o do post do GC-I que reproduz o texto."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«O Canto e a Guitarra na Década de Oiro da Academia de Coimbra (1920-1930)» (Comissão Municipal de Turismo de Coimbra, 1981; 2.ª edição, Coimbra Editora, 1986)",
+      "data": "1981",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "- O canto e a guitarra na década de oiro da Academia de Coimbra (1920-1930). Coimbra: Edição da Comissão Municipal de Turismo da Câmara Municipal de Coimbra, 1981 [2.ª edição, Coimbra Editora, 1986]."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Em 1986 publicou o livro O Canto e a Guitarra na Década de Oiro da Academia de Coimbra (1920-1930), numa segunda edição."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/faz-hoje-101-anos-que-nasceu-afonso-de.html",
+          "doc": "gc-i:3728643702709224507",
+          "citacao": "Escreveu vários livros, entre os quais: Breve Cancioneiro de Coimbra e outras Trovas (1983), O Canto e a Guitarra na Década de Oiro da Academia de Coimbra (1986 - 2ª edição)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Ronda pelo passado, memórias de um antigo estudante do Liceu Rodrigues Lobo, em Leiria, e da Fac. de Direito da Univ. de Coimbra, 1915 a 1930» (edição do autor, 1989)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "- Ronda pelo passado, memórias de um antigo estudante do Liceu Rodrigues Lobo, em Leiria, e da Fac. de Direito da Univ. de Coimbra, 1915 a 1930. Coimbra: Edição do Autor, 1989."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ofereceu ao Museu Académico a guitarra toeira que usara enquanto estudante (Leiria, 24 de novembro de 1989)",
+      "data": "1989-11-24",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/dr.html",
+          "doc": "gc-i:115289634641745710",
+          "citacao": "fotografado na sua casa de Leiria, no dia 24 de Novembro de 1989, data em que ofertou ao Museu Académico a Guitarra Toeira de Coimbra que usara enquanto estudante."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -101,6 +494,158 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "albano-de-noronha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Entre 1925-1926 lançou-se na experimentação dos acordes da guitarra de Coimbra como discípulo de Felix Albano de Noronha (1902-1968), no quarto do seu amigo à rua de S. João."
+        }
+      ],
+      "nota": "guitarra de Coimbra, 1925-1926"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Artur Paredes convidou Afonso de Sousa para a guitarra de acompanhamento."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como 2º guitarra de Artur Paredes, gravou os discos da His Master's Voice e a 2ª série de gravações de Edmundo de Bettencourt."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/guitarras-de-afonso-de-sousa-aspecto.html",
+          "doc": "gc-i:113883259360177144",
+          "citacao": "Afonso de Sousa, para sempre amado 2º guitarra de Artur Paredes."
+        }
+      ],
+      "nota": "2.ª guitarra (gravações HMV e atuações)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "albano-de-noronha",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "tornando-se segundo guitarra de Noronha no período 1926-1930."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Gravou também com Armando Goes e Artur Almeida d'Eça, como 2º guitarra de Albano de Noronha."
+        }
+      ],
+      "nota": "2.ª guitarra, 1926-1930"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "dos três sonetos gravados por Armando Goes com violão de Afonso de Sousa, apenas um viu a luz do dia"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "Foi acompanhado pelos principais guitarristas ativos na Academia de Coimbra na década de 1920, Artur Paredes, Felix Albano de Noronha e Afonso de Sousa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Acompanhou os mais importantes cantores e instrumentistas conimbricenses da década de 1920, tendo participado em vários registos fonográficos com Artur Paredes, Armando Goes e Artur Almeida d’Eça."
+        }
+      ],
+      "nota": "2.ª guitarra e violão nas gravações HMV de 1927"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "edmundo-de-bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como guitarrista, acompanhou António Menano, Edmundo de Bettencourt, Armando Goes, Lucas Junot, Artur Almeida d'Eça, Paradela de Oliveira, Roseiro Boavida, Artur Paredes e Albano de Noronha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/1-centenrio-do-nascimento-de-armando.html",
+          "doc": "gc-i:112863744233887863",
+          "citacao": "executante de violão de cordas de aço e de 2ª Guitarra de Coimbra que acompanhou registos fonográficos de Edmundo Bettencourt, Armando Goes, Artur Paredes, Artur Almeida d'Eça e de Albano de Noronha."
+        }
+      ],
+      "nota": "2.ª série de gravações de Edmundo Bettencourt"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "almeida-d-eca",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/1-centenrio-do-nascimento-de-armando.html",
+          "doc": "gc-i:112863744233887863",
+          "citacao": "executante de violão de cordas de aço e de 2ª Guitarra de Coimbra que acompanhou registos fonográficos de Edmundo Bettencourt, Armando Goes, Artur Paredes, Artur Almeida d'Eça e de Albano de Noronha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Gravou também com Armando Goes e Artur Almeida d'Eça, como 2º guitarra de Albano de Noronha."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como guitarrista, acompanhou António Menano, Edmundo de Bettencourt, Armando Goes, Lucas Junot, Artur Almeida d'Eça, Paradela de Oliveira, Roseiro Boavida, Artur Paredes e Albano de Noronha."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "representação que era constituída por mais três elementos: Artur Paredes, solista e acompanhador, Afonso de Sousa, 2ª guitarra e Guilherme Barbosa, violão."
+        }
+      ],
+      "nota": "2.ª guitarra em Sevilha (1929)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "lucas-junot",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+          "doc": "gc-i:115111053849885559",
+          "citacao": "Como guitarrista, acompanhou António Menano, Edmundo de Bettencourt, Armando Goes, Lucas Junot, Artur Almeida d'Eça, Paradela de Oliveira, Roseiro Boavida, Artur Paredes e Albano de Noronha."
+        }
+      ],
+      "nota": "Extrato do livro de José Niza reproduzido no GC-I (2006). Paradela de Oliveira e Roseiro Boavida, da mesma lista, ainda não têm ficha."
     }
   ],
   "imagens": [

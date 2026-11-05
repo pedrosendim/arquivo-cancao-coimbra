@@ -46,6 +46,20 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado por Manassés de Lacerda no 78 rpm Beka 7318, por 1904-1905",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+          "doc": "gc-i:113303176582708596",
+          "citacao": "Fado Corrido: fado gravado por Manassés de Lacerda no 78 rotações Beka 7318, por 1904-1905."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "fontes": [
@@ -54,6 +68,12 @@
       "url": "https://arquivosonoro.museudofado.pt/fado/919/manasses_de_lacerda_fado_corrido",
       "doc": "museu-do-fado:wd30e6953ae9f7634",
       "citacao": "Título: Fado Corrido ... Editora: Beka 7318 Referências: Disco “Beka” Grande, 7318, 7 ∆; 7318"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+      "doc": "gc-i:113303176582708596",
+      "citacao": "Fado Corrido: fado gravado por Manassés de Lacerda no 78 rotações Beka 7318, por 1904-1905."
     }
   ],
   "estado_revisao": "rascunho"

@@ -4,7 +4,7 @@
   "formato": "78rpm",
   "editora": "Beka",
   "referencia": "7316",
-  "ano": "",
+  "ano": "1905",
   "local": "",
   "interpretes": [
     {
@@ -23,13 +23,20 @@
     }
   ],
   "capa": {
-    "url": "",
-    "fontes": []
+    "url": "https://i.discogs.com/RYKCIDwhL0jm1mrQcGIVaTScUGuEATKcmhzyVC4oyLQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/Nzc2LTE3NjE5MzAw/MzktMTY0Ni5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35531776",
+        "doc": "discogs:w7e4d4eb6754ab23f",
+        "citacao": "Imagem (secondary): https://i.discogs.com/RYKCIDwhL0jm1mrQcGIVaTScUGuEATKcmhzyVC4oyLQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/Nzc2LTE3NjE5MzAw/MzktMTY0Ni5qcGVn.jpeg"
+      }
+    ]
   },
   "ligacoes": {
     "spotify": "",
     "youtube": "",
-    "discogs": "",
+    "discogs": "https://www.discogs.com/release/35531776",
     "musicbrainz": ""
   },
   "factos": [
@@ -46,6 +53,27 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discogs: disco «Beka» Grande 7316, 78 rpm, 10 polegadas, Portugal, 1905, com «Fado Serenata» na face A e «Canção da Encosta» na face B",
+      "data": "1905",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531776",
+          "doc": "discogs:w7e4d4eb6754ab23f",
+          "citacao": "Editora: Disco \"Beka\" Grande – 7316 Formato: 1 × Shellac, 10\", 78 RPM País: Portugal Data: 1905"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531776",
+          "doc": "discogs:w7e4d4eb6754ab23f",
+          "citacao": "Faixas: A Fado Serenata B Canção da Encosta"
+        }
+      ],
+      "conflito": false,
+      "nota": "No Arquivo Sonoro do Museu do Fado, o «Fado Serenata» de Manassés tem o número Beka 7320: a divergência fica marcada na ficha manasses-de-lacerda-beka-7320."
     }
   ],
   "fontes": [
@@ -54,6 +82,12 @@
       "url": "https://arquivosonoro.museudofado.pt/fado/920/manasses_de_lacerda_cancao_da_encosta",
       "doc": "museu-do-fado:w135ebb39e327bb3b",
       "citacao": "Título: Canção da encosta ... Editora: Beka 7316 Referências: Disco “Beka” Grande, 7316, ∆7; 7316"
+    },
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/35531776",
+      "doc": "discogs:w7e4d4eb6754ab23f",
+      "citacao": "Editora: Disco \"Beka\" Grande – 7316"
     }
   ],
   "estado_revisao": "rascunho"

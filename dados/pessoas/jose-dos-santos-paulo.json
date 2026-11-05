@@ -12,8 +12,298 @@
     "cantor",
     "professor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "José Augusto Sobral dos Santos Paulo, nasceu em 25/04/60, natural de Nova Freixo, Moçambique."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+      "doc": "gc-v:8768555739880085347",
+      "citacao": "Em criança José Paulo residiu em África com a família. Fez formação musical em Coimbra e no Porto, tendo desde jovem estreitado convívio com importantes vultos da cultura musical coimbrã."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Frequentou e concluiu o Curso Livre de Guitarra Clássica no Conservatório Regional de Coimbra, de 1977 a 1981."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Como solista de guitarra portuguesa, iniciou os seus estudos com o Dr. Jorge Gomes, no ACM (Coimbra). Em 1982 integrou a Tertúlia do Fado de Coimbra, sendo, desde essa data até à presente, instrumentista solista, acompanhador e ainda responsável por grande parte dos arranjos musicais deste grupo."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Deve destacar-se o espectáculo no Teatro de Gil Vicente (1987) “A guitarra portuguesa – de Carlos de Seixas a Carlos Paredes”. Contactou com o virtuoso Carlos Paredes que lhe sugeriu algumas directrizes para a realização de um Manual de Guitarra Portuguesa."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+      "doc": "gc-v:8768555739880085347",
+      "citacao": "Em 2001-2002 José Paulo trabalhou horas incontáveis no estudo e transcrição do repertório de Flávio Rodrigues da Silva sem receber honorários. Ensinante de guitarra no Conservatório de Coimbra durante mais de duas décadas, teve ainda tempo para recitais, digressões e colaboração com o Coro dos Antigos Orfeonistas da UC, os Antigos Tunos da TAUC e a Orquestra Clássica do Centro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+      "doc": "gc-v:8768555739880085347",
+      "citacao": "Chega-nos a confirmação do falecimento do professor José Paulo [José Augusto Sobral dos Santos Paulo], em Coimbra, cidade onde residia e trabalhava como músico."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "José Augusto Sobral dos Santos Paulo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "José Augusto Sobral dos Santos Paulo, nascido em 25/04/60, natural de Nova Freixo, Moçambique"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Chega-nos a confirmação do falecimento do professor José Paulo [José Augusto Sobral dos Santos Paulo]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Nova Freixo (Moçambique), 25 de abril de 1960",
+      "data": "1960-04-25",
+      "local": "Nova Freixo, Moçambique",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "José Augusto Sobral dos Santos Paulo, nascido em 25/04/60, natural de Nova Freixo, Moçambique"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "José Augusto Sobral dos Santos Paulo, nasceu em 25/04/60, natural de Nova Freixo, Moçambique."
+        }
+      ],
+      "conflito": false,
+      "nota": "Currículo publicado no GC I (2005) e nota biográfica do programa dos III Encontros Internacionais de Guitarra Portuguesa (GC III, 2009). As fontes escrevem «25/04/60»."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, cidade onde residia e trabalhava como músico",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Chega-nos a confirmação do falecimento do professor José Paulo [José Augusto Sobral dos Santos Paulo], em Coimbra, cidade onde residia e trabalhava como músico."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 30-06-2025 confirma o falecimento, sem dar a data."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso Livre de Guitarra Clássica no Conservatório Regional de Coimbra (1977-1981); Educação Musical, Composição e Curso Geral de Canto (1985/86) no Conservatório de Música de Vila Nova de Gaia; Curso Livre de Canto Concerto na Universidade de Aveiro (1993)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Frequentou e concluiu o Curso Livre de Guitarra Clássica no Conservatório Regional de Coimbra, de 1977 a 1981."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "Educação Musical e Composição pelo Conservatório de Música de Vila Nova de Gaia, tendo nesta mesma Escola completado o Curso Geral de Canto, no ano de 1985/86"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Frequentou e concluiu o Curso Livre de Canto Concerto, na Universidade de Aveiro, tendo como orientadores a soprano Isabel Maia e o barítono Oliveira Lopes (1993)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Canto Concerto na Escola de Música de S. Teotónio (1988-1995); guitarra clássica e guitarra portuguesa na Academia de Música e Tecnologia de Coimbra (desde a década de 1980); Conservatório de Música de Coimbra (a partir de 2001), onde ensinou guitarra durante mais de duas décadas",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "De 1988 1995 leccionou a disciplina de Canto Concerto na Escola de Música de S. Teotónio, em Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 2001 foi convidado a integrar o corpo docente do Conservatório de Música de Coimbra. Desde a década de oitenta que é docente de Guitarra Clássica e Guitarra Portuguesa na Academia de Música e Tecnologia de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Ensinante de guitarra no Conservatório de Coimbra durante mais de duas décadas"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Preparador vocal dos Antigos Orfeonistas do Orfeon Académico de Coimbra (1987) e regente da Tuna Académica da Universidade de Coimbra (1990/91)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "Preparador vocal dos Antigos Orfeonistas do Orfeon Académico de Coimbra (1987)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "Regente da Tuna Académica da Universidade de Coimbra (1990/91)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Currículo publicado no GC I (2005)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Espetáculo «A guitarra portuguesa – de Carlos de Seixas a Carlos Paredes», Teatro de Gil Vicente (1987)",
+      "data": "1987",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Deve destacar-se o espectáculo no Teatro de Gil Vicente (1987) “A guitarra portuguesa – de Carlos de Seixas a Carlos Paredes”."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Solista na guitarra e no canto (tenor) no concerto da Orquestra Clássica do Centro, dirigida por Virgílio Caseiro, nos III Encontros Internacionais de Guitarra Portuguesa (Coimbra, 10 de outubro de 2009)",
+      "data": "2009-10-10",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Coimbra, 10, 11,16,17 a 18 de Outubro de 2009 ... Sábado, 10 de Outubro ... 21H30m – Concerto ... Orquestra Clássica do Centro ... Solista na Guitarra e no Canto: José Paulo ... Maestro: Virgílio Caseiro"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "* Tenor: José Paulo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programa dos III Encontros, que inclui a nota biográfica de José Augusto Sobral dos Santos Paulo."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Coautor de «Flávio Rodrigues – Fragmentos para uma Guitarra» (Minerva Coimbra, 2002; estudo, transcrição e arranjos) e autor do «Método de Guitarra Portuguesa» (2006, edição comemorativa dos 115 anos da TAUC)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Co-autor do livro Flávio Rodrigues – Fragmentos para uma Guitarra (2002), na comemoração do Centenário do nascimento do guitarrista (1902-2002); autor do livro Método de Guitarra Portuguesa (2006)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Flávio Rodrigues (2002, Minerva Coimbra, responsável pelo estudo, transcrição e arranjos)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "Método de guitarra portuguesa (2006, edição comemorativa dos 115 anos da fundação da TAUC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Instrumentista-solista e cantor em CD, segundo a nota biográfica de 2009: «Missa Solene» (F. Hermano da Câmara, 1994), «Amanhecer em Coimbra» (1994), «Relíquias do Fado de Coimbra» (1995), «Tempos Idos» (1995), «Velha Guarda Coimbrã» (2000), «Quinze Anos Depois» (2000) e «Natal» (2004), dos Antigos Tunos, e «O Meu Lugar» (Quatro Elementos, 2006)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Participação como instrumentista-solista e cantor nos seguintes CDs: Missa Solene (F. Hermano da Câmara), 1994; Amanhecer em Coimbra, 1994; Relíquias do Fado de Coimbra, 1995; Tempos Idos, (1995); Velha Guarda Coimbrã ( 2000); Quinze Anos Depois (Antigos Tunos da Universidade de Coimbra), 2000; Natal (Antigos Tunos da Universidade de Coimbra), 2004, e O Meu Lugar (Quatro Elementos), 2006."
+        }
+      ],
+      "conflito": true,
+      "nota": "Programa dos III Encontros (GC III, 2009). Os anos de «Amanhecer em Coimbra», «Relíquias» e «Velha Guarda Coimbrã» diferem da lista de 2025: ver o facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Projetos fonográficos segundo o post de 2025: «Amanhecer em Coimbra» (Tertúlia do Fado de Coimbra, Edisco, 1993) e «Relíquias» (Tertúlia do Fado de Coimbra, Edisco, 1994), como autor de arranjos, voz, viola e guitarra; «Velha Guarda Coimbrã» (Discotoni, 2002), como cantor e guitarrista",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "CD Amanhecer em Coimbra, Tertúlia do Fado de Coimbra (1993, Edisco, como autor de arranjos, voz, viola e guitarra)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "CD Relíquias, Tertúlia do Fado de Coimbra (1994, Edisco, como autor de arranjos, voz, viola e guitarra)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "CD Velha Guarda Coimbrã (2002, Discotoni, como cantor e guitarrista)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de A. M. Nunes (GC V, 30-06-2025)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Genro do professor de Matemática e tocador de viola Manuel José Dourado",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
+          "doc": "gc-v:8768555739880085347",
+          "citacao": "José Paulo era genro do professor de Matemática e tocador de viola Manuel José Dourado."
+        }
+      ],
+      "conflito": false,
+      "nota": "O esquema não tem relação para «genro»; fica como facto."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -36,9 +326,34 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2025/06/falecimento-do-professor-jose-paulo.html",
           "doc": "gc-v:8768555739880085347",
           "citacao": "Na qualidade de cantor, autor de arranjos e executante de viola e de guitarra integrou a Tertúlia do Fado de Coimbra, com a qual efetuou registos fonográficos, concertos e digressões."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 1982 integrou a Tertúlia do Fado de Coimbra, sendo, desde essa data até à presente, instrumentista solista, acompanhador e ainda responsável por grande parte dos arranjos musicais deste grupo."
         }
       ],
-      "nota": "guitarra, viola e voz; anos 90"
+      "nota": "guitarra, viola e voz; anos 90. Segundo a nota biográfica de 2009 (GC III), integrou a Tertúlia em 1982."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Como solista de guitarra portuguesa, iniciou os seus estudos com o Dr. Jorge Gomes, no ACM (Coimbra)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/curriculum-vit-tempos-idos-1995.html",
+          "doc": "gc-i:111922498769370213",
+          "citacao": "Como solista de guitarra portuguesa, iniciou os seus estudos com o Dr. Jorge Gomes, no ACM (Coimbra)."
+        }
+      ],
+      "nota": "Guitarra portuguesa, no ACM (Coimbra)."
     }
   ],
   "imagens": [],

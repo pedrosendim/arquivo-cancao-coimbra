@@ -2,12 +2,219 @@
   "id": "manuel-pepe",
   "tipo": "pessoa",
   "nome": "Manuel Pepe",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Manuel Gomes Pepe",
+    "Manuel Joaquim Gomes do Ó Pepe",
+    "Manuel Joaquim do Ó Gomes Pepe"
+  ],
   "papeis": [
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "A 12 de Julho nasce em Beja Manuel Joaquim Gomes do Ó Pepe."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Em Agosto o Orfeon deslocou-se em digressão a Angola e Moçambique durante três meses. Seguiram nesta digressão ... Manuel Joaquim do Ó Gomes Pepe"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Manuel Gomes Pepe, de Medicina, natural de Beja, inscreve-se no naipe de violas da TAUC."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-orfeon-academico-no-brasil-1954.html",
+      "doc": "gc-v:361024260822014332",
+      "citacao": "A formação de Canção de Coimbra que acompanhou o Orfeon em 1954 era constituída por António Pinho Brojo/José Maria Amaral/Humberto Amado Gomes (gg), Manuel Pepe/António Toscano (vv) e Luiz Goes/Fernando Rolim/Fernando Machado Soares/Higino Casquilho Faria."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
+      "doc": "gc-v:1760813732173371136",
+      "citacao": "José Afonso teve a ideia de convidar António Portugal para solista. Este aceitou e trouxe o viola Manuel Pepe. Foi assim que nasceu, em 1954, o futuro «Coimbra Quintet»"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+      "doc": "gc-v:7933611502286890512",
+      "citacao": "Luiz Fernando de Sousa Pires de Goes (1933-2012), barítono solista, acompanhado por ... Manuel Gomes Pepe (1930-2008?, violão de cordas de aço)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "nos primeiros anos da década de 60 as influências de Fernando Machado Soares se fizeram sentir quando, aos fins-de-semana, chegado de localidades onde exercia a sua carreira de magistrado, pernoitava na república Baco, e cantava acompanhado por José Niza (g.C) e Manuel Pepe, entre outros."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Manuel Joaquim Gomes do Ó Pepe",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 12 de Julho nasce em Beja Manuel Joaquim Gomes do Ó Pepe."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia de António José Soares e António Manuel Nunes, secção «1930». Na secção «1949» do mesmo texto o nome aparece pela ordem «Manuel Joaquim do Ó Gomes Pepe»; noutros posts, «Manuel Gomes Pepe»."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Manuel Joaquim do Ó Gomes Pepe",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Seguiram nesta digressão Higino Casquilho Faria, Manuel Duarte Branquinho, António Roxo Leão, Anarolino Pacheco Fernandes, Eduardo Tavares de Melo, Manuel Joaquim do Ó Gomes Pepe"
+        }
+      ],
+      "conflito": true,
+      "nota": "Mesma cronologia, secção «1949» (digressão do Orfeon a Angola e Moçambique). Na secção «1930» o nome aparece como «Manuel Joaquim Gomes do Ó Pepe»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Beja, 12 de julho de 1930",
+      "data": "1930-07-12",
+      "local": "Beja",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 12 de Julho nasce em Beja Manuel Joaquim Gomes do Ó Pepe."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Gomes Pepe, de Medicina, natural de Beja, inscreve-se no naipe de violas da TAUC."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Manuel Gomes Pepe (1930-2008?, violão de cordas de aço)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia de António José Soares e António Manuel Nunes põe o nascimento na secção «1930»; o post de 2015 dá só o ano."
+    },
+    {
+      "campo": "morte",
+      "valor": "2008?",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Manuel Gomes Pepe (1930-2008?, violão de cordas de aço)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte põe um ponto de interrogação a seguir ao ano: a data não está confirmada."
+    },
+    {
+      "campo": "outro",
+      "valor": "Consta da lista «In Memoriam» (2013) de figuras do Canto e da Música de Coimbra que já morreram",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/in-memoriam.html",
+          "doc": "gc-v:2719936740123050105",
+          "citacao": "resenhas biográficas, relativas a figuras do Canto e da Música de Coimbra, que fisicamente, já nos deixaram ... MANUEL Gomes PEPE (7)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Lista de Manuel Marques Inácio (3-4-2013). O número entre parênteses é o mês em que a pessoa aparece nas resenhas (nascimento ou morte), segundo o post."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudante de Medicina",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Gomes Pepe, de Medicina, natural de Beja, inscreve-se no naipe de violas da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inscreve-se no naipe de violas da TAUC (1949)",
+      "data": "1949",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Manuel Gomes Pepe, de Medicina, natural de Beja, inscreve-se no naipe de violas da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada da secção «1949» da cronologia de António José Soares e António Manuel Nunes."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon a Angola e Moçambique, durante três meses, a partir de agosto de 1949",
+      "data": "1949-08",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Agosto o Orfeon deslocou-se em digressão a Angola e Moçambique durante três meses. Seguiram nesta digressão ... Manuel Joaquim do Ó Gomes Pepe"
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada da secção «1949» da cronologia."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viola na formação de Canção de Coimbra que acompanhou o Orfeon Académico ao Brasil (1954)",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/o-orfeon-academico-no-brasil-1954.html",
+          "doc": "gc-v:361024260822014332",
+          "citacao": "A formação de Canção de Coimbra que acompanhou o Orfeon em 1954 era constituída por António Pinho Brojo/José Maria Amaral/Humberto Amado Gomes (gg), Manuel Pepe/António Toscano (vv)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Violão de cordas de aço no LP «Serenata de Coimbra» do Coimbra Quintet, com Luiz Goes (Philips P10141R; gravado em Madrid em março de 1957, edição internacional em 1958)",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "I-LP SERENATA DE COIMBRA. COIMBRA QUINTET. Madrid: Philips P10141R, março de 1957 [gravação], 1958 [edição internacional] ... Manuel Gomes Pepe (1930-2008?, violão de cordas de aço)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -24,9 +231,34 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
           "doc": "gc-v:1760813732173371136",
           "citacao": "Este aceitou e trouxe o viola Manuel Pepe."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "integra o Quinteto de Coimbra, mais uma vez liderado por António Portugal e contando desta vez com Jorge Godinho, Manuel Pepe e Levy Baptista."
         }
       ],
       "nota": "viola"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/o-blogue-guitarra-de-coimbra-distingue.html",
+          "doc": "gc-v:7933611502286890512",
+          "citacao": "Luiz Fernando de Sousa Pires de Goes (1933-2012), barítono solista, acompanhado por ... Manuel Gomes Pepe (1930-2008?, violão de cordas de aço)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+          "doc": "gc-v:1823855718489259425",
+          "citacao": "do Coimbra Quintet, a que Luiz Goes deu voz, acompanhado por António Portugal (g.C), Jorge Godinho (g.C), Manuel Pepe (v.) e Levi Baptista (v.)"
+        }
+      ],
+      "nota": "LP «Serenata de Coimbra» do Coimbra Quintet (Philips, gravado em Madrid em 1957)."
     },
     {
       "tipo": "acompanhou",

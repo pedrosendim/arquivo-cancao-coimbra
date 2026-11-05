@@ -101,8 +101,29 @@
           "citacao": "Alexandre de Rezende, faleceu em Lisboa a 2 de Fevereiro de 1953."
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "O verbete do «Fado da Mentira», nos posts do GC-I de 2007, dá 1956 (facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "1956 (datas no verbete do «Fado da Mentira»)",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "FADO DA MENTIRA Música: Alexandre Augusto de Rezende Mendes (1886-1956)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/alexandre-de-rezende-compositor-cantor_15.html",
+          "doc": "gc-i:8566259942871870690",
+          "citacao": "4 – FADO DA MENTIRA Música: Alexandre Augusto de Rezende Mendes (1886-1956)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Só neste verbete, repetido nos dois inventários de 2007 (António Menano e Alexandre de Rezende); os restantes verbetes e o texto biográfico do mesmo post dizem 1953. O endereço do post do GC-V de 2013 também tem «1886-1956», mas o texto desse post diz 1953."
     },
     {
       "campo": "outro",
@@ -214,6 +235,32 @@
       ],
       "conflito": true,
       "nota": "A autoria do «Fado da Mentira» é atribuída a Anthero da Veiga noutros posts (2008, 2017)."
+    },
+    {
+      "campo": "outro",
+      "valor": "A música do «Fado da Mentira» não é sua: é de Anthero da Veiga («Fado dos Milagres»), sendo a autoria atribuída erradamente a António Menano ou a Alexandre de Rezende",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/alexandre-sezende.html",
+          "doc": "gc-ii:4351170569922863217",
+          "citacao": "Como se pode ler, atribui-se aqui a Alexandre de Rezende a autoria do Fado da Mentira. Mas como se pôde constatar, esta música é de Antero da Veiga."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/nos-150-anos-do-nascimento-do.html",
+          "doc": "gc-v:6055286900302611552",
+          "citacao": "o título contrafeito para FADO DA MENTIRA, gravado por António Menano e pelo barítono José Dias [atribuindo-se erradamente ao longo do século XX a autoria quer a António Menano, quer a Alexandre de Rezende]."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/verifique-os-seus-conhecimentos-e.html",
+          "doc": "gc-v:1893872329757885318",
+          "citacao": "FADO DA MENTIRA (Ninguém conhece no rosto), composição de finais do século XIX, referenciada na tradição oral como sendo da autoria de António Menano ou da autoria de Alexandre de Rezende (os dois casos são frequentemente admitidos). Música de Anthero da Veiga"
+        }
+      ],
+      "conflito": true,
+      "nota": "Versão divergente da do facto anterior. A primeira citação comenta a biografia de José Niza («Fado de Coimbra II»), que atribui o fado a Rezende."
     },
     {
       "campo": "outro",

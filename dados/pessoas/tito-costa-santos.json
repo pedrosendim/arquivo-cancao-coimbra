@@ -3,13 +3,218 @@
   "tipo": "pessoa",
   "nome": "Tito Costa Santos",
   "nomes_alternativos": [
-    "Costa Santos (Tito)"
+    "Costa Santos (Tito)",
+    "Augusto Azevedo Costa Santos",
+    "Augusto Costa Santos"
   ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "-Nasce em Portalegre Augusto Azevedo Costa Santos (dito Tito)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+      "doc": "gc-v:8381466688935925514",
+      "citacao": "Na fase de juventude deu colaboração à formação Coimbra Quintet."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+      "doc": "gc-v:8381466688935925514",
+      "citacao": "Radicado profissionalmente em Lisboa, prestou próxima colaboração à Associação dos Antigos Estudantes de Coimbra e manteve atividade no grupo Serenata de Coimbra, com o qual efetuou gravações."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+      "doc": "gc-v:8381466688935925514",
+      "citacao": "Através do Pedro Rolim, confirmação do falecimento do Dr. Augusto Costa Santos (28.9.1937 - 11.5.2025), advogado, intérprete de repertório da CC desde a década de 1950 (tenor), antigo membro de organismos académicos extracurriculares da UC como Orchestra Pitagorica, Coro Misto, Orfeon, TEUC e CITAC."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Augusto Azevedo Costa Santos (dito Tito)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "-Nasce em Portalegre Augusto Azevedo Costa Santos (dito Tito)."
+        }
+      ],
+      "conflito": false,
+      "nota": "No post do óbito (GC-V, 2025): «Dr. Augusto Costa Santos»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Portalegre, 28 de setembro de 1937",
+      "data": "1937-09-28",
+      "local": "Portalegre",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "confirmação do falecimento do Dr. Augusto Costa Santos (28.9.1937 - 11.5.2025)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1937 ... -Nasce em Portalegre Augusto Azevedo Costa Santos (dito Tito)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O dia vem do post do óbito (GC-V, 2025); o local, da cronologia do GC-I (2006), onde o ano é o cabeçalho da secção."
+    },
+    {
+      "campo": "morte",
+      "valor": "11 de maio de 2025",
+      "data": "2025-05-11",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "confirmação do falecimento do Dr. Augusto Costa Santos (28.9.1937 - 11.5.2025)"
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não diz o local."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudante da Faculdade de Direito da Universidade de Coimbra (FD/UC)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "Outros cantores colaboraram com a referida formação, nomeadamente José Henrique Dias (FL/UC) e Tito Costa Santos (FD/UC)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Advogado, radicado profissionalmente em Lisboa; foi subdelegado no 3.º Juízo Criminal de Lisboa, na Boa Hora",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "Radicado profissionalmente em Lisboa, prestou próxima colaboração à Associação dos Antigos Estudantes de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "Dr. Augusto Costa Santos (28.9.1937 - 11.5.2025), advogado"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/machado-soares-tito-costa-santos.html",
+          "doc": "gc-v:3882165101565873126",
+          "citacao": "A minha e nossa homenagem ao Fernando Machado Soares, companheiro do Orfeon Académico de Coimbra e de quem, mais tarde, fui Subdelegado no 3ª Juízo Criminal de Lisboa, na Boa Hora."
+        }
+      ],
+      "conflito": false,
+      "nota": "A terceira citação é um texto do próprio Tito Costa Santos, publicado no GC-V (2014)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Intérprete (tenor) de repertório da Canção de Coimbra desde a década de 1950; antigo membro da Orchestra Pitagorica, do Coro Misto, do Orfeon, do TEUC e do CITAC",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "intérprete de repertório da CC desde a década de 1950 (tenor), antigo membro de organismos académicos extracurriculares da UC como Orchestra Pitagorica, Coro Misto, Orfeon, TEUC e CITAC."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Na juventude, cantor colaborador do Coimbra Quintet",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "Na fase de juventude deu colaboração à formação Coimbra Quintet."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/coimbra-quintet.html",
+          "doc": "gc-v:1936684536077535615",
+          "citacao": "Outros cantores colaboraram com a referida formação, nomeadamente José Henrique Dias (FL/UC) e Tito Costa Santos (FD/UC)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Voz no LP «De Coimbra por Bem», do Grupo Serenata de Coimbra (Discossete LP-800, 1991)",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "pelo Grupo Serenata de Coimbra, Discossete-800, Lisboa, 1991. Texto de apresentação assinado por Murta Rebelo. Cantam: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Tito Costa Santos e Barros Ferreira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira. O disco apresenta a data de 1991, da Discossete, LP - 800."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Voz no «Grupo Serenata de Coimbra... para o Mundo» (Videofono VCD 50008, 1997)",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "a de Coimbra... para o Mundo, Videofono, VCD 50008, Lisboa, 1997. Texto de apresentação escrito por Arménio Cardo. Vozes de Barros Ferreira, Tito Costa Santos, José Henrique Dias, Alcindo Costa e Augusto Camacho Vieira"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canta «Sugestão» no programa «Fados de Portugal – Parte II» (RTP Internacional, 2001), acompanhado por João Moura e Alexandre Bateiras (guitarras) e Levi Batista e João Gomes (violas)",
+      "data": "2001-03-13",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-ii-14/",
+          "doc": "rtp-arquivos:w3a6d8a156c502041",
+          "citacao": "Tito Costa Santos canta o fado de Coimbra \"Sugestão\" de Felisberto Ferreirinha, acompanhado pelos músicos João Moura e Alexandre Bateiras nas guitarras portuguesas de Coimbra, Levi Batista e João Gomes nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data é a da ficha da RTP («Data: 2001-03-13»); o programa era em direto, segundo a mesma ficha."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -26,9 +231,28 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
           "doc": "gc-i:111858747887612759",
           "citacao": "\"Grupo Serenata de Coimbra ... para o mundo\". Cantores: Tito Costa Santos, José Henrique Dias, Barros Ferreira, Alcindo Costa e Augusto Camacho; Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola; Francisco Vasconcelos e Alexandre Bateiras na guitarra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "manteve atividade no grupo Serenata de Coimbra, com o qual efetuou gravações."
         }
       ],
       "nota": "voz (1991, 1997)"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "orxestra-pitagorica",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/05/obito-de-tito-costa-santos.html",
+          "doc": "gc-v:8381466688935925514",
+          "citacao": "antigo membro de organismos académicos extracurriculares da UC como Orchestra Pitagorica, Coro Misto, Orfeon, TEUC e CITAC."
+        }
+      ],
+      "nota": "antigo membro; a fonte não dá datas"
     }
   ],
   "imagens": [

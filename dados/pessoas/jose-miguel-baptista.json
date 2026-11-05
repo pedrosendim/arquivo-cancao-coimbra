@@ -6,36 +6,252 @@
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+      "doc": "gc-i:111654787382911590",
+      "citacao": "foi membro efectivo, enquanto estudante da Universidade de Coimbra, do Orfeon Académico, seu ensaiador de naipe, solista, cantor de grupo de Fados (com Raposo Marques e Joel Canhão - maestros)"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/perfil-gostar-da-vida.html",
+      "doc": "gc-ii:7036183997263202222",
+      "citacao": "Então e os fados?, queremos saber. “Os fados vieram depois dos solos”, responde. Solos no Orfeon, está bem de ver. Fados depois de o guitarrista Eduardo Melo o ter ouvido e o ter desafiado para um outro lado da música que já deu origem a várias gravações, a solo e integrado no grupo Tertúlia do Fado de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "Em dezembro de 1963/janeiro de 1964, no regresso do Orfeon Académico da ilha da Madeira, Eduardo convence José Miguel Baptista a entrar para o grupo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "Os anos de 1964-1965 são de extraordinária criatividade, marcados pelo aproveitamento da poética do estudante de Medicina Libério Bernardo Ribeiro, pelos dois registos fonográficos de José Miguel Baptista e por digressões à Holanda, Angola e USA."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:5026200979714060005",
+      "citacao": "O grupo desagrega-se por 1968, com a conclusão dos cursos por Ernesto de Melo (Direito) e José Miguel Baptista (Medicina)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+      "doc": "gc-i:111654787382911590",
+      "citacao": "integra, desde 1974, a \"Tertúlia do Fado de Coimbra\" - sendo instrumentistas Álvaro e Eduardo Aroso, J. Carlos Teixeira, Mário J. Castro e José Paulo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+      "doc": "gc-i:111654787382911590",
+      "citacao": "co-fundador da Associação dos Antigos Orfeonistas (sigla AAOO) tem aí mantido funções similares às prè-citadas, coralista-ensaiador-solista-grupo de Fados"
+    }
+  ],
   "factos": [
     {
+      "campo": "nome_completo",
+      "valor": "José Miguel Leitão Mira Baptista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/perfil-gostar-da-vida.html",
+          "doc": "gc-ii:7036183997263202222",
+          "citacao": "Nome: José Miguel Leitão Mira Baptista"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "6-José Miguel Leitão Mira Baptista (n. 1943), estudante da FM/UC, barítono solista"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 6 de Junho nasce em Coimbra José Miguel Leitão Mira Baptista."
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira citação é do jornal Campeão das Províncias de 10-1-2008 (texto de Paula Alexandra Almeida), reproduzido no GC II."
+    },
+    {
       "campo": "nascimento",
-      "valor": "1942",
-      "data": "1942",
+      "valor": "Coimbra, 6 de junho de 1942",
+      "data": "1942-06-06",
+      "local": "Coimbra",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "merece destaque José Miguel Baptista (n. 1942)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1942 ... A 6 de Junho nasce em Coimbra José Miguel Leitão Mira Baptista."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), que dá só o ano. A cronologia do GC I (António José Soares e António Manuel Nunes) tem a entrada na secção «1942». Um post do GC V dá 1943 (ver o facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1943",
+      "data": "1943",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "6-José Miguel Leitão Mira Baptista (n. 1943), estudante da FM/UC, barítono solista"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de António Manuel Nunes (2015) sobre o LP «Fados from Coimbra». Jorge Cravo e a cronologia do GC I dão 1942."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/perfil-gostar-da-vida.html",
+          "doc": "gc-ii:7036183997263202222",
+          "citacao": "Naturalidade: Coimbra"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Campeão das Províncias, 10-1-2008, reproduzido no GC II."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Medicina na Universidade de Coimbra, concluído por 1968",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "estudante da FM/UC, barítono solista"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "O grupo desagrega-se por 1968, com a conclusão dos cursos por Ernesto de Melo (Direito) e José Miguel Baptista (Medicina)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico obstetra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "José Miguel Baptista: médico/obstetra"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/perfil-gostar-da-vida.html",
+          "doc": "gc-ii:7036183997263202222",
+          "citacao": "Profissão: Médico obstetra reformado/aposentado"
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira citação é da nota biográfica do texto assinado «Por José Miguel Batista *» (GC I, 2005), escrita na terceira pessoa: é texto do próprio. A segunda é do Campeão das Províncias de 10-1-2008, reproduzido no GC II."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Barítono solista do Orfeon Académico de Coimbra enquanto estudante; cantor do grupo de fados do Orfeon",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "Cabe ao jovem barítono e solista do Orfeon Académico José Miguel Baptista corporizar este trabalho de notável originalidade, criatividade e sobriedade vocal"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "foi membro efectivo, enquanto estudante da Universidade de Coimbra, do Orfeon Académico, seu ensaiador de naipe, solista, cantor de grupo de Fados"
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é da nota biográfica do texto assinado «Por José Miguel Batista *» (GC I, 2005), escrita na terceira pessoa: é texto do próprio."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cofundador da Associação dos Antigos Orfeonistas; canta no Grupo de Fados dos Antigos Orfeonistas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "co-fundador da Associação dos Antigos Orfeonistas (sigla AAOO)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "No Grupo de Fados actual dos Antigos Orfeonistas tem por privilégio a companhia instrumental de Octávio Sérgio, e bem assim de Manuel Mora, Carlos Caiado e Custódio Moreirinhas."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/perfil-gostar-da-vida.html",
+          "doc": "gc-ii:7036183997263202222",
+          "citacao": "posteriormente do Coro dos Antigos Orfeonistas, que ainda hoje integra. “Sou fundador e hei-de morrer lá, se Deus quiser”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do GC I (2005) escrito na terceira pessoa, num post sobre o método de guitarra de Paulo Soares. O texto é assinado «Por José Miguel Batista *» e a nota biográfica no fim, de onde vêm as duas primeiras citações, declara-se «indissoluvelmente ligada ao texto supra»: é texto do próprio. A terceira citação é do Campeão das Províncias de 10-1-2008, reproduzido no GC II."
     },
     {
       "campo": "gravacao",
-      "valor": "EP «Balada dos Sinos» e LP «Portugal. Fados from Coimbra», com as guitarras dos irmãos Melo",
+      "valor": "EP «Balada dos Sinos» (Ofir, 1964) e LP «Portugal: Fados from Coimbra» (Philips, Holanda, 1965, gravado em dezembro de 1964), com as guitarras dos irmãos Melo",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "José Miguel Baptista (n. 1942) que, fruto das guitarras dos irmãos Melo, deu à estampa o EP “Balada dos Sinos” e o LP “Portugal. Fados from Coimbra”"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "EP BALADA DOS SINOS. JOSÉ MIGUEL BAPTISTA. Porto: OFIR, AM 4.023, 1964."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "LP PORTUGAL: FADOS FROM COIMBRA. COIMBRA QUARTET, GRUPO DE FADOS DE L’ORFEON ACADÉMICO DE COIMBRA. Holland: Philips 831 206 PL, 1965. ... Gravações realizadas em dezembro de 1964 na Holanda."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O post do GC V (2015) indica referências mono (PL) e stereo (PY) do LP."
     }
   ],
   "relacoes": [
@@ -54,9 +270,15 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "Pela\nTertúlia do Fado de Coimbra. Vozes de José Miguel Baptista, Joaquim Matos, Nuno\nde Carvalho e Victor Nunes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "integra, desde 1974, a \"Tertúlia do Fado de Coimbra\""
         }
       ],
-      "nota": "voz; depois de 1974 (EP de 1978, LP de 1982, CD de 1994)"
+      "nota": "voz; depois de 1974 (EP de 1978, LP de 1982, CD de 1994). A citação do GC I é da nota biográfica do texto assinado «Por José Miguel Batista *» (2005), escrita na terceira pessoa: é texto do próprio."
     },
     {
       "tipo": "membro_de",
@@ -73,9 +295,21 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2025/04/lp-coimbra-quartet-edicao-francesa.html",
           "doc": "gc-v:7865397689807915124",
           "citacao": "José Miguel Baptista (barítono), Eduardo de Melo (gC1), Ernesto de Melo (gC2, sendo gC1 em Raiz), Durval Moreirinhas (v)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/03/cinquentenario-do-lp-fados-from-coimbra.html",
+          "doc": "gc-v:5026200979714060005",
+          "citacao": "Em dezembro de 1963/janeiro de 1964, no regresso do Orfeon Académico da ilha da Madeira, Eduardo convence José Miguel Baptista a entrar para o grupo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "Ligado a um dos movimentos renovadores da Canção Coimbrã dos anos 60, com Eduardo e Ernesto de Melo, A. Andias e Durval Moreirinhas - \"Quarteto de Coimbra\"-"
         }
       ],
-      "nota": "barítono"
+      "nota": "barítono; entrou no grupo dos irmãos Melo em dezembro de 1963/janeiro de 1964; o grupo desagrega-se por 1968 (GC V, 2015). A citação do GC I é da nota biográfica do texto assinado «Por José Miguel Batista *» (2005), escrita na terceira pessoa: é texto do próprio."
     }
   ],
   "imagens": [

@@ -6,8 +6,147 @@
   "papeis": [
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+      "doc": "gc-i:111240318094235573",
+      "citacao": "Grupo “Alma Mater” – Carlos Pedro e Nuno Correia da Silva a cantar; Nuno Marques e Nuno Cadete à guitarra; António Paulo Lopes e Rui Namora à viola."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/texto-sado-na-internet-aquando-da.html",
+      "doc": "gc-i:111413883460839711",
+      "citacao": "Paulo Soares, na guitarra, e Rui Namora, na viola, encheram o auditório do Instituto Superior de Engenharia de Coimbra ISEC) para um espectáculo que viria a ser classificado por Carlos Alberto Augusto, programador de Coimbra 2003 para a área da Música, como uma «sessão solene»."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/antigos-orfeonistas-na-inaugurao-do.html",
+      "doc": "gc-i:111524603486341120",
+      "citacao": "Antigos Orfeonistas na inauguração do estádio \"Cidade de Coimbra\", em 2004. Canta-se o Hino Nacional. A reger, Virgílio Caseiro, à viola Rui Namora e à guitarra Paulo Soares."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/07/noite-memorvel-no-capella-coimbra.html",
+      "doc": "gc-i:115340829273458927",
+      "citacao": "Abriu a sessão Rui Namora, um guitarrista que já nos habituou a ouvir boa música. Começou com John Dowland, passando depois a J. S. Bach e Augustin Barrios. Numa segunda parte, foram Manuel Ponce e Leo Brower."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/rui-namora-em-mais-um-concerto-de.html",
+      "doc": "gc-ii:1633401567090455045",
+      "citacao": "Rui Namora em mais um concerto de Guitarra Clássca, agora em Lisboa, no Museu da Música."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Recitais de guitarra clássica (viola dedilhada), em Coimbra, no Porto e em Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/rui-namora-em-mais-um-recital-de.html",
+          "doc": "gc-i:116103618288185712",
+          "citacao": "Rui Namora em mais um recital de guitarra clássica, no Clube Literário do Porto."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/rui-namora-em-mais-um-concerto-de.html",
+          "doc": "gc-ii:1633401567090455045",
+          "citacao": "Rui Namora em mais um concerto de Guitarra Clássca, agora em Lisboa, no Museu da Música."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/novamente-rui-namora-e-sua-viola.html",
+          "doc": "gc-iii:8038380496841576147",
+          "citacao": "Novamente Rui Namora e a sua viola dedilhada, com música espanhola do século XX, num serão a 10 de Dezembro, no Porto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/noite-memorvel-no-capella-coimbra.html",
+          "doc": "gc-i:115340829273458927",
+          "citacao": "Abriu a sessão Rui Namora, um guitarrista que já nos habituou a ouvir boa música. Começou com John Dowland, passando depois a J. S. Bach e Augustin Barrios. Numa segunda parte, foram Manuel Ponce e Leo Brower."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2006 refere-se ao à Capella, em Coimbra."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Homenagem a Octávio Sérgio», I Festival da Guitarra de Coimbra, ISEC, 25 de setembro de 2003: viola, com Paulo Soares na guitarra",
+      "data": "2003-09-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/texto-sado-na-internet-aquando-da.html",
+          "doc": "gc-i:111413883460839711",
+          "citacao": "Homenagem a Octávio Sérgio: «Uma sessão solene», diz Carlos Alberto Augusto 26/9/2003 Octávio Sérgio é um nome incontornável na execução da guitarra de Coimbra, que foi homenageado no âmbito do I Festival da Guitarra de Coimbra, dia 25 de Setembro. Paulo Soares, na guitarra, e Rui Namora, na viola, encheram o auditório do Instituto Superior de Engenharia de Coimbra ISEC)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/marionetas-de-octavio-sergio.html",
+          "doc": "gc-iii:4453930043203365482",
+          "citacao": "Paulo Soares executa a peça para guitarra solo, \"Marionetas\", de Octávio Sérgio, num espectáculo ao vivo, nas instalações do ISEC, em 25 de Setembro de 2003. ... Neste evento, Paulo Soares tocou mais 13 peças de minha autoria, acompanhado por Rui Namora em viola."
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia de Coimbra 2003 (26-09-2003) reproduzida no GC I e post de Octávio Sérgio no GC III (2010). Outro post do GC III dá 25 de novembro de 2003 e dois posts do GC I de 2005 dão 2004 (factos seguintes)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Danças», de Octávio Sérgio, com Paulo Soares, no I Festival de Guitarra de Coimbra, ISEC, 25 de novembro de 2003",
+      "data": "2003-11-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/paulo-soares-interpreta-conjuntamente.html",
+          "doc": "gc-iii:7624171461610208592",
+          "citacao": "Paulo Soares interpreta, conjuntamente com Rui Namora, \"Danças\", de Octávio Sérgio, no I Festival de Guitarra de Coimbra, em 25 de Novembro de 2003, no ISEC (Instituto Superior de Engenharia de Coimbra)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Segundo a notícia de 2003, «Danças» foi tocada por Soares e Namora no mesmo espetáculo de homenagem, dado como de 25 de setembro de 2003 (facto anterior)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«Homenagem a Octávio Sérgio», 1.º Festival da Guitarra de Coimbra, em 2004, com Paulo Soares: as duas peças «Variações sobre o tom de Lá» e «Fantasia \"A Espanhola\"» e mais doze de Octávio Sérgio",
+      "data": "2004",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/serenata-monumental-o-ttulo-de-um-cd_09.html",
+          "doc": "gc-i:111040659378643065",
+          "citacao": "as duas peças apresentadas até este momento neste BLOG: \"Variações sobre o tom de Lá\" e \"Fantasia 'A Espanhola'. ... Em 2004 seriam interpretadas ao vivo e com grande êxito, por Paulo Soares e Rui Namora, durante o \"1º Festival da Guitarra de Coimbra\". Neste espectáculo, além destas duas peças, interpretaram mais doze, de minha autoria também. Foi o espectáculo denominado, \"Homenagem a Octávio Sérgio\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/srgio-azevedo-octvio-srgio-carvalho.html",
+          "doc": "gc-i:111016069032424691",
+          "citacao": "Sérgio Azevedo, Octávio Sérgio, Carvalho Homem, Rui Namora e Paulo Soares, na \"Homenagem a Octávio Sérgio\" em 2004"
+        }
+      ],
+      "conflito": true,
+      "nota": "Posts de Octávio Sérgio (GC I, março de 2005). A notícia de 2003 e outro post do GC III dão 2003 (factos anteriores); num comentário de 2010 ao post «Marionetas», Armando Luís de Carvalho Homem escreve «Creio que este concerto em S. homenagem foi em 2003»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Anúncio do Concerto Aberto Antena 2 (Fundação Portuguesa das Comunicações, Lisboa, 3-12-2009, transmissão em direto pela RDP Antena 2), com o programa e, no fim, o sítio e o nome de Rui Namora",
+      "data": "2009-12-03",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/11/concerto-aberto-antena-2.html",
+          "doc": "gc-iii:4083288374430296109",
+          "citacao": "Concerto Aberto Antena 2 Fundação Portuguesa das Comunicações, Lisboa 3 de Dezembro de 2009, 19h Transmissão em directo pela RDP Antena 2 ... Rui Namora"
+        }
+      ],
+      "conflito": false,
+      "nota": "Anúncio com o programa (Sainz de la Maza, Rodrigo, Antonio José), que termina com «http://www.ruinamora.com» e «Rui Namora». O post (GC III, 23-11-2009) não diz expressamente que Rui Namora é o intérprete; por isso o facto fica como «outro» e não como atuação, para o editor decidir."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -21,9 +160,41 @@
         }
       ],
       "nota": "viola; coletânea «Baladas de Despedida – Anos 90»"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "paulo-soares",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/marionetas-de-octavio-sergio.html",
+          "doc": "gc-iii:4453930043203365482",
+          "citacao": "Neste evento, Paulo Soares tocou mais 13 peças de minha autoria, acompanhado por Rui Namora em viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/conjunto-de-4-marcadores-de-livro.html",
+          "doc": "gc-i:112938300439395374",
+          "citacao": "aquando de um concerto de Paulo Soares em Vila Real (acompanhado à viola por Rui Namora)"
+        }
+      ],
+      "nota": "viola"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Rui%20Namora%202.jpg",
+      "legenda": "Concerto de Rui Namora no àCapella: Rui Namora interpreta a sonata op. 15 de Mauro Giuliani.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/concerto-de-rui-namora-no-capella_15.html",
+          "doc": "gc-i:112138957701108551",
+          "citacao": "Concerto de Rui Namora no àCapella, ontem. Rui Namora interpreta aqui a sonata op. 15 de Mauro Giuliani."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -8,10 +8,363 @@
     "António Pinho Brojo"
   ],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "António Pinho de Brojo (Coimbra, 28/11/1927; 25/08/1999), frequenta o Liceu D. João III (de 1938 a 1945)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "António Pinho de Brojo, natural de Coimbra, estudante do Liceu, inicia-se na guitarra com José Maria Amaral."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "António Pinho de Brojo termina os estudos secundários no Liceu D. João III. Ingressa na Escola de Farmácia da Universidade de Coimbra, onde permanece até 1948."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/05/respigando-as-paginas-do-anuario-da-up_2.html",
+      "doc": "gc-v:1245807346954435721",
+      "citacao": "ANTÓNIO PINHO DE BROJO, nascido em Coimbra a 28.11.1927, licenciou na FFarmácia / UP em 4.11.1950, com 17 valores."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+      "doc": "gc-v:5004651538828386229",
+      "citacao": "A formação constituiu-se em 1951 e manteve sólida agenda artística até 1954, data em que o guitarrista solista, Pinho Brojo, abandonou o grupo para se dedicar à preparação do doutoramento em Farmácia."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+      "doc": "gc-i:111559689216335368",
+      "citacao": "doutorara-se em 1961 na U. Porto e prosseguira carreira na então Escola Superior de Farmácia/UC; em 1972 atingiria a cátedra na já restaurada (1968) Fac. Farmácia/UC"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+      "doc": "gc-iv:8594621721074033745",
+      "citacao": "Projecto desenvolvido entre 1982-1983 pelo Grupo de Guitarras e Cantares de Coimbra constituído pelos instrumentistas António Brojo/António Portugal (gg) e Aurélio Reis/Luís Filipe Roxo (vv), com apresentação inicial no programa da RTP1 “Tempo de Coimbra” (1983)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/11/antnio-brojo.html",
+      "doc": "gc-i:4826164026784109999",
+      "citacao": "Morreu a 25 de Agosto de 1999."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António Pinho de Brojo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/respigando-as-paginas-do-anuario-da-up_2.html",
+          "doc": "gc-v:1245807346954435721",
+          "citacao": "ANTÓNIO PINHO DE BROJO, nascido em Coimbra a 28.11.1927, licenciou na FFarmácia / UP em 4.11.1950, com 17 valores."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo (Coimbra, 28/11/1927; 25/08/1999), frequenta o Liceu D. João III (de 1938 a 1945)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post do GC V (2026) cita o Anuário da Universidade do Porto 1949-1950 (p. 241)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 28 de novembro de 1927",
+      "data": "1927-11-28",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/respigando-as-paginas-do-anuario-da-up_2.html",
+          "doc": "gc-v:1245807346954435721",
+          "citacao": "ANTÓNIO PINHO DE BROJO, nascido em Coimbra a 28.11.1927, licenciou na FFarmácia / UP em 4.11.1950, com 17 valores."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo (Coimbra, 28/11/1927; 25/08/1999), frequenta o Liceu D. João III (de 1938 a 1945)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "António Brojo (1927-1999)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/03/iconografia-procede-se-edicao-das.html",
+          "doc": "gc-v:5004651538828386229",
+          "citacao": "António Pinho de Brojo (1927-1999), guitarrista titular"
+        }
+      ],
+      "conflito": true,
+      "nota": "Anuário da Universidade do Porto 1949-1950 (citado no GC V, 2026), cronologia do GC I (2006) e textos de 2005 e 2016. Um texto do GC IV (2012) e dois posts de António Manuel Nunes no GC V (2025 e 2026) indicam 1928 (facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1928",
+      "data": "1928",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "António Pinho de Brojo (1928-1999) e António [Jorge Moreira] Portugal (1931-1994), Tempo(s) de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/02/registos-fonograficos-de-americo-lima.html",
+          "doc": "gc-v:3098204027539363218",
+          "citacao": "António Brojo (1928-1999) e António Portugal (1931-1994)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/gravacoes-conhecidas-do-tenor-americo.html",
+          "doc": "gc-v:4254300875943494911",
+          "citacao": "António Brojo (1928-1999) e António Portugal (1931-1994)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do GC IV (2012) sobre a antologia «Tempo(s) de Coimbra» e dois posts de António Manuel Nunes sobre as gravações de Américo Lima (GC V, 2025 e 2026). As outras fontes dão 28 de novembro de 1927 (facto anterior)."
+    },
+    {
+      "campo": "morte",
+      "valor": "25 de agosto de 1999",
+      "data": "1999-08-25",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/antnio-brojo.html",
+          "doc": "gc-i:4826164026784109999",
+          "citacao": "Morreu a 25 de Agosto de 1999."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo (Coimbra, 28/11/1927; 25/08/1999), frequenta o Liceu D. João III (de 1938 a 1945)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2007 reproduz uma pequena biografia do livro de José Niza (Um Século de Fado, Coimbra II, Ediclube, 1999)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado no cemitério dos Olivais",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "irá ter lugar nas escadarias da Igreja de Santo António dos Olivais uma serenata de SAUDADE dedicada ao Dr. Pinho Brojo que está sepultado precisamente no cemitério dos Olivais."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Alexandre Cortesão (Associação Cultural «Coimbra Menina e Moça»), publicado no GC III."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Farmácia: Escola de Farmácia da Universidade de Coimbra (1945-1948) e Faculdade de Farmácia da Universidade do Porto (1948-1950), onde se licenciou a 4 de novembro de 1950, com 17 valores",
+      "data": "1950-11-04",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo termina os estudos secundários no Liceu D. João III. Ingressa na Escola de Farmácia da Universidade de Coimbra, onde permanece até 1948."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo matricula-se na Faculdade de Farmácia da Universidade do Porto (1948-1950)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/05/respigando-as-paginas-do-anuario-da-up_2.html",
+          "doc": "gc-v:1245807346954435721",
+          "citacao": "ANTÓNIO PINHO DE BROJO, nascido em Coimbra a 28.11.1927, licenciou na FFarmácia / UP em 4.11.1950, com 17 valores."
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia do GC I regista a entrada na Escola de Farmácia na secção de 1945 e a matrícula no Porto na de 1948."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Doutoramento na Universidade do Porto (1961)",
+      "data": "1961",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "doutorara-se em 1961 na U. Porto e prosseguira carreira na então Escola Superior de Farmácia/UC; em 1972 atingiria a cátedra na já restaurada (1968) Fac. Farmácia/UC"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem, reproduzido no GC I."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor da Escola Superior de Farmácia / Faculdade de Farmácia da Universidade de Coimbra; catedrático em 1972",
+      "data": "1972",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "doutorara-se em 1961 na U. Porto e prosseguira carreira na então Escola Superior de Farmácia/UC; em 1972 atingiria a cátedra na já restaurada (1968) Fac. Farmácia/UC"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/encontro-com-prof-antonio-brojo/",
+          "doc": "rtp-arquivos:w42db2c3505fcee14",
+          "citacao": "Programa dedicado à vida e percurso profissional do farmacêutico António Pinho Brojo, que concilia ainda a atividade de professor catedrático na Faculdade de Farmácia da Universidade de Coimbra com a de músico"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do RTP Arquivos do programa «Encontro com … Prof. António Brojo» (RTP 1, 2 de dezembro de 1981)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Vice-reitor; em finais de novembro de 1991 era membro da equipa reitoral de Rui Alarcão e dava uma aula de História da Farmácia",
+      "data": "1991-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "O encontro com António Pinho de Brojo teve lugar numa manhã friorenta de finais de Novembro de 1991. APB era então membro da equipa reitoral de Rui Alarcão, mantinha uma aula de História da Farmácia na Faculdade de Farmácia da UC"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/antnio-brojo-ainda-vice-reitor-preside.html",
+          "doc": "gc-i:111902324667633309",
+          "citacao": "António Brojo, ainda Vice-Reitor, preside ao júri dum Cortejo da Queima das Fitas"
+        }
+      ],
+      "conflito": false,
+      "nota": "Introdução de António M. Nunes à entrevista «Duas horas de conversa com António Brojo» (1991, publicada no GC I em 2006) e legenda de uma fotografia (GC I, 2005)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Partiu para a Suíça em 1954 (testemunho do próprio)",
+      "data": "1954",
+      "local": "Suíça",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "Quando eu me vou embora para a Suiça em 1954 – o meu trajecto vai até 54, de 1943-1944 até 54 - , o Portugal vai continuar o nosso trabalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrevista de novembro de 1991, publicada no GC I (2006). O post de 2016 (GC V) diz que em 1954 deixou o grupo para preparar o doutoramento em Farmácia."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discos de 78 rpm de 1952-1953 com o seu grupo, com as vozes de Fernando Rolim, Luiz Goes e José Afonso, para a Rádio Triunfo",
+      "data": "1952",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "Eu, em 1952, exactamente, fiz discos de 78 rotações com o José Afonso, Luiz Goes e Fernando Rolim."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/07/as-gravacoes-do-grupo-de-antonio-brojo.html",
+          "doc": "gc-v:8295583478477712776",
+          "citacao": "Os registos fonográficos de 1952-1953, ainda em discos de massa de 78 rpm"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Luiz Goes grava pela primeira vez para a firma portuense Rádio Triunfo, ao lado dos guitarristas António Brojo, António Portugal, Aurélio Reis e Mário de Castro. Em dois discos de 78 rotações, publicados em 1953"
+        }
+      ],
+      "conflito": false,
+      "nota": "As edições estão nas fichas de gravação (ex.: Melodia 15.090 e 15.097). O Gramofone (João Carlos Callixto) diz que os dois discos de Luiz Goes foram publicados em 1953."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor da peça para guitarra «Toadas Coimbrãs»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/antonio-brojo-numa-espectacular.html",
+          "doc": "gc-iii:1529330003676592276",
+          "citacao": "António Brojo numa espectacular interpretação de uma peça de sua autoria, \"Toadas Coimbrãs\", acompanhado por António Portugal (g), Aurélio Reis (v), Luís Filipe (v) e Humberto Matias (v), no programa televisivo de 1989, Canção de Coimbra - Anos 80, de José Mesquita."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Ciclo de homenagens a António Portugal e Pinho Brojo pela Associação Cultural «Coimbra Menina e Moça» (2009)",
+      "data": "2009",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/06/ciclo-de-homenagens-antonio-portugal-e.html",
+          "doc": "gc-iii:2845487607254924548",
+          "citacao": "A Associação Cultural “Coimbra Menina e Moça” vai levar a efeito um ciclo de iniciativas que pretende homenagear os grandes guitarristas de Coimbra que foram António Portugal e Pinho Brojo. ... Faz este ano de 2009, 10 anos que faleceu o Prof. Dr. António Pinho Brojo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Serenata nas escadarias da Igreja de Santo António dos Olivais (25 de agosto) e sessão solene na Casa da Cultura, com apresentação de um CD (11 de julho)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Inauguração da Rua Pinho Brojo, em Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/inaugurao-da-rua-pinho-brojo-em.html",
+          "doc": "gc-i:112100571961016071",
+          "citacao": "Inauguração da Rua Pinho Brojo, em Coimbra, com o Grupo de Fados Guitarras de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 10-07-2005, com uma fotografia do Diário de Coimbra «de hoje»."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -75,6 +428,70 @@
         }
       ],
       "nota": "1.ª guitarra nas gravações Melodia de 1952-1953 (15.090 e 15.097); acompanhou-o depois ocasionalmente, já na fase das baladas (testemunho do próprio)."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jose-maria-amaral",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Pinho de Brojo, natural de Coimbra, estudante do Liceu, inicia-se na guitarra com José Maria Amaral."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/o-jovem-pinho-brojo-momento-de-convvio.html",
+          "doc": "gc-i:114364419447076178",
+          "citacao": "José Rodrigues, um enfermeiro e executante de guitarra, conhecedor da técnica de Artur Paredes, à época \"formador\" assíduo de Pinho Brojo (o iniciador foi José Amaral)."
+        }
+      ],
+      "nota": "Iniciação na guitarra. A cronologia do GC I regista-a na secção de 1941; na entrevista de 1991 o próprio situa o começo do seu interesse pela guitarra «a 1942, por aí». O post de 2006 refere também José Rodrigues, enfermeiro e guitarrista, como «formador» assíduo (sem ficha no arquivo)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "O Portugal já nessa altura entrou. Foi o meu 2º guitarra nesses discos."
+        }
+      ],
+      "nota": "António Portugal, 2.ª guitarra nos discos de 1952-1953 (testemunho de Brojo, 1991)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Nesta fase foi acompanhado por António Portugal, António Brojo, João Bagão, Octávio Sérgio, Aurélio Reis, Luis Filipe, Rui Pato, Durval Moreirinhas e tantos outros."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/08/antonio-bernardino-em-samaritana.html",
+          "doc": "gc-iv:5796501058668602629",
+          "citacao": "António Bernardino em \"Samaritana\". companhado por Luís Filipe (v), António Brojo (g), António Portugal (g) e Aurélio Reis (v)."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/duas-horas-de-conversa-com-antnio.html",
+          "doc": "gc-i:115672223733347958",
+          "citacao": "Mas foi efectivamente com os discos do Artur Paredes que começámos a aprender o “estilo do Artur Paredes”."
+        }
+      ],
+      "nota": "Aprendizagem do estilo de Artur Paredes pelos discos (testemunho do próprio, 1991)."
     }
   ],
   "imagens": [
@@ -87,6 +504,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/04/antnio-brojo.html",
           "doc": "gc-i:111445651010945088",
           "citacao": "António Brojo. Foto do \"Tempo(s) de Coimbra\"."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/O%20jovem%20Pinho%20Brojo.jpg",
+      "legenda": "O jovem Pinho Brojo, de frente, a tocar guitarra, em sua casa no Bairro do Calhabé (Coimbra), com Augusto Camacho Vieira (de pé) e Eduardo Manuel Tavares de Melo; fotografia de 1944/1945, segundo Augusto Camacho.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/o-jovem-pinho-brojo-momento-de-convvio.html",
+          "doc": "gc-i:114364419447076178",
+          "citacao": "Momento de convívio e ensaio em casa do estudante liceal António Pinho de Brojo (1927-1999), na sua habitação ao Bairro do Calhabé, Coimbra. Além de Pinho Brojo, de frente, a tocar guitarra, figuram na imagem Augusto Camacho Vieira (de pé, capa traçada) e Eduardo Manuel Tavares de Melo (1924-1992). ... Segundo Augusto Camacho, esta fotografia foi realizada no ano lectivo de 1944/1945."
         }
       ]
     }

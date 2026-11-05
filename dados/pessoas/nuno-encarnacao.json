@@ -6,8 +6,150 @@
   "papeis": [
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Nuno Encarnação nasceu a 24 de Dezembro de 1972 em Coimbra, onde se licenciou em Engenharia Electrotécnica no ramo de Informática pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Enveredou durante um ano pela guitarra portuguesa quando tinha sete anos de idade."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Mais tarde começou a tocar viola quando tinha quinze anos de idade e pouco tempo depois e ainda no liceu José Falcão (onde estudou), formou um grupo de Fados de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Esteve ligado à secção de Fado entre 1990 e 1992."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Em Março de 1992 integra o Grupo de Fados Capas Negras.Tem feito várias digressões pelo mundo quer pelos Capas Negras bem como músico convidado por outros grupos de Fado de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Ao longo do seu vasto currículo como músico acompanhou grandes nomes como os de António Portugal, António Bernardino e Luiz Goes."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+      "doc": "gc-i:111599758589524021",
+      "citacao": "Participou em inúmeros programas televisivos e em várias entrevistas sobre Fado de Coimbra. É autor de vários artigos de opinião sobre o Fado de Coimbra em alguns Jornais diários e algumas publicações."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 24 de dezembro de 1972",
+      "data": "1972-12-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Nuno Encarnação nasceu a 24 de Dezembro de 1972 em Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "«Biografia de Nuno Encarnação», blogue I (2005)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Engenharia Electrotécnica, ramo de Informática, na Faculdade de Ciências e Tecnologia da Universidade de Coimbra; estudou no Liceu José Falcão",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "em Coimbra, onde se licenciou em Engenharia Electrotécnica no ramo de Informática pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "ainda no liceu José Falcão (onde estudou)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Um ano de guitarra portuguesa aos sete anos; viola a partir dos quinze, formando pouco depois, ainda no liceu, um grupo de fados de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Enveredou durante um ano pela guitarra portuguesa quando tinha sete anos de idade."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Mais tarde começou a tocar viola quando tinha quinze anos de idade e pouco tempo depois e ainda no liceu José Falcão (onde estudou), formou um grupo de Fados de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Digressões pelo mundo com os Capas Negras e como músico convidado de outros grupos de fado de Coimbra; programas de televisão e entrevistas sobre o fado de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Tem feito várias digressões pelo mundo quer pelos Capas Negras bem como músico convidado por outros grupos de Fado de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Participou em inúmeros programas televisivos e em várias entrevistas sobre Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Artigos de opinião sobre o fado de Coimbra em jornais diários e noutras publicações",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "É autor de vários artigos de opinião sobre o Fado de Coimbra em alguns Jornais diários e algumas publicações."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html", "doc": "gc-i:111599758589524021", "citacao": "Esteve ligado à secção de Fado entre 1990 e 1992."}], "nota": "Ligado à Secção entre 1990 e 1992."},
     {
@@ -31,9 +173,54 @@
           "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
           "doc": "gc-i:533926602207610002",
           "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Em Março de 1992 integra o Grupo de Fados Capas Negras."
         }
       ],
-      "nota": "viola"
+      "nota": "viola; desde março de 1992"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Ao longo do seu vasto currículo como músico acompanhou grandes nomes como os de António Portugal, António Bernardino e Luiz Goes."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Ao longo do seu vasto currículo como músico acompanhou grandes nomes como os de António Portugal, António Bernardino e Luiz Goes."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-nuno-encarnao-nuno.html",
+          "doc": "gc-i:111599758589524021",
+          "citacao": "Ao longo do seu vasto currículo como músico acompanhou grandes nomes como os de António Portugal, António Bernardino e Luiz Goes."
+        }
+      ],
+      "nota": ""
     }
   ],
   "imagens": [],

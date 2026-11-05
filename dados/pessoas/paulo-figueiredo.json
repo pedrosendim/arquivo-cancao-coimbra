@@ -9,9 +9,27 @@
   "biografia": [
     {
       "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/bruno-costa-na-guitarra-de-coimbra-e.html",
+      "doc": "gc-ii:448459868892838292",
+      "citacao": "Bruno Costa na guitarra de Coimbra e Paulo Figueiredo no piano, juntaram-se e gravaram um disco que vai ser lançado no próximo dia 12, no Pavilhão Centro de Portugal."
+    },
+    {
+      "fonte": "gc-ii",
       "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
       "doc": "gc-ii:8341781972803406558",
       "citacao": "Este é o nome do mais recente trabalho em que o piano de Paulo Figueiredo e a guitarra portuguesa de Bruno Costa se cruzam com paixão e intensidade"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/07/bruno-costa-e-paulo-figueiredo-na-radio.html",
+      "doc": "gc-iii:5840271970968271262",
+      "citacao": "Bruno Costa e Paulo Figueiredo na Rádio Televisão Portuguesa, com o projecto Cordis. Interpretam variações em Si menor de Artur Paredes."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/cordis-2.html",
+      "doc": "gc-iv:5257858841926532335",
+      "citacao": "Foi um retumbante êxito o lançamento do Cordis 2 no Teatro Gil Vicente, em Coimbra, com Bruno Costa à guitarra e Paulo Figueiredo ao piano, com mais alguns amigos."
     }
   ],
   "factos": [
@@ -28,6 +46,60 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Cordis», com Bruno Costa (guitarra), o primeiro disco do duo, lançado no Pavilhão Centro de Portugal",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/cd-cordis-de-bruno-costa-e-paulo.html",
+          "doc": "gc-ii:1985649567820024580",
+          "citacao": "CD Cordis de Bruno Costa (guitarra) e Paulo Figueiredo (piano). Uma nova maneira de ouvir guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/bruno-costa-e-paulo-figueiredo-amanh-no.html",
+          "doc": "gc-ii:6352331562050672509",
+          "citacao": "Bruno Costa e Paulo Figueiredo, amanhã, no Pavilhão Centro de Portugal, para o lançamento do seu primeiro disco."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/09/concerto-piano-e-guitarra-portuguesa.html",
+          "doc": "gc-ii:8341781972803406558",
+          "citacao": "Lançamento Cd : “CORDIS” – piano e guitarra portuguesa ... Pavilhão Centro de Portugal / Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os textos não dão o ano; os posts são de setembro e outubro de 2008. É o anúncio do concerto (GC II, 6-09-2008) que liga o nome «CORDIS» ao lançamento no Pavilhão Centro de Portugal."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Cordis 2», com Bruno Costa, lançado no Teatro Gil Vicente, em Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/10/cordis-2.html",
+          "doc": "gc-iv:5257858841926532335",
+          "citacao": "Foi um retumbante êxito o lançamento do Cordis 2 no Teatro Gil Vicente, em Coimbra, com Bruno Costa à guitarra e Paulo Figueiredo ao piano, com mais alguns amigos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 03-10-2011."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Na RTP, com Bruno Costa, no projeto Cordis: «Variações em Si menor» de Artur Paredes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/bruno-costa-e-paulo-figueiredo-na-radio.html",
+          "doc": "gc-iii:5840271970968271262",
+          "citacao": "Bruno Costa e Paulo Figueiredo na Rádio Televisão Portuguesa, com o projecto Cordis. Interpretam variações em Si menor de Artur Paredes."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post do GC III (19-07-2009) publica o vídeo."
     }
   ],
   "relacoes": [

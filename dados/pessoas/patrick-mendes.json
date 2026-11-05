@@ -6,8 +6,234 @@
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/disco-quinteto-de-coimbra-guitarra-e.html",
+      "doc": "gc-i:111168647604498715",
+      "citacao": "Disco \"Quinteto de Coimbra - Guitarra e Canção de Coimbra\". Grupo formado por Ricardo Dias à guitarra, Nuno Botelho e Pedro Lopes à viola e a cantar, Patrick Mendes e António Ataíde."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+      "doc": "rtp-arquivos:we766f549f3a2866f",
+      "citacao": "Resumo Analítico: Júlio Isidro conversa com Patrick Mendes, vocalista do \"Quinteto de Coimbra\", que interpreta \"Sonhar contigo ò Coimbra\"."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/histria-2004-um-dvd-com-histrias.html",
+      "doc": "gc-i:113820490698360706",
+      "citacao": "Estamos em presença de um dvd escrito e apresentado pelos cultores de CC Patrick Mendes (PM) e José Manuel Beato (JMB)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/o-coro-dos-antigos-orfeonistas-esteve.html",
+      "doc": "gc-i:2946727245460365424",
+      "citacao": "noutra, parte do grupo de Canções de Coimbra no hall do hotel, gozando o merecido descanso. Deste grupo estão Nuno Farinha, Patrick Mendes, João Barreiros, José Daniel Vilhena, Nuno Silva, Bruno Costa e Luís Ferreirinha."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/camara-municipal-de-coimbra-e-orquestra.html",
+      "doc": "gc-ii:7900525838925256571",
+      "citacao": "Este concerto contará com a participação dos tenores Patrick Mendes, Nuno Silva e João Farinha."
+    },
+    {
+      "fonte": "cm-coimbra",
+      "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+      "doc": "cm-coimbra:w49adfd40b3069844",
+      "citacao": "Ficha Artística/Técnica Tenor Patrick Mendes Guitarra portuguesa Ricardo Silva Viola de Fado João Silva Piano Daniel Romeiro"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "CD «Quinteto de Coimbra. Guitarra e Canção de Coimbra» (Edição Quinteto de Coimbra/Casa de Fados, 2001): vozes de Patrick Mendes e António Ataíde",
+      "data": "2001",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
+          "doc": "gc-i:113815397765607682",
+          "citacao": "-CD “Quinteto de Coimbra. Guitarra e Canção de Coimbra”, Coimbra, Edição Quinteto de Coimbra/Casa de Fados, Lda., ano de 2001, faixa nº 3. A ficha técnica do disco não explicita quem seja o intérprete. A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/02/minha-me.html",
+          "doc": "gc-i:2563501984106623261",
+          "citacao": "-CD \"Quinteto de Coimbra. Guitarra e Canção de Coimbra\", Coimbra, Casa de Fados, ano de 2001, faixa nº 7. Formação profissional constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo os posts, a ficha técnica não diz qual dos dois cantores interpreta cada faixa."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa da RTP «Fados de Portugal – Parte II» (2001-06-12): figura entre as personalidades da ficha",
+      "data": "2001-06-12",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-ii-38/",
+          "doc": "rtp-arquivos:wbd6afd695e6a0861",
+          "citacao": "Título: Fados de Portugal – Parte II ... Data: 2001-06-12 ... Personalidades: António Pinto Basto, Pedro de Castro, José Luís Nobre Costa, Francisco Gonçalves, José Elmiro Silva Nunes, Marina Rosa, Maria Jô-Jô, Olga Duarte, António Ataíde, Rui Mota, Patrick Mendes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa da RTP «Estúdio 5 – Parte III» (2002-12-01): conversa com Júlio Isidro, como vocalista do Quinteto de Coimbra, e interpreta «Sonhar contigo ò Coimbra»",
+      "data": "2002-12-01",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Título: Estúdio 5 – Parte III ... Data: 2002-12-01 ... Resumo Analítico: Júlio Isidro conversa com Patrick Mendes, vocalista do \"Quinteto de Coimbra\", que interpreta \"Sonhar contigo ò Coimbra\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "DVD «História do Fado de Coimbra» (Coimbra, contar.com, janeiro de 2004; produzido em 2003), escrito e apresentado por Patrick Mendes e José Manuel Beato; 2.ª edição «A História do Fado de Coimbra» (TELEVITA, novembro de 2005)",
+      "data": "2004-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/histria-2004-um-dvd-com-histrias.html",
+          "doc": "gc-i:113820490698360706",
+          "citacao": "“História do Fado de Coimbra”, Coimbra, contar.com, Janeiro de 2004 é um dvd produzido em 2003 e lançado a título de 2ª edição em Novembro de 2005 (“A História do Fado de Coimbra”, Coimbra, TELEVITA, 2005), com o apoio do “Diário de Coimbra”. Estamos em presença de um dvd escrito e apresentado pelos cultores de CC Patrick Mendes (PM) e José Manuel Beato (JMB)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/histria-2005-segunda-edio-do-dvd.html",
+          "doc": "gc-i:113820500485227646",
+          "citacao": "Segunda edição do dvd \"História do Fado de Coimbra\", Coimbra, TELEVITA, Novembro de 2005, concebido por Patrick Mendes e José Manuel Beato."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outro post (gc-v:7385869171800518998) dá «Estem Losango» como editor da edição de [2004]."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "DVD «História do Fado de Coimbra» (Coimbra: Estem Losango, s/d [2004]), reeditado como «A História do Fado de Coimbra» (Televita, 2005)",
+      "data": "2004",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/10/turbulentos-sixties-pegada-do-2_28.html",
+          "doc": "gc-v:7385869171800518998",
+          "citacao": "Esta é a primeira tentativa de produção de uma história sonora da CC concebida por jovens cultores como Patrick Mendes: DVD História do Fado de Coimbra. Coimbra: Estem Losango, s/d [2004], reditado no DVD A História do Fado de Coimbra. Coimbra: Televita, 2005."
+        }
+      ],
+      "conflito": true,
+      "nota": "Os posts de 2006 (gc-i:113820490698360706) dão «contar.com» como editor da edição de janeiro de 2004."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Atuações do «Mês do Fado»: canto, com a Estudantina e Bruno Costa (guitarra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado_22.html",
+          "doc": "gc-i:111420982713972207",
+          "citacao": "Actuações no \"Mês do Fado\". Estudantina. Bruno Costa (guitarra), Patrick Mendes (Canto) e ......."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 22-04-2005."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Canção de Coimbra no à Capella (Coimbra), com Carlos Jesus (guitarra) e Nuno Botelho (viola), no intervalo e no fim de um concerto de Rui Namora",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/noite-memorvel-no-capella-coimbra.html",
+          "doc": "gc-i:115340829273458927",
+          "citacao": "Noite memorável no à Capella, Coimbra. ... No intervalo e no final, ouviu-se a canção de Coimbra, interpretada por Carlos Jesus (g), Nuno Botelho (v) e Patrick Mendes (cantor)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 20-07-2006."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integra o grupo de Canções de Coimbra do Coro dos Antigos Orfeonistas na digressão a S. Miguel (Açores)",
+      "data": "",
+      "local": "Ponta Delgada",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/o-coro-dos-antigos-orfeonistas-esteve.html",
+          "doc": "gc-i:2946727245460365424",
+          "citacao": "O Coro dos Antigos Orfeonistas esteve na ilha de S. Miguel, onde deu um espectáculo no Coliseu de Ponta Delgada ... noutra, parte do grupo de Canções de Coimbra no hall do hotel, gozando o merecido descanso. Deste grupo estão Nuno Farinha, Patrick Mendes, João Barreiros, José Daniel Vilhena, Nuno Silva, Bruno Costa e Luís Ferreirinha."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 21-05-2007."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto de Carnaval da Orquestra Clássica do Centro e da Câmara Municipal de Coimbra, no Pavilhão Centro de Portugal, a 23 de fevereiro, com os tenores Nuno Silva e João Farinha",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/camara-municipal-de-coimbra-e-orquestra.html",
+          "doc": "gc-ii:7900525838925256571",
+          "citacao": "A Cãmara Municipal de Coimbra e a Orquestra Clássica do Centro promovem o Concerto de Carnaval que terá lugar no dia 23 de Fevereiro, pelas 21h30, no Pavilhão Centro de Portugal em Coimbra . ... Este concerto contará com a participação dos tenores Patrick Mendes, Nuno Silva e João Farinha."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 20-02-2009; o texto não escreve o ano."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tenor no concerto «Luiz Goes em piano de fundo» (Fado no Povo), Sala D. Afonso Henriques, 5 de outubro, com Ricardo Silva (guitarra portuguesa), João Silva (viola) e Daniel Romeiro (piano)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "LUIZ GOES EM PIANO DE FUNDO Fado no Povo espaço: Sala D. Afonso Henriques data | hora: 5 outubro | 19h00 ... Ficha Artística/Técnica Tenor Patrick Mendes Guitarra portuguesa Ricardo Silva Viola de Fado João Silva Piano Daniel Romeiro"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programação municipal do Convento São Francisco de setembro a dezembro de 2022; o texto não escreve o ano junto à data."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Participante na «VI Grande Noite do Fado e da Canção de Coimbra» do Coro dos Antigos Orfeonistas da Universidade de Coimbra (Grande Auditório do Convento São Francisco, 12 de novembro)",
+      "data": "",
+      "local": "Convento São Francisco",
+      "fontes": [
+        {
+          "fonte": "cm-coimbra",
+          "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf",
+          "doc": "cm-coimbra:w49adfd40b3069844",
+          "citacao": "o Coro dos Antigos Orfeonistas da Universidade de Coimbra apresenta no próximo dia 12 de novembro no Grande Auditório do Convento São Francisco a VI edição da Grande Noite do Fado e da Canção de Coimbra. ... Octávio Sérgio; Patrick Mendes; Paulo Alexandre Almeida; Paulo Amador"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programação municipal do Convento São Francisco de setembro a dezembro de 2022; o texto não escreve o ano junto à data."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -37,6 +263,12 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/01/balada-do-outono-msica-jos-manuel.html",
           "doc": "gc-i:113815397765607682",
           "citacao": "A formação é constituída por Patrick Mendes/António Ataíde (vozes), Ricardo Dias (g) e Nuno Botelho/Pedro Lopes (vv)."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/estudio-5-parte-iii-9/",
+          "doc": "rtp-arquivos:we766f549f3a2866f",
+          "citacao": "Júlio Isidro conversa com Patrick Mendes, vocalista do \"Quinteto de Coimbra\""
         }
       ],
       "nota": "voz"

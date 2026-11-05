@@ -2,12 +2,390 @@
   "id": "octavio-sergio",
   "tipo": "pessoa",
   "nome": "Octávio Sérgio",
-  "nomes_alternativos": [],
-  "papeis": [
-    "guitarrista"
+  "nomes_alternativos": [
+    "Octávio Sérgio de Matos Azevedo"
   ],
-  "biografia": [],
+  "papeis": [
+    "guitarrista",
+    "compositor"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "OCTÁVIO SÉRGIO DE MATOS AZEVEDO nasceu em Viseu a 15 de Agosto de 1937 ... A sua chegada à galáxia dá-se aos 13 anos, quando, aluno do Liceu Nacional de Viseu, aí ouviu cantar Fernando Rolim."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+      "doc": "gc-i:110998641361076024",
+      "citacao": "Aprendeu a tocar guitarra de forma autodidacta, através da audição de fonogramas (sobretudo de Artur Paredes) e, com um grupo de amigos, começou a realizar várias serenatas em Viseu."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "Em Coimbra a partir de 1957 – cursando Físico-Químicas na Faculdade de Ciências – e até 1965 – com uma interrupção castrense em 1961 –, integrou grupos com – por ordem cronológica – David Leandro, António Ralha, José Bárrio (pontualmente), Gabriel Ferreira e António Portugal (gg.) e José Niza, Jorge Gomes, Manuel Dourado, Nilton Bárrio (pontualmente), Costa Reis e Rui Pato (vv.)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "Começara entretanto a frequentar a casa de Artur Paredes (1899-1980), e nos últimos dois anos (ca.1977-1979) de actividade musical do Mestre acompanhou-o como «2.º guitarra»"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "Saído em Setembro de 1981, o álbum Guitarra Portuguesa: Raízes de Coimbra (ed. ORFEO/Arnaldo Trindade STAT 105, Porto, 1981) suscitou uma dupla ordem de efeitos"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "À data da saída deste álbum instrumental, OS concluíra entretanto a que será por certo a sua mais conhecida realização discográfica: o acompanhamento, com Durval Moreirinhas [e ainda com a participação de Júlio Pereira (cavaquinho) e Janita Salomé (viola) no tema «Vira de Coimbra»], de José Afonso (1929-1987) no LP que marcou o seu retorno à galáxia – Fados de Coimbra e outras Canções."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+      "doc": "gc-i:110998641361076024",
+      "citacao": "ao longo de 15 anos, manteve uma actividade regular com um grupo de canção de Coimbra, constituído por Durval Moreirinhas, Armando Silva Marta e António Bernardino, até à morte deste último (1996)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+      "doc": "gc-i:111193101779994388",
+      "citacao": "Em 1987 OS fixa residência em Coimbra e ensina, até se aposentar (2002), na Escola Avelar Brotero. Passa a integrar o Coro dos Antigos Orfeonistas da Universidade de Coimbra (AOUC) e mais tarde o respectivo Grupo de Fados"
+    }
+  ],
   "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Octávio Sérgio de Matos Azevedo",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "OCTÁVIO SÉRGIO DE MATOS AZEVEDO nasceu em Viseu a 15 de Agosto de 1937"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 15 de Agosto nasce em Viseu Octávio Sérgio de Matos Azevedo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "SÉRGIO de Matos Azevedo, Octávio (n. Viseu, 15 Ago. 1937). Guitarrista e compositor."
+        }
+      ],
+      "conflito": false,
+      "nota": "Três textos reproduzidos no GC I: o de Armando Luís de Carvalho Homem («As “variações” de Octávio Sérgio», 2004), a cronologia «Canções e Guitarradas nas décadas de 1930-1940» (António José Soares e António Manuel Nunes) e a entrada de Pedro Roxo e Salwa el Shawan Castelo-Branco para a Enciclopédia da Música em Portugal no Século XX."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Viseu, 15 de agosto de 1937",
+      "data": "1937-08-15",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "OCTÁVIO SÉRGIO DE MATOS AZEVEDO nasceu em Viseu a 15 de Agosto de 1937"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "SÉRGIO de Matos Azevedo, Octávio (n. Viseu, 15 Ago. 1937)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1937 -A crise de cantores agudizou-se em 1937. ... -A 15 de Agosto nasce em Viseu Octávio Sérgio de Matos Azevedo."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Octávio Sérgio (n. 1937) Natural de Viseu"
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia (GC I, 2006) regista o nascimento na secção do ano de 1937."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Ciências Físico-Químicas na Universidade de Coimbra (1957-1965, com uma interrupção para o serviço militar); licenciatura concluída na Faculdade de Ciências da Universidade de Lisboa (1965/66; «em 1966»)",
+      "data": "1966",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Em Coimbra a partir de 1957 – cursando Físico-Químicas na Faculdade de Ciências – e até 1965 – com uma interrupção castrense em 1961 ... Em 1965/66 transferiu-se para a Faculdade de Ciências da Universidade de Lisboa, e aí concluiu então a licenciatura."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Cursou Ciências Físico-Químicas na UC entre 1957 e 1965, com uma solução de continuidade, por razões castrenses, em 1961/62. Acabou por se licenciar em 1966 na Fac. Ciências da UL."
+        }
+      ],
+      "conflito": true,
+      "nota": "Dois textos de Armando Luís de Carvalho Homem (GC I), que datam a interrupção militar de 1961 e de 1961/62. A entrada da Enciclopédia diz que se licenciou na Faculdade de Ciências da Universidade de Coimbra (facto seguinte)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Ciências Físico-Químicas (1957-65) na Faculdade de Ciências da Universidade de Coimbra, depois de interromper o curso para cumprir o serviço militar",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "Licenciou-se em Ciências Físico-Químicas (1957-65) na Faculdade de Ciências da U.C., após ter interrompido o curso para cumprir o serviço militar."
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrada de Pedro Roxo e Salwa el Shawan Castelo-Branco (Enciclopédia da Música em Portugal no Século XX), reproduzida no GC I. Os textos de Carvalho Homem dizem que concluiu a licenciatura em Lisboa (facto anterior)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Ciências Pedagógicas na Faculdade de Letras de Coimbra (1967/68)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Em 1967/68 frequentou e concluiu o Curso de Ciências Pedagógicas na Faculdade de Letras de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Autodidata na guitarra, pela audição de discos (sobretudo de Artur Paredes); a partir dos anos 70 estudou viola com Piñero Nagy e harmonia com Francine Benoit, na Academia de Amadores de Música",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "Aprendeu a tocar guitarra de forma autodidacta, através da audição de fonogramas (sobretudo de Artur Paredes) ... só a partir dos anos 70 ter recebido alguma aprendizagem formal na Academia de Amadores de Música, onde estudou viola com Piñero Nagy, e harmonia com Francine Benoit."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada da Enciclopédia da Música em Portugal no Século XX (Pedro Roxo e Salwa el Shawan Castelo-Branco), reproduzida no GC I."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Ensinou na Escola Avelar Brotero, em Coimbra, de 1987 até se aposentar (2002)",
+      "data": "1987",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Em 1987 OS fixa residência em Coimbra e ensina, até se aposentar (2002), na Escola Avelar Brotero."
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto não diz o que ensinava."
+    },
+    {
+      "campo": "atividade",
+      "valor": "2.º guitarra de Artur Paredes nos últimos dois anos de atividade musical do Mestre (ca. 1977-1979)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Começara entretanto a frequentar a casa de Artur Paredes (1899-1980), e nos últimos dois anos (ca.1977-1979) de actividade musical do Mestre acompanhou-o como «2.º guitarra»"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Armando Luís de Carvalho Homem (2004). A Enciclopédia data o acompanhamento de 1979-80 (facto seguinte)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Músico acompanhador de Artur Paredes nos últimos dois anos da vida deste (1979-80)",
+      "data": "1979",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "Foi músico acompanhador de Artur Paredes nos últimos dois anos da sua vida (1979-80)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Entrada da Enciclopédia, reproduzida no GC I. O texto de Carvalho Homem situa-o em ca. 1977-1979 (facto anterior)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Estreia discográfica no LP «O Melro», de Janita Salomé (face B, com Pedro Caldeira Cabral, Fernando Alvim e Durval Moreirinhas)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "ao realizar-se o primeiro fizera já a sua estreia discográfica, no LP O Melro, de Janita Salomé, em cuja face B acompanha o Cantor (com Pedro Caldeira Cabral, Fernando Alvim e Durval Moreirinhas) em 5 números"
+        }
+      ],
+      "conflito": false,
+      "nota": "«O primeiro» é o primeiro dos Seminários sobre o Fado de Coimbra (1978/79/80/81/83), no mesmo texto. A discografia da entrada da Enciclopédia indica «Salomé, Janita (1993/1980) Melro»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP instrumental «Guitarra Portuguesa: Raízes de Coimbra» (ORFEO/Arnaldo Trindade STAT 105, Porto), gravado em fevereiro de 1981 e saído em setembro de 1981",
+      "data": "1981-09",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "A gravação processou-se em Fevereiro de 1981 num estúdio localizado na Rua de Campolide ... Saído em Setembro de 1981, o álbum Guitarra Portuguesa: Raízes de Coimbra (ed. ORFEO/Arnaldo Trindade STAT 105, Porto, 1981)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem, que acompanhou o disco em viola e 2.ª guitarra."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Concerto de homenagem no I Festival da Guitarra de Coimbra (Coimbra 2003), por Paulo Soares e Rui Namora, no Auditório do Instituto Superior de Engenharia de Coimbra, a 25 de julho de 2003",
+      "data": "2003-07-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Coimbra 2003 / Capital Nacional da Cultura constituiu momento para uma primeira grande homenagem a OS: no âmbito do I Festival da Guitarra de Coimbra, o duo Paulo Soares (g.) / Rui Namora (v.) encarregou-se de um concerto (Auditório do Instituto Superior de Engenharia de Coimbra, 2003/07/25)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Carvalho Homem (2004), que noutro passo escreve «Set.03». A notícia de 26/9/2003 dá o dia 25 de setembro, e a legenda de um post de 2005 dá 25 de setembro de 2004 (factos seguintes)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem no âmbito do I Festival da Guitarra de Coimbra (Coimbra 2003), a 25 de setembro de 2003",
+      "data": "2003-09-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/texto-sado-na-internet-aquando-da.html",
+          "doc": "gc-i:111413883460839711",
+          "citacao": "26/9/2003 Octávio Sérgio é um nome incontornável na execução da guitarra de Coimbra, que foi homenageado no âmbito do I Festival da Guitarra de Coimbra, dia 25 de Setembro."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "No concerto de homenagem a OS, no âmbito da Coimbra 2003 / Capital Nacional da Cultura (Set.03)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia de Coimbra 2003 / Capital Nacional da Cultura (26/9/2003), reproduzida no GC I. Ver os factos com 25 de julho de 2003 e 25 de setembro de 2004."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "«Homenagem a Octávio Sérgio» com a data de 25 de setembro de 2004",
+      "data": "2004-09-25",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/texto-de-carlos-alberto-augusto-sado.html",
+          "doc": "gc-i:111505888342909569",
+          "citacao": "Texto de Carlos Alberto Augusto, saído no \"Diário de Coimbra\", dias depos da \"Homenagem a Octávio Sérgio\", em 25 de Setembro de 2004."
+        }
+      ],
+      "conflito": true,
+      "nota": "Legenda do post de 2005 que reproduz o recorte do Diário de Coimbra. Ver os factos anteriores, que dão 2003."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado no Quadragésimo Encontro Internacional de Quarentunas e Tunas de Veteranos de Coimbra, organizado pela Quarentuna de Coimbra (5 de setembro de 2015)",
+      "data": "2015-09-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/homenagem-octavio-sergio.html",
+          "doc": "gc-v:6913174693727083904",
+          "citacao": "A Quarentuna de Coimbra vai realizar, a 5 de setembro, sábado, às 21H30, o Quadragésimo Encontro Internacional de Quarentunas e Tunas de Veteranos de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/homenagem-octavio-sergio.html",
+          "doc": "gc-v:6913174693727083904",
+          "citacao": "Em todas as edições também é homenageada uma figura ligada ao Fado de Coimbra e este ano a distinção cabe ao exímio guitarrista Octávio Sérgio."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/09/octavio-sergio-fantasia-espanhola.html",
+          "doc": "gc-v:2798006012494261736",
+          "citacao": "Festival da Quarentuna na praça Heróis do Ultramar, a 5 de Setembro de 2015."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia do Diário As Beiras reproduzida no GC V (31-08-2015)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Paulo Valentim (guitarrista de fado, n. Lisboa, 1964) iniciou a sua formação com Octávio Sérgio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/paulo-valentim",
+          "doc": "museu-do-fado:w24ddcaa58ca8d77b",
+          "citacao": "Paulo Valentim Ribeiro de Almeida, guitarrista de fado, compositor e letrista nasceu em Lisboa, em 1964. Iniciou a sua formação com Octávio Sérgio (músico de Coimbra, acompanhante de José Afonso)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia de Paulo Valentim no Museu do Fado. Paulo Valentim ainda não tem ficha; quando a tiver, a relação aluno_de guarda-se na ficha dele."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Executante, compositor e divulgador, através do seu blogue",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/homenagem-octavio-sergio.html",
+          "doc": "gc-v:6913174693727083904",
+          "citacao": "Para além de executante, é também compositor de créditos firmados e ainda divulgador, através do seu blogue guitarracoimbra.blogspot.com."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia do Diário As Beiras (2015) reproduzida no GC V."
+    },
     {
       "campo": "outro",
       "valor": "Cunhado de José Miguel Baptista",
@@ -86,9 +464,207 @@
         }
       ],
       "nota": "Guitarra e arranjos no LP «Fados de Coimbra e Outras Canções» (Orfeu, 1981)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "Começara entretanto a frequentar a casa de Artur Paredes (1899-1980), e nos últimos dois anos (ca.1977-1979) de actividade musical do Mestre acompanhou-o como «2.º guitarra»"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "Foi músico acompanhador de Artur Paredes nos últimos dois anos da sua vida (1979-80)"
+        }
+      ],
+      "nota": "2.º guitarra. As duas fontes datam o período de maneira diferente (ver os factos com conflito)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "acompanhou, por outro lado, cantores como Adriano Correia de Oliveira (1942-1982), António Bernardino (1941-1996)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Nesta fase foi acompanhado por António Portugal, António Brojo, João Bagão, Octávio Sérgio, Aurélio Reis, Luis Filipe, Rui Pato, Durval Moreirinhas e tantos outros."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armando-marta",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "e sempre com Durval Moreirinhas, começou (ou recomeçou) a acompanhar cantores de gerações próximas da sua (v.g. Armando Marta, António Bernardino, Arménio Marques dos Santos) ou mais ancestrais (v.g. Fernando Machado Soares)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/07/armando-marta-canta-grandola-de-novo.html",
+          "doc": "gc-v:8414927515689691684",
+          "citacao": "Armando Marta canta \"Grândola de novo\", uma peça de sua autoria, na Festa da Amizade em homenagem a José Afonso. É acompanhado por Octávio Sérgio (g), Sérgio Azevedo (v) e Durval Moreirinhas (v)."
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "acompanhou, por outro lado, cantores como Adriano Correia de Oliveira (1942-1982), António Bernardino (1941-1996)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "c) e, na derradeira emissão (Set.82), com Eduardo Aroso (v.), para acompanhar Fernando Machado Soares e Adriano Correia de Oliveira"
+        }
+      ],
+      "nota": "Em Coimbra (1957-1965) e no programa «Cantos e Contos de Coimbra» (RTP/2, setembro de 1982)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "e sempre com Durval Moreirinhas, começou (ou recomeçou) a acompanhar cantores de gerações próximas da sua (v.g. Armando Marta, António Bernardino, Arménio Marques dos Santos) ou mais ancestrais (v.g. Fernando Machado Soares)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "c) e, na derradeira emissão (Set.82), com Eduardo Aroso (v.), para acompanhar Fernando Machado Soares e Adriano Correia de Oliveira"
+        }
+      ],
+      "nota": "guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "b) com Durval Moreirinhas (v.), para acompanhar António Sutil Roque, tendo ainda executado as «Variações em Lá» de «António das Águas» (Agº.82)"
+        }
+      ],
+      "nota": "Programa «Cantos e Contos de Coimbra» (RTP/2), agosto de 1982."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "teotonio-xavier",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/bloco-de-notas-2-vou-entrar.html",
+          "doc": "gc-i:111084698635914687",
+          "citacao": "Nesta altura integrava um grupo com o Teotónio Xavier e Silva Ramos à Guitarra e à viola, Carlos Figueiredo e Ferreira Alves."
+        }
+      ],
+      "nota": "«Bloco de Notas (2)», memórias de Octávio Sérgio publicadas no GC I."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "carlos-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "O seu estilo interpretativo foi marcado pelo contacto com guitarristas como António Brojo, António Portugal, Jorge Tuna e, sobretudo, Carlos Paredes, com quem adquiriu uma perspectiva mais alargada das potencialidades da guitarra."
+        }
+      ],
+      "nota": "Entrada da Enciclopédia da Música em Portugal no Século XX, reproduzida no GC I («sobretudo, Carlos Paredes»)."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "O seu estilo interpretativo foi marcado pelo contacto com guitarristas como António Brojo, António Portugal, Jorge Tuna e, sobretudo, Carlos Paredes, com quem adquiriu uma perspectiva mais alargada das potencialidades da guitarra."
+        }
+      ],
+      "nota": "Entrada da Enciclopédia da Música em Portugal no Século XX, reproduzida no GC I."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "O seu estilo interpretativo foi marcado pelo contacto com guitarristas como António Brojo, António Portugal, Jorge Tuna e, sobretudo, Carlos Paredes, com quem adquiriu uma perspectiva mais alargada das potencialidades da guitarra."
+        }
+      ],
+      "nota": "Entrada da Enciclopédia da Música em Portugal no Século XX, reproduzida no GC I."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "jorge-tuna",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "O seu estilo interpretativo foi marcado pelo contacto com guitarristas como António Brojo, António Portugal, Jorge Tuna e, sobretudo, Carlos Paredes, com quem adquiriu uma perspectiva mais alargada das potencialidades da guitarra."
+        }
+      ],
+      "nota": "Entrada da Enciclopédia da Música em Portugal no Século XX, reproduzida no GC I."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "Aprendeu a tocar guitarra de forma autodidacta, através da audição de fonogramas (sobretudo de Artur Paredes)"
+        }
+      ],
+      "nota": "Aprendeu pela audição dos discos, não com o próprio (Enciclopédia, reproduzida no GC I)."
     }
   ],
   "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1010264.jpg",
+      "legenda": "Octávio Sérgio experimenta a guitarra de construção nipónica de Hiroshi Yagi, construída por Junji Miwa, em casa de Paulo Soares, em Coimbra. Foto de Paulo Soares (post de 4 de janeiro de 2006).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/japoneses-em-coimbra-hoje-_113641655952795806.html",
+          "doc": "gc-i:113641655952795806",
+          "citacao": "Octávio Sérgio experimenta a guitarra de construção nipónica, pertencente a Hiroshi Yagi, e construída por Junji Miwa."
+        }
+      ]
+    },
     {
       "url": "http://photos1.blogger.com/img/258/3919/1024/Caricatura%20Oct%20vio%20%28Curso%291.jpg",
       "legenda": "Caricatura (desenho) de Octávio Sérgio, saída no Livro de Curso, em 1964 — não é fotografia",

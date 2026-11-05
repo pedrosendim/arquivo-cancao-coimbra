@@ -82,6 +82,26 @@
       ],
       "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "A etiqueta diz «cantado pelo tenor Lacerda»; segundo o GC V (Repertório de Manassés de Lacerda (1), 2016), os discos de um «tenor Lacerda» com repertório de Manassés (sobretudo de 1913) são de outro cantor",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://arquivosonoro.museudofado.pt/fado/940/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
+          "doc": "museu-do-fado:w70de79dde5559c1e",
+          "citacao": "Etiqueta: Fado da pallida Madrugada / com Variações de Flauta / cantado pelo tenor / Lacerda"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Na época, e principalmente em 1913, foram colocados no mercado discos gravados por um \"tenor Lacerda\", com repertório Manassés. Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": "O mesmo post do GC V inclui o Victor 69984 entre as gravações do próprio Manassés; nenhuma fonte aplica a este disco a distinção do tenor Lacerda."
     }
   ],
   "fontes": [

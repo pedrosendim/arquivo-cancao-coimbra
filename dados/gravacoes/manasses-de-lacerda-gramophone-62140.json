@@ -1,0 +1,59 @@
+{
+  "id": "manasses-de-lacerda-gramophone-62140",
+  "titulo": "Fado Corrido nº 2",
+  "formato": "78rpm",
+  "editora": "Gramophone",
+  "referencia": "62140",
+  "ano": "1905",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "manasses-de-lacerda",
+      "funcao": ""
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Corrido nº 2 (Amor é sonho que mata)",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "«Fado Corrido nº 2 (Amor é sonho que mata)», gravado por Manassés de Lacerda, em 1905, no 78 rpm Gramophone 62140",
+      "data": "1905",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+          "doc": "gc-i:113303176582708596",
+          "citacao": "Fado Corrido nº 2 (Amor é sonho que mata): gravado por Manassés de Lacerda, em 1905, no 78 rpm Gramophone 62140."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/cano-de-coimbra-no-sculo-xix-1840.html",
+      "doc": "gc-i:113303176582708596",
+      "citacao": "Fado Corrido nº 2 (Amor é sonho que mata): gravado por Manassés de Lacerda, em 1905, no 78 rpm Gramophone 62140."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

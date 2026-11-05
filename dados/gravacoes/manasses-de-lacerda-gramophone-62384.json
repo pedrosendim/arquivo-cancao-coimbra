@@ -49,22 +49,28 @@
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/937/manasses_de_lacerda_fado_hilario",
           "doc": "museu-do-fado:wa7ce52d3a0fd338d",
-          "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra.3-62297, 62384"
+          "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Gra.3-62297, 62384"
         },
         {
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/939/manasses_de_lacerda_fado_hilario",
           "doc": "museu-do-fado:w38c2068196f69836",
-          "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra. 62384"
+          "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Gra. 62384"
         },
         {
           "fonte": "gc-v",
           "url": "https://guitarradecoimbra4.blogspot.com/2013/01/augusto-hilario-1864-1896-esta-data-e.html",
           "doc": "gc-v:9072570798417096611",
           "citacao": "o célebre \"Fado Hilário\", que Manassés de Lacerda (1885 - 1962) gravou em 1905, com acompanhamento ao piano."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "Fado Hylario [Moderno], disco Gramophono 3-62297, gravado no Porto em 1905 por Manassés de Lacerda"
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": ""
     },
     {
@@ -96,6 +102,35 @@
       ],
       "conflito": true,
       "nota": "O número 62382 diverge de 62384 (Galáxia Sonora, Museu do Fado). No Arquivo Sonoro do Museu do Fado, Gra. 62382 corresponde a um «Fado Amoroso» de Manassés."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado no Porto entre 1904 e 1905 (Gramophone, N.º Cat. 62.384)",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "o primeiro artista amador a registá-la fonograficamente nos discos Beka-Grand-Record, 7373, e Gramophone, N.º Cat. 62.384, ambos gravados no Porto entre 1904 e 1905."
+        }
+      ],
+      "conflito": true,
+      "nota": "O mesmo post dá, mais adiante, «Gramophono 3-62297, gravado no Porto em 1905»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado entre 1904 e 1906: uma das duas matrizes do «Fado Hylário Moderno» gravadas por Manassés (Gramophone 362297; a outra é o Beka 7373)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "Recorde-se que entre 1904-1906 Manassés gravou duas matrizes de Fado Hylário Moderno, respectivamente Beka 7373 e Gramophone 362297."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
     }
   ],
   "fontes": [
@@ -109,13 +144,13 @@
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/937/manasses_de_lacerda_fado_hilario",
       "doc": "museu-do-fado:wa7ce52d3a0fd338d",
-      "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra.3-62297, 62384"
+      "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Gra.3-62297, 62384"
     },
     {
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/939/manasses_de_lacerda_fado_hilario",
       "doc": "museu-do-fado:w38c2068196f69836",
-      "citacao": "Fado Hilário Manassés de Lacerda Editora: Gra. 62384"
+      "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Gra. 62384"
     },
     {
       "fonte": "gc-v",

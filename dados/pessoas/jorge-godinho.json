@@ -2,13 +2,460 @@
   "id": "jorge-godinho",
   "tipo": "pessoa",
   "nome": "Jorge Godinho",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "António Jorge Godinho Marques",
+    "António Jorge Maia Godinho Marques"
+  ],
   "papeis": [
     "guitarrista",
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "António Jorge Maia Godinho Marques nasceu em Coimbra, em 5 de Janeiro de 1938, na Rua de S. Salvador."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+      "doc": "gc-v:6166697663485785559",
+      "citacao": "A partir dos seus 14 ou 15 anos, começa ainda aluno do Liceu D. João III, a ter aulas de guitarra, com mestre Flávio Rodrigues ( 1902 1950)."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "Em 1955, aparece António Portugal com o seu grupo, talvez o mais homogéneo de quantos tem havido em Coimbra, grupo esse que Jorge Godinho integrou."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "Em 1957, grava em Madrid, para a Philips, num estúdio de excelentes condições técnico - acústicas, o célebre disco em 33 R.P.M. do Quinteto de Coimbra de que são conhecidas em Portugal pelo menos quinze edições com capa diferente."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "Por volta de 1959, depois de ter deixado de acompanhar António Portugal, integrou o grupo de Jorge Tuna, tendo gravado a solo, uma guitarrada de Flávio Rodrigues."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "Em Outubro de 1962, realiza-se uma das digressões do Grupo de Fados mais famosa, aos E.U.A., integrado no Orfeon, que se prolongou por 50 dias, durante os quais se realizaram 37 espectáculos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+      "doc": "gc-v:6166697663485785559",
+      "citacao": "Foi professor do ensino secundário, andava no 4º ano de Direito, quando se dá a sua morte, e deixa um legado de violista e guitarrista de Coimbra, profundamente assinalável."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+      "doc": "gc-ii:4911526081352462474",
+      "citacao": "O seu desaparecimento aos 34 anos constituiu também uma grande perda para a guitarra de Coimbra, em que Jorge Godinho se revelara um dos mais talentosos intérpretes do seu tempo."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "António Jorge Maia Godinho Marques",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "António Jorge Maia Godinho Marques nasceu em Coimbra, em 5 de Janeiro de 1938, na Rua de S. Salvador."
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia escrita pela viúva, Ana Maria Lopes, publicada no GC II (2008). Os outros textos omitem «Maia»: ver o facto seguinte."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "António Jorge Godinho Marques",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "ANTÓNIO JORGE GODINHO MARQUES, nasceu em Coimbra, a 5 de Janeiro de 1938"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "António JORGE GODINHO Marques. Nasceu em Coimbra a 5 de Janeiro de 1938"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 5 de Janeiro nasce em Coimbra António Jorge Godinho Marques (Aveiro, 16/07/1972)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Forma sem «Maia» (Manuel Marques Inácio, 2013 e 2014; cronologia de 2006)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, Rua de S. Salvador, 5 de janeiro de 1938",
+      "data": "1938-01-05",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "António Jorge Maia Godinho Marques nasceu em Coimbra, em 5 de Janeiro de 1938, na Rua de S. Salvador."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "ANTÓNIO JORGE GODINHO MARQUES, nasceu em Coimbra, a 5 de Janeiro de 1938"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "António JORGE GODINHO Marques. Nasceu em Coimbra a 5 de Janeiro de 1938"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1938 ... A 5 de Janeiro nasce em Coimbra António Jorge Godinho Marques"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Aveiro, 16 de junho de 1972, com 34 anos, vítima de leucemia",
+      "data": "1972-06-16",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "e veio a falecer em Aveiro, a 16 de Junho de 1972, com apenas 34 anos de idade. Uma leucemia incurável, leva bem cedo este jovem"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "faleceu em Aveiro a 16 de Junho de 1972."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "uma leucemia incurável lha ceifou, a 16 de Junho de 1972"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto seguinte: a cronologia de 2006 dá 16 de julho."
+    },
+    {
+      "campo": "morte",
+      "valor": "Aveiro, 16 de julho de 1972",
+      "data": "1972-07-16",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "A 5 de Janeiro nasce em Coimbra António Jorge Godinho Marques (Aveiro, 16/07/1972)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia de A. J. Soares e A. M. Nunes (2006), secção «1938»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Filho de António Godinho Marques (natural de Cabanões) e de Palmira Maia de Resende (natural de Cimo do Vila), Ovar",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Filho de António Godinho Marques (natural de Cabanões) e de Palmira Maia de Resende (natural de Cimo do Vila), Ovar"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia por Ana Maria Lopes (GC II, 2008)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III (Coimbra); curso de História na Faculdade de Letras de Coimbra (entrada em 1959, conclusão a 25 de julho de 1964); em 1972 frequentava o 4.º ano de Direito",
+      "data": "1964-07-25",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Frequentou o Liceu D. João III em Coimbra"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Entrou para a Faculdade de Letras em 1959 e concluiu o curso de História em 1964. Em 1972 frequentava, como voluntário, o 4º Ano de Direito, como era seu desejo."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "O Jorge concluiu o curso a 25 de Julho de 1964."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "licenciado em História pela Faculdade de Letras da Universidade de Coimbra, em 1964"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor do ensino secundário (Liceu Nacional da Figueira da Foz, onde criou um grupo de fados entre 1964 e 1967); docente do ISCA-UA",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "Foi professor do ensino secundário"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Passou a ser professor no Liceu Nacional da Figueira da Foz, actual Escola Secundária Dr. Joaquim de Carvalho, onde criou entre 1964 e 67 um grupo de fados"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/jorge-godinho.html",
+          "doc": "gc-ii:4686071725514362957",
+          "citacao": "O Conselho Directivo do ISCA-UA ... para prestar tributo ao Professor Jorge Godinho – membro do corpo docente do instituto no primeiro ano lectivo de funcionamento como escola integrada no ensino público, e falecido em 1972."
+        }
+      ],
+      "conflito": false,
+      "nota": "O tributo do ISCA-UA (2008) não indica o ano em que lá ensinou."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Em 1954, serenata no Penedo da Saudade e, em outubro, a primeira serenata na Sé Velha",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Em 1954, integra uma das primeiras serenatas levada a efeito no Penedo da Saudade (foto acima), com Levy Baptista, António Baptista Duarte, Paulo Morais Fonseca e Eurico Almiro Menezes e Castro. Em Outubro do mesmo ano, participa na primeira Serenata na Sé Velha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "Em 1954, já faz parte de um grupo de Fados e Guitarradas e participa numa Serenata na Sé Velha"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP do Quinteto de Coimbra (Coimbra Quintet), gravado em Madrid para a Philips em 1957; solista nas «Variações em Ré menor» de Almeida Santos",
+      "data": "1957",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Em 1957, grava em Madrid, para a Philips, num estúdio de excelentes condições técnico - acústicas, o célebre disco em 33 R.P.M. do Quinteto de Coimbra"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Neste disco, nas Variações em Ré menor de Almeida Santos, Jorge Godinho foi o solista"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia por Ana Maria Lopes (GC II, 2008)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Com o grupo de António Portugal (que perdurou até 1958), três discos de 45 rpm de «Fados e Guitarradas de Coimbra» para a Alvorada, acompanhando Luiz Goes, Fernando Machado Soares e Sutil Roque",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "O grupo perdurou até 1958 e gravou para a empresa discográfica Alvorada um conjunto de três discos em vinil, 45 R.P.M., de Fados e Guitarradas de Coimbra, tendo acompanhado os cantores Luiz Goes, Fernando Machado Soares e Sutil Roque."
+        }
+      ],
+      "conflito": false,
+      "nota": "Na ficha de Luiz Goes ficam as versões divergentes sobre a editora e o ano destes discos (1956, Alvorada; 1958, Rádio Triunfo)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Por volta de 1960, EP «Sé Velha, Guitarras de Coimbra» (Rapsódia), com o conjunto de Jorge Tuna",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Por volta de 1960, Jorge Godinho grava, com o conjunto de Jorge Tuna, para a Rapsódia, o disco EP, em vinil de 45 R.P.M. “Sé Velha, Guitarras de Coimbra”: Jorge Tuna e Jorge Godinho (g.), José Tito Mackay e Durval Moreirinhas (v.)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em Paris, LP de Germano Rocha para a Polydor (1963, com José Niza) e novo LP para a Barclay (1964, com Ernesto de Melo, José Niza e Durval Moreirinhas)",
+      "data": "1963",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "No ano seguinte, 1963, Jorge Godinho participou noutra digressão, desta vez à Suécia, à Gala dos Reais Clubes Escandinavos, que se realizou em Estocolmo, no Grand Hotel. ... Nesse mesmo ano, com José Niza (v.), Jorge Godinho (g.) gravou em Paris, para a Polydor, um LP cantado por Germano Rocha"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Lembro-me que no ano seguinte, 1964, o grupo voltou a deslocar-se a Paris, de novo para acompanhar Germano Rocha num novo LP para a Barclay, mas desta vez, Jorge Godinho e Ernesto de Melo à guitarra e José Niza e Durval Moreirinhas à viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia por Ana Maria Lopes (GC II, 2008)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Grupo de Fados do Orfeon aos Estados Unidos, a partir de outubro de 1962: 50 dias e 37 espetáculos",
+      "data": "1962-10",
+      "local": "Estados Unidos",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Em Outubro de 1962, realiza-se uma das digressões do Grupo de Fados mais famosa, aos E.U.A., integrado no Orfeon, que se prolongou por 50 dias, durante os quais se realizaram 37 espectáculos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão à Suécia em 1963 (Gala dos Reais Clubes Escandinavos, Estocolmo)",
+      "data": "1963",
+      "local": "Estocolmo",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "No ano seguinte, 1963, Jorge Godinho participou noutra digressão, desta vez à Suécia, à Gala dos Reais Clubes Escandinavos, que se realizou em Estocolmo, no Grand Hotel."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/agora-vamos-lembrar-mais-um-que-partiu_6.html",
+          "doc": "gc-v:6166697663485785559",
+          "citacao": "em 1963 à Suécia"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ver o facto seguinte: a cronologia de José Afonso da AJA data esta digressão de março de 1962."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão à Suécia com o Orfeon Académico em março de 1962 (Gala dos Reais Clubes Suecos), à guitarra com José Niza",
+      "data": "1962-03",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/cronologia/",
+          "doc": "aja:wddc15a953c5a5a5e",
+          "citacao": "Em Março de 1962, nova digressão como o Orfeon Académico, agora à Suécia, integrado num grupo constituído por Adriano Correia de Oliveira (voz), José Niza e Jorge Godinho (guitarras) e Durval Moreirinhas (viola), onde actuam na \"Gala dos Reais Clubes Suecos\"."
+        }
+      ],
+      "conflito": true,
+      "nota": "Cronologia de José Afonso (AJA)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Na Tuna Académica: violista no 70.º aniversário (25 de abril de 1959) e membro da Direção no ano letivo de 1960-61",
+      "data": "1959-04-25",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Em 25 de Abril de 1959 festejou - se o 70º Aniversário a Tuna Académica, em que Jorge Godinho participava como violista e interveio activamente nas comemorações."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "No ano lectivo de 60-61, fez parte da Direcção da Tuna Académica."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Tinha em Carlos Paredes o seu ídolo",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Amante da guitarra, tinha em Carlos Paredes, o Mago da Guitarra, o seu ídolo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Não se criou a relação «influenciado_por»: a fonte fala de ídolo, não de influência."
+    },
+    {
+      "campo": "outro",
+      "valor": "Casamento na Capela da Vista-Alegre (Ílhavo), a 11 de setembro de 1965, com Ana Maria Lopes, autora da biografia",
+      "data": "1965-09-11",
+      "local": "Ílhavo",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "casámo-nos na Capela da Vista-Alegre, Ílhavo, a 11 de Setembro de 1965."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/jorge-godinho.html",
+          "doc": "gc-iv:7953877370744722922",
+          "citacao": "É bom relembrar o que Ana Maria Lopes, sua viúva, escreveu em 2008."
+        }
+      ],
+      "conflito": false,
+      "nota": "A relação de cônjuge está na ficha de Ana Maria Lopes."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "aluno_de",
@@ -25,9 +472,130 @@
           "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/jorge-godinho-um-dos-ltimos-discpulos.html",
           "doc": "gc-ii:3745880532877471631",
           "citacao": "Jorge Godinho, um dos últimos discípulos de Flávio e Fernando Rodrigues da Silva."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "com os seus 14 a 15 anos, tem algumas lições com um barbeiro – guitarrista da alta coimbrã da Rua da Matemática, o Flávio Rodrigues."
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "fernando-rodrigues-da-silva",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/jorge-godinho-um-dos-ltimos-discpulos.html",
+          "doc": "gc-ii:3745880532877471631",
+          "citacao": "Jorge Godinho, um dos últimos discípulos de Flávio e Fernando Rodrigues da Silva."
+        }
+      ],
+      "nota": "«Discípulo»: a fonte não diz de que instrumento."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jose-niza",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Nesse mesmo ano, com José Niza (v.), Jorge Godinho (g.) gravou em Paris, para a Polydor, um LP cantado por Germano Rocha"
+        }
+      ],
+      "nota": "Gravação em Paris (1963) do LP de Germano Rocha."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "as guitarras de António Portugal e Jorge Godinho, as violas de Manuel Pepe e Levy Baptista acompanham o cantor Luiz Goes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "tendo como acompanhadores António Portugal, Jorge Godinho (guitarras), Manuel Pepe e Levi Batista (violas)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Depois, e até 1958, será ainda acompanhado pelas guitarras de Fernando Xavier, Jorge Godinho, Dário Cruz, David Leandro Ribeiro e José Niza"
+        }
+      ],
+      "nota": "2.ª guitarra no disco do Coimbra Quintet (Madrid, 1957) e nos EP «Fados e Guitarradas de Coimbra»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "O grupo perdurou até 1958 e gravou para a empresa discográfica Alvorada um conjunto de três discos em vinil, 45 R.P.M., de Fados e Guitarradas de Coimbra, tendo acompanhado os cantores Luiz Goes, Fernando Machado Soares e Sutil Roque."
+        }
+      ],
+      "nota": "Nos EP «Fados e Guitarradas de Coimbra» (Alvorada)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "O grupo perdurou até 1958 e gravou para a empresa discográfica Alvorada um conjunto de três discos em vinil, 45 R.P.M., de Fados e Guitarradas de Coimbra, tendo acompanhado os cantores Luiz Goes, Fernando Machado Soares e Sutil Roque."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Jorge Godinho e Jorge Tuna (guitarras) e José Niza e Durval Moreirinhas (violas) acompanharam Sousa Pereira, Barros Madeira e Sutil Roque."
+        }
+      ],
+      "nota": "EP «Fados e Guitarradas de Coimbra» (Alvorada) e disco «Coimbra Orfeon of Portugal» (Monitor)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "É de destacar a sessão no Lincoln Center de Nova Iorque, uma das maiores casas de espectáculos do mundo, em que Adriano Correia de Oliveira brilhou, acompanhado por Jorge Tuna, Jorge Godinho (guitarras) e Durval Moreirinhas (viola)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Para além de José Afonso e Adriano Correia de Oliveira, participou a fadista lisboeta e castiça Esmeralda Amoedo, tendo os acompanhamentos sido assegurados, para além de Jorge Godinho, por José Niza (g.) e Durval Moreirinhas (v.)."
+        }
+      ],
+      "nota": "Digressão do Orfeon aos Estados Unidos (1962) e à Suécia (datada de 1963 nesta fonte)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Eduardo Melo e Jorge Godinho (g.) e Frias Gonçalves (v.) acompanharam o cantor José Miguel Baptista."
+        }
+      ],
+      "nota": "Digressão da Tuna pelo Algarve e Setúbal (1964)."
     },
     {
       "tipo": "membro_de",
@@ -44,6 +612,18 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2022/09/na-pre-historia-do-coimbra-quintet.html",
           "doc": "gc-v:1760813732173371136",
           "citacao": "Na sua fase mais estável a formação contava com as seguintes presenças regulares: António Portugal (1.º gC), Jorge Godinho (2.º gC), Manuel Pepe (v), Levi Baptista (v), Fernando Machado Soares (tenor), Fernando Rolim (tenor), António Sutil Roque (tenor), José Afonso (2.º tenor), Luiz Goes (barítono) e José Henrique Dias (tenor)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Em 1955, aparece António Portugal com o seu grupo, talvez o mais homogéneo de quantos tem havido em Coimbra, grupo esse que Jorge Godinho integrou."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "integra o Quinteto de Coimbra, mais uma vez liderado por António Portugal e contando desta vez com Jorge Godinho, Manuel Pepe e Levy Baptista."
         }
       ],
       "nota": "2.ª guitarra (2.º gC)"

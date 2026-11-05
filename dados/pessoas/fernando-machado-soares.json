@@ -7,9 +7,59 @@
   ],
   "papeis": [
     "cantor",
-    "compositor"
+    "compositor",
+    "poeta"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Natural de São Roque do Pico, Açores, onde nasceu a 3 de Setembro de 1930, frequentou o Liceu de Ponta Delgada, chegando ao Continente, em 1952, para frequentar o curso jurídico na Universidade de Coimbra, que concluiu em 1958."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Integrou o Orfeão Académico de Coimbra, tendo feito parte das digressões ao Brasil (1954) e aos Estados Unidos (1961), bem como a Tuna Académica de Coimbra, tendo-se deslocado a África em 1956."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Gravou, pela primeira vez, em 1956, vocalizando “Fado da Noite” e “Balada do Entardecer” e, em 1958, “O que mais me prende ao mundo”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Foi autor da música da “Balada do 6º ano médico de 1958/59”, bem conhecida pelo refrão “Coimbra tem mais encanto na hora da despedida”, cuja letra é da autoria do então estudante de medicina Francisco Bandeira Mateus."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Igualmente nos primeiros anos da década de 60 as influências de Fernando Machado Soares se fizeram sentir quando, aos fins-de-semana, chegado de localidades onde exercia a sua carreira de magistrado, pernoitava na república Baco, e cantava acompanhado por José Niza (g.C) e Manuel Pepe, entre outros."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Juiz-Conselheiro do Supremo Tribunal de Justiça, manteve o seu gosto de cantar até ao fim da sua vida."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Em 2006 recebeu o Prémio Tributo Amália Rodrigues “pela excelência da carreira artística”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
+      "doc": "gc-v:1823855718489259425",
+      "citacao": "Faleceu no passado domingo, dia 7 de Dezembro, em Almada, com 84 anos, Fernando Machado Soares."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -172,10 +222,62 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2014/12/voto-de-pesar-pelo-falecimento-de.html",
           "doc": "gc-v:1823855718489259425",
           "citacao": "Juiz-Conselheiro do Supremo Tribunal de Justiça, manteve o seu gosto de cantar até ao fim da sua vida."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares/",
+          "doc": "rtp-arquivos:wbe3d34ae93101be7",
+          "citacao": "Fernando Machado Soares, juiz conselheiro do Supremo Tribunal de Justiça, cantor e compositor da canção de Coimbra e Administrador da Fundação Amália Rodrigues"
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares-2/",
+          "doc": "rtp-arquivos:w4faf62070bedc73f",
+          "citacao": "Maria João Gama conversa em estúdio com Fernando Machado Soares, magistrado, cantor, poeta e compositor"
         }
       ],
       "conflito": false,
-      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
+      "nota": "Voto de pesar da AR (2014), baseado em texto de Jorge Cravo; e ficha da RTP do programa «Há Conversa I» (RTP Memória). A ficha da RTP do programa «Há Conversa III» (RTP Memória, 2011) chama-lhe «magistrado, cantor, poeta e compositor» (é a citação que sustenta o papel «poeta»)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Administrador da Fundação Amália Rodrigues",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fernando-machado-soares/",
+          "doc": "rtp-arquivos:wbe3d34ae93101be7",
+          "citacao": "Fernando Machado Soares, juiz conselheiro do Supremo Tribunal de Justiça, cantor e compositor da canção de Coimbra e Administrador da Fundação Amália Rodrigues"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha da RTP do programa «Há Conversa I» (RTP Memória), entrevista de Maria João Gama."
+    },
+    {
+      "campo": "outro",
+      "valor": "«Fado do Estudante» («Fecha os olhos de mansinho»), de Fernando Machado Soares (música, segundo o GC V, 2015), gravado por Luiz Goes em 1957 no álbum «Serenata de Coimbra» (Philips, gravado em Madrid)",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "O álbum “Serenata de Coimbra”, gravado em Madrid e publicado pela Philips em 1957, torna-se um êxito internacional, com reedições ao longo das décadas seguintes e em diversos países. Aí encontramos de novo a vertente autoral de Luiz Goes, com \"O Meu Desejo”, para além do “Fado do Estudante”, de Fernando Machado Soares, ou de guitarradas de António Portugal."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "Título original: Fado Maria (serenata) Incipit: Fecha os olhos de mansinho ... Letra: 1ª quadra de autor desconhecido; 2ª quadra de Vicente Arnoso ... Esta letra é, com diminutas alterações, a mesma que na segunda metade da década de 1950 Fernando Machado Soares incorporou no conhecido Fado do Estudante (gravado em 1957 por Luís Goes)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_26.html",
+          "doc": "gc-v:1632211415552555723",
+          "citacao": "FADO DO ESTUDANTE (Fecha os olhos de mansinho), música de Fernando Machado Soares, 1.ª quadra de Tarquínio Bettencourt, 2.ª quadra de Vicente Arnoso."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do Gramofone (RTP Memória), de João Carlos Callixto. O inventário de António Manuel Nunes (GC I, 2005) diz que a letra do Fado Maria («Fecha os olhos de mansinho») é, «com diminutas alterações», a que Machado Soares incorporou no Fado do Estudante. O post de 26-01-2015 (GC V, série sobre o LP «Fados from Coimbra») dá o incipit e precisa que é de Machado Soares a música. Sobre a letra, as fontes divergem quanto à 1.ª quadra: o GC I (2005) dá-a como «de autor desconhecido» e o GC V (2015) como de Tarquínio Bettencourt; ambos dão a 2.ª quadra a Vicente Arnoso."
     },
     {
       "campo": "premio",
@@ -206,6 +308,20 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado na VIII Grande Noite do Fado Académico, a 18 de novembro, no Mosteiro de S. Bento da Vitória",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/homenagem-fernando-machado-soares-na.html",
+          "doc": "gc-i:116350373559452854",
+          "citacao": "Homenagem a Fernando Machado Soares na VIII Grande Noite do Fado Académico, dia 18 de Novembro, no Mosteiro S. Bento da Vitória."
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto não indica o ano; o post é de 14-11-2006."
     }
   ],
   "relacoes": [

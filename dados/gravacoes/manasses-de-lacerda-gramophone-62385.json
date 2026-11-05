@@ -4,7 +4,7 @@
   "formato": "disco de massa",
   "editora": "Gramophone (Disque Pour Gramophone)",
   "referencia": "G.C.-62385",
-  "ano": "",
+  "ano": "1905",
   "local": "Porto",
   "interpretes": [
     {
@@ -55,11 +55,38 @@
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/932/manasses_de_lacerda_fado_das_lagrimas",
           "doc": "museu-do-fado:w230c847b224650f0",
-          "citacao": "Fado das Lágrimas Manassés de Lacerda Editora: Gra.62385"
+          "citacao": "Fado das Lágrimas … Manassés de Lacerda … Editora: Gra.62385"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "Lágrimas, gravado ca. 1905 por Manassés de Lacerda: Fado das Lágrimas cantado pelo Senhor Manassés [de] Lacerda (Ó fonte que estás chorando), Porto, Disque Pour Gramophone 3-62292; idem, 62385, com exemplares vendidos na casa Ricardo Lemos. Manassés não especifica quaisquer autorias na etiqueta do fonograma, nem o nome do pianista que faz o acompanhamento."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/uma-perspectiva-crtica-sobre-o-chamado.html",
+          "doc": "gc-i:112378822812281145",
+          "citacao": "Gravado pela primeira vez por volta de 1905, por Manassés de Lacerda, com acompanhamento de piano sob o título Fado das Lágrimas (Disco Gramophone, 62385)."
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em 1905, em Lisboa (?), com acompanhamento de piano (Gramophone 62385; idem, 3-62292)",
+      "data": "1905",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+          "doc": "gc-iv:3869478767060763956",
+          "citacao": "Serenata gravada em 1905, em Lisboa (?), pelo próprio Manassés de Lacerda, com acompanhamento de piano (Disco Gramophone, 62385; idem, 3-62292)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Local diferente (Lisboa, com dúvida) do indicado nos outros documentos (Porto)."
     },
     {
       "campo": "outro",
@@ -93,7 +120,7 @@
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/932/manasses_de_lacerda_fado_das_lagrimas",
       "doc": "museu-do-fado:w230c847b224650f0",
-      "citacao": "Fado das Lágrimas Manassés de Lacerda Editora: Gra.62385"
+      "citacao": "Fado das Lágrimas … Manassés de Lacerda … Editora: Gra.62385"
     }
   ],
   "estado_revisao": "rascunho"

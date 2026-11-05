@@ -8,8 +8,110 @@
   "papeis": [
     "guitarrista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-cano-da-primavera-2-de.html",
+      "doc": "gc-i:111792881672329434",
+      "citacao": "É a música de abertura do \"Grupo de Fados\" dos Antigos Orfeonistas, com execução primorosa a cargo de Manuel Mora"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-em-mi-m-4-de.html",
+      "doc": "gc-i:111806706590486865",
+      "citacao": "Peça de uma beleza ímpar, com um trabalho invulgar do segundo guitarra; foi já executada muitas vezes por mim e Manuel Mora, integrados no Grupo de Fados dos Antigos Orfeonistas."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "E, dos anos 80 para cá, a atenção de um Octávio Sérgio, de um Fernando Frias Gonçalves e de um Manuel Mora aos seus temas inéditos vieram a torná-lo um criador acessível aos interessados"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Guitarra no Grupo de Fados dos Antigos Orfeonistas da Universidade de Coimbra, com Octávio Sérgio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "mais tarde o respectivo Grupo de Fados (com Manuel Mora [g.], Carlos Caiado, Custódio Moreirinhas e «Ni» Ferreirinha [vv.])"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-em-mi-m-4-de.html",
+          "doc": "gc-i:111806706590486865",
+          "citacao": "foi já executada muitas vezes por mim e Manuel Mora, integrados no Grupo de Fados dos Antigos Orfeonistas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "No Grupo de Fados actual dos Antigos Orfeonistas tem por privilégio a companhia instrumental de Octávio Sérgio, e bem assim de Manuel Mora, Carlos Caiado e Custódio Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": "A primeira citação é de Armando Luís de Carvalho Homem, sobre Octávio Sérgio; a segunda, de Octávio Sérgio (autor do blogue); a terceira, da nota biográfica sobre José Miguel Baptista no texto assinado «Por José Miguel Batista *» (GC I, 2005). O grupo não tem ficha própria."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarra no Grupo de Fados e Guitarradas dos Antigos Tunos",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/grupo-de-fados-e-guitarradas-dos_05.html",
+          "doc": "gc-i:112593120817937492",
+          "citacao": "Grupo de Fados e Guitarradas dos Antigos Tunos na Palheira, Assafarge, ontem. Manuel Mora a tocar guitarra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 5-9-2005."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Organizou o CD não comercial «Raridades» (1999), que inclui as «Variações em Lá M» de Armando de Carvalho Homem (faixa 10)",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Vejam-se as «Variações me Lá M», incl. no CD não-comercial, Raridades, org. Manuel MORA, 1999, faixa 10."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de rodapé do texto de Armando Luís de Carvalho Homem sobre Armando de Carvalho Homem (1923-1991), reproduzido no GC II («me» é grafia do post)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Passou a CD, com Octávio Sérgio, gravações de ensaios de Armando de Carvalho Homem",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Ficaram as precárias gravações de alguns ensaios. Postas em mãos competentes, conheceram já transposições para CD (por Manuel Mora e Octávio Sérgio)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+          "doc": "gc-i:111413526000163649",
+          "citacao": "conheceram já transposições para CD (por Manuel Mora e Octávio Sérgio)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -29,9 +131,54 @@
         }
       ],
       "nota": "guitarra; digressão de 2004"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/partitura-de-variaes-em-mi-m-4-de.html",
+          "doc": "gc-i:111806706590486865",
+          "citacao": "foi já executada muitas vezes por mim e Manuel Mora, integrados no Grupo de Fados dos Antigos Orfeonistas."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/11/variacoes-em-la-m-de-armando-de.html",
+          "doc": "gc-iii:2684993309181300916",
+          "citacao": "Variações em Lá m de Armando de Carvalho Homem, tocadas em Perosinho, por Octávio Sérgio e Manuel Mora nas guitarras, Armando Luís de Carvalho Homem e Jorge Rino nas violas, numa homenagem a Nuno Guimarães em 18-1-1997."
+        }
+      ],
+      "nota": "guitarras, no Grupo de Fados dos Antigos Orfeonistas e noutras ocasiões."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-miguel-baptista",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/amanhecer-de-um-mtodo-nova-luz-para.html",
+          "doc": "gc-i:111654787382911590",
+          "citacao": "No Grupo de Fados actual dos Antigos Orfeonistas tem por privilégio a companhia instrumental de Octávio Sérgio, e bem assim de Manuel Mora, Carlos Caiado e Custódio Moreirinhas."
+        }
+      ],
+      "nota": "guitarra, no Grupo de Fados dos Antigos Orfeonistas (nota biográfica de 2005 sobre José Miguel Baptista, no texto assinado «Por José Miguel Batista *», GC I)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Mora.jpg",
+      "legenda": "Manuel Mora a tocar guitarra, com o Grupo de Fados e Guitarradas dos Antigos Tunos, na Palheira, Assafarge.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/grupo-de-fados-e-guitarradas-dos_05.html",
+          "doc": "gc-i:112593120817937492",
+          "citacao": "Grupo de Fados e Guitarradas dos Antigos Tunos na Palheira, Assafarge, ontem. Manuel Mora a tocar guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

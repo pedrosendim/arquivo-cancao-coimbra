@@ -7,8 +7,159 @@
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+      "doc": "gc-i:111696253640346453",
+      "citacao": "Um dia António Eustáquio é surpreendido com um telefonema da companheira de Carlos Paredes que lhe diz que gostava de lhe mostrar um instrumento que lá estava em casa, “e eu fiquei fascinado com os sons, gravámos logo uma cassete que ela levou ao Sr. Grácio."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+      "doc": "gc-i:111696253640346453",
+      "citacao": "Carlos Paredes idealizou-o, Gilberto Grácio construiu-o e António Eustáquio é o homem que tem a missão de o apresentar oficialmente."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+      "doc": "gc-i:112051755876842351",
+      "citacao": "Foi o compositor e instrumentista de Portalegre António Eustáquio que estreou a nova sonoridade nacional, num concerto que contou com a presença do Quarteto Ibero-Americano"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+      "doc": "gc-i:112051755876842351",
+      "citacao": "tendo já gravado, em guitarra portuguesa, a obra de Vivaldi para alaúde e, mais recentemente, transcrições de sonatas de Bach para órgão."
+    }
+  ],
   "factos": [
+    {
+      "campo": "naturalidade",
+      "valor": "Portalegre («o compositor e instrumentista de Portalegre», segundo o Diário de Notícias)",
+      "data": "",
+      "local": "Portalegre",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+          "doc": "gc-i:112051755876842351",
+          "citacao": "Foi o compositor e instrumentista de Portalegre António Eustáquio"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do Diário de Notícias de 20/06/2005 (Roberto Dores), reproduzido no GC I. Gilberto Grácio diz que é de Marvão (ver o facto seguinte). Nenhuma das fontes fala de nascimento."
+    },
+    {
+      "campo": "naturalidade",
+      "valor": "Marvão («António Eustáquio é de lá», segundo Gilberto Grácio)",
+      "data": "",
+      "local": "Marvão",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/apresentao-do-guitolo-no-museu-do-fado.html",
+          "doc": "gc-i:112079233708132084",
+          "citacao": "No passado dia 18 na vila de Marvão, foi inaugurado o instrumento. E por quê Marvão? ... António Eustáquio é de lá"
+        }
+      ],
+      "conflito": true,
+      "nota": "Palavras de Gilberto Grácio na apresentação do guitolão no Museu do Fado, transcritas no GC I (2005). O DN diz «de Portalegre» (ver o facto anterior)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Guitarrista do grupo «Camerata Lusitana», com o violinista António Miranda",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/antonio-eustaquio-e-antonio-miranda-2/",
+          "doc": "rtp-arquivos:w935780238cb1c233",
+          "citacao": "Entrevista realizada por Sérgio Sequeira a António Eustáquio, guitarrista, e António Miranda, violinista, elementos do grupo musical \"Camerata Lusitana\"."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/antonio-eustaquio-e-antonio-miranda/",
+          "doc": "rtp-arquivos:w8fbb444d13dc0e5b",
+          "citacao": "Entrevista realizada por Raquel Santos a António Eustáquio e António Miranda, membros do grupo musical \"Camerata Lusitana\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+          "doc": "gc-i:111696253640346453",
+          "citacao": "António Miranda, seu companheiro no projecto Camerata Lusitana"
+        }
+      ],
+      "conflito": false,
+      "nota": "Fichas da RTP Internacional (programa «Entre Nós»), de 2003 e 2004. Nem a Camerata Lusitana nem António Miranda têm ficha."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «António Vivaldi em guitarra portuguesa» e CD «J. S. Bach em guitarra portuguesa», ambos editados pela Camerata Lusitana em 2005",
+      "data": "2005",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/contracapa-do-cd-antnio-vivaldi-em.html",
+          "doc": "gc-i:111974665378421430",
+          "citacao": "Contracapa do CD, \"António Vivaldi em Guitarra portuguesa\", de António Eustáquio, editado pela Camerata Lusitana, no ano de 2005."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/contracapa-do-cd-j.html",
+          "doc": "gc-i:111975196721403200",
+          "citacao": "Contracapa do CD \"J. S. Bach em guitarra portuguesa\", de António Eustáquio, editado pela Camerata Lusitana no ano de 2005."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/texto-do-dirio-de-notcias-de-20062005.html",
+          "doc": "gc-i:112051755876842351",
+          "citacao": "tendo já gravado, em guitarra portuguesa, a obra de Vivaldi para alaúde e, mais recentemente, transcrições de sonatas de Bach para órgão."
+        }
+      ],
+      "conflito": false,
+      "nota": "A ficha da RTP de 5-3-2003 (programa «Entre Nós», rtp-arquivos:w935780238cb1c233, citada no facto da Camerata Lusitana) já fala do «primeiro disco editado baseado, somente em obras de António Vivaldi». Nenhuma fonte diz se é o mesmo disco que o CD «António Vivaldi em guitarra portuguesa» (2005): fica para o editor."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitolão de Gilberto Grácio: detentor do primeiro exemplar",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/nasceu-um-novo-instrumento-portugus.html",
+          "doc": "gc-i:111696253640346453",
+          "citacao": "António Eustáquio, detentor do primeiro exemplar deste novo instrumento, vai apresentá-lo publicamente, no dia 18 de Junho, em Marvão, acompanhado pelo Quarteto Iberoamericano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Isabel Damião no jornal «O Primeiro de Janeiro», reproduzido no GC I (2005). As fontes divergem sobre quem idealizou o guitolão (Carlos Paredes, segundo este texto; só Gilberto Grácio, segundo o próprio, no GC I): é assunto da ficha do instrumento e de Gilberto Grácio."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Apresentou o guitolão com Gilberto Grácio no Museu do Fado, em Lisboa, no «dia 6 deste mês»",
+      "data": "",
+      "local": "Lisboa, Museu do Fado",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/apresentao-do-guitolo-no-museu-do-fado.html",
+          "doc": "gc-i:112079233708132084",
+          "citacao": "Perante uma sala a abarrotar de gente, Gilberto Grácio e António Eustáquio apresentaram o novo instrumento a que Gilberto Grácio deu o nome de Guitolão."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/lanamento-do-guitolo-no-mu_112079022285241729.html",
+          "doc": "gc-i:112079022285241729",
+          "citacao": "Lançamento do Guitolão no Museu do Fado, dia 6 deste mês. António Eustáquio em plena actuação."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os dois posts do GC I são de 8-7-2005; o mês não está no texto, sai da data dos posts. Um post de Octávio Sérgio de 4-7-2005 (gc-i:112051755876842351), a seguir ao texto do DN, anunciava a apresentação em Lisboa, no Museu do Fado, para «a próxima quarta feira, dia 6»."
+    },
     {
       "campo": "atividade",
       "valor": "Guitarrista e compositor",

@@ -2,16 +2,90 @@
   "id": "antonio-bernardino",
   "tipo": "pessoa",
   "nome": "António Bernardino",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "António Bernardino Pires dos Santos"
+  ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "António Bernardino Pires dos Santos (Berna), nasceu em 20 de Agosto de 1941 em Óis da Ribeira, concelho de Águeda. Fez o liceu em Aveiro onde deu os primeiros passos nas cantigas, não só na Récita de Finalistas de 61/62, como também em inúmeras serenatas, tão em voga na época."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "Chegou a Coimbra em 1963 e desde logo as suas grandes capacidades de intérprete o guindaram à ribalta da Canção Coimbrã."
+    },
+    {
+      "fonte": "rtp-memoria-gramofone",
+      "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+      "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+      "citacao": "Estávamos então em 1966 e o selo Alvorada, da Rádio Triunfo, foi o que primeiro albergou o cantor. Contando com os músicos António Portugal e Manuel Borralho (nas guitarras portuguesas) e Rui Pato (na guitarra clássica), os dois discos que Bernardino grava para a editora portuense tiveram por título “Fados de Coimbra” e foram gravados no Convento de Salreu."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "Em 1967 foi mobilizado para a guerra colonial, em Moçambique, local onde permaneceu até 1974. Regressado de África, passou a residir em Lisboa a partir de 1975."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "Em 1969 grava o LP “Flores para Coimbra”, sem dúvida o seu trabalho mais importante e que marcou um momento histórico de viragem."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "António Bernardino foi, seguramente, o cantor que mais divulgou a canção de Coimbra no estrangeiro."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "No dia 10 de Junho de 1995, foi agraciado pelo então Presidente da Republica Dr. Mário Soares, com a Comenda da Ordem do Infante D. Henrique, por serviços relevantes prestados à cultura."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+      "doc": "gc-i:112182234851965479",
+      "citacao": "Faleceu em Junho de 1996."
+    }
+  ],
   "factos": [
     {
+      "campo": "nome_completo",
+      "valor": "António Bernardino Pires dos Santos, dito «Berna»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "António Bernardino Pires dos Santos (Berna), nasceu em 20 de Agosto de 1941 em Óis da Ribeira, concelho de Águeda."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Nasce a 20 de Agosto, em Águeda António Bernardino Pires dos Santos (dito Berna, 1941-1996)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
       "campo": "nascimento",
-      "valor": "1941",
-      "data": "1941",
+      "valor": "Óis da Ribeira, concelho de Águeda, 20 de agosto de 1941",
+      "data": "1941-08-20",
+      "local": "Óis da Ribeira (Águeda)",
       "fontes": [
         {
           "fonte": "jorge-cravo",
@@ -24,25 +98,89 @@
           "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
           "doc": "jorge-cravo:w2b1b6238abc68f9d",
           "citacao": "António Bernardino (1941-1996)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "António Bernardino Pires dos Santos (Berna), nasceu em 20 de Agosto de 1941 em Óis da Ribeira, concelho de Águeda."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Nasce a 20 de Agosto, em Águeda António Bernardino Pires dos Santos (dito Berna, 1941-1996)."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "nasceu na localidade de Óis da Ribeira, em Águeda, em 1941, e deixou-nos com 55 anos incompletos, em 1996."
         }
       ],
-      "conflito": false,
-      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (BMC, 2025)."
+      "conflito": true,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (BMC, 2025). O dia e o local vêm da biografia publicada no GC I (2005), da cronologia do GC I (2006) e da ficha do Gramofone (João Carlos Callixto, RTP Memória). Há fontes que dão 1942 (facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1942",
+      "data": "1942",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/07/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:4827172201956344808",
+          "citacao": "Solos vocais de António Bernardino Pires dos Santos (1942-1996), 2.º tenor."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/estrelas-na-galaxia-sonora-coimbra-o_19.html",
+          "doc": "gc-v:941700449180573107",
+          "citacao": "Solos vocais de António Bernardino Pires dos Santos (1942-1996), 2.º tenor."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/herana-possvel-d-os-melos-na-guitarra.html",
+          "doc": "gc-i:111029901181314688",
+          "citacao": "José Mesquita e António Bernardino (1942-1996)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/herana-possvel-d-os-melos-na-guitarra.html",
+          "doc": "gc-i:1997373492370902763",
+          "citacao": "José Mesquita e António Bernardino (1942-1996)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Textos de António Manuel Nunes (GC V, 2016: «Estrelas na galáxia sonora coimbrã: o lugar e o legado de Nuno Guimarães», VIII e IX, sobre os EP da OFIR de 1967) e de Armando Luís de Carvalho Homem («A herança possível d'\"os Melos\" na Guitarra de Coimbra», publicado no GC I em 2005 e em 2007). As outras fontes dão 20 de agosto de 1941 (facto anterior)."
     },
     {
       "campo": "morte",
-      "valor": "1996",
-      "data": "1996",
+      "valor": "junho de 1996",
+      "data": "1996-06",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "António Bernardino (1941-1996)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Faleceu em Junho de 1996."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "nasceu na localidade de Óis da Ribeira, em Águeda, em 1941, e deixou-nos com 55 anos incompletos, em 1996."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O mês vem da biografia publicada no GC I (2005; reproduzida em 2007)."
     },
     {
       "campo": "gravacao",
@@ -74,10 +212,210 @@
           "url": "https://biblioteca.cm-coimbra.pt/Catalogo/_client/noticias/2025_08_estemesouvimos.pdf",
           "doc": "jorge-cravo:w2b1b6238abc68f9d",
           "citacao": "e de António Bernardino (1941-1996) – com o LP “Flores para Coimbra” (1969)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Em 1969 grava o LP “Flores para Coimbra”, sem dúvida o seu trabalho mais importante e que marcou um momento histórico de viragem."
+        }
+      ],
+      "conflito": true,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e BMC (2025), que o liga ao «Movimento das Trovas». A biografia do GC I diz que o gravou em 1969. O Gramofone (João Carlos Callixto) diz que foi editado em 1970 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Flores para Coimbra», único álbum do cantor, editado em 1970 pela Orfeu",
+      "data": "1970",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "“Flores para Coimbra” (texto de Manuel Alegre e música de Joaquim Fernandes), é a canção-título do único álbum do cantor, editado em 1970 também pela Orfeu"
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha do Gramofone (João Carlos Callixto, RTP Memória). As outras fontes datam o LP de 1969 (facto anterior)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeiro disco em 1964, com «Samaritana» e «Fado do 5.º Ano Médico»",
+      "data": "1964",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Gravou o seu primeiro disco em 1964 do qual faziam parte a “Samaritana” e “Fado do 5º Ano Médico”."
+        }
+      ],
+      "conflito": true,
+      "nota": "Biografia publicada no GC I (2005; reproduzida em 2007). O Gramofone (Callixto) dá os primeiros discos em 1966 e a «Samaritana» num EP da Orfeu da viragem de 1966 para 1967 (facto seguinte)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeiros discos em 1966, no selo Alvorada (Rádio Triunfo); produção discográfica em nome próprio entre 1966 e 1970",
+      "data": "1966",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "toda a sua produção discográfica em nome próprio se desenrolou ao longo de um período de cinco anos, entre 1966 e 1970."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Estávamos então em 1966 e o selo Alvorada, da Rádio Triunfo, foi o que primeiro albergou o cantor."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Na Orfeu, sai então na viragem de 1966 para 1967 novo EP com o título “Fados de Coimbra”, em que é incluída a clássica “Samaritana” que em jovem tinha impressionado Bernardino."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha do Gramofone (João Carlos Callixto, RTP Memória). A biografia do GC I dá o primeiro disco em 1964 (facto anterior)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Récita de despedida dos finalistas do Liceu de Aveiro, no Teatro Aveirense, a 2 de março de 1962 («Récita de Finalistas de 61/62»)",
+      "data": "1962-03-02",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/antonio-bernardino.html",
+          "doc": "gc-v:7686889884794586295",
+          "citacao": "Esta foto refere-se à récita de despedida dos finalistas do Liceu de Aveiro, que teve lugar no Teatro Aveirense em 2 de março de 1962. O cantor, de pé, com capa e batina, é o jovem António Bernardino."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "não só na Récita de Finalistas de 61/62"
         }
       ],
       "conflito": false,
-      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e BMC (2025), que o liga ao «Movimento das Trovas»."
+      "nota": "Texto de António Manuel Nunes (GC V, 2014) e biografia do GC I. No mesmo post de 2014, um comentário reproduzido, de António Andias, diz que a notícia está correta e acrescenta a récita de finalistas de 1963 (facto seguinte)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Récita de finalistas do liceu em 1963: «o Berna foi finalista comigo em 1963»",
+      "data": "1963",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/antonio-bernardino.html",
+          "doc": "gc-v:7686889884794586295",
+          "citacao": "A noticia publicada está correta, mas há uma lacuna nas datas, pois o Berna foi finalista comigo em 1963, tendo ambos ido frequentar o 1º. Ano da Faculdade nesse ano ... \"Récita Finalistas Liceu (1963) - Castro_Cruz_Berna_Andias_Tudd\""
+        }
+      ],
+      "conflito": false,
+      "nota": "Comentário de António Andias, finalista com ele em 1963, reproduzido no post do GC V de 2014 (António Manuel Nunes); diz que a notícia de 1962 está correta e acrescenta a récita de 1963. Ver o facto anterior (1962)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu em Aveiro; licenciatura em Ciências Geográficas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Fez o liceu em Aveiro onde deu os primeiros passos nas cantigas ... Licenciado em Ciencias Geográficas"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Vice-presidente dos Serviços Sociais da Universidade de Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Licenciado em Ciencias Geográficas, exerceu o cargo de Vice-presidente dos Serviços Sociais da Universidade de Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "residencia",
+      "valor": "Moçambique (mobilizado para a guerra colonial em 1967, aí permaneceu até 1974); Lisboa, a partir de 1975",
+      "data": "1967",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "Em 1967 foi mobilizado para a guerra colonial, em Moçambique, local onde permaneceu até 1974. Regressado de África, passou a residir em Lisboa a partir de 1975."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "3.º Festival de Vilar de Mouros, a 12 de agosto de 1967, integrado no Grupo de Serenatas de Coimbra",
+      "data": "1967-08-12",
+      "local": "Vilar de Mouros",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Ainda nesse ano de 1967, o cantor apresenta-se ao vivo no 3.º Festival de Vilar de Mouros, a 12 de Agosto, integrado no Grupo de Serenatas de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha do Gramofone (João Carlos Callixto, RTP Memória). O «Grupo de Serenatas de Coimbra» não tem ficha; não confundir com o Grupo Serenata de Coimbra, fundado em Lisboa em 1981."
+    },
+    {
+      "campo": "premio",
+      "valor": "Comenda da Ordem do Infante D. Henrique, atribuída pelo Presidente da República Mário Soares a 10 de junho de 1995",
+      "data": "1995-06-10",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "No dia 10 de Junho de 1995, foi agraciado pelo então Presidente da Republica Dr. Mário Soares, com a Comenda da Ordem do Infante D. Henrique, por serviços relevantes prestados à cultura."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem na Aula Magna da Universidade de Lisboa, a 21 de junho de 1997",
+      "data": "1997-06-21",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/05/homenagem-antnio-bernardino-na-aula.html",
+          "doc": "gc-ii:6232892377783286565",
+          "citacao": "Homenagem a António Bernardino na Aula Magna da Universidade de Lisboa, a 21 de Junho de 1997."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -106,6 +444,57 @@
         }
       ],
       "nota": "cantor"
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "António Bernardino considerou-se influenciado por José Afonso, Adriano Correia de Oliveira e pela poesia de Manuel Alegre."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Tendo como referências tanto a voz mais veterana de António Menano como as mais próximas de José Afonso e Adriano Correia de Oliveira"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/biografia-de-antnio-bernardino-antnio.html",
+          "doc": "gc-i:112182234851965479",
+          "citacao": "António Bernardino considerou-se influenciado por José Afonso, Adriano Correia de Oliveira e pela poesia de Manuel Alegre."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Tendo como referências tanto a voz mais veterana de António Menano como as mais próximas de José Afonso e Adriano Correia de Oliveira"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/antonio-bernardino-por-joao-carlos-callixto_1059",
+          "doc": "rtp-memoria-gramofone:w4a68e81c16485c85",
+          "citacao": "Tendo como referências tanto a voz mais veterana de António Menano como as mais próximas de José Afonso e Adriano Correia de Oliveira"
+        }
+      ],
+      "nota": "«Referências» vocais, segundo João Carlos Callixto (Gramofone, RTP Memória)."
     }
   ],
   "imagens": [

@@ -6,9 +6,47 @@
     "Jojó"
   ],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor",
+    "professor"
   ],
   "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+      "doc": "gc-iii:881392082174466787",
+      "citacao": "Tocou pela primeira vez numa Guitarra de Coimbra em 1983, ainda aluno do Secundário, quando ingressou na Tuna Académica da Universidade de Coimbra."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+      "doc": "gc-iii:881392082174466787",
+      "citacao": "Estudou Engenharia Electrotécnica na Universidade de Coimbra, sendo caloiro no ano de 85 / 86. Da mesma abdicou para se dedicar exclusivamente à música através da Guitarra Portuguesa."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+      "doc": "gc-i:113639247173462895",
+      "citacao": "O jovem executante de Guitarra de Coimbra Paulo Soares (Jojó), na capa de \"A Briosa. Revista da Associação Académica de Coimbra/OAF, Nº 7, de 30 de Maio de 1988."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+      "doc": "gc-iii:881392082174466787",
+      "citacao": "Foi o primeiro professor na História de Portugal a ensinar Guitarra Portuguesa nos Conservatórios Oficiais, abrindo os cursos de Guitarra Portuguesa do Conservatório de Música de Coimbra (1997) e do Conservatório de Música do Porto (2002)."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+      "doc": "gc-iii:881392082174466787",
+      "citacao": "Editou dois livros para guitarra portuguesa, intitulados Método de Guitarra Portuguesa, sendo, um deles, o primeiro livro sobre guitarra de Coimbra alguma vez escrito (1997) e que foi aprovado oficialmente pelo Ministério da Educação."
+    },
+    {
+      "fonte": "museu-do-fado",
+      "url": "https://www.museudofado.pt/fado/personalidade/paulo-soares",
+      "doc": "museu-do-fado:w0352eb83c24fc61b",
+      "citacao": "A sua síntese inovadora das técnicas e intensões das guitarras tradicionais de Coimbra e de Lisboa são o alicerce para a sua enorme versatilidade musical e guitarrística, plena de entusiasmo e profundidade."
+    },
     {
       "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2005/07/conversa-com-fernando-meireles-dia-12.html",
@@ -22,7 +60,297 @@
       "citacao": "Este tipo de guitarra foi pensado pelo instrumentista Paulo Soares (Jojó)"
     }
   ],
-  "factos": [],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 3 de abril de 1967",
+      "data": "1967-04-03",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/paulo-soares",
+          "doc": "museu-do-fado:w0352eb83c24fc61b",
+          "citacao": "Paulo Soares (N. 3 abril, 1967)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/faz-hoje-42-anos-que-nasceu-paulo.html",
+          "doc": "gc-ii:400784065783258662",
+          "citacao": "Faz hoje 42 anos que nasceu Paulo Soares (Jojó)."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Nasceu em Coimbra há 42 anos."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data vem do Museu do Fado; o local, da biografia do Festival Guitarra Portuguesa - Algarve 2010, transcrita no post gc-iii:881392082174466787 (de 11-06-2010). O post gc-ii:400784065783258662 foi publicado a 3-04-2009."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Tocou pela primeira vez numa guitarra de Coimbra em 1983, ainda aluno do secundário, quando ingressou na Tuna Académica da Universidade de Coimbra",
+      "data": "1983",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Tocou pela primeira vez numa Guitarra de Coimbra em 1983, ainda aluno do Secundário, quando ingressou na Tuna Académica da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudou Engenharia Electrotécnica na Universidade de Coimbra (caloiro em 1985/86), curso de que abdicou para se dedicar exclusivamente à guitarra portuguesa",
+      "data": "1985",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Estudou Engenharia Electrotécnica na Universidade de Coimbra, sendo caloiro no ano de 85 / 86. Da mesma abdicou para se dedicar exclusivamente à música através da Guitarra Portuguesa."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Abriu o curso de Guitarra Portuguesa do Conservatório de Música de Coimbra (1997; classe a funcionar desde o ano letivo de 1997/1998)",
+      "data": "1997",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Foi o primeiro professor na História de Portugal a ensinar Guitarra Portuguesa nos Conservatórios Oficiais, abrindo os cursos de Guitarra Portuguesa do Conservatório de Música de Coimbra (1997)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html",
+          "doc": "gc-i:113931791535386927",
+          "citacao": "Conservatório de Música de Coimbra: no ano lectivo de 1997/1998 começou a funcionar uma classe de Guitarra de Coimbra com o formador Paulo Soares (JóJó)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Abriu o curso de Guitarra Portuguesa do Conservatório de Música do Porto (2002)",
+      "data": "2002",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "abrindo os cursos de Guitarra Portuguesa do Conservatório de Música de Coimbra (1997) e do Conservatório de Música do Porto (2002)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão: a classe do Conservatório do Porto «foi iniciada em finais da década de 1990» por Paulo Soares (gc-i:113931791535386927, AMNunes, 2006)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Professor do curso livre de Guitarra Portuguesa no Conservatório do Porto em 2002 (aluno: Fernando Marques)",
+      "data": "2002",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Fernando Marques ... em 2002 frequenta o curso livre de Guitarra Portuguesa no Conservatório do Porto com o Professor Paulo Soares"
+        }
+      ],
+      "conflito": false,
+      "nota": "Da biografia de Fernando Marques no post «III Encontros Internacionais de Guitarra Portuguesa» (10-10-2009). A frase não diz quando o curso abriu."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Iniciou a classe de Guitarra de Coimbra do Conservatório de Música do Porto em finais da década de 1990",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html",
+          "doc": "gc-i:113931791535386927",
+          "citacao": "Conservatório de Música do Porto: tem em funcionamento uma disciplina de Guitarra de Coimbra, com horário completo, ministrada pelo formador Carlos Jesus. Esta classe foi iniciada em finais da década de 1990 por Paulo Soares (Jójó)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão: 2002 (biografia do Festival Guitarra Portuguesa - Algarve 2010, gc-iii:881392082174466787)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Classe de Guitarra de Coimbra da Escola dos Antigos Orfeonistas do Orfeon Académico de Coimbra, aberta em 2002 sob a sua orientação",
+      "data": "2002",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html",
+          "doc": "gc-i:113931791535386927",
+          "citacao": "Escola dos Antigos Orfeonistas do Orfeon Académico de Coimbra: classe de Guitarra de Coimbra aberta em 2002 sob orientação de Paulo Soares (Jójó)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Método de Guitarra Portuguesa» (1997), aprovado oficialmente pelo Ministério da Educação",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/paulo-soares-joj-editou-em-1997-este_14.html",
+          "doc": "gc-i:111081760296654475",
+          "citacao": "Paulo Soares (Jojó) editou em 1997 este magnífico \"Método de Guitarra Portuguesa\"."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Editou dois livros para guitarra portuguesa, intitulados Método de Guitarra Portuguesa, sendo, um deles, o primeiro livro sobre guitarra de Coimbra alguma vez escrito (1997) e que foi aprovado oficialmente pelo Ministério da Educação."
+        },
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/paulo-soares",
+          "doc": "museu-do-fado:w0352eb83c24fc61b",
+          "citacao": "É autor e editor do Método de Guitarra Portuguesa, obra de referência na aprendizagem do instrumento."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Segundo volume do «Método de Guitarra Portuguesa» (2007)",
+      "data": "2007",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html",
+          "doc": "gc-iv:8594621721074033745",
+          "citacao": "Métodos e manuais produzidos por Paulo Soares (1997; 2007)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/11/mtodo-de-guitarra-portuguesa-de-paulo.html",
+          "doc": "gc-i:6792569231011736631",
+          "citacao": "Método de Guitarra Portuguesa de Paulo Soares. Foi lançado há pouco tempo o segundo volume desta obra"
+        },
+        {
+          "fonte": "cristo-2014-york",
+          "url": "https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/27635/Cristo_Nuno_J_2014_Masters.pdf?sequence=2",
+          "doc": "cristo-2014-york:wc80f1fd739fd0f60",
+          "citacao": "In 2007, Paulo Soares published another method, this time focused on the mastering of chords, which might be useful in various musical genres for both the GPLx and the GPCo."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post gc-i:6792569231011736631 é de 2-11-2007. A bibliografia da tese de Nuno Cristo (2014) dá os títulos em inglês: «Portuguese Guitar Method: Basic Techniques for the Coimbra Guitar» (1997) e «Portuguese Guitar Method: Mastering Chords» (2007)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Livro com CD sobre a guitarra de Coimbra, editado com apoio da Universidade: 11 peças de outros tantos autores e 5 de sua autoria",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/03/paulo-soares-jojo-vai-lancar-um-livro.html",
+          "doc": "gc-ii:8745603162076162354",
+          "citacao": "Paulo Soares (Jojó) vai lançar um Livro com um CD incluído, tendo por temática a Guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/07/blog-post_14.html",
+          "doc": "gc-iii:2367285972654767180",
+          "citacao": "Paulo Soares (Jojó) acaba de lançar um CD com 11 peças de outros tantos autores e ainda 5 peças de sua autoria."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/12/blog-post.html",
+          "doc": "gc-iii:8200204536486213952",
+          "citacao": "O CD que editei este ano com apoio da Universidade, já está disponível para compra em lojas e em http://www.paulosoares.com/."
+        }
+      ],
+      "conflito": false,
+      "nota": "Posts de 19-03-2009, 14-07-2009 e 9-12-2009 (este último em primeira pessoa, do próprio Paulo Soares)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações com o Kinteto António Ferro (jazz), Dulce Pontes (convidado), no filme «Fados» (Fado Flamenco, com Mariza), com o Quarteto ArtemSax e com os Praxis Nova",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Participou em diversas gravações musicais, das quais aqui se destacam a participação nos projectos Kinteto António Ferro (Jazz), Dulce Pontes (convidado), Filme Fados (Fado Flamenco com Mariza), Quarteto ArtemSax (arranjos de peças de Carlos Paredes para Guitarra Portuguesa e Quarteto de Saxofones), Praxis Nova (grupo de fados enquanto estudante da UC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor de várias peças para guitarra (entre elas «Tarde de Serenata») e de arranjos para fados e outros temas",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "É compositor de várias peças para guitarra e de vários arranjos para fados e outros temas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/partitura-de-tarde-de-serenata-1-de.html",
+          "doc": "gc-i:111542609484927834",
+          "citacao": "Partitura de \"Tarde de Serenata\" (1) de Paulo Soares - Jojó."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Estreou peças para guitarra e orquestra, entre as quais o Concerto para Guitarra Portuguesa e Orquestra de Fernando Lapa e a Abertura Solene de Edino Krieger",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Estreou várias peças para Guitarra e Orquestra, entre as quais o Concerto para Guitarra Portuguesa e Orquestra de Fernando Lapa, a Abertura Solene de Edino Krieger (Brasil)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Criou e dirigiu o 1.º Festival da Guitarra de Coimbra, integrado na Coimbra Capital Nacional da Cultura 2003",
+      "data": "2003",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html",
+          "doc": "gc-iii:881392082174466787",
+          "citacao": "Criou e dirigiu 1º Festival da Guitarra de Coimbra integrado na Coimbra Capital Nacional da Cultura 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/10/festa-das-latas-1997-cartaz-da-festa.html", "doc": "gc-i:116179406847366303", "citacao": "organizado pelo jovem sócio da Secção de Fado da AAC Paulo Jorge Soares"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html", "doc": "gc-i:113639247173462895", "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v)"}, {"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/05/antonio-manuel-nunes-no-teatro-paulo_29.html", "doc": "gc-iv:8594621721074033745", "citacao": "Antigo membro da Secção de Fado da AAC e do grupo Praxis Nova, executante formador de guitarra."}, {"fonte": "gc-iii", "url": "https://guitarracoimbra.blogspot.com/2010/06/paulo-soares-jojo.html", "doc": "gc-iii:881392082174466787", "citacao": "mormente, com a Secção de Fado e com os grupos de Fado e Estudantina, tendo também sido director desta secção"}], "nota": "Sócio; guitarra do grupo oficial / Grupo de Fados da Secção (1987-1988); organizou o sarau de gala de 25-11-1988. Uma fonte diz que foi «director desta secção» — a frase não deixa claro se é a Secção de Fado ou a Estudantina."},
     {

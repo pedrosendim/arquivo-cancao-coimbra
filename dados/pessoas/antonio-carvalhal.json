@@ -2,50 +2,300 @@
   "id": "antonio-carvalhal",
   "tipo": "pessoa",
   "nome": "António Carvalhal",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "António Abreu de Almeida Carvalhal"
+  ],
   "papeis": [
     "guitarrista"
   ],
   "biografia": [
     {
       "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/03/lvaro-do-carvalhal-retrato-fidedigno.html",
+      "doc": "gc-i:114182978934268659",
+      "citacao": "O casal Carvalhal domiciliou-se em Esposende, local onde foram sucessivamente gerados António Carvalhal (1909-1982)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-carvalhal-o-primeiro-grupo-que.html",
+      "doc": "gc-i:115494234667078066",
+      "citacao": "A fotografia foi tirada em 1937, data da constituição da seguinte formação: António Abreu de Almeida Carvalhal (1909-1982), titular do grupo, e 1º executante de Guitarra Toeira de Coimbra (oficina Raul Simões)"
+    },
+    {
+      "fonte": "gc-i",
       "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-antnio-carvalhal-guitarra.html",
       "doc": "gc-i:111706514803399736",
       "citacao": "Pertenceu ao guitarrista António Carvalhal."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-carvalhal-o-primeiro-grupo-que.html",
+      "doc": "gc-i:115494234667078066",
+      "citacao": "O grupo de António Carvalhal não integrava os circuitos institucionais mais directamente ligados à AAC e aos organismos académicos, pautando-se por uma existência discreta."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "Formatura do guitarrista António Carvalhal (25/07/1939) em Histórico-Filosóficas."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+      "doc": "gc-i:114183579814693208",
+      "citacao": "O guitarrista central é o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal (1909-1982). Serenata realizada em inícios de Junho de 1941"
     }
   ],
   "factos": [
     {
-      "campo": "nascimento",
-      "valor": "1909",
-      "data": "1909",
+      "campo": "nome_completo",
+      "valor": "António Abreu de Almeida Carvalhal",
+      "data": "",
       "local": "",
       "fontes": [
         {
           "fonte": "gc-i",
-          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
-          "doc": "gc-i:113659801124827230",
-          "citacao": "Dr. António Carvalhal (1909-1982)"
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+          "doc": "gc-i:114183579814693208",
+          "citacao": "O guitarrista central é o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal (1909-1982)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_76.html",
+          "doc": "gc-v:2287698138184091482",
+          "citacao": "recolhida e adaptada pelo Dr. António Abreu de Almeida Carvalhal"
         }
       ],
       "conflito": false,
       "nota": ""
     },
     {
-      "campo": "morte",
-      "valor": "1982",
-      "data": "1982",
+      "campo": "formacao",
+      "valor": "Licenciado em Histórico-Filosóficas (Universidade de Coimbra); formatura a 25 de julho de 1939",
+      "data": "1939-07-25",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Formatura do guitarrista António Carvalhal (25/07/1939) em Histórico-Filosóficas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+          "doc": "gc-i:114183579814693208",
+          "citacao": "o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal"
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia de António José Soares e António Manuel Nunes (GC I)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Terminou o Liceu de Braga a 10 de julho de 1931",
+      "data": "1931-07-10",
+      "local": "Braga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Abreu de Almeida Carvalhal, filho de Álvaro Carvalhal e de Eugénia Abreu (Esposende, 18/2/1909; Porto, 10/01/1982), termina o Liceu de Braga em 10 de Julho de 1931."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia de António José Soares e António Manuel Nunes (GC I), secção «1931»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Instalou-se em Coimbra no verão de 1931 e inscreveu-se em Direito, curso que frequentou até ao terceiro ano",
+      "data": "1931",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Carvalhal instalou-se em Coimbra no Verão de 1931 e inscreveu-se em Direito, curso que frequentou até ao terceiro ano."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia de António José Soares e António Manuel Nunes (GC I), secção «1931». A mesma cronologia regista a formatura em Histórico-Filosóficas a 25 de julho de 1939 (facto anterior)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funcionário do Arquivo da Universidade de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+          "doc": "gc-i:114183579814693208",
+          "citacao": "o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Trabalhou na Biblioteca da Universidade e foi docente do Colégio Alexandre Herculano; colocado como docente no Liceu da Covilhã (1944)",
+      "data": "1944",
+      "local": "Covilhã",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1944 ... António Carvalhal, que tinha vindo a trabalhar na Biblioteca da Universidade e como docente do Colégio Alexandre Herculano, foi colocado no Liceu da Covilhã como docente."
+        }
+      ],
+      "conflito": false,
+      "nota": "Cronologia de António José Soares e António Manuel Nunes (GC I); o ano resulta do cabeçalho da secção «1944»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Titular e 1.ª guitarra toeira do «Grupo Carvalhal», formado em 1937, com José Maria Amaral (2.ª guitarra toeira), Mário Henriques de Castro (cantor) e António Ribeiro Gomes (violão de cordas de aço)",
+      "data": "1937",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-carvalhal-o-primeiro-grupo-que.html",
+          "doc": "gc-i:115494234667078066",
+          "citacao": "A fotografia foi tirada em 1937, data da constituição da seguinte formação: António Abreu de Almeida Carvalhal (1909-1982), titular do grupo, e 1º executante de Guitarra Toeira de Coimbra (oficina Raul Simões)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/grupo-carvalhal-o-primeiro-grupo-que.html",
+          "doc": "gc-i:115494234667078066",
+          "citacao": "José Maria Amaral, aluno do Liceu de Coimbra, executante de 2ª Guitarra Toeira de Coimbra (oficina Raul Simões); Mário Henriques de Castro (1918-2003), aluno do Liceu de Coimbra, cantor, e mais tarde celebrado executante de violão; António Ribeiro Gomes, executante de violão de cordas de aço"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "foi anunciada a estreia do cantor Mário Henriques Castro, elemento do grupo de António Carvalhal."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António Manuel Nunes (GC I, 2006); a cronologia refere a estreia anunciada de Mário Henriques Castro na digressão do Orfeon de fevereiro de 1939."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cine Teatro de Arganil, 21 de maio de 1939, com José Amaral e António Gomes (viola); cantor Mário Castro",
+      "data": "1939-05-21",
+      "local": "Arganil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1939 ... Em 21 de Maio António Carvalhal, José Amaral e António Gomes (v) actuaram no Cine Teatro de Arganil. O cantor de serviço foi Mário Castro (cf. Jornal de Arganil, de 18/05/1939)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Jornal de Arganil, 18 de maio de 1939, citado na cronologia; o ano resulta do cabeçalho da secção «1939»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata nas escadarias da Sé Velha, inícios de junho de 1941 (fotografia publicada em O Século Ilustrado, n.º 182, 28 de junho de 1941)",
+      "data": "1941-06",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/antnio-carvalhal-serenata-nas.html",
+          "doc": "gc-i:114183579814693208",
+          "citacao": "O guitarrista central é o licenciado em Histórico-Filosóficas e funcionário do Arquivo da UC António Abreu de Almeida Carvalhal (1909-1982). Serenata realizada em inícios de Junho de 1941"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Recolheu e adaptou a «Chula [do Minho]» (guitarrada popular), tema que trouxe para Coimbra nos anos 30; arranjo de António Portugal gravado no EP «Noite de Coimbra» (1960)",
+      "data": "",
       "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_76.html",
+          "doc": "gc-v:2287698138184091482",
+          "citacao": "EP NOITE DE COIMBRA. Porto: Orfeu, ATEP 6025, 1960 ... CHULA [DO MINHO] (guitarrada), música popular, recolhida e adaptada pelo Dr. António Abreu de Almeida Carvalhal. Indica “Popular”, com arranjo de António Portugal."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Tema popular trazido para Coimbra nos anos 30 por António Carvalhal."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é uma nota de Armando Luís de Carvalho Homem sobre a «Chula»."
+    },
+    {
+      "campo": "outro",
+      "valor": "Partitura das «Variações em Lá maior» de António Carvalhal, publicada no GC I (2005)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/partitura-de-variaes-em-l-maior-1-de_26.html",
+          "doc": "gc-i:111706422924024406",
+          "citacao": "Partitura de \"Variações em Lá maior\" (1) de António Carvalhal."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Esposende, 18 de fevereiro de 1909",
+      "data": "1909-02-18",
+      "local": "Esposende",
       "fontes": [
         {
           "fonte": "gc-i",
           "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
           "doc": "gc-i:113659801124827230",
           "citacao": "Dr. António Carvalhal (1909-1982)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Abreu de Almeida Carvalhal, filho de Álvaro Carvalhal e de Eugénia Abreu (Esposende, 18/2/1909; Porto, 10/01/1982)"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "O dia e o local vêm da cronologia de António José Soares e António Manuel Nunes (GC I), secção «1931»."
+    },
+    {
+      "campo": "morte",
+      "valor": "Porto, 10 de janeiro de 1982",
+      "data": "1982-01-10",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/voluta-oval-da-guitarra-toeira-de.html",
+          "doc": "gc-i:113659801124827230",
+          "citacao": "Dr. António Carvalhal (1909-1982)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Abreu de Almeida Carvalhal, filho de Álvaro Carvalhal e de Eugénia Abreu (Esposende, 18/2/1909; Porto, 10/01/1982)"
+        }
+      ],
+      "conflito": false,
+      "nota": "O dia e o local vêm da cronologia de António José Soares e António Manuel Nunes (GC I), secção «1931»."
     }
   ],
   "relacoes": [

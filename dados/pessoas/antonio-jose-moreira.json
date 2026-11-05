@@ -7,8 +7,125 @@
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+      "doc": "gc-i:111599664085441140",
+      "citacao": "António José Moreira nasceu em Coimbra, em 16 de Junho de 1967, e licenciou-se em Física, pela Universidade de Coimbra em 1993."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+      "doc": "gc-i:111599664085441140",
+      "citacao": "Com 6 anos iniciou a aprendizagem da guitarra tendo Jorge Gomes como seu Mestre. Passa por duas escolas ACM e Chiado e toca pela primeira vez na Sé Velha, em Maio de 1979, com 11 anos, na serenata integrada no IIº Seminário de Fado de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+      "doc": "gc-i:111599664085441140",
+      "citacao": "Em 29 de Maio de 1982, no Palácio de São Marcos, com 14 anos, integra pela primeira vez, o Grupo Académico de Fados e Canções de Coimbra, no qual se manterá como primeiro guitarra até 1990, com o qual grava um disco de originais, intitulado Canções d´Aqui (1989) colaborando, igualmente, no disco Baladas da Despedida - Anos 80 (1990)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+      "doc": "gc-i:111599664085441140",
+      "citacao": "No ano de 1988, funda o Grupo Capas Negras. É a partir desta fase que volta a compor e gravar temas inéditos, participando assim em três CDs com os Capas Negras."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+      "doc": "gc-i:111599664085441140",
+      "citacao": "É convidado com frequência para acompanhar o Grupo dos Antigos Orfeonistas de Coimbra em várias deslocações ao estrangeiro."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+      "doc": "gc-v:5730434124020714444",
+      "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 16 de junho de 1967",
+      "data": "1967-06-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "António José Moreira nasceu em Coimbra, em 16 de Junho de 1967"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Física pela Universidade de Coimbra (1993)",
+      "data": "1993",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "licenciou-se em Física, pela Universidade de Coimbra em 1993."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Indicado como «de Ciências» entre os instrumentistas da fase mais estável do Grupo Académico de Fados e Canções de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
+          "doc": "gc-v:2788236639889053829",
+          "citacao": "Na sua fase mais estável, os instrumentistas eram António José Moreira (gC1, solista, de Ciências)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António Manuel Nunes (GC V, 2022) sobre o GAFCC. O post não diz o curso nem as datas."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a aprender guitarra aos 6 anos, com Jorge Gomes; passou pelas escolas ACM e Chiado",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "Com 6 anos iniciou a aprendizagem da guitarra tendo Jorge Gomes como seu Mestre. Passa por duas escolas ACM e Chiado"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeira atuação na Sé Velha, em maio de 1979, aos 11 anos, na serenata do II Seminário de Fado de Coimbra",
+      "data": "1979-05",
+      "local": "Coimbra, Sé Velha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "toca pela primeira vez na Sé Velha, em Maio de 1979, com 11 anos, na serenata integrada no IIº Seminário de Fado de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "outro",
       "valor": "Autor da música da «Balada da Despedida do 4.º Ano de Física 1992/93», com letra de Jorge Cravo",
@@ -56,6 +173,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2022/05/um-registo-juvenil-de-jorge-cravo-1987.html",
           "doc": "gc-v:2788236639889053829",
           "citacao": "Na sua fase mais estável, os instrumentistas eram António José Moreira (gC1, solista, de Ciências)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "Em 29 de Maio de 1982, no Palácio de São Marcos, com 14 anos, integra pela primeira vez, o Grupo Académico de Fados e Canções de Coimbra, no qual se manterá como primeiro guitarra até 1990"
         }
       ],
       "nota": "guitarra solista (gC1), 1982-1990"
@@ -100,9 +223,15 @@
           "url": "https://guitarradecoimbra.blogspot.com/2007/09/no-ltimo-sbado-teve-lugar-uma-serenata.html",
           "doc": "gc-i:533926602207610002",
           "citacao": "Grupo constituido por: António José Moreira - Guitarra Nuno Encarnação - Viola Eduardo Filipe - Voz Luís Alvelos - Voz"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "No ano de 1988, funda o Grupo Capas Negras."
         }
       ],
-      "nota": "guitarra"
+      "nota": "guitarra; fundador do grupo (1988, segundo a biografia do GC I; o GC V de 2016, gc-v:2954586531685127488, diz «Capas Negras é um quarteto de expressão conimbricense fundado em 1989»; ver a divergência na ficha capas-negras)"
     },
     {
       "tipo": "membro_de",
@@ -122,6 +251,25 @@
         }
       ],
       "nota": "guitarra de Coimbra"
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/biografia-de-antnio-jos-moreira-antnio.html",
+          "doc": "gc-i:111599664085441140",
+          "citacao": "Com 6 anos iniciou a aprendizagem da guitarra tendo Jorge Gomes como seu Mestre."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/capa-do-cd-canes-daqui-com-voz-de.html",
+          "doc": "gc-i:111487676768047472",
+          "citacao": "António José Moreira, um aluno de longa data de Jorge Gomes"
+        }
+      ],
+      "nota": "guitarra"
     }
   ],
   "imagens": [

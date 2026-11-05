@@ -1071,6 +1071,474 @@
         "script": "scripts/mpagdp.py"
       },
       "notas": "Indicada pelo utilizador: a série «Arquivo da Canção de Coimbra» (2024–) e outros vídeos gravados em Coimbra. Vídeos no Vimeo. Voltar a recolher: a série continua (Parte 2 – Carlos Paredes, 2025)."
+    },
+    {
+      "id": "biblioteca-digital-uc",
+      "nome": "Biblioteca Digital da Universidade de Coimbra (UC Digitalis / Almamater, dl.uc.pt)",
+      "tipo": "biblioteca",
+      "url": "https://dl.uc.pt/",
+      "autor": "Universidade de Coimbra",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Periódicos estudantis digitalizados (ex.: «Coimbra em fralda», 1883-1884; «Presença», 1927) e fotografias identificadas, citados nos blogues (ex.: gc-v:3075431908540198957). Acesso: o robots.txt de dl.uc.pt proíbe tudo a todos — só se pode guardar à mão (guardar_pagina.py --ficheiro), nunca por recolha automática. Aloja também autores brasileiros (ex.: 10316.2/39138), que ficariam de fora."
+    },
+    {
+      "id": "arquivo-universidade-coimbra",
+      "nome": "Arquivo da Universidade de Coimbra — pesquisa (Archeevo)",
+      "tipo": "instituicao",
+      "url": "https://pesquisa.auc.uc.pt/",
+      "autor": "Arquivo da Universidade de Coimbra",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Fichas descritivas dos registos de estudantes (faculdade, matrículas, exames): fonte primária para saber quando cada cantor ou guitarrista estudou em Coimbra. Ex.: ficha 204362, «Francisco Paulo Menano», Direito, «Matrícula(s): 09.10.1907». O arquivo local cita 7 fichas (6 na Galáxia Sonora, 1 no GC V). Acesso: API JSON pública (/api/descriptions/<id>), sem robots.txt."
+    },
+    {
+      "id": "cinemateca-digital",
+      "nome": "Cinemateca Digital (Cinemateca Portuguesa – Museu do Cinema)",
+      "tipo": "arquivo-audiovisual",
+      "url": "http://www.cinemateca.pt/Cinemateca-Digital/",
+      "autor": "Cinemateca Portuguesa – Museu do Cinema, I.P.",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Fichas de filmes com realizador, ano, duração e descrição; o vídeo vê-se no site da Cinemateca (só por ligação). Ex.: obraid 8157, «Fado Hilário» (Henrique Campos, 1949: «Alberto Ribeiro canta o Fado Hilário»); obraid 5030, «Coimbra - Uma Reunião de Curso» (1929). O GC V cita 10 fichas. Acesso: sem robots.txt, HTML simples."
+    },
+    {
+      "id": "aac-academica",
+      "nome": "Associação Académica de Coimbra — site oficial (academica.pt)",
+      "tipo": "instituicao",
+      "url": "https://academica.pt/",
+      "autor": "Associação Académica de Coimbra",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Páginas oficiais dos organismos: Secção de Fado (ideia de criação em 1979; Orquestra Típica e Rancho, 1981; Grupo de Cordas, 1983; Estudantina, 1985) e TAUC («surge em 1888…»). É autorrepresentação, sem autor nem data. Acesso: o robots.txt só proíbe /wp-admin/."
+    },
+    {
+      "id": "noticias-de-coimbra",
+      "nome": "Notícias de Coimbra (jornal digital)",
+      "tipo": "imprensa",
+      "url": "https://www.noticiasdecoimbra.pt/",
+      "autor": "Redação do Notícias de Coimbra (com textos da Lusa)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Atualidade da Canção de Coimbra: intérpretes vivos, grupos, óbitos. Ex.: 20-12-2024, voto de pesar por José Pinheiro Lopes de Almeida, guitarrista (49 documentos do arquivo referem-no e não tem ficha); 25-08-2025, o Grupo de Fado d'Anto no The Voice Gerações. Acesso: sem robots.txt; artigos abertos."
+    },
+    {
+      "id": "diario-as-beiras",
+      "nome": "Diário As Beiras (jornal diário de Coimbra)",
+      "tipo": "imprensa",
+      "url": "https://www.asbeiras.pt/",
+      "autor": "Redação do Diário As Beiras",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Imprensa diária de Coimbra e a mais reproduzida nos blogues: 231 posts referem-na, quase todos recortes de 2006-2014. Ex.: 27-06-2025, «Artur e Carlos Paredes recebem medalha de ouro da cidade a título póstumo». Acesso: o robots.txt só proíbe administração e carrinho; alguns artigos podem exigir assinatura."
+    },
+    {
+      "id": "hemeroteca-digital-lisboa",
+      "nome": "Hemeroteca Digital (Câmara Municipal de Lisboa)",
+      "tipo": "biblioteca",
+      "url": "https://hemerotecadigital.cm-lisboa.pt/",
+      "autor": "Câmara Municipal de Lisboa — Hemeroteca Municipal",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Periódicos digitalizados citados 13 vezes nos blogues: «A Canção de Portugal» (1916, n.º 14, com a Balada de Coimbra de José das Neves Elyseu), «Ilustração Portuguesa» (1913 e 1924), «Contemporânea», «O Occidente». Acesso: o robots.txt proíbe expressamente os agentes de IA; a IA não abre estas páginas. Só o fundador as pode guardar à mão (--ficheiro)."
+    },
+    {
+      "id": "dahr-ucsb",
+      "nome": "Discography of American Historical Recordings (DAHR, UC Santa Barbara Library)",
+      "tipo": "base-de-dados",
+      "url": "https://adp.library.ucsb.edu/",
+      "autor": "UC Santa Barbara Library (EUA)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Matrizes e discos Gramophone e Victor com número, data e local: a discografia mais antiga. Ex.: matrizes 17642u, 17684u, 17685u e 17690u de Manassés de Lacerda (Lisboa, fevereiro de 1913) e discos Victor 67736, 67737 e 69984; tem também Edmundo de Bettencourt e Artur Paredes. Acesso: o servidor recusa (403) pedidos automáticos, por isso só à mão. Instituição norte-americana."
+    },
+    {
+      "id": "museu-musica-coimbra",
+      "nome": "Mus.Mus.Cbr — Museu da Música de Coimbra (Associação Cultural)",
+      "tipo": "instituicao",
+      "url": "https://www.musmuscbr.pt/",
+      "autor": "Associação Cultural Museu da Música de Coimbra",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos",
+        "media"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Blogue sobre cordofones de Coimbra, viola toeira, guitarrinho e escola de luthiers (55 publicações, parado desde abril de 2024). Ex.: «I festival do guitarrinho» (30-31.10.2021), citado no GC V. Acesso: feed oficial do Blogger (blog «musmuscbr»); o robots.txt só proíbe /search. Inclui uma tese de autor com nacionalidade por confirmar."
+    },
+    {
+      "id": "observador",
+      "nome": "Observador (jornal)",
+      "tipo": "imprensa",
+      "url": "https://observador.pt/",
+      "autor": "Redação do Observador (e Lusa)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Ex.: reportagem de 08-12-2016, «Construir uma guitarra portuguesa: a arte que passa de mão em mão» (Tiago Palma e Hugo Amaral), sobre Gilberto Grácio e a família Grácio; notícia da Lusa de 23-05-2020 com Manuel Portugal, Pedro Lopes, João Queirós, Nuno Encarnação e outros. Acesso: o robots.txt autoriza expressamente os agentes de IA."
+    },
+    {
+      "id": "rtp-noticias",
+      "nome": "RTP Notícias (rtp.pt/noticias)",
+      "tipo": "imprensa",
+      "url": "https://www.rtp.pt/noticias/",
+      "autor": "RTP (textos da Lusa)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Notícias da Lusa fora do âmbito das fontes RTP já aprovadas (Arquivos, Play, Gramofone). Ex.: inauguração do Núcleo da Guitarra e do Fado de Coimbra na Torre de Anto, com a guitarra de Artur Paredes; entrevista a Octávio Fonseca. Atenção: no primeiro exemplo, o lead e o corpo da notícia divergem sobre o autor de uma letra; a divergência deve ficar visível. Pode ser só um alargamento da fonte rtp-play. Acesso: o robots.txt só proíbe /play/pesquisa."
+    },
+    {
+      "id": "livro-afonso-de-sousa-decada-de-oiro",
+      "nome": "Afonso de Sousa, O Canto e a Guitarra na Década de Oiro da Academia de Coimbra (1920-1930)",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/06/afonso-de-sousa.html",
+      "autor": "Afonso de Sousa",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Obra de referência sobre a geração de Menano, Bettencourt, Artur Paredes e Albano de Noronha (2.ª edição de 1986). Sem versão em linha: cita-se pelos posts que a transcrevem, com nota a indicar o autor. O título exato aparece em 12 documentos. O autor publicou outros livros (ex.: «Do Choupal até à Lapa»), que podiam registar-se juntos como «Escritos de Afonso de Sousa». Autor português."
+    },
+    {
+      "id": "livro-cancioneiro-musicas-populares",
+      "nome": "César das Neves e Gualdim Pais, Cancioneiro de Músicas Populares (Porto, 1893-1898, 3 vols.)",
+      "tipo": "livro",
+      "url": "https://archive.org/details/cancioneiro-de-musicas-populares-vol-3-1898",
+      "autor": "César das Neves e Gualdim Pais",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Partituras e letras do séc. XIX, em domínio público (ex.: «Fado Serenata de Augusto Hylario», vol. I, 1893, p. 280, n.º 143, citado na Galáxia Sonora). 72 documentos citam o título. A digitalização está no Internet Archive (fonte aprovada só para media): falta decidir se o livro serve para factos. O coautor aparece com nomes diferentes nos catálogos (Gualdim Pais, Gualdino de Campos): confirmar no rosto do livro."
+    },
+    {
+      "id": "livro-pinto-de-carvalho-historia-do-fado-1903",
+      "nome": "Pinto de Carvalho (Tinop), História do Fado (Lisboa, 1903; reed. Dom Quixote, 1984)",
+      "tipo": "livro",
+      "url": "https://www.museudofado.pt/fado/personalidade/hilario",
+      "autor": "José Pinto Ribeiro de Carvalho (Tinop)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Fonte antiga sobre Augusto Hilário e o fado em Coimbra no séc. XIX, citada pelo Museu do Fado e pelos blogues, nas edições de 1903 e de 1984, com páginas diferentes. Sem digitalização confirmada em linha. As fontes divergem no nome do autor: deixar visível."
+    },
+    {
+      "id": "livro-pimentel-triste-cancao-do-sul-1904",
+      "nome": "Alberto Pimentel, A Triste Canção do Sul (Lisboa, 1904)",
+      "tipo": "livro",
+      "url": "https://archive.org/details/atristecancaodo00goog",
+      "autor": "Alberto Pimentel",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Estudo de 1904 sobre o fado, em domínio público, citado em 29 documentos. Digitalizações no Internet Archive (fonte aprovada só para media) e na BND (bnp-digital, só à mão, porque o robots.txt proíbe tudo). Há também o texto no Project Gutenberg (#71274), que seria outra fonte nova."
+    },
+    {
+      "id": "revista-portuguesa-musicologia",
+      "nome": "Revista Portuguesa de Musicologia (rpm-ns.pt)",
+      "tipo": "repositorio-academico",
+      "url": "https://www.rpm-ns.pt/",
+      "autor": "SPIM, INET-md e CESEM (vários autores)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Artigos com revisão por pares, em acesso aberto. Ex.: Rui Marques, «Raros exemplares e escassa memória: um estudo de caso sobre o revivalismo da viola toeira em Coimbra» (2022, art. 441); Maria de São José Côrte-Real, «Sons de Abril…» (1996, art. 92). A revista publica também autores brasileiros, que ficam de fora: confirmar cada autor. Acesso: o robots.txt só proíbe /cache/."
+    },
+    {
+      "id": "diario-da-republica",
+      "nome": "Diário da República Eletrónico",
+      "tipo": "instituicao",
+      "url": "https://diariodarepublica.pt/",
+      "autor": "Imprensa Nacional-Casa da Moeda",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Atos oficiais citados no GC V: Resolução da AR n.º 19/2025, sobre a classificação da obra fonográfica de Adriano Correia de Oliveira; anúncio da DGPC de 2020, sobre a classificação da obra de José Afonso. O site é uma aplicação JavaScript: o texto vem do PDF oficial, guardado à mão."
+    },
+    {
+      "id": "livro-enciclopedia-musica-portugal-seculo-xx",
+      "nome": "Salwa Castelo-Branco (dir.), Enciclopédia da Música em Portugal no Século XX (2010)",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+      "autor": "Salwa Castelo-Branco (direção) e vários autores (INET-md)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Entradas biográficas reproduzidas nos blogues. Ex.: a de Octávio Sérgio (gc-i:110998641361076024) e a de Jorge Gomes, por Pedro Roxo (gc-iv:2680788337243857878). 28 documentos citam o título. Sem versão em linha: cita-se pelo blogue, com nota a indicar o autor da entrada. Algumas transcrições são anteriores à edição impressa e podem divergir dela. A diretora não é brasileira (nasceu no Cairo e fez carreira em Portugal)."
+    },
+    {
+      "id": "orfeon-academico-coimbra",
+      "nome": "Orfeon Académico de Coimbra — site oficial (orfeon.pt)",
+      "tipo": "site",
+      "url": "https://orfeon.pt/",
+      "autor": "Orfeon Académico de Coimbra",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "História oficial do coro (fundado por João Arroyo, primeiros ensaios a 29-10-1880). Sobre fado só tem uma frase, sobre o «Grupo Complementar de Fados de Coimbra». Autorrepresentação, sem autor. O Orfeon é referido em 323 documentos e ainda não tem ficha. Acesso: o robots.txt só proíbe a administração."
+    },
+    {
+      "id": "revistas-flup",
+      "nome": "Revistas e publicações da Faculdade de Letras da Universidade do Porto (ler.letras.up.pt)",
+      "tipo": "repositorio-academico",
+      "url": "https://ler.letras.up.pt/",
+      "autor": "FLUP (vários autores)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "12 ligações nos blogues, nenhuma arquivada. Ex.: 4995.pdf, Armando Luís de Carvalho Homem, «Que público para a Canção Coimbrã?» (Estudos em Homenagem a Luís António de Oliveira Ramos, 2004, p. 569-573); 4412.pdf, «As «Variações» de Octávio Sérgio…» (p. 159-176). Permite verificar transcrições do GC I. Um dos PDFs está cifrado: o texto não se extrai só com a biblioteca padrão."
+    },
+    {
+      "id": "campeao-das-provincias",
+      "nome": "Campeão das Províncias (semanário de Coimbra)",
+      "tipo": "imprensa",
+      "url": "https://www.campeaoprovincias.pt/",
+      "autor": "Redação do Campeão das Províncias",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Imprensa de Coimbra: 13 posts dos blogues reproduzem recortes (Luiz Goes, Virgílio Caseiro, José Carlos Teixeira, uma entrevista de Benedita Oliveira). Acesso: o robots.txt proíbe expressamente os agentes de IA; só o fundador pode guardar páginas à mão."
+    },
+    {
+      "id": "inet-md",
+      "nome": "INET-md — Instituto de Etnomusicologia, Centro de Estudos em Música e Dança (inetmd.pt)",
+      "tipo": "instituicao",
+      "url": "https://www.inetmd.pt/",
+      "autor": "INET-md (NOVA FCSH e universidades associadas)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Programas e resumos de encontros científicos. Ex.: a conferência «De não saber o que me espera: Nos 90 anos de José Afonso» (22-06-2019, com a AJA e o Museu da Música Portuguesa), com notas biográficas de Rui Pato e Arnaldo Trindade. Acesso: o robots.txt só proíbe /wp-admin/; o texto dos PDFs extrai-se."
+    },
+    {
+      "id": "fado-ao-centro-site",
+      "nome": "Fado ao Centro — site oficial (fadoaocentro.com)",
+      "tipo": "site",
+      "url": "https://fadoaocentro.com/",
+      "autor": "Fado ao Centro (Coimbra)",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Página «Quem Somos»: «nasceu em Coimbra, em 2010», fruto de «3 músicos, antigos estudantes da Universidade de Coimbra», e a Escola de Música em 2013. Autorrepresentação com fim comercial (vende bilhetes): cabe ao fundador decidir se serve para factos. Acrescenta pouco à ficha fado-ao-centro."
+    },
+    {
+      "id": "livro-niza-seculo-de-fado-coimbra",
+      "nome": "José Niza, Fado de Coimbra I e II (coleção «Um Século de Fado», Ediclube, 1999)",
+      "tipo": "livro",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/biografia-de-carlos-paredes.html",
+      "autor": "José Niza",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Sugerida por 9 dos 12 investigadores: pequenas biografias de dezenas de cantores e guitarristas (Carlos Paredes, Afonso de Sousa, Menano, Armando Goes, Mário de Castro, Machado Soares, Branquinho, Couceiro, Durval Moreirinhas…), que os blogues reproduzem, quase sempre em imagem (ex.: gc-ii:36826814401454392, «retirada do livro de José Niza, Fado de Coimbra II, da colecção Um Século de Fado, da Ediclube, 1999»). Sem versão em linha: cita-se pelos posts que a transcrevem, com nota a indicar o autor. Autor português."
+    },
+    {
+      "id": "carvalho-homem",
+      "nome": "Escritos de Armando Luís de Carvalho Homem",
+      "tipo": "livro",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra.html",
+      "autor": "Armando Luís de Carvalho Homem",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Sugerida por 4 investigadores, como as fontes de autor de Jorge Cravo e Pedro Caldeira Cabral: artigos como «A Guitarra de Coimbra em tempos de fim-de-tempo (Ca. 1965-Ca. 1973)» (Anais da Universidade Autónoma de Lisboa, série História, V-VI) e «Jorge Tuna: para uma abordagem ternária…» (Revista Portuguesa de História, XXXVI/2), muito transcritos nos blogues. Os textos dele na FLUP já estão na proposta «revistas-flup». Autor português (FLUP). Atenção: é também uma pessoa com ficha no arquivo."
+    },
+    {
+      "id": "livro-inacio-fotobiografia-camacho-vieira",
+      "nome": "Manuel Fernando Marques Inácio, O Canto e a Música de Coimbra — Fotobiografia de Augusto Camacho Vieira (MinervaCoimbra, 2011)",
+      "tipo": "livro",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/06/manuel-marques-inacio-depois-de-nos-ter.html",
+      "autor": "Manuel Fernando Marques Inácio",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Sugerida por 3 investigadores: base de vários textos sobre Augusto Camacho Vieira e sobre a digressão de Manuel Branquinho ao Brasil em 1951. Sem versão em linha: cita-se pelos posts que a reproduzem. Autor português."
+    },
+    {
+      "id": "livro-lopes-fotobiografia-lucas-junot",
+      "nome": "Rui Lopes, Fotobiografia de Lucas Junot (Coimbra, 2008)",
+      "tipo": "livro",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/12/rui-lopes-vai-lanar-fotobiografia-de.html",
+      "autor": "Rui Lopes",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Citada nos GC I, II e V sobre Lucas Junot (lançada na Casa Municipal da Cultura de Coimbra, dezembro de 2008). Sem versão em linha: cita-se pelos posts. O autor é português (Abrantes, segundo o investigador); o biografado nasceu no Brasil, o que não exclui a obra."
+    },
+    {
+      "id": "publico",
+      "nome": "Público (jornal)",
+      "tipo": "imprensa",
+      "url": "https://www.publico.pt/",
+      "autor": "Redação do Público",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Sugerida por 2 investigadores: necrologia de Fernando Alvim (28-02-2015, Vítor Belanciano e Gonçalo Frota), entrevista a Sérgio Azevedo (Cristina Fernandes) e artigo de Nuno Pacheco sobre Jorge Tuna (14-03-2003), hoje só em recortes reproduzidos nos blogues. Acesso: confirmar o robots.txt antes de arquivar; muitos artigos exigem assinatura."
+    },
+    {
+      "id": "ordens-honorificas",
+      "nome": "Ordens Honoríficas Portuguesas (Presidência da República)",
+      "tipo": "instituicao",
+      "url": "https://www.ordens.presidencia.pt/",
+      "autor": "Presidência da República Portuguesa",
+      "estado": "pendente",
+      "decidido_em": null,
+      "uso": [
+        "factos"
+      ],
+      "recolha": {
+        "metodo": "manual"
+      },
+      "notas": "Registo oficial das condecorações: confirmaria, por exemplo, o grau de Grande Oficial da Ordem do Infante D. Henrique de António Menano (8-3-1996) e a comenda de Carlos Paredes (1992), hoje citados em segunda mão pelo Museu do Fado. Acesso: confirmar o robots.txt antes de arquivar."
     }
   ]
 }

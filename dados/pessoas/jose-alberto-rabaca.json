@@ -6,10 +6,108 @@
     "José Rabaça"
   ],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/o-nascimento-de-uma-vedeta-o-jovem.html",
+      "doc": "gc-i:113639247173462895",
+      "citacao": "O Grupo de Fados da Secção de Fado, constituído por Luís Alcoforado (voz), Paulo Soares/José Rabaça (gg) e Luís Carlos Santos (v)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+      "doc": "gc-i:115651512446535518",
+      "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+      "doc": "gc-v:3002647772718856810",
+      "citacao": "José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/encerramento-provisrio-do-site-fado-de.html",
+      "doc": "gc-i:113309938932355724",
+      "citacao": "O Dr. José Alberto Rabaça, antigo estudante da UC, guitarrista, membro da formação Praxis Nova, autor de composições, artista com obra gravada, idealizou e manteve aberto aos cibernautas durante quase 10 anos o Site FADO DE COIMBRA, cujo endereço era http://www.cidadevirtual.pt/fadocoimbra. O site foi aberto pioneiramente em 1996, tendo fechado provisoriamente em finais de Março de 2005."
+    }
+  ],
   "factos": [
+    {
+      "campo": "outro",
+      "valor": "Idealizou e manteve o site «Fado de Coimbra» (cidadevirtual.pt/fadocoimbra), aberto em 1996 e fechado provisoriamente em finais de março de 2005",
+      "data": "1996",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/encerramento-provisrio-do-site-fado-de.html",
+          "doc": "gc-i:113309938932355724",
+          "citacao": "O Dr. José Alberto Rabaça, antigo estudante da UC, guitarrista, membro da formação Praxis Nova, autor de composições, artista com obra gravada, idealizou e manteve aberto aos cibernautas durante quase 10 anos o Site FADO DE COIMBRA, cujo endereço era http://www.cidadevirtual.pt/fadocoimbra. O site foi aberto pioneiramente em 1996, tendo fechado provisoriamente em finais de Março de 2005."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de António Manuel Nunes (GC I, 2005). As capturas do site no Arquivo.pt ainda não estão arquivadas localmente."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarra no disco «Baladas de Despedida – anos 80» (1994); é um dos autores das músicas",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-baladas-de-despedida_15.html",
+          "doc": "gc-i:111090300118676425",
+          "citacao": "Capa do disco \"Baladas de Despedida - anos 80\". Foi um disco editado em 1994 que nos mostra a veia criativa dos jovens da geração de 80. ... Nas guitarras, estão, por ordem em que entram no disco, António José Moreira, Henrique Ferrão, António Vicente, João Paulo Sousa, Paulo Soares e José Alberto Rabaça. ... Músicas de António Pimentel, José Carlos Ribeiro, Petrónio Ricciulli, António Vicente, António José Moreira, João P Sousa, Rui Lucas e José Alberto Rabaça."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não diz quantas músicas são suas nem quais."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Guitarras (com Paulo Soares) na cassete «Praxis Nova. Canções de Coimbra» (Fortes & Rangel, DCS 017, 1989) e no CD «Praxis Nova, Percursos» (Fortes & Rangel, 1998)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/cassete-praxis-nova-praxis-nova.html",
+          "doc": "gc-i:115651512446535518",
+          "citacao": "\"Praxis Nova. Canções de Coimbra\", Porto, Fortes & Rangel, DCS 017, ano de 1989, com 11 temas, foi a primeira grande consagração fonográfica da formação Luís Alcoforado (voz), Paulo Soares (Jojó)/José Rabaça (gg) e Luís Carlos Santos/Carlos Costa (vv)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Praxis Nova, Percursos, Colectânea de Canções de Coimbra, CD/CDM 003, Porto, Fortes & Rangel, Lda., 1998. ... Guitarras: Paulo Soares e José Rabaça."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o post de 2026, o CD de 1998 remasteriza 19 temas gravados antes em cassete e disco."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Programa de televisão «Canção de Coimbra – Anos 80», de José Mesquita (1989): guitarra, com Paulo Soares, a acompanhar Luís Alcoforado",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/fado-do-centenario-cantado-por-luis.html",
+          "doc": "gc-iii:4926755016381055165",
+          "citacao": "Fado do Centenário, cantado por Luís Alcoforado, no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80, de 1989, acompanhado por Paulo Soares e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/luis-alcoforado-canta-coimbra-adeus-e.html",
+          "doc": "gc-iii:6638468156703924791",
+          "citacao": "Luís Alcoforado canta \"Coimbra, Adeus e Noite\", no programa televisivo de José Mesquita de 1989, Canção de Coimbra - Anos 80. É acompanhado por Paulo Soares, e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
+        }
+      ],
+      "conflito": false,
+      "nota": "Os posts do GC III publicam os vídeos."
+    },
     {
       "campo": "atuacao",
       "valor": "gravação para A Música Portuguesa a Gostar Dela Própria (Arquivo Canção de Coimbra), biblioteca nova do Seminário Maior de Coimbra, 7 de setembro de 2024: «Inquietação» (guitarra portuguesa, a acompanhar Luís Alcoforado)",
@@ -63,9 +161,40 @@
           "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436",
           "doc": "mpagdp:wc8ebc6495b6486a8",
           "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/fado-do-centenario-cantado-por-luis.html",
+          "doc": "gc-iii:4926755016381055165",
+          "citacao": "Fado do Centenário, cantado por Luís Alcoforado, no programa televisivo de José Mesquita, Canção de Coimbra - Anos 80, de 1989, acompanhado por Paulo Soares e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/06/luis-alcoforado-canta-coimbra-adeus-e.html",
+          "doc": "gc-iii:6638468156703924791",
+          "citacao": "Luís Alcoforado canta \"Coimbra, Adeus e Noite\", no programa televisivo de José Mesquita de 1989, Canção de Coimbra - Anos 80. É acompanhado por Paulo Soares, e José Rabaça em guitarra, Luís Carlos e Carlos Costa em viola."
         }
       ],
-      "nota": "guitarra portuguesa; gravação de 7 de setembro de 2024"
+      "nota": "guitarra portuguesa; gravação de 7 de setembro de 2024 e programa de televisão de 1989"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "paulo-soares",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/blog-post_09.html",
+          "doc": "gc-ii:6666502653484933195",
+          "citacao": "Nele, Paulo Soares interpreta Variações em Mi menor de Artur Paredes, acompanhado por José Rabaça na guitarra, Carlos Costa e Luís Carlos nas violas."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/12/os-praxis-nova-em-postal-ilustrado.html",
+          "doc": "gc-v:3002647772718856810",
+          "citacao": "José Alberto Rabaça, que durante anos foi 2.º gC de Paulo Soares (Jojó)"
+        }
+      ],
+      "nota": "2.ª guitarra; vídeo da década de 1980 com as «Variações em Mi menor» de Artur Paredes"
     }
   ],
   "imagens": [],

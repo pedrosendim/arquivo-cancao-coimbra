@@ -4,44 +4,170 @@
   "nome": "Luiz Goes",
   "nomes_alternativos": [
     "Luís Goes",
-    "Luís Fernando de Sousa Pires de Goes"
+    "Luís Fernando de Sousa Pires de Goes",
+    "Luiz Fernando de Sousa Pires de Goes"
   ],
   "papeis": [
     "cantor",
     "compositor",
     "letrista"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/luiz-goes-o-homem-de-caracter-o-amigo-o.html",
+      "doc": "gc-v:7625925797346928950",
+      "citacao": "LUIZ FERNANDO DE SOUSA PIRES DE GOES, nasceu em Coimbra, a 5 de Janeiro de 1933, e veio a falecer em Mafra, a 18 de Setembro de 2012."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Luiz nasce numa espécie de berço musical, crescendo a ouvir o seu tio Armando Goes (uma das vozes mais distintivas da Coimbra dos anos 20), frequentemente acompanhado pelo pai à guitarra e a mãe ao piano. Não admira então que cedo se tenha iniciado nas cantorias, conhecendo uma auspiciosa estreia pública aos 14 anos de idade, numa festa do Liceu D. João III (actual Escola Secundaria José Falcão)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Em 1952, o grupo é convidado para gravação de oito discos de 78 rotações. Dois deles têm a voz de Luiz Goes, que ingressara no curso de Medicina dois anos antes."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Em Março de 1957, Luiz Goes dá voz ao histórico registo do Coimbra Quintet, primeiramente editado com o título \"Serenata de Coimbra\" e, posteriormente, \"Fados de Coimbra\"."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Em 1958, Luiz Goes termina a licenciatura em Medicina, e muda-se para Lisboa onde passa a exercer a especialidade de estomatologia."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Em 1963, o cantor é chamado para o serviço militar, sendo mobilizado para a Guiné-Bissau onde, até 1965, desempenha as funções de alferes-médico numa das frentes da guerra colonial."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+      "doc": "gc-i:2013965392059379611",
+      "citacao": "Em 1967, e pondo fim a uma pausa de dez anos, Luiz Goes grava o seu primeiro álbum em nome próprio, intitulado \"Coimbra de Ontem e de Hoje\" para a Valentim de Carvalho e editado com o selo Columbia."
+    },
+    {
+      "fonte": "rtp-memoria-gramofone",
+      "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+      "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+      "citacao": "No Natal de 2002, mesmo a tempo de celebrar os 70 anos do cantor no ano seguinte, é publicada a integral das suas gravações, “Canções para Quem Vier - Integral 1952-2002”, num esforço editorial da Valentim de Carvalho"
+    }
+  ],
   "factos": [
     {
+      "campo": "nome_completo",
+      "valor": "Luiz Fernando de Sousa Pires de Goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz Goes, de seu nome completo Luiz Fernando de Sousa Pires de Goes, nasceu em Coimbra a 5 de Janeiro de 1933."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/luiz-goes-o-homem-de-caracter-o-amigo-o.html",
+          "doc": "gc-v:7625925797346928950",
+          "citacao": "LUIZ FERNANDO DE SOUSA PIRES DE GOES, nasceu em Coimbra, a 5 de Janeiro de 1933"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Faleceu no dia 18 de Setembro de 2012 o ex- Alferes Mil.º Médico Luiz Fernando de Sousa Pires de Goes"
+        }
+      ],
+      "conflito": false,
+      "nota": "Com a grafia «Luiz». O post do GC V de 2016 (iconografia) escreve «Luís Fernando de Sousa Pires de Goes»."
+    },
+    {
       "campo": "nascimento",
-      "valor": "1933",
-      "data": "1933",
+      "valor": "Coimbra, 5 de janeiro de 1933",
+      "data": "1933-01-05",
+      "local": "Coimbra",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Luiz Goes (1933-2012) constituem a Segunda Geração de Oiro da Canção de Coimbra."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/luiz-goes-o-homem-de-caracter-o-amigo-o.html",
+          "doc": "gc-v:7625925797346928950",
+          "citacao": "LUIZ FERNANDO DE SOUSA PIRES DE GOES, nasceu em Coimbra, a 5 de Janeiro de 1933"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz Goes, de seu nome completo Luiz Fernando de Sousa Pires de Goes, nasceu em Coimbra a 5 de Janeiro de 1933."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/aniversario-natalicio-de-luiz-goes.html",
+          "doc": "gc-v:2918557838579067066",
+          "citacao": "Luiz Goes nasceu em Coimbra a 5 de janeiro de 1933"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "LUIZ Fernando de Sousa Pires de GOES. Nasceu em Coimbra a 5 de Janeiro de 1933"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, «Nótula sobre as três gerações de oiro da Canção de Coimbra», revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, «Nótula sobre as três gerações de oiro da Canção de Coimbra», revista Fadista n.º 6 (2024) (só o ano). Dia e local nos posts do GC I (2007, texto de Álvaro José Ferreira) e do GC V (2013, 2014, 2015)."
     },
     {
       "campo": "morte",
-      "valor": "2012",
-      "data": "2012",
+      "valor": "Mafra, 18 de setembro de 2012, com 79 anos",
+      "data": "2012-09-18",
+      "local": "Mafra",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Luiz Goes (1933-2012)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/luiz-goes-o-homem-de-caracter-o-amigo-o.html",
+          "doc": "gc-v:7625925797346928950",
+          "citacao": "LUIZ FERNANDO DE SOUSA PIRES DE GOES, nasceu em Coimbra, a 5 de Janeiro de 1933, e veio a falecer em Mafra, a 18 de Setembro de 2012."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "LUIZ Fernando de Sousa Pires de GOES. Nasceu em Coimbra a 5 de Janeiro de 1933 e faleceu em Mafra a 18 de Setembro de 2012."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Faleceu no dia 18 de Setembro de 2012 o ex- Alferes Mil.º Médico Luiz Fernando de Sousa Pires de Goes"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "O cantor Luiz Goes, de 79 anos, uma das referências da canção de Coimbra, morreu hoje em Mafra"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024) (só o ano). Dia e local nos posts do GC V (2013, 2014) e na notícia da Lusa reproduzida no GC IV (2012)."
     },
     {
       "campo": "residencia",
@@ -56,8 +182,46 @@
           "citacao": "o Ciclo Goesiano (1967-1983) de um Luiz Goes que, desde Janeiro de 1959 já radicado em Lisboa, reaparece."
         }
       ],
-      "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). As fontes dão anos diferentes para a ida para Lisboa: ver os dois factos seguintes (1958 e 1966)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Muda-se para Lisboa em 1958, ao terminar a licenciatura em Medicina",
+      "data": "1958",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1958, Luiz Goes termina a licenciatura em Medicina, e muda-se para Lisboa onde passa a exercer a especialidade de estomatologia."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "eu em 1958 já estava em Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Álvaro José Ferreira («Galeria da Música Portuguesa»), com palavras do próprio, reproduzido no GC I (2007)."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Fixou residência em Lisboa quando regressou da Guiné, em 1966",
+      "data": "1966",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Quando regressou, em 1966, Luiz Goes fixou residência em Lisboa"
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia da Lusa (2012) reproduzida no post. O mesmo post dá o serviço na Guiné até 25 de abril de 1965."
     },
     {
       "campo": "atividade",
@@ -118,10 +282,22 @@
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Foi o álbum “Canções do Mar e da Vida” (1969) que nos revelou um Luiz Goes atento ao mundo que o rodeava com as suas ... primeiras incursões na temática social e de intervenção."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "precisamente intitulado \"Canções do Mar e da Vida\", gravado em Julho de 1969, também por Hugo Ribeiro, nos Estúdios de Paço d'Arcos."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Esta “Canção do Regresso” faz parte do segundo álbum de Luiz Goes, “Canções do Mar e da Vida”, de 1969."
         }
       ],
-      "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O texto de 2007 (GC I) precisa «gravado em Julho de 1969». A notícia da Lusa de 2012 (GC IV) chama-lhe «Coimbra do mar e da vida»: ver o facto da discografia segundo a Lusa."
     },
     {
       "campo": "gravacao",
@@ -139,10 +315,22 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2021/06/1971-2021-nos-50-anos-da-gravacao-do-lp.html",
           "doc": "gc-v:765637730129187761",
           "citacao": "“Canções de Amor e de Esperança” cinquenta anos depois! (1971-2021) Jorge Cravo Passarão, no próximo mês de Dezembro, cinquenta anos sobre a gravação do melhor disco criado por cultores amadores da Canção de Coimbra: “Canções de Amor e de Esperança” de Luiz Goes. Uma obra magistralmente acompanhada e musicada por António Andias (g.), João Gomes (v.), António Toscano (v.) e Durval Moreirinhas (v.), com todas as letras originais do poeta Leonel Neves e do próprio Goes, que também musicou umas poucas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "segue-se o LP \"Canções de Amor e de Esperança\", gravado em Dezembro de 1971, mais uma vez por Hugo Ribeiro, nos Estúdios de Paço d'Arcos."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "No álbum seguinte, “Canções de Amor e de Esperança” (1971)"
         }
       ],
-      "conflito": false,
-      "nota": "Textos de Jorge Cravo (revista Fadista n.º 6, 2024; texto de 2021 reproduzido no blogue GC-V). O mesmo blogue (2017) refere o LP como «comercializado em 1972»."
+      "conflito": true,
+      "nota": "Textos de Jorge Cravo (revista Fadista n.º 6, 2024; texto de 2021 reproduzido no blogue GC-V). O mesmo blogue (2017) refere o LP como «comercializado em 1972». A notícia da Lusa de 2012 (GC IV) data-o de 1969: ver o facto da discografia segundo a Lusa."
     },
     {
       "campo": "gravacao",
@@ -158,6 +346,473 @@
       ],
       "conflito": false,
       "nota": "Biografia de Jorge Cravo no livrete do CD «Canções d'Inquietude» (2005), reproduzida no post."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciatura em Medicina pela Universidade de Coimbra, concluída em 1958",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1958, Luiz Goes termina a licenciatura em Medicina"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Licenciou-se em Medicina pela Universidade de Coimbra, em 1958"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Álvaro José Ferreira reproduzido no GC I (2007); notícia da Lusa reproduzida no GC IV (2012)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Instituto de Música de Coimbra, onde foi ensinado pela professora Arminda Correia (solfejo)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Estive, aliás, no Instituto de Música de Coimbra, onde fui ensinado pela professora Arminda Correia, que depois veio para o Conservatório de Lisboa. Andei a aprender solfejo"
+        }
+      ],
+      "conflito": false,
+      "nota": "Palavras do próprio, citadas no texto de Álvaro José Ferreira (GC I, 2007). Arminda Correia não tem ficha; por isso não se criou a relação «aluno_de»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Exerceu medicina de 1955 a 2003",
+      "data": "1955",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/luiz-goes-o-homem-de-caracter-o-amigo-o.html",
+          "doc": "gc-v:7625925797346928950",
+          "citacao": "como médico que exerceu medicina, de 1955 a 2003"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (GC V, 2013). Diverge do facto seguinte: os textos de 2007 (GC I) e de 2012 (Lusa, GC IV) dão a licenciatura em Medicina como concluída em 1958."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Estomatologista em Lisboa a partir de 1958, até à reforma em 2003",
+      "data": "1958",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1958, Luiz Goes termina a licenciatura em Medicina, e muda-se para Lisboa onde passa a exercer a especialidade de estomatologia."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Luiz Goes fixou residência em Lisboa, onde exerceu a profissão de Estomatologista até à reforma em 2003."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "o médico estomatologista e recém-regressado do Serviço Militar na Guiné"
+        }
+      ],
+      "conflito": true,
+      "nota": "O início em 1958 é do texto de Álvaro José Ferreira (GC I, 2007); a reforma em 2003 é da notícia da Lusa (GC IV, 2012), que dá a licenciatura em 1958 e põe a fixação em Lisboa no regresso da Guiné, em 1966 (ver os factos de residência). Diverge do facto anterior (medicina desde 1955)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Estreia pública aos 14 anos, numa festa do Liceu D. João III, cantando «Feiticeira» (fado-serenata de Ângelo de Araújo)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "conhecendo uma auspiciosa estreia pública aos 14 anos de idade, numa festa do Liceu D. João III (actual Escola Secundaria José Falcão). Aí canta \"Feiticeira\", fado-serenata da autoria de Ângelo de Araújo"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Luiz Goes começou a cantar aos 14 anos, em público"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Estudante, integrou o Orfeão Académico (solista do naipe de barítonos, com o qual percorreu o Brasil) e o TEUC",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz Goes nos seus tempos de estudante, integra o Orfeão Académico, onde é solista do naipe de barítonos, e o Teatro dos Estudantes da Universidade de Coimbra (TEUC), dirigido pelo Professor Paulo Quintela."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Integrou o Orfeão de Coimbra, na categoria de barítono solista, tendo percorrido o Brasil integrado neste agrupamento."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Orfeon Académico e o TEUC ainda não têm ficha; por isso não se criou a relação «membro_de»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Estreia na televisão em 1954, no Canal 7 da TV Paulista, com o Orfeão Académico, no 4.º Centenário da Cidade de São Paulo",
+      "data": "1954",
+      "local": "São Paulo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1954, Luiz Goes estreia-se na televisão, no Canal 7 da TV Paulista, quando o Orfeão Académico é convidado a participar nas comemorações do 4.º Centenário da Cidade de São Paulo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiras gravações em 1952: dois dos oito discos de 78 rpm do grupo de António Brojo, a convite da editora Alvorada, com «Dobadoira», «Rezas à Noite (Ave Maria)», «Minha Barca» e «Soneto» (estes dois da sua autoria)",
+      "data": "1952",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "virão a integrar o grupo liderado pelo guitarrista António Brojo. Em 1952, o grupo é convidado para gravação de oito discos de 78 rotações. Dois deles têm a voz de Luiz Goes"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Daí decorre o convite da Alvorada, editora sediada no Porto, para gravar as novas revelações da música de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz Goes canta quatro fados – \"Dobadoira\", \"Rezas à Noite (Ave Maria)\", \"Minha Barca\" e \"Soneto\" –, sendo os dois últimos da sua autoria (letra e música)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Álvaro José Ferreira (GC I, 2007). Ver o facto seguinte: o Gramofone indica a Rádio Triunfo e a publicação em 1953."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeira gravação para a firma portuense Rádio Triunfo, com António Brojo, António Portugal, Aurélio Reis e Mário de Castro: dois discos de 78 rpm publicados em 1953, com «Minha Barca» e «Soneto»",
+      "data": "1953",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Luiz Goes grava pela primeira vez para a firma portuense Rádio Triunfo, ao lado dos guitarristas António Brojo, António Portugal, Aurélio Reis e Mário de Castro. Em dois discos de 78 rotações, publicados em 1953, inclui duas composições suas: “Minha Barca” e “Soneto”."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha «Gramofone» de João Carlos Callixto (RTP Memória)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em 1956, três temas nos EP «Fados e Guitarradas de Coimbra» (Alvorada), acompanhado por António Portugal, Jorge Godinho, Manuel Pepe e Levi Batista",
+      "data": "1956",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1956, Luiz Goes grava mais três temas ... incluídos em tantos EP de \"Fados e Guitarradas de Coimbra\" (editados pela Alvorada), tendo como acompanhadores António Portugal, Jorge Godinho (guitarras), Manuel Pepe e Levi Batista (violas)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Álvaro José Ferreira (GC I, 2007). Ver o facto seguinte (Rádio Triunfo, 1958). A biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008) fala de três discos de 45 rpm para a Alvorada, por um grupo que «perdurou até 1958»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Série «Fados e Guitarradas de Coimbra» gravada pela Rádio Triunfo e saída em três discos em 1958; canta três composições, com o acompanhamento do LP da Philips",
+      "data": "1958",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Pelas mesmas alturas, a firma Rádio Triunfo grava nova série de canções de Coimbra, que vêm a sair em três discos em 1958 com o título genérico “Fados e Guitarradas de Coimbra”. Com o mesmo acompanhamento instrumental do LP da Philips, Luiz Goes canta aqui três composições."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha «Gramofone» de João Carlos Callixto (RTP Memória)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Serenata de Coimbra» (depois «Fados de Coimbra»), com o Coimbra Quintet, gravado em Madrid em março de 1957 e publicado pela Philips",
+      "data": "1957-03",
+      "local": "Madrid",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em Março de 1957, Luiz Goes dá voz ao histórico registo do Coimbra Quintet, primeiramente editado com o título \"Serenata de Coimbra\" e, posteriormente, \"Fados de Coimbra\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "O registo é efectuado em Madrid, nos Teatro do Príncipe Real"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "O álbum “Serenata de Coimbra”, gravado em Madrid e publicado pela Philips em 1957, torna-se um êxito internacional"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "O disco \"Serenata de Coimbra\", que gravou em 1957"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Primeira serenata de Coimbra transmitida em direto pela RTP (1957), junto dos estúdios do Lumiar",
+      "data": "1957",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz Goes será também um dos cantores a actuar na primeira serenata de Coimbra transmitida em directo pela RTP, em 1957"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/blog-post.html",
+          "doc": "gc-ii:4911526081352462474",
+          "citacao": "Neste mesmo ano (1957) integra a 1ª Primeira Serenata de Coimbra transmitida em directo pela R.T.P., junto de um olival perto dos velhos estúdios do Lumiar, com a realização de Ruy Ferrão: Manuel Pepe (viola), António Portugal e Jorge Godinho (guitarras), Levy Baptista (viola) e Luiz Goes (a cantar)."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é da biografia de Jorge Godinho por Ana Maria Lopes (GC II, 2008)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Serviço militar na Guiné, como alferes-médico, de 20 de setembro de 1963 a 25 de abril de 1965 (Companhia de Comando e Serviços do Batalhão de Caçadores 506)",
+      "data": "1963-09-20",
+      "local": "Guiné",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "prestou serviço no Comando Territorial Independente da Guiné, integrado na Companhia de Comando e Serviços (CCS) do Batalhão de Caçadores 506, no período de 20 de Setembro de 1963 a 25 de Abril de 1965."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1963, o cantor é chamado para o serviço militar, sendo mobilizado para a Guiné-Bissau onde, até 1965, desempenha as funções de alferes-médico numa das frentes da guerra colonial."
+        }
+      ],
+      "conflito": false,
+      "nota": "Dados do portal de antigos combatentes reproduzidos no GC IV (2012)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro álbum em nome próprio, «Coimbra de Ontem e de Hoje» (Valentim de Carvalho, selo Columbia), gravado em março de 1967 nos Estúdios de Paço d'Arcos",
+      "data": "1967-03",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 1967, e pondo fim a uma pausa de dez anos, Luiz Goes grava o seu primeiro álbum em nome próprio, intitulado \"Coimbra de Ontem e de Hoje\" para a Valentim de Carvalho e editado com o selo Columbia. A gravação decorre em Março de 1967 nos Estúdios de Paço d'Arcos pelo técnico Hugo Ribeiro"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "Estávamos em 1967 e o título desse trabalho, publicado pela Valentim de Carvalho, dizia logo ao que vinha: “Coimbra de Ontem e de Hoje”."
+        }
+      ],
+      "conflito": true,
+      "nota": "A notícia da Lusa de 2012 (GC IV) data o álbum de 1966: ver o facto seguinte."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discografia segundo a notícia da Lusa (2012): «Coimbra de ontem e de hoje» (1966), «Coimbra do mar e da vida» (1969), «Canções de Amor e de Esperança» (1969) e «Canções para quase Todos» (1983)",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Da sua extensa discografia - no início da carreira, ainda gravou em 78 rotações -, refiram-se os álbuns \"Coimbra de ontem e de hoje\" (1966), \"Coimbra do mar e da vida\" (1969), \"Canções de Amor e de Esperança\" (1969) e \"Canções para quase Todos\" (1983)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Notícia da Lusa reproduzida no GC IV (2012). Os outros textos dão 1967 para o primeiro álbum, «Canções do Mar e da Vida» como título do de 1969 e 1971 para «Canções de Amor e de Esperança»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Canções Para Quase Todos» (1983), com poemas seus, de Leonel Neves, Miguel Torga e Edmundo de Bettencourt",
+      "data": "1983",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "em 1983 Luiz Goes grava o LP \"Canções Para Quase Todos\", a partir de poemas seus, de Leonel Neves, Miguel Torga e Edmundo de Bettencourt."
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "O quarto e último álbum de Luiz Goes, “Canções para Quase Todos”, chegou apenas em 1983."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Obra integral «Canções Para Quem Vier – Integral 1952-2002» (EMI-Valentim de Carvalho, 2002), com quatro CD e um livro",
+      "data": "2002",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 2002, assinalando os 50 anos da primeira gravação de Luiz Goes, a EMI-Valentim de Carvalho, reúne a obra integral numa cuidada edição intitulada \"Canções Para Quem Vier\", constituída por quatro CD e um livro"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "No Natal de 2002, mesmo a tempo de celebrar os 70 anos do cantor no ano seguinte, é publicada a integral das suas gravações, “Canções para Quem Vier - Integral 1952-2002”, num esforço editorial da Valentim de Carvalho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Coimbra: Espírito e Raiz» (CD e DVD, 2005), projeto do compositor e guitarrista João Moura",
+      "data": "2005",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "E será, finalmente, em 2005 que Luiz Goes virá a gravar um novo álbum, regressando à sua Coimbra de sempre, concretizando um projecto do compositor e guitarrista João Moura"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Com o título \"Coimbra: Espírito e Raiz\", a edição é composta por CD e DVD"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Como autor, assinou 25 fados e 18 baladas",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "como autor, Luiz Goes assinou 25 fados e 18 baladas"
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia da Lusa reproduzida no GC IV (2012)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Medalha de Ouro da Cidade de Coimbra (cerimónia de 4 de julho de 1998)",
+      "data": "1998-07-04",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "a 4 de Julho de 1998, aquando da cerimónia de entrega da Medalha de Ouro de Coimbra a Luiz Goes"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "a Medalha de Ouro da Cidade de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Fado de Coimbra da Fundação Amália Rodrigues, 18 de outubro de 2005",
+      "data": "2005-10-18",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Em 18 de Outubro de 2005, Luiz Goes é distinguido com o Prémio Fado de Coimbra, atribuído pela Fundação Amália Rodrigues."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "o Prémio Amália Rodrigues 2005, na categoria Fado de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Ordem do Infante D. Henrique (grau de Grande Oficial) e Medalha de Mérito Cultural da Câmara Municipal de Cascais",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Luiz Goes, foi condecorado com a Ordem do Infante Dom Henrique, grau de Grande Oficial, a Medalha de Ouro da Cidade de Coimbra, a Medalha de Mérito Cultural da Câmara Municipal de Cascais"
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia da Lusa reproduzida no GC IV (2012); não indica datas."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem Nacional no Casino do Estoril, 25 de novembro de 2006, promovida pela Associação de Antigos Estudantes de Coimbra em Lisboa",
+      "data": "2006-11-25",
+      "local": "Estoril",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "No dia 25 de Novembro de 2006, no Casino do Estoril, é prestada uma Homenagem Nacional a Luiz Goes, num espectáculo apresentado por Sansão Coelho. No evento, promovido pela Associação de Antigos Estudantes de Coimbra em Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [
@@ -265,9 +920,34 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
           "doc": "gc-iv:3111407186144885821",
           "citacao": "Sobrinho de Armando Goes"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407",
+          "doc": "rtp-memoria-gramofone:w3a9f80a39f5bf34c",
+          "citacao": "cantor e escritor de canções com percurso sólido na nossa Música desde 1953, quando tinha apenas 20 anos, e sobrinho de Armando Goes."
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/guine-imagens-cedidas-por-ex.html",
+          "doc": "gc-iv:3111407186144885821",
+          "citacao": "Iniciou-se no fado por influência do tio paterno, Armando Goes"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html",
+          "doc": "gc-i:2013965392059379611",
+          "citacao": "Luiz nasce numa espécie de berço musical, crescendo a ouvir o seu tio Armando Goes (uma das vozes mais distintivas da Coimbra dos anos 20)"
+        }
+      ],
+      "nota": "Notícia da Lusa reproduzida no GC IV (2012); texto de Álvaro José Ferreira (GC I, 2007)."
     }
   ],
   "imagens": [
@@ -284,6 +964,15 @@
       ]
     }
   ],
-  "ligacoes": [],
+  "ligacoes": [
+    {
+      "rotulo": "Biografia (Álvaro José Ferreira, «Galeria da Música Portuguesa», no GC I, 2007)",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/05/luiz-goes.html"
+    },
+    {
+      "rotulo": "Gramofone — Luiz Goes, por João Carlos Callixto (RTP Memória)",
+      "url": "https://www.rtp.pt/rtpmemoria/gramofone/luiz-goes-por-joao-carlos-callixto_1407"
+    }
+  ],
   "estado_revisao": "rascunho"
 }

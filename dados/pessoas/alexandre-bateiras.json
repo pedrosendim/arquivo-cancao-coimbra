@@ -4,10 +4,249 @@
   "nome": "Alexandre Bateiras",
   "nomes_alternativos": [],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+      "doc": "gc-i:8674084956108269102",
+      "citacao": "Alexandre Bateiras nasceu em Lisboa e começou a tocar Guitarra Portuguesa aos 15 anos por influência do seu Avô materno. Após a morte do seu Avô, prosseguiu o estudo deste instrumento profundamente português como autodidacta."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/alexandre-bateiras-no-barreiro.html",
+      "doc": "gc-ii:8724631385243399134",
+      "citacao": "Seguidor da escola de Coimbra, abraça a Guitarra Portuguesa e a sua tradição seguindo e celebrando as pisadas de nomes incontornáveis como Artur Paredes, Carlos Paredes ou Jorge Tuna. Auto-didacta, dedicou-se durante a maior parte da sua vida a acompanhar outros músicos, e a seguir reportório de outros compositores."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+      "doc": "gc-i:8674084956108269102",
+      "citacao": "Em 1997, a convite de Luisa Amaro, começou a trabalhar temas inéditos de Carlos Paredes, os quais viria a apresentar ao público num espectáculo realizado no encerramento da Expo-98 e nas comemorações do 75º aniversário de Carlos Paredes (16-02-2000)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+      "doc": "gc-i:8674084956108269102",
+      "citacao": "Outro momento importante na carreira de Alexandre Bateiras foi o seu concerto “Tocar Coimbra do Passado ao Futuro...” que se realizou na Expo-98 (17-09-1998) e na Torre de Belém (26-07-1999) integrado na “Temporada de Concertos - 1999 no Manuelino de Belém”."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+      "doc": "gc-i:8674084956108269102",
+      "citacao": "Em 2002 (23-05) participou no 13º Cantigas do Maio (Festival Internacional de Música Tradicional). Na sequência desta actuação foi convidado a participar no programa “Variações: Histórias que a Guitarra Conta” da estação ANTENA 1 da R.D.P."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+      "doc": "gc-i:8674084956108269102",
+      "citacao": "Nos últimos anos Alexandre Bateiras tem dedicado especial empenho à criação das suas próprias composições e à sua divulgação, com o objectivo de criar repertório adicional para a Guitarra Portuguesa, como instrumento de concerto."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Lisboa",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Alexandre Bateiras nasceu em Lisboa"
+        }
+      ],
+      "conflito": false,
+      "nota": "Biografia reproduzida no post a partir do site de João Cuña (guitarraportuguesa.com). A fonte não dá a data."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a tocar guitarra portuguesa aos 15 anos, por influência do avô materno; depois prosseguiu como autodidata",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "começou a tocar Guitarra Portuguesa aos 15 anos por influência do seu Avô materno. Após a morte do seu Avô, prosseguiu o estudo deste instrumento profundamente português como autodidacta."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Principais referências: obras de Carlos Paredes, Artur Paredes e Jorge Tuna e a técnica de execução da guitarra de Coimbra",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "As suas principais referências são obras de Carlos Paredes, Artur Paredes e Jorge Tuna e a técnica de execução da Guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/alexandre-bateiras-no-barreiro.html",
+          "doc": "gc-ii:8724631385243399134",
+          "citacao": "Seguidor da escola de Coimbra, abraça a Guitarra Portuguesa e a sua tradição seguindo e celebrando as pisadas de nomes incontornáveis como Artur Paredes, Carlos Paredes ou Jorge Tuna."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Solista em espetáculos com a colaboração de João Gomes e acompanhador (suporte instrumental) de cantores de Coimbra como Luiz Goes, António Sutil Roque e Augusto Camacho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Tem participado em diversos espectáculos como solista, para os quais tem contado com a colaboração de João Gomes. Ou como suporte instrumental de cantores de Coimbra como Luiz Goes, António Sutil Roque e Augusto Camacho."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "A convite de Luísa Amaro, trabalhou a partir de 1997 temas inéditos de Carlos Paredes, apresentados no encerramento da Expo-98 e nas comemorações do 75.º aniversário de Carlos Paredes (16-02-2000)",
+      "data": "1997",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Em 1997, a convite de Luisa Amaro, começou a trabalhar temas inéditos de Carlos Paredes, os quais viria a apresentar ao público num espectáculo realizado no encerramento da Expo-98 e nas comemorações do 75º aniversário de Carlos Paredes (16-02-2000)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/alexandre-bateiras-no-barreiro.html",
+          "doc": "gc-ii:8724631385243399134",
+          "citacao": "Recentemente foi responsável por um espectáculo da Expo 98 em que se propôs a terminar alguns temas inacabados de Carlos Paredes"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiras gravações em 1997, incluindo uma das suas primeiras composições",
+      "data": "1997",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "1997 foi também o ano das suas primeiras gravações, tendo gravado nessa altura uma das suas primeiras composições."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Concerto «Tocar Coimbra do Passado ao Futuro...», na Expo-98 (17-09-1998) e na Torre de Belém (26-07-1999), este transmitido pela Antena 2",
+      "data": "1998-09-17",
+      "local": "Expo-98; Torre de Belém",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Outro momento importante na carreira de Alexandre Bateiras foi o seu concerto “Tocar Coimbra do Passado ao Futuro...” que se realizou na Expo-98 (17-09-1998) e na Torre de Belém (26-07-1999) integrado na “Temporada de Concertos - 1999 no Manuelino de Belém”. ... O concerto da Torre de Belém viria a ser mais tarde transmitido na estação ANTENA 2 da R.D.P."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "13.º Cantigas do Maio (Festival Internacional de Música Tradicional), 23-05-2002; depois, convidado para o programa «Variações: Histórias que a Guitarra Conta» (Antena 1)",
+      "data": "2002-05-23",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Em 2002 (23-05) participou no 13º Cantigas do Maio (Festival Internacional de Música Tradicional). Na sequência desta actuação foi convidado a participar no programa “Variações: Histórias que a Guitarra Conta” da estação ANTENA 1 da R.D.P."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Álbum «Canções da Lua Nova» (Merzbau, Online), projeto inspirado nas paisagens do Baixo Alentejo, com as primeiras gravações nos E.U.A.",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "encontra-se presentemente a desenvolver o projecto “Canções da Lua Nova”, um projecto inspirado nas paisagens do Baixo Alentejo e cujas primeiras gravações decorreram nos E.U.A."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/07/alexandre-bateiras-no-barreiro.html",
+          "doc": "gc-ii:8724631385243399134",
+          "citacao": "tendo mais tarde gravado o álbum Canções da Lua Nova (Merzbau, Online)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Posts de 2007 (projeto em curso) e 2008 (álbum gravado)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Compositor para guitarra portuguesa, como instrumento de concerto; o blogue publicou a partitura das suas «Variações sobre um tema em Sol»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Nos últimos anos Alexandre Bateiras tem dedicado especial empenho à criação das suas próprias composições e à sua divulgação, com o objectivo de criar repertório adicional para a Guitarra Portuguesa, como instrumento de concerto."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/partitura-de-variaes-sobre_112161078028724981.html",
+          "doc": "gc-i:112161078028724981",
+          "citacao": "Partitura de \"Variações sobre um tema em Sol\" (1) de Alexandre Bateiras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Toca em guitarras portuguesas construídas por Gilberto Grácio",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Alexandre Bateiras toca em Guitarras Portuguesas construídas por Gilberto Grácio."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -33,6 +272,45 @@
         }
       ],
       "nota": "guitarra (1997, 2015)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Ou como suporte instrumental de cantores de Coimbra como Luiz Goes, António Sutil Roque e Augusto Camacho."
+        }
+      ],
+      "nota": "guitarra («suporte instrumental»)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Ou como suporte instrumental de cantores de Coimbra como Luiz Goes, António Sutil Roque e Augusto Camacho."
+        }
+      ],
+      "nota": "guitarra («suporte instrumental»)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Ou como suporte instrumental de cantores de Coimbra como Luiz Goes, António Sutil Roque e Augusto Camacho."
+        }
+      ],
+      "nota": "guitarra («suporte instrumental»). A fonte escreve «Augusto Camacho»; ambos integram o Grupo Serenata de Coimbra."
     }
   ],
   "imagens": [
@@ -45,6 +323,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/09/livramento-25-de-agosto-de_112570302075060825.html",
           "doc": "gc-i:112570302075060825",
           "citacao": "Livramento, 25 de Agosto de 2005, na residência de Rodrigues Pereira. Alexandre Bateiras e a sua guitarra."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJqT9uCP-qk82ocEj2oI3EXN2izaCgNOBpTKCm_Tx-iXV1UUX5ynl9UmfEWLB9XwwxXc34rIwXviUFJ91CfvvHXpHiBedNWqzkLLtoN2MaY4IML3HDuq9Mr5-wPjyCX6Bjv_F7/s1600-h/Alexandre+Bateiras.jpg",
+      "legenda": "Foto de Alexandre Bateiras, referido como o guitarrista da semana no site de João Cuña (guitarraportuguesa.com).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/joo-cua-enviou-me-o-endereo-do-seu.html",
+          "doc": "gc-i:8674084956108269102",
+          "citacao": "Aproveito para inserir novamente o cartaz dos Encontros Internacionais de Guitarra Portuguesa retirado deste site, assim como uma foto de Alexandre Bateiras, referido como o guitarrista da semana."
         }
       ]
     }

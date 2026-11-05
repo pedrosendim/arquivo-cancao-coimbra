@@ -6,9 +6,48 @@
     "Armando Carlos da Silva Marta"
   ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "letrista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "-Nasce a 7 de Dezembro, em Pinhel, Armando Carlos da Silva Marta."
+    },
+    {
+      "fonte": "jorge-cravo",
+      "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+      "doc": "jorge-cravo:w8257b866bfdf1800",
+      "citacao": "Importa, igualmente, falar de Armando Marta (1940-2007), estudante cantor dos anos 60"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+      "doc": "gc-v:5164846926243495276",
+      "citacao": "EP COIMBRA SERENADE. ARMANDO MARTA. Porto: RAPSÓDIA, EPF 5.205, 1963 Eduardo de Melo/Ernesto de Melo (1.ª e 2.ª guitarras de Coimbra); Durval Moreirinhas (v nylon)"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-armando-marta-4-canes-de.html",
+      "doc": "gc-i:112810276831338237",
+      "citacao": "Capa do EP \"Armando Marta - 4 Canções de Coimbra\", da etiqueta Zip-Zip, saído em 1972. Canta Armando Marta, acompanhado à guitarra por António Andias e à viola por Durval Moreirinhas. Aqui, a bonita voz de Armando Marta encontra-se no seu apogeu."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+      "doc": "gc-i:2362417919502028359",
+      "citacao": "Foram 15 anos que com ele convivi, integrado num grupo com António Bernardino e Durval Moreirinhas. Correu-se o mundo em todos os sentidos e só terminámos quando a morte nos levou o BERNA. A partir daqui, Armando Marta não mais quis cantar."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+      "doc": "gc-i:2362417919502028359",
+      "citacao": "Morreu ontem o meu amigo e companheiro de jornada Armando Marta. ... As cinzas seguirão no dia seguinte, domingo, para Pinhel, sua terra natal, de que tanto falava com muito orgulho."
+    }
+  ],
   "factos": [
     {
       "campo": "nome_completo",
@@ -26,7 +65,8 @@
     },
     {
       "campo": "nascimento",
-      "valor": "Pinhel, 7 de dezembro",
+      "valor": "Pinhel, 7 de dezembro de 1940",
+      "data": "1940-12-07",
       "local": "Pinhel",
       "fontes": [
         {
@@ -34,10 +74,16 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
           "doc": "gc-i:116638481779194072",
           "citacao": "-Nasce a 7 de Dezembro, em Pinhel, Armando Carlos da Silva Marta."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/balada-da-moleirinha.html?showComment=1277638050971#c2905264119103422673",
+          "doc": "gc-iii:c2905264119103422673",
+          "citacao": "Armando Carlos da Silva Marta é um cantor falecido há pouco tempo, 16 de Agosto de 2007,tendo nascido em Pinhel, região da Guarda, a 7 de Dezembro de 1940."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "Cronologia do GC I (2006) e comentário de Octávio Sérgio, autor do blogue, no GC III (27-06-2010), que escreve o ano."
     },
     {
       "campo": "nascimento",
@@ -55,19 +101,69 @@
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Ano coincidente com o do nome completo registado acima; complementa o facto anterior (local e dia)."
     },
     {
+      "campo": "naturalidade",
+      "valor": "Pinhel («sua terra natal»)",
+      "data": "",
+      "local": "Pinhel",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "As cinzas seguirão no dia seguinte, domingo, para Pinhel, sua terra natal, de que tanto falava com muito orgulho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de Octávio Sérgio sobre a morte de Armando Marta (GC I, 2007)."
+    },
+    {
       "campo": "morte",
-      "valor": "2007",
-      "data": "2007",
+      "valor": "16 de agosto de 2007",
+      "data": "2007-08-16",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Armando Marta (1940-2007)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+          "doc": "gc-v:5164846926243495276",
+          "citacao": "Armando Carlos da Silva Marta (1940-2007), primeiro tenor solista"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "Morreu ontem o meu amigo e companheiro de jornada Armando Marta. ... As cinzas seguirão no dia seguinte, domingo, para Pinhel, sua terra natal, de que tanto falava com muito orgulho."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/balada-da-moleirinha.html?showComment=1277638050971#c2905264119103422673",
+          "doc": "gc-iii:c2905264119103422673",
+          "citacao": "Armando Carlos da Silva Marta é um cantor falecido há pouco tempo, 16 de Agosto de 2007,tendo nascido em Pinhel, região da Guarda, a 7 de Dezembro de 1940."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O dia vem de um comentário de Octávio Sérgio, autor do blogue, no GC III (27-06-2010). O post de Octávio Sérgio publicado no GC I a 17 de agosto de 2007 diz «Morreu ontem» e anuncia a cremação no cemitério de Olivais Sul; esse post não escreve a data da morte."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Jornalista em vários jornais; acabou a trabalhar na Agência Lusa",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/02/balada-da-moleirinha.html?showComment=1277638050971#c2905264119103422673",
+          "doc": "gc-iii:c2905264119103422673",
+          "citacao": "Foi jornalista em vários jornais e acabou a trabalhar na Agência Lusa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Comentário de Octávio Sérgio, autor do blogue, no GC III (27-06-2010)."
     },
     {
       "campo": "gravacao",
@@ -81,11 +177,135 @@
           "citacao": "estudante cantor dos anos 60, com gravações naquela década (algumas de originais), mas que voltaria a fazê-lo, em 1971, gravando um EP com quatro temas de sua autoria, músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
         }
       ],
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Outras fontes datam o EP «4 Canções de Coimbra» de 1972 (posts de Octávio Sérgio, 2005) e de «ca. 1973» (Armando Luís de Carvalho Homem, 2007): ver os factos seguintes."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Armando Marta – 4 Canções de Coimbra» (etiqueta Zip-Zip), saído em 1972; acompanhado à guitarra por António Andias e à viola por Durval Moreirinhas",
+      "data": "1972",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-armando-marta-4-canes-de.html",
+          "doc": "gc-i:112810276831338237",
+          "citacao": "Capa do EP \"Armando Marta - 4 Canções de Coimbra\", da etiqueta Zip-Zip, saído em 1972. Canta Armando Marta, acompanhado à guitarra por António Andias e à viola por Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-ep-armando-marta-4-canes.html",
+          "doc": "gc-i:112810226944886475",
+          "citacao": "Contracapa do EP \"Armando Marta - 4 Canções de Coimbra\", da etiqueta Zip-Zip, saído em 1972."
+        }
+      ],
+      "conflito": true,
+      "nota": "Posts de Octávio Sérgio (GC I, 2005). Ver os factos de 1971 (Jorge Cravo) e de «ca. 1973» (Carvalho Homem)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Armando Marta / 4 canções de Coimbra» (ZIP 10 033 / E), com António Andias e Durval Moreirinhas, que «datará de ca. 1973»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "O 2.º, intitulado «Armando Marta / 4 canções de Coimbra» (ZIP 10 033 / E) - com António Andias / Durval Moreirinhas -, datará de ca. 1973, e contém «Canção ao meu menino», «Canção da terra estranha», Afagos, afagos» e «Modos de cantar»; todos os temas são do próprio e de Durval Moreirinhas."
+        }
+      ],
+      "conflito": true,
+      "nota": "Comentário de Armando Luís de Carvalho Homem reproduzido no post do GC I (2007). Ver os factos de 1971 e de 1972."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Coimbra Serenade» (Rapsódia, EPF 5.205, Porto, 1963), com Eduardo de Melo e Ernesto de Melo (guitarras) e Durval Moreirinhas (viola)",
+      "data": "1963",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+          "doc": "gc-v:5164846926243495276",
+          "citacao": "EP COIMBRA SERENADE. ARMANDO MARTA. Porto: RAPSÓDIA, EPF 5.205, 1963 Eduardo de Melo/Ernesto de Melo (1.ª e 2.ª guitarras de Coimbra); Durval Moreirinhas (v nylon)"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/4747760",
+          "doc": "discogs:wf969da529e9acaa8",
+          "citacao": "Título: Coimbra Serenade Artistas: Armando Marta Editora: Rapsódia – EPF 5.205 Formato: 1 × Vinyl, 7\" País: Portugal Data: 1963"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post do GC V (2015) e ficha do Discogs. Carvalho Homem (2007) data este primeiro EP de «ca. 1964» (facto seguinte). Ver a ficha da gravação armando-marta-rapsodia-epf-5205."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP, «ca. 1964», com Eduardo de Melo / Ernesto de Melo (guitarras) e Durval Moreirinhas (viola): «Balada das Águas», «Balada da Moleirinha», «Os teus olhos» e «Balada da saudade»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "O 1.º ca. 1964, com Eduardo de Melo / Ernesto de Melo (gg.) / Durval Moreirinhas (v.); contém «Balada das Águas» (\"Ó rio das águas claras / que te vais lançar no mar...\"), «Balada da Moleirinha», «Os teus olhos» e «Balada da saudade»."
+        }
+      ],
+      "conflito": true,
+      "nota": "Comentário de Armando Luís de Carvalho Homem reproduzido no post do GC I (2007). O GC V (2015) e o Discogs dão 1963 (facto anterior)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor de letras e de músicas: música da «Balada das Águas»; letra da balada de despedida do 6.º ano médico de 1962; letras do EP «4 Canções de Coimbra», com música de Durval Moreirinhas",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+          "doc": "gc-v:5164846926243495276",
+          "citacao": "BALADA DAS ÁGUAS (Ó rio das águas claras), nominada “Balada”, música de Armando Marta."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_24.html",
+          "doc": "gc-v:5164846926243495276",
+          "citacao": "BALADA DO 6.º ANO MÉDICO (Saudade, tenho saudade), nominada “Balada” [de despedida de 1962]. Música de Durval Moreirinhas, letra de Armando Marta"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/contracapa-do-ep-armando-marta-4-canes.html",
+          "doc": "gc-i:112810226944886475",
+          "citacao": "É um disco com canções de Coimbra a fugir ao tradicional, tanto no que respeita à letra, esta de Armando Marta, como à música, da autoria de Durval Moreirinhas."
+        }
+      ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Carvalho Homem (GC I, 2007) escreve que, no EP «4 Canções de Coimbra», «todos os temas são do próprio e de Durval Moreirinhas»."
     }
   ],
-  "relacoes": [],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "Foram 15 anos que com ele convivi, integrado num grupo com António Bernardino e Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-enciclopdia-da-msica-em.html",
+          "doc": "gc-i:110998641361076024",
+          "citacao": "ao longo de 15 anos, manteve uma actividade regular com um grupo de canção de Coimbra, constituído por Durval Moreirinhas, Armando Silva Marta e António Bernardino, até à morte deste último (1996)."
+        }
+      ],
+      "nota": "Cantores do mesmo grupo, com Octávio Sérgio (guitarra) e Durval Moreirinhas (viola), até à morte de António Bernardino (1996). O grupo não tem ficha no arquivo."
+    }
+  ],
   "imagens": [],
   "ligacoes": [],
   "estado_revisao": "rascunho"

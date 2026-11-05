@@ -167,10 +167,56 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/02/jose-afonso-28-anos-depois.html",
           "doc": "gc-v:773204234854538772",
           "citacao": "Retrato do José Afonso, falecido em Setúbal a 23 de fevereiro de 1987"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "23 de Fevereiro – Morreu José Afonso, às três horas da manhã."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/jos-afonso-fotografado-com-alguns.html",
+          "doc": "gc-i:114057046323204595",
+          "citacao": "Faz amanhã 19 anos que José Afonso faleceu (23-2-1987)."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/homenagem-a-jose-afonso/",
+          "doc": "rtp-arquivos:wb44ad7f552ba11bb",
+          "citacao": "concerto de homenagem ao cantor José \"Zeca\" Afonso, falecido em 23 de fevereiro de 1987."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+          "doc": "gc-v:2009294952652613066",
+          "citacao": "que o havia de levar a 23 de Fevereiro de 1987. Morre em Setúbal aos 57 anos."
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "Dois posts dos blogues dão 27 de fevereiro (ver o facto seguinte). O Bloco de Notas 24 é de Octávio Sérgio (GC I, 2006)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Setúbal, 27 de fevereiro de 1987",
+      "data": "1987-02-27",
+      "local": "Setúbal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+          "doc": "gc-v:2009294952652613066",
+          "citacao": "faz 27 anos que JOSÉ AFONSO faleceu em Setúbal no dia 27 de Fevereiro de 1987."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/os-repblicos-da-bota-abaixo-preparam-se.html",
+          "doc": "gc-i:2240519974284772243",
+          "citacao": "Coincidência curiosa, o Centenário da casa celebra-se a 06 de Fevereiro e José Afonso faleceu a 27 de Fevereiro."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post do GC V (2014) abre com «Neste dia 23 de Fevereiro de 2014, faz 27 anos…» e, mais abaixo, diz que a doença «o havia de levar a 23 de Fevereiro de 1987» (citado no facto anterior). O post do GC I (2007) não indica o ano nem o local."
     },
     {
       "campo": "formacao",
@@ -655,10 +701,16 @@
           "url": "https://aja.pt/cronologia/",
           "doc": "aja:wddc15a953c5a5a5e",
           "citacao": "Viagem com a Tuna Académica da Universidade de Coimbra a Angola, integrado num grupo constituído por David Leandro e José Niza (guitarras), Sousa Rafael e Levy Baptista (violas)."
+        },
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-em-angola/",
+          "doc": "aja:w46de4e24d16941fc",
+          "citacao": "José Afonso, acompanhado à viola por Levy Batista, em Chinguar, Angola, 1958, durante a digressão da Tuna Académica da Universidade de Coimbra (TAUC). À esquerda de José Afonso, sentado, está David Leandro, e atrás, José Niza, ambos parte do grupo que acompanhava José Afonso, assim como Sousa Rafael."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A segunda citação é a legenda de uma fotografia publicada pela AJA (12-06-2022)."
     },
     {
       "campo": "atuacao",
@@ -1254,6 +1306,18 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
           "doc": "gc-i:115447311328918440",
           "citacao": "aqui numa foto no Coliseu, acompanhado por Octávio Sérgio e o filho António Sérgio (hoje, o compositor Sérgio Azevedo)"
+        }
+      ]
+    },
+    {
+      "url": "https://aja.pt/wp-content/uploads/2022/06/Zeca-Chinguar-Angola-1958-1024x683.jpg",
+      "legenda": "José Afonso, acompanhado à viola por Levy Batista, em Chinguar, Angola, 1958, na digressão da TAUC; à esquerda, sentado, David Leandro, e atrás José Niza.",
+      "fontes": [
+        {
+          "fonte": "aja",
+          "url": "https://aja.pt/jose-afonso-em-angola/",
+          "doc": "aja:w46de4e24d16941fc",
+          "citacao": "José Afonso, acompanhado à viola por Levy Batista, em Chinguar, Angola, 1958, durante a digressão da Tuna Académica da Universidade de Coimbra (TAUC). À esquerda de José Afonso, sentado, está David Leandro, e atrás, José Niza"
         }
       ]
     }

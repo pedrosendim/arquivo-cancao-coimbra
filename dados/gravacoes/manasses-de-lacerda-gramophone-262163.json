@@ -49,11 +49,39 @@
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/1758/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
           "doc": "museu-do-fado:w7a4544517be9655e",
-          "citacao": "Fado da Pálida madrugada com variações de flauta Manassés de Lacerda Editora: Gra.262163"
+          "citacao": "Fado da Pálida madrugada com variações de flauta … Manassés de Lacerda … Editora: Gra.262163"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "discos de massa «Fado da Pallida Madrugada», Lisboa, Disque pour Gramophone 262163, ca. 1906"
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado por um cantor referenciado como «tenor Lacerda», com quinteto, em Lisboa, a 26.02.1913 (Gramophone 262163); o mesmo post diz que o «tenor Lacerda» e Manassés são cantores distintos",
+      "data": "1913-02-26",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Um cantor referenciado como “tenor Lacerda” gravou «Fado da Pallida Madrugada», com quinteto, Lisboa, Gramophone 262163, 26.02.1913."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Não há confusão possível, são cantores distintos"
+        }
+      ],
+      "conflito": true,
+      "nota": "No mesmo post, o Gramophone 262163 aparece também entre as «Gravações do próprio Manassés de Lacerda», ca. 1906."
     }
   ],
   "fontes": [
@@ -67,7 +95,7 @@
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/1758/manasses_de_lacerda_fado_da_palida_madrugada_com_variacoes_de_flauta",
       "doc": "museu-do-fado:w7a4544517be9655e",
-      "citacao": "Fado da Pálida madrugada com variações de flauta Manassés de Lacerda Editora: Gra.262163"
+      "citacao": "Fado da Pálida madrugada com variações de flauta … Manassés de Lacerda … Editora: Gra.262163"
     }
   ],
   "estado_revisao": "rascunho"

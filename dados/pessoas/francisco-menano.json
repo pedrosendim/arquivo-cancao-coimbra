@@ -8,9 +8,22 @@
   ],
   "papeis": [
     "guitarrista",
-    "compositor"
+    "compositor",
+    "cantor"
   ],
   "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+      "doc": "gc-v:8256249331752338280",
+      "citacao": "Francisco Menano, chega a Coimbra em 1905, vindo de Fornos de Algodres, para cursar o liceu, e em 1907, entra na Faculdade de Direito da Universidade, terminando o curso em 1912."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+      "doc": "gc-v:8256249331752338280",
+      "citacao": "Francisco Menano, ensaiador dos segundos tenores, é um dos braços direitos, de António Joyce."
+    },
     {
       "fonte": "gc-v",
       "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
@@ -22,36 +35,280 @@
       "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
       "doc": "gc-v:3441302094536070733",
       "citacao": "Enquanto estudante foi guitarrista solista e compositor de sucessos"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+      "doc": "gc-v:8256249331752338280",
+      "citacao": "Terminado o curso em 1912, Francisco Menano, segue para a Comarca da Figueira da Foz, onde exerce funções de magistrado, continuando sempre, com a sua guitarra, a acompanhar a música e a canção de Coimbra."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+      "doc": "gc-v:8256249331752338280",
+      "citacao": "Depois de passar pela Relação de Coimbra, consegue a sua colocação na Relação de Lisboa, e aqui se radica com a mulher e filhas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+      "doc": "gc-v:8256249331752338280",
+      "citacao": "O Juiz Desembargador, grande compositor e guitarrista de Coimbra, vem a falecer em Lisboa a 11 de Novembro de 1970."
     }
   ],
   "factos": [
     {
-      "campo": "nascimento",
-      "valor": "1888",
-      "data": "1888",
+      "campo": "nome_completo",
+      "valor": "Francisco Paulo Menano",
+      "data": "",
       "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "que nasceu FRANCISCO PAULO MENANO, em Fornos de Algodres, distrito da Guarda. Faleceu em Lisboa[1], a 11 de Novembro de 1970."
+        }
+      ],
+      "conflito": false,
+      "nota": "Resenha biográfica de Manuel Marques Inácio, publicada no GC V (2013)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Fornos de Algodres (distrito da Guarda), 26 de fevereiro de 1888",
+      "data": "1888-02-26",
+      "local": "Fornos de Algodres",
       "fontes": [
         {
           "fonte": "gc-v",
           "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
           "doc": "gc-v:3441302094536070733",
           "citacao": "FRANCISCO MENANO (1888-1970)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-menano-e-joel-canhao.html",
+          "doc": "gc-v:1917387241629074198",
+          "citacao": "FRANCISCO MENANO nasceu em Fornos de Algodres, Guarda, a 26 de Fevereiro de 1888. Faleceu na sua casa em Lisboa, ao Campo Pequeno, a 11 de Novembro de 1970."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "que nasceu FRANCISCO PAULO MENANO, em Fornos de Algodres, distrito da Guarda. Faleceu em Lisboa[1], a 11 de Novembro de 1970."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post de 2022 dá só os anos (1888-1970); o dia vem do post de 2014 e o local dos posts de 2014 e 2013 (resenha de Manuel Marques Inácio)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, na sua casa ao Campo Pequeno, 11 de novembro de 1970",
+      "data": "1970-11-11",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
+          "doc": "gc-v:3441302094536070733",
+          "citacao": "FRANCISCO MENANO (1888-1970)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-menano-e-joel-canhao.html",
+          "doc": "gc-v:1917387241629074198",
+          "citacao": "FRANCISCO MENANO nasceu em Fornos de Algodres, Guarda, a 26 de Fevereiro de 1888. Faleceu na sua casa em Lisboa, ao Campo Pequeno, a 11 de Novembro de 1970."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "que nasceu FRANCISCO PAULO MENANO, em Fornos de Algodres, distrito da Guarda. Faleceu em Lisboa[1], a 11 de Novembro de 1970."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2022 dá só os anos (1888-1970). Os posts de 2013 e 2014 contestam a Enciclopédia da Música em Portugal no Século XX, que dá Coimbra como local da morte (facto seguinte)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra (segundo a Enciclopédia da Música em Portugal no Século XX, p. 766; versão contestada pelo blogue)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-menano-e-joel-canhao.html",
+          "doc": "gc-v:1917387241629074198",
+          "citacao": "na Enciclopédia da Música em Portugal do Século XX, página 766, aparece Coimbra como local do seu falecimento, sendo que na realidade faleceu em Lisboa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Está errada a informação da Enciclopédia da Música em Portugal no Século XX, pag. 766, Edição do Circulo de Leitores, Lisboa, 2010. Diz-se que o Dr. Francisco Paulo Menano, faleceu em Coimbra, quando tal, aconteceu em Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": "Enciclopédia da Música em Portugal no Século XX (Círculo de Leitores, 2010), p. 766, citada e contestada nos posts de 2014 e 2013 (nota de rodapé [1])."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu em Coimbra (a partir de 1905); Faculdade de Direito da Universidade de Coimbra, de 1907 a 1912",
+      "data": "1907",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Francisco Menano, chega a Coimbra em 1905, vindo de Fornos de Algodres, para cursar o liceu, e em 1907, entra na Faculdade de Direito da Universidade, terminando o curso em 1912."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "a 24 de Junho de 1967, quando da reunião do seu Curso jurídico de 1907 – 1912, é-lhe feita uma homenagem na Sé Velha, em Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "O mesmo texto de Manuel Marques Inácio diz noutro passo que chega à Faculdade de Direito «nesse final de ano de 1908» (facto seguinte)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Chega à Faculdade de Direito no final de 1908",
+      "data": "1908",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Francisco Menano, chega pois à Faculdade de Direito, nesse final de ano de 1908"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge, no mesmo texto, da entrada na Faculdade de Direito «em 1907» (facto anterior)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Magistrado: Comarca da Figueira da Foz (depois de 1912), juiz em Serpa, Relação de Coimbra e Relação de Lisboa; Juiz Desembargador; Procurador Especial no processo de Alves dos Reis",
+      "data": "1912",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Terminado o curso em 1912, Francisco Menano, segue para a Comarca da Figueira da Foz, onde exerce funções de magistrado"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "como Juiz em Serpa, o Dr. Francisco Menano, ainda teve ocasião de ensaiar e desenvolver o Orfeon daquela vila alentejana."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Depois de passar pela Relação de Coimbra, consegue a sua colocação na Relação de Lisboa"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Sendo Juiz, foi nomeado Procurador Especial, no processo de Alves do Reis"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "O Juiz Desembargador, grande compositor e guitarrista de Coimbra"
         }
       ],
       "conflito": false,
       "nota": ""
     },
     {
-      "campo": "morte",
-      "valor": "1970",
-      "data": "1970",
+      "campo": "atividade",
+      "valor": "Orfeon Académico de Coimbra («Orfeon de Joyce»): ensaiador dos segundos tenores, também na ida a França em abril de 1911",
+      "data": "1911-04",
       "local": "",
       "fontes": [
         {
           "fonte": "gc-v",
-          "url": "https://guitarradecoimbra4.blogspot.com/2022/03/francisco-menano-1912.html",
-          "doc": "gc-v:3441302094536070733",
-          "citacao": "FRANCISCO MENANO (1888-1970)"
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "E assim acontece em Abril de 1911. António Joyce e Francisco Menano são quartanistas de Direito. O primeiro é o regente, o segundo, ensaiador dos segundos tenores"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-menano-e-joel-canhao.html",
+          "doc": "gc-v:1917387241629074198",
+          "citacao": "Também se omite a sua participação, que foi muito activa com ensaiador de 2ºs tenores, cantor e guitarrista, na preparação do Orfeon Académico de Coimbra, o chamado “Orfeon de Joyce” e na sua ida a França, com o mesmo Orfeon, em 1911"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon a Lisboa, Évora, Faro e Olhão (março de 1912), no Grupo de Fados e Guitarradas com Pestana Júnior, Alberto Tavares, Leogivildo de Sousa e José Anjos",
+      "data": "1912-03",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "Francisco Menano, em Março de 1912, já em véspera de formatura, acompanha o Orfeon numa digressão a Lisboa, Évora, Faro e Olhão, fazendo parte de um Grupo de Fados e Guitarradas, do qual faziam parte, Pestana Júnior, Alberto Tavares, Leogivildo de Sousa e José Anjos"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participação, ao lado de António Brojo (g) e de Fernando Alvim (v), na gravação do EP de Augusto Camacho Vieira «Fados de Coimbra – Dr. Augusto Camacho» (Columbia SLEM 2094, 1961)",
+      "data": "1961",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/francisco-menano-e-joel-canhao.html",
+          "doc": "gc-v:1917387241629074198",
+          "citacao": "Na discografia não se refere a sua participação ao lado de António Brojo (g) e de Fernando Alvim (v), na gravação do fonograma do Dr. Augusto Camacho Vieira, em 1961, EP Columbia, SLEM 2094 (Fados de Coimbra – Dr. Augusto Camacho)."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não indica o instrumento de Francisco Menano neste disco."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Serenata de homenagem na Sé Velha, em Coimbra, a 24 de junho de 1967, na reunião do seu curso jurídico de 1907-1912",
+      "data": "1967-06-24",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "a 24 de Junho de 1967, quando da reunião do seu Curso jurídico de 1907 – 1912, é-lhe feita uma homenagem na Sé Velha, em Coimbra ... Foi homenageado em 24 de Junho de 1967 com uma serenata na Sé Velha"
+        }
+      ],
+      "conflito": false,
+      "nota": "A palavra «serenata» está no 2.º troço da citação, a transcrição da Enciclopédia da Música em Portugal no Século XX (p. 766) que o post faz a seguir; a mesma transcrição nomeia os participantes. O post de 2014 corrige um deles (José Manuel dos Santos, e não Manuel Martins dos Santos)."
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarrilha preferida, doada ao Museu Académico de Coimbra: requinta da guitarra toeira de Coimbra (segundo António Manuel Nunes), feita pelo guitarreiro Augusto Nunes dos Santos em 1905",
+      "data": "1905",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "a sua guitarra (guitarrilha) preferida, e algum do seu espólio, doou ao Museu Académico de Coimbra. Este cordofone, que segundo o Dr. António Manuel Nunes, deverá ser classificado como uma requinta da Guitarra Toeira de Coimbra, foi fabricado por um guitarreiro local, de nome Augusto Nunes dos Santos, e data de 1905"
         }
       ],
       "conflito": false,
@@ -103,6 +360,19 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/francisco-menano.html",
+          "doc": "gc-v:8256249331752338280",
+          "citacao": "e onde o irmão António Menano (1895 – 1969), canta acompanhado pelo seu irmão Francisco"
+        }
+      ],
+      "nota": "Festas em homenagem a António Nobre, Coimbra, 1915."
     }
   ],
   "imagens": [

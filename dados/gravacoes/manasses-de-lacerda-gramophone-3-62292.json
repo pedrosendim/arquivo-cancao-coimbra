@@ -4,7 +4,7 @@
   "formato": "78rpm",
   "editora": "Gramophone (Disque Pour Gramophone)",
   "referencia": "3-62292",
-  "ano": "",
+  "ano": "1905",
   "local": "",
   "interpretes": [
     {
@@ -46,6 +46,36 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Porto, c. 1905, Disque Pour Gramophone 3-62292 (idem 62385), com acompanhamento de piano (pianista não identificado na etiqueta); exemplares vendidos na casa Ricardo Lemos",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "Lágrimas, gravado ca. 1905 por Manassés de Lacerda: Fado das Lágrimas cantado pelo Senhor Manassés [de] Lacerda (Ó fonte que estás chorando), Porto, Disque Pour Gramophone 3-62292; idem, 62385, com exemplares vendidos na casa Ricardo Lemos. Manassés não especifica quaisquer autorias na etiqueta do fonograma, nem o nome do pianista que faz o acompanhamento."
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado em 1905, em Lisboa (?), com acompanhamento de piano (Gramophone 62385; idem, 3-62292)",
+      "data": "1905",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+          "doc": "gc-iv:3869478767060763956",
+          "citacao": "Serenata gravada em 1905, em Lisboa (?), pelo próprio Manassés de Lacerda, com acompanhamento de piano (Disco Gramophone, 62385; idem, 3-62292)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Local diferente (Lisboa, com dúvida) do indicado no post de 2016 (Porto)."
     }
   ],
   "fontes": [
@@ -54,6 +84,12 @@
       "url": "https://arquivosonoro.museudofado.pt/fado/928/manasses_de_lacerda_fado_das_lagrimas",
       "doc": "museu-do-fado:w9325bd98af34b85c",
       "citacao": "Título: Fado das Lágrimas ... Editora: Gra.3-62292,62385 Referências: Disque Pour Gramophone 8790o, 3-62292; G.C. 3-62292"
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+      "doc": "gc-iv:3869478767060763956",
+      "citacao": "Serenata gravada em 1905, em Lisboa (?), pelo próprio Manassés de Lacerda, com acompanhamento de piano (Disco Gramophone, 62385; idem, 3-62292)."
     }
   ],
   "estado_revisao": "rascunho"

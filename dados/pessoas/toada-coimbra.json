@@ -12,6 +12,18 @@
   ],
   "biografia": [
     {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+      "doc": "arquivo-pt:w342343f87ee5ed85",
+      "citacao": "O Grupo 'Toada Coimbrã' iniciou a sua actividade em Março de 1987, então apenas com três elementos, com a apresentação de um fado inédito num programa televisivo."
+    },
+    {
+      "fonte": "revista-fadista-fado-cale",
+      "url": "https://www.fadocale.pt/_files/ugd/0bdb21_6e792fcd6b9d418f8ed19c65860a8e70.pdf",
+      "doc": "revista-fadista-fado-cale:wb56899d873000c0f",
+      "citacao": "Uma “geração de indomáveis” que não olharam a meios nem a consequências, que assumiram o Canto de Coimbra como uma bandeira das suas vidas e que tiveram o traço comum de honrar o passado (todo o passado) assumindo com as suas novas composições o compromisso de fazer o futuro. O Grupo de Fados e Guitarras de Coimbra, o Grupo Académico de Fados e Canções de Coimbra, o Grupo Praxis Nova e o Grupo Toada Coimbrã."
+    },
+    {
       "fonte": "gc-iv",
       "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/rui-lucas-em-alta-noite-na-se-velha-em.html",
       "doc": "gc-iv:8749920555961969521",
@@ -53,6 +65,41 @@
       "nota": ""
     },
     {
+      "campo": "formacao",
+      "valor": "iniciou a atividade em março de 1987, com três elementos, apresentando um fado inédito num programa televisivo; os elementos da génese e os que se juntaram um ano depois conheceram-se na escola de fado da Secção de Fado da AAC",
+      "data": "1987-03",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "O Grupo 'Toada Coimbrã' iniciou a sua actividade em Março de 1987, então apenas com três elementos, com a apresentação de um fado inédito num programa televisivo."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Os elementos que o constituíam na sua génese, bem como os que se vieram a juntar um ano depois, passaram pela escola de fado da Secção de Fado da AAC, local onde, aliás, todos se conheceram."
+        }
+      ],
+      "conflito": false,
+      "nota": "Página do grupo no site «Fado de Coimbra»; o texto refere «Fevereiro e Março de 1999» como o momento em que foi escrito."
+    },
+    {
+      "campo": "outro",
+      "valor": "composição indicada na página do grupo (captura de 10-12-2004): António José Vicente e João Paulo Sousa (guitarra portuguesa), João Carlos Oliveira e Jorge Mira Marques (viola), Rui Pedro Lucas e Alcides de Sá Esteves (cantores)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Composição: António José Vicente: guitarra portuguesa João Paulo Sousa: guitarra portuguesa João Carlos Oliveira:viola Jorge Mira Marques: viola Rui Pedro Lucas: cantor Alcides de Sá Esteves: cantor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
       "campo": "atuacao",
       "valor": "Serenata Monumental da Queima das Fitas de 1989, com Rui Lucas em «Alta Noite na Sé Velha»",
       "data": "1989",
@@ -70,7 +117,7 @@
     },
     {
       "campo": "gravacao",
-      "valor": "EP Toada Coimbrã (1990)",
+      "valor": "EP Toada Coimbrã (1990), Duplisom SG 3021, com a Balada do 5.º Ano Jurídico 88/89 e «Alta Noite na Sé Velha»",
       "data": "1990",
       "fontes": [
         {
@@ -84,10 +131,46 @@
           "url": "https://www.discogs.com/artist/2301352",
           "doc": "discogs:w3a420468cb36065d",
           "citacao": "1990 · Toada Coimbrã · Duplisom"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "Rosto do EP \"Toada Coimbrã\", Duplisom SG 3021, ano de 1990, gravado nos estúdios Musicorde, de Lisboa, em finais de 1989."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
+          "doc": "gc-i:111704174490067323",
+          "citacao": "Ainda no tempo do vinil, e anterior (início de 90) a este trabalho foi editado um single que incluía a Balada do 5º Ano Jurídico 88/89 e \"Alta Noite na Sé Velha\"."
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "Editora: Duplisom – SG 3021"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "Data: 1990"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "A Balada Da Despedida Do 5º Ano Jurídico 88/89"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/2936357",
+          "doc": "discogs:w80356f5e854986f7",
+          "citacao": "B Alta Noite Na Sé Velha"
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "Diverge na data da página do grupo no site «Fado de Coimbra», que diz «Em 1989 apresentou em single a Balada da Despedida do 5º Ano Jurídico de 1989» (ver esse facto). Nenhuma destas fontes refere outro single ou EP do grupo. AMNunes dá o EP de 1990, «gravado […] em finais de 1989»; João Paulo Sousa, membro do grupo (mensagem publicada no blogue em 2005), diz «início de 90»; o Discogs (lançamento 2936357) dá 1990, 7\" single, com «Balada Da Despedida Do 5º Ano Jurídico 88/89» e «Alta Noite Na Sé Velha»."
     },
     {
       "campo": "gravacao",
@@ -170,7 +253,7 @@
         }
       ],
       "conflito": true,
-      "nota": "O inventário de registos fonográficos publicado no blogue em 2026 data esta cassete de 1992."
+      "nota": "O inventário de registos fonográficos publicado no blogue em 2026 data esta cassete de 1992; o site «Fado de Coimbra» também dá 1992 (ver facto seguinte)."
     },
     {
       "campo": "gravacao",
@@ -182,10 +265,37 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-Grupo de Fados de Coimbra Toada Coimbrã, cassete Movieplay, ano\nde 1992. Cantam: Rui Lucas e Alcides Esteves. Guitarras: António Vicente e João\nPaulo Sousa. Regista 12 temas antigos."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805083901/http://www.cidadevirtual.pt:80/fadocoimbra/vctc.html",
+          "doc": "arquivo-pt:wf114ac5930981ba4",
+          "citacao": "TOADA COIMBRÃ Grupo de Fados de Coimbra Ano de Gravação - 1992 Editora - Movieplay Portuguesa, SA - MOV 20268"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Em 1992 gravou uma cassete de temas clássicos da canção de Coimbra, editada pela Movieplay Portuguesa"
         }
       ],
       "conflito": true,
-      "nota": "João Paulo Sousa (2005) data a cassete de 1991."
+      "nota": "João Paulo Sousa (2005) data a cassete de 1991. A página de vendas do site «Fado de Coimbra» indica a referência MOV 20268 e 12 temas."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "em 1989 apresentou em single a Balada da Despedida do 5.º Ano Jurídico de 1989",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Em 1989 apresentou em single a Balada da Despedida do 5º Ano Jurídico de 1989"
+        }
+      ],
+      "conflito": true,
+      "nota": "Página do grupo no site «Fado de Coimbra» (captura de 10-12-2004). Diverge na data do facto «EP Toada Coimbrã (1990), Duplisom SG 3021…»: AMNunes, João Paulo Sousa («início de 90») e o Discogs datam de 1990 o único single/EP do grupo que referem; João Paulo Sousa e o Discogs dizem que tem a Balada do 5.º Ano Jurídico 88/89."
     },
     {
       "campo": "gravacao",
@@ -203,6 +313,45 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-toada-coimbr-aps-ter-questionado.html",
           "doc": "gc-i:111704174490067323",
           "citacao": "Tal Balada seria ainda editada na colectânea das Baladas dos Anos 80, primeiro em vinil (LP) e depois em CD."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Em 1990, em parceria com outros grupos, colaborou na gravação do CD de Baladas da Despedida dos anos 80, no qual apresentou dois temas (um dos quais de sua autoria)"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071754/http://www.cidadevirtual.pt:80/fadocoimbra/vcdbd.html",
+          "doc": "arquivo-pt:wff9346574c344673",
+          "citacao": "BALADAS DE DESPEDIDA - ANOS 80 Vários Ano de Gravação - 1990 Editora -DupliSom"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071754/http://www.cidadevirtual.pt:80/fadocoimbra/vcdbd.html",
+          "doc": "arquivo-pt:wff9346574c344673",
+          "citacao": "Grupos participantes Académico de Fados e Canções de Coimbra, Toada Coimbrã, Praxis Nova"
+        }
+      ],
+      "conflito": false,
+      "nota": "Formato e número de temas: a página do grupo no site «Fado de Coimbra» fala em «CD» e em «dois temas (um dos quais de sua autoria)»; o inventário do blogue regista um LP (Duplisom 1.004); João Paulo Sousa diz que a colectânea saiu «primeiro em vinil (LP) e depois em CD»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "colaborou com dois temas no CD da Secção de Fado da AAC «Coimbra. Baladas, Fados e Guitarradas» (CD-SF 003, 1994), que reuniu vários grupos de fado de Coimbra",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Em 1994 colaborou com dois temas na gravação de um CD da Secção de Fado da AAC que integrou vários grupos de Fado de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/rosto-do-ep-toada-coimbr-1990-rosto-do.html",
+          "doc": "gc-i:113753146107609373",
+          "citacao": "deram colaboração ao álbum negro da Secção de Fado da AAC (CD “Coimbra. Baladas, Fados e Guitarradas”, CD-SF 003, ano de 1994)"
         }
       ],
       "conflito": false,
@@ -227,6 +376,150 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "a Balada da Despedida do 5.º Ano Jurídico de 1988/89 (de António Vicente, João Paulo Sousa e Rui Pedro Lucas) é destacada como uma das baladas da despedida mais ouvidas",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "Dos temas inéditos, destaca-se a Balada da Despedida do 5º Ano Jurídico de 1989, pelo êxito que alcançou, sendo, ainda, uma das Baladas da Despedida mais ouvidas."
+        },
+        {
+          "fonte": "revista-fadista-fado-cale",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_6e792fcd6b9d418f8ed19c65860a8e70.pdf",
+          "doc": "revista-fadista-fado-cale:wb56899d873000c0f",
+          "citacao": "a dimensão encantadora da Balada de despedida do 5º ano Jurídico de 88/89 de António Vicente, João Paulo Sousa e Rui Pedro Lucas, provavelmente, hoje, o mais ouvido tema da Canção Coimbrã."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é de António Vicente, membro do grupo, na Revista Fadista n.º 1 (agosto de 2023)."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas de abertura e encerramento das comemorações dos 700 anos da Universidade de Coimbra (1989); espetáculo no Real Gabinete de Leitura, Rio de Janeiro (1989)",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "participação nas serenatas de abertura e encerramento das comemorações dos 700 anos da Universidade de Coimbra, em 1989"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "espectáculo realizado em 1989 no Real Gabinete de Leitura no Rio de Janeiro"
+        }
+      ],
+      "conflito": false,
+      "nota": "Página do grupo no site «Fado de Coimbra»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenatas dos 10 anos da Secção de Fado da AAC; Natal dos Hospitais (RTP); serenata nas escadas da Igreja de S. Vicente (Lisboa), nas festas da cidade (todas em 1990)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "participação nas serenatas das comemorações dos 10 anos da Secção de Fado da Associação Académica de Coimbra, em 1990"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "participação no Natal dos Hospitais promovido pela RTP, em 1990"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "serenata nas escadas da Igreja de S. Vicente (Lisboa), integrado nas festas da cidade de 1990"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "grupo convidado da Europália, na Bélgica, em setembro e outubro de 1991, com espetáculos em várias cidades belgas",
+      "data": "1991-09",
+      "local": "Bélgica",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "participação, como grupo convidado, na Europália que decorreu na Bélgica em Setembro e Outubro de 1991 (tendo aí feito diversos espectáculos em várias cidades Belgas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo na Universidade de Sofia, Tóquio (1995)",
+      "data": "1995",
+      "local": "Tóquio",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "espectáculo na Universidade de Sofia (Tóquio), em 1995"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "serenata nas ruínas de S. Paulo, Macau (1996)",
+      "data": "1996",
+      "local": "Macau",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "serenata nas ruínas de S. Paulo (Macau), em 1996"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuações no estrangeiro: França (Paris, 1991 e 1993), Andorra, Finlândia e Suíça (1987), Bélgica (1990 e 1991), Brasil (1989), Holanda e Alemanha (1992), Japão (Sendai e Tóquio, 1995), Macau (1996)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm",
+          "doc": "arquivo-pt:w342343f87ee5ed85",
+          "citacao": "França (Paris) - 1991, 1993 - Andorra - 1987 - Bélgica - 1990, 1991 - Finlândia - 1987 - Suíça - 1987 - Brasil - 1989 - Holanda - 1992 - Alemanha - 1992 - Japão (Sendai e Tóquio) - 1995 - Macau - 1996"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "numa Serenata Monumental, depois do Grupo de Fados e Canções: guitarrada «Toada Coimbrã» (António Vicente), «Alta noite na Sé Velha» (Rui Lucas e António Dias Lucas), «Lá longe ao cair da tarde», a melodia n.º 2 de Carlos Paredes, «Ficarei até morrer» e «Fado do Adeus» (António Vicente) e, a fechar, a «Balada do 5.º ano jurídico de 89» (Rui Lucas, João Paulo Sousa e António Vicente)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231528/http://www.cidadevirtual.pt:80/fadocoimbra/recorte6.htm",
+          "doc": "arquivo-pt:wd69f24c530bb4e44",
+          "citacao": "No alto das escadas do monumento, a Toada Coimbrã tomou o lugar do Grupo de Fados e Canções. Começou com a guitarrada \"Toada Coimbrã\", de António Vicente, e seguiram-se \"Alta noite na Sé Velha\", de Rui Lucas e António Dias Lucas, \"Lá longe ao cair da tarde\", a melodia nº 2 de Carlos Paredes, \"Ficarei até morrer\", de António Vicente, \"Fado do Adeus\" de António Vicente, e, a finalizar, a \"Balada do 5º ano jurídico de 89\", numa composição de Rui Lucas, João Paulo Sousa e António Vicente."
+        }
+      ],
+      "conflito": false,
+      "nota": "Recorte «Sé Velha foi dos estudantes» reproduzido no site «Fado de Coimbra», sem data nem jornal."
     },
     {
       "campo": "gravacao",
@@ -386,6 +679,10 @@
     {
       "rotulo": "YouTube: Rui Lucas com a Toada Coimbrã, Serenata Monumental de 1989",
       "url": "https://www.youtube.com/watch?v=4-xmGX6WGzg"
+    },
+    {
+      "rotulo": "Página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt, 2004)",
+      "url": "https://arquivo.pt/wayback/20041210094111/http://www.cidadevirtual.pt:80/fadocoimbra/toadas.htm"
     }
   ],
   "estado_revisao": "rascunho"

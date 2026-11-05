@@ -2,17 +2,109 @@
   "id": "adriano-correia-de-oliveira",
   "tipo": "pessoa",
   "nome": "Adriano Correia de Oliveira",
-  "nomes_alternativos": [],
-  "papeis": [
-    "cantor"
+  "nomes_alternativos": [
+    "Adriano Maria Correia Gomes de Oliveira"
   ],
-  "biografia": [],
+  "papeis": [
+    "cantor",
+    "compositor",
+    "violista"
+  ],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "ADRIANO Maria CORREIA Gomes DE OLIVEIRA, nasceu no Porto a 9 de Abril de 1942, tendo-se mudado para Avintes, com poucos meses de idade."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Fez a Instrução Primária em Avintes, o curso liceal no Liceu Alexandre Herculano no Porto e aos 17 anos está na Faculdade de Direito da Universidade de Coimbra. Corria o ano de 1959."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Com os manos Eduardo e Ernesto, e o Durval Moreirinhas, inicia-se no fado de Coimbra. É primeiro tenor no Orfeon, faz parte do grupo universitário de danças regionais, do CITAC (Centro de Iniciação Teatral da Academia de Coimbra)"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Em 1961, acompanhado por António Portugal e Rui Pato, grava “Fados de Coimbra”, o álbum continha a interpretação de “Trova do vento que passa (Pergunto ao vento que passa)”, poema de Manuel Alegre, que se tornaria uma espécie de hino da resistência dos estudantes à ditadura."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Em 1970 troca Coimbra por Lisboa, exercendo funções no Gabinete de Imprensa da FIL - Feira Industrial de Lisboa, até 1974, dedicando-se depois exclusivamente ao canto e à música."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Em 1973 lança “Fados de Coimbra”, em disco, e funda a Editora Edicta, com Carlos Vargas, para se tornar produtor na Orfeu, em 1974. Participa na fundação da Cooperativa Cantabril, logo após a Revolução dos Cravos e lança, em 1975, “Que nunca mais”."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "Em 1980 lança o seu último álbum, “Cantigas Portuguesas”, ingressando no ano seguinte na Cooperativa Era Nova"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+      "doc": "gc-v:4076454243178716237",
+      "citacao": "A título póstumo, a 24 de Setembro de 1983 foi feito Comendador da Ordem da Liberdade e a 24 de Abril de 1994 foi feito Grande-Oficial da Ordem do Infante D. Henrique."
+    }
+  ],
   "factos": [
     {
-      "campo": "nascimento",
-      "valor": "1942",
-      "data": "1942",
+      "campo": "nome_completo",
+      "valor": "Adriano Maria Correia Gomes de Oliveira",
       "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "ADRIANO Maria CORREIA Gomes DE OLIVEIRA, nasceu no Porto a 9 de Abril de 1942"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/memria-de-adriano.html",
+          "doc": "gc-ii:8303999002784966669",
+          "citacao": "Adriano Maria Correia Gomes de Oliveira constava nas certidões, Adriano Correia de Oliveira, nos primeiros registos fonográficos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Manuel Marques Inácio (GC V, 2014) e texto de José Henrique Dias (GC II, 2008)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Porto, 9 de abril de 1942",
+      "data": "1942-04-09",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "ADRIANO Maria CORREIA Gomes DE OLIVEIRA, nasceu no Porto a 9 de Abril de 1942, tendo-se mudado para Avintes, com poucos meses de idade."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "1942 -Eduardo Manuel Tavares de Melo (dito Papízio) ... Em 9 de Abril nasce no Porto Adriano Correia de Oliveira."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/aniversrio-de-adriano-9-de-abril-de.html",
+          "doc": "gc-i:7448312705703897408",
+          "citacao": "A 9 de Abril de 1942 nasceu no Porto um rapaz a quem deram o nome de Adriano Correia de Oliveira."
+        },
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
@@ -26,23 +118,253 @@
           "citacao": "Adriano Correia de Oliveira (1942-1982)"
         }
       ],
-      "conflito": false,
-      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (Biblioteca Municipal de Coimbra, 2025)."
+      "conflito": true,
+      "nota": "Textos de Jorge Cravo: revista Fadista n.º 6 (2024) e «Este mês ouvimos… José Afonso» (Biblioteca Municipal de Coimbra, 2025); dão só o ano. Na cronologia do GC I (2006) a frase está no ano de 1942. O texto de José Henrique Dias (GC II, 2008) dá 1949 (facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Porto, Rua Formosa, 9 de abril de 1949",
+      "data": "1949-04-09",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/memria-de-adriano.html",
+          "doc": "gc-ii:8303999002784966669",
+          "citacao": "Chegou a Coimbra para estudar Direito. Ido do Porto, onde nasceu, na Rua Formosa, a 9 de Abril de 1949."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de José Henrique Dias lido na Grande Noite do Fado Académico organizada pelo ISEP (post de 22-11-2008). As restantes fontes dão 9 de abril de 1942 (facto anterior)."
     },
     {
       "campo": "morte",
-      "valor": "1982",
-      "data": "1982",
+      "valor": "Avintes, 16 de outubro de 1982",
+      "data": "1982-10-16",
+      "local": "Avintes",
       "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "no dia 9 de Abril de 1942, nascia no Porto, ADRIANO CORREIA DE OLIVEIRA. Faleceu em Avintes a 16 de Outubro de 1982."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/o-fado-propriamente-dito-e-o-chamado.html",
+          "doc": "gc-i:112697421710706208",
+          "citacao": "Adriano manteve-se coerente até ao fim (faleceu em 16/10/1982)."
+        },
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "o Movimento das Trovas (com Adriano Correia de Oliveira [1942-1982])"
+        },
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/adriano-correia-de-oliveira-por-joao-carlos-callixto_200",
+          "doc": "rtp-memoria-gramofone:w46855cf1a4c34dda",
+          "citacao": "Tal como toda a sua obra, que se estenderia até praticamente à sua morte em 1982, Adriano grava este disco para o selo Orfeu, de Arnaldo Trindade."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024), e ficha do Gramofone (RTP Memória, João Carlos Callixto): dão só o ano. A frase do GC I está numa nota ao depoimento de Afonso de Sousa no Seminário de 1978."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Direito na Universidade de Coimbra, a partir de 1959 («que nunca chegaria a terminar», segundo Rui Lopes)",
+      "data": "1959",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "aos 17 anos está na Faculdade de Direito da Universidade de Coimbra. Corria o ano de 1959."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/adriano-correia-de-oliveira.html",
+          "doc": "gc-i:114467146884168563",
+          "citacao": "em 1959 entrou para o Curso de Direito em Coimbra (que nunca chegaria a terminar)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Rui Lopes no GC I (2006)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Primeiro tenor no Orfeon; fez parte do grupo universitário de danças regionais e do CITAC",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "É primeiro tenor no Orfeon, faz parte do grupo universitário de danças regionais, do CITAC (Centro de Iniciação Teatral da Academia de Coimbra)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP, «Noite de Coimbra», de 1960",
+      "data": "1960",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "O seu primeiro EP, “Noite de Coimbra” é de 1960."
+        },
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/david-ferreira-a-contar-1o-disco-de-adriano-correia-de-oliveira/",
+          "doc": "rtp-arquivos:w0d1a288796ecfe6e",
+          "citacao": "O 1º Disco de Adriano Correia de Oliveira (1960), e a transformação da canção de Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha da RTP (Antena 1, «David Ferreira a Contar», 2013). O Gramofone (RTP Memória) diz que a carreira discográfica começa em 1961 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Começa a carreira discográfica em 1961, com 19 anos: «Noite de Coimbra», ainda sem o seu nome como titular, gravado ao lado de António Portugal, Eduardo de Melo, Durval Moreirinhas e Jorge Moutinho",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "rtp-memoria-gramofone",
+          "url": "https://www.rtp.pt/rtpmemoria/gramofone/adriano-correia-de-oliveira-por-joao-carlos-callixto_200",
+          "doc": "rtp-memoria-gramofone:w46855cf1a4c34dda",
+          "citacao": "Com 19 anos, Adriano começa a sua carreira discográfica em 1961. “Noite de Coimbra”, o primeiro trabalho, ainda sem o seu nome como titular, é gravado ao lado de músicos de primeira água: António Portugal, Eduardo de Melo, Durval Moreirinhas e Jorge Moutinho."
+        }
+      ],
+      "conflito": true,
+      "nota": "Ficha do Gramofone (RTP Memória), de João Carlos Callixto. O GC V (2014) e a ficha da RTP de 2013 dão 1960 (facto anterior)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Em 1961 grava «Fados de Coimbra», com António Portugal e Rui Pato; segundo a biografia do post, o álbum continha a «Trova do vento que passa (Pergunto ao vento que passa)», poema de Manuel Alegre",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Em 1961, acompanhado por António Portugal e Rui Pato, grava “Fados de Coimbra”, o álbum continha a interpretação de “Trova do vento que passa (Pergunto ao vento que passa)”"
+        }
+      ],
+      "conflito": true,
+      "nota": "Divergência sobre o disco da «Trova do vento que passa», dentro do mesmo post (GC V, 9-04-2014): a biografia põe-na no «Fados de Coimbra» de 1961; a discografia põe-na no EP «Trova do Vento que Passa» de 1963 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Trova do Vento que Passa» (1963, ATEP 6097), com «Trova do Vento que Passa», «Pensamento», «Capa Negra, Rosa Negra» e «Trova do Amor Lusíada», segundo a discografia do post",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Trova do Vento que Passa (EP, 1963) [Trova do Vento que Passa/Pensamento/Capa Negra, Rosa Negra/Trova do Amor Lusíada] ATEP 6097"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Fados de Coimbra (EP, 1961) [Canção dos Fornos/Balada da Esperança/Trova do Amor Lusíada/Fado do Fim do Ano] ATEP 6035"
+        }
+      ],
+      "conflito": true,
+      "nota": "Discografia do post de 9-04-2014 (GC V), feita, segundo o post, a partir do livro de Manuel Reis, do «Fado de Coimbra II» de José Niza e da Enciclopédia da Música em Portugal no Século XX. Nela, o EP «Fados de Coimbra» de 1961 (ATEP 6035) tem o alinhamento da segunda citação. A biografia do mesmo post diz que o «Fados de Coimbra» de 1961 continha a Trova (facto anterior)."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Funções no Gabinete de Imprensa da FIL - Feira Industrial de Lisboa, de 1970 a 1974; depois dedicou-se exclusivamente ao canto e à música",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Em 1970 troca Coimbra por Lisboa, exercendo funções no Gabinete de Imprensa da FIL - Feira Industrial de Lisboa, até 1974, dedicando-se depois exclusivamente ao canto e à música."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundou a editora Edicta, com Carlos Vargas (1973); produtor na Orfeu (1974); participou na fundação da Cooperativa Cantabril, «logo após a Revolução dos Cravos»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Em 1973 lança “Fados de Coimbra”, em disco, e funda a Editora Edicta, com Carlos Vargas, para se tornar produtor na Orfeu, em 1974. Participa na fundação da Cooperativa Cantabril, logo após a Revolução dos Cravos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Sem data única: o post dá 1973 para a Edicta e 1974 para a Orfeu."
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Pozal Domingues, no ano em que saiu o álbum «O Canto e as Armas» (1969)",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "Ainda em 1969 vê editado o álbum ”O Canto e as Armas”, revelando de novo, vários poemas de Manuel Alegre. Pela sua obra recebe, no mesmo ano, o Prémio Pozal Domingues."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Eleito Artista do Ano pela revista inglesa Music Week",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "lança, em 1975, “Que nunca mais”. A revista inglesa Music Week elege-o Artista do Ano."
+        }
+      ],
+      "conflito": false,
+      "nota": "A fonte não dá o ano da distinção; refere-a a seguir ao LP de 1975."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Comendador da Ordem da Liberdade, a título póstumo, 24 de setembro de 1983",
+      "data": "1983-09-24",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "A título póstumo, a 24 de Setembro de 1983 foi feito Comendador da Ordem da Liberdade"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Grande-Oficial da Ordem do Infante D. Henrique, a título póstumo, 24 de abril de 1994",
+      "data": "1994-04-24",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-9de-abril-de-2014-faz-anos-67.html",
+          "doc": "gc-v:4076454243178716237",
+          "citacao": "A título póstumo, a 24 de Setembro de 1983 foi feito Comendador da Ordem da Liberdade e a 24 de Abril de 1994 foi feito Grande-Oficial da Ordem do Infante D. Henrique."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     },
     {
       "campo": "atividade",

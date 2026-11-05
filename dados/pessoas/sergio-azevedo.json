@@ -11,8 +11,267 @@
     "guitarrista",
     "violista"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+      "doc": "gc-ii:6466853841486145902",
+      "citacao": "Sérgio Azevedo (http://www.tonalatonal.blogspot.com/) nasceu em Coimbra em 1968. Estudou composição na Academia de Amadores de Música com Fernando Lopes-Graça e concluiu os estudos superiores de composição com 20 valores na Escola Superior de Música de Lisboa, onde trabalhou com Constança Capdeville e Christopher Bochmann."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+      "doc": "gc-i:113901786201067911",
+      "citacao": "O conjunto instrumental, constituído por mim e António Sérgio nas guitarras, e Durval Moreirinhas na viola, interpretou “Valsa de Outros Tempos” de Gonçalo e Artur Paredes. Realço aqui o acompanhamento inovador e arrojado da guitarra de acompanhamento, efectuado pelo meu filho António Sérgio."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+      "doc": "gc-v:8811819821132412113",
+      "citacao": "Sérgio Azevedo é Doutorado pela Universidade do Minho e, desde 1993, professor de Composição e Orquestração na ESML."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+      "doc": "gc-ii:6466853841486145902",
+      "citacao": "Publicou em 1999 A Invenção dos Sons (Caminho), em 2007 Olga Prats - Um Piano Singular (Bizâncio), e colabora com The New Grove Dictionary of Music and Musicians."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+      "doc": "gc-v:8811819821132412113",
+      "citacao": "Ganhou vários prémios nacionais e internacionais, entre os quais o “United Nations Prize”, e as suas obras são regularmente encomendadas e tocadas por prestigiosos intérpretes e orquestras, estando presentes em mais de 30 CD’s."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+      "doc": "gc-v:8811819821132412113",
+      "citacao": "Em 1 de Dezembro de 2016 apresentaremos o regulamento do concurso para a 1ª Edição a realizar em 2017, num dia em que homenageamos um compositor natural de Coimbra: Sérgio Azevedo."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 1968",
+      "data": "1968",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+          "doc": "gc-ii:6466853841486145902",
+          "citacao": "Sérgio Azevedo (http://www.tonalatonal.blogspot.com/) nasceu em Coimbra em 1968."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Sérgio Azevedo nasceu em Coimbra, Portugal, em 1968."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/as-variaes-de-octvio-srgio-uma.html",
+          "doc": "gc-i:111193101779994388",
+          "citacao": "o mais velho é o hoje musicólogo, compositor e professor da Escola Superior de Música / Instituto Politécnico de Lisboa Sérgio Azevedo (n. 1968)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Nos textos de Octávio Sérgio sobre os anos 80 aparece como «António Sérgio» ou «António Sérgio Azevedo»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "António Sérgio (Sérgio Azevedo, agora)"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/ficam-as-sombrasjose-mesquita-octavio.html",
+          "doc": "gc-iii:8712651176335263257",
+          "citacao": "O acompanhamento foi feito por Octávio Sérgio (g) e António Sérgio Azevedo (v)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Composição com Fernando Lopes-Graça na Academia de Amadores de Música; curso superior de composição na Escola Superior de Música de Lisboa (com Constança Capdeville e Christopher Bochmann), com nota máxima; doutoramento pela Universidade do Minho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+          "doc": "gc-ii:6466853841486145902",
+          "citacao": "Estudou composição na Academia de Amadores de Música com Fernando Lopes-Graça e concluiu os estudos superiores de composição com 20 valores na Escola Superior de Música de Lisboa, onde trabalhou com Constança Capdeville e Christopher Bochmann."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "na Escola Superior de Música de Lisboa (ESML) com Christopher Bochmann e Constança Capdeville, onde concluíu o Curso Superior de Composição com nota máxima."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Sérgio Azevedo é Doutorado pela Universidade do Minho"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor de Composição e Orquestração na Escola Superior de Música de Lisboa desde 1993; colaborador da RDP - Antena 2",
+      "data": "1993",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "desde 1993, professor de Composição e Orquestração na ESML."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+          "doc": "gc-ii:6466853841486145902",
+          "citacao": "É professor na ESML e colaborador da RDP - Antena 2 entre 1993."
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto de 2008 escreve «entre 1993»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«A Invenção dos Sons» (Caminho, 1999) e «Olga Prats - Um Piano Singular» (Bizâncio, 2007); colaborador do The New Grove Dictionary of Music and Musicians",
+      "data": "1999",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+          "doc": "gc-ii:6466853841486145902",
+          "citacao": "Publicou em 1999 A Invenção dos Sons (Caminho), em 2007 Olga Prats - Um Piano Singular (Bizâncio), e colabora com The New Grove Dictionary of Music and Musicians."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio de Composição Fernando Lopes-Graça (Cascais, 1996), por «Aspetto»; «United Nations Prize», entre outros",
+      "data": "1996",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/11/conferncia-por-srgio-azevedo.html",
+          "doc": "gc-ii:6466853841486145902",
+          "citacao": "Aspetto (quinteto de sopros) 1996 (Prémio de Composição Fernando Lopes-Graça, Cascais 1996)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Ganhou vários prémios nacionais e internacionais, entre os quais o “United Nations Prize”"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Concerto de homenagem pela Orquestra Clássica do Centro (ISCAC, Coimbra, 1 de dezembro de 2016), com entrega simbólica do 1.º Prémio Francisco Martins / 2016",
+      "data": "2016-12-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Em 1 de Dezembro de 2016 apresentaremos o regulamento do concurso para a 1ª Edição a realizar em 2017, num dia em que homenageamos um compositor natural de Coimbra: Sérgio Azevedo."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Simbolicamente ser-lhe-à entregue o 1º Prémio / 2016"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Orquestra Clássica do Centro com apoio da Livraria Almedina criou o PRÉMIO FRANCISCO MARTINS"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "será realizado um concerto em sua homenagem pela Orquestra Clássica do Centro sob a direção de José Eduardo Gomes."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/11/concerto-homenagem-sergio-azevedo-de.html",
+          "doc": "gc-v:8811819821132412113",
+          "citacao": "Dia 1 de Dezembro pelas 17h30, em Coimbra no auditório do ISCAC - Coimbra Bussiness Scchool."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Em 1987, guitarra de acompanhamento e viola ao lado do pai, Octávio Sérgio: gravação para a Secretaria da Emigração («Valsa de Outros Tempos», com Durval Moreirinhas) e digressão aos Estados Unidos (viola, com Frederico Vinagre)",
+      "data": "1987",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "comecei a gravar um disco, no dia 2 de Abril, a pedido da Secretaria da Emigração."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "O conjunto instrumental, constituído por mim e António Sérgio nas guitarras, e Durval Moreirinhas na viola, interpretou “Valsa de Outros Tempos” de Gonçalo e Artur Paredes. Realço aqui o acompanhamento inovador e arrojado da guitarra de acompanhamento, efectuado pelo meu filho António Sérgio."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "A 7 de Junho parti para os Estados Unidos com António Sérgio à viola e Frederico Vinagre a cantar."
+        }
+      ],
+      "conflito": false,
+      "nota": "Bloco de Notas de Octávio Sérgio (1987); o disco para a Secretaria da Emigração nunca foi publicado, segundo o mesmo texto."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viola dedilhada em «Ficam as Sombras» (música de José Mesquita, letra de Miguel Torga), na série televisiva «Canção de Coimbra - Anos 80», com Octávio Sérgio (guitarra)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/ficam-as-sombrasjose-mesquita-octavio.html",
+          "doc": "gc-iii:8712651176335263257",
+          "citacao": "\"Ficam as Sombras\" é mais uma música da série televisiva,\"Canção de Coimbra - Anos 80\", música de José Mesquita e letra de Miguel Torga. O acompanhamento foi feito por Octávio Sérgio (g) e António Sérgio Azevedo (v). Tem um trabalho notável de viola dedilhada"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "atividade",
       "valor": "Compositor de música erudita; acompanhou o pai à viola e à guitarra em alguns discos",
@@ -74,6 +333,57 @@
         }
       ],
       "nota": "Posts escritos por Octávio Sérgio."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/blog-de-srgio-azevedo.html",
+          "doc": "gc-i:111076191580795954",
+          "citacao": "acompanhou-me à viola e à guitarra em alguns discos"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "Realço aqui o acompanhamento inovador e arrojado da guitarra de acompanhamento, efectuado pelo meu filho António Sérgio."
+        }
+      ],
+      "nota": "À viola e à guitarra (textos de Octávio Sérgio)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/jos-afonso-nasceu-h-77-anos.html",
+          "doc": "gc-i:115447311328918440",
+          "citacao": "aqui numa foto no Coliseu, acompanhado por Octávio Sérgio e o filho António Sérgio (hoje, o compositor Sérgio Azevedo)"
+        }
+      ],
+      "nota": "Com Octávio Sérgio, no Coliseu (fotografia publicada no blogue I)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "O conjunto instrumental, constituído por mim e António Sérgio nas guitarras, e Durval Moreirinhas na viola, interpretou “Valsa de Outros Tempos” de Gonçalo e Artur Paredes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/bloco-de-notas-24-1987.html",
+          "doc": "gc-i:113901786201067911",
+          "citacao": "A 4 de Maio das 21 às 24 horas, gravei, juntamente com Durval Moreirinhas e António Sérgio, cinco números com Frederico Vinagre"
+        }
+      ],
+      "nota": "Em 1987, no conjunto de Octávio Sérgio (Bloco de Notas)."
     }
   ],
   "imagens": [],

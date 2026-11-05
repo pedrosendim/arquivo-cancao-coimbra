@@ -54,7 +54,42 @@
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/922/manasses_de_lacerda_fado_hilario",
           "doc": "museu-do-fado:wc996552b15be8a8e",
-          "citacao": "Fado Hilário Manassés de Lacerda Editora: Beka 7373"
+          "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Beka 7373"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado no Porto por volta de 1904-1905 (Beka-Grand-Record 7373); primeira versão conhecida da fusão/adaptação das peças herdadas de Augusto Hilário",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "o primeiro artista amador a registá-la fonograficamente nos discos Beka-Grand-Record, 7373, e Gramophone, N.º Cat. 62.384, ambos gravados no Porto entre 1904 e 1905."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+          "doc": "gc-v:762374983775125045",
+          "citacao": "Fado Hylario [Moderno], disco Beka 7373, gravado no Porto por volta de 1904-1905, por Manassés de Lacerda, correspondendo à primeira versão conhecida da fusão/adaptação das peças herdadas de Augusto Hilário"
+        }
+      ],
+      "conflito": true,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravado entre 1904 e 1906: uma das duas matrizes do «Fado Hylário Moderno» gravadas por Manassés (a outra é o Gramophone 362297)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+          "doc": "gc-i:112449926206277360",
+          "citacao": "Recorde-se que entre 1904-1906 Manassés gravou duas matrizes de Fado Hylário Moderno, respectivamente Beka 7373 e Gramophone 362297."
         }
       ],
       "conflito": true,
@@ -114,7 +149,7 @@
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/922/manasses_de_lacerda_fado_hilario",
       "doc": "museu-do-fado:wc996552b15be8a8e",
-      "citacao": "Fado Hilário Manassés de Lacerda Editora: Beka 7373"
+      "citacao": "Fado Hilário … Manassés de Lacerda … Editora: Beka 7373"
     }
   ],
   "estado_revisao": "rascunho"

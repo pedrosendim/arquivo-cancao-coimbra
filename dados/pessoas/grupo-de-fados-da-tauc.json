@@ -10,10 +10,28 @@
   ],
   "biografia": [
     {
+      "fonte": "tauc-arquivo-digital",
+      "url": "https://tunauc.wordpress.com/grupos/grupo-de-fados/",
+      "doc": "tauc-arquivo-digital:w1f9b2a973840b106",
+      "citacao": "Desde a sua fundação até a actualidade, o Fado de Coimbra sempre marcou presença na actividade da T.A.U.C.. Grandes vultos como Edmundo Bettencourt, Paradela de Oliveira, Artur Paredes, António Portugal, José Afonso, Luis Goes, etc. deram corpo às suas fileiras. É desta responsabilizadora tradição de mais de um século de canto e guitarra que os actuais grupos de Fado da T.A.U.C. são legítimos herdeiros."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/11/tuna-academica-da-universidade-de.html",
+      "doc": "gc-v:7470890231053886122",
+      "citacao": "A Tuna de Coimbra a 10 de Março de 1962, entre a Ciudad Rodrigo e Vilar Formoso, no regresso de Oviedo, onde foram atuar num Festival Internacional de Tunas. Do Grupo de Fados podemos ver Ernesto Melo (de costas), Durval Moreirinhas (v), Gomes Alves (c) e Victor Nunes."
+    },
+    {
       "fonte": "gc-iii",
       "url": "https://guitarracoimbra.blogspot.com/2011/01/esta-e-foto-do-grupo-de-fados-da-tauc.html",
       "doc": "gc-iii:1214458622098257184",
       "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
+    },
+    {
+      "fonte": "tauc-arquivo-digital",
+      "url": "https://tunauc.wordpress.com/arquivo/bau-de-memorias/recordacoes/grupo-de-fados-da-tauc-em-rhode-island-usa-2007/",
+      "doc": "tauc-arquivo-digital:w2336f05e14f87c59",
+      "citacao": "Esta digressão junto da comunidade portuguesa em Rhode Island, para comemorar o 10 de Junho, foi intensa. Em 7 ou 8 dias de estadia quase fizemos 15 apresentações"
     },
     {
       "fonte": "gc-iii",
@@ -90,6 +108,159 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "viagem da Tuna a Oviedo, para atuar num Festival Internacional de Tunas (regresso a 10 de março de 1962); do Grupo de Fados: Ernesto Melo, Durval Moreirinhas (viola), Gomes Alves (canto) e Victor Nunes; Eduardo Melo ficou retido na fronteira",
+      "data": "1962",
+      "local": "Oviedo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/11/tuna-academica-da-universidade-de.html",
+          "doc": "gc-v:7470890231053886122",
+          "citacao": "A Tuna de Coimbra a 10 de Março de 1962, entre a Ciudad Rodrigo e Vilar Formoso, no regresso de Oviedo, onde foram atuar num Festival Internacional de Tunas. Do Grupo de Fados podemos ver Ernesto Melo (de costas), Durval Moreirinhas (v), Gomes Alves (c) e Victor Nunes. Eduardo Melo não foi, por retenção na fronteira, enquanto \"perigoso\" acompanhador de António Portugal (fonte: José Miguel Baptista)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de fotografia; o post indica José Miguel Baptista como fonte."
+    },
+    {
+      "campo": "outro",
+      "valor": "Rui Ferreira foi cantor do grupo de fados da TAUC aproximadamente entre 1990 e 1996",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2021/02/cancao-do-cigano-popular-interp-antonio.html",
+          "doc": "galaxia-sonora-coimbra:1044842771943113599",
+          "citacao": "Rui Ferreira - cantor do grupo de fados da TAUC aproximadamente entre 1990 e 1996"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Escadas de Santiago (posts de 13 de julho de 2005, «ontem»): Ricardo Rodrigues (guitarra), Marco Matos (viola), Nuno Vaz e Adamo Caetano (canto), João Calha (saxofone)",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121249822107294.html",
+          "doc": "gc-i:112121249822107294",
+          "citacao": "Grupo de Fados da Tuna nas Escadas de Santiago, ontem. Ricardo Rodrigues na guitarra e Marco Matos na viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121189748126387.html",
+          "doc": "gc-i:112121189748126387",
+          "citacao": "Nuno Vaz a cantar, acompanhado por Ricardo Rodrigues à guitarra e Marco Matos à viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121177724539156.html",
+          "doc": "gc-i:112121177724539156",
+          "citacao": "Adamo Caetano a cantar, acompanhado por João Calha em saxofone, Ricardo Rodrigues à guitarra e Marco Matos à viola."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121233626091973.html",
+          "doc": "gc-i:112121233626091973",
+          "citacao": "Foi a primeira vez que ouvi a Canção de Coimbra com a inclusão do saxofone."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "apresentação do «Método de Guitarra Portuguesa» de José dos Santos Paulo, editado nas comemorações do 115.º aniversário da TAUC, no Salão Nobre da A.C.M. (24 de março; post de 23-3-2007), com interpretações do autor, de alunos seus do Conservatório de Música de Coimbra e do Grupo de Fados da TAUC",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/no-mbito-das-comemoraes-do-115.html",
+          "doc": "gc-i:4863738901484913453",
+          "citacao": "No âmbito das comemorações do 115º Aniversário da Tuna Académica da Universidade de Coimbra foi editado recentemente o livro “Método de Guitarra Portuguesa” de José dos Santos Paulo, obra esta que será apresentada publicamente, para todos os que desejem participar, no Salão Nobre da A.C.M. no dia 24 de Março às 15h30."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/no-mbito-das-comemoraes-do-115.html",
+          "doc": "gc-i:4863738901484913453",
+          "citacao": "interpretadas pelo autor, assim como por alguns dos seus alunos do Conservatório de Música de Coimbra e pelo Grupo de Fados da Tuna Académica da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressão a Rhode Island (EUA), junto da comunidade portuguesa, para comemorar o 10 de Junho: quase 15 apresentações em 7 ou 8 dias",
+      "data": "2007",
+      "local": "Rhode Island (EUA)",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/arquivo/bau-de-memorias/recordacoes/grupo-de-fados-da-tauc-em-rhode-island-usa-2007/",
+          "doc": "tauc-arquivo-digital:w2336f05e14f87c59",
+          "citacao": "Grupo de Fados da TAUC em Rhode Island, USA, 2007"
+        },
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/arquivo/bau-de-memorias/recordacoes/grupo-de-fados-da-tauc-em-rhode-island-usa-2007/",
+          "doc": "tauc-arquivo-digital:w2336f05e14f87c59",
+          "citacao": "Esta digressão junto da comunidade portuguesa em Rhode Island, para comemorar o 10 de Junho, foi intensa. Em 7 ou 8 dias de estadia quase fizemos 15 apresentações"
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho assinado «A. Caetano, 13 de Junho de 2024» no arquivo digital da TAUC."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Sarau de Gala do 120.º aniversário da TAUC (dia 29 de março de 2008, 21h30), com a Orquestra Big Band «Rags» e outros",
+      "data": "2008-03-29",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/sarau-de-gala-do-120-aniversrio-da-tauc.html",
+          "doc": "gc-ii:6747086561652813110",
+          "citacao": "SARAU DE GALA DO 120º ANIVERSÁRIO DA TAUC"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/sarau-de-gala-do-120-aniversrio-da-tauc.html",
+          "doc": "gc-ii:6747086561652813110",
+          "citacao": "Dia 29 de Março 08 > 21h30"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/sarau-de-gala-do-120-aniversrio-da-tauc.html",
+          "doc": "gc-ii:6747086561652813110",
+          "citacao": "Com a participação de Orquestra Big Band \"Rags\", Grupo de Fados da Tuna Académica da Universidade de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post refere também, no mesmo programa, o «Grupo de Fados da Associação dos Antigos Tunos da Universidade de Coimbra»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculo do 125.º aniversário da TAUC no Casino Figueira (22 de fevereiro; post de 20-2-2013), com a Orquestra e a Big Band «Rags», assinalando os 117 anos do primeiro espetáculo da TAUC na cidade (fevereiro de 1896)",
+      "local": "Figueira da Foz",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/tuna-academica-da-universidade-de.html",
+          "doc": "gc-v:8041855346740754540",
+          "citacao": "No dia 22 de Fevereiro (sexta-feira), pelas 22h, a Tuna Académica da Universidade de Coimbra, regressa à Figueira da Foz com um espectáculo comemorativo do seu 125º Aniversário."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/tuna-academica-da-universidade-de.html",
+          "doc": "gc-v:8041855346740754540",
+          "citacao": "O Casino Figueira irá receber não só a Orquestra, mas também a Big Band “Rags” e o Grupo de Fados da TAUC, assinalando ainda os 117 anos do seu primeiro espectáculo nesta cidade, em Fevereiro de 1896"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "relacoes": [],
@@ -105,8 +276,61 @@
           "citacao": "Esta é uma foto do grupo de fados da TAUC na Sé do Funchal fazendo uma serenata no dia 30 de Dezembro de 1968. A TAUC foi em digressão de fim de ano ao Funchal para abrilhantar as festas de passagem de ano, a viagem foi feita no navio Funchal e uma das actuações foi esta serenata. O Grupo era composto pelo José Manuel dos Santos (que não aparece na foto), pelo António Bernardino (Berna), os guitarras são o Manuel Borralho e o José Ferraz e as violas são o Rui Pato e o José Borralho."
         }
       ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMDZX74M7vG8xG75K8f7pMJmElh5yvgpWR9DP-SKCVjyThA07AOurodenJiuvAH1WG4My8YKgKkvvPI9nahP25Pgzbk0DXPIF6F8_fMIx40WI-KnVBT2ZmjzSi1cYre1UFfMWzoEj0X3jB/s1600/Tuna10-3-1962+Viagem+Oviedo+Festival+Int+Tunas.jpg",
+      "legenda": "A Tuna de Coimbra a 10 de março de 1962, no regresso de Oviedo; do Grupo de Fados veem-se Ernesto Melo (de costas), Durval Moreirinhas, Gomes Alves e Victor Nunes.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/11/tuna-academica-da-universidade-de.html",
+          "doc": "gc-v:7470890231053886122",
+          "citacao": "A Tuna de Coimbra a 10 de Março de 1962, entre a Ciudad Rodrigo e Vilar Formoso, no regresso de Oviedo ... Do Grupo de Fados podemos ver Ernesto Melo (de costas), Durval Moreirinhas (v), Gomes Alves (c) e Victor Nunes."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20de%20fados%20da%20Tuna%20Site%20da%20Tuna.jpg",
+      "legenda": "Grupo de Fados da Tuna Académica da Universidade de Coimbra (fotografia do site da TAUC, publicada no blogue em junho de 2005).",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-de-fados-da-tuna-acadmica-da.html",
+          "doc": "gc-i:111828439327827385",
+          "citacao": "Grupo de Fados da Tuna Académica da Universidade de Coimbra. Foto tirada do site da TAUC."
+        }
+      ]
+    },
+    {
+      "url": "https://tunauc.wordpress.com/wp-content/uploads/2024/07/2007-tauc-fados-providence-eua.jpg",
+      "legenda": "Grupo de Fados da TAUC em Rhode Island (EUA), 2007.",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/arquivo/bau-de-memorias/recordacoes/grupo-de-fados-da-tauc-em-rhode-island-usa-2007/",
+          "doc": "tauc-arquivo-digital:w2336f05e14f87c59",
+          "citacao": "Grupo de Fados da TAUC em Rhode Island, USA, 2007"
+        }
+      ]
+    },
+    {
+      "url": "https://tunauc.wordpress.com/wp-content/uploads/2016/05/grupo_fados_tauc_2016.jpg",
+      "legenda": "Grupo de Fados da TAUC, 2016.",
+      "fontes": [
+        {
+          "fonte": "tauc-arquivo-digital",
+          "url": "https://tunauc.wordpress.com/grupos/grupo-de-fados/",
+          "doc": "tauc-arquivo-digital:w1f9b2a973840b106",
+          "citacao": "Grupo de Fados da TAUC 2016"
+        }
+      ]
     }
   ],
-  "ligacoes": [],
+  "ligacoes": [
+    {
+      "rotulo": "Arquivo digital da TAUC: Grupo de Fados",
+      "url": "https://tunauc.wordpress.com/grupos/grupo-de-fados/"
+    }
+  ],
   "estado_revisao": "rascunho"
 }

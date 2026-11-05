@@ -4,9 +4,59 @@
   "nome": "Armando de Carvalho Homem",
   "nomes_alternativos": [],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "que ACH chega a Coimbra em 1940 e vai habitar a «República Baco» ... ingressando um ano mais tarde na Tuna Académica como executante de viola; será, em 1943/44, Vice-Presidente de uma Direcção liderada por Aurélio Afonso dos Reis."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "Este testemunho parece assim fazer contrastar uma fase inicial, em que ACH trabalha como «2.º guitarra» de António Cabral – grande solista que escassa nomeada acabou por deixar – e de João Bagão ... com a fase em que lidera grupos"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "Os grupos de ACH e de José Maria Amaral (1919 -2001) foram pioneiros na participação em tal iniciativa e a primeira Serenata teve lugar na Sé Velha, ca. 1946 (testemunho de Augusto Camacho)."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "É assim que, nos restantes anos de Coimbra (até 1948), ACH elabora as suas «Variações em ré menor» e «em lá menor», a «Valsa em lá menor n.º 1» e a «Miscelânea em Lá» (arranjo, sobre temas de Artur Paredes e João Bagão)"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "Em 1949/50 inicia funções no Liceu Nacional de Viseu (onde estudara nos anos 30) e aí ficará até 1956."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+      "doc": "gc-i:111413526000163649",
+      "citacao": "O Porto, para onde se transferiu em 1958 (novamente para o Liceu Alexandre Herculano, onde ensinou até à reforma por tempo de serviço [Setembro de 1984, em vésperas de completar 61 anos]), seria a urbe do renascer dos dedos"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "Foi na sequência deste Seminário que compôs as suas «Variações em mi menor» ... surgirá também a «Valsa em lá menor n.º 2» [indicativo]; a veia criadora, inactiva desde os anos 40, ressurgia"
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+      "doc": "gc-ii:2880260524370946169",
+      "citacao": "A rematar, os problemas de saúde que afectariam ACH a partir de 1988, e que ditariam o seu desaparecimento em 31 de Outubro de 1991, cerca de um mês depois de completar 68 anos."
+    }
+  ],
   "factos": [
     {
       "campo": "nascimento",
@@ -21,13 +71,29 @@
           "citacao": "Armando de Carvalho Homem nasceu em Viseu a 29 de Setembro de 1923 (freguesia Oriental), sendo o mais novo de 6 irmãos"
         }
       ],
-      "conflito": false,
-      "nota": "Biografia escrita pelo filho, Armando Luís de Carvalho Homem («o autor destas linhas»), publicada no blogue II (2008)."
+      "conflito": true,
+      "nota": "Biografia escrita pelo filho, Armando Luís de Carvalho Homem («o autor destas linhas»), publicada no blogue II (2008). A versão de 2005 da mesma nota biográfica (blogue I) diz «freguesia Ocidental»: ver o facto seguinte."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Viseu (freguesia Ocidental), 29 de setembro de 1923",
+      "data": "1923-09-29",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+          "doc": "gc-i:111413526000163649",
+          "citacao": "Natural de Viseu – onde nasceu a 29 de Setembro de 1923 (freguesia Ocidental), sendo o mais novo de 6 irmãos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota biográfica do filho, Armando Luís de Carvalho Homem, no blogue I (2005). A versão de 2008 (blogue II) diz «freguesia Oriental». Data e cidade coincidem."
     },
     {
       "campo": "morte",
-      "valor": "1991",
-      "data": "1991",
+      "valor": "31 de outubro de 1991",
+      "data": "1991-10-31",
       "local": "",
       "fontes": [
         {
@@ -35,6 +101,248 @@
           "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
           "doc": "gc-i:111413526000163649",
           "citacao": "Armando de Carvalho Homem(1923-1991):"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+          "doc": "gc-i:111413526000163649",
+          "citacao": "que ditariam o seu desaparecimento em 31 de Outubro de 1991, cerca de um mês depois de completar 68 anos."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Faz amanhã, dia 31 de Outubro, 17 anos que morreu Armando de Carvalho Homem."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/09/evocacao-de-carvalho-homem.html",
+          "doc": "gc-v:2565235565292802184",
+          "citacao": "guitarrista, compositor e professor do ensino liceal Armando de Carvalho Homem (1923-1991)."
+        }
+      ],
+      "conflito": true,
+      "nota": "Dia e mês: nota biográfica escrita pelo filho (blogue I, 2005; blogue II, 2008). Um post do blogue V (2014) dá 1981: ver o facto seguinte."
+    },
+    {
+      "campo": "morte",
+      "valor": "1981",
+      "data": "1981",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/in-memoriam-companheiros-da-musica-e-do.html",
+          "doc": "gc-v:4523928270509205449",
+          "citacao": "Carvalho Homem (Pai) (1923 - 1981) na outra guitarra"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post «IN MEMORIAM – Companheiros da Música e do Canto de Coimbra» (2014), na resenha sobre Tavares de Melo. As restantes fontes dão 1991."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciado em Ciências Físico-Químicas na época de outubro de 1945; estagiário no Liceu Normal D. João III e aluno de Ciências Pedagógicas na Faculdade de Letras (1946/47 e 1947/48)",
+      "data": "1945",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "licenciado na época de Outubro de 1945, ACH já não pôde ingressar de imediato no Estágio Pedagógico."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "1946/47 e 1947/48 serão tempos de regresso a Coimbra, estagiário no Liceu Normal D. João III, aluno de Ciências Pedagógicas na Faculdade de Letras"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor liceal de Físico-Químicas: Liceu Passos Manuel (Lisboa, 1948), Liceu Alexandre Herculano (Porto, até 1948/49), Liceu Nacional de Viseu (1949/50-1956), Ponta Delgada (1956/57), Braga, e de novo Liceu Alexandre Herculano (de 1958 até à reforma, em setembro de 1984)",
+      "data": "1948",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/biografia-de-armando-lus-de-carvalho_07.html",
+          "doc": "gc-i:111021507253876802",
+          "citacao": "sendo filho do guitarrista (e professor liceal de Físico-Químicas) Armando de Carvalho Homem (1923-1991)."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Concluído o Exame de Estado, atinge a situação de agregado do 7.º Grupo dos Liceus (1948) e é colocado no Liceu Passos Manuel (Lisboa). Consumado meses depois o concurso para professor auxiliar, é transferido para o Liceu Alexandre Herculano (Porto) e aí permanecerá até ao termo de 1948/49."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Em 1949/50 inicia funções no Liceu Nacional de Viseu (onde estudara nos anos 30) e aí ficará até 1956."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Colocado em Ponta Delgada no primeiro daqueles anos (e ascendendo então a professor efectivo dos Liceus, 7.º Grupo)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Braga, onde ensinou no ano subsequente"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/armando-de-carvalho-homem1923-1991.html",
+          "doc": "gc-i:111413526000163649",
+          "citacao": "O Porto, para onde se transferiu em 1958 (novamente para o Liceu Alexandre Herculano, onde ensinou até à reforma por tempo de serviço [Setembro de 1984, em vésperas de completar 61 anos])"
+        }
+      ],
+      "conflito": false,
+      "nota": "«O primeiro daqueles anos» é 1956/57, segundo a frase anterior do mesmo texto."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Tuna Académica (viola) a partir do ano seguinte à chegada a Coimbra (1940); vice-presidente da direção de 1943/44, liderada por Aurélio Afonso dos Reis",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "que ACH chega a Coimbra em 1940 e vai habitar a «República Baco» ... ingressando um ano mais tarde na Tuna Académica como executante de viola; será, em 1943/44, Vice-Presidente de uma Direcção liderada por Aurélio Afonso dos Reis."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Pioneiro, com o grupo de José Maria Amaral, nas «Serenatas de Coimbra» do Emissor Regional Centro da Emissora Nacional (a primeira na Sé Velha, c. 1946)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Os grupos de ACH e de José Maria Amaral (1919 -2001) foram pioneiros na participação em tal iniciativa e a primeira Serenata teve lugar na Sé Velha, ca. 1946 (testemunho de Augusto Camacho)."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Tal iniciativa»: os programas «Serenata de Coimbra» do ERC/EN, referidos na frase anterior."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão a Espanha do Orfeon Académico (primavera de 1947), no naipe instrumental com José Amaral, Sobral de Carvalho e Tavares de Melo",
+      "data": "1947",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Também na digressão a Espanha do Orfeon Académico (Primavera de 1947) se conjugaram: o naipe instrumental foi constituído por J. Amaral, ACH, Sobral de Carvalho e Tavares de Melo, solando alternadamente nos saraus os dois primeiros mencionados."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata do 1.º Seminário sobre o Fado de Coimbra (maio de 1978), num grupo portuense, acompanhando Alcides Santos e Napoleão Amorim",
+      "data": "1978-05",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "ACH recebeu com entusiasmo a notícia da realização do 1.º Seminário sobre o Fado de Coimbra, em Maio de 1978. ... participou na Serenata, integrado num grupo portuense (Manuel Cunha Gomes / Viriato Santos [gg.], Aureliano Veloso / Prado e Castro [vv.]), acompanhando Alcides Santos e Napoleão Amorim («Vento, não batas à porta» e «Fado da Sugestão», respectivamente)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Compôs, até 1948, as «Variações em ré menor» e «em lá menor» e a «Valsa em lá menor n.º 1», e fez a «Miscelânea em Lá» (arranjo sobre temas de Artur Paredes e João Bagão)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "É assim que, nos restantes anos de Coimbra (até 1948), ACH elabora as suas «Variações em ré menor» e «em lá menor», a «Valsa em lá menor n.º 1» e a «Miscelânea em Lá» (arranjo, sobre temas de Artur Paredes e João Bagão)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Compôs, depois do 1.º Seminário sobre o Fado de Coimbra (1978), as «Variações em mi menor» e a «Valsa em lá menor n.º 2»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Foi na sequência deste Seminário que compôs as suas «Variações em mi menor» ... surgirá também a «Valsa em lá menor n.º 2» [indicativo]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "instrumento",
+      "valor": "Guitarra construída por Raul Simões, destruída num acidente na viagem para os Açores (1956/57); nova guitarra adquirida na Casa Duarte (Porto) em princípios de 1959, que passou depois para o filho",
+      "data": "1959",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Já os anos de 1956/57 e de -57/58 serão de total paragem musical. Colocado em Ponta Delgada no primeiro daqueles anos ... na viagem de barco para os Açores[16], um acidente destruiu a guitarra (obra do construtor RAUL SIMÕES)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "em princípios de 1959 adquiriu uma nova guitarra na CASA DUARTE (à Rua Mouzinho da Silveira); o instrumento acabou por revelar-se dos melhores que daqueles construtores (há muito desactivados)[18] algum dia saíram, isto segundo testemunhos múltiplos desde que, a partir de 1991, passei a tê-lo na minha posse."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do filho, Armando Luís de Carvalho Homem («passei a tê-lo na minha posse»)."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Sessão de homenagem na Junta de Freguesia de Viseu, 29 de setembro de 2023, com apresentação de uma coletânea em CD da sua obra, executada por ele próprio",
+      "data": "2023-09-29",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/09/evocacao-de-carvalho-homem.html",
+          "doc": "gc-v:2565235565292802184",
+          "citacao": "A Junta de Freguesia de Viseu promove no dia 29 de setembro de 2023, no seu salão nobre, pelas 18:00h, uma sessão de homenagem ao antigo estudante da Faculdade de Ciências / UC, guitarrista, compositor e professor do ensino liceal Armando de Carvalho Homem (1923-1991)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/09/evocacao-de-carvalho-homem.html",
+          "doc": "gc-v:2565235565292802184",
+          "citacao": "Apresentação da Colectânea em CD da obra da autoria e com a execução própria do homenageado"
         }
       ],
       "conflito": false,
@@ -70,11 +378,181 @@
         }
       ],
       "conflito": false,
-      "nota": "A fonte não nomeia os irmãos."
+      "nota": "A frase não nomeia os irmãos; o mesmo texto nomeia mais adiante dois deles, músicos (ver o facto seguinte)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Dois irmãos mais velhos com atividade musical: Jaime de Carvalho Homem (1904-1976), guitarra e concertina, e José Cardoso de Carvalho Homem (1916-1975), guitarrista",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "prolongados em dois dos irmãos mais velhos: Jaime de CH (1904-1976), que cursou Medicina nas décadas de 20 e de 30, foi executante de guitarra e de concertina e membro de agrupamentos do tipo das futuras Estudantina e Orchestra Pitagórica; estritamente guitarrista foi o irmão etariamente mais próximo, José Cardoso de CH (1916-1975)"
+        }
+      ],
+      "conflito": false,
+      "nota": "«CH» abrevia Carvalho Homem ao longo do texto. Os irmãos não têm ficha própria."
     }
   ],
-  "relacoes": [],
-  "imagens": [],
+  "relacoes": [
+    {
+      "tipo": "tocou_com",
+      "alvo": "joao-bagao",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Este testemunho parece assim fazer contrastar uma fase inicial, em que ACH trabalha como «2.º guitarra» de António Cabral – grande solista que escassa nomeada acabou por deixar – e de João Bagão"
+        }
+      ],
+      "nota": "Como 2.º guitarra de João Bagão, na fase inicial em Coimbra (anos 40)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jose-maria-amaral",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Em 1946/47, tanto ACH como José Amaral ficaram sem os respectivos «2.os guitarras», saídos de Coimbra; e resolveram unir esforços para garantir a continuidade das «Serenatas»."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Também na digressão a Espanha do Orfeon Académico (Primavera de 1947) se conjugaram: o naipe instrumental foi constituído por J. Amaral, ACH, Sobral de Carvalho e Tavares de Melo, solando alternadamente nos saraus os dois primeiros mencionados."
+        }
+      ],
+      "nota": "1946/47 e digressão do Orfeon a Espanha (1947)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Em 1947/48 é a vez de José Amaral deixar Coimbra, e com ACH toca nesse ano o terceiranista de Farmácia António Pinho de Brojo (1927-1999)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Carvalho Homem fez-lhe um primeiro arranjo, que António Brojo conheceu no ano em que tocaram juntos (1948)"
+        }
+      ],
+      "nota": "1947/48."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "acompanhou cantores como Manuel Julião, Augusto Camacho, Napoleão Amorim, Anarolino Fernandes, Alcides Santos, «Nani» e Alexandre Herculano."
+        }
+      ],
+      "nota": "A fonte escreve «Augusto Camacho» e diz, no mesmo texto, que «Camacho nasceu em 1924», como a ficha de Augusto Camacho Vieira."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "anarolino-pacheco-fernandes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "acompanhou cantores como Manuel Julião, Augusto Camacho, Napoleão Amorim, Anarolino Fernandes, Alcides Santos, «Nani» e Alexandre Herculano."
+        }
+      ],
+      "nota": "Em Coimbra, anos 40."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "alcides-santos",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "acompanhou cantores como Manuel Julião, Augusto Camacho, Napoleão Amorim, Anarolino Fernandes, Alcides Santos, «Nani» e Alexandre Herculano."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "participou na Serenata, integrado num grupo portuense (Manuel Cunha Gomes / Viriato Santos [gg.], Aureliano Veloso / Prado e Castro [vv.]), acompanhando Alcides Santos e Napoleão Amorim"
+        }
+      ],
+      "nota": "Em Coimbra, anos 40, e na Serenata do 1.º Seminário sobre o Fado de Coimbra (maio de 1978)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "alexandre-herculano",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "acompanhou cantores como Manuel Julião, Augusto Camacho, Napoleão Amorim, Anarolino Fernandes, Alcides Santos, «Nani» e Alexandre Herculano."
+        }
+      ],
+      "nota": "Em Coimbra, anos 40. Trata-se do cantor Alexandre Herculano Gomes dos Santos, estudante de Direito nesses anos, e não do escritor."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-horacio-miranda",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "pensámos em José Horácio Miranda – que ocasionalmente já acompanháramos – e que, residindo em Penafiel e em vias de ser colocado na Inspecção de Ensino, se deslocava frequentemente ao Porto; acedeu, e de ca. 1982 a ca. 1985 trabalhámos intensamente."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "e o ulterior trabalho com José Horácio Miranda daria ainda lugar a diversas introduções de fados."
+        }
+      ],
+      "nota": "Com o filho (viola) e Mário Freitas (2.ª guitarra), c. 1982 - c. 1985."
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHzT5B-pTKk6tRgzmnjF1gmkDuEd0jSLj4TYH-oPRn4QvOUdhqVhNl5XRS-hRj4dZ6w5l8v9xz5oegYR6MFSJTsbNpBwO67WQD72KQAPdzggwK_j_tiQg-EW8g8SDKkUBvAvTfV7uph8A/s1600-h/ACHomem-1.gif",
+      "legenda": "Armando de Carvalho Homem quando finalista de Ciências Físico-Químicas (Coimbra, 1945).",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Armando de Carvalho Homem quando finalista de Ciências Físico-Químicas (Coimbra, 1945)"
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9gA68S6blasWoYW702rH6caiyX4VQVK2CHZklcszURZcztTyd0oPhCdpSvERxSOXiHiGhyJy1Oox1iPYhkKghZ_7ROKfW4Lzhtos2teWcd3KDNBnjKRg6AdV0T2IMD1nNiOlkSIRGSEE/s1600-h/ACHomem-2.gif",
+      "legenda": "Caricatura de Armando de Carvalho Homem por TOSSAN, para o Livro dos Quartanistas de Ciências (Coimbra, 1944).",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/armando-de-carvalho-homem-1923-1991.html",
+          "doc": "gc-ii:2880260524370946169",
+          "citacao": "Armando de Carvalho Homem caricaturado por TOSSAN para o Livro dos Quartanistas de Ciências (Coimbra, 1944)"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho",
   "nota_editor": "O «Armando Carvalho Homem» autor das «Variações em ré menor» (A Música Portuguesa a Gostar Dela Própria, 2018) é este Armando de Carvalho Homem (1923–1991), e não o filho: identificação confirmada pelo editor do arquivo (29-10-2026)."

@@ -4,14 +4,102 @@
   "nome": "Albano de Noronha",
   "nomes_alternativos": [
     "Félix Albano de Noronha",
-    "Felix Albano de Noronha"
+    "Felix Albano de Noronha",
+    "Albano Félix de Noronha"
   ],
   "papeis": [
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Deve-se aos solistas Artur Paredes e Felix Albano de Noronha a regularização de um segundo guitarra nos seus grupos desde 1926."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+      "doc": "gc-v:4606377539993451751",
+      "citacao": "Embora assegurasse a guitarra de acompanhamento no grupo de Artur Paredes (1926-1928), Felix Albano de Noronha preferia atuar como solista."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html",
+      "doc": "gc-ii:7818921095925152981",
+      "citacao": "segundo guitarra de Artur Paredes nas primeiras gravações com Edmundo de Bettencourt, a que se seguiu depois um período de primeiro guitarra em acompanhamentos de cantores, nomeadamente com Armando Goes e ainda em solos instrumentais que, para nosso desgosto, nunca chegaram a sair."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "Albano de Noronha, nome porque era efectivamente conhecido em Coimbra, foi 2.º guitarra de Artur Paredes, participou na primeira série de registos de Edmundo Bettencourt (1928), bem como nos registos de Armando do Carmo Goes, e é o autor de todos os arranjos que se ouvem em todas as faixas sonoras vocalizadas por Almeida d’Eça."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+      "doc": "gc-iv:8795226107929397598",
+      "citacao": "Foram seus segundos guitarras, entre outros, Felisberto Passos (1906 - 1986) e Afonso de Sousa (1906 - 1993), estando este último, ao seu lado, nas gravações dos seus amigos e contemporaneos, Armando Goes (1906 - 1967) e Almeida d'Eça (1902 1958)."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+      "doc": "gc-iv:8795226107929397598",
+      "citacao": "Compôs instrumentais (variações) e músicas para canções, de reconhecido valor. É no entanto uma figura, injustamente, muito esquecida. As suas gravações não foram divulgadas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/09/foi-ha-67-anos.html",
+      "doc": "gc-v:418585863031629098",
+      "citacao": "Félix Albano de Noronha, médico e guitarrista, que voltara a acompanhar Arthur Paredes na Emissora Nacional quando Carlos esteve a cumprir serviço militar [1947]"
+    }
+  ],
   "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Félix Albano de Noronha",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "Félix Albano de Noronha, compositor e guitarrista de Coimbra, que nasceu em Margão, Índia, a 22 de Setembro de 1902"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html?showComment=1302969782266#c4266508115452551408",
+          "doc": "gc-ii:c4266508115452551408",
+          "citacao": "O livro, na sua página 29, diz que se chamava Félix Albano de Noronha e não Albano Félix de Noronha."
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html?showComment=1308054785988#c431377950797346191",
+          "doc": "gc-ii:c431377950797346191",
+          "citacao": "Chamava-se Félix Albano de Noronha e faleceu em 1 de Janeiro de 1968 e não em 1967."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (GC IV, 2013). As duas outras fontes são comentários ao post de 2008 do GC II: um assinado «M Marques Inácio», que cita a p. 29 do livro de José Niza (Fado de Coimbra II, 1999), e um anónimo assinado «O filho...»."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Albano Félix de Noronha",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html",
+          "doc": "gc-ii:7818921095925152981",
+          "citacao": "Faz hoje 41 anos que morreu Albano Félix de Noronha"
+        }
+      ],
+      "conflito": true,
+      "nota": "Octávio Sérgio, post de 1 de janeiro de 2008 (GC II). Contestado nos comentários ao mesmo post."
+    },
     {
       "campo": "nascimento",
       "valor": "Margão (Índia), 22 de setembro de 1902",
@@ -23,6 +111,12 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
           "doc": "gc-iv:8795226107929397598",
           "citacao": "Félix Albano de Noronha, compositor e guitarrista de Coimbra, que nasceu em Margão, Índia, a 22 de Setembro de 1902"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/antonio-de-sousa-freitas.html",
+          "doc": "gc-v:332535673755700880",
+          "citacao": "FÉLIX ALBANO DE NORONHA que nasceu a 22 de Setembro de 1902, em Margão, Índia."
         }
       ],
       "conflito": false,
@@ -39,10 +133,158 @@
           "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
           "doc": "gc-iv:8795226107929397598",
           "citacao": "faleceu em Lisboa a 1 de Janeiro de 1968"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
+          "doc": "gc-v:4606377539993451751",
+          "citacao": "Felix Albano de Noronha (1902-1968)"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html?showComment=1308054785988#c431377950797346191",
+          "doc": "gc-ii:c431377950797346191",
+          "citacao": "Chamava-se Félix Albano de Noronha e faleceu em 1 de Janeiro de 1968 e não em 1967."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (GC IV, 2013). A terceira fonte é um comentário anónimo (2011, assinado «O filho...») ao post de 2008 do GC II, que corrige o ano desse post."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 1 de janeiro de 1967",
+      "data": "1967-01-01",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/antonio-de-sousa-freitas.html",
+          "doc": "gc-v:332535673755700880",
+          "citacao": "FÉLIX ALBANO DE NORONHA que nasceu a 22 de Setembro de 1902, em Margão, Índia. Faleceu em Lisboa a 1 de Janeiro de 1967."
+        }
+      ],
+      "conflito": true,
+      "nota": "Efeméride do GC V (1 de janeiro de 2014). O post do GC II de 1 de janeiro de 2008 diz «Faz hoje 41 anos que morreu Albano Félix de Noronha»; um comentário a esse post responde que «faleceu em 1 de Janeiro de 1968 e não em 1967»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "Este médico, grande figura da música de Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/09/foi-ha-67-anos.html",
+          "doc": "gc-v:418585863031629098",
+          "citacao": "Félix Albano de Noronha, médico e guitarrista"
         }
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Teatro de S. João (Porto), 10 de abril de 1927, com Paradela de Oliveira e Almeida d'Eça",
+      "data": "1927-04-10",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "em 10 de abril de 1927, no Teatro de S. João atuaram Paradela de Oliveira, Almeida d’Eça e Albano de Noronha, que foram muito aplaudidos"
+        }
+      ],
+      "conflito": false,
+      "nota": "O Primeiro de Janeiro (Porto), citado no post."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participou na primeira série de registos de Edmundo Bettencourt (Columbia, 1928), com Artur Paredes nas guitarras de Coimbra",
+      "data": "1928",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "participou na primeira série de registos de Edmundo Bettencourt (1928)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/08/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6950798737784833061",
+          "citacao": "Edmundo de Bettencourt* (in single 78 rpm \"Menina e Moça / Fado da Sugestão\", Columbia, 1928 ... * Artur Paredes e Albano de Noronha – guitarras de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "No post de 2014 sobre Edmundo de Bettencourt, a linha «Artur Paredes e Albano de Noronha – guitarras de Coimbra» repete-se nas faixas da Columbia de 1928 (a 2.ª citação é a da 1.ª faixa, «Menina e Moça»)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhou em guitarra de Coimbra, com Afonso de Sousa, as séries de Armando Goes na His Master's Voice (1927-1929)",
+      "data": "1927",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/caricatura-de-luis-moreira-da-costa.html",
+          "doc": "gc-v:2655939763065343195",
+          "citacao": "Entre 1927-1929, Armando Goes gravou diversas séries na etiqueta His Master's Voice, acompanhado em guitarra de Coimbra por Felix Albano de Noronha e Afonso de Sousa"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Acompanhou em guitarra de Coimbra de 17 trastos, com Afonso de Sousa, os registos de Almeida d'Eça para a Polydor (Lisboa, finais de 1929), de que é autor de todos os arranjos",
+      "data": "1929",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "d’Eça gravou em finais de 1929, em Lisboa, para a POLYDOR, pelo menos 8 discos de 78 rpm, com 16 faixas sonoras, acompanhado exclusivamente em guitarra de Coimbra de 17 trastos pelo estudante da FM/UC Felix Albano de Noronha (1902-1968) e pelo estudante da FD/UC Afonso de Sousa (1906-1993)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "é o autor de todos os arranjos que se ouvem em todas as faixas sonoras vocalizadas por Almeida d’Eça."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Composições: variações em Dó Maior e em Lá menor (que se podem ouvir graças ao trabalho de Frias Gonçalves); «Variações em Lá Maior» (ca. 1927-1929), possivelmente gravadas pelo autor em 1929, sem edição do disco",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/recordo-no-dia-de-hoje-1-de-janeiro-de.html",
+          "doc": "gc-iv:8795226107929397598",
+          "citacao": "Sem ele, seria muitíssimo difícil, ouvir as suas variações em Dó Maior e em Lá menor."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/07/um-registo-fonografico-por-sinal-o.html",
+          "doc": "gc-v:8810095619856593298",
+          "citacao": "VARIAÇÕES EM LÁ MAIOR, música original de Felix Albano de Noronha, arranjo no estilo de Lisboa por Fernando Pinto Coelho. Composição original de ca. 1927-1929, possivelmente gravada pelo próprio autor em 1929 sem que o disco tenha sido editado."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Sem ele» refere-se a Frias Gonçalves, na frase anterior do mesmo texto de Manuel Marques Inácio."
     }
   ],
   "relacoes": [
@@ -61,9 +303,47 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2016/06/de-toga-e-pluma-no-panteao-da-cancao-de.html",
           "doc": "gc-v:4606377539993451751",
           "citacao": "Embora assegurasse a guitarra de acompanhamento no grupo de Artur Paredes (1926-1928), Felix Albano de Noronha preferia atuar como solista."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/09/foi-ha-67-anos.html",
+          "doc": "gc-v:418585863031629098",
+          "citacao": "Félix Albano de Noronha, médico e guitarrista, que voltara a acompanhar Arthur Paredes na Emissora Nacional quando Carlos esteve a cumprir serviço militar [1947]"
         }
       ],
-      "nota": ""
+      "nota": "segunda guitarra (1926-1928); de novo na Emissora Nacional em 1947, segundo o GC V (2025)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armando-goes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/08/caricatura-de-luis-moreira-da-costa.html",
+          "doc": "gc-v:2655939763065343195",
+          "citacao": "Entre 1927-1929, Armando Goes gravou diversas séries na etiqueta His Master's Voice, acompanhado em guitarra de Coimbra por Felix Albano de Noronha e Afonso de Sousa"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2007/12/albano-de-noronha.html",
+          "doc": "gc-ii:7818921095925152981",
+          "citacao": "um período de primeiro guitarra em acompanhamentos de cantores, nomeadamente com Armando Goes"
+        }
+      ],
+      "nota": "primeira guitarra de Coimbra, gravações His Master's Voice (1927-1929)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "almeida-d-eca",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+          "doc": "gc-v:3909659451036344591",
+          "citacao": "d’Eça gravou em finais de 1929, em Lisboa, para a POLYDOR, pelo menos 8 discos de 78 rpm, com 16 faixas sonoras, acompanhado exclusivamente em guitarra de Coimbra de 17 trastos pelo estudante da FM/UC Felix Albano de Noronha (1902-1968) e pelo estudante da FD/UC Afonso de Sousa (1906-1993)."
+        }
+      ],
+      "nota": "guitarra de Coimbra, gravações Polydor (Lisboa, finais de 1929)"
     }
   ],
   "imagens": [

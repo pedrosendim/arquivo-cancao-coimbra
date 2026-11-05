@@ -3,12 +3,63 @@
   "tipo": "pessoa",
   "nome": "Edmundo de Bettencourt",
   "nomes_alternativos": [
-    "Edmundo Bettencourt"
+    "Edmundo Bettencourt",
+    "Edmundo Alberto de Bettencourt"
   ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "poeta"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+      "doc": "gc-v:6903033639175549052",
+      "citacao": "Edmundo, faz a instrução primária e o curso liceal no Funchal, onde por essa altura já pertencia a um grupo musical, famoso na cidade. Eram sete rapazes, onde estavam os três irmãos Bettencourt, sendo o irmão António e Edmundo, os cantores de serviço. Era o chamado \"Grupo dos Bettencourts\"."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "concluiu o curso dos liceus no Funchal e matriculou-se na Faculdade de Direito da Universidade de Lisboa no ano lectivo de 1918-1919, curso que frequenta durante 4 anos."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+      "doc": "gc-v:6903033639175549052",
+      "citacao": "Logo nesse ano de 1922, em Coimbra, participa numa primeira serenata, acompanhado por colegas seus da república onde vivia, e conhece Artur Paredes (1899 - 1980). Paredes convida-o para fazer parte do grupo dele."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "A sua estreia pública em palcos ocorreu no princípio de Março de 1923, em Viseu, numa digressão da Tuna, a que se segue, no final dessa mesma quinzena, a Figueira da Foz, onde cantou dois fados do compositor Fortunato Roma da Fonseca, o FADO DE SANTA CRUZ e CRUCIFICADO."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Continua cantando, e a poetar também, até que, na noite de 08 de Maio de 1926, no Teatro Nacional de São João, no Porto, foi cantar o FADO DO CHOUPAL, de António Menano. ... Com ou sem razão, o facto é que Edmundo Bettencourt atribuiu tanta importância a este episódio que nunca mais subiu a um palco para cantar."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+      "doc": "gc-i:113423081037259642",
+      "citacao": "Poeta, colabora na revista Bizâncio e, depois, na Presença, de que foi um dos fundadores - com José Régio, Branquinho da Fonseca e Gaspar Simões - e a que deu o título."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+      "doc": "gc-i:113050954577188427",
+      "citacao": "Edmundo Bettencourt efectuou duas séries de gravações, ambas para a Columbia, uma em Fevereiro de 1928 e outra em Dezembro de 1929 que se estendeu por Janeiro de 1930."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+      "doc": "gc-v:6903033639175549052",
+      "citacao": "O seu grande amigo e conterrâneo, Helberto Helder, consegue que em 1963, se publique um livro intitulado \"Poemas de Edmundo de Bettencourt\"."
+    }
+  ],
   "factos": [
     {
       "campo": "atividade",
@@ -36,7 +87,7 @@
           "citacao": "Edmundo de Bettencourt (1899-1973)"
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Uma bibliografia no GC-V (2025) dá a uma publicação de Cravo o título «Memorial de Edmundo de Bettencourt - 1889-1973»; não se trata de dado biográfico, mas o editor pode querer conferir."
     },
     {
@@ -83,10 +134,402 @@
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "coube a Armando Goes (AG), acompanhado à viola, o pioneirismo na gravação de Sonetos (três), numa declarada intenção de inovar o discurso estético-musical da CdeC, assim como também o fez EB (um)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Nesta 1ª série houve ainda a gravação do soneto NO CALVÁRIO (Passada a hora enorme da agonia), de Fausto José dos Santos Júnior (1903-1975), musicado por D. José Pais de Almeida e Silva (1899-1968), composição em que foi acompanhado exclusivamente à viola, e só à viola, por Mário Faria da Fonseca, mas a gravação não chegou a ser editada em disco."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). A segunda citação é da discografia de José Anjos de Carvalho (gc-i, 2005): o soneto «No Calvário», gravado em 1928 e não editado."
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Edmundo Alberto de Bettencourt",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "EDMUNDO ALBERTO DE BETTENCOURT, cantor e autor da Canção de Coimbra, poeta da geração da Presença."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:3853729922982743870",
+          "citacao": "EDMUNDO Alberto DE BETTENCOURT, poeta da geração da Presença e do modernismo português, cantor e autor da Canção de Coimbra, nasceu no Funchal na ilha da Madeira."
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Manuel Marques Inácio (2013 e 2014)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Funchal, Rua das Murças n.º 49, freguesia da Sé, 7 de agosto de 1899",
+      "data": "1899-08-07",
+      "local": "Funchal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Nascera a 7 de Agosto de 1899, na rua das Murças nº 49, freguesia da Sé, cidade do Funchal, ilha da Madeira."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:3853729922982743870",
+          "citacao": "fazem 41 anos que EDMUNDO DE BETTENCOURT, faleceu em Lisboa no dia 1 de Fevereiro de 1973. Nasceu no Funchal a 7 de Agosto de 1899."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Edmundo de Bettencourt nasceu nas ilhas. Na cidade do Funchal, capital da formosa Ilha da Madeira, a 7 de Agosto de 1899."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/estive-no-funchal-em-ferias-como-alias.html",
+          "doc": "gc-iv:5339748987223736497",
+          "citacao": "trata-se da rua onde nasceu e viveu na sua juventude o Dr. Edmundo de Bettencourt. A casa no nº 49, antes fechada e semi-abandonada, tinha uma plaquinha alusiva ao facto de lá ter nascido e vivido o ilustre Bettencourt."
+        }
+      ],
+      "conflito": true,
+      "nota": "Textos de Manuel Marques Inácio (2013 e 2014), reportagem de Paulo Antunes na revista EVA (1955), transcrita no gc-i, e carta de Jorge Machado (gc-iv, 2012) sobre a casa da Rua das Murças."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Funchal, 07-08-1999",
+      "data": "1999-08-07",
+      "local": "Funchal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Edmundo Alberto Bettencourt (Funchal, 07-08-1999; Lisboa, 01-02-1973)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Discografia de José Anjos de Carvalho, só neste parêntese; os restantes documentos indicam 1899. Possível gralha, a rever pelo editor."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, na sua casa, freguesia de S. José, 1 de fevereiro de 1973",
+      "data": "1973-02-01",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Faz hoje dia 1 de Fevereiro de 2013, quarenta anos que faleceu, na sua casa, na freguesia S. José, em Lisboa, EDMUNDO ALBERTO DE BETTENCOURT ... vem a falecer em Lisboa, a 1 de Fevereiro de 1973."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:3853729922982743870",
+          "citacao": "fazem 41 anos que EDMUNDO DE BETTENCOURT, faleceu em Lisboa no dia 1 de Fevereiro de 1973."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Edmundo Alberto Bettencourt (Funchal, 07-08-1999; Lisboa, 01-02-1973)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos de Manuel Marques Inácio (2013 e 2014) e discografia de José Anjos de Carvalho (2005)."
+    },
+    {
+      "campo": "outro",
+      "valor": "Sepultado no cemitério do Alto de S. João, em Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "vem a falecer em Lisboa, a 1 de Fevereiro de 1973. Está sepultado no cemitério do Alto de S. João."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Manuel Marques Inácio (2013)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu no Funchal; Faculdade de Direito de Lisboa desde 1918 (ano letivo de 1918-1919), durante quatro anos, completando o 2.º ano; em 1922 (ano letivo de 1922-1923) passa à Faculdade de Direito de Coimbra",
+      "data": "1918",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Vai para a Faculdade de Direito de Lisboa, em 1918, por onde anda quatro anos, completando o 2º ano."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "concluiu o curso dos liceus no Funchal e matriculou-se na Faculdade de Direito da Universidade de Lisboa no ano lectivo de 1918-1919, curso que frequenta durante 4 anos. No ano lectivo de 1922-1923, deixa Lisboa e ruma à Faculdade de Direito da Universidade de Coimbra, levando concluído o 2º Ano de Direito."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:3853729922982743870",
+          "citacao": "ingressando depois na Faculdade de Direito de Lisboa em 1918. Em 1922 transfere-se para a Faculdade de Direito da Universidade de Coimbra, mas não passa dos primeiros anos."
+        }
+      ],
+      "conflito": true,
+      "nota": "Textos de Manuel Marques Inácio (2013 e 2014) e de José Anjos de Carvalho (2005). A reportagem da revista EVA (1955) diz que chegou a Coimbra quartanista de Direito e que deixou os estudos «já no quinto ano»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Chegou a Coimbra em 1922 «quartanista de Direito»; pôs de parte os estudos «já no quinto ano»",
+      "data": "1922",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Em 1922 passou a Coimbra e, quartanista de Direito, instalou-se na República do Funchal ... Postos de parte os estudos, já no quinto ano, Bettencourt foi ficando, até 1930, por Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "Reportagem de Paulo Antunes, revista EVA (novembro de 1955), transcrita por António M. Nunes no post. Os outros textos dizem que levava concluído o 2.º ano."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Deixa Coimbra e fixa residência em Lisboa em 1930",
+      "data": "1930",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Julho/Agosto: Edmundo Alberto Bettencourt fixa residência em Lisboa."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:3853729922982743870",
+          "citacao": "Em 1930 ruma a Lisboa onde arranja emprego nos Hospitais Civis de Lisboa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Postos de parte os estudos, já no quinto ano, Bettencourt foi ficando, até 1930, por Coimbra."
+        }
+      ],
+      "conflito": true,
+      "nota": "A cronologia de António José Soares e António Manuel Nunes põe a entrada na secção «1930». O texto de Manuel Marques Inácio de 2013 diz que continuou em Coimbra até 1933."
+    },
+    {
+      "campo": "residencia",
+      "valor": "Continua em Coimbra até 1933 e muda-se depois para Lisboa",
+      "data": "1933",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Edmundo de Bettencourt, continua em Coimbra, até 1933. ... Decide rumar a Lisboa."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (2013). A cronologia do gc-i, a reportagem da EVA (1955) e o texto do mesmo autor de 2014 dão 1930."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Amanuense da Secretaria dos Hospitais Civis de Lisboa; funcionário da Comissão Reguladora do Comércio de Metais; delegado de propaganda médica até à reforma",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "manteve-se num apagado lugar de amanuense da Secretaria dos Hospitais Civis de Lisboa. Foi depois funcionário corporativo, na Comissão Reguladora do Comércio de Metais. ... Hoje é delegado de propaganda de um Laboratório de Produtos Farmacêuticos."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Vem para Lisboa, como se referiu, trabalhar para os Hospitais Civis de Lisboa, mas durante o período da Segunda Grande Guerra, transita para a Comissão Reguladora de Metais. Findo o conflito mundial, abraça a profissão de Delegado de Propaganda Médica, onde permanece até à sua reforma."
+        }
+      ],
+      "conflito": false,
+      "nota": "Reportagem da revista EVA (1955), transcrita no gc-i, e texto de Manuel Marques Inácio (2013)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Poeta modernista: colaborou na revista «Bizâncio» e foi um dos fundadores da «Presença», a que deu o título",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Poeta, colabora na revista Bizâncio e, depois, na Presença, de que foi um dos fundadores - com José Régio, Branquinho da Fonseca e Gaspar Simões - e a que deu o título."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Em 1927, surge o movimento modernista da Presença, em que o cantor está com Miguel Torga, José Régio, Branquinho da Fonseca, João Gaspar Simões, Afonso Duarte e alguns outros."
+        }
+      ],
+      "conflito": false,
+      "nota": "Reportagem da revista EVA (1955), transcrita no gc-i, e texto de Manuel Marques Inácio (2013)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Estreia pública em palco no princípio de março de 1923, em Viseu, numa digressão da Tuna; seguiu-se a Figueira da Foz",
+      "data": "1923-03",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A sua estreia pública em palcos ocorreu no princípio de Março de 1923, em Viseu, numa digressão da Tuna, a que se segue, no final dessa mesma quinzena, a Figueira da Foz"
+        }
+      ],
+      "conflito": true,
+      "nota": "Discografia de José Anjos de Carvalho (2005). O texto de Manuel Marques Inácio (gc-v, 2013) escreve «Em Março de 1823, estreia-se numa digressão a Viseu»: ver a versão de 1823."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Março de 1823 (assim no texto), estreia numa digressão a Viseu",
+      "data": "1823-03",
+      "local": "Viseu",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Em Março de 1823, estreia-se numa digressão a Viseu"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Manuel Marques Inácio (gc-v, 2013). A discografia de José Anjos de Carvalho (gc-i, 2005) dá o princípio de março de 1923. Possível gralha, a rever pelo editor."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão da Tuna e do Orfeon a Espanha, em abril de 1923 (Valladolid, Salamanca e Madrid), no Grupo de Fados, com António Menano e Artur Paredes: a única vez que saiu do país",
+      "data": "1923-04",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Nesta viagem a Espanha, em Abril de 1923, que foi a única que Edmundo de Bettencourt, faz fora do país, actuaram em Valladolid, Salamanca e Madrid."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "vai integrar com António Menano e Artur Paredes o Grupo de Fados na digressão da Tuna e Orfeon por terras de Espanha, em Abril desse mesmo ano de 1923."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Tirando a ida a Espanha, em 1923, Edmundo de Bettencourt nunca saiu de Portugal."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Depois de falhar as notas do «Fado do Choupal», de António Menano, no Teatro Nacional de São João (Porto), na noite de 8 de maio de 1926, nunca mais subiu a um palco para cantar",
+      "data": "1926-05-08",
+      "local": "Porto, Teatro Nacional de São João",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "na noite de 08 de Maio de 1926, no Teatro Nacional de São João, no Porto, foi cantar o FADO DO CHOUPAL, de António Menano. ... Edmundo Bettencourt deu uma fífia ao cantar a 1ª quadra ... Com ou sem razão, o facto é que Edmundo Bettencourt atribuiu tanta importância a este episódio que nunca mais subiu a um palco para cantar."
+        }
+      ],
+      "conflito": false,
+      "nota": "Discografia de José Anjos de Carvalho (2005). O texto de Manuel Marques Inácio (2013) diz que se afastou depois «das serenatas e dos palcos»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeira série de gravações para a Columbia: Porto, Palácio dos Carrancas, fevereiro de 1928, acompanhado à guitarra por Artur Paredes e Albano de Noronha e à viola por Mário Faria da Fonseca; cinco discos de 78 rpm",
+      "data": "1928-02",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "A 1ª série de gravações teve lugar no Porto, em Fevereiro de 1928, no Palácio dos Carrancas, antiga Casa Real. Foi acompanhado à guitarra por Artur Paredes e Albano de Noronha e, à viola, por Mário Faria da Fonseca, mas os seus nomes não figuram nos discos. Foram editados 5 discos de 78 rpm"
+        }
+      ],
+      "conflito": false,
+      "nota": "Discografia de José Anjos de Carvalho (2005)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segunda série de gravações para a Columbia, em Lisboa, de dezembro de 1929 a janeiro de 1930 (três discos)",
+      "data": "1929-12",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/discografia-de-edmundo-bettencourt-e.html",
+          "doc": "gc-i:113050954577188427",
+          "citacao": "Edmundo Bettencourt efectuou duas séries de gravações, ambas para a Columbia, uma em Fevereiro de 1928 e outra em Dezembro de 1929 que se estendeu por Janeiro de 1930."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Grava em Dezembro de 1929, agora em Lisboa, 3 discos de etiqueta verde"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«O Momento e a Legenda» (poemas, 1930)",
+      "data": "1930",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "Em 1930, publicara \"O Momento e a Legenda\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/um-dos-fundadores-da-presenareportagem.html",
+          "doc": "gc-i:113423081037259642",
+          "citacao": "Data do seu último ano de Coimbra o livro de poemas O Momento e a Legenda"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Poemas de Edmundo de Bettencourt» (1963)",
+      "data": "1963",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/02/edmundo-de-bettencourt.html",
+          "doc": "gc-v:6903033639175549052",
+          "citacao": "O seu grande amigo e conterrâneo, Helberto Helder, consegue que em 1963, se publique um livro intitulado \"Poemas de Edmundo de Bettencourt\"."
+        }
+      ],
+      "conflito": false,
+      "nota": "Segundo o post, a edição deveu-se ao «grande amigo e conterrâneo» (assim grafado) «Helberto Helder»."
     }
   ],
   "relacoes": [

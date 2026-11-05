@@ -53,6 +53,12 @@
       "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
       "doc": "gc-v:2387969368640592301",
       "citacao": "Deve-se a dois elementos dos Praxis Nova, Paulo Soares e Luís Alcoforado, o abandono do hieratismo em palco, a apresentação dos alinhamentos, a partilha de curtas informações sobre os instrumentos e o repertório em português, inglês e francês e até a realização de workshops"
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+      "doc": "arquivo-pt:w309102b641b5bf1f",
+      "citacao": "Desde então, o grupo participou em todas os grandes acontecimentos ligados ao Fado de Coimbra, e representaram a Academia, a Cidade e o País em centenas de espectáculos distribuídos por 15 países de 4 continentes, incluindo inúmeras participações em programas musicais de rádios e televisões de diversas latitudes e longitudes."
     }
   ],
   "factos": [
@@ -70,6 +76,49 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "surgiu em 1987 como grupo oficial da Secção de Fado da AAC; os elementos, então estudantes da Universidade de Coimbra, conheceram-se nas escolas de fado da Secção (página do grupo no site «Fado de Coimbra»)",
+      "data": "1987",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "O Grupo de Canção de Coimbra PRAXIS NOVA, surgiu em 1987 como grupo oficial da Secção de Fado da Associação Académica de Coimbra. Nessa época, os seus elementos eram estudantes da Universidade de Coimbra, e conheceram-se quando frequentavam as escolas de Fado daquela Secção."
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do texto de Luís Alcoforado (facto seguinte), que situa «por volta de 1985» a criação do grupo oficial da Secção que se transformaria nos Praxis Nova."
+    },
+    {
+      "campo": "formacao",
+      "valor": "por volta de 1985, Luís Alcoforado criou, com José Ourives, Jójó, Carlos Costa, Rui Lucas e Fernando Silva, o grupo oficial da Secção que «haveria de transformar-se» nos Praxis Nova; depois entraram José Rabaça, Luís Carlos Santos, Rui Moreira e Victor Silva",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231906/http://www.cidadevirtual.pt:80/fadocoimbra/recort27.htm",
+          "doc": "arquivo-pt:we1ea1ec660663198",
+          "citacao": "A minha história pessoal estabiliza por volta de 1985. Com José Ourives, Jójó, Carlos Costa, Rui Lucas e Fernando Silva, criei o grupo oficial da Secção que haveria de transformar-se numa magnífica aventura chamada Praxis Nova com a posterior participação do José Rabaça, do Luís Carlos Santos, do Rui Moreira e do Victor Silva."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto de Luís Alcoforado, «Memórias de um Cantor de Coimbra em Tempos de Ressurgimento», na secção de recortes do site «Fado de Coimbra». A página do grupo no mesmo site dá 1987."
+    },
+    {
+      "campo": "formacao",
+      "valor": "surgiu do trabalho das escolas da Secção de Fado da AAC e foi durante cinco anos o grupo oficial da Secção, autonomizando-se depois",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207234937/http://www.cidadevirtual.pt:80/fadocoimbra/recort51.htm",
+          "doc": "arquivo-pt:w7752dded07ac3714",
+          "citacao": "o grupo Praxis Nova surgiu há treze anos do trabalho das escolas da secção de Fado da AAC, tendo sido, durante cinco anos, o grupo oficial daquela secção, autonomizando-se depois para uma carreira ao serviço da música de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "Recorte «Fado de Coimbra \"descobriu\" a Austrália», reproduzido no site «Fado de Coimbra» sem data nem nome do jornal; por isso não se converte «há treze anos» num ano."
     },
     {
       "campo": "atuacao",
@@ -165,8 +214,23 @@
           "citacao": "-LP Canções de Coimbra, Praxis Nova, cassete Discantus/Fortes & Rangel, Lda., Porto, ano de 1989. Canta Luís Alcoforado. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos. Contém 11 registos antigos."
         }
       ],
-      "conflito": false,
-      "nota": ""
+      "conflito": true,
+      "nota": "A discografia da página do grupo no site «Fado de Coimbra» dá «1988 - Canções de Coimbra» (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "«Canções de Coimbra», 1988 (discografia na página do grupo no site «Fado de Coimbra»)",
+      "data": "1988",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "Discografia 1988 - Canções de Coimbra 1991 - Coimbra em Canções 1998 - Percursos"
+        }
+      ],
+      "conflito": true,
+      "nota": "Diverge do blogue (dois posts), que dá a cassete «Praxis Nova. Canções de Coimbra» de 1989."
     },
     {
       "campo": "gravacao",
@@ -178,10 +242,28 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-LP Baladas de Despedida, Anos 80, pelos Grupo Académico de Fados e Canções de Coimbra, Grupo de Fados de Coimbra Toada Coimbrã, Grupo de Canção de Coimbra Praxis Nova, Duplisom 1.004, Sacavém, 1990."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "Participações a título individual 1990 - Baladas da Despedida - anos 80"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071754/http://www.cidadevirtual.pt:80/fadocoimbra/vcdbd.html",
+          "doc": "arquivo-pt:wff9346574c344673",
+          "citacao": "BALADAS DE DESPEDIDA - ANOS 80 Vários Ano de Gravação - 1990 Editora -DupliSom"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071754/http://www.cidadevirtual.pt:80/fadocoimbra/vcdbd.html",
+          "doc": "arquivo-pt:wff9346574c344673",
+          "citacao": "Grupos participantes Académico de Fados e Canções de Coimbra, Toada Coimbrã, Praxis Nova"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A página do grupo no site «Fado de Coimbra» põe este disco sob «Participações a título individual», à parte da «Discografia» do grupo; o inventário do blogue e a página de vendas do mesmo site contam os Praxis Nova entre os grupos participantes."
     },
     {
       "campo": "gravacao",
@@ -193,10 +275,31 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-LP Coimbra em Canções, pelos Praxis Nova, Praxis Nova, Aurastúdios, 1991. Texto de apresentação assinado por António Nunes e Praxis Nova. Cantam Luís Alcoforado e Victor Silva. Guitarra: Paulo Soares. Violas: Carlos Costa e Luís Carlos Santos. Regista 13 temas, sendo 10 cantados e 3 instrumentais. Apresenta 4 inéditos."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "1991 - Coimbra em Canções"
         }
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "participações a título individual: «Coimbra - Baladas, Fados, Guitarradas» (1994)",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "Participações a título individual 1990 - Baladas da Despedida - anos 80 1994 - Coimbra - Baladas, Fados, Guitarradas"
+        }
+      ],
+      "conflito": false,
+      "nota": "A página do grupo no site «Fado de Coimbra» põe este disco sob «Participações a título individual», à parte da «Discografia» do grupo; na página da Tertúlia, o mesmo site usa a expressão para participações dos elementos, «nomeadamente como solistas». A página de vendas do mesmo site (arquivo-pt:wabe59c72beb36b59) apresenta «Coimbra - Baladas, Fados e Guitarradas» (1994) como disco da Secção de Fado da AAC e lista cantores, guitarras e violas, não grupos (ver a ficha seccao-de-fado-da-aac)."
     },
     {
       "campo": "gravacao",
@@ -208,6 +311,18 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-CD Praxis Nova, Percursos, Colectânea de Canções de Coimbra, CD/CDM 003, Porto, Fortes & Rangel, Lda., 1998. Remasterização de 19 temas anteriormente gravados em cassete e disco. Texto de apresentação assinado por Luís Alcoforado. Antologia comemorativa do 10.º aniversário do Grupo Praxis Nova. Cantam Luís Alcoforado, Rui Moreira e Victor de Almeida e Silva. Guitarras: Paulo Soares e José Rabaça. Violas: Carlos Costa e Luís Carlos Santos."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "1998 - Percursos"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20020805071506/http://www.cidadevirtual.pt:80/fadocoimbra/vcdpn.html",
+          "doc": "arquivo-pt:w6961b370e5c159ec",
+          "citacao": "PERCURSOS Grupo de Fados Praxis Nova Ano de Gravação - 1998 Editora - Fortes & Rangel, Lda"
         }
       ],
       "conflito": false,
@@ -281,6 +396,74 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "formação indicada na página do grupo (captura de 8-2-2005): Luís Alcoforado e Fernando Silva (cantores), Miguel Drago e José Rabaça (guitarra portuguesa), Luís Carlos Santos e Carlos Costa (viola); antigos elementos: Paulo Soares (guitarra portuguesa), Rui Moreira e Victor Almeida e Silva (cantores)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "A actual formação do grupo é a seguinte: Luís Alcoforado - cantor Fernando Silva - cantor Miguel Drago - guitarra portuguesa José Rabaça - guitarra portuguesa Luís Carlos Santos - viola Carlos Costa - viola Outros elementos que já integraram o grupo: Paulo Soares - guitarra portuguesa Rui Moreira - cantor Victor Almeida e Silva - cantor"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "espetáculos destacados na página do grupo: comemorações do 1.º centenário da AAC (Aula Magna, Teatro Carlos Alberto e Teatro Gil Vicente), ITB de Berlim, «Grande Noite do Fado» dos 500 anos dos Descobrimentos (Jerónimos), 1.º Encontro Europeu de Música para Estudantes Universitários e 2000 anos de Bonn, Festival «D'Orangés» (Rabat), 5 de Outubro em Macau, Instituto Ibero-Americano (Berlim), 10 de Junho em Estrasburgo e 450 anos da chegada de S. Francisco Xavier ao Japão",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html",
+          "doc": "arquivo-pt:w309102b641b5bf1f",
+          "citacao": "De entre eles destacam-se: Espectáculos comemorativos do 1º Centenário da AAC na Aula Magna (Lisboa), Teatro Carlos Alberto (Porto) e Teatro Gil Vicente (Coimbra), Representante de Portugal na ITB de Berlim, ... Participação na \"Grande Noite do Fado\", integrada nas Comemorações dos 500 anos dos Descobrimentos (Mosteiro dos Jerónimos), Participação no 1º Encontro Europeu de Música para Estudantes Universitários (Bonn), Representante de Portugal nas Comemorações dos 2000 anos da cidade de Bonn (Alemanha), Representante de Portugal no Festival Internacional \"D'Orangés\" - Rabat (Marrocos), Participação nas Comemorações do 5 de Outubro em Macau a convite do Governo de Macau, Apresentação no Auditório do Instituto Ibéro-Americano em Berlim, Espectáculo em Estrasburgo (França) integrado nas comemorações do 10 de Junho. Participação nas Comemorações dos 450 anos da chegada de S. Francisco Xavier ao Japão (Kagoshima, Tanegashima, Omura, Hirado e Tokushima)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "digressão à Austrália a convite da Embaixada de Portugal em Camberra (16 a 22 de junho; três apresentações nos dias 17 e 21, em Sydney e Camberra), com José Rabaça e Miguel Drago (guitarras portuguesas), Carlos Costa (viola), Luís Alcoforado (cantor) e o cantor convidado José Miguel Baptista",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207234937/http://www.cidadevirtual.pt:80/fadocoimbra/recort51.htm",
+          "doc": "arquivo-pt:w7752dded07ac3714",
+          "citacao": "A convite da Embaixada de Portugal em Camberra, a que se associou o clube português de Sydney, o grupo de canção de Coimbra Praxis Nova efectuou nos dias 17 e 21, de Junho, três apresentações musicais que marcaram um absoluto primeiro encontro da Austrália com fado de Coimbra"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207234937/http://www.cidadevirtual.pt:80/fadocoimbra/recort51.htm",
+          "doc": "arquivo-pt:w7752dded07ac3714",
+          "citacao": "o grupo de canção de Coimbra Praxis Nova deslocou-se à Oceânia entre os últimos dias 16 e 22 de Junho, realizando espectáculos em Sydney e Camberra"
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207234937/http://www.cidadevirtual.pt:80/fadocoimbra/recort51.htm",
+          "doc": "arquivo-pt:w7752dded07ac3714",
+          "citacao": "nesta deslocação o grupo contou com os seus elementos habituais, José Rabaça e Miguel Drago nas guitarras portuguesas, Carlos Costa na viola e Luís Alcoforado como cantor, aos quais se juntou como convidado o cantor José Miguel Baptista"
+        }
+      ],
+      "conflito": false,
+      "nota": "Recorte de imprensa reproduzido no site «Fado de Coimbra»; não indica o ano nem o jornal."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "encerrou uma Serenata Monumental: Luís Alcoforado cantou a «Balada da Moleirinha», «Os teus olhos» e a «Balada de despedida do 5.º ano de Economia de 1989»; Rui Moreira cantou «O meu desejo» e «Fado Triste»; duas variações em lá menor (solistas José Alberto Rabaça e Paulo Soares)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050207231528/http://www.cidadevirtual.pt:80/fadocoimbra/recorte6.htm",
+          "doc": "arquivo-pt:wd69f24c530bb4e44",
+          "citacao": "Coube ao Grupo Praxis Nova encerrar a Serenata Monumental. Luis Alcoforado começou por cantar a \"Balada da Moleirinha\", tema popular e interpretou ainda \"Os teus olhos\" e a \"Balada de despedida do 5º ano de Economia de 1989\". Rui Moreira cantou \"O meu desejo\" e \"Fado Triste\", e o grupo tocou ainda duas variações em lá menor (solistas José Alberto Rabaça e Paulo Soares)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Recorte «Sé Velha foi dos estudantes» reproduzido no site «Fado de Coimbra», sem data nem jornal."
     }
   ],
   "relacoes": [],
@@ -338,6 +521,10 @@
     {
       "rotulo": "Discogs: Praxis Nova",
       "url": "https://www.discogs.com/artist/4881702"
+    },
+    {
+      "rotulo": "Página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt, 2005)",
+      "url": "https://arquivo.pt/wayback/20050208001745/http://www.cidadevirtual.pt:80/fadocoimbra/praxis.html"
     }
   ],
   "estado_revisao": "rascunho"

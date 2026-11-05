@@ -4,10 +4,424 @@
   "nome": "Carlos Couceiro",
   "nomes_alternativos": [],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "compositor",
+    "poeta"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+      "doc": "gc-i:111093668487266538",
+      "citacao": "Nasceu no Lobito - Angola, a 3 de Janeiro de 1930. Aí estuda até aos 15 anos, vindo depois para Coimbra - sua segunda terra de adopção e que tão vincadamente o marcou - onde conclui o liceu (D. João III)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+      "doc": "gc-v:2651472355554743464",
+      "citacao": "Começou a aprender guitarra em 1947, tendo sido aluno de Manuel Branquinho (1929 – 1999) e de Flávio Rodrigues (1902 – 1950)."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+      "doc": "gc-i:111093668487266538",
+      "citacao": "Surgem, então, as primeiras poesias, tão de braço dado com a guitarra e os desportos. Faz os Preparatórios de Engenharia e transita de seguida para o Porto onde conclui o Curso de Engenharia Civil."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+      "doc": "gc-ii:2176792741751625156",
+      "citacao": "figura mítica da Associação Académica de Coimbra, cujas cores defendeu no Futebol, no Hokey em Patins e na Natação ( Saltos para a Piscina ), para além de exímio Guitarrista, distinguindo-se como intérprete de invulgar qualidade"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+      "doc": "gc-i:111093668487266538",
+      "citacao": "Uma breve passagem por Lisboa - onde continua a viver com a madrugada - e depois o almejado regresso a Angola. Em 1974 volta a Lisboa onde toma base para circular pela Arábia Saudita, pelos Emiratos Árabes, pela Líbia e por Angola."
+    },
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+      "doc": "gc-iv:4193604613223538861",
+      "citacao": "Na sua casa da Av. da Liberdade, em Lisboa, nos já longínquos anos 75, do século passado, nasceu o Grupo de Fados e Guitarradas de Coimbra \"Porta Férrea\", para quem ele é, e será sempre, a referência principal."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/03/engenheiro-carlos-couceiro.html",
+      "doc": "gc-iii:4843700649370678994",
+      "citacao": "o Carlos Couceiro era o Engenheiro construtor de pontes, estradas e auto-estradas e que dava aulas no Ensino Universitário; o Poeta que nos encantava com a facilidade e a mestria dos seus Poemas, dos quais as Fábulas foram, e serão no futuro, um repositório de valores que convidam ao estudo e à reflexão"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Carlos Alberto Martins Couceiro",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "o CARLOS ALBERTO MARTINS COUCEIRO, que nascera no Lobito (Angola)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "o nosso companheiro e amigo CARLOS Alberto Martins COUCEIRO"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "O Autor ... Carlos Alberto Martins Couceiro"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os textos do GC IV (2013) e do GC V (2014) são de Manuel Marques Inácio; o do GC I é a nota biográfica da contracapa do livro «Capim e poemas supérfluos»."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Lobito (Angola), 3 de janeiro de 1930",
+      "data": "1930-01-03",
+      "local": "Lobito, Angola",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "que nascera no Lobito (Angola), a 3 de Janeiro de 1930"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "nascido no Lobito (Angola) a 3 de Janeiro de 1930."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "Nasceu no Lobito - Angola, a 3 de Janeiro de 1930."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/pedro-ramalho.html",
+          "doc": "gc-v:8716401646808683842",
+          "citacao": "Nas guitarras vai o Carlos Couceiro (1930 – 2010)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A quarta citação, que dá só o ano, é do post «Pedro Ramalho» (Manuel Marques Inácio, GC V, 2013), que umas linhas acima diz «Carlos Couceiro (1933 – 2010)» (ver o facto seguinte)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "1933",
+      "data": "1933",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/pedro-ramalho.html",
+          "doc": "gc-v:8716401646808683842",
+          "citacao": "por influência do Carlos Couceiro (1933 – 2010), colega amigo"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post «Pedro Ramalho» (Manuel Marques Inácio, GC V, 2013); o mesmo post diz mais abaixo «Carlos Couceiro (1930 – 2010)» (ver o facto anterior)."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 6 de março de 2010",
+      "data": "2010-03-06",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "e vem a falecer em Lisboa, a 6 de Março de 2010."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "Faleceu em Lisboa a 6 de Março de 2010."
+        }
+      ],
+      "conflito": false,
+      "nota": "O GC V tem o título «CARLOS COUCEIRO (1930 – 2010)»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu D. João III, em Coimbra; Preparatórios de Engenharia em Coimbra; curso de Engenharia Civil no Porto, concluído em 1955",
+      "data": "1955",
+      "local": "Coimbra; Porto",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "rumando depois a Coimbra, onde termina o curso liceal no Liceu D. João III, Faz os Preparatórios de engenharia em Coimbra, e segue para o Porto, onde se forma em engenharia civil, no ano de 1955."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "Faz os Preparatórios de Engenharia e transita de seguida para o Porto onde conclui o Curso de Engenharia Civil."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a aprender guitarra em 1947",
+      "data": "1947",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "Começou a aprender guitarra em 1947"
+        }
+      ],
+      "conflito": false,
+      "nota": "Os mestres estão nas relações aluno_de. O GC IV (2013) diz «Foi aluno de mestre Flávio Rodrigues (1902 - 1950), e depois de Manuel Branquinho»; o GC V (2014) nomeia os dois («aluno de Manuel Branquinho (1929 – 1999) e de Flávio Rodrigues») sem dizer qual veio primeiro; o GC II (2009) nomeia Flávio Rodrigues e João Bagão."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Engenheiro civil (pontes, estradas e autoestradas) e professor do ensino superior",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "foi um engenheiro competentíssimo, professor do Ensino Superior"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/engenheiro-carlos-couceiro.html",
+          "doc": "gc-iii:4843700649370678994",
+          "citacao": "o Carlos Couceiro era o Engenheiro construtor de pontes, estradas e auto-estradas e que dava aulas no Ensino Universitário"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "Engenheiro Civil, compositor e guitarrista de Coimbra"
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto do GC III (2010) é de «Tito» Costa Santos."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundador e principal animador do Grupo de Fados e Guitarradas de Coimbra «Porta Férrea» (Grupo de Fados de Antigos Estudantes de Coimbra), nascido em sua casa, em Lisboa, por 1975",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "foi o fundador do “Grupo de Fados e Guitarradas de Coimbra Porta Férrea”."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "Na sua casa da Av. da Liberdade, em Lisboa, nos já longínquos anos 75, do século passado, nasceu o Grupo de Fados e Guitarradas de Coimbra \"Porta Férrea\""
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "mentor e entusiasta do \"Porta Férrea - Grupo de Fados de Antigos Estudantes de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/engenheiro-carlos-couceiro.html",
+          "doc": "gc-iii:4843700649370678994",
+          "citacao": "Acabaram os ensaios do “Porta Férrea – Grupo de Fados de Antigos Estudantes de Coimbra”, de que ele era o principal animador e entusiasta, na sua casa do Restelo, como, durante anos, fora na sua casa da Avenida da Liberdade."
+        }
+      ],
+      "conflito": false,
+      "nota": "O grupo Porta Férrea não tem ficha própria."
+    },
+    {
+      "campo": "outro",
+      "valor": "Defendeu as cores da Académica no futebol, no hóquei em patins e na natação (saltos para a piscina)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "figura mítica da Associação Académica de Coimbra, cujas cores defendeu no Futebol, no Hokey em Patins e na Natação ( Saltos para a Piscina )"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/03/engenheiro-carlos-couceiro.html",
+          "doc": "gc-iii:4843700649370678994",
+          "citacao": "o Desportista que defendera o negro da sua Académica no futebol, no hóquei em patins e na natação, nos seus tempos de estudante"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Ainda no liceu, menção honrosa em poesia nos Jogos Florais do C. F. B. e nos Jogos Florais Luso-Brasileiros da C. U. F.",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "Ainda no Liceu obtém, em poesia, uma menção honrosa nos Jogos Florais do C. F. B. e nos Jogos Florais Luso-Brasileiros da C. U. F."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica da contracapa de «Capim e poemas supérfluos», transcrita no post."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Capim e poemas supérfluos», o seu primeiro livro (poesia)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "Capim e poemas supérfluos - Carlos Couceiro"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "E são Familiares e Amigos que o \"forçam\" a publicar este seu primeiro livro."
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não indica o ano de edição; Octávio Sérgio recebeu o livro em julho de 1985."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Fábulas do tempo presente... e do tempo futuro», com ilustrações de Jorge Machado Dias (Contra-Regra, 1984, 2.ª edição)",
+      "data": "1984",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fbulas-do-tempo-presente.html",
+          "doc": "gc-i:111237359568133484",
+          "citacao": "\"Fábulas do tempo presente...e do tempo futuro\", de Carlos Couceiro, com ilustrações de Jorge Machado Dias. Editado pela \"Contra-Regra\", em 1984, 2ª edição"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post transcreve parte do prefácio, de «Albero Gouveia Soares Ribeiro» (grafia do post)."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Texto de apresentação do LP «Saudades da Rua Larga. Fados de Coimbra» (Rádio Triunfo, 1982), com Carlos Paredes e José Lacerda e Megre",
+      "data": "1982",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP Saudades da Rua Larga. Fados de Coimbra, pela Tertúlia Académica Rua Larga, Rádio Triunfo, RT 10012, Lisboa, 1982. Textos de apresentação assinados por Carlos Couceiro, Carlos Paredes e José Lacerda e Megre."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem na Casa da Académica em Lisboa, com Tóssan",
+      "data": "",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/03/tssan-e-carlos-couceiro-homenageados.html",
+          "doc": "gc-i:114270894456145990",
+          "citacao": "Homenagens a Tóssan e a Carlos Couceiro na Casa da Académica em Lisboa (1). Texto de António Alves e fotos de Lobo, no Diário das Beiras de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 18-3-2006 que reproduz em imagem a notícia do Diário As Beiras."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado com uma serenata nas escadas da Sé Velha, com os Pardalitos do Mondego e o seu grupo (ele e Teotónio Xavier nas guitarras, António Toscano na viola, Carlos Carranca e Arménio Santos a cantar)",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/10/carlos-couceiro-foi-homenageado-ontem.html",
+          "doc": "gc-ii:4319647197219245653",
+          "citacao": "Carlos Couceiro foi homenageado, ontem, com uma serenata nas escadas da Sé Velha, com os Pardalitos do Mondego e o seu grupo, constituído por ele na guitarra, Teotónio Xavier, também na guitarra, António Toscano na viola e os cantores Carlos Carranca e Arménio santos."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post publicado a 5-10-2008, que diz «ontem»."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Placa de homenagem com um poema seu, descerrada no Penedo da Saudade, em Coimbra (2009; anunciada para 26 de abril)",
+      "data": "2009",
+      "local": "Coimbra, Penedo da Saudade",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "Em Coimbra, no Penedo da Saudade, pelas 12h00 do dia 26 de Abril, domingo, será descerrada uma placa homenageando o Eng.º Carlos Couceiro"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "A foto que se apresenta, diz respeito à homenagem que lhe é feita em Coimbra, em 2009, onde ficou gravado na pedra, um seu poema sobre a sua amada Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/04/blog-post.html",
+          "doc": "gc-iii:5135501123320798646",
+          "citacao": "Homenagem a Carlos Couceiro, no passado domingo, com a colocação de uma placa alusiva ao acto, no Penedo da Saudade."
+        }
+      ],
+      "conflito": false,
+      "nota": "O anúncio do GC II é de «Tito» Costa Santos."
+    },
+    {
+      "campo": "outro",
+      "valor": "Colega de José Afonso desde o 4.º ano do liceu e padrinho do seu primeiro filho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "Fomos colegas desde o 4º ano, e mais, vim a ser seu compadre, padrinho do seu primeiro filho."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho de Carlos Couceiro, retirado do blogue da Associação José Afonso e reproduzido no GC I (2006)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "aluno_de",
@@ -33,6 +447,89 @@
         }
       ],
       "nota": "As fontes divergem quanto à ordem dos mestres (Flávio e depois Branquinho, ou o inverso) e uma refere João Bagão."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "manuel-branquinho",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2013/01/carlos-couceiro.html",
+          "doc": "gc-iv:4193604613223538861",
+          "citacao": "Foi aluno de mestre Flávio Rodrigues (1902 - 1950), e depois de Manuel Branquinho (1929 - 1999)."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/01/carlos-couceirop.html",
+          "doc": "gc-v:2651472355554743464",
+          "citacao": "tendo sido aluno de Manuel Branquinho (1929 – 1999) e de Flávio Rodrigues (1902 – 1950)."
+        }
+      ],
+      "nota": "O GC IV (2013) diz «e depois de Manuel Branquinho», a seguir a Flávio Rodrigues; o GC V (2014) nomeia Manuel Branquinho e Flávio Rodrigues sem dizer qual veio primeiro; o GC II (2009) nomeia Flávio Rodrigues e João Bagão, não Manuel Branquinho."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "joao-bagao",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/04/homenagem-ao-eng-carlos-couceiro.html",
+          "doc": "gc-ii:2176792741751625156",
+          "citacao": "discípulo de Flávio Rodrigues e João Bagão"
+        }
+      ],
+      "nota": "Só esta fonte («Tito» Costa Santos, 2009) refere João Bagão; as outras dão Manuel Branquinho."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "tertulia-academica-rua-larga",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/carlos-couceiro.html",
+          "doc": "gc-i:111569161042579396",
+          "citacao": "Carlos Couceiro. Guitarrista, Poeta e Futebolista. Faz parte do grupo \"Rua Larga\"."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/fotos-da-capa-do-disco-saudades-da-rua.html",
+          "doc": "gc-i:111569274232965759",
+          "citacao": "Fotos da capa do disco \"Saudades da Rua Larga\". É o grupo \"Tertúlia Académica Rua Larga\"."
+        }
+      ],
+      "nota": "guitarra. A segunda citação, do mesmo dia e da mesma série de posts, identifica o grupo do disco; não nomeia Carlos Couceiro entre os instrumentistas. O texto de apresentação do LP de 1982 é dele."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "octavio-sergio",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capim-e-poemas-suprfluos-carlos.html",
+          "doc": "gc-i:111093668487266538",
+          "citacao": "Carlos Couceiro ofereceu-me este livro em Julho de 1985, numa altura em que com ele formava um grupo de Fado de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fbulas-do-tempo-presente.html",
+          "doc": "gc-i:111237359568133484",
+          "citacao": "O autor ofereceu-me este extraordinário livro em 1985, numa altura em que constituíamos um grupo de fados."
+        }
+      ],
+      "nota": "Octávio Sérgio, autor dos posts, formava com ele um grupo de fados em 1985."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jos-afonso-por-carlos-couceiro.html",
+          "doc": "gc-i:116285238674221379",
+          "citacao": "O José Afonso foi meu colega desde o 4º ano de Liceu e aí começaram as primeiras ... e os primeiros fados de rua que era a maneira de nós não sermos rapados, lá em Coimbra, com o Mário Barroso. ... Saíamos para as nossas noitadas desde que se cantasse e tocasse bem ou mal"
+        }
+      ],
+      "nota": "Testemunho de Carlos Couceiro, retirado do blogue da Associação José Afonso, que continua: «ele cantava bem e o Barroso tocava muito bem, eu é que era o mais incipiente»."
     }
   ],
   "imagens": [

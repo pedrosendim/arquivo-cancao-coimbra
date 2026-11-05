@@ -2,13 +2,242 @@
   "id": "antonio-andias",
   "tipo": "pessoa",
   "nome": "António Andias",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "António Andias da Paula"
+  ],
   "papeis": [
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_95.html",
+      "doc": "gc-v:3472576530788616179",
+      "citacao": "Cartão de sócio de António Andias, do naipe dos bandolins, fazendo de presidente Luís Plácido, 2.º guitarra de Nuno Guimarães e de Ernesto de Melo"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/germano-rocha.html",
+      "doc": "gc-v:520694391036674926",
+      "citacao": "Neste caso específico e único as baladas de José Afonso integram solos de guitarra de Coimbra pela mão de António Andias."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+      "doc": "gc-v:4888476747986321236",
+      "citacao": "António Andias daria colaboração a Ernesto de Melo, Luiz Goes e Armando Marta (neste concreto caso, abordagem inequivocamente Neorrealista)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/02/duas-gravacoes-de-antonio-andias-pouco.html",
+      "doc": "gc-v:1279811639518633006",
+      "citacao": "Não nos parece forçado propor que a abordagem Andias / Durval se posiciona entre o Novo Canto (movimento liderado por Luiz Goes) e a Guitarra Portuguesa (propostas de Carlos Paredes)"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-andias-g-voltou-ao-activo-aqui.html",
+      "doc": "gc-iii:3939308438727505906",
+      "citacao": "António Andias (g) voltou ao activo, aqui acompanhado por Carlos Lima (v), no hotel Abrantur, em Abrantes, no passado dia 23"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-andias-no-grupo-raizes-de.html",
+      "doc": "gc-iii:4529248304542610131",
+      "citacao": "António Andias no grupo Raízes de Coimbra. Foi com imenso júbilo que recebemos tão ilustre contributo."
+    }
+  ],
   "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Sócio da Tuna Académica da Universidade de Coimbra (TAUC), naipe dos bandolins; 2.º guitarra de Nuno Guimarães e de Ernesto de Melo",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_95.html",
+          "doc": "gc-v:3472576530788616179",
+          "citacao": "Cartão de sócio de António Andias, do naipe dos bandolins, fazendo de presidente Luís Plácido, 2.º guitarra de Nuno Guimarães e de Ernesto de Melo"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Pertenceu à Tuna Académica, como executante de bandolim."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de um cartão de sócio do arquivo da TAUC (António Manuel Nunes e José Nascimento). A 2.ª citação é do texto de Armando Luís de Carvalho Homem (1998) reproduzido no GC I, secção «António Andias (n. 1946)»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Integrou grupos com Nuno Guimarães e Jorge Rino, e ainda com Hermínio Menino, Ernesto de Melo, Rui Pato e Durval Moreirinhas; frequentador da tertúlia do «ré menor»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Frequentador da tertúlia do «ré menor», integraria grupos com Nuno Guimarães e Jorge Rino, e ainda com Hermínio Menino, Ernesto de Melo (com quem gravaria um EP instrumental, v. supra), Rui Pato e Durval Moreirinhas."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem (1998) reproduzido no GC I, secção «António Andias (n. 1946)»."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Segunda fase do programa «Evocação de Coimbra» (Programa 1 da Emissora Nacional, Lisboa, 1969-1970), com Armando Marta e Durval Moreirinhas",
+      "data": "1969",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "aprofunda então a colaboração com o último dos violas mencionados. Deve-se-lhes ... o garantir de uma segunda fase do programa Evocação de Coimbra (Programa 1 da EN, 1969-1970)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "Evocação de Coimbra (Programa 1 da EN/Lisboa; também preenchido com material gravado em estúdio, numa primeira fase com L. Goes / J. Bagão / A. Aguillar / F. Neto / A. Toscano / J. Gomes e numa segunda com A. Marta / A. Andias / D. Moreirinhas, como se viu)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Armando Luís de Carvalho Homem (1998) reproduzido no GC I. A 1.ª citação está na secção «António Andias (n. 1946)»; a 2.ª nomeia os três da segunda fase («A. Marta / A. Andias / D. Moreirinhas»)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Guitarras de Coimbra. Guitarras de Portugal» (Philips 431.903 PE, 1966): 2.ª guitarra de Coimbra, com Ernesto de Melo (1.ª) e Durval Moreirinhas (viola nylon)",
+      "data": "1966",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra_26.html",
+          "doc": "gc-v:6930350165687949746",
+          "citacao": "EP GUITARRAS DE COIMBRA. GUITARRAS DE PORTUGAL. Lisboa: PHILIPS, 431.903 PE, 1966 ... Ernesto de Melo/António Andias (1.ª e 2.ª guitarras de Coimbra); Durval Moreirinhas (v nylon)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Ballades Portugaises», de Germano Rocha (Paris, Barclay 920012, 1966), com repertório de José Afonso: arranjos e acompanhamento à guitarra de Coimbra, com José Niza e Rui Pato (violas); gravado em Paris em 1966; o nome aparece disfarçado («Paula»)",
+      "data": "1966",
+      "local": "Paris",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/germano-rocha.html",
+          "doc": "gc-v:520694391036674926",
+          "citacao": "Capa e contracapa de um registo fonográfico efectuado em Paris, no ano de 1966, com reportório de José Afonso na voz de Germano Rocha."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/germano-rocha.html",
+          "doc": "gc-v:520694391036674926",
+          "citacao": "LP BALLADES PORTUGAISES. GERMANO ROCHA. Paris: Barclay 920012, 1966. ... Canta Germano Rocha. Arranjos e acompanhamento garantido por António Andias da Paula (guitarra de Coimbra), José Niza e Rui Pato (violas). Os nomes estão disfarçados (“Niza Mendes”, “Paula”, Ruy Mello”) para evitar problemas com as editoras portuguesas."
+        }
+      ],
+      "conflito": true,
+      "nota": "O post de 2014 dá o registo como efectuado em 1966; o post de 2026 cita José Niza (1999), para quem a gravação terá sido feita ainda em 1965 (facto seguinte)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo José Niza (1999), a gravação do LP «Ballades Portugaises» de Germano Rocha (edição de 1966) terá sido realizada meses antes, ainda em 1965; cantor acompanhado por António Andias (gC1), Rui Pato (v) e José Niza (v)",
+      "data": "1965",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/a-nova-balada-de-coimbra-divulgada-em.html",
+          "doc": "gc-v:4888476747986321236",
+          "citacao": "LP Germano Rocha, Ballades Portugaises, Paris, Barclay 920012, edição de 1966. Segundo Niza (1999), a gravação terá sido realizada meses antes, ainda em 1965. Cantor acompanhado por António Andias (gC1), Rui Pato (v), José Niza (v)."
+        }
+      ],
+      "conflito": true,
+      "nota": "José Niza, Fado de Coimbra (1999), citado no post de 2026."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Coimbra / XIV Aniversário dos Laboratórios Basi» (Movieplay ESP. 001, s/d [1969]): guitarra de Coimbra, solo e arranjo, com Durval Moreirinhas (viola) e o cantor Augusto Fernandes",
+      "data": "1969",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/uma-gravacao-da-dupla-andias-durval.html",
+          "doc": "gc-v:5130191409515087370",
+          "citacao": "Gravação conhecida em círculos muito restritos, inacessível, de finais dos sixties, em que participam António Andias (gC, solo e arranjo) e Durval Moreirinhas (v). O cantor Augusto Fernandes é desconhecido em Coimbra"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/uma-gravacao-da-dupla-andias-durval.html",
+          "doc": "gc-v:5130191409515087370",
+          "citacao": "CAPAS AO VENTO (Coimbra, terra d'encanto): EP COIMBRA / XIV ANIVERSÁRIO DOS LABORATÓRIOS BASI, Lisboa, Movieplay ESP. 001 , s/d. [1969]."
+        }
+      ],
+      "conflito": false,
+      "nota": "Edição sem data; o ano [1969] é o indicado entre parênteses retos no post."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Duas faixas com Durval Moreirinhas (viola) no LP «Guitarra Portuguesa» (Lisboa, Zip Zip COM 2009/L, s/d [1971]), a partir de uma atuação no Teatro Monumental, em Lisboa, por volta de 1968",
+      "data": "1971",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/duas-gravacoes-de-antonio-andias-pouco.html",
+          "doc": "gc-v:1279811639518633006",
+          "citacao": "Redescoberta de dois registos sonoros efetuados por António Andias (gC) e Durval Moreirinhas (v), editados e comercializados no LP GUITARRA PORTUGUESA, Lisboa, Edição ZIP ZIP COM 2009/L, s/d [1971]."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/duas-gravacoes-de-antonio-andias-pouco.html",
+          "doc": "gc-v:1279811639518633006",
+          "citacao": "Segundo informações do próprio António Andias as gravações tomam por base uma atuação feita por volta de 1968, no teatro Monumental, em Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Edição sem data; o ano [1971] é o indicado entre parênteses retos no post."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon Académico de Coimbra a Angola (1967), no Grupo de Fados e Canções de Coimbra, guitarra com Hermínio Menino",
+      "data": "1967",
+      "local": "Angola",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/orfeon-acadmico-de-coimbra-em-angola.html",
+          "doc": "gc-i:113934232821786720",
+          "citacao": "Orfeon Académico de Coimbra, em Angola, no ano de 1967. Podem ver-se os componentes do Grupo de Fados e Canções de Coimbra, António Andias e Hermínio Menino (gg), Jorge Rino (v), Barros Madeira e José Manuel Santos, cantores."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de fotografia."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "«1º Grupo de Fados no Japão»: televisão de Osaka, agosto de 1970, guitarra com Eduardo Melo, Victor Nunes e Durval Moreirinhas",
+      "data": "1970-08",
+      "local": "Osaka",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/1-grupo-de-fados-no-japo.html",
+          "doc": "gc-i:116307596623633091",
+          "citacao": "1º Grupo de Fados no Japão. Na TV de Osaka, em Agosto de 1970, vemos Victor Nunes com a viola de Durval Moreirinhas, com este a seu lado; António Andias e Eduardo Melo nas guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": "Legenda de fotografia (espólio de José Miguel Baptista)."
+    },
     {
       "campo": "gravacao",
       "valor": "Guitarra de Coimbra, arranjos e solos no LP Canções de Amor e de Esperança de Luiz Goes (gravado em dezembro de 1971)",
@@ -33,10 +262,16 @@
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "a de António Andias (n. 1946)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/guitarra-de-coimbra-em-tempos-de-fim.html",
+          "doc": "gc-i:111559689216335368",
+          "citacao": "António Andias (n. 1946)"
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). A 2.ª citação é o título da secção sobre António Andias no texto de Armando Luís de Carvalho Homem (1998) reproduzido no GC I."
     },
     {
       "campo": "gravacao",
@@ -47,11 +282,43 @@
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
-          "citacao": "músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
+          "citacao": "em 1971, gravando um EP com quatro temas de sua autoria, músicas do viola Durval Moreirinhas (1937-2017) e um trabalho notável para uma só guitarra – a de António Andias (n. 1946) – e com uma particularidade: o disco intitulava-se “4 Canções de Coimbra”!"
         }
       ],
-      "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). As fontes divergem no ano do EP: 1971 (Jorge Cravo), «saído em 1972» (Octávio Sérgio, GC I, 2005) e «ca. 1973» (Armando Luís de Carvalho Homem, GC I, 2007)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Armando Marta - 4 Canções de Coimbra» (Zip-Zip), saído em 1972: guitarra, com Durval Moreirinhas (viola)",
+      "data": "1972",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-armando-marta-4-canes-de.html",
+          "doc": "gc-i:112810276831338237",
+          "citacao": "Capa do EP \"Armando Marta - 4 Canções de Coimbra\", da etiqueta Zip-Zip, saído em 1972. Canta Armando Marta, acompanhado à guitarra por António Andias e à viola por Durval Moreirinhas."
+        }
+      ],
+      "conflito": true,
+      "nota": "Octávio Sérgio. Diverge no ano do texto de Jorge Cravo (1971) e do de Armando Luís de Carvalho Homem (ca. 1973)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Armando Marta / 4 canções de Coimbra» (ZIP 10 033 / E), com Durval Moreirinhas, de ca. 1973",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/08/armando-marta.html",
+          "doc": "gc-i:2362417919502028359",
+          "citacao": "O 2.º, intitulado «Armando Marta / 4 canções de Coimbra» (ZIP 10 033 / E) - com António Andias / Durval Moreirinhas -, datará de ca. 1973"
+        }
+      ],
+      "conflito": true,
+      "nota": "Comentário de Armando Luís de Carvalho Homem reproduzido no post («Seguem dois comentário de Armando Luís de Carvalho Homem»). Diverge no ano de Jorge Cravo (1971) e de Octávio Sérgio (1972)."
     }
   ],
   "relacoes": [
@@ -86,6 +353,70 @@
         }
       ],
       "nota": "guitarra no LP «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "armando-marta",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/capa-do-ep-armando-marta-4-canes-de.html",
+          "doc": "gc-i:112810276831338237",
+          "citacao": "Canta Armando Marta, acompanhado à guitarra por António Andias e à viola por Durval Moreirinhas."
+        }
+      ],
+      "nota": "guitarra no EP «Armando Marta - 4 Canções de Coimbra» (Zip-Zip); o ano diverge entre as fontes (ver os factos de gravação)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "nuno-guimaraes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_95.html",
+          "doc": "gc-v:3472576530788616179",
+          "citacao": "Cartão de sócio de António Andias, do naipe dos bandolins, fazendo de presidente Luís Plácido, 2.º guitarra de Nuno Guimarães e de Ernesto de Melo"
+        }
+      ],
+      "nota": "2.ª guitarra"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "ernesto-de-melo",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/01/cinquentenario-do-lp-fados-from-coimbra_95.html",
+          "doc": "gc-v:3472576530788616179",
+          "citacao": "Cartão de sócio de António Andias, do naipe dos bandolins, fazendo de presidente Luís Plácido, 2.º guitarra de Nuno Guimarães e de Ernesto de Melo"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra_26.html",
+          "doc": "gc-v:6930350165687949746",
+          "citacao": "Ernesto de Melo/António Andias (1.ª e 2.ª guitarras de Coimbra); Durval Moreirinhas (v nylon)"
+        }
+      ],
+      "nota": "2.ª guitarra; EP «Guitarras de Coimbra. Guitarras de Portugal» (Philips, 1966)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2021/04/uma-gravacao-da-dupla-andias-durval.html",
+          "doc": "gc-v:5130191409515087370",
+          "citacao": "Uma gravação da dupla Andias / Durval pouco conhecida"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/02/duas-gravacoes-de-antonio-andias-pouco.html",
+          "doc": "gc-v:1279811639518633006",
+          "citacao": "Redescoberta de dois registos sonoros efetuados por António Andias (gC) e Durval Moreirinhas (v)"
+        }
+      ],
+      "nota": "guitarra de Coimbra e viola: a «dupla Andias / Durval»"
     }
   ],
   "imagens": [],

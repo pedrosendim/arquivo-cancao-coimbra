@@ -45,6 +45,12 @@
       "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
       "doc": "gc-v:1578621927620632063",
       "citacao": "Foi o primeiro Grupo de Fados de Coimbra a constituir-se\nem Associação Artística e Cultural, com escritura notarial outorgada no dia 12\nde Dezembro de 1989 e publicada no Diário da República de 19 de Janeiro de\n1990."
+    },
+    {
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+      "doc": "arquivo-pt:wc1013e3cdb71bb05",
+      "citacao": "Constituída essencialmente por antigos estudantes de Coimbra, vem desempenhando um papel de relevo na preservação, divulgação e criação da Canção Coimbrã, nas suas várias vertentes. Seu sustentáculo na primeira metade dos anos 70, fase de grandes incertezas sociais e culturais, nos anos 80 presta decididamente o seu contributo na consolidação da Canção Coimbrã, enquanto expressão artística e cultural, e contribui, nos anos 90, para a renovação sustentada da arte de que são cultores."
     }
   ],
   "factos": [
@@ -166,6 +172,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-EP Coimbra tem mais Encanto, Rossil, Comissão Municipal de\nTurismo de Coimbra, ano de 1978. Regista quatro faixas: Ondas do Mar, Nasce na\nEstrela o Mondego, Balada da Despedida/1958, Variações em Lá Menor [Álvaro\nAroso]. Guitarras de Álvaro Aroso e José Carlos Teixeira; viola, Eduardo Aroso;\nvozes de José Miguel Baptista, Vitor Nunes, Nuno de Carvalho."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1978 - “Coimbra tem mais encanto ...” - EP, Rossil"
         }
       ],
       "conflito": false,
@@ -259,6 +271,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
           "doc": "gc-v:1578621927620632063",
           "citacao": "Nesta\ndécada de 80 foram gravados dois trabalhos discográficos: EP “Serenatas no D.\nPedro” e LP “Coimbra... Terra D'Encanto”."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1981 - “Serenatas no D. Pedro” - EP, Rossil"
         }
       ],
       "conflito": false,
@@ -280,10 +298,46 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
           "doc": "gc-v:1578621927620632063",
           "citacao": "Nesta\ndécada de 80 foram gravados dois trabalhos discográficos: EP “Serenatas no D.\nPedro” e LP “Coimbra... Terra D'Encanto”."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1982 - “Coimbra ... Terra d’Encanto” - LP, Rossil (1ª Edição)"
         }
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Coimbra... Terra d'Encanto», 2.ª edição (VideoFono, 1985)",
+      "data": "1985",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1985 - “Coimbra ... Terra d’Encanto” - LP, VideoFono (2ª Edição)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Discografia da página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt de 2005)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra... Terra d'Encanto», 3.ª edição (VideoFono, 1993)",
+      "data": "1993",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1993 - “Coimbra ... Terra d’Encanto” - CD, VideoFono (3ª Edição)"
+        }
+      ],
+      "conflito": false,
+      "nota": "Discografia da página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt de 2005)."
     },
     {
       "campo": "atuacao",
@@ -311,6 +365,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
           "doc": "gc-v:1578621927620632063",
           "citacao": "Foi o primeiro Grupo de Fados de Coimbra a constituir-se\nem Associação Artística e Cultural, com escritura notarial outorgada no dia 12\nde Dezembro de 1989 e publicada no Diário da República de 19 de Janeiro de\n1990."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "de direito - como Associação Artística e Cultural - desde 1989"
         }
       ],
       "conflito": false,
@@ -326,6 +386,12 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
           "doc": "gc-v:1578621927620632063",
           "citacao": "A\nTertúlia do Fado de Coimbra é detentora do título de Sócio Honorário do Elos\nClube Internacional, que lhe foi outorgado na cidade de Belo Horizonte -\nBrasil, em Outubro de 1990."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "A Tertúlia do Fado de Coimbra é detentora do Título de Sócio Honorário do Elos Clube Internacional, título honorífico que lhe foi outorgado em Belo Horizonte, Brasil, em Outubro de 1990"
         }
       ],
       "conflito": false,
@@ -341,6 +407,12 @@
           "url": "https://guitarracoimbra.blogspot.com/2010/01/tenho-barcos-tenho-remos.html",
           "doc": "gc-iii:854211484143292539",
           "citacao": "CD Tertúlia do Fado de Coimbra – Amanhecer em Coimbra, Edisco, ECD 15, editado em 1993."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1993 - “Amanhecer em Coimbra” - CD, Edisco"
         }
       ],
       "conflito": false,
@@ -356,6 +428,40 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
           "doc": "gc-v:4163497511678760872",
           "citacao": "-CD Relíquias, pela Tertúlia do Fado de Coimbra, EDISCO, ECD 25,\nPorto, 1994. Vozes de José Paulo, Joaquim Matos, Nuno de Carvalho, Victor\nNunes, José Miguel Baptista. Guitarras: Álvaro Aroso, José Carlos Teixeira,\nJosé Paulo. Violas: Eduardo Aroso, José Paulo, José Carlos Teixeira. Regista 16\ntemas, sem inéditos."
+        },
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "1994 - “Relíquias” - CD"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "atuações destacadas na página do grupo: Ópera de Frankfurt (1980), Teatro Nacional D. Maria II (1982), para os Reis da Bélgica (Buçaco, 1984), RFA (Ano Internacional da Música, 1985), Teatro Nacional de S. Carlos (1988), Luxemburgo (1992)",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "destacam-se os realizados na Ópera de Frankfurt (1980), Teatro Nacional D. Maria II (1982), para os Reis da Bélgica (Buçaco, 1984), RFA (ano Internacional da Música, 1985), Teatro Nacional S. Carlos (1988), Luxemburgo (1992), e múltiplas presenças em vários países da Europa, Médio Oriente, Ásia, África e Américas do Norte e Sul."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "elementos indicados na página do grupo (captura de 12-3-2005): Álvaro Aroso (guitarra), José Paulo (guitarra, viola e canto), José Carlos Teixeira (viola, guitarra), Eduardo Aroso (viola); cantores Joaquim Matos, José Miguel Baptista, Nuno Carvalho e Victor Nunes",
+      "fontes": [
+        {
+          "fonte": "arquivo-pt",
+          "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html",
+          "doc": "arquivo-pt:wc1013e3cdb71bb05",
+          "citacao": "Elementos que compõem o Grupo Álvaro Aroso - Guitarra José Paulo - Guitarra, Viola José Carlos Teixeira - Viola, Guitarra Eduardo Aroso - Viola Joaquim Matos - Cantor José Miguel Baptista - Cantor José Paulo - Cantor Nuno Carvalho - Cantor Victor Nunes - Cantor"
         }
       ],
       "conflito": false,
@@ -479,6 +585,10 @@
     {
       "rotulo": "YouTube: canal da Tertúlia do Fado de Coimbra",
       "url": "https://www.youtube.com/@TERTULIADOFADODECOIMBRA-id8sx/featured"
+    },
+    {
+      "rotulo": "Página do grupo no site «Fado de Coimbra» (cópia do Arquivo.pt, 2005)",
+      "url": "https://arquivo.pt/wayback/20050312041305/http://www.cidadevirtual.pt:80/fadocoimbra/tertu.html"
     }
   ],
   "estado_revisao": "rascunho"

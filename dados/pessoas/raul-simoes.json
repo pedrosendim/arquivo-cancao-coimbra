@@ -77,10 +77,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
           "doc": "gc-v:3875621728661417894",
           "citacao": "Raul Simões, nascido em Coimbra a 8.11.1891, falecido em Lisboa a 04.11.1981."
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "Nasceu a 8 de Novembro de 1891 na freguesia da Sé Nova, Coimbra"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A página «Violeiros e Guitarreiros Portugueses» de José Lúcio (cópia do Arquivo.pt) reproduz um texto cedido por Dulce Simões, autora da biografia publicada no GC V em 2014."
     },
     {
       "campo": "morte",
@@ -99,10 +105,16 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2016/11/da-arte-de-bem-construir-nas-oficinas.html",
           "doc": "gc-v:3875621728661417894",
           "citacao": "falecido em Lisboa a 04.11.1981"
+        },
+        {
+          "fonte": "jose-lucio",
+          "url": "https://arquivo.pt/wayback/20230131101301/http://www.jose-lucio.com/Pagina3/Guitarreiros.htm",
+          "doc": "jose-lucio:wbd3b421be9bc7477",
+          "citacao": "faleceu a 4 de Novembro de 1981 na freguesia dos Anjos, Lisboa."
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A página de José Lúcio (cópia do Arquivo.pt) reproduz um texto cedido por Dulce Simões."
     },
     {
       "campo": "outro",

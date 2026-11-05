@@ -3,14 +3,298 @@
   "tipo": "pessoa",
   "nome": "João Moura",
   "nomes_alternativos": [
-    "João Carlos Moura"
+    "João Carlos Moura",
+    "João Carlos Vidaurre Pais de Moura"
   ],
   "papeis": [
     "guitarrista",
-    "compositor"
+    "compositor",
+    "professor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "João Carlos Vidaurre Pais de Moura nasceu em Cantanhede no dia 1 de Novembro de 1957."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "indicaram-me que na A.C.M. (Associação Cristã da Mocidade), à rua Alexandre Herculano, havia uma classe de guitarra portuguesa dirigida por Jorge Gomes, a única existente em Coimbra. ... Assim iniciei a aprendizagem deste instrumento tendo como colegas o Tó Zé Moreira, o Henrique Ferrão e o António Nogueira."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "O Grupo de Fados e Guitarras de Coimbra nasce em 1978. Encontrava-me no segundo ano de Farmácia, com quarto na República dos Pyn-Guyns, e fui contactado pelo Vítor Baltasar e pelo Carlos Caiado para fazer parte, como guitarrista, de um grupo de fados de Coimbra"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "É por esta altura que recebo o convite do Prof. Pinho Brojo para alguns valiosos ensinamentos, tendo frequentado a sua casa durante cerca de dois anos. Esta situação repetiu-se com o Dr. António Portugal e foi graças a estes dois mestres e a Jorge Gomes, com quem me iniciei, que desenvolvi a técnica da guitarra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "As aulas começaram em Novembro de 1980 e eu tive a meu cargo o ensino da guitarra portuguesa, acumulado com a classe de canto e que se prolongou até 1984."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "Março de 1984. Ingresso na Universidade do Minho iniciando a minha carreira profissional numa Universidade nova onde as festas académicas começavam a afirmar-se"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+      "doc": "gc-i:114505781169831106",
+      "citacao": "Desde 1985 existe o grupo de flauta, guitarra e poesia, com o Luís Veloso na viola e o Aurelino Costa na voz."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/luiz-goes-carlos-carranca-e-joo-moura.html",
+      "doc": "gc-i:112169246986923690",
+      "citacao": "COIMBRA - Espírito e Raiz O Regresso da Voz de Luiz Goes em músicas de João Moura e poemas de Carlos Carranca"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "João Carlos Vidaurre Pais de Moura",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "João Carlos Vidaurre Pais de Moura nasceu em Cantanhede no dia 1 de Novembro de 1957."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota «O Autor» que abre o texto «Coimbra do meu tempo» (adaptação de um texto da antologia «Canção de Coimbra, testemunhos vivos», 2002)."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Cantanhede, 1 de novembro de 1957",
+      "data": "1957-11-01",
+      "local": "Cantanhede",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "João Carlos Vidaurre Pais de Moura nasceu em Cantanhede no dia 1 de Novembro de 1957."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciado em Farmácia pela Universidade de Coimbra (1981)",
+      "data": "1981",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "É licenciado em Farmácia pela Universidade de Coimbra (1981)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Nota «O Autor» no início do texto. Mais adiante, o próprio texto dá 1982: ver o facto seguinte."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Curso de Farmácia na Universidade de Coimbra, de setembro de 1976 ao «canudo» em 1982",
+      "data": "1982",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Coimbra, Setembro de 1976. Iniciava o meu percurso pela Universidade de Coimbra que conduziria à obtenção do “canudo” em Farmácia, em 1982."
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do próprio, no mesmo documento em que a nota «O Autor» dá licenciatura em 1981."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Doutorado em Ciências (Química) pela Universidade do Minho",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "doutorado em Ciências (Química) pela Universidade do Minho, onde é Professor Associado."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor Associado da Universidade do Minho, onde entrou em março de 1984",
+      "data": "1984-03",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "doutorado em Ciências (Química) pela Universidade do Minho, onde é Professor Associado."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Março de 1984. Ingresso na Universidade do Minho iniciando a minha carreira profissional"
+        }
+      ],
+      "conflito": false,
+      "nota": "Situação à data do texto (2002, revisto em 2006)."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Primeiro monitor de guitarra de Coimbra da Secção de Fado da AAC (com a classe de canto), de novembro de 1980 a 1984; monitor de guitarra de Coimbra na Casa da Cultura de Braga (1984)",
+      "data": "1980-11",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Foi fundador da Secção de Fado da AAC e seu primeiro monitor de Guitarra de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "As aulas começaram em Novembro de 1980 e eu tive a meu cargo o ensino da guitarra portuguesa, acumulado com a classe de canto e que se prolongou até 1984."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "É no ano de 1984, na altura como monitor de Guitarra de Coimbra na Casa da Cultura de Braga"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Gravações para a televisão (dezembro de 1981) de um programa sobre a vida e obra de António Brojo, em que interpretou uma variação de Brojo, como seu discípulo",
+      "data": "1981-12",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No ano de 1981 participei, enquanto discípulo do Prof. Pinho Brojo, nas gravações para a televisão, em Dezembro desse ano, de um programa sobre a sua vida e obra. Este convite, que muito me honrou, e em que interpretei uma variação da sua autoria"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participou na gravação de pelo menos 3 discos, o último com Luiz Goes",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Enquanto guitarrista exerceu intensa actividade artística e participou na gravação de pelo menos 3 discos, o último dos quais com Luiz Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota «O Autor» do texto «Coimbra do meu tempo»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «De Coimbra...até ao Minho» (1989), com Nuno Carvalho e Luís Veloso",
+      "data": "1989",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "É em Braga que reencontro o Nuno Carvalho, no âmbito da Associação dos Antigos Estudantes de Coimbra em Braga. Após um ano de preparação, participámos, com o Luís Veloso, na gravação de um LP de fados de Coimbra intitulado “De Coimbra...até ao Minho” (1989)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Texto do próprio. O registo do blogue V (2026) dá um CD com o mesmo título, de 2001 (ver o facto seguinte); as fontes não dizem se são edições diferentes."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «De Coimbra até ao Minho», do Grupo de Fados da Associação dos Antigos Estudantes de Coimbra em Braga (Edisco, ECD 13, Porto, 2001): guitarras",
+      "data": "2001",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD De Coimbra até ao Minho, pelo Grupo de Fados da Associação dos Antigos Estudantes de Coimbra em Braga, Edisco, ECD 13, Porto, 2001, 1.950$00). Vozes de Nuno Carvalho, Luís Veloso. Guitarras (João Moura)"
+        }
+      ],
+      "conflito": true,
+      "nota": "O texto do próprio João Moura dá um LP com este título em 1989 (ver o facto anterior)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Temas inéditos do grupo de flauta, guitarra e poesia nos CD «Viagens» (1995), «Coimbra…enCanto e Poesia» (2000) e «Na Voz do Regresso» (2001)",
+      "data": "1995",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Participou na gravação de temas inéditos nos CD´s “Viagens” (1995), “Coimbra…enCanto e Poesia” (2000) e “Na Voz do Regresso” (2001)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Grupo existente desde 1985, com Abel Gonçalves (flauta), Luís Veloso (viola) e Aurelino Costa (voz), inserido na ARCUM (Universidade do Minho)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD/DVD «Coimbra - Espírito e Raiz» (Coimbra XXI, 2005): «O Regresso da Voz de Luiz Goes em músicas de João Moura e poemas de Carlos Carranca»",
+      "data": "2005",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/luiz-goes-carlos-carranca-e-joo-moura.html",
+          "doc": "gc-i:112169246986923690",
+          "citacao": "lançamento do trabalho CD-DVD COIMBRA - Espírito e Raiz O Regresso da Voz de Luiz Goes em músicas de João Moura e poemas de Carlos Carranca"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cddvd-coimbra-esprito-e-raz-paulo.html",
+          "doc": "gc-i:112205567637921604",
+          "citacao": "Paulo Soares enviou-me o endereço da editora \"Coimbra XXI\", que lançou o trabalho atrás referido, uma colaboração João Moura - Luiz Goes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Lançamento no Auditório da AAC, a 20 de julho (post de 20-07-2005)."
+    }
+  ],
   "relacoes": [
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "Foi fundador da Secção de Fado da AAC e seu primeiro monitor de Guitarra de Coimbra."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "As aulas começaram em Novembro de 1980 e eu tive a meu cargo o ensino da guitarra portuguesa, acumulado com a classe de canto e que se prolongou até 1984."}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "tendo eu sido secretário nas duas primeiras direcções"}, {"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/02/cordofones-tradicionais-portugueses-em.html", "doc": "gc-i:113931791535386927", "citacao": "em 1980 foi criada uma classe de Guitarra de Coimbra com João Moura"}], "nota": "Fundador; primeiro monitor de guitarra de Coimbra (e da classe de canto), de novembro de 1980 a 1984; secretário das duas primeiras direções (1981-1983)."},
     {"tipo": "membro_de", "alvo": "grupo-de-cordas-da-seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html", "doc": "gc-i:114505781169831106", "citacao": "estreou-se o Grupo de Cordas da Secção de Fado da A.A.C., que integrava os instrumentistas do grupo de fados da Secção de Fado (João Moura, Filipe Almeida e Carlos Caiado)"}], "nota": "Estreia do Grupo de Cordas, Sarau da Queima de 1982."},
@@ -38,6 +322,94 @@
         }
       ],
       "nota": "guitarra; desde 1978"
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Esta situação repetiu-se com o Dr. António Portugal e foi graças a estes dois mestres e a Jorge Gomes, com quem me iniciei, que desenvolvi a técnica da guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "havia uma classe de guitarra portuguesa dirigida por Jorge Gomes, a única existente em Coimbra. ... Assim iniciei a aprendizagem deste instrumento"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A título pessoal, destaco os meus mestres, Jorge Gomes, Pinho Brojo e António Portugal, que me apoiaram e transmitiram os seus conhecimentos da guitarra portuguesa"
+        }
+      ],
+      "nota": "Iniciou-se na guitarra na classe de Jorge Gomes na A.C.M., em Coimbra, a partir de 1976 (texto do próprio)."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "É por esta altura que recebo o convite do Prof. Pinho Brojo para alguns valiosos ensinamentos, tendo frequentado a sua casa durante cerca de dois anos."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "No ano de 1981 participei, enquanto discípulo do Prof. Pinho Brojo, nas gravações para a televisão, em Dezembro desse ano, de um programa sobre a sua vida e obra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A título pessoal, destaco os meus mestres, Jorge Gomes, Pinho Brojo e António Portugal, que me apoiaram e transmitiram os seus conhecimentos da guitarra portuguesa"
+        }
+      ],
+      "nota": "Cerca de dois anos de lições em casa de Pinho Brojo (texto do próprio)."
+    },
+    {
+      "tipo": "aluno_de",
+      "alvo": "antonio-portugal",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "Esta situação repetiu-se com o Dr. António Portugal e foi graças a estes dois mestres e a Jorge Gomes, com quem me iniciei, que desenvolvi a técnica da guitarra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "A título pessoal, destaco os meus mestres, Jorge Gomes, Pinho Brojo e António Portugal, que me apoiaram e transmitiram os seus conhecimentos da guitarra portuguesa"
+        }
+      ],
+      "nota": "«Estes dois mestres»: Pinho Brojo e António Portugal (texto do próprio)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "luiz-goes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/coimbra-do-meu-tempo-por-joo-moura.html",
+          "doc": "gc-i:114505781169831106",
+          "citacao": "participou na gravação de pelo menos 3 discos, o último dos quais com Luiz Goes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/cddvd-coimbra-esprito-e-raz-paulo.html",
+          "doc": "gc-i:112205567637921604",
+          "citacao": "uma colaboração João Moura - Luiz Goes."
+        }
+      ],
+      "nota": "CD/DVD «Coimbra - Espírito e Raiz» (2005), com músicas de João Moura cantadas por Luiz Goes."
     }
   ],
   "imagens": [],

@@ -4,10 +4,234 @@
   "nome": "Ricardo Dias",
   "nomes_alternativos": [],
   "papeis": [
-    "guitarrista"
+    "guitarrista",
+    "professor",
+    "compositor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Começa, ainda jovem, a aprendizagem de guitarra portuguesa nas escolas do Chiado em Coimbra com o mestre Jorge Gomes. Dois anos mais tarde, em 1987, frequenta as escolas de música da Tuna Académica e Secção de fado da Associação Académica de Coimbra."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Durante um período de três anos, que termina em 1993, pertence ao grupo de fados “Alma Mater”. Um ano mais tarde é professor de guitarra portuguesa nas escolas de música da Secção de Fados e Tuna Académica."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "De 1994 a 1999 pertence ao grupo Quarteto de Coimbra. Já em 2000 grava o álbum “Quinteto de Coimbra” e, um ano mais tarde, integra o projecto “Passos da Noite” onde participam entre outros Vitorino e Inês Santos."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+      "doc": "gc-iii:7972297881497883543",
+      "citacao": "Em 2005 abre as escolas de fado e guitarra portuguesa – “àCapella” – onde exerce as funções de professor e administrador. Grava o álbum “Coimbra” com o grupo Coimbra ao qual pertence."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/01/os-alvorada-em-modo-de-legado-parediano.html",
+      "doc": "gc-v:5730434124020714444",
+      "citacao": "Edição fonográfica do concerto realizado em 10 de junho de 2022 pelo trio «Alvorada», Ricardo Dias / António José Moreira (ggC) e Pedro Lopes ( v), incidindo na reinterpretação de 10 temas de Arthur e Carlos Paredes."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+      "doc": "gc-v:2193830626081091255",
+      "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "formacao",
+      "valor": "Aprendeu guitarra portuguesa nas escolas do Chiado, em Coimbra, com Jorge Gomes; em 1987 passou às escolas de música da Tuna Académica e da Secção de Fado da AAC; frequentou o Conservatório de Música de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Começa, ainda jovem, a aprendizagem de guitarra portuguesa nas escolas do Chiado em Coimbra com o mestre Jorge Gomes. Dois anos mais tarde, em 1987, frequenta as escolas de música da Tuna Académica e Secção de fado da Associação Académica de Coimbra."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Frequenta o Conservatório de Música de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota biográfica «Ricardo Dias – Guitarra de Coimbra» no programa dos III Encontros Internacionais de Guitarra Portuguesa (2009), publicado no GC III."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Professor de guitarra portuguesa nas escolas de música da Secção de Fado e da Tuna Académica, e na Escola de Guitarra, Fado e Canto de Coimbra dos Antigos Orfeonistas da Universidade de Coimbra",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Um ano mais tarde é professor de guitarra portuguesa nas escolas de música da Secção de Fados e Tuna Académica."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Lecciona actualmente como professor na Escola de Guitarra, Fado e Canto de Coimbra dos Antigos Orfeonistas da Universidade de Coimbra e na escola da Tuna Académica da Universidade de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Um ano mais tarde» vem, no mesmo texto, a seguir à passagem pelo grupo Alma Mater, «que termina em 1993». «Actualmente»: programa publicado no GC III em outubro de 2009."
+    },
+    {
+      "campo": "ensino",
+      "valor": "Abriu em 2005 as escolas de fado e guitarra portuguesa «àCapella», onde é professor e administrador",
+      "data": "2005",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Em 2005 abre as escolas de fado e guitarra portuguesa – “àCapella” – onde exerce as funções de professor e administrador."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "ensino",
+      "valor": "Hugo Gamboias (n. Coimbra, 1988; Fado ao Centro) começou a estudar guitarra portuguesa com Ricardo Dias",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "cidade-gelsenkirchen",
+          "url": "https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/anhang/9925-die_fado-gruppe__fado_ao_centro.pdf",
+          "doc": "cidade-gelsenkirchen:w841aa4ba7f91eff8",
+          "citacao": "HUGO GAMBOIAS wurde 1988 in Coimbra geboren und begann schon in jungen Jahren mit dem Studium der portugiesischen Gitarre bei Ricardo Dias."
+        }
+      ],
+      "conflito": false,
+      "nota": "Apresentação do grupo Fado ao Centro (cidade de Gelsenkirchen, PDF, 2022), em alemão. Hugo Gamboias não tem ficha; quando a tiver, a relação aluno_de guarda-se na ficha dele."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do grupo Quarteto de Coimbra, de 1994 a 1999",
+      "data": "1994",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "De 1994 a 1999 pertence ao grupo Quarteto de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": "Não foi possível ligar este grupo, sem dúvida, a uma das fichas «Quarteto de Coimbra» do arquivo."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Membro do grupo de fados Coro «Alma de Coimbra»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "É também actualmente membro do grupo de fados Coro “Alma de Coimbra”."
+        }
+      ],
+      "conflito": false,
+      "nota": "«Actualmente»: programa publicado no GC III em outubro de 2009. O grupo não tem ficha no arquivo."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Participações discográficas: «Canção com Lágrimas» (trabalho de Paulo Saraiva), álbum «Quinteto de Coimbra» (2000), projeto «Passos da Noite» e «Movimentos Perpétuos» (homenagem a Carlos Paredes, «Verdes Anos» com o grupo Belle Chase Hotel)",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Grava o trabalho discográfico “Canção com Lágrimas”um trabalho de Paulo Saraiva onde participam Vitorino, Janita Salomé e António Bernardino."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Já em 2000 grava o álbum “Quinteto de Coimbra” e, um ano mais tarde, integra o projecto “Passos da Noite” onde participam entre outros Vitorino e Inês Santos. “Movimentos Perpétuos”, um álbum de homenagem a Carlos Paredes foi outra das suas participações onde grava uma versão do tema Verdes Anos com o grupo Belle Chase Hotel."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Autor e compositor de temas como «Balada sem destino», «Homenagem», «Mosaicos», «Balada da Lagoa» e «Cântico da Tormenta», além de outras criações e arranjos; no alinhamento do CD «Minha Alma… és tu», de Carlos Pedro, «Capela da Vitória», «Ecos de outros tempos» e «A terra e a água» levam o seu nome entre parênteses",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "É autor e compositor de temas como Balada sem destino, Homenagem, Mosaicos, Balada da Lagoa, Cântico da Tormenta entre muitas outras criações e arranjos."
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "- Capela da Vitória (Ricardo Dias) ... - Ecos de outros tempos (Ricardo Dias) ... - A terra e a água (Ricardo Dias)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Programa dos III Encontros Internacionais de Guitarra Portuguesa (2009). No mesmo programa, o alinhamento do CD «Minha Alma… és tu» atribui «Balada sem destino» a Carlos Pedro (facto seguinte)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "«Balada sem destino» atribuída a Carlos Pedro no alinhamento do CD «Minha Alma… és tu»",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "- Balada sem destino (Carlos Pedro)"
+        }
+      ],
+      "conflito": true,
+      "nota": "A nota biográfica de Ricardo Dias, no mesmo programa, inclui «Balada sem destino» entre os temas de que é autor e compositor (facto anterior). O texto não diz se o nome entre parênteses é o do autor da letra, da música ou de ambas."
+    },
+    {
+      "campo": "premio",
+      "valor": "Cinco estrelas da revista britânica Songlines para o projeto «Regresso», do trio Alvorada",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/11/em-destaque.html",
+          "doc": "gc-v:2193830626081091255",
+          "citacao": "A revista britânica Songlines acaba de distinguir com cinco estrelas o projeto Regresso, do trio Alvorada, grupo constituído por Ricardo Dias, António José Moreira e Pedro Lopes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post do GC V de novembro de 2025."
+    }
+  ],
   "relacoes": [
     {"tipo": "membro_de", "alvo": "seccao-de-fado-da-aac", "fontes": [{"fonte": "gc-i", "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_115522690560936378.html", "doc": "gc-i:115522690560936378", "citacao": "numa época em que também ensinava guitarra nessa agremiação Ricardo Dias"}], "nota": "Ensinou guitarra na Secção, na época em que Luís Carlos Santos era monitor de viola (data não indicada)."},
     {
@@ -75,7 +299,46 @@
       "nota": "guitarra de Coimbra"
     },
     {"tipo": "membro_de", "alvo": "coimbra-grupo-de-fados", "fontes": [{"fonte": "gc-ii", "url": "https://guitarrasdecoimbra.blogspot.com/2008/03/vai-ser-lanado-em-lisboa-o-disco-de.html", "doc": "gc-ii:6391499531088337897", "citacao": "Vai ser lançado em Lisboa o disco de Guitarra e Canto de Coimbra do grupo \"Coimbra\", constituído por Ricardo Dias (g), Pedro lopes (v) e João Farinha (c)."}], "nota": "guitarra de Coimbra (2008)"},
-    {"tipo": "membro_de", "alvo": "ricardo-dias-ensemble", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html", "doc": "gc-v:6415702352396943019", "citacao": "Ricardo Dias (guitarra de Coimbra / renovador das suas sonoridades)"}], "nota": "guitarra de Coimbra (2015); não confundir com Ricardo J. Dias (acordeão e piano), que dirige o ensemble"}
+    {"tipo": "membro_de", "alvo": "ricardo-dias-ensemble", "fontes": [{"fonte": "gc-v", "url": "https://guitarradecoimbra4.blogspot.com/2015/01/ricardo-dias-ensemble_17.html", "doc": "gc-v:6415702352396943019", "citacao": "Ricardo Dias (guitarra de Coimbra / renovador das suas sonoridades)"}], "nota": "guitarra de Coimbra (2015); não confundir com Ricardo J. Dias (acordeão e piano), que dirige o ensemble"},
+    {
+      "tipo": "aluno_de",
+      "alvo": "jorge-gomes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Começa, ainda jovem, a aprendizagem de guitarra portuguesa nas escolas do Chiado em Coimbra com o mestre Jorge Gomes."
+        }
+      ],
+      "nota": "Escolas do Chiado, em Coimbra («ainda jovem»)."
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "alma-mater",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/10/riqueza-de-um-povo-passando-por-um.html",
+          "doc": "gc-iii:7972297881497883543",
+          "citacao": "Durante um período de três anos, que termina em 1993, pertence ao grupo de fados “Alma Mater”."
+        }
+      ],
+      "nota": "guitarra; três anos, até 1993"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "paulo-amador",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/paulo-amador-canta-o-fado-hilrio-com.html",
+          "doc": "gc-i:112242697771026426",
+          "citacao": "Paulo Amador canta o Fado Hilário, com grande sucesso, acompanhado por Ricardo Dias e Luís Ferreirinha."
+        }
+      ],
+      "nota": "guitarra; 2.º aniversário do àCapella"
+    }
   ],
   "imagens": [
     {

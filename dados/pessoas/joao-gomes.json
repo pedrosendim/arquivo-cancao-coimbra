@@ -6,8 +6,121 @@
   "papeis": [
     "violista"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+      "doc": "gc-i:2571257686721265926",
+      "citacao": "Note-se que no referido disco actuaram: Guitarra: Francisco de Vasconcelos, António Serrano Baptista e Luís Plácido. Viola: João Gomes e Abel Serrano Baptista. Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira. O disco apresenta a data de 1991, da Discossete, LP - 800."
+    },
+    {
+      "fonte": "rtp-arquivos",
+      "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-ii-14/",
+      "doc": "rtp-arquivos:w3a6d8a156c502041",
+      "citacao": "Tito Costa Santos canta o fado de Coimbra \"Sugestão\" de Felisberto Ferreirinha, acompanhado pelos músicos João Moura e Alexandre Bateiras nas guitarras portuguesas de Coimbra, Levi Batista e João Gomes nas violas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+      "doc": "gc-v:2009294952652613066",
+      "citacao": "composição que consta do fonograma CD SPA – 2008 (Augusto Camacho – Reencontro). O cantor rodeia-se de vários instrumentistas seus amigos, sendo que nesta composição, última do disco e designada por tema 21, é acompanhado à guitarra por Alexandre Bateiras e António Serrano Baptista e à viola, por João Gomes e Carlos Lima (Cabé)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/sexta-feira-dia-13-pelas-20h00-o-grupo.html",
+      "doc": "gc-v:5269661221173394011",
+      "citacao": "Os Instrumentistas são: Alexandre Bateiras e Serrano Batista (Guitarras), João Gomes e Carlos Alberto Lima “Cabé” (Violas)."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "gravacao",
+      "valor": "Viola no LP «De Coimbra por Bem», do Grupo Serenata de Coimbra (Discossete LP-800, 1991)",
+      "data": "1991",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/09/grupo-serenata-de-coimbra-fundado-em-30.html",
+          "doc": "gc-i:2571257686721265926",
+          "citacao": "Viola: João Gomes e Abel Serrano Baptista. Vozes: Alexandre Herculano, Alcindo Costa, José Henrique Dias, Costa Santos (Tito) e Barros Ferreira. O disco apresenta a data de 1991, da Discossete, LP - 800."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-LP De Coimbra por Bem, pelo Grupo Serenata de Coimbra, Discossete-800, Lisboa, 1991. ... Guitarras: Francisco Vasconcelos, António Serrano Baptista, Luís Plácido. Violas: João Gomes e Abel Serrano Baptista."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola no «Grupo Serenata de Coimbra... para o Mundo» (Videofono VCD 50008, 1997)",
+      "data": "1997",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "-CD Grupo Serenata de Coimbra... para o Mundo, Videofono, VCD 50008, Lisboa, 1997. ... violas a cargo de João Gomes, Rodrigues Pereira e Jorge Tito Mackay."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/grupo-serenata-de-coimbra.html",
+          "doc": "gc-i:111858747887612759",
+          "citacao": "Rodrigues Pereira, João Gomes e Jorge Tito Mackay em viola"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viola no programa «Fados de Portugal – Parte II» (RTP Internacional, 2001), a acompanhar Tito Costa Santos, com João Moura e Alexandre Bateiras (guitarras) e Levi Batista (viola)",
+      "data": "2001-03-13",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-ii-14/",
+          "doc": "rtp-arquivos:w3a6d8a156c502041",
+          "citacao": "Tito Costa Santos canta o fado de Coimbra \"Sugestão\" de Felisberto Ferreirinha, acompanhado pelos músicos João Moura e Alexandre Bateiras nas guitarras portuguesas de Coimbra, Levi Batista e João Gomes nas violas."
+        }
+      ],
+      "conflito": false,
+      "nota": "A data é a da ficha da RTP."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Viola na faixa 21 («Balada para Setembro») do CD «Reencontro», de Augusto Camacho (SPA, 2008)",
+      "data": "2008",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+          "doc": "gc-v:2009294952652613066",
+          "citacao": "composição que consta do fonograma CD SPA – 2008 (Augusto Camacho – Reencontro). O cantor rodeia-se de vários instrumentistas seus amigos, sendo que nesta composição, última do disco e designada por tema 21, é acompanhado à guitarra por Alexandre Bateiras e António Serrano Baptista e à viola, por João Gomes e Carlos Lima (Cabé)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viola na Tertúlia Académica Sons do Mondego, no Forum Cultural de Idanha-a-Nova (8 de maio de 2010)",
+      "data": "2010-05-08",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/05/tertulia-academica-sons-do-mondego.html",
+          "doc": "gc-iii:5397695158695946483",
+          "citacao": "Actuação no Forum Cultural de Idanha-a-Nova em 08-05-2010. Guitarras: --Alexandre Bateiras --António Agostinho Violas: --João Gomes --Carlos Lima"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -33,6 +146,45 @@
         }
       ],
       "nota": "viola (1991, 1997, 2015)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "tito-costa-santos",
+      "fontes": [
+        {
+          "fonte": "rtp-arquivos",
+          "url": "https://arquivos.rtp.pt/conteudos/fados-de-portugal-parte-ii-14/",
+          "doc": "rtp-arquivos:w3a6d8a156c502041",
+          "citacao": "Tito Costa Santos canta o fado de Coimbra \"Sugestão\" de Felisberto Ferreirinha, acompanhado pelos músicos João Moura e Alexandre Bateiras nas guitarras portuguesas de Coimbra, Levi Batista e João Gomes nas violas."
+        }
+      ],
+      "nota": "viola, programa «Fados de Portugal – Parte II» (RTP, 2001)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "augusto-camacho-vieira",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/jose-afonso-e-ernesto-pinto-lobo.html",
+          "doc": "gc-v:2009294952652613066",
+          "citacao": "composição que consta do fonograma CD SPA – 2008 (Augusto Camacho – Reencontro). O cantor rodeia-se de vários instrumentistas seus amigos, sendo que nesta composição, última do disco e designada por tema 21, é acompanhado à guitarra por Alexandre Bateiras e António Serrano Baptista e à viola, por João Gomes e Carlos Lima (Cabé)."
+        }
+      ],
+      "nota": "viola no CD «Reencontro» (2008)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "alexandre-bateiras",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/06/alexandre-bateiras-e-joo-gomes-deram-um.html",
+          "doc": "gc-ii:8854408502541069863",
+          "citacao": "Alexandre Bateiras e João Gomes deram um espectáculo no passado dia 25."
+        }
+      ],
+      "nota": "espetáculo «no passado dia 25», segundo o post de 27-06-2008"
     }
   ],
   "imagens": [],

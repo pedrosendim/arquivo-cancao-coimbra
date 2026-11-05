@@ -2,12 +2,64 @@
   "id": "jorge-tuna",
   "tipo": "pessoa",
   "nome": "Jorge Tuna",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Jorge Manuel Casqueiro Lopo Tuna",
+    "Dr. Jorge Tuna"
+  ],
   "papeis": [
     "guitarrista",
     "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-tuna-de-nome-completo-jorge.html",
+      "doc": "gc-i:3131120906469301344",
+      "citacao": "Jorge Tuna começou a tocar guitarra em Coimbra no ano de 1952."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+      "doc": "gc-i:111266173031281151",
+      "citacao": "As «primeiras letras» da Guitarra aprendeu-as com Júlio Ribeiro e com o tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+      "doc": "gc-v:8545049273480875655",
+      "citacao": "um dos mais notáveis guitarristas de Coimbra, com atividade artística conhecida desde os anos do Liceu D. João III, nos inícios da década de 1950. Deixa mais de meia centena de composições com assinatura própria. Na sua juventude, entre a Ladeira das Alpenduradas e a guerra de África, representou em Portugal e no estrangeiro Coimbra, a UC e a sua TAUC."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+      "doc": "gc-i:111111292024787241",
+      "citacao": "Enquanto estudante foi membro do Orfeão e da Tuna Académica.; inúmeras digressõe por terras de além fronteira, acompanhando os nomes mais representativos da canção de Coimbra – Zeca Afonso, Sutil Roque, Machado Soares, Adriano Correia de Oliveira e outros."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+      "doc": "gc-i:111266173031281151",
+      "citacao": "O jovem estudante de Medicina, já na recta final do seu Curso e com uma intensa actividade musical – que inclui os grupos em que participou e a colaboração com Organismos Académicos –, grava o primeiro dos seus múltiplos EP’s, Sé Velha: Guitarras de Coimbra, com Jorge Godinho, José Tito e Durval Moreirinhas."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+      "doc": "gc-v:2470303412086698523",
+      "citacao": "Licenciado em Medicina, em 1961, foi entrecruzando a carreira médica (cardiologia) e docente (foi professor na Faculdade de Medicina de Lisboa) com a guitarra, impondo a esta última, por via das obrigações profissionais, longos silêncios, dos quais foi sempre recuperando com discretos regressos à composição e às gravações."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+      "doc": "gc-i:111266173031281151",
+      "citacao": "b) Serviço militar, compreendendo uma estadia em Angola (1962-1965) ... d) Ulteriores residência e exercício profissional em Lisboa, como cardiologista e docente da Fac. Medicina/UL, onde se doutorou (1980) e agregou (1995), atingindo o topo da carreira como lente de Medicina Interna; aposentou-se em 2003."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+      "doc": "gc-v:8545049273480875655",
+      "citacao": "Faleceu em Lisboa, a 19 de julho de 2026, contando 89 anos, o Prof. Doutor Jorge Manuel Casqueiro Lopo Tuna, jubilado do quadro da FM / UL"
+    }
+  ],
   "factos": [
     {
       "campo": "gravacao",
@@ -36,9 +88,563 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "nome_completo",
+      "valor": "Jorge Manuel Casqueiro Lopo Tuna",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-tuna-de-nome-completo-jorge.html",
+          "doc": "gc-i:3131120906469301344",
+          "citacao": "Jorge Tuna, de nome completo Jorge Manuel Casqueiro Lopo Tuna"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+          "doc": "gc-v:8545049273480875655",
+          "citacao": "o Prof. Doutor Jorge Manuel Casqueiro Lopo Tuna, jubilado do quadro da FM / UL"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "Jorge Manuel Casqueiro Lopo Tuna começou a tocar aos 15 anos."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Coimbra, 1 de julho de 1937",
+      "data": "1937-07-01",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+          "doc": "gc-v:8545049273480875655",
+          "citacao": "Nasceu na cidade de Coimbra a 1 de julho de 1937."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "Nascido em Coimbra, a 1 de Julho de 1937"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-tuna-de-nome-completo-jorge.html",
+          "doc": "gc-i:3131120906469301344",
+          "citacao": "nascido em 1 de Julho de 1937"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Nasce em Coimbra Jorge Manuel Casqueiro Lopo Tuna."
+        }
+      ],
+      "conflito": false,
+      "nota": "O texto do Público (14/03/2003, de Nuno Pacheco) é transcrito no post gc-v:2470303412086698523. Na cronologia de António José Soares e António Manuel Nunes (gc-i:116638481779194072) a entrada figura sob o ano de 1937, sem dia."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 19 de julho de 2026, com 89 anos",
+      "data": "2026-07-19",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+          "doc": "gc-v:8545049273480875655",
+          "citacao": "Faleceu em Lisboa, a 19 de julho de 2026, contando 89 anos"
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de AMNunes de 20-07-2026: «Velório na basílica da Estrela, em Lisboa.»"
+    },
+    {
+      "campo": "formacao",
+      "valor": "Começou a tocar guitarra em Coimbra no ano de 1952",
+      "data": "1952",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/03/jorge-tuna-de-nome-completo-jorge.html",
+          "doc": "gc-i:3131120906469301344",
+          "citacao": "Jorge Tuna começou a tocar guitarra em Coimbra no ano de 1952."
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra versão: «em meados de cinquenta» (biografia da capa do disco «A Guitarra de Coimbra»). O texto do Público (2003) diz que «começou a tocar aos 15 anos»."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Inicia em meados de cinquenta a aprendizagem e estudo do instrumento",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "inicia em meados de cinquenta a aprendizagem e estudo do instrumento"
+        }
+      ],
+      "conflito": true,
+      "nota": "«Biografia de Jorge Tuna (Tirada da capa do disco)» «A Guitarra de Coimbra» (Jorsom), transcrita no post. Outra versão: 1952 (gc-i:3131120906469301344)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Licenciado em Medicina (1961)",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "Licenciado em Medicina, em 1961"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Nascimento (1937) e estudos liceais e superiores em Coimbra, culminando na licenciatura em Medicina (1961)."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "Jorge Tuna é Licenciado em Medicina pela Universidade de Coimbra, cidade de onde é natural."
+        }
+      ],
+      "conflito": false,
+      "nota": "O ensaio de Armando Luís de Carvalho Homem (Revista Portuguesa de História, XXXVI/2, 2002-2003) está transcrito no post gc-i:111266173031281151."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Doutoramento (1980) e agregação (1995) na Faculdade de Medicina da Universidade de Lisboa",
+      "data": "1980",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "como cardiologista e docente da Fac. Medicina/UL, onde se doutorou (1980) e agregou (1995)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico (cardiologia) e professor da Faculdade de Medicina da Universidade de Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "foi entrecruzando a carreira médica (cardiologia) e docente (foi professor na Faculdade de Medicina de Lisboa) com a guitarra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "exercício profissional em Lisboa, como cardiologista e docente da Fac. Medicina/UL"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+          "doc": "gc-v:8545049273480875655",
+          "citacao": "o Prof. Doutor Jorge Manuel Casqueiro Lopo Tuna, jubilado do quadro da FM / UL"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Deixa mais de meia centena de composições com assinatura própria",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/07/falecimento-do-dr-jorge-tuna-1937-2026.html",
+          "doc": "gc-v:8545049273480875655",
+          "citacao": "Deixa mais de meia centena de composições com assinatura própria."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravou, ao longo de cerca de 45 anos, 54 temas instrumentais (48 de sua autoria) e 7 introduções de temas cantados",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Jorge Tuna gravou, ao longo de cerca de 45 anos, 54 temas instrumentais – sendo 48 de sua autoria (88,88 % do total) – e 7 introduções de temas cantados."
+        }
+      ],
+      "conflito": false,
+      "nota": "Contagem de Armando Luís de Carvalho Homem num texto datado de 2003, anterior ao CD «Coimbra a 4 Mãos» (2012)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Primeiro EP, «Sé Velha: Guitarras de Coimbra», com Jorge Godinho, José Tito e Durval Moreirinhas (finais da década de 50)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "grava o primeiro dos seus múltiplos EP’s, Sé Velha: Guitarras de Coimbra, com Jorge Godinho, José Tito e Durval Moreirinhas ... Mas datando de facto este EP de finais da década de 50"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Segundo EP instrumental, «Coimbra à Noite» (por volta de 1962)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "É por volta de 1962 que surge o segundo EP instrumental de Jorge Tuna: Coimbra à noite"
+        }
+      ],
+      "conflito": false,
+      "nota": "Ficha da gravação: jorge-tuna-rapsodia-epf-5179."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Coimbra» (Rapsódia, EPF 5.298, Porto, s.d., c. 1965)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "O segundo tempo do compasso ternário inicia-se por volta de 1965, com a edição do EP Coimbra ... nos EP’s Coimbra (RAPSÓDIA, EPF 5.298, Porto, s.d. [ca.1965])"
+        }
+      ],
+      "conflito": true,
+      "nota": "Outra fonte dá o ano de 1968 para uma edição com o mesmo número EPF 5.298 (gc-v:2502842035817555852)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "EP «Univerkaufliche Musterplatte», EPF 5.298, 1968 (data carimbada «3.FEV.1968»), com Durval Moreirinhas: edição rara, circulada no mercado alemão (?)",
+      "data": "1968",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/02/uma-edicao-rara-de-jorge-tuna.html",
+          "doc": "gc-v:2502842035817555852",
+          "citacao": "Edição rara de composições de Jorge Tuna, circulada no mercado alemão (?), encontrado à venda no eBay: EP Univerkaufliche Musterplatte, EPF 5.298, ano de 1968. Menciona Jorge Tuna (gC) e Durval Moreirinhas (v). Data carimbada «3.FEV.1968»."
+        }
+      ],
+      "conflito": true,
+      "nota": "O ensaio de Carvalho Homem dá o EP «Coimbra», com o mesmo número EPF 5.298, como «s.d. [ca.1965]» (gc-i:111266173031281151). O post de 2026 diz que no Lado A estão «Solidão» e «Variações em Si Menor n.º 2»."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Coimbra Guitars, Played by Dr. Jorge Tuna and Durval Moreirinhas» (Polydor 184 194), no final do verão de 1969",
+      "data": "1969",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "No final do Verão de 1969 surgiu nas discotecas o LP Coimbra Guitars, Played by Dr. Jorge Tuna and Durval Moreirinhas ... um LP instrumental (Coimbra Guitars. Played by Dr. Jorge Tuna and Durval Moreirinhas, ed. POLYDOR 184 194, s.d.)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "LP «Tempos de Guitarra» (Jorsom, 1990), depois passado a CD com o título «A Guitarra de Coimbra»",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "mais um LP (Tempos de Guitarra, ed. JORSOM, 1990, ulteriormente passado a CD, com o título Guitarra [A] de Coimbra"
+        }
+      ],
+      "conflito": true,
+      "nota": "As fontes dão anos diferentes para este disco: 1990 (edição Jorsom, segundo Carvalho Homem); «gravado em 1989» (gc-i:111111292024787241); o último disco de originais «datava de 1989» (Público, 2003)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco «A Guitarra de Coimbra», gravado em 1989 e reeditado em CD em 1997 pela Jorsom",
+      "data": "1989",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "Jorge Tuna - A Guitarra de Coimbra. Disco gravado em 1989 e reeditado em CD no ano de 1997 pela etiqueta Jorsom."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "O seu último disco de originais datava de 1989, embora reeditado em CD em 1997."
+        }
+      ],
+      "conflito": true,
+      "nota": "Carvalho Homem dá o LP «Tempos de Guitarra» como edição Jorsom de 1990 (gc-i:111266173031281151)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «As Mãos e a Alma» (Movieplay, MOV. 30.473, 2003), com Durval Moreirinhas",
+      "data": "2003",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "que acompanha o CD As Mãos e a Alma (MOVIEPLAY, MOV. 30.473, 2003)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "Agora, passados vários anos, surge com novo disco de inéditos, \"As Mãos e a Alma\", que é hoje lançado ao vivo no auditório da FNAC Colombo, em Lisboa. ... voltou a compor e a gravar. Sempre em parceria com a viola de Durval ... \"As Mãos e a Alma\" ... Jorge Tuna e Durval Moreirinhas"
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto do Público de 14/03/2003, transcrito no post. Os dois nomes do fim da citação vêm do destaque final do artigo, sobre o lançamento ao vivo na FNAC Colombo."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "CD «Coimbra a 4 Mãos», com Durval Moreirinhas (gravado em 2012)",
+      "data": "2012",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna.html",
+          "doc": "gc-v:2125220455769497071",
+          "citacao": "\"Outonal\", de Jorge Tuna, extraído do disco \"Coimbra a 4 Mãos\", gravado em 2012. É acompanhado à viola por Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/jorge-tuna-coimbra-4-maos.html",
+          "doc": "gc-iv:8435336391433239741",
+          "citacao": "Jorge Tuna edita mais um CD, agora denominado \"Coimbra a 4 mãos\"."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "I Festival de Guitarra de Coimbra (2003), com Durval Moreirinhas, em «Outonal»",
+      "data": "2003",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/11/jorge-tuna-com-durval-moreirinhas-em.html",
+          "doc": "gc-iii:3820989626831109339",
+          "citacao": "Jorge Tuna com Durval Moreirinhas em \"Outonal\", no I Festival de Guitarra de Coimbra, em 2003."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "premio",
+      "valor": "Prémio Amália Rodrigues 2005, categoria «Fado de Coimbra», com Durval Moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/01/prmio-amlia-rodrigues-2005-2006-11-24.html",
+          "doc": "gc-i:8353870133859817537",
+          "citacao": "O Orfeon Académico de Coimbra foi galardoado com o Prémio Amália Rodrigues 2005 ... Prémio Amália Rodrigues Fado de Coimbra Durval Moreirinhas e Jorge Tuna"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/jorge-tuna-e-durval-moreirinhas.html",
+          "doc": "gc-i:116594214279148628",
+          "citacao": "Jorge Tuna e Durval Moreirinhas receberam o Prémio Amália Rodrigues."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/jorge-tuna-durval-moreirinhas-e-o.html",
+          "doc": "gc-i:116307121642436380",
+          "citacao": "Jorge Tuna, Durval Moreirinhas e o Orfeon Académico de Coimbra distinguidos com o prémio Amália Rodrigues."
+        }
+      ],
+      "conflito": false,
+      "nota": "A lista dos premiados vem do site do Orfeon Académico de Coimbra, transcrita no post; os outros dois posts reproduzem notícias do Diário de Coimbra (novembro de 2006) e de O Despertar (7-12-2006, texto de José Henrique Dias)."
     }
   ],
-  "relacoes": [],
+  "relacoes": [
+    {
+      "tipo": "aluno_de",
+      "alvo": "custodio-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "As «primeiras letras» da Guitarra aprendeu-as com Júlio Ribeiro e com o tenente Custódio Moreirinhas (1889-1964, pai dos violas Durval e Custódio Moreirinhas)."
+        }
+      ],
+      "nota": "«Primeiras letras» da guitarra. A mesma frase nomeia Júlio Ribeiro, que ainda não tem ficha."
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "artur-paredes",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "falemos apenas do guitarrista Jorge Tuna e da distinta (mas plebeia) corte de onde lhe vieram as primeiras influências: a de Artur Paredes e Afonso de Sousa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "Reconhece em Artur Paredes a figura tutelar fundadora da moderna guitarra de Coimbra"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "recolhe a herança de velhos Mestres da Guitarra (Flávio Rodrigues, Afonso de Sousa e, acima de todos, Artur Paredes)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "afonso-de-sousa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "falemos apenas do guitarrista Jorge Tuna e da distinta (mas plebeia) corte de onde lhe vieram as primeiras influências: a de Artur Paredes e Afonso de Sousa."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "recolhe a herança de velhos Mestres da Guitarra (Flávio Rodrigues, Afonso de Sousa e, acima de todos, Artur Paredes)"
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "durval-moreirinhas",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2015/08/jorge-tuna-no-jornal-publico.html",
+          "doc": "gc-v:2470303412086698523",
+          "citacao": "Tocou \"dois números\", num sarau só com artistas médicos, com o seu velho companheiro musical de sempre, Durval Moreirinhas."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "Sempre acompanhado pelo Durval Moreirinhas"
+        },
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/jorge-tuna-coimbra-4-maos.html",
+          "doc": "gc-iv:8435336391433239741",
+          "citacao": "As outras duas mãos são as de Durval Moreirinhas, companheiro desde sempre de Jorge Tuna."
+        }
+      ],
+      "nota": "Durval Moreirinhas na viola, desde os primeiros EP até ao CD «Coimbra a 4 Mãos» (2012)."
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "jorge-godinho",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "Musical e discograficamente esteve depois ligado a guitarristas como Júlio Ribeiro e (sobretudo) Jorge Godinho [1938-1972]"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "grava o primeiro dos seus múltiplos EP’s, Sé Velha: Guitarras de Coimbra, com Jorge Godinho, José Tito e Durval Moreirinhas."
+        }
+      ],
+      "nota": "Guitarras nos primeiros EP (finais dos anos 50 e c. 1962)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "jose-afonso",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "inúmeras digressõe por terras de além fronteira, acompanhando os nomes mais representativos da canção de Coimbra – Zeca Afonso, Sutil Roque, Machado Soares, Adriano Correia de Oliveira e outros."
+        }
+      ],
+      "nota": "Enquanto estudante, em digressões ao estrangeiro (biografia da capa do disco «A Guitarra de Coimbra», transcrita no post)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-sutil-roque",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "inúmeras digressõe por terras de além fronteira, acompanhando os nomes mais representativos da canção de Coimbra – Zeca Afonso, Sutil Roque, Machado Soares, Adriano Correia de Oliveira e outros."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-tuna-para-uma-abordagem-ternria_05.html",
+          "doc": "gc-i:111266173031281151",
+          "citacao": "a participação em 3 temas (onde acompanha António Sutil Roque, António Sousa Pereira e João Barros Madeira) de um LP do Orfeon Académico de Coimbra"
+        }
+      ],
+      "nota": "Digressões de estudante; e 3 temas de um LP do Orfeon Académico de Coimbra."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "fernando-machado-soares",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "inúmeras digressõe por terras de além fronteira, acompanhando os nomes mais representativos da canção de Coimbra – Zeca Afonso, Sutil Roque, Machado Soares, Adriano Correia de Oliveira e outros."
+        }
+      ],
+      "nota": "Enquanto estudante, em digressões ao estrangeiro (biografia da capa do disco «A Guitarra de Coimbra», transcrita no post)."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "adriano-correia-de-oliveira",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/jorge-tuna-guitarra-de-coimbra_18.html",
+          "doc": "gc-i:111111292024787241",
+          "citacao": "inúmeras digressõe por terras de além fronteira, acompanhando os nomes mais representativos da canção de Coimbra – Zeca Afonso, Sutil Roque, Machado Soares, Adriano Correia de Oliveira e outros."
+        }
+      ],
+      "nota": "Enquanto estudante, em digressões ao estrangeiro (biografia da capa do disco «A Guitarra de Coimbra», transcrita no post)."
+    }
+  ],
   "imagens": [
     {
       "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEVSTFvjKN2KZTyyG0XdZmgb1c617wz7MK1wW4foSLzikLFn99qKpKrLY0J-qcbeiOzWLdzl1fa7lZSJrpg6Eo0LF1z15Bm8LC03Cz9jxWATPYYHxAveBhy9qTMHeu9nPvPAH9Q/s1600/Jorge+Tuna+do+livro+Fado+Falado.jpg",

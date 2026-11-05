@@ -6,9 +6,53 @@
     "Armando do Carmo Goes"
   ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "compositor"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+      "doc": "gc-v:3772168108461181292",
+      "citacao": "ARMANDO DO CARMO GOES, nasceu em Gândara do Olivais, freguesia de Marrazes, distrito de Leiria, a 1 de Março de 1906."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+      "doc": "gc-v:3772168108461181292",
+      "citacao": "Feita a instrução primária na sua aldeia, Armando, segue para Leira onde faz o ensino secundário no Liceu Nacional Rodrigues Lobo."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+      "doc": "gc-v:705396483756598212",
+      "citacao": "Estudou no Liceu de Leiria, na FM/UP (1.º ano), e na FM/UC, tendo exercido a sua atividade profissional em Lisboa. Pertenceu ao Orfeon Académico."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+      "doc": "gc-v:3772168108461181292",
+      "citacao": "Em Coimbra, canta com todos os grandes cantores da chamada primeira geração de oiro, de que faz também parte, e é acompanhado pelos melhores guitarristas e violistas da altura."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+      "doc": "gc-v:705396483756598212",
+      "citacao": "Deixou considerável obra fixada em registos fonográficos na His Master's Voice em 1927, 1928, 1929."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+      "doc": "gc-v:3772168108461181292",
+      "citacao": "Armando Goes, radica-se em Lisboa onde aliás tinha alguma família, monta consultório, e a aqui exerce Medicina."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+      "doc": "gc-v:3772168108461181292",
+      "citacao": "Nas palavras do seu sobrinho Luiz Goes, ficou a boa recordação do muito amigo tio Armando. Faleceu em Lisboa, a 27 de Junho de 1967."
+    }
+  ],
   "factos": [
     {
       "campo": "nome_completo",
@@ -40,33 +84,181 @@
     },
     {
       "campo": "nascimento",
-      "valor": "1906",
-      "data": "1906",
+      "valor": "Gândara dos Olivais, freguesia de Marrazes (Leiria), 1 de março de 1906",
+      "data": "1906-03-01",
+      "local": "Gândara dos Olivais, Marrazes (Leiria)",
       "fontes": [
         {
           "fonte": "jorge-cravo",
           "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
           "doc": "jorge-cravo:w8257b866bfdf1800",
           "citacao": "Armando Goes (1906-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "ARMANDO DO CARMO GOES, nasceu em Gândara do Olivais, freguesia de Marrazes, distrito de Leiria, a 1 de Março de 1906."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/nestedia-1-de-marco-de-2014-faz-110.html",
+          "doc": "gc-v:7679052830777852275",
+          "citacao": "ARMANDO do Carmo GOES, nasceu na Gândara dos Olivais, Marrazes, Leiria, a 1 de Março. Faleceu em Lisboa a 27 de Junho de 1967."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). O post do GC-V de 2014 dá o dia sem o ano."
+    },
+    {
+      "campo": "morte",
+      "valor": "Lisboa, 27 de junho de 1967",
+      "data": "1967-06-27",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "jorge-cravo",
+          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+          "doc": "jorge-cravo:w8257b866bfdf1800",
+          "citacao": "Armando Goes (1906-1967)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "107 anos, que ARMANDO DO CARMO GOES, nasceu em Gândara dos Olivais, Marrazes, Leira. Faleceu em Lisboa, a 27 de Junho de 1967."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/nestedia-1-de-marco-de-2014-faz-110.html",
+          "doc": "gc-v:7679052830777852275",
+          "citacao": "ARMANDO do Carmo GOES, nasceu na Gândara dos Olivais, Marrazes, Leiria, a 1 de Março. Faleceu em Lisboa a 27 de Junho de 1967."
         }
       ],
       "conflito": false,
       "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
     },
     {
-      "campo": "morte",
-      "valor": "1967",
-      "data": "1967",
+      "campo": "formacao",
+      "valor": "Liceu Rodrigues Lobo (Leiria); 1.º ano de Medicina no Porto (FM/UP); Faculdade de Medicina da Universidade de Coimbra, médico estomatologista diplomado em 1930",
+      "data": "1930",
       "fontes": [
         {
-          "fonte": "jorge-cravo",
-          "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
-          "doc": "jorge-cravo:w8257b866bfdf1800",
-          "citacao": "Armando Goes (1906-1967)"
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "ARMANDO DO CARMO GOES (1906-1967), barítono, cultor da Canção de Coimbra e médico estomatologista diplomado pela FM/UC em 1930."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "Estudou no Liceu de Leiria, na FM/UP (1.º ano), e na FM/UC, tendo exercido a sua atividade profissional em Lisboa. Pertenceu ao Orfeon Académico."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Armando Goes, formara-se em 1930, após as gravações de 1929."
         }
       ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": ""
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico (estomatologista), com consultório em Lisboa",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Armando Goes, radica-se em Lisboa onde aliás tinha alguma família, monta consultório, e a aqui exerce Medicina."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "ARMANDO DO CARMO GOES (1906-1967), barítono, cultor da Canção de Coimbra e médico estomatologista diplomado pela FM/UC em 1930."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pertenceu ao Orfeon Académico; integrou formações musicais juvenis no Liceu de Leiria, na Universidade do Porto e na de Coimbra, com digressões da TAUC e do Orfeon",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "Integrou formações musicais juvenis no Liceu de Leiria, na UP e na UC, tendo pisado os palcos com frequência e participado em digressões dinamizadas pela TAUC e pelo Orfeon Académico."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Gravações para a His Master's Voice em 1927, 1928 e 1929 (sete fonogramas: um de 1927, quatro de 1928 e dois de 1929)",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/04/em-2016-celebramos-armando-goes-e.html",
+          "doc": "gc-v:705396483756598212",
+          "citacao": "Deixou considerável obra fixada em registos fonográficos na His Master's Voice em 1927, 1928, 1929."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Gravações de 1927 (1 fonograma) ... Gravações de 1928 (4 fonogramas) ... Gravações de 1929 (2 fonogramas)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/nestedia-1-de-marco-de-2014-faz-110.html",
+          "doc": "gc-v:7679052830777852275",
+          "citacao": "Gravou vários fonogramas famosos, sete no seu todo."
+        }
+      ],
+      "conflito": false,
+      "nota": "A discografia do post de 2013 vem do artigo de José Anjos de Carvalho «Discografia de Armando Goes» (GC-I, 10-10-2005)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Afastou-se progressivamente do canto e dedicou-se à Medicina e à pintura",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Muito requisitado para cantar em Coimbra, foi-se progressivamente afastando do canto"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "dedica-se profundamente à Medicina e à pintura."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Largo com o seu nome na aldeia natal",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/03/armando-goes.html",
+          "doc": "gc-v:3772168108461181292",
+          "citacao": "Tem um Largo com o seu nome, na sua aldeia natal."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     },
     {
       "campo": "gravacao",
@@ -109,6 +301,25 @@
         }
       ],
       "nota": ""
+    },
+    {
+      "tipo": "influenciado_por",
+      "alvo": "antonio-menano",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "A António Menano se deve a instauração de uma nova “escola de canto” em Coimbra, a Escola Ultra-Romântica, depois seguida por cantores como José Paradela de Oliveira, Lucas Rodrigues Junot e até Armando Goes."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/09/antnio-menano-fornos-de-algodres-05-05.html",
+          "doc": "gc-i:115835816405850891",
+          "citacao": "O cantor apadrinhava novos talentos como sucedeu com o jovem estreante Armando do Carmo Goes"
+        }
+      ],
+      "nota": "Texto de J. Anjos de Carvalho e A. M. Nunes, que cita José Carlos de Vasconcelos, «Itinerário do Fado de Coimbra-5», Diário de Lisboa, 03-05-1966."
     }
   ],
   "imagens": [

@@ -3,13 +3,275 @@
   "tipo": "pessoa",
   "nome": "Victor Nunes",
   "nomes_alternativos": [
-    "Vítor Nunes"
+    "Vítor Nunes",
+    "Victor Gonçalves Nunes"
   ],
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+      "doc": "gc-iii:5559848864038107783",
+      "citacao": "Conhecemo-lo ainda antes do final da década de 60. ... Na altura, cantava em programas com a antiga orquestra da FNAT, dirigida pelo maestro Manuel Elyseu, filho de José Elyseu, autor da célebre Balada de Coimbra."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+      "doc": "gc-iii:5559848864038107783",
+      "citacao": "Depois veio o ciclo do Orfeon Académico e a Tuna (embora o Victor já lá cantasse e tivesse conhecido o Zeca e o Goes, entre outros)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/fados-de-coimbra-no-brasil.html",
+      "doc": "gc-v:2374546267097176043",
+      "citacao": "Atuação no Rio de Janeiro, em junho de 1970, da formação constituída por Eduardo Melo/António Andias (gg), Durval Moreirinhas (v) e José Miguel Baptista/Vitor Nunes/José Horácio Miranda (cantores)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/07/coimbra-em-osaka.html",
+      "doc": "gc-v:8067586968316296432",
+      "citacao": "formação de Canção de Coimbra que acompanhou o referido coral à Exposição Mundial de Osaka, em agosto de 1970. ... OAC e grupo convidado de CC constituído por Eduardo Melo/António Andias (gg), Durval Moreirinhas (v), e José Miguel Baptista/Vítor Nunes (cantores);"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+      "doc": "gc-v:1578621927620632063",
+      "citacao": "um já então veterano do Fado de Coimbra (Victor Nunes – Cantor)"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+      "doc": "gc-iii:5559848864038107783",
+      "citacao": "Temos o prazer de ter o homenageado desta noite como componente e fundador da Tertúlia do Fado de Coimbra, o grupo mais antigo de Fados de Coimbra que actualmente existe no País."
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+      "doc": "gc-iii:5559848864038107783",
+      "citacao": "Por esta altura, a convite dos Serviços de Turismo de Coimbra, a Tertúlia, com o Victor a cantar «Ondas do Mar», grava o primeiro disco de fados de Coimbra depois do 25 de Abril"
+    },
+    {
+      "fonte": "gc-iii",
+      "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+      "doc": "gc-iii:5559848864038107783",
+      "citacao": "em nome da Tertúlia do Fado de Coimbra, outorgamos a Victor Gonçalves Nunes, o título de Doutor Honoris Causa, perdão, Cantor Honoris Causa."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Victor Gonçalves Nunes",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "em nome da Tertúlia do Fado de Coimbra, outorgamos a Victor Gonçalves Nunes, o título de Doutor Honoris Causa, perdão, Cantor Honoris Causa."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de homenagem da Tertúlia do Fado de Coimbra (Coja, 5-9-2009)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Fundador e «decano» da Tertúlia do Fado de Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "Temos o prazer de ter o homenageado desta noite como componente e fundador da Tertúlia do Fado de Coimbra ... tendo sempre por «decano» o Victor Nunes."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de homenagem assinado pelos elementos da Tertúlia (2009)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Antes do fim da década de 1960 cantava em programas com a orquestra da FNAT dirigida pelo maestro Manuel Elyseu; cantava também no Orfeon Académico e na Tuna",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "Conhecemo-lo ainda antes do final da década de 60. ... Na altura, cantava em programas com a antiga orquestra da FNAT, dirigida pelo maestro Manuel Elyseu, filho de José Elyseu, autor da célebre Balada de Coimbra. ... Depois veio o ciclo do Orfeon Académico e a Tuna (embora o Victor já lá cantasse e tivesse conhecido o Zeca e o Goes, entre outros)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Viagem de 50 dias do Orfeon Académico de Coimbra aos EUA, com José Miguel Baptista",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "Outro companheiro nosso, José Miguel Baptista, não podendo estar presente por compromissos inalteráveis, nos pediu para não deixarmos de recordar ao Victor Nunes a memorável viagem de 50 dias aos EUA do Orfeon Académico de Coimbra, onde começou a longa caminhada fraterna que os vem unindo"
+        }
+      ],
+      "conflito": false,
+      "nota": "O post não dá o ano; um comentário de Nuno Tavares ao mesmo post situa a digressão em 1962."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantor da formação que atuou no Rio de Janeiro em junho de 1970 (viagem comemorativa dos 25 anos da TAP no Brasil), com atuações também em São Paulo",
+      "data": "1970-06",
+      "local": "Rio de Janeiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/fados-de-coimbra-no-brasil.html",
+          "doc": "gc-v:2374546267097176043",
+          "citacao": "Atuação no Rio de Janeiro, em junho de 1970, da formação constituída por Eduardo Melo/António Andias (gg), Durval Moreirinhas (v) e José Miguel Baptista/Vitor Nunes/José Horácio Miranda (cantores). Deslocação no âmbito da viagem comemorativa dos 25 anos da TAP no Brasil, com atuações em São Paulo (Caravela da Saudade) e Rio de Janeiro."
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de António Manuel Nunes (gc-v, 2014). Outro post do mesmo blogue (gc-v, 2017, «Sons de Coimbra na Expo 1970»), sobre a mesma formação, põe em 1971 a temporada musical no Brasil com o patrocínio da TAP: ver a versão de 1971."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Tenor do grupo que em 1971 fez uma temporada musical no Brasil com o patrocínio da TAP",
+      "data": "1971",
+      "local": "Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2017/02/sons-de-coimbra-na-expo-1970.html",
+          "doc": "gc-v:6456805057387381498",
+          "citacao": "uma deputação formada por Eduardo de Melo (gC1), António Andias (gC2), Durval Moreirinhas (v), José Miguel Baptista (barítono), Victor Nunes (tenor) e José Horácio Miranda (tenor), grupo que em 1971 fez uma temporada musical no Brasil com o patrocínio da TAP"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de António Manuel Nunes (gc-v, 2017). O post do mesmo blogue de 2014 («Fados de Coimbra no Brasil»), sobre a mesma formação, põe a deslocação ao Brasil, no âmbito da viagem comemorativa dos 25 anos da TAP no Brasil, em junho de 1970: ver a versão de junho de 1970."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Cantor do grupo de Canção de Coimbra que acompanhou o Orfeon Académico à Exposição Mundial de Osaka (agosto de 1970)",
+      "data": "1970-08",
+      "local": "Osaka",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/07/coimbra-em-osaka.html",
+          "doc": "gc-v:8067586968316296432",
+          "citacao": "formação de Canção de Coimbra que acompanhou o referido coral à Exposição Mundial de Osaka, em agosto de 1970. ... OAC e grupo convidado de CC constituído por Eduardo Melo/António Andias (gg), Durval Moreirinhas (v), e José Miguel Baptista/Vítor Nunes (cantores);"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/1-grupo-de-fados-no-japo.html",
+          "doc": "gc-i:116307596623633091",
+          "citacao": "1º Grupo de Fados no Japão. Na TV de Osaka, em Agosto de 1970, vemos Victor Nunes com a viola de Durval Moreirinhas, com este a seu lado; António Andias e Eduardo Melo nas guitarras."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Canta «Ondas do Mar» no EP «Coimbra tem mais Encanto» da Tertúlia do Fado de Coimbra, editado com a Comissão Municipal de Turismo, o primeiro disco de fados de Coimbra depois do 25 de Abril",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "Por esta altura, a convite dos Serviços de Turismo de Coimbra, a Tertúlia, com o Victor a cantar «Ondas do Mar», grava o primeiro disco de fados de Coimbra depois do 25 de Abril"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "EP Coimbra tem mais Encanto, Rossil, Comissão Municipal de Turismo de Coimbra, ano de 1978. Regista quatro faixas: Ondas do Mar, Nasce na Estrela o Mondego, Balada da Despedida/1958, Variações em Lá Menor [Álvaro Aroso]. Guitarras de Álvaro Aroso e José Carlos Teixeira; viola, Eduardo Aroso; vozes de José Miguel Baptista, Vitor Nunes, Nuno de Carvalho."
+        }
+      ],
+      "conflito": false,
+      "nota": "O ano de edição diverge entre fontes: 1978 nos textos do gc-v (2023 e 2026), 1979 no texto de Armando Luís de Carvalho Homem (gc-i, 2005); as versões estão registadas na ficha de Álvaro Aroso."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Voz no LP «Coimbra... Terra d'Encanto» (Rossil) da Tertúlia do Fado de Coimbra, com José Miguel Baptista, Joaquim Matos e Nuno de Carvalho",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "LP Coimbra... Terra d’Encanto, Rossil, ano de 1982. Pela Tertúlia do Fado de Coimbra. Vozes de José Miguel Baptista, Joaquim Matos, Nuno de Carvalho e Victor Nunes."
+        }
+      ],
+      "conflito": false,
+      "nota": "O ano diverge entre fontes: 1982 no texto de António Manuel Nunes (2026), 1981 no de Armando Luís de Carvalho Homem (2005); as versões estão registadas na ficha de Álvaro Aroso."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Voz no CD «Relíquias» (Edisco, ECD 25, Porto, 1994) da Tertúlia do Fado de Coimbra",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/03/alguns-registos-fonograficos-da-cc-ca.html",
+          "doc": "gc-v:4163497511678760872",
+          "citacao": "CD Relíquias, pela Tertúlia do Fado de Coimbra, EDISCO, ECD 25, Porto, 1994. Vozes de José Paulo, Joaquim Matos, Nuno de Carvalho, Victor Nunes, José Miguel Baptista."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado em Coja, como cantor da Tertúlia do Fado de Coimbra (notícia do Diário as Beiras)",
+      "local": "Coja",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/02/victor-nunes-cantor-da-tertulia-do-fado.html",
+          "doc": "gc-ii:8115104448521948735",
+          "citacao": "Victor Nunes, cantor da Tertúlia do Fado de Coimbra, homenageado em Coja. Diário as Beiras de ontem."
+        }
+      ],
+      "conflito": false,
+      "nota": "Notícia do Diário as Beiras reproduzida num post de 5-2-2009 (gc-ii); o post não indica a data da homenagem."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenagem em Coja, a 5 de setembro de 2009: a Tertúlia do Fado de Coimbra outorga-lhe o título de «Cantor Honoris Causa»",
+      "data": "2009-09-05",
+      "local": "Coja",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/homenagem-victor-nunes.html",
+          "doc": "gc-iii:5559848864038107783",
+          "citacao": "em nome da Tertúlia do Fado de Coimbra, outorgamos a Victor Gonçalves Nunes, o título de Doutor Honoris Causa, perdão, Cantor Honoris Causa. ... Coja, 5-9-09"
+        },
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2009/09/victor-nunes-homenageado-hoje-em-coja.html",
+          "doc": "gc-iii:2981293272763128791",
+          "citacao": "Victor Nunes homenageado hoje em Coja. Diário de Coimbra de hoje."
+        }
+      ],
+      "conflito": false,
+      "nota": "Texto de homenagem da Tertúlia do Fado de Coimbra («Coja, 5-9-09») e notícia do Diário de Coimbra reproduzida num post de 5-9-2009."
+    },
+    {
+      "campo": "homenagem",
+      "valor": "Homenageado com Anthero da Veiga (notícia do Diário as Beiras, maio de 2013, texto de Lurdes Gonçalves)",
+      "data": "2013-05",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/05/victor-nunes-e-anthero-da-veiga.html",
+          "doc": "gc-v:3616842476345293495",
+          "citacao": "Victor Nunes e Anthero da Veiga homenageados. Diário as Beiras de ontem. Texto de Lurdes Gonçalves."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 26-5-2013 que reproduz o recorte do jornal."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",

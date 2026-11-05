@@ -4,7 +4,7 @@
   "formato": "disco de massa",
   "editora": "Zonophone",
   "referencia": "X-52063",
-  "ano": "",
+  "ano": "1905",
   "local": "Porto",
   "interpretes": [
     {
@@ -62,7 +62,25 @@
           "fonte": "museu-do-fado",
           "url": "https://arquivosonoro.museudofado.pt/fado/935/manasses_de_lacerda_fado_maria",
           "doc": "museu-do-fado:wad7f843e64f05ab1",
-          "citacao": "Fado Maria Manassés de Lacerda Editora: Zo. 52063"
+          "citacao": "Fado Maria … Manassés de Lacerda … Editora: Zo. 52063"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+          "doc": "gc-i:6233195127437649063",
+          "citacao": "(78 rpm Disque Zonophone. Fado Maria cantado pelo Senhor Manasses de Lacerda. Portuguese Tenor. Porto, X-52063, ca. 1905)"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+          "doc": "gc-v:7337900589765452484",
+          "citacao": "Fado Maria cantado pelo Senhor Manassés de Lacerda (Maria, tu és na terra), Porto, Disque Zonophone X52063, ca. 1905, com acompanhamento de piano."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/08/uma-perspectiva-crtica-sobre-o-chamado.html",
+          "doc": "gc-i:112378822812281145",
+          "citacao": "fado que foi gravado em 1905 pelo próprio Manassés de Lacerda (disco Zonophone, 52.063);"
         }
       ],
       "conflito": true,
@@ -81,6 +99,36 @@
       ],
       "conflito": true,
       "nota": "Número diferente (X-52062) do indicado no post de 2006 e no Museu do Fado (X-52063)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco Zonophone X-52053, Porto, 1905, com acompanhamento de piano",
+      "data": "1905",
+      "local": "Porto",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/09/o-fado-do-monte-estoril.html",
+          "doc": "gc-v:6979737371089462686",
+          "citacao": "disco Zonophone X-52053, Porto, 1905, com acompanhamento de piano"
+        }
+      ],
+      "conflito": true,
+      "nota": "Número diferente (X-52053) dos indicados nos outros documentos (X-52063 e X-52062)."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "A primeira matriz sonora do «Fado Maria» foi gravada por Manassés de Lacerda no disco Gramophone 52063",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/registos-fonogrficos-de-lucas.html",
+          "doc": "gc-i:111593304383452160",
+          "citacao": "A primeira matriz sonora do Fado Maria foi gravada pelo tenor Manassés de Lacerda no disco Gramophone 52063."
+        }
+      ],
+      "conflito": true,
+      "nota": "Editora diferente (Gramophone) da indicada nos outros documentos (Zonophone)."
     },
     {
       "campo": "outro",
@@ -120,7 +168,7 @@
       "fonte": "museu-do-fado",
       "url": "https://arquivosonoro.museudofado.pt/fado/935/manasses_de_lacerda_fado_maria",
       "doc": "museu-do-fado:wad7f843e64f05ab1",
-      "citacao": "Fado Maria Manassés de Lacerda Editora: Zo. 52063"
+      "citacao": "Fado Maria … Manassés de Lacerda … Editora: Zo. 52063"
     }
   ],
   "estado_revisao": "rascunho"

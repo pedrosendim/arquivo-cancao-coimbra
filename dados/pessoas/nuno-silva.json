@@ -6,8 +6,57 @@
   "papeis": [
     "cantor"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra_29.html",
+      "doc": "gc-i:112259444541170009",
+      "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Nuno Silva; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela.html",
+      "doc": "gc-i:116468079034271080",
+      "citacao": "O Grupo Alma Mater em digressão pela Suiça. Nesta foto vemos Nuno Silva, um dos cantores do grupo. Foto enviada por Fernando Marques."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+      "doc": "gc-v:2372309509464946685",
+      "citacao": "Serenata Monumental 2013 ... Alma Mater ... 8 - Amar Incerto (Virgilio Caseiro): Nuno Silva"
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do grupo Alma Mater pela Suíça, como um dos cantores do grupo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela.html",
+          "doc": "gc-i:116468079034271080",
+          "citacao": "O Grupo Alma Mater em digressão pela Suiça. Nesta foto vemos Nuno Silva, um dos cantores do grupo."
+        }
+      ],
+      "conflito": false,
+      "nota": "Post de 28-11-2006, com fotografias enviadas por Fernando Marques."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Serenata Monumental 2013, com o grupo Alma Mater: canta «Amar Incerto» (Virgílio Caseiro)",
+      "data": "2013",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/07/blog-post.html",
+          "doc": "gc-v:2372309509464946685",
+          "citacao": "Serenata Monumental 2013 ... Alma Mater ... 8 - Amar Incerto (Virgilio Caseiro): Nuno Silva"
+        }
+      ],
+      "conflito": false,
+      "nota": "Programa transcrito do arquivo digital da TAUC (tunauc.wordpress.com, 2-07-2013)."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -35,7 +84,32 @@
       "nota": "voz; 2005-2006 e 2013"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1024/Fernando%20Marques%203.jpg",
+      "legenda": "Nuno Silva, um dos cantores do grupo Alma Mater, na digressão pela Suíça. Foto enviada por Fernando Marques",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/11/o-grupo-alma-mater-em-digresso-pela.html",
+          "doc": "gc-i:116468079034271080",
+          "citacao": "O Grupo Alma Mater em digressão pela Suiça. Nesta foto vemos Nuno Silva, um dos cantores do grupo. Foto enviada por Fernando Marques."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Nuno%20Silva%202.jpg",
+      "legenda": "Grupo Alma Mater no Quebra-Costas: canta Nuno Silva; na guitarra, Fernando Marques; na viola, António Paulo Lopes",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra_29.html",
+          "doc": "gc-i:112259444541170009",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Nuno Silva; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

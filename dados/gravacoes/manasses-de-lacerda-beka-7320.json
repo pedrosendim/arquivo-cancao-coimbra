@@ -23,8 +23,15 @@
     }
   ],
   "capa": {
-    "url": "",
-    "fontes": []
+    "url": "https://i.discogs.com/cXRbQqmyjNbwtJE6ItbX9dNbkCHK0PNdr49rukV8vW4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/Nzc2LTE3NjE5MzAw/MzYtMTU0OC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/35531776",
+        "doc": "discogs:w7e4d4eb6754ab23f",
+        "citacao": "Imagem (secondary): https://i.discogs.com/cXRbQqmyjNbwtJE6ItbX9dNbkCHK0PNdr49rukV8vW4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMx/Nzc2LTE3NjE5MzAw/MzYtMTU0OC5qcGVn.jpeg"
+      }
+    ]
   },
   "ligacoes": {
     "spotify": "",
@@ -44,8 +51,28 @@
           "citacao": "Título: Fado Serenata ... Editora: Beka 7320 Referências: Disco “Beka” Grande, 7320, ∆7; 7320 ... Etiqueta: Fado Serenata  / Fado  / Manassés de Lacerda  / "
         }
       ],
-      "conflito": false,
+      "conflito": true,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Discogs: «Fado Serenata» na face A do disco «Beka» Grande 7316 (Portugal, 1905), com «Canção da Encosta» na face B",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531776",
+          "doc": "discogs:w7e4d4eb6754ab23f",
+          "citacao": "Editora: Disco \"Beka\" Grande – 7316 Formato: 1 × Shellac, 10\", 78 RPM País: Portugal Data: 1905"
+        },
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/35531776",
+          "doc": "discogs:w7e4d4eb6754ab23f",
+          "citacao": "Faixas: A Fado Serenata B Canção da Encosta"
+        }
+      ],
+      "conflito": true,
+      "nota": "Número diferente (Beka 7316) do que o Arquivo Sonoro do Museu do Fado dá a este «Fado Serenata» (Beka 7320)."
     }
   ],
   "fontes": [

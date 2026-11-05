@@ -4,10 +4,158 @@
   "nome": "Adamo Caetano",
   "nomes_alternativos": [],
   "papeis": [
-    "violista"
+    "violista",
+    "cantor",
+    "investigador"
   ],
-  "biografia": [],
-  "factos": [],
+  "biografia": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/as-nossas-distincoes.html",
+      "doc": "gc-v:8031719672303981613",
+      "citacao": "Estudante da FCT / UC na década de 1990, sócio da TAUC e membro de formações musicais juvenis"
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+      "doc": "gc-i:112937132851911513",
+      "citacao": "A propósito do CD Orquestra da Tuna Académica da Universidade de Coimbra, Public-Art Editora 19301, lançado em 16 de Dezembro de 2001, pretendeu o Director da Tuna, Adamo Caetano, registar correctamente o nome do autor do “Hino Académico de Coimbra”."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+      "doc": "gc-i:115513431538098899",
+      "citacao": "Antigo Presidente da TAUC e ainda hoje sócio daquele centenário organismo, Adamo Caetano colocou a viola de acompanhamento debaixo da cama e canta no Grupo de Fados da TAUC."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/as-nossas-distincoes.html",
+      "doc": "gc-v:8031719672303981613",
+      "citacao": "Outro repositório digital em destaque é o Galáxia Sonora Coimbrã, acessível desde 2016, criado e gerido por Adamo Caetano"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2025/07/as-nossas-distincoes.html",
+      "doc": "gc-v:8031719672303981613",
+      "citacao": "tem dedicado incontáveis horas da sua vida à história da TAUC (no que não está sozinho). Galáxia pesquisa, recolhe, transcreve e reconstitui fontes musicais da CC devolvendo à vida e à outiva documentos raros ou considerados perdidos e achados."
+    }
+  ],
+  "factos": [
+    {
+      "campo": "atividade",
+      "valor": "Director da Tuna Académica da Universidade de Coimbra (TAUC) à data do CD «Orquestra da Tuna Académica da Universidade de Coimbra» (Public-Art Editora 19301, 16 de dezembro de 2001)",
+      "data": "2001",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/cano-de-coimbra-no-sculo-xix-era-uma.html",
+          "doc": "gc-i:112937132851911513",
+          "citacao": "A propósito do CD Orquestra da Tuna Académica da Universidade de Coimbra, Public-Art Editora 19301, lançado em 16 de Dezembro de 2001, pretendeu o Director da Tuna, Adamo Caetano, registar correctamente o nome do autor do “Hino Académico de Coimbra”."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de rodapé [8] do post."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Antigo Presidente da TAUC e sócio da Tuna",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
+          "doc": "gc-i:115513431538098899",
+          "citacao": "Antigo Presidente da TAUC e ainda hoje sócio daquele centenário organismo"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/06/relao-das-gravaes-em-que-participou.html",
+          "doc": "gc-i:115168297605145123",
+          "citacao": "Adamo Caetano (ex-Presidente da TAUC)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Criou e gere o repositório digital Galáxia Sonora Coimbrã, acessível desde 2016, que pesquisa, recolhe, transcreve e reconstitui fontes musicais da Canção de Coimbra",
+      "data": "2016",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/as-nossas-distincoes.html",
+          "doc": "gc-v:8031719672303981613",
+          "citacao": "Outro repositório digital em destaque é o Galáxia Sonora Coimbrã, acessível desde 2016, criado e gerido por Adamo Caetano"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2025/07/as-nossas-distincoes.html",
+          "doc": "gc-v:8031719672303981613",
+          "citacao": "Galáxia pesquisa, recolhe, transcreve e reconstitui fontes musicais da CC devolvendo à vida e à outiva documentos raros ou considerados perdidos e achados."
+        }
+      ],
+      "conflito": false,
+      "nota": "A Galáxia Sonora Coimbrã é uma das fontes aprovadas do arquivo (galaxia-sonora-coimbra)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Pesquisa e digitalização de documentos publicados no blogue Guitarra de Coimbra V",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2022/04/protesto-contra-proibicao-das-serenatas.html",
+          "doc": "gc-v:7957223212011238620",
+          "citacao": "Pesquisa e digitalização: Adamo Caetano"
+        }
+      ],
+      "conflito": false,
+      "nota": "Outros posts do GC V trazem indicações como «Enviado por Adamo Caetano» ou «Digitalização de Adamo Caetano»."
+    },
+    {
+      "campo": "publicacao",
+      "valor": "Artigo na revista FRA, Informação, n.º 6 (agosto de 2020), sobre a escassez de estudos científicos sobre a história dos organismos culturais da Academia de Coimbra",
+      "data": "2020-08",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/09/um-artigo-de-adamo-caetano.html",
+          "doc": "gc-v:7916851295185765926",
+          "citacao": "Um artigo de Adamo Caetano na revista FRA, Informação, n.º 6, agosto de 2020, https://www.uc.pt/alumni/Newsletter6, sobre a escassez de bons e credíveis estudos científicos sobre a história dos organismos culturais da Academia de Coimbra."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "publicacao",
+      "valor": "«Hymno Académico [de Coimbra]» (Tunauc, 2016) e «Hymno Académico de Coimbra, uma longa história» (Tunauc, 22 de maio de 2022)",
+      "data": "2016",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/dois-antigos-hymnos-academicos-lusofonos.html",
+          "doc": "gc-v:8076643283836172500",
+          "citacao": "Caetano, Adamo - Hymno Académico de Coimbra, uma longa história, Tunauc, 22.05.2022"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/05/dois-antigos-hymnos-academicos-lusofonos.html",
+          "doc": "gc-v:8076643283836172500",
+          "citacao": "Caetano, Adamo - Hymno Académico [de Coimbra], Tunauc, 2016"
+        }
+      ],
+      "conflito": false,
+      "nota": "Textos publicados no arquivo digital da TAUC (tunauc.wordpress.com), citados na secção «Saber mais» do post."
+    }
+  ],
   "relacoes": [
     {
       "tipo": "membro_de",
@@ -18,9 +166,28 @@
           "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_09.html",
           "doc": "gc-i:115513431538098899",
           "citacao": "Adamo Caetano colocou a viola de acompanhamento debaixo da cama e canta no Grupo de Fados da TAUC."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121177724539156.html",
+          "doc": "gc-i:112121177724539156",
+          "citacao": "Grupo de Fados da Tuna nas Escadas de Santiago, ontem. Adamo Caetano a cantar, acompanhado por João Calha em saxofone, Ricardo Rodrigues à guitarra e Marco Matos à viola."
         }
       ],
-      "nota": "voz; 2006"
+      "nota": "voz; 2005-2006"
+    },
+    {
+      "tipo": "membro_de",
+      "alvo": "verdes-anos",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/andr-sousa-enviou-me-esta-foto-com.html",
+          "doc": "gc-i:114411692911389243",
+          "citacao": "Seguiu-se o grupo Verdes Anos (apenas 4 elementos, Rui Seoane na voz, Miguel Drago e Luís Barroso na guitarra e Adamo Caetano na viola)"
+        }
+      ],
+      "nota": "viola; atuação com apenas 4 elementos, segundo a legenda de André Sousa (post de abril de 2006)"
     },
     {
       "tipo": "membro_de",
@@ -37,9 +204,15 @@
           "url": "https://guitarradecoimbra4.blogspot.com/2015/05/serenata-monumental-1994.html",
           "doc": "gc-v:1436266136812530715",
           "citacao": "Grupo Quarto Crescente (TAUC) Grupo constituído por Rui Ferreira/José Manuel Beato (vozes), Tiago Cunha/Miguel Drago (ggC), Adamo Caetano/Paulo Larguesa (vv)"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/baladas-de-despedida-anos-90-outro.html",
+          "doc": "gc-i:111240318094235573",
+          "citacao": "“Grupo de Fados Quarto Crescente” – José Manuel Beato, Jorge Vaz Machado e Rui Ferreira a cantar; Pedro Paredes dos Santos e Pedro Nunes à guitarra; Paulo Larguesa e Adamo Caetano à viola."
         }
       ],
-      "nota": "viola (1994)"
+      "nota": "viola (1994); também no disco «Baladas de Despedida – Anos 90»"
     }
   ],
   "imagens": [],

@@ -6,10 +6,172 @@
     "Jorge Manuel Estima de Almeida Rino"
   ],
   "papeis": [
-    "violista"
+    "violista",
+    "colecionador"
   ],
-  "biografia": [],
+  "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+      "doc": "gc-i:116638481779194072",
+      "citacao": "-Nasce em Águeda Jorge Manuel Estima de Almeida Rino."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+      "doc": "gc-v:4029442493200825076",
+      "citacao": "O Dr. Jorge Rino destacou-se como viola de acompanhamento na década de 1960 na Academia de Coimbra, sendo então estudante da Faculdade de Ciências. Conviveu e acompanhou alguns dos principais vultos dos sixties, tendo sido membro do Grupo de Nuno Guimarães. Como viola, participou na gravação de discos de 45 rpm."
+    },
+    {
+      "fonte": "gc-ii",
+      "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/orfeon-em-angola-no-ano-de-1967.html",
+      "doc": "gc-ii:6695930452623269856",
+      "citacao": "Orfeon em Angola no ano de 1967. Fotos enviadas por Jorge Rino (v). Do grupo de Canto e Guitarra de Coimbra do Orfeon vemos, além deste viola, José Manuel dos Santos (c), Hermínio Menino (g), António Andias (g) e Barros Madeira (c)."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+      "doc": "gc-v:4029442493200825076",
+      "citacao": "os estudos em Aveiro, Coimbra e Paris, a passagem por Moçambique e, no regresso (1975), a opção pela U. Aveiro, que estava a arrancar."
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+      "doc": "gc-v:4029442493200825076",
+      "citacao": "Ao longo dos anos afirmou-se como um colecionador notável de fonogramas de 78 rpm e de registos não comerciais. Manteve-se ativo como instrumentista e deu continuada e valiosa colaboração a diversos amigos e estudiosos. Essa colaboração foi extensiva ao Departamento de Música da Universidade de Aveiro e à editora TradiSom."
+    }
+  ],
   "factos": [
+    {
+      "campo": "nome_completo",
+      "valor": "Jorge Manuel Estima de Almeida Rino",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "-Nasce em Águeda Jorge Manuel Estima de Almeida Rino."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "[Jorge Manuel Estima de Almeida Rino, n. Recardães / Águeda, 1940; f. Coimbra, 16.07.2020]"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "morte",
+      "valor": "Coimbra, 16 de julho de 2020",
+      "data": "2020-07-16",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "[Jorge Manuel Estima de Almeida Rino, n. Recardães / Águeda, 1940; f. Coimbra, 16.07.2020]"
+        }
+      ],
+      "conflito": false,
+      "nota": "Necrologia publicada no GC V por António Manuel Nunes (16-07-2020)."
+    },
+    {
+      "campo": "formacao",
+      "valor": "Estudante da Faculdade de Ciências na Academia de Coimbra, na década de 1960; estudos em Aveiro, Coimbra e Paris",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "O Dr. Jorge Rino destacou-se como viola de acompanhamento na década de 1960 na Academia de Coimbra, sendo então estudante da Faculdade de Ciências."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "os estudos em Aveiro, Coimbra e Paris, a passagem por Moçambique e, no regresso (1975), a opção pela U. Aveiro, que estava a arrancar."
+        }
+      ],
+      "conflito": false,
+      "nota": "A segunda citação é de uma mensagem de Armando L. de Carvalho Homem, reproduzida na necrologia, que resume os testemunhos do mural do Departamento de Biologia da Universidade de Aveiro."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Professor da Universidade de Aveiro (desde o regresso de Moçambique, em 1975), aposentado",
+      "data": "1975",
+      "local": "Aveiro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "o falecimento do Dr. Jorge Rino, professor aposentado da Universidade de Aveiro."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "a passagem por Moçambique e, no regresso (1975), a opção pela U. Aveiro, que estava a arrancar."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Viola de acompanhamento na Academia de Coimbra nos anos 60; membro do Grupo de Nuno Guimarães; viola em discos de 45 rpm",
+      "data": "",
+      "local": "Coimbra",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "O Dr. Jorge Rino destacou-se como viola de acompanhamento na década de 1960 na Academia de Coimbra, sendo então estudante da Faculdade de Ciências. Conviveu e acompanhou alguns dos principais vultos dos sixties, tendo sido membro do Grupo de Nuno Guimarães. Como viola, participou na gravação de discos de 45 rpm."
+        }
+      ],
+      "conflito": false,
+      "nota": "O Grupo de Nuno Guimarães não tem ficha no arquivo; por isso fica como facto e não como relação membro_de."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do Orfeon a Angola (1967), como viola do grupo de Canto e Guitarra de Coimbra do Orfeon",
+      "data": "1967",
+      "local": "Angola",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/orfeon-em-angola-no-ano-de-1967.html",
+          "doc": "gc-ii:6695930452623269856",
+          "citacao": "Orfeon em Angola no ano de 1967. Fotos enviadas por Jorge Rino (v). Do grupo de Canto e Guitarra de Coimbra do Orfeon vemos, além deste viola, José Manuel dos Santos (c), Hermínio Menino (g), António Andias (g) e Barros Madeira (c)."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "atividade",
+      "valor": "Colecionador de fonogramas de 78 rpm e de registos não comerciais; colaborou com o Departamento de Música da Universidade de Aveiro e com a editora TradiSom",
+      "data": "",
+      "local": "",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "Ao longo dos anos afirmou-se como um colecionador notável de fonogramas de 78 rpm e de registos não comerciais. Manteve-se ativo como instrumentista e deu continuada e valiosa colaboração a diversos amigos e estudiosos. Essa colaboração foi extensiva ao Departamento de Música da Universidade de Aveiro e à editora TradiSom."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
     {
       "campo": "gravacao",
       "valor": "Viola no EP Fado Corrido de Coimbra de António Bernardino (Ofir AM 4.101)",
@@ -26,21 +188,80 @@
     },
     {
       "campo": "nascimento",
-      "valor": "Águeda",
-      "local": "Águeda",
+      "valor": "Recardães (Águeda), 1940",
+      "data": "1940",
+      "local": "Recardães, Águeda",
       "fontes": [
         {
           "fonte": "gc-i",
           "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
           "doc": "gc-i:116638481779194072",
           "citacao": "-Nasce em Águeda Jorge Manuel Estima de Almeida Rino."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2020/07/falecimento-do-dr.html",
+          "doc": "gc-v:4029442493200825076",
+          "citacao": "[Jorge Manuel Estima de Almeida Rino, n. Recardães / Águeda, 1940; f. Coimbra, 16.07.2020]"
         }
       ],
       "conflito": false,
-      "nota": ""
+      "nota": "A cronologia do GC I (2006) regista o nascimento em Águeda, na secção do ano de 1940; a necrologia do GC V (2020) precisa «Recardães / Águeda, 1940»."
     }
   ],
-  "relacoes": [],
+  "relacoes": [
+    {
+      "tipo": "acompanhou",
+      "alvo": "nuno-guimaraes",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/mais-uma-foto-de-jorge-rino-aqui.html",
+          "doc": "gc-ii:1324880533820393754",
+          "citacao": "Mais uma foto de Jorge Rino, aqui a acompanhar à viola Nuno Guimarães (g) e António Andias (g), sendo cantor António Bernardino, no ano de 1965."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-rino-viola-e-manuel-borralho_20.html",
+          "doc": "gc-i:111402102585893017",
+          "citacao": "Jorge Rino (Viola) e Manuel Borralho (guitarra), colaboradores de Nuno Guimarães nos EPs."
+        }
+      ],
+      "nota": "viola; a necrologia de 2020 diz que foi «membro do Grupo de Nuno Guimarães»."
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-andias",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/mais-uma-foto-de-jorge-rino-aqui.html",
+          "doc": "gc-ii:1324880533820393754",
+          "citacao": "Mais uma foto de Jorge Rino, aqui a acompanhar à viola Nuno Guimarães (g) e António Andias (g), sendo cantor António Bernardino, no ano de 1965."
+        }
+      ],
+      "nota": "viola (1965)"
+    },
+    {
+      "tipo": "acompanhou",
+      "alvo": "antonio-bernardino",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/discografia-de-jos-dias-e-respectivas.html",
+          "doc": "gc-i:113872260824886914",
+          "citacao": "Gravado também por António Bernardino, em 1967, acompanhado à guitarra por Nuno Guimarães e Manuel Borralho e, à viola, por Jorge Rino e Rui Borralho"
+        },
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/mais-uma-foto-de-jorge-rino-aqui.html",
+          "doc": "gc-ii:1324880533820393754",
+          "citacao": "Mais uma foto de Jorge Rino, aqui a acompanhar à viola Nuno Guimarães (g) e António Andias (g), sendo cantor António Bernardino, no ano de 1965."
+        }
+      ],
+      "nota": "viola; EP «Fado Corrido de Coimbra» (Ofir AM 4.101, 1967)"
+    }
+  ],
   "imagens": [],
   "ligacoes": [],
   "estado_revisao": "rascunho"

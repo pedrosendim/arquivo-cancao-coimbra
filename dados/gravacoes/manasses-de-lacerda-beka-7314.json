@@ -23,8 +23,15 @@
     }
   ],
   "capa": {
-    "url": "",
-    "fontes": []
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9NXfxpXVlXNSt35ctsYWr80KEJQ5U1U_Ir_MPh3K9qOFzgaEWsmywUAR4E_2XBxHCj4vWhQHYXE7ozPZ5uKzLsBpCX0ws17aknZWWMPcTfjfmQIY9bLLE2cwjZcAfRbVLm-Ne71KT9A/s1600/120a+Rodela+Manass%25C3%25A9s+-+Fado+das+Ruas+%25282%2529.jpg",
+    "fontes": [
+      {
+        "fonte": "gc-v",
+        "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+        "doc": "gc-v:6889065357867412602",
+        "citacao": "Doc. 7: FADO DAS RUAS. FADO. MANASSÉS DE LACERDA, disco de massa Beka Grand Record n.º 7314, s/d. [ca. 1905]. Coleção Jorge Rino."
+      }
+    ]
   },
   "ligacoes": {
     "spotify": "",
@@ -46,6 +53,40 @@
       ],
       "conflito": false,
       "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Disco de massa de uma só face, Beka Grand Record 7314, Porto (?), c. 1905; exemplar da coleção Jorge Rino",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Gravações do próprio Manassés de Lacerda: disco de massa de uma só face, Fado das Ruas, Porto (?), Beka-Grand-Record, 7314, ca. 1905"
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "Doc. 7: FADO DAS RUAS. FADO. MANASSÉS DE LACERDA, disco de massa Beka Grand Record n.º 7314, s/d. [ca. 1905]. Coleção Jorge Rino."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Manassés canta a solo três das sete quadras da partitura: «Oh pallida madrugada», «Guitarra minha guitarra» e «Luar da minha saudade»",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+          "doc": "gc-v:6889065357867412602",
+          "citacao": "No registo fonográfico Beka 7314, Manassés vocaliza a solo três das sete quadras que constam na partitura: Oh pallida madrugada/Guitarra minha guitarra/Luar da minha saudade."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
     }
   ],
   "fontes": [
@@ -54,6 +95,12 @@
       "url": "https://arquivosonoro.museudofado.pt/fado/918/manasses_de_lacerda_fado_das_ruas",
       "doc": "museu-do-fado:w2f059dc0174769d2",
       "citacao": "Título: Fado das Ruas ... Editora: Beka 7314 Referências: Disco “Beka” Grande, 7314, ∆7; 7314"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/repertorio-de-manasses-de-lacerda-1.html",
+      "doc": "gc-v:6889065357867412602",
+      "citacao": "Gravações do próprio Manassés de Lacerda: disco de massa de uma só face, Fado das Ruas, Porto (?), Beka-Grand-Record, 7314, ca. 1905"
     }
   ],
   "estado_revisao": "rascunho"

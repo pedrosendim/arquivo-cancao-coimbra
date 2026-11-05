@@ -2,11 +2,56 @@
   "id": "augusto-camacho-vieira",
   "tipo": "pessoa",
   "nome": "Augusto Camacho Vieira",
-  "nomes_alternativos": [],
+  "nomes_alternativos": [
+    "Augusto Camacho"
+  ],
   "papeis": [
-    "cantor"
+    "cantor",
+    "compositor"
   ],
   "biografia": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "Fui para Coimbra em 1944 para concluir o sétimo ano, no Liceu D. João III, no ano lectivo 1944-1945, tendo sido aprovado no concurso para a Universidade no ano de 1945, onde iniciei os meus estudos na Faculdade de Medicina que concluí no ano lectivo de 1953-1954."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "Nesse ano de 1945 fui integrado no naipe dos primeiros tenores do Orfeon Académico, após prestação de provas conduzidas pelo Manuel Julião, tendo sido mais tarde requisitado para o Grupo de Fados desse organismo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "Caloiro de Medicina, em Março de 1946, surgi pela primeira vez no Teatro Avenida a cantar “fados” num sarau promovido pela Casa dos Estudantes do Império, em que também participaram o Orfeon, a Tuna Académica e o TEUC."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "No início do ano lectivo seguinte, em Dezembro de 1946, participei na primeira Serenata de Coimbra com transmissão directa da Sé Velha, pela Emissora Nacional e através do Emissor Regional de Coimbra."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "Manuel Branquinho; cantor e guitarrista que no ano de 1951 fez parte do grupo de \"fados\" convidado a participar na digressão do TEUC ao Brasil. Neste grupo, em que participei com o Napoleão Amorim, fomos acompanhados à guitarra por Manuel Branquinho e à viola pelo Tavares de Melo."
+    },
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+      "doc": "gc-i:113595198912461051",
+      "citacao": "Próximo da minha formatura, em 1953, sou convidado pelo Carlos Figueiredo a gravar em Lisboa, na casa \"Valentim de Carvalho\" e em 78 rpm, 4 \"fados\" da sua autoria"
+    },
+    {
+      "fonte": "jorge-cravo",
+      "url": "https://www.fadocale.pt/_files/ugd/0bdb21_ae3e8aed5e29479b8bf2f22b2691c8fd.pdf",
+      "doc": "jorge-cravo:w8257b866bfdf1800",
+      "citacao": "Mas mais importante foi o EP “Fado de Coimbra – Dr. Augusto Camacho”, editado em 1958, que marca a primeira presença da guitarra de Carlos Paredes (1925-2004) em gravações com um cantor de Coimbra."
+    },
     {
       "fonte": "gc-v",
       "url": "https://guitarradecoimbra4.blogspot.com/2022/06/palmas-crum-cruns-e-chius-questao-das.html",
@@ -57,8 +102,263 @@
           "citacao": "embora estudante dos anos 40, gravou o seu primeiro disco em 1953, quando quintanista de Medicina."
         }
       ],
+      "conflito": true,
+      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024). Um post de António Manuel Nunes (gc-v, 2019) diz que não gravou pela primeira vez em 1953."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Não gravou pela primeira vez em 1953: em 1946 participou num disco não comercial gravado no Emissor Regional de Coimbra e, no verão de 1951, gravou em São Paulo um disco de 75 rpm",
+      "data": "1946",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/primeiras-gravacoes-comerciais-de.html",
+          "doc": "gc-v:7736340404091087697",
+          "citacao": "Camacho Vieira não entrou em estúdio nem gravou pela primeira vez em 1953. ... Em 1946, conjuntamente com Ângelo Araújo, participara num disco (não comercial) gravado nos estúdios do Emissor Regional de Coimbra com José Maria Amaral / Gabriel de Castro (ggC) e Eduardo Tavares de Melo (v) ... No verão de 1951, durante uma digressão do TEUC ao Brasil, gravou em São Paulo um disco de massa de 75 rpm (Marques Inácio: 2011, 268), acompanhado por Manuel Branquinho (gC) e Eduardo Tavares de Melo (v)"
+        }
+      ],
+      "conflito": true,
+      "nota": "Post de António Manuel Nunes (2019), que cita a fotobiografia de Marques Inácio (2011). Jorge Cravo diz que gravou o primeiro disco em 1953."
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Quatro temas de Carlos de Figueiredo em 78 rpm (Columbia ML 177 e ML 178), gravados em Lisboa na Valentim de Carvalho, com Petrónio Ricciulli e Egas Berrance (guitarras) e Carlos de Figueiredo (viola); viagem a Lisboa a 23 de maio de 1953; discos lançados em 1954",
+      "data": "1953-05-23",
+      "local": "Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/11/primeiras-gravacoes-comerciais-de.html",
+          "doc": "gc-v:7736340404091087697",
+          "citacao": "Num sábado, 23 de maio de 1953, rumaram a Lisboa, de combóio, Camacho Vieira (cantor), Carlos de Figueiredo (autor musical e viola), Petrónio Ricciulli (1º gC) e Egas Berrance (2º gC). ... Os discos só viriam a ser lançados no mercado nacional e internacional em 1954. ... Disco de 78 rpm Columbia ML 177, CP 1089. ... Disco de 78 rpm Columbia ML 178, CP 1091."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Próximo da minha formatura, em 1953, sou convidado pelo Carlos Figueiredo a gravar em Lisboa, na casa \"Valentim de Carvalho\" e em 78 rpm, 4 \"fados\" da sua autoria: \"Sonhando\", \"Mágoa\", \"A tua Rua\", e com letra do Fernando Quintela, \"Sé Velha\"."
+        }
+      ],
       "conflito": false,
-      "nota": "Texto de Jorge Cravo, revista Fadista n.º 6 (2024)."
+      "nota": "A data é a da viagem a Lisboa para a gravação, segundo o post de 2019."
+    },
+    {
+      "campo": "nascimento",
+      "valor": "Miranda do Corvo, 23 de novembro de 1924",
+      "data": "1924-11-23",
+      "local": "Miranda do Corvo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Por AUGUSTO CAMACHO VIEIRA (cantor, nasceu em Miranda do Corvo a 23/11/1924."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Augusto Camacho Vieira (Miranda do Corvo, 23/11/1924), após frequência do Liceu da Figueira da Foz, matricula-se em Medicina."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de apresentação de António M. Nunes ao testemunho do cantor (2005) e cronologia de António José Soares e António Manuel Nunes."
+    },
+    {
+      "campo": "morte",
+      "valor": "Carnaxide, Lisboa, na sua residência, 13 de março de 2018",
+      "data": "2018-03-13",
+      "local": "Carnaxide, Lisboa",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/03/obituario-faleceram-hoje-em-lisboa-os.html",
+          "doc": "gc-v:1660736353436233264",
+          "citacao": "Faleceram hoje em Lisboa os Drs.: AUGUSTO CAMACHO VIEIRA O Dr. Camacho Vieira faleceu na sua residência, em Carnaxide, Lisboa."
+        }
+      ],
+      "conflito": false,
+      "nota": "O dia é o da data do post (13-03-2018), que diz «Faleceram hoje». Informação enviada por Pedro Rolim, segundo o post."
+    },
+    {
+      "campo": "outro",
+      "valor": "Funeral para o cemitério do Alto de São João, Lisboa (14-03-2018); trasladação dos restos mortais para o Mausoléu da Câmara Municipal de Coimbra, no Cemitério da Conchada, anunciada para 18 de maio de 2019",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2018/03/obituario-faleceram-hoje-em-lisboa-os.html",
+          "doc": "gc-v:1660736353436233264",
+          "citacao": "O funeral sai da igreja de S. João de Brito para o cemitério do Alto de São João, Lisboa, pelas 15.00h do dia 14.03.2018."
+        },
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2019/04/trasladacao-dos-restos-mortais-do-dr.html",
+          "doc": "gc-v:6774511436930844551",
+          "citacao": "os restos mortais do Dr. Augusto Camacho Vieira, antigo estudante da UC, médico e cantor, serão trasladados para Coimbra no dia 18 de maio de 2019, sábado, pelas 16:00h. O corpo será inumado no Mausoléu da Câmara Municipal de Coimbra, no Cemitério da Conchada"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "formacao",
+      "valor": "Liceu da Figueira da Foz; 7.º ano no Liceu D. João III (1944-1945); Faculdade de Medicina da UC (1945 a 1953-1954); licenciado em Medicina pela UC em 1954",
+      "data": "1954",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Licenciado em Medicina pela UC em 1954. ... Fui para Coimbra em 1944 para concluir o sétimo ano, no Liceu D. João III, no ano lectivo 1944-1945, tendo sido aprovado no concurso para a Universidade no ano de 1945, onde iniciei os meus estudos na Faculdade de Medicina que concluí no ano lectivo de 1953-1954."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Augusto Camacho Vieira (Miranda do Corvo, 23/11/1924), após frequência do Liceu da Figueira da Foz, matricula-se em Medicina."
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia põe a matrícula em Medicina na secção «1945»."
+    },
+    {
+      "campo": "profissao",
+      "valor": "Médico em Lisboa; destacou-se na Medicina Desportiva e Ortopédica",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Exerce em Lisboa, tendo-se destacado nos campos da Medicina Desportiva e Ortopédica."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de apresentação de António M. Nunes ao testemunho (2005), que remete para Armando Moreno, «História da Ortopedia Portuguesa» (2003)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Cultor da Canção de Coimbra e compositor amador; antigo membro da TAUC e do Orfeon de Raposo Marques",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Cultor da CC e compositor amador. Antigo membro da TAUC e do Orfeon de Raposo Marques."
+        }
+      ],
+      "conflito": false,
+      "nota": "Nota de apresentação de António M. Nunes ao testemunho (2005)."
+    },
+    {
+      "campo": "estreia",
+      "valor": "Primeira atuação pública: sarau da Casa dos Estudantes do Império, no Teatro Avenida, em março de 1946",
+      "data": "1946-03",
+      "local": "Coimbra, Teatro Avenida",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Caloiro de Medicina, em Março de 1946, surgi pela primeira vez no Teatro Avenida a cantar “fados” num sarau promovido pela Casa dos Estudantes do Império"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Março, Augusto Camacho Vieira faz a sua estreia pública num sarau realizado pela Casa dos Estudantes do Império."
+        }
+      ],
+      "conflito": false,
+      "nota": "A cronologia põe a entrada na secção «1946»."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Primeira serenata de Coimbra transmitida pela rádio, da Sé Velha, em dezembro de 1946 (Emissora Nacional / Emissor Regional de Coimbra)",
+      "data": "1946-12",
+      "local": "Coimbra, Sé Velha",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "em Dezembro de 1946, participei na primeira Serenata de Coimbra com transmissão directa da Sé Velha, pela Emissora Nacional e através do Emissor Regional de Coimbra."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Em Dezembro, o Emissor Regional de Coimbra transmite a primeira serenata radiofónica, gravada ao vivo nas escadarias da Sé Velha. Assegurou a prestação o cantor Camacho Vieira."
+        }
+      ],
+      "conflito": false,
+      "nota": "No testemunho, o cantor diz que cantou com Jorge Gouveia, acompanhados por Carvalho Homem e Gabriel de Castro (guitarras) e Tavares de Melo e Aurélio Reis (violas)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Orfeon Académico (primeiros tenores desde 1945, depois o Grupo de Fados do Orfeon) e Tuna Académica (primeiros bandolins, que deixou em 1946 pelo grupo de fados da Tuna)",
+      "data": "1945",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Nesse ano de 1945 fui integrado no naipe dos primeiros tenores do Orfeon Académico, após prestação de provas conduzidas pelo Manuel Julião, tendo sido mais tarde requisitado para o Grupo de Fados desse organismo. ... depressa fiz parte do naipe dos primeiros bandolins da Tuna Académica, que deixei em 1946, para me integrar no grupo de fados desse organismo cultural académico."
+        }
+      ],
+      "conflito": false,
+      "nota": "Testemunho do próprio cantor (2002/2005)."
+    },
+    {
+      "campo": "atividade",
+      "valor": "Inscreve-se no naipe de bandolas da TAUC (1948)",
+      "data": "1948",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "Augusto Camacho Vieira, de Medicina, inscreve-se no naipe de bandolas da TAUC."
+        }
+      ],
+      "conflito": false,
+      "nota": "Entrada da secção «1948» da cronologia de António José Soares e António Manuel Nunes. O testemunho do cantor fala de bandolins, que deixou em 1946."
+    },
+    {
+      "campo": "atuacao",
+      "valor": "Digressão do TEUC ao Brasil (1951), no grupo de fados com Napoleão Amorim, acompanhados por Manuel Branquinho (guitarra) e Tavares de Melo (viola)",
+      "data": "1951",
+      "local": "Brasil",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Manuel Branquinho; cantor e guitarrista que no ano de 1951 fez parte do grupo de \"fados\" convidado a participar na digressão do TEUC ao Brasil. Neste grupo, em que participei com o Napoleão Amorim, fomos acompanhados à guitarra por Manuel Branquinho e à viola pelo Tavares de Melo."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "gravacao",
+      "valor": "Grava em 1992 «Serenata (Na noite cheia de mágoa)», com título, letra e música alterados por ele a partir de «Cegueira minha» (música de João Carlos Bagão Moisés, letra de Leonel Neves, 1953), com António Brojo e António Portugal (guitarras) e Aurélio Reis e Luís Filipe Roxo (violas)",
+      "data": "1992",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/perdidos-e-achados-ttulos-e-letras.html",
+          "doc": "gc-i:115499186423197692",
+          "citacao": "CEGUEIRA MINHA ... Música: João Carlos Bagão Moisés ... Letra: Leonel Carlos Duarte Neves ... Data: 1953"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/perdidos-e-achados-ttulos-e-letras.html",
+          "doc": "gc-i:115499186423197692",
+          "citacao": "Estes são os primeiros versos especificamente destinados a temas da Canção de Coimbra, título e letra integrais, que foram feitos pelo Dr. Leonel Neves para o seu amigo João Carlos Bagão, corria o ano de 1953. ... Mais tarde, o Dr. Augusto Camacho alterou o título e letra e bem assim a música e veio a gravá-lo, na forma e título por que é conhecido, Serenata (Na noite cheia de mágoa), em 1992, com acompanhamento de António Brojo/António Portugal (gg) e Aurélio Reis/Luís Filipe Roxo (vv)."
+        }
+      ],
+      "conflito": false,
+      "nota": "Inventário «Perdidos e Achados», de José Anjos e Carvalho e António Manuel Nunes (gc-i, 2006), na entrada «Cegueira minha»."
     },
     {
       "campo": "gravacao",
@@ -114,6 +414,25 @@
         }
       ],
       "nota": "cantor (CD de 1997)"
+    },
+    {
+      "tipo": "tocou_com",
+      "alvo": "antonio-brojo",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/testemunhos-de-um-cantor-em-coimbra.html",
+          "doc": "gc-i:113595198912461051",
+          "citacao": "Apresentaram-me o Brojo no ano de 1944-1945 quando ele era ainda aluno do Liceu D. João III e eu caloiro em Medicina, tendo iniciado com ele o \"fado serenata\". Éramos requisitados e lá íamos actuando ao sabor da arte"
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/canes-e-guitarradas-nas-dcadas-de-1930.html",
+          "doc": "gc-i:116638481779194072",
+          "citacao": "António Brojo constitui grupo com Júlio Sequeira Mendes, o liceal Arnaldo Passos (g), Tavares de Melo e Aurélio dos Reis. Colaboram com esta formação os cantores Camacho Vieira, Anarolino Fernandes, Alcides Santos e Alexandre Herculano."
+        }
+      ],
+      "nota": "Desde 1944-1945, segundo o testemunho do cantor; a cronologia põe o grupo de Brojo com Camacho Vieira na secção «1947»."
     }
   ],
   "imagens": [
