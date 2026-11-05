@@ -38,7 +38,20 @@
       "nota": "voz; fundador (1990), ainda no grupo em 2013"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Carlos%20Pedro%202.jpg",
+      "legenda": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-alma-mater-ontem-no-quebra.html",
+          "doc": "gc-i:112259439330268263",
+          "citacao": "Grupo \"Alma Mater\", ontem, no Quebra-Costas. Canta Carlos Pedro; na guitarra está Fernando Marques e na viola António Paulo Lopes."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

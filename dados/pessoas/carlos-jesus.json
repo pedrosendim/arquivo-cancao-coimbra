@@ -29,7 +29,20 @@
       "nota": "guitarra; 2005"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/AEMINIUM%20Jesus%201.jpg",
+      "legenda": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/quarteto-aeminium-ontem-no-quebra_15.html",
+          "doc": "gc-i:112138920492111975",
+          "citacao": "Quarteto Aeminium, ontem, no Quebra-Costas. Carlos Jesus na guitarra, Paulo Larguesa na viola e a cantar, Felisberto Queirós e Mário Gomes Pais."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

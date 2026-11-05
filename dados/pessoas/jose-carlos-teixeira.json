@@ -36,7 +36,20 @@
       "nota": "guitarra (e viola); fundador, 1972-1994 e depois"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9S9LXpXvsnXhe-tTPP0wfRnhrBcBJtEW_hlVgEsYawl0FS32CoHMqeV75fL132ywnW6RhZPMZErpjbi-DYIs4X1lLQyLRgKJmiy2tgH3EYZePFrUw60o9QFjPHIrdWLWkJdM1wFeGieM4/s1600-h/Jose+Carlos+Teixeira+perfil.jpg",
+      "legenda": "José Carlos Teixeira",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2009/01/jose-carlos-teixeira.html",
+          "doc": "gc-ii:4947414926926462482",
+          "citacao": "José Carlos Teixeira, professor universitário e director geral da MediaPrimer ... Estas viagens de que fala deve-as em parte ao grupo Tertúlia do Fado de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

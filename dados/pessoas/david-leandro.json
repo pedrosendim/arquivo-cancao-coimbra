@@ -52,7 +52,20 @@
       "nota": "guitarra (2003-2006)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYm331uK0hNV7DYAHHkWC663C9zwfA9KDhDqQd_cMJnbDKbaarHwjH5wFZSd7eNdgFGd0A49NsKvk4pFDFYluM9u7yUEM30TMw0C74kFh3OVyanW4nNJGyTrGnS8JAq2oQNj3fTSubpv30/s1600/DL+Serenata+Monumental+2014.jpg",
+      "legenda": "David Leandro",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/06/david-leandro.html",
+          "doc": "gc-v:7128247444754777278",
+          "citacao": "David Leandro"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

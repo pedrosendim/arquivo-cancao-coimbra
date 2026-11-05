@@ -39,7 +39,20 @@
       "nota": "viola; 1994 a 2005"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Instrumentistas%202.jpg",
+      "legenda": "Os instrumentistas de serviço, ontem, no Arco de Almedina: António Paulo Lopes na viola e António José Moreira na guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/09/os-instrumentistas-de-servio-ontem-no.html",
+          "doc": "gc-i:112622343476412975",
+          "citacao": "Os instrumentistas de serviço, ontem, no Arco de Almedina: António Paulo Lopes na viola e António José Moreira na guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

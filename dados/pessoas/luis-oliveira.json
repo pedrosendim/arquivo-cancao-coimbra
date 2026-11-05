@@ -29,7 +29,20 @@
       "nota": "guitarra; 2005-2013"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Luis%20Oliveira%201.jpg",
+      "legenda": "Grupo Romance, no Quebra-Costas, esta quinta-feira. Luís Oliveira toca guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405700215935758.html",
+          "doc": "gc-i:115405700215935758",
+          "citacao": "Grupo Romance, no Quebra-Costas, esta quinta-feira. Luís Oliveira toca guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

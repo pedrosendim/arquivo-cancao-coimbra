@@ -89,7 +89,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://www.museudofado.pt/media/2025/6/susana-neves-luisa-amaro-baixo.jpeg",
+      "legenda": "Luísa Amaro - Sons da Guitarra",
+      "fontes": [
+        {
+          "fonte": "museu-do-fado",
+          "url": "https://www.museudofado.pt/fado/personalidade/carlos-paredes",
+          "doc": "museu-do-fado:wad578bdde21350e7",
+          "citacao": "LUÍSA AMARO - Sons da Guitarra"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

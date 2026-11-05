@@ -189,14 +189,15 @@ export function contribuir(el) {
         ${tarefa('Ligar duas pessoas: família, mestres, parcerias', [
           html`Na ficha, em ${b('Acrescentar')}, carregue em ${b('Relação')}.`,
           'Escolha o tipo (é filho/a de, foi aluno/a de, tocou com…).',
-          'Comece a escrever o nome da outra pessoa e escolha-a na lista; se ainda não tiver ficha, a última opção cria-a.',
+          html`Comece a escrever o nome da outra pessoa e escolha-a na lista. Se não estiver lá, carregue em ${b('Não está na lista? Criar pessoa nova')}: abre uma janela, sem sair do formulário.`,
           html`Indique como sabe. A árvore da família atualiza-se sozinha.`,
         ], ['Escolher uma pessoa', '#/pessoas'])}
         ${tarefa('Trocar ou acrescentar uma fotografia', [
           html`Na ficha, em ${b('Imagens')}: noutra imagem, ${b('Usar como retrato')}; numa imagem errada, ${b('Esconder')}, a dizer porquê (não se apaga).`,
-          html`Para uma fotografia nova, em ${b('Acrescentar')}, carregue em ${b('Fotografia')} e cole o endereço da imagem.`,
+          html`Para ver bem a cara, carregue em ${b('Ajustar o retrato')}, por baixo da fotografia: arraste e aproxime. A fotografia não muda, só o enquadramento.`,
+          html`Para uma fotografia nova, em ${b('Acrescentar')}, carregue em ${b('Fotografia')}. Pode usar ${b('Procurar no Facebook')} ou ${b('Procurar imagens')} e depois cole o endereço da imagem.`,
           'Cole também o endereço da página onde ela está publicada: o arquivo mostra sempre de onde vem cada imagem.',
-        ], null, 'No telemóvel nem sempre se consegue copiar o endereço de uma imagem: cole antes o endereço da página da imagem na Wikimedia Commons.')}
+        ], null, 'As ligações às imagens do Facebook e do Instagram deixam de funcionar ao fim de algum tempo. No telemóvel nem sempre se consegue copiar o endereço de uma imagem: cole antes o endereço da página da imagem na Wikimedia Commons.')}
       </div></section>
 
     <section class="seccao"><h2>Para os editores</h2>
@@ -225,7 +226,7 @@ export function contribuir(el) {
       <ul>
         <li><b>Propor uma fonte</b>: em ${b('Fontes e arquivo')}, no fim da página, ${b('Propor uma fonte')} (um livro, um jornal, o site de uma instituição
           ou de um artista; redes sociais, fóruns e lojas não servem).</li>
-        <li><b>Corrigir o nome, o título, os autores ou as faixas</b>: ${b('✎ Corrigir os dados')}, no topo da ficha (nas pessoas, ${b('✎ Corrigir nome, outros nomes e papéis')}).</li>
+        <li><b>Corrigir o nome, o título, os autores ou as faixas</b>: ${b('✎ Corrigir os dados')}, no topo da ficha (nas pessoas, ${b('✎ Corrigir nome, outros nomes e atributos')}).</li>
         <li><b>Juntar duas fichas da mesma pessoa, ou separar uma que mistura duas</b>: na ficha, a secção ${b('Desambiguação')}
           (nas pessoas, também o atalho ${b('Desambiguar…')}, no topo).</li>
         <li><b>Indicar um artigo onde a pessoa aparece</b>: em ${b('Acrescentar')}, ${b('Referência')}. É leitura indicada, não fonte.</li>

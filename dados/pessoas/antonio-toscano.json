@@ -276,7 +276,20 @@
       "nota": "viola nos LP «Canções do Mar e da Vida» (1969) e «Canções de Amor e de Esperança» (1971); a primeira citação é de um texto de Jorge Cravo reproduzido no GC-V (2021). Também nas gravações de março de 1967 e no programa de televisão «Canção de Coimbra - Anos 80»."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/PA280888.jpg",
+      "legenda": "Comemoração dos 125 anos do Orfeon Académico, no passado dia 26 deste mês. António Toscano, antigo orfeonista, marcou presença.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/comemorao-dos-125-anos-do-orfeon.html",
+          "doc": "gc-i:116224780691816642",
+          "citacao": "Comemoração dos 125 anos do Orfeon Académico, no passado dia 26 deste mês. António Toscano, antigo orfeonista, marcou presença."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

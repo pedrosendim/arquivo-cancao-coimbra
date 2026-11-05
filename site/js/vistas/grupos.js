@@ -26,9 +26,9 @@ function formacaoCurta(g) {
 }
 
 function avatar(p) {
-  const img = p.imagens?.[0]?.url;
+  const im = p.imagens?.[0], img = im?.url;
   return img
-    ? html`<span class="avatar" title="${p.nome}">${imagemCartao(miniatura(img, 120))}</span>`
+    ? html`<span class="avatar" title="${p.nome}">${imagemCartao(miniatura(img, 120), { im })}</span>`
     : html`<span class="avatar" title="${p.nome}">${iniciais(p.nome)}</span>`;
 }
 
@@ -53,7 +53,7 @@ export function grupos(el, params) {
     $('#total').textContent = `${plural(lista.length, 'grupo', 'grupos')}${q.trim() ? ` com «${q.trim()}»` : ''}`;
     $('#grelha').innerHTML = html`${lista.map((g) => {
       const membros = membrosDe(g.id).map((m) => E.por.pessoas[m.outro]).filter(Boolean);
-      return html`<a class="cartao" href="#/pessoa/${g.id}">${retrato(g)}
+      return html`<a class="cartao" href="#/pessoa/${g.id}">${retrato(g, 'retrato de-grupo')}
         <div class="cartao-corpo"><h3>${g.nome}</h3>
           ${vida(g) ? html`<p class="meta">${vida(g)}</p>` : ''}
           ${formacaoCurta(g) ? html`<p class="meta formacao" title="Formação, nas palavras da fonte">${formacaoCurta(g)}</p>` : ''}

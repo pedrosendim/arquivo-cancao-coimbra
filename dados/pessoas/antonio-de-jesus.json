@@ -60,7 +60,20 @@
       "nota": "guitarra; fundador"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%2051.jpg",
+      "legenda": "Grupo de Fados \"Guitarras de Coimbra\", no Arco de Almedina. António Jesus fala aos assistentes.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-guitarras-d_112181720418373450.html",
+          "doc": "gc-i:112181720418373450",
+          "citacao": "Grupo de Fados \"Guitarras de Coimbra\", no Arco de Almedina. António Jesus fala aos assistentes."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

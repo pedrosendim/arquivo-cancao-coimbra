@@ -299,7 +299,20 @@
       "nota": "voz; desde os inícios (1972)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/L1020531.jpg",
+      "legenda": "Antigos Tunos na Mealhada, ontem. Canta Victor Nunes. Foto de Armando Duarte.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/10/antigos-tunos-na-mealhada-_113069025287040822.html",
+          "doc": "gc-i:113069025287040822",
+          "citacao": "Antigos Tunos na Mealhada, ontem. Canta Victor Nunes. Foto de Armando Duarte."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

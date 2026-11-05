@@ -38,6 +38,12 @@ export function temTodas(texto, termos) {
   return termos.every((p) => (p.length <= 2 ? t.includes(' ' + p) : t.includes(p)));
 }
 
+/** O enquadramento 1:1 de uma fotografia (imagens[].recorte, ver recorte.js), igual em todos os retratos. */
+export const estiloRecorte = (im) => {
+  const r = im?.recorte;
+  return r ? `object-position:${+r.x}% ${+r.y}%;transform-origin:${+r.x}% ${+r.y}%;transform:scale(${+r.zoom})` : '';
+};
+
 /** Endereço http(s) normalizado (sem tabulações nem quebras de linha), ou null para javascript:, data: e afins. */
 export function enderecoSeguro(u) {
   if (!u) return null;
@@ -53,7 +59,7 @@ export const fundo = (u) => esc((enderecoSeguro(u) || '').replace(/'/g, '%27').r
 export const debounce = (fn, ms = 250) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 export const plural = (n, um, varios) => `${n.toLocaleString('pt-PT')} ${n === 1 ? um : varios}`;
 
-const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+export const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
 export function fmtData(d, curta = false) {
   if (!d) return '';
   const [a, m, dd] = String(d).slice(0, 10).split('-');

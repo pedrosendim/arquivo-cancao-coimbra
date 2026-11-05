@@ -75,10 +75,10 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 ```
 
 - `tipo`: `pessoa` | `grupo`.
-- `papeis`: `guitarrista`, `violista`, `cantor`, `compositor`, `letrista`, `poeta`, `luthier`, `investigador`, `colecionador`, `editor`, `professor`, `agrupamento`, `outro`.
+- `papeis`: `guitarrista`, `violista`, `cantor`, `compositor`, `letrista`, `poeta`, `luthier`, `investigador`, `colecionador`, `editor`, `professor`, `agrupamento`, `outro`. São os atributos da pessoa: pode ter vários ou nenhum, e cada um aparece como um ícone na ficha, nas listas e nas árvores (`site/js/icones.js`; `outro` não tem ícone).
 - `relacoes.tipo` (guarda-se só num sentido, o site mostra o inverso):
   - família: `filho_de`, `irmao_de`, `conjuge_de`, `neto_de`, `sobrinho_de`, `primo_de`
-  - ensino/escola: `aluno_de`, `influenciado_por`
+  - ensino/escola: `aluno_de`, `influenciado_por`. Nas Linhagens, as escolas separam-se por área (guitarra, viola, canto, construção de instrumentos) a partir dos `papeis`: a ligação fica na área comum ao mestre e ao aluno ou, se não houver, na área principal do aluno. As influências só se mostram a pedido.
   - música: `tocou_com`, `acompanhou`, `membro_de`
 - `estado_revisao`: o agente escreve sempre `rascunho`. Só o utilizador muda para `revisto`.
 
@@ -125,10 +125,22 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
   "genero": "fado | balada | cancao | serenata | guitarrada | variacoes | estudo | outro",
   "musica": ["id-pessoa"], "letra": ["id-pessoa"], "ano": "",
   "letra_texto": { "...Citação com a letra completa, copiada literalmente..." },
+  "letras": [ { "id": "como-canta-luiz-goes", "rotulo": "Como canta Luiz Goes", "citacao": "o texto completo da letra", "...": "ver abaixo" } ],
   "factos": [], "fontes": [],
   "estado_revisao": "rascunho"
 }
 ```
+
+Uma obra pode ter várias versões da letra (letras ligeiramente diferentes, quadras diferentes):
+
+- `letra_texto` continua válido e mostra-se como a **primeira versão**, com o `id` reservado `letra-texto`. Pode ter `rotulo`; sem ele, o site diz «Publicada em <fonte>». Não se migra para `letras`.
+- `letras[]` = `{ id, rotulo, citacao, fonte, url, doc?, referencia?, acrescentada?, editorial?, nota?, notas_editoriais? }`:
+  - `id`: curto, único na obra (minúsculas, sem acentos, hífens). `rotulo`: que versão é, em poucas palavras («Como canta Luiz Goes», «Versão de 1958», «Com a quadra do Mondego»).
+  - `citacao`: o texto completo da letra. Um verso em cada linha e uma linha em branco entre as quadras (é assim que a comparação de versões as alinha).
+  - **Com fonte**, é uma Citação normal: `fonte`, `url`, `doc` e, se foi acrescentada no modo de edição, `acrescentada`. O `validar.py` confere-a como a `letra_texto`.
+  - **Transcrita de ouvido ou sabida de cor**, é um testemunho: sem fonte, com `editorial` assinado por quem a escreveu (✎). Como os outros testemunhos, nunca se cita nem serve para deduzir nada.
+  - `notas_editoriais[]`: quando um editor corrige a versão de outra pessoa, a assinatura dela não muda e a correção fica aqui, assinada (`{ por, data, texto }`).
+- No modo de edição, cada autor corrige ou retira as suas versões, e um editor qualquer uma. Retirar uma versão tira-a também dos vídeos e áudios que a cantavam.
 
 ## Media (`dados/media/<id>.json`)
 
@@ -140,6 +152,7 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
   "url": "https://…",
   "titulo": "…", "data": "AAAA[-MM[-DD]]",
   "pessoas": ["id"], "obras": ["id"], "gravacao": "",
+  "letras": { "<id da obra>": "<id da versão>" },
   "fontes": [ { "...Citação (o post que publica/descreve o media)..." } ],
   "estado_revisao": "rascunho"
 }
@@ -148,6 +161,7 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 Os vídeos e imagens **embutidos nos blogues** já ficam catalogados automaticamente pelo `indexar.py` (tabela `media` do índice). Só se cria um ficheiro em `dados/media/` quando se identifica com segurança, a partir da fonte, quem toca, o quê e quando.
 
 - A plataforma é só um rótulo: o site reconhece-a pelo endereço.
+- `letras` (opcional): que versão da letra se canta neste vídeo ou áudio, por obra (`id` de `obras[].letras`, ou `letra-texto`). Quem não escolhe versão fica sem o campo: o leitor mostra a primeira versão da obra, e pode trocar-se. A obra tem de estar também em `obras`. Uma obra ou uma versão que já não exista, ou uma obra fora de `obras`, dá um aviso do `validar.py`, que não pára a publicação.
 - O mesmo vídeo ou faixa (o mesmo endereço) tem uma só ficha. Noutra edição do mesmo registo, a faixa usa o id dessa ficha em `faixas[].media`.
 - Um media retirado do catálogo por um editor fica em `dados/excluidos.json` (ver «Contribuições humanas») e não se volta a criar.
 
@@ -275,7 +289,7 @@ Os papéis:
 Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota": "porquê (opcional)" }`. Vai nestes campos:
 
 - `relacoes[].editorial`: relação indicada por um contribuidor. Leva `"fontes": []`.
-- `fontes[].acrescentada`: citação acrescentada por um contribuidor, que escolheu uma fonte aprovada e copiou a frase. Pode ter `referencia` (por exemplo «p. 45»). Se a página estiver arquivada, a citação é verificada como as outras; se não estiver, ou se foi acrescentada online e a cópia local ainda não a viu, fica por verificar (ver «Verificação das citações»).
+- `fontes[].acrescentada`: citação acrescentada por um contribuidor, que escolheu uma fonte aprovada e copiou a frase. Pode ter `referencia` (por exemplo «p. 45»). Um livro, um artigo ou um documento sem endereço fica com `url` vazio e, se ainda não estiver no registo, entra como fonte `pendente`. Se a página estiver arquivada, a citação é verificada como as outras; se não estiver, ou se foi acrescentada online e a cópia local ainda não a viu, fica por verificar (ver «Verificação das citações»).
 - `editorial` no topo de uma ficha (de qualquer tipo): ficha criada no modo de edição. Só se pode apagar enquanto não tiver factos.
 - `factos[].editorial`: **testemunho** de um contribuidor (o que sabe sem fonte), com `nota` a dizer como sabe. Leva `"fontes": []`.
   Nascimento e morte entram como factos (`campo`, `valor`, `data`, `local`); uma versão diferente de outra já registada fica com
@@ -292,6 +306,7 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
 - `imagens[].editorial`: fotografia acrescentada. Leva `origem`, a página onde a fotografia está publicada.
 - `imagens[].escolhida`: quem escolheu esta imagem para retrato. O retrato é sempre a primeira imagem da lista.
 - `imagens[].oculta`: imagem escondida, por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro.
+- `imagens[].recorte` = `{ por, data, x, y, zoom }`: o enquadramento 1:1 do retrato, escolhido no site com «Ajustar o retrato». `x` e `y` vão de 0 a 100 e `zoom` de 1 a 5. A fotografia continua no site de origem: só se guarda o enquadramento.
 - `factos[].nota_editorial` = `{ por, data, texto }`: nota sobre um facto, sobretudo nos casos de divergência entre fontes.
 - `nota_editor` com `nota_editor_por`/`nota_editor_em`. As notas sem `_por` são do dono.
 - Notas assinadas em lista (as novas): `notas_editor[]` no topo de uma ficha (de qualquer tipo) e `factos[].notas_editoriais[]`,

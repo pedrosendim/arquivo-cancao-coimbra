@@ -215,7 +215,20 @@
       "nota": "viola (1994); também no disco «Baladas de Despedida – Anos 90»"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20com%20saxofone%201.jpg",
+      "legenda": "Grupo de Fados da Tuna nas Escadas de Santiago, ontem. Adamo Caetano a cantar, acompanhado por João Calha em saxofone, Ricardo Rodrigues à guitarra e Marco Matos à viola.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-da-tuna-nas_112121177724539156.html",
+          "doc": "gc-i:112121177724539156",
+          "citacao": "Grupo de Fados da Tuna nas Escadas de Santiago, ontem. Adamo Caetano a cantar, acompanhado por João Calha em saxofone, Ricardo Rodrigues à guitarra e Marco Matos à viola."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

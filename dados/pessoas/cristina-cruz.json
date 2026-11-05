@@ -32,7 +32,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/de%20lado%204.jpg",
+      "legenda": "Grupo de Fados \"Guitarras de Coimbra\", no Arco de Almedina. Cristina Cruz canta um fado de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-de-fados-guitarras-d_112181735143388141.html",
+          "doc": "gc-i:112181735143388141",
+          "citacao": "Grupo de Fados \"Guitarras de Coimbra\", no Arco de Almedina. Cristina Cruz canta um fado de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

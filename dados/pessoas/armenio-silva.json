@@ -50,7 +50,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdPJl2RUOTDM90oIt1ysYaSkIeeIuIxd9tYHnZ8_8kf76VE7BvNU7xQzynmA0QQTuRC6PvVGiZzPHqKfnIqcJLJ4NS6P67sKQIeMQiJYn0WpDCeuSdPZuABWYNX3uRcD4edS4DMt8e62Q3/s1600/Paradela-de-OliveiraJBagao.jpg",
+      "legenda": "Paradela de Oliveira cantando com João Bagão na guitarra. O viola é Arménio Silva.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/09/paradela-de-oliveira-cantando-com-joao.html",
+          "doc": "gc-iv:1760929393971976231",
+          "citacao": "Paradela de Oliveira cantando com João Bagão na guitarra. ... O viola é Arménio Silva."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

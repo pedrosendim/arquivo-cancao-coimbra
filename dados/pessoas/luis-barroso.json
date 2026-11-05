@@ -62,7 +62,20 @@
     {"tipo": "acompanhou", "alvo": "joao-farinha-1976", "fontes": [{"fonte": "gc-iv", "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/joao-farinha-c-luis-barroso-g-e-luis.html", "doc": "gc-iv:4053923630858853141", "citacao": "João Farinha (c), Luís Barroso (g) e Luís Carlos (v), vão estar amanhã nas escadas da Igreja de Santiago."}], "nota": "2012"},
     {"tipo": "acompanhou", "alvo": "francisco-costa", "fontes": [{"fonte": "cm-coimbra", "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf", "doc": "cm-coimbra:w49adfd40b3069844", "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)"}], "nota": "espetáculo «Imperfeito», 2022"}
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Antnio%20Atade,%20Lus%20Barroso%20e%20Pedro%20Lopes%202.jpg",
+      "legenda": "Noite no àCapella, ontem. Luís Barroso na guitarra e Pedro Lopes na viola, acompanham António Ataíde numa canção de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/noite-no-capella-ontem_112276912111305439.html",
+          "doc": "gc-i:112276912111305439",
+          "citacao": "Noite no àCapella, ontem. Luís Barroso na guitarra e Pedro Lopes na viola, acompanham António Ataíde numa canção de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [
     {"rotulo": "Discogs: Luís Barroso", "url": "https://www.discogs.com/artist/6023714"}
   ],

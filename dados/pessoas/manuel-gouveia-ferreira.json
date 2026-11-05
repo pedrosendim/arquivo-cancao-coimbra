@@ -35,7 +35,20 @@
       "nota": "viola; desde 1981 até à morte em 2019"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Cravo%20Gouveia%20Foto.jpg",
+      "legenda": "CD \"Canções d'Inquietude\". Foto de Manuel Gouveia Ferreira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cd-canes-dinquietude_113535216064574506.html",
+          "doc": "gc-i:113535216064574506",
+          "citacao": "CD \"Canções d'Inquietude\". Foto de Manuel Gouveia Ferreira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

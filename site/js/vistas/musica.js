@@ -11,7 +11,7 @@ import { botaoHistorico } from '../historico.js';
 import { botaoRevisao, barraRevisao } from '../revisao.js';
 import { naoEncontrada, semResultados } from './procurar.js';
 // leitura das fichas de disco, obra e instrumento: selo de revisão, partilhar e citar, ano dos discos a partir dos factos
-import { seloRevisao, botoesPartilha, anoGravacaoHtml, anoCurto } from '../leitura.js';
+import { seloRevisao, botoesPartilha, anoGravacaoHtml } from '../leitura.js';
 import { anoGravacao as anoDeDisco } from '../estado.js';
 // listas: procura sem acentos e por qualquer ordem, filtros com os valores que existem nos dados
 import { opcoesDosDados, rotuloDe, tiposInstrumento, coincideCampos } from '../estado.js';
@@ -19,6 +19,8 @@ import { $$, termosProcura, temTodas, compararPt } from '../util.js';
 import { definirEscolhidos } from '../filtros.js';
 // media (P4): ouvir um disco ou comparar interpretações sem repetidos; cartões agrupados
 import { botaoOuvir, itensDoDisco, itensDaObra, cartoesMedia } from '../componentes.js';
+// letras: as versões da letra de uma obra e a mesma música em todos os sites
+import { seccaoLetra, seccaoInterpretacoes, versoesDe } from '../letras.js';
 
 const factosSimples = tabelaFactos;
 
@@ -125,40 +127,41 @@ export function listaObras(el, params) {
     el.innerHTML = html`<div class="conteudo"><header class="cabecalho"><p class="sobretitulo">Música</p><h1>Obras e letras</h1></header>${vazioCurado('obras')}</div>`.s;
     return;
   }
-  let q = params.q || '', generos = lerLista(params.genero);
+  let q = params.q || '', generos = lerLista(params.genero), comLetra = params.letra === '1';
+  const nComLetra = todas.filter((o) => versoesDe(o).length).length;
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Música</p><h1>Obras e letras</h1>
       ${editando() ? html`<p class="acoes-lista">${botaoNova('obras')}</p>` : ''}
       <p class="lead">Fados, baladas, serenatas e guitarradas. Em cada obra: autores, letra (quando a fonte a publica) e
         todas as interpretações catalogadas, para comparar lado a lado.</p></header>
     <div class="barra-filtros"><input class="campo" type="search" id="q" placeholder="Título ou autor" aria-label="Procurar nas obras" value="${q}">
-      ${filtroMultiplo({ id: 'genero', todos: 'Todos os géneros', unidade: ['género', 'géneros'], opcoes: opcoesCom(GENEROS, todas, 'genero'), escolhidos: generos })}</div>
+      ${filtroMultiplo({ id: 'genero', todos: 'Todos os géneros', unidade: ['género', 'géneros'], opcoes: opcoesCom(GENEROS, todas, 'genero'), escolhidos: generos })}
+      <button type="button" class="ficha" id="com-letra" aria-pressed="${String(comLetra)}">Com letra<span class="n">${nComLetra}</span></button></div>
     <p class="mudo total-lista" id="total" aria-live="polite"></p>
     <ul class="lista-simples" id="lista"></ul></div>`.s;
   const desenhar = () => {
     const termos = termosProcura(q);
-    const lista = todas.filter((o) => (!generos.length || generos.includes(o.genero)) && coincideCampos([o.titulo, ...(o.titulos_alternativos || []),
+    const lista = todas.filter((o) => (!generos.length || generos.includes(o.genero)) && (!comLetra || versoesDe(o).length) && coincideCampos([o.titulo, ...(o.titulos_alternativos || []),
       ...(o.musica || []).map(nomeDe), ...(o.letra || []).map(nomeDe)], termos));
     $('#lista').innerHTML = html`${lista.map((o) => {
-      const n = (E.faixasDeObra[o.id] || []).length + (E.mediaDeObra[o.id] || []).length;
+      const n = (E.faixasDeObra[o.id] || []).length + (E.mediaDeObra[o.id] || []).length, versoes = versoesDe(o).length;
       return html`<li><a href="#/obra/${o.id}" style="font:600 20px var(--f-titulo)">${o.titulo}</a>
         <span class="mudo">${[rotuloDe(GENEROS, o.genero), (o.musica || []).map(nomeDe).join(', '), o.ano].filter(Boolean).join(' · ')}</span>
-        ${o.letra_texto ? html`<span class="selo">letra</span>` : ''}${n ? html`<span class="selo ouro">${plural(n, 'interpretação', 'interpretações')}</span>` : ''}</li>`;
+        ${versoes ? html`<span class="selo">${versoes > 1 ? `letra: ${versoes} versões` : 'letra'}</span>` : ''}${n ? html`<span class="selo ouro">${plural(n, 'interpretação', 'interpretações')}</span>` : ''}</li>`;
     })}`.s || html`<li>${semResultados(q, 'Nenhuma obra')}</li>`.s;
     $('#total').textContent = textoTotal(lista.length, ['obra', 'obras'], q);
-    definirParams({ q, genero: generos.join(',') });
+    definirParams({ q, genero: generos.join(','), letra: comLetra ? '1' : '' });
   };
   $('#q').oninput = debounce((e) => { q = e.target.value; desenhar(); }, 150);
   $('#genero').addEventListener('filtro', (e) => { generos = e.detail; desenhar(); });
+  $('#com-letra').onclick = (e) => { comLetra = !comLetra; e.currentTarget.setAttribute('aria-pressed', String(comLetra)); desenhar(); };
   desenhar();
 }
 
-export function obra(el, id) {
+export function obra(el, id, params = {}) {
   const o = E.por.obras[id];
   if (!o && E.juntadas.obras?.[id]) { location.replace(`#/obra/${E.juntadas.obras[id]}`); return; }
   if (!o) { naoEncontrada(el, 'obras', id); return; }
-  const faixas = E.faixasDeObra[id] || [];
-  const media = E.mediaDeObra[id] || [];
   const itens = itensDaObra(id); // P4: uma por endereço (o mesmo vídeo noutro disco não se repete), só o que toca aqui
   el.innerHTML = html`<div class="conteudo estreito">${barraRevisao('obras', o)}
     <header class="cabecalho"><p class="sobretitulo">${GENEROS[o.genero] || 'Obra'}${o.ano ? ' · ' + o.ano : ''}</p><h1>${o.titulo}</h1>
@@ -171,22 +174,17 @@ export function obra(el, id) {
       <div class="acoes-topo">${botoesPartilha(o.titulo, o.estado_revisao)}${botaoCorrigir('obras', o.id)}${botaoHistorico('obras', o.id)}${botaoRevisao('obras', o)}${botaoNovoMedia({ obras: [o.id] })}
         ${itens.length > 1 ? html`<button class="botao primario" data-fila="${raw(dadosItem(itens))}">Comparar as ${itens.length} interpretações em sequência</button>` : ''}</div>
     </header>
-    ${o.letra_texto ? html`<section class="seccao"><h2>Letra</h2><div class="letra">${o.letra_texto.citacao}</div>
-      <p class="citacao-rodape">Transcrita literalmente de ${E.fontes[o.letra_texto.fonte]?.nome || o.letra_texto.fonte}${marcas([o.letra_texto])}</p></section>` : ''}
+    ${seccaoLetra(o, params.versao)}
     ${o.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(o.factos, { editar: editando() && `obras/${o.id}` })}
       ${editando() ? formFacto(`obras/${o.id}`) : ''}</section>` : ''}
     ${seccaoReferencias(o, `obras/${o.id}`)}
     ${dobraDesambiguar(seccaoDesambiguar('obras', o))}
-    ${faixas.length ? html`<section class="seccao"><h2>Gravações <small>por ano; sem ano no fim</small></h2><ul class="lista-simples">${[...faixas]
-      .sort((a, b) => (anoDeDisco(a.gravacao)?.ano ?? 9999) - (anoDeDisco(b.gravacao)?.ano ?? 9999)).map(({ gravacao: g, faixa }) => html`<li>
-      <span class="mono mudo">${anoCurto(g)}</span><a href="#/gravacao/${g.id}">${g.titulo}</a>
-      <span class="mudo">${(g.interpretes || []).map((i) => nomeDe(i.pessoa)).join(', ')}</span>
-      <span style="margin-left:auto;display:flex;gap:6px">${botoesMedia(faixa.media)}</span></li>`)}</ul></section>` : ''}
-    ${media.length ? html`<section class="seccao"><h2>Interpretações em vídeo e áudio</h2>${cartoesMedia(media)}</section>` : ''}
+    ${seccaoInterpretacoes(o)}
     ${o.fontes?.length ? html`<section class="seccao biografia"><h2>Fontes</h2>${o.fontes.filter((c) => c.citacao).map(blocoCitacao)}</section>` : ''}
     ${comArquivo() ? html`<section class="seccao"><a class="botao" href="#/arquivo?q=${encodeURIComponent('"' + o.titulo + '"')}">Pesquisar «${o.titulo}» no arquivo</a>
       <a class="botao" href="#/mediateca?q=${encodeURIComponent(o.titulo)}">Procurar vídeos no arquivo</a></section>` : ''}
   </div>`.s;
+  if (params.versao) requestAnimationFrame(() => $('#letra', el)?.scrollIntoView()); // veio de uma versão (da folha do leitor, ou acabada de gravar)
 }
 
 export function listaInstrumentos(el, params) {

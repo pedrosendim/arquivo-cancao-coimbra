@@ -5,6 +5,7 @@ import { html, fmtData, compararPt, ler } from './util.js';
 import { podeAprovar, sessao, editando } from './edicao.js';
 import { seletorPessoa } from './seletor.js';
 import { botaoNovoMedia } from './fichas.js';
+import { botaoLetraMedia } from './letras.js';
 
 /** Sinal ✎ de uma contribuição assinada (sem fonte), com quem, quando e porquê no título. */
 export function marcaEditorial(a, oque = 'Indicado') {
@@ -46,7 +47,7 @@ export function caixaTopo(p) {
       ${grupo ? '' : html`${atalho('ed-nascimento', 'Nascimento')}${atalho('ed-morte', 'Morte')}`}${atalho('ed-relacao', 'Relação')}
       ${atalho('ed-imagem', 'Fotografia')}${botaoNovoMedia({ pessoas: [p.id] }, 'Vídeo ou áudio')}${atalho('ed-referencia', 'Referência')}
       ${atalho('ed-nota', '✎ Nota')}</p>
-    <div class="acoes"><a class="botao peq" href="#/editar/pessoas/${p.id}">✎ Corrigir nome, outros nomes e papéis</a>
+    <div class="acoes"><a class="botao peq" href="#/editar/pessoas/${p.id}">✎ Corrigir nome, outros nomes e atributos</a>
       ${podeAprovar() ? html`<button type="button" class="botao peq" data-acao="revisao" data-id="${p.id}" data-estado="${revisto ? 'rascunho' : 'revisto'}">
         ${revisto ? 'Voltar a pôr como rascunho' : 'Marcar a ficha como revista'}</button>` : ''}
       ${atalho('ed-desambiguar', 'Desambiguar…')}
@@ -70,15 +71,19 @@ export function formNotaEditor(p) {
   </form>`);
 }
 
-/** «Como sabe?»: numa fonte (o endereço da página onde está escrito, ou uma fonte da lista, e a frase copiada à letra)
- *  ou por conhecimento próprio (testemunho assinado ✎). Nenhuma das duas vem marcada: quem grava escolhe sempre.
- *  Com `opcional`, pode não se indicar nada («Não indicar agora» vem marcado). `prefixo` distingue os campos quando
- *  há mais de um «Como sabe?» no mesmo formulário; `obrigatorio: false` deixa gravar sem escolher (a ação confirma);
- *  `mesmaDe` acrescenta «A mesma fonte do …»; `inicial` preenche (como, fonte_url, fonte, citacao, referencia). */
-export function camposProva({ opcional = false, uso = 'factos', prefixo = '', obrigatorio = true, mesmaDe = '', inicial = {} } = {}) {
-  const grupos = {};
-  E.base.fontes.filter((f) => f.estado === 'aprovada' && (f.uso || []).includes(uso))
-    .sort((a, b) => compararPt(a.nome, b.nome)).forEach((f) => (grupos[f.tipo] ||= []).push(f));
+const TIPOS_PROVA = [['site', 'Site ou página da Internet'], ['livro', 'Livro'], ['artigo', 'Artigo de jornal ou revista'], ['documento', 'Documento (carta, programa, disco, fotografia…)']];
+let nListas = 0;
+
+/** «Como sabe?»: numa fonte ou por conhecimento próprio (testemunho assinado ✎). Nenhuma das duas vem marcada: quem grava
+ *  escolhe sempre. Com fonte, primeiro o tipo, e só aparecem os campos desse tipo: um site pede o endereço; um livro, um
+ *  artigo ou um documento pede o título (a escolher entre as fontes registadas ou novo) e a página. A CSS mostra-os
+ *  (data-so). Com `opcional`, pode não se indicar nada («Não indicar agora» vem marcado). `prefixo` distingue os campos
+ *  quando há mais de um «Como sabe?» no mesmo formulário; `obrigatorio: false` deixa gravar sem escolher (a ação confirma);
+ *  `mesmaDe` acrescenta «A mesma fonte do …»; `semFrase` tira o campo da frase (a letra de uma música é ela própria a
+ *  frase); `inicial` preenche (como, fonte_url, fonte, citacao, referencia). */
+export function camposProva({ opcional = false, uso = 'factos', prefixo = '', obrigatorio = true, mesmaDe = '', inicial = {}, semFrase = false } = {}) {
+  const fontes = E.base.fontes.filter((f) => f.estado === 'aprovada' && (f.uso || []).includes(uso) && f.tipo !== 'blogue').sort((a, b) => compararPt(a.nome, b.nome));
+  const lista = `fontes-registadas-${++nListas}`;
   const como = inicial.como || (opcional ? 'nada' : '');
   const n = (k) => `${prefixo}${k}`;
   const radio = (v, rotulo) => html`<label class="opcao"><input type="radio" name="${n('como')}" value="${v}" ${v === como ? 'checked' : ''}
@@ -86,21 +91,25 @@ export function camposProva({ opcional = false, uso = 'factos', prefixo = '', ob
   return html`<fieldset class="como-sabe"><legend>Como sabe?</legend>
     <div class="linha-campos">
       ${opcional ? radio('nada', 'Não indicar agora') : ''}
-      ${radio('fonte', html`Está escrito numa fonte <small>(artigo, jornal, livro, site, disco…)</small>`)}
+      ${radio('fonte', html`Está escrito numa fonte <small>(site, livro, artigo, documento)</small>`)}
       ${opcional ? '' : radio('proprio', html`Sei por conhecimento próprio <small>(testemunho assinado ✎)</small>`)}
       ${mesmaDe ? radio('mesma', `A mesma fonte ${mesmaDe}`) : ''}
     </div>
     <div class="com-fonte">
-      <label>Endereço da página onde está escrito <small>o artigo, o post, a página do catálogo. Se esse site ainda não for fonte do arquivo, fica proposto e um editor aprova-o.</small>
+      <label>Que tipo de fonte é? <select class="campo" name="${n('tipo_fonte')}" data-tipo-fonte>
+        ${TIPOS_PROVA.map(([v, t]) => html`<option value="${v}">${t}</option>`)}</select></label>
+      <label data-so="livro artigo documento">Título <small>escreva e escolha na lista; se ainda não existir, fica proposto e um editor decide</small>
+        <input class="campo" name="${n('fonte_titulo')}" list="${lista}" autocomplete="off">
+        <datalist id="${lista}">${fontes.map((f) => html`<option value="${f.nome}">${f.autor || TIPOS_FONTE[f.tipo] || ''}</option>`)}</datalist></label>
+      <label data-so="livro artigo">Autor <small>opcional; só se a publicação ainda não estiver registada</small><input class="campo" name="${n('fonte_autor')}"></label>
+      <label data-so="site artigo documento"><span data-so="site">Endereço da página</span><span data-so="artigo documento">Endereço, se estiver na Internet</span>
+        <small data-so="site">o artigo, o post, a página do catálogo. Se esse site ainda não for fonte do arquivo, fica proposto e um editor aprova-o.</small>
         <input class="campo" type="url" name="${n('fonte_url')}" value="${inicial.fonte_url || ''}" placeholder="https://…"></label>
-      <label>Sem endereço (livro, disco, documento)? Escolha a fonte <small>Não está na lista? <a href="#/fontes">Proponha-a em Fontes e método</a>.</small>
-        <select class="campo" name="${n('fonte')}"><option value="">—</option>
-          ${Object.entries(grupos).map(([t, lista]) => html`<optgroup label="${TIPOS_FONTE[t] || t}">
-            ${lista.map((f) => html`<option value="${f.id}" ${f.id === inicial.fonte ? 'selected' : ''}>${f.nome}${f.autor ? ` — ${f.autor}` : ''}</option>`)}</optgroup>`)}</select></label>
-      <label>Frase da fonte, copiada à letra <small>é a prova; se a página estiver no arquivo, o validador confirma-a palavra por palavra</small>
-        <textarea class="campo" name="${n('citacao')}" rows="2">${inicial.citacao || ''}</textarea></label>
-      ${maisOpcoes(html`<label>Página ou referência <small>opcional (ex.: p. 45, edição de 1987, minuto 3:20)</small>
-        <input class="campo" name="${n('referencia')}" value="${inicial.referencia || ''}"></label>`, 'Mais opções: página ou referência')}
+      <input type="hidden" name="${n('fonte')}" value="${inicial.fonte || ''}">
+      ${semFrase ? '' : html`<label>Frase copiada à letra <small>é a prova: o que a fonte diz, palavra por palavra</small>
+        <textarea class="campo" name="${n('citacao')}" rows="2">${inicial.citacao || ''}</textarea></label>`}
+      <label data-so="livro artigo documento">Página ou referência <small>ex.: p. 45, edição de 1987, n.º 12</small>
+        <input class="campo" name="${n('referencia')}" value="${inicial.referencia || ''}"></label>
     </div>
     ${opcional ? '' : html`<div class="sem-fonte"><label>Como sabe? <small>opcional: «sou neto», «conversa com o próprio, 2019», «programa do concerto»</small>
       <input class="campo" name="${n('nota_testemunho')}"></label></div>`}</fieldset>`;
@@ -111,6 +120,9 @@ export function formNovaImagem(id) {
   const nomes = [p?.nome, ...(p?.nomes_alternativos || [])].filter(Boolean);
   return dobra('ed-imagem', '+ Acrescentar uma fotografia', html`<form class="caixa-edicao" data-acao="nova-imagem" data-nomes="${nomes.join('|')}">
     <input type="hidden" name="id" value="${id}">
+    <div class="procurar-foto"><a class="botao peq" href="https://www.facebook.com/search/photos/?q=${encodeURIComponent(p.nome)}" target="_blank" rel="noopener">Procurar no Facebook</a>
+      <a class="botao peq" href="https://www.google.com/search?udm=2&q=${encodeURIComponent(`"${p.nome}" Coimbra`)}" target="_blank" rel="noopener">Procurar imagens</a>
+      <small class="mudo">abrem noutro separador; depois cole aqui o endereço da imagem e o da página</small></div>
     <label>Endereço da imagem <small>no computador: botão direito sobre a imagem › «Copiar endereço da imagem». Também serve o endereço da página de
       uma imagem da Wikimedia Commons ou da Wikipédia (…/wiki/File:…): o da imagem preenche-se sozinho.</small>
       <input class="campo" name="url" type="url" required placeholder="https://…/fotografia.jpg"></label>
@@ -137,11 +149,11 @@ export function acoesMedia(m) {
   if (!editando() || !fichas.length) return '';
   const volta = encodeURIComponent(location.hash || '#/');
   const corrigir = (x, texto) => html`<a class="botao peq" href="#/editar/media/${x.id}?volta=${volta}" title="Corrigir a ficha «${x.titulo || x.id}»">${texto}</a>`;
-  if (fichas.length > 1) return html`<div class="acoes acoes-edicao-media">${fichas.map((x, i) => corrigir(x, `✎ Corrigir a ficha ${i + 1}`))}</div>`;
+  if (fichas.length > 1) return html`<div class="acoes acoes-edicao-media">${botaoLetraMedia(fichas)}${fichas.map((x, i) => corrigir(x, `✎ Corrigir a ficha ${i + 1}`))}</div>`;
   const [f] = fichas;
   const naFicha = decodeURIComponent((location.hash.match(/^#\/pessoa\/([^/?]+)/) || [])[1] || '');
   const revisto = f.estado_revisao === 'revisto', nome = E.por.pessoas[naFicha]?.nome || naFicha;
-  return html`<div class="acoes acoes-edicao-media">${corrigir(f, '✎ Corrigir')}
+  return html`<div class="acoes acoes-edicao-media">${botaoLetraMedia(f)}${corrigir(f, '✎ Corrigir')}
     <a class="botao peq" href="#/historico/media/${f.id}">Histórico</a>
     ${podeAprovar() ? html`<button type="button" class="botao peq" data-acao="revisao" data-alvo="media/${f.id}" data-estado="${revisto ? 'rascunho' : 'revisto'}"
       title="${revisto ? 'Deixa de constar como revisto' : 'Confirma que viu o vídeo e que a ficha diz o que a fonte diz'}">${revisto ? 'Voltar a rascunho' : 'Marcar como revisto'}</button>` : ''}

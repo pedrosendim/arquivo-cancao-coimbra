@@ -1,10 +1,11 @@
 // Linhagens: cada família com a sua árvore (por ordem cronológica) e, à parte, as escolas de mestres e discípulos.
 // Posições calculadas pelo dagre; cartões em HTML e ligações em SVG.
 import { E, REL, PAPEIS, vida, nomeDe } from '../estado.js';
-import { $, $$, html, raw, norm, definirParams, miniatura, plural, compararPt } from '../util.js';
+import { $, $$, html, raw, norm, definirParams, miniatura, plural, compararPt, estiloRecorte } from '../util.js';
 import { vazioCurado } from '../componentes.js';
 import { seletorPessoa } from '../seletor.js';
 import { marcas } from '../citacoes.js';
+import { iconesPessoa, legendaPapeis } from '../icones.js';
 
 const DAGRE = 'https://cdnjs.cloudflare.com/ajax/libs/dagre/0.8.5/dagre.min.js';
 let carregamento = null;
@@ -14,9 +15,11 @@ export const carregarDagre = () => (carregamento ||= new Promise((res, rej) => {
   document.head.append(s);
 }));
 
-const W = 156, H = 216, GAP_CASAL = 34, V = 34;
+const W = 156, H = 224, GAP_CASAL = 34, V = 34;
 const FAMILIA = ['filho_de', 'neto_de', 'sobrinho_de', 'irmao_de', 'conjuge_de', 'primo_de'];
 const ESCOLA = ['aluno_de', 'influenciado_por'];
+// as escolas separam-se pelo que se aprende: um guitarrista aprende com guitarristas, um cantor com cantores
+export const AREAS = { guitarrista: 'Guitarra', violista: 'Viola', cantor: 'Canto', luthier: 'Construção de instrumentos' };
 const HIER = new Set(['filho_de', 'neto_de', 'sobrinho_de', 'aluno_de', 'influenciado_por']);
 const PARTICULAS = new Set(['da', 'de', 'do', 'das', 'dos', 'e', 'junior', 'filho', 'neto', 'sobrinho']);
 
@@ -64,6 +67,17 @@ function componentes(lig) {
     return { ...c, desde: nasc.length ? Math.min(...nasc) : null, ate: fim.length ? Math.max(...fim) : null };
   }).sort((a, b) => (a.desde ?? 9999) - (b.desde ?? 9999) || b.membros.size - a.membros.size);
 }
+
+/** Em que áreas fica uma ligação de mestre a aluno: as que os dois partilham; se não partilharem nenhuma, a principal do
+ *  aluno (é ele quem está a aprender); na falta dela, a do mestre; senão fica em «Outras». */
+function areasDe(l) {
+  const de = (id) => (E.por.pessoas[id]?.papeis || []).filter((k) => AREAS[k]);
+  const mestre = de(l.de), aluno = de(l.para), comuns = aluno.filter((k) => mestre.includes(k));
+  return comuns.length ? comuns : aluno.length ? aluno.slice(0, 1) : mestre.length ? mestre.slice(0, 1) : ['outras'];
+}
+
+/** As escolas de uma área. Sem `influencias`, só as ligações de quem ensinou: as árvores ficam mais pequenas. */
+const escolasDe = (area, influencias) => componentes(ligacoes(influencias ? ESCOLA : ['aluno_de']).filter((l) => areasDe(l).includes(area)));
 
 // famílias e escolas, calculadas uma vez por versão dos dados (o E.base muda depois de cada gravação)
 let calculadas = { base: null };
@@ -114,10 +128,12 @@ function nomeFamilia(c) {
   return ord[1] && ord[1][1] === ord[0][1] && ord[0][1] > 1 ? `${ord[0][0]} / ${ord[1][0]}` : ord[0][0];
 }
 
+/** O nome de uma escola: quem tem mais alunos ligados nesta árvore (os dois primeiros, do mais antigo para o mais novo). */
 function nomeEscola(c) {
-  const alunos = new Set(c.arestas.map((l) => l.para));
-  const raizes = [...c.membros].filter((id) => !alunos.has(id)).sort((a, b) => (anoRef(a) ?? 9999) - (anoRef(b) ?? 9999));
-  return raizes.slice(0, 2).map(nomeDe).join(' e ');
+  const n = {};
+  for (const l of c.arestas) n[l.de] = (n[l.de] || 0) + 1;
+  const ordem = (a, b) => (anoRef(a) ?? 9999) - (anoRef(b) ?? 9999);
+  return Object.keys(n).sort((a, b) => n[b] - n[a] || ordem(a, b)).slice(0, 2).sort(ordem).map(nomeDe).join(' e ');
 }
 
 // ------------------------------------------------------------------ desenho de uma árvore
@@ -128,11 +144,11 @@ function cartao(id, x, y, foco) {
   const p = E.por.pessoas[id];
   const partes = p.nome.split(/\s+/);
   const papel = p.papeis?.[0] || 'outro';
-  const img = p.imagens?.[0]?.url;
+  const im = p.imagens?.[0], img = im?.url;
   return html`<a class="no-arvore ${id === foco ? 'foco' : ''}" data-id="${id}" href="#/pessoa/${id}" style="left:${x - W / 2}px;top:${y - H / 2}px" title="${p.nome}">
-    <span class="foto-arvore papel-${papel}">${img
-      ? html`<img src="${miniatura(img, 220)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">${SILHUETA}`
-      : SILHUETA}</span>
+    <span class="foto-arvore">${img
+      ? html`<img src="${miniatura(img, 220)}" alt="" loading="lazy" referrerpolicy="no-referrer" ${im.recorte ? raw(`style="${estiloRecorte(im)}"`) : ''} onerror="this.remove()">${SILHUETA}`
+      : SILHUETA}</span>${iconesPessoa(p, 'na-foto')}
     <span class="nome-arvore">${partes.length > 1 ? html`${partes[0]}<b>${partes.slice(1).join(' ')}</b>` : html`<b>${p.nome}</b>`}</span>
     <span class="anos-arvore">${vida(p) || (papel !== 'outro' ? PAPEIS[papel] || '' : '')}</span></a>`;
 }
@@ -354,21 +370,21 @@ export function desenharArvore(dagre, comp, foco = '') {
       title="Irmãos: pais por identificar nas fontes">?</span>`)}</div>`;
 }
 
-/** Legenda das árvores de família: o que quer dizer cada linha e cada cor. */
-export const legendaArvore = () => html`<div class="legenda-arvore">
+/** Legenda das árvores de família: o que quer dizer cada linha e cada ícone (só os que há nesta árvore). */
+export const legendaArvore = (membros = []) => html`<div class="legenda-arvore">
   <span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-fam"/></svg> pais → filhos</span>
   <span><svg viewBox="-15 -6 30 12"><g class="anel">${ANEIS}</g></svg> casamento (o casal fica lado a lado)</span>
   <span><svg viewBox="0 0 30 12"><path d="M0 6H30" class="l-fam l-pont"/></svg> pais do mesmo filho, sem casamento nas fontes</span>
   <span><svg viewBox="0 0 30 12"><path d="M0 6H30" class="l-fam l-trac"/></svg> irmão/ã sem pais registados; tio/a, avô/avó, primos quando falta o elo do meio</span>
   <span><b class="pais-leg">?</b> irmãos com pais por identificar</span>
-  <span>Cor do retrato: <i class="pt ouro"></i> guitarra <i class="pt azul"></i> viola <i class="pt vinho"></i> canto <i class="pt cinza"></i> outros e familiares</span>
+  ${legendaPapeis(membros.map((id) => E.por.pessoas[id]))}
 </div>`;
 
 /** Legenda das escolas: ensinar e influenciar são relações diferentes nas fontes, e desenham-se de maneira diferente. */
-export const legendaEscola = () => html`<div class="legenda-arvore">
+export const legendaEscola = (membros = [], influencias = true) => html`<div class="legenda-arvore">
   <span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-ens"/></svg> mestre → aluno/a («aluno/a de»)</span>
-  <span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-ens l-trac"/></svg> influenciou («influenciado/a por»: não quer dizer que ensinou)</span>
-  <span>Cor do retrato: <i class="pt ouro"></i> guitarra <i class="pt azul"></i> viola <i class="pt vinho"></i> canto <i class="pt cinza"></i> outros</span>
+  ${influencias ? html`<span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-ens l-trac"/></svg> influenciou («influenciado/a por»: não quer dizer que ensinou)</span>` : ''}
+  ${legendaPapeis(membros.map((id) => E.por.pessoas[id]))}
 </div>`;
 
 /** Árvore da família de uma pessoa (para a ficha), ou '' se não tiver família registada. */
@@ -377,7 +393,7 @@ export async function arvoreFamiliaDe(id) {
   if (!comp) return '';
   const dagre = await carregarDagre();
   return html`<p class="mudo" style="margin:-6px 0 12px;font-size:13px">Família ${nomeFamilia(comp)} · ${plural(comp.membros.size, 'pessoa', 'pessoas')} ·
-    <a href="#/linhagens?pessoa=${id}">ver nas Linhagens</a></p>${legendaArvore()}<div class="arvore-caixa">${desenharArvore(dagre, comp, id)}</div>`;
+    <a href="#/linhagens?pessoa=${id}">ver nas Linhagens</a></p>${legendaArvore([...comp.membros])}<div class="arvore-caixa">${desenharArvore(dagre, comp, id)}</div>`;
 }
 
 // ------------------------------------------------------------------ página
@@ -385,8 +401,19 @@ export async function arvoreFamiliaDe(id) {
 export async function linhagens(el, params) {
   const sep = params.ver === 'escolas' ? 'escolas' : 'familias';
   const familias = componentes(ligacoes(FAMILIA));
-  const escolas = componentes(ligacoes(ESCOLA));
+  // nas escolas: uma área de cada vez, e as influências só a pedido; uma pessoa em foco mostra-se onde estiver
+  const areas = [...Object.keys(AREAS), 'outras'].filter((a) => escolasDe(a, true).length);
+  const foco0 = params.pessoa || '';
+  const tem = (area, inf) => escolasDe(area, inf).some((c) => c.membros.has(foco0));
+  let influencias = params.influencias === '1';
+  let area = areas.includes(params.area) ? params.area : areas[0] || '';
+  if (sep === 'escolas' && foco0 && !tem(area, influencias)) {
+    const alvo = areas.find((a) => tem(a, influencias)) || (influencias ? '' : areas.find((a) => tem(a, true)));
+    if (alvo) { area = alvo; if (!tem(alvo, influencias)) influencias = true; }
+  }
+  const escolas = area ? escolasDe(area, influencias) : [];
   const lista = sep === 'familias' ? familias : escolas;
+  const nomeArea = (a) => AREAS[a] || 'Outras';
   const titulo = (c) => (sep === 'familias' ? `Família ${nomeFamilia(c)}` : `Escola de ${nomeEscola(c)}`);
   const anos = (c) => (c.desde ? `${c.desde}${c.ate && c.ate !== c.desde ? '–' + c.ate : ''}` : 'datas por apurar');
   const pessoas = [...new Set(lista.flatMap((c) => [...c.membros]))].sort((a, b) => nomeDe(a).localeCompare(nomeDe(b)));
@@ -397,22 +424,28 @@ export async function linhagens(el, params) {
   const grupos = [];
   lista.forEach((c, i) => { const g = grupo(c); if (grupos.at(-1)?.[0] !== g) grupos.push([g, []]); grupos.at(-1)[1].push(i); });
 
-  const foco = params.pessoa || '';
+  const foco = foco0;
   // pediram uma pessoa que não está em nenhuma família (ou escola): diz-se isso, em vez de abrir a primeira da lista
   const focoFora = !!foco && !!E.por.pessoas[foco] && !lista.some((c) => c.membros.has(foco));
   let atual = foco ? lista.findIndex((c) => c.membros.has(foco)) : lista.findIndex((c) => chave(c) === params.familia);
   if (atual < 0) atual = focoFora ? -1 : 0;
+  // nas escolas, sem nada pedido, abre a maior: é a que mostra mais de quem aprendeu com quem
+  if (sep === 'escolas' && !foco && !params.familia) lista.forEach((c, i) => { if (c.membros.size > lista[atual].membros.size) atual = i; });
   const [anterior, seguinte] = sep === 'familias' ? ['Família anterior', 'Família seguinte'] : ['Escola anterior', 'Escola seguinte'];
 
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Estudar</p><h1>Linhagens</h1>
       <p class="lead">${sep === 'familias'
         ? 'As famílias da Canção de Coimbra, cada uma com a sua árvore — pais, mães, cônjuges, irmãos e filhos que as fontes nomeiam —, pela ordem da história.'
-        : 'Quem aprendeu com quem: as escolas de mestres e discípulos, pela ordem da história.'}</p></header>
+        : 'Quem aprendeu com quem, separado pelo que se aprende: guitarra, viola, canto e construção de instrumentos.'}</p></header>
     <div class="separadores" role="tablist">
       <button role="tab" data-ver="familias" aria-selected="${String(sep === 'familias')}">Famílias <span class="mudo">${familias.length}</span></button>
-      <button role="tab" data-ver="escolas" aria-selected="${String(sep === 'escolas')}">Escolas <span class="mudo">${escolas.length}</span></button>
+      <button role="tab" data-ver="escolas" aria-selected="${String(sep === 'escolas')}">Escolas <span class="mudo">${familiasEEscolas().escolas.length ? areas.length : 0}</span></button>
     </div>
+    ${sep === 'escolas' && areas.length ? html`<div class="escolha-area">
+      <div class="fichas" role="group" aria-label="Área">${areas.map((a) => html`<button type="button" class="ficha" data-area="${a}" aria-pressed="${String(a === area)}">${nomeArea(a)}<span class="n">${new Set(escolasDe(a, influencias).flatMap((c) => [...c.membros])).size}</span></button>`)}</div>
+      <label class="opcao"><input type="checkbox" id="com-influencias" ${influencias ? raw('checked') : ''}> Mostrar também as influências</label>
+    </div>` : ''}
     ${lista.length ? html`
     <div class="barra-filtros">
       <div class="escolher-linhagem">
@@ -423,18 +456,26 @@ export async function linhagens(el, params) {
       </div>
       ${seletorPessoa({ criar: false, apenas: pessoas, placeholder: 'Encontrar uma pessoa nas árvores…' })}
     </div>
-    ${sep === 'familias' ? legendaArvore() : legendaEscola()}
+    <div id="legenda-linhagem"></div>
     <section class="familia" id="linhagem"><h2></h2><div class="arvore-caixa"><p class="carregando">A desenhar</p></div><div class="ligacoes-lista"></div></section>`
     : vazioCurado(sep === 'familias' ? 'famílias' : 'escolas')}
   </div>`.s;
 
   // trocar de separador mantém a pessoa em foco, se ela também estiver na outra lista
+  const pessoaAtual = () => new URLSearchParams(location.hash.split('?')[1] || '').get('pessoa') || '';
   $$('[data-ver]', el).forEach((b) => b.onclick = () => {
-    const quem = new URLSearchParams(location.hash.split('?')[1] || '').get('pessoa') || '';
-    const manter = quem && (b.dataset.ver === 'escolas' ? escolas : familias).some((c) => c.membros.has(quem));
+    const quem = pessoaAtual();
+    const manter = quem && (b.dataset.ver === 'escolas' ? familiasEEscolas().escolas : familias).some((c) => c.membros.has(quem));
     const qs = new URLSearchParams({ ...(b.dataset.ver === 'escolas' ? { ver: 'escolas' } : {}), ...(manter ? { pessoa: quem } : {}) }).toString();
     location.hash = `#/linhagens${qs ? '?' + qs : ''}`;
   });
+  const irEscolas = (a, inf) => {
+    const quem = pessoaAtual();
+    const qs = new URLSearchParams({ ver: 'escolas', area: a, ...(inf ? { influencias: '1' } : {}), ...(quem ? { pessoa: quem } : {}) }).toString();
+    location.hash = `#/linhagens?${qs}`;
+  };
+  $$('[data-area]', el).forEach((b) => b.onclick = () => irEscolas(b.dataset.area, influencias));
+  if ($('#com-influencias', el)) $('#com-influencias', el).onchange = (e) => irEscolas(area, e.target.checked);
   if (!lista.length) return;
 
   let dagre;
@@ -457,7 +498,9 @@ export async function linhagens(el, params) {
     caixa.hidden = false;
     caixa.innerHTML = desenharArvore(dagre, c, id).s;
     $('.ligacoes-lista', s).innerHTML = listaLigacoes(c).s;
-    definirParams({ ver: sep === 'escolas' ? 'escolas' : '', familia: id ? '' : chave(c), pessoa: id });
+    $('#legenda-linhagem', el).innerHTML = (sep === 'familias' ? legendaArvore([...c.membros]) : legendaEscola([...c.membros], influencias)).s;
+    definirParams({ ver: sep === 'escolas' ? 'escolas' : '', area: sep === 'escolas' ? area : '', influencias: sep === 'escolas' && influencias ? '1' : '',
+      familia: id ? '' : chave(c), pessoa: id });
     const no = id && caixa.querySelector(`[data-id="${CSS.escape(id)}"]`);
     if (no) {
       no.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' }); // o cartão da pessoa à vista, também no telemóvel
@@ -474,7 +517,7 @@ export async function linhagens(el, params) {
   if (!focoFora) { mostrar(atual, foco); return; }
   // a pessoa pedida não está em nenhuma árvore deste separador: só o que o arquivo tem, e o caminho de volta
   const s = $('#linhagem', el), nome = nomeDe(foco);
-  const naOutra = (sep === 'familias' ? escolas : familias).some((c) => c.membros.has(foco));
+  const naOutra = (sep === 'familias' ? familiasEEscolas().escolas : familias).some((c) => c.membros.has(foco));
   $('#anterior', el).disabled = true;
   s.querySelector('h2').textContent = nome;
   s.querySelector('.arvore-caixa').outerHTML = html`<div class="vazio aviso-linhagem"><p>${nome} ainda não tem ${sep === 'familias' ? 'família registada' : 'mestres nem alunos registados'} no arquivo.</p>

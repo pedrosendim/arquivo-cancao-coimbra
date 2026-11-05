@@ -249,7 +249,20 @@
       "nota": "voz; gravações de 1989, 1991 e 1998"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Foto%20C%20Costa,%20Alcoforado%20e%20Joj.jpg",
+      "legenda": "Convívio na Associação Académica no ano de 1987. Luís Alcoforado canta acompanhado por Carlos Costa e Paulo Soares.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/convvio-na-associao-acadmi_111834086058804737.html",
+          "doc": "gc-i:111834086058804737",
+          "citacao": "Convívio na Associação Académica no ano de 1987. Luís Alcoforado canta acompanhado por Carlos Costa e Paulo Soares."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

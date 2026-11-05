@@ -51,7 +51,20 @@
       "nota": "guitarra («José Ferraz»); Funchal, 1968"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Cravo%20Ferraz%20Foto.jpg",
+      "legenda": "CD \"Canções d'Inquietude\". Foto de José Ferraz de Oliveira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/12/cd-canes-dinquietude_113535232727031107.html",
+          "doc": "gc-i:113535232727031107",
+          "citacao": "CD \"Canções d'Inquietude\". Foto de José Ferraz de Oliveira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

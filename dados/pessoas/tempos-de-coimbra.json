@@ -69,7 +69,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzn1nJYUof4zrXBrcIQk8_qHLkPvqYkQ4XW9OVY0l1uuZAjCr__92zPoexlN0_hECHcKGbsq5hm39SImhbGiJU7Wv-w4s5DbGjSM1fxtP88ucaDsO_6dU6GOJsa9bQhIACZ1vvl06b5gU/s1600-h/Brojo,Portugal,AReis,LFilip.gif",
+      "legenda": "Aurélio Reis, António Brojo, António Portugal e Luís Filipe, nos anos oitenta, nos claustros da Igreja de Santa Cruz, aquando da gravação dos discos \"Tempos de Coimbra\". Foto de Mário Rovira.",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/01/aurlio-reis-antnio-brojo-antnio.html",
+          "doc": "gc-ii:1076692059954022533",
+          "citacao": "Aurélio Reis, António Brojo, António Portugal e Luís Filipe, nos anos oitenta, nos claustros da Igreja de Santa Cruz, aquando da gravação dos discos \"Tempos de Coimbra\". Foto de Mário Rovira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

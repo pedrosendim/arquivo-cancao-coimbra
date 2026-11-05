@@ -53,11 +53,13 @@ const LISTAS = {
   distinta_de: { nome: 'Não confundir com', id: (d) => d.id, txt: (d) => `${nomeDe(d.id)}${quem(d)}` },
   juntou: { nome: 'Ficha juntada', id: (j) => j.id, txt: (j) => `${j.nome || j.titulo || j.id}${quem(j)}` },
   ligacoes: { nome: 'Ligação', id: (l) => l.url, txt: (l) => `${l.rotulo || ''} ${l.url}` },
+  // a letra à vista, para quem revê poder confirmar o que foi escrito
+  letras: { nome: 'Versão da letra', id: (l) => l.id, txt: (l) => `«${l.rotulo}»${fonteDe(l.fonte ? [l] : [])}${quem(l.editorial)}: ${(l.citacao || '').slice(0, 500)}${(l.citacao || '').length > 500 ? '…' : ''}` },
 };
 const PESSOAS = new Set(['musica', 'letra', 'pessoas']);
 const ROTULOS = { nome: 'Nome', titulo: 'Título', designacao: 'Designação', tipo: 'Tipo', genero: 'Género', ano: 'Ano', data: 'Data', formato: 'Formato',
   editora: 'Editora', referencia: 'Referência', local: 'Local', url: 'Endereço', construtor: 'Construtor', gravacao: 'Disco', estado_revisao: 'Estado',
-  nota_editor: 'Nota do editor', nomes_alternativos: 'Outros nomes', titulos_alternativos: 'Outros títulos', papeis: 'Papéis', musica: 'Música de',
+  nota_editor: 'Nota do editor', nomes_alternativos: 'Outros nomes', titulos_alternativos: 'Outros títulos', papeis: 'Atributos', letras: 'Versão da letra', musica: 'Música de',
   letra: 'Letra de', pessoas: 'Quem toca', obras: 'Obras', revisto_por: 'Revista por', nota_editor_por: 'Nota do editor assinada por',
   autor: 'Autor', texto: 'Texto', estado: 'Estado', capa: 'Capa', ligacoes: 'Ligações', letra_texto: 'Letra', plataforma: 'Plataforma' };
 const IGNORAR = new Set(['id', 'revisto_em', 'nota_editor_em', 'verificada', 'atualizado_em']);
@@ -94,6 +96,7 @@ function diferencasFicha(a, b) {
             || (x.conflito !== antes.conflito ? (x.conflito ? 'marcado como divergência entre fontes' : 'deixou de ser divergência')
               : x.oculta && !antes.oculta ? `escondida${x.oculta.nota ? ` («${x.oculta.nota}»)` : ''}${quem(x.oculta)}`
                 : x.escolhida && !antes.escolhida ? `escolhida como retrato${quem(x.escolhida)}`
+                  : x.recorte && JSON.stringify(x.recorte) !== JSON.stringify(antes.recorte) ? `recorte 1:1 ajustado${quem(x.recorte)}`
                   : (x.fontes?.length || 0) > (antes.fontes?.length || 0) ? `mais uma fonte${fonteDe(x.fontes.slice(antes.fontes?.length || 0))}` : 'alterado');
           frases.push(['muda', `${L.nome} «${L.txt(x).slice(0, 80)}»: ${muda}`]);
         }

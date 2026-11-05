@@ -23,7 +23,20 @@
       "nota": "voz"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Neves%203.jpg",
+      "legenda": "Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio. José Neves a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-de-fados-e-guitarras_115241084605594526.html",
+          "doc": "gc-i:115241084605594526",
+          "citacao": "Grupo de Fados e Guitarras de Coimbra na praça 8 de Maio. José Neves a cantar."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

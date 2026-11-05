@@ -31,7 +31,20 @@
       "nota": "voz (1991, 1997)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Fatima%20Lencastre%20e%20Alcindo%20Costa.jpg",
+      "legenda": "Dia do Antigo Estudante de Coimbra. Atribuição de prémios à excelência. Fátima Lencastre, presidente da AAEC em Lisboa e Alcindo Costa com a esposa.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/dia-do-antigo-estudante-de_113185300229354378.html",
+          "doc": "gc-i:113185300229354378",
+          "citacao": "Dia do Antigo Estudante de Coimbra. Atribuição de prémios à excelência. Fátima Lencastre, presidente da AAEC em Lisboa e Alcindo Costa com a esposa."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

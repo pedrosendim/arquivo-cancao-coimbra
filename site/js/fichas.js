@@ -8,7 +8,7 @@ import { E, PAPEIS, CAMPOS, FORMATOS, GENEROS, nomeDe, procurarEntidades, catalo
 import { $, $$, html, api, aviso, debounce, classificar, capaMedia, miniatura, NOME_PLATAFORMA, enderecoSeguro, termosProcura, guardar, ler, fmtData, plural } from './util.js';
 import { seletorPessoa, seletorFicha, candidatosDe, detalheFicha, escolherEm, porEscolher, limparSeletor, tituloDe } from './seletor.js';
 import { camposProva, marcaEditorial, dobra, maisOpcoes, ABERTOS } from './formularios.js';
-import { editando, sessao, podeAprovar, dataDe, botaoRetirarCatalogo } from './edicao.js';
+import { editando, sessao, podeAprovar, dataDe, lerData, botaoRetirarCatalogo } from './edicao.js';
 import { marcas } from './citacoes.js';
 import { iniciarRascunhos } from './rascunhos.js';
 
@@ -22,7 +22,7 @@ export const ESPECIES = {
       { k: 'nome', r: 'Nome por que é conhecido/a', t: 'texto', obrig: true },
       { k: 'tipo', r: 'É', t: 'escolha', opcoes: { pessoa: 'uma pessoa', grupo: 'um grupo (grupo de fados, tuna, quarteto, orfeão…)' } },
       { k: 'nomes_alternativos', r: 'Outros nomes', t: 'lista', ajuda: 'nome completo, alcunhas, outras grafias; separados por ponto e vírgula' },
-      { k: 'papeis', r: 'Papéis', t: 'varios', opcoes: PAPEIS, ajuda: '«Outro» para familiares e pessoas sem papel musical' },
+      { k: 'papeis', r: 'Atributos', t: 'varios', opcoes: PAPEIS, ajuda: 'Pode escolher vários, ou nenhum. Cada um aparece como um ícone na ficha e nas árvores.' },
     ],
   },
   obras: {
@@ -181,8 +181,8 @@ export function lerCampos(tipo, d, novaPessoa = null) {
       case 'ano':
         if (v && !/^\d{4}$/.test(v)) throw new Error(`${c.r}: escreva o ano com quatro algarismos (ex.: 1956).`);
         res[c.k] = v || ''; break;
-      case 'data': // dia, mês e ano: AAAA, AAAA-MM ou AAAA-MM-DD
-        try { res[c.k] = dataDe({ ano: d[`${c.k}.ano`], mes: d[`${c.k}.mes`], dia: d[`${c.k}.dia`] }); }
+      case 'data': // AAAA, AAAA-MM ou AAAA-MM-DD
+        try { res[c.k] = dataDe({ data_texto: d[`${c.k}.data_texto`] }); }
         catch (e) { throw new Error(`${c.r}: ${e.message}`); }
         break;
       case 'url':
@@ -231,16 +231,16 @@ export function factosDaFichaNova(tipo, ficha, d) {
   for (const campo of ['nascimento', 'morte']) {
     const v = (k) => String(d[`${campo}.${k}`] ?? '').trim();
     const nome = CAMPOS[campo];
-    if (!v('ano') && !v('mes') && !v('dia') && !v('local')) {
+    if (!v('data_texto') && !v('local')) {
       // secção por preencher; mas o que se escreveu no «Como sabe?» sem a data nem o local não se perde em silêncio
-      if (['como', 'fonte_url', 'fonte', 'citacao', 'referencia', 'nota_testemunho', 'aprox'].some(v)) {
+      if (['como', 'fonte_url', 'fonte', 'fonte_titulo', 'citacao', 'referencia', 'nota_testemunho'].some(v)) {
         throw new Error(`${nome}: indique a data, o local ou os dois (ou apague o que escreveu em «Como sabe?»).`);
       }
       continue;
     }
-    let data;
-    try { data = dataDe({ ano: v('ano'), mes: v('mes'), dia: v('dia') }); } catch (e) { throw new Error(`${nome}: ${e.message}`); }
-    const local = v('local'), aprox = !!v('aprox');
+    let lida;
+    try { lida = lerData(v('data_texto')); } catch (e) { throw new Error(`${nome}: ${e.message}`); }
+    const { data, aprox } = lida, local = v('local');
     const quando = data ? (aprox ? `c. ${data.slice(0, 4)}` : fmtData(data)) : '';
     const facto = { campo, valor: [quando, local].filter(Boolean).join(', '), ...(data && !aprox ? { data } : {}), ...(local ? { local } : {}) };
     const como = v('como');
@@ -250,7 +250,7 @@ export function factosDaFichaNova(tipo, ficha, d) {
       res.push({ facto, dados: { ...prova.nascimento } });
       continue;
     }
-    prova[campo] = Object.fromEntries(['como', 'fonte_url', 'fonte', 'fonte_nome', 'citacao', 'referencia', 'nota_testemunho'].map((k) => [k, v(k)]));
+    prova[campo] = Object.fromEntries(['como', 'tipo_fonte', 'fonte_url', 'fonte', 'fonte_nome', 'fonte_titulo', 'fonte_autor', 'citacao', 'referencia', 'nota_testemunho'].map((k) => [k, v(k)]));
     res.push({ facto, dados: { ...prova[campo] } });
   }
   return res;
@@ -282,18 +282,15 @@ export function formFicha(tipo, f = null, extra = {}) {
   </form>`;
 }
 
-const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
-/** Dia, mês e ano (basta o ano). `prefixo` distingue os nomes quando há mais de uma data no formulário; `valor`
- *  (AAAA, AAAA-MM ou AAAA-MM-DD) preenche os três campos. */
+/** A data num só campo, escrita como se escreve à mão (edicao.js, lerData); por baixo, o site diz como a percebeu.
+ *  `prefixo` distingue os nomes quando há mais de uma data no formulário; `valor` (AAAA, AAAA-MM ou AAAA-MM-DD) preenche. */
 function camposData(rotulo = 'Data', { prefixo = '', valor = '', ajuda = '' } = {}) {
-  const [ano = '', mes = '', dia = ''] = String(valor || '').split('-');
-  const n = (k) => `${prefixo}${k}`;
-  return html`<div class="rotulo-campo">${rotulo}${ajuda ? html`<small>${ajuda}</small>` : ''}<div class="data-tripla">
-    <input class="campo" name="${n('dia')}" inputmode="numeric" placeholder="dia" aria-label="Dia" value="${dia ? String(+dia) : ''}">
-    <select class="campo" name="${n('mes')}" aria-label="Mês"><option value="">mês</option>${MESES.map((m, i) => html`<option value="${i + 1}" ${+mes === i + 1 ? 'selected' : ''}>${m}</option>`)}</select>
-    <input class="campo" name="${n('ano')}" inputmode="numeric" placeholder="ano" aria-label="Ano" value="${ano}"></div></div>`;
+  const [ano, mes, dia] = String(valor || '').split('-');
+  const escrita = !valor ? '' : dia ? `${+dia}/${+mes}/${ano}` : mes ? `${+mes}/${ano}` : ano;
+  return html`<label class="campo-data"><span data-rotulo-data>${rotulo}</span><small>${ajuda || 'ex.: 10/5/1899, maio de 1899, 1899 ou c. 1920'}</small>
+    <input class="campo" name="${prefixo}data_texto" value="${escrita}" autocomplete="off" data-campo-data>
+    <small class="leitura-data" data-leitura-data aria-live="polite"></small></label>`;
 }
-const caixaAprox = (prefixo = '') => html`<label class="opcao"><input type="checkbox" name="${prefixo}aprox" value="1"> data aproximada <small>(fica «c. 1925»)</small></label>`;
 
 /** Nascimento e morte no formulário de uma pessoa nova (opcionais e fechados), cada um com o seu «Como sabe?»:
  *  gravam-se na mesma operação que a ficha. */
@@ -301,7 +298,6 @@ const seccoesVida = () => html`<div class="so-pessoa">${['nascimento', 'morte'].
   html`+ ${CAMPOS[campo]} <small>opcional${campo === 'nascimento' ? ': data, local e como sabe' : ''}</small>`, html`<div class="caixa-dobrada">
     ${camposData('Data', { prefixo: `${campo}.` })}
     <label>Local <small>terra, freguesia ou cidade</small><input class="campo" name="${campo}.local"></label>
-    ${maisOpcoes(caixaAprox(`${campo}.`))}
     ${camposProva({ prefixo: `${campo}.`, obrigatorio: false, mesmaDe: campo === 'morte' ? 'do nascimento' : '' })}</div>`, { lembrar: false }))}</div>`;
 
 /** Nascimento e morte de uma pessoa: os mesmos campos em todas as fichas, cada um com a sua fonte. Fechados; o resumo
@@ -317,22 +313,73 @@ export function formVida(p, campo) {
     <input type="hidden" name="alvo" value="pessoas/${p.id}"><input type="hidden" name="campo" value="${campo}">
     ${camposData()}
     <label>Local <small>terra, freguesia ou cidade</small><input class="campo" name="local"></label>
-    ${maisOpcoes(caixaAprox())}
     ${camposProva()}
     <div class="acoes"><button class="botao peq primario">Guardar ${nome.toLowerCase()}</button></div>
   </form>`);
 }
 
-/** Um facto qualquer (estreia, atuação, prémio, profissão…) numa ficha de qualquer tipo. */
+/** O que cada tipo de facto pergunta. `valor`: [rótulo, exemplo], ou nada quando o facto é a data e o local; `data` e
+ *  `local`: o rótulo, ou nada quando esse tipo de facto não os tem. */
+const FORMA_FACTO = {
+  nome_completo: { valor: ['Nome completo', 'como consta na fonte'] },
+  nascimento: { data: 'Data de nascimento', local: 'Onde nasceu' },
+  morte: { data: 'Data da morte', local: 'Onde morreu' },
+  naturalidade: { local: 'Terra natural' },
+  formacao: { valor: ['Curso ou escola', 'ex.: Direito, na Universidade de Coimbra'], data: 'Ano ou data', local: 'Onde' },
+  profissao: { valor: ['Profissão', 'ex.: médico, professor do liceu'], data: 'Desde quando, se souber', local: 'Onde' },
+  atividade: { valor: ['O que fazia', 'ex.: guitarrista da Tuna Académica'], data: 'Quando', local: 'Onde' },
+  estreia: { valor: ['Em que se estreou', 'ex.: Serenata Monumental da Queima das Fitas'], data: 'Data da estreia', local: 'Onde' },
+  gravacao: { valor: ['O que gravou', 'ex.: EP «Fados de Coimbra»'], data: 'Quando', local: 'Onde (estúdio ou cidade)' },
+  atuacao: { valor: ['Que atuação', 'ex.: concerto com Luiz Goes'], data: 'Data', local: 'Onde' },
+  premio: { valor: ['Prémio ou distinção', 'ex.: Medalha de Mérito Cultural'], data: 'Ano', local: 'Onde' },
+  homenagem: { valor: ['Que homenagem, e de quem', 'ex.: homenagem da Câmara Municipal de Coimbra'], data: 'Data', local: 'Onde' },
+  ensino: { valor: ['O que ensinou, e a quem', 'ex.: aulas de guitarra na Secção de Fado'], data: 'Quando', local: 'Onde' },
+  instrumento: { valor: ['Instrumento', 'ex.: guitarra de Coimbra de Raul Simões'], data: 'Quando, se souber' },
+  afinacao: { valor: ['Afinação', 'como consta na fonte'] },
+  residencia: { data: 'Desde quando, se souber', local: 'Onde viveu' },
+  publicacao: { valor: ['Título do livro ou artigo', 'o que publicou'], data: 'Ano' },
+  outro: { valor: ['O facto', 'curto e fiel ao que se sabe'], data: 'Data, se houver', local: 'Local, se houver' },
+};
+const SO_PESSOAS = ['nome_completo', 'nascimento', 'morte', 'naturalidade', 'formacao', 'profissao', 'ensino', 'residencia'];
+const SO_INDIVIDUOS = ['nome_completo', 'nascimento', 'morte', 'naturalidade', 'profissao'];
+// num grupo, a «formação» é como se formou
+const FORMA_GRUPO = { formacao: { valor: ['Como se formou', 'com quem e porquê'], data: 'Quando', local: 'Onde' } };
+
+/** Mostra só os campos do tipo de facto escolhido, com os rótulos desse tipo. O que deixa de se aplicar apaga-se. */
+function ajustarFacto(form) {
+  const corpo = $('[data-facto-corpo]', form), campo = form.elements.campo.value;
+  const forma = (form.dataset.grupo && FORMA_GRUPO[campo]) || FORMA_FACTO[campo];
+  corpo.hidden = !forma;
+  if (!forma) return;
+  const valor = $('[data-facto-valor]', form), data = $('[data-facto-data]', form), local = $('[data-facto-local]', form);
+  [valor, data, local].forEach((x, i) => {
+    x.hidden = !forma[['valor', 'data', 'local'][i]];
+    if (x.hidden) $('input', x).value = '';
+  });
+  form.elements.valor.required = !!forma.valor;
+  if (forma.valor) {
+    $('span', valor).textContent = forma.valor[0];
+    $('small', valor).textContent = forma.valor[1];
+  }
+  if (forma.data) { $('[data-rotulo-data]', data).textContent = forma.data; $('[data-leitura-data]', data).textContent = ''; }
+  if (forma.local) $('span', local).textContent = forma.local;
+}
+
+/** Um facto numa ficha de qualquer tipo: primeiro o tipo de facto, e o formulário ajusta-se a esse tipo. */
 export function formFacto(alvo) {
-  return dobra('ed-facto', html`+ Acrescentar um facto <small>estreia, atuação, prémio, profissão, formação, ensino…</small>`, html`<form class="caixa-edicao" data-acao="novo-facto">
+  const [tipo, id] = alvo.split('/'), grupo = tipo === 'pessoas' && E.por.pessoas[id]?.tipo === 'grupo';
+  const tipos = Object.entries(CAMPOS).filter(([k]) => (grupo ? !SO_INDIVIDUOS.includes(k) : tipo === 'pessoas' || !SO_PESSOAS.includes(k)));
+  return dobra('ed-facto', html`+ Acrescentar um facto <small>nascimento, formação, atuação, prémio, homenagem…</small>`, html`<form class="caixa-edicao" data-acao="novo-facto" ${grupo ? 'data-grupo="1"' : ''}>
     <input type="hidden" name="alvo" value="${alvo}">
-    <label>Tipo <select class="campo" name="campo">${Object.entries(CAMPOS).map(([k, t]) => html`<option value="${k}" ${k === 'atividade' ? 'selected' : ''}>${t}</option>`)}</select></label>
-    <label>O facto <small>curto e fiel ao que se sabe (ex.: «Atuou no Coliseu dos Recreios com Luiz Goes»)</small><input class="campo" name="valor" required></label>
-    ${camposData('Data (se houver)')}
-    ${maisOpcoes(html`<label>Local <input class="campo" name="local"></label>${caixaAprox()}`, 'Mais opções: local, data aproximada')}
-    ${camposProva()}
-    <div class="acoes"><button class="botao peq primario">Acrescentar facto</button></div>
+    <label>Que facto quer acrescentar? <select class="campo" name="campo" required data-tipo-facto><option value="">— escolha —</option>
+      ${tipos.map(([k, t]) => html`<option value="${k}">${t}</option>`)}</select></label>
+    <div class="facto-corpo" data-facto-corpo hidden>
+      <label data-facto-valor><span>O facto</span> <small></small><input class="campo" name="valor"></label>
+      <div data-facto-data>${camposData()}</div>
+      <label data-facto-local><span>Local</span> <input class="campo" name="local"></label>
+      ${camposProva()}
+      <div class="acoes"><button class="botao peq primario">Acrescentar facto</button></div>
+    </div>
   </form>`);
 }
 
@@ -538,7 +585,10 @@ function previaImagem(form, trocar = false) {
   }
   if (!url) { caixa.hidden = true; caixa.innerHTML = ''; return; }
   caixa.hidden = false;
-  caixa.innerHTML = html`${wiki ? html`<p class="mudo">${trocar ? 'Era a página da imagem na Wikimedia: o endereço passou a ser o da própria imagem, e a página ficou como origem.'
+  // as ligações diretas às imagens do Facebook e do Instagram trazem um prazo: passado ele, a fotografia desaparece da ficha
+  const caduca = /(^|\.)(fbcdn\.net|cdninstagram\.com)(\/|$)/i.test(url.replace(/^https?:\/\//, ''));
+  caixa.innerHTML = html`${caduca ? html`<p class="erro">Atenção: as ligações às imagens do Facebook e do Instagram deixam de funcionar ao fim de algum tempo, e a fotografia
+    desaparece da ficha. Se puder, procure a mesma fotografia num site público (jornal, instituição, Wikimedia).</p>` : ''}${wiki ? html`<p class="mudo">${trocar ? 'Era a página da imagem na Wikimedia: o endereço passou a ser o da própria imagem, e a página ficou como origem.'
     : 'É a página da imagem na Wikimedia: ao sair do campo, o endereço passa a ser o da própria imagem, e a página fica como origem.'}</p>` : ''}
     <img src="${miniatura(wiki || url, 400)}" alt="Pré-visualização da fotografia" referrerpolicy="no-referrer">`.s;
   $('img', caixa).onerror = () => {
@@ -722,6 +772,17 @@ function manterAVista(d) {
 }
 
 export function iniciarFichas() {
+  // o formulário do facto ajusta-se ao tipo escolhido; a data diz como foi percebida, enquanto se escreve
+  document.addEventListener('change', (e) => { if (e.target.matches?.('[data-tipo-facto]')) ajustarFacto(e.target.form); });
+  document.addEventListener('input', (e) => {
+    if (!e.target.matches?.('[data-campo-data]')) return;
+    const leitura = e.target.parentElement.querySelector('[data-leitura-data]');
+    leitura.classList.remove('erro');
+    try {
+      const { data, aprox } = lerData(e.target.value);
+      leitura.textContent = data ? `Fica: ${aprox ? `c. ${data.slice(0, 4)}` : fmtData(data)}` : '';
+    } catch (x) { leitura.textContent = x.message; leitura.classList.add('erro'); }
+  });
   // escolher pessoas ou obras (várias): cada escolha vira uma etiqueta, e o campo fica livre para a seguinte
   document.addEventListener('escolha', (e) => {
     const relacao = e.target.closest('form[data-acao="nova-relacao"]');

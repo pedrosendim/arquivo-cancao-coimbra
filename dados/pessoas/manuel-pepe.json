@@ -293,7 +293,20 @@
       "nota": "Nos primeiros anos da década de 1960 (república Baco). Voto de pesar da AR (2014), baseado em texto de Jorge Cravo."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTvpeBsZz-Vjk8CHp7sCFEQXTh7BxtW3-7voJzrfPh94HzhyphenhyphenalciO1udOtMtjJE5RBHLxl4Ttc8TeAUELHmzihJbUpS00nu5T-M4_LTnrgj2LfJ219FQbIvfNKEsv9oNzKxD192QVLhBc/s1600-h/JG+Act.+Telev.+Americana.59.jpg",
+      "legenda": "Actuação para a televisão americana no Mosteiro dos Jerónimos em Lisboa, no ano de 1959. Com Jorge Godinho estão António Portugal na guitarra e Manuel Pepe na viola.",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/02/jorge-godinho-na-televiso.html",
+          "doc": "gc-ii:2128923627358802199",
+          "citacao": "As duas primeiras fotos dizem respeito a uma actuação para a televisão americana no Mosteiro dos Jerónimos em Lisboa, no ano de 1959. Com Jorge Godinho estão António Portugal na guitarra e Manuel Pepe na viola."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

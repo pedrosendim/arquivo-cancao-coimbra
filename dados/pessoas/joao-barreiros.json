@@ -30,7 +30,20 @@
       "nota": "voz; 2005-2013"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Joao%20Barreiros.jpg",
+      "legenda": "Grupo Romance, no Quebra-Costas, esta quinta-feira. João Barreiros a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/grupo-romance-no-quebra-co_115405688436355268.html",
+          "doc": "gc-i:115405688436355268",
+          "citacao": "Grupo Romance, no Quebra-Costas, esta quinta-feira. João Barreiros a cantar."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

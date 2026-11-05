@@ -26,9 +26,10 @@ import { porValidar } from './vistas/validar.js';
 import { historico } from './historico.js';
 import { alteracoes } from './vistas/alteracoes.js';
 import { entrar, acesso } from './vistas/conta.js';
+import { contacto, mensagens } from './vistas/contacto.js';
 
 const ROTAS = [
-  [/^alteracoes$/, alteracoes], [/^entrar$/, entrar], [/^acesso\/([^/]+)$/, acesso],
+  [/^alteracoes$/, alteracoes], [/^entrar$/, entrar], [/^acesso\/([^/]+)$/, acesso], [/^contacto$/, contacto], [/^mensagens$/, mensagens],
   [/^procurar$/, procurar],
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
   [/^cronologia$/, cronologia], [/^discografia$/, discografia], [/^gravacao\/([^/]+)$/, gravacao],

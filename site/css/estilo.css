@@ -99,8 +99,8 @@ kbd { font: 11px var(--f-mono); padding: 1px 5px; border: 1px solid var(--linha-
   #nav a { padding-top: 4px; padding-bottom: 4px; }
   .nav-grupo { margin-top: 9px; }
 }
-#tema, #recolher-menu, #entrar { display: flex; align-items: center; gap: 8px; border: 0; background: none; color: var(--texto-3); padding: 6px 10px; font-size: 14px; }
-#tema:hover, #recolher-menu:hover, #entrar:hover { color: var(--texto); text-decoration: none; }
+#tema, #recolher-menu, #entrar, #contacto { display: flex; align-items: center; gap: 8px; border: 0; background: none; color: var(--texto-3); padding: 6px 10px; font-size: 14px; }
+#tema:hover, #recolher-menu:hover, #entrar:hover, #contacto:hover { color: var(--texto); text-decoration: none; }
 
 /* menu recolhido: só os ícones (no computador; no telemóvel o menu já é uma barra no topo) */
 .moldura { transition: grid-template-columns .2s ease; }
@@ -110,7 +110,7 @@ kbd { font: 11px var(--f-mono); padding: 1px 5px; border: 1px solid var(--linha-
   :root.menu-recolhido .lateral::-webkit-scrollbar { display: none; } /* rola com a roda do rato, sem barra */
   :root.menu-recolhido .marca-site { padding: 0; }
   :root.menu-recolhido .marca-site > span, :root.menu-recolhido .procura-global span, :root.menu-recolhido .procura-global kbd,
-  :root.menu-recolhido #nav a > span, :root.menu-recolhido #nav a > .contagem, :root.menu-recolhido #entrar > span, :root.menu-recolhido .lateral-rodape button > span { display: none; }
+  :root.menu-recolhido #nav a > span, :root.menu-recolhido #nav a > .contagem, :root.menu-recolhido #entrar > span, :root.menu-recolhido #contacto > span, :root.menu-recolhido .lateral-rodape button > span { display: none; }
   :root.menu-recolhido .procura-global { width: 42px; justify-content: center; padding: 9px 0; }
   :root.menu-recolhido #nav { width: 100%; }
   :root.menu-recolhido .nav-grupo { font-size: 0; height: 1px; background: var(--linha); margin: 9px 6px; }
@@ -118,7 +118,7 @@ kbd { font: 11px var(--f-mono); padding: 1px 5px; border: 1px solid var(--linha-
   :root.menu-recolhido #nav a.ativo { box-shadow: inset 3px 0 0 var(--ouro); }
   :root.menu-recolhido #nav a.ativo::after { display: none; }
   :root.menu-recolhido .lateral-rodape { width: 100%; }
-  :root.menu-recolhido :is(#entrar, #modo-edicao, #mostrar-indisponiveis, #tema, #recolher-menu) { justify-content: center; width: 100%; padding: 8px 0; }
+  :root.menu-recolhido :is(#entrar, #contacto, #modo-edicao, #mostrar-indisponiveis, #tema, #recolher-menu) { justify-content: center; width: 100%; padding: 8px 0; }
   :root.menu-recolhido #recolher-menu svg { transform: scaleX(-1); }
 }
 
@@ -235,7 +235,7 @@ a.cartao:hover, .cartao.clicavel:hover { border-color: var(--linha-forte); trans
 .cartao .meta { font-size: 12.5px; color: var(--texto-3); }
 .cartao .resumo { font: 14px/1.5 var(--f-leitura); color: var(--texto-2); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .retrato {
-  aspect-ratio: 4/3; background: var(--fundo-2) center/cover no-repeat; display: grid; place-items: center;
+  aspect-ratio: 1; background: var(--fundo-2) center/cover no-repeat; display: grid; place-items: center;
   font: 600 46px var(--f-titulo); color: var(--ouro); border-bottom: 1px solid var(--linha);
 }
 .papeis { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -298,7 +298,7 @@ a.cartao:hover, .cartao.clicavel:hover { border-color: var(--linha-forte); trans
 
 /* ============================================================ ficha de pessoa */
 .ficha-topo { display: grid; grid-template-columns: 200px 1fr; gap: 32px; align-items: end; margin-bottom: 10px; }
-.ficha-topo .retrato { aspect-ratio: 3/4; border-radius: var(--r); border: 1px solid var(--linha); font-size: 64px; }
+.ficha-topo .retrato { aspect-ratio: 1; border-radius: var(--r); border: 1px solid var(--linha); font-size: 64px; }
 .ficha-topo .anos { font: 500 20px var(--f-titulo); color: var(--texto-2); margin: 6px 0 12px; font-style: italic; }
 .ficha-topo .alt { color: var(--texto-3); font-size: 13.5px; margin-top: 8px; }
 .acoes-topo { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
@@ -422,9 +422,6 @@ table.factos tr + tr th { border-top: 0; }
 .legenda-arvore .l-trac { stroke-dasharray: 7 5; }
 .legenda-arvore .anel .fundo { fill: none; }
 .legenda-arvore .pais-leg { display: inline-grid; place-items: center; width: 18px; height: 18px; border: 2px dashed var(--linha-forte); border-radius: 50%; font-size: 11px; }
-.legenda-arvore .pt { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
-.legenda-arvore .pt.ouro { background: var(--ouro); } .legenda-arvore .pt.azul { background: var(--azul); }
-.legenda-arvore .pt.vinho { background: var(--vinho); } .legenda-arvore .pt.cinza { background: var(--texto-3); }
 .arvore-linhas .rotulo-parentesco { font: 600 11px var(--f-ui); fill: var(--texto-3); paint-order: stroke; stroke: var(--fundo-2); stroke-width: 4px; }
 .arvore-linhas .no-casal { fill: var(--superficie); stroke: var(--texto-3); stroke-width: 2; }
 .arvore-caixa { overflow-x: auto; overflow-y: hidden; padding: 6px 0 14px; border: 1px solid var(--linha); border-radius: var(--r);
@@ -441,20 +438,17 @@ table.factos tr + tr th { border-top: 0; }
 .familia > h2 small { font: 13px var(--f-ui); color: var(--texto-3); }
 .pais-incognitos { position: absolute; width: 34px; height: 34px; border-radius: 50%; border: 2px dashed var(--linha-forte);
   background: var(--superficie); display: grid; place-items: center; color: var(--texto-3); font: 600 15px var(--f-ui); }
-.no-arvore { position: absolute; width: 156px; height: 216px; display: flex; flex-direction: column; align-items: flex-start; gap: 6px;
+.no-arvore { position: absolute; width: 156px; height: 224px; display: flex; flex-direction: column; align-items: flex-start; gap: 6px;
   padding: 12px 12px 10px; background: var(--superficie); border: 1px solid var(--linha); border-radius: 12px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, .06), 0 6px 18px rgba(0, 0, 0, .07); text-align: left; color: var(--texto); font: 14px/1.25 var(--f-ui);
   transition: box-shadow .15s, opacity .2s, transform .15s; cursor: pointer; }
 .no-arvore:hover { box-shadow: 0 2px 4px rgba(0, 0, 0, .08), 0 12px 28px rgba(0, 0, 0, .14); text-decoration: none; }
 .no-arvore.foco { outline: 3px solid var(--ouro); outline-offset: 2px; }
-.foto-arvore { width: 100%; height: 104px; border-radius: 50% 8% 50% 50%; overflow: hidden; position: relative; flex: none;
+.foto-arvore { width: 104px; height: 104px; align-self: center; border-radius: 12px; overflow: hidden; position: relative; flex: none;
   display: grid; place-items: end center; background: var(--fundo-2); color: var(--texto-3); }
-.foto-arvore img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; }
+.foto-arvore img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; z-index: 1; }
 .foto-arvore svg { width: 78%; height: 78%; fill: currentColor; stroke: none; opacity: .85; }
-.foto-arvore.papel-guitarrista { background: var(--ouro-suave); color: var(--ouro); }
-.foto-arvore.papel-violista { background: rgba(63, 102, 128, .14); color: var(--azul); }
-.foto-arvore.papel-cantor { background: var(--vinho-suave); color: var(--vinho); }
-.foto-arvore.papel-luthier { background: var(--fundo-2); color: var(--texto-2); }
+.no-arvore:has(.na-foto) .nome-arvore { margin-top: 6px; }
 .nome-arvore { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; width: 100%; }
 .nome-arvore b { display: block; font-weight: 700; }
 .anos-arvore { color: var(--texto-3); font-size: 13px; margin-top: auto; }
@@ -674,7 +668,7 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .o-que-muda h4 { font: 600 14px var(--f-ui); margin: 12px 0 0; }
 .papeis-lista { margin: 12px 0 0; padding-left: 18px; font: 14px/1.6 var(--f-ui); color: var(--texto-2); }
 
-#entrar[hidden], #nav-propostas[hidden] { display: none; }
+#entrar[hidden], #nav-propostas[hidden], #nav-mensagens[hidden] { display: none; }
 #nav .contagem { margin-left: auto; font: 600 11px var(--f-ui); color: var(--fundo); background: var(--ouro); border-radius: 999px; padding: 1px 7px; }
 #nav .contagem:empty { display: none; }
 .proposta { padding: 20px 0; border-bottom: 1px solid var(--linha); }
@@ -795,7 +789,7 @@ html { scroll-padding-top: var(--cabecalho-h); } /* os saltos dentro da página 
 /* topo da ficha: retrato que abre em grande, com a origem da fotografia; anos com «≠» quando as fontes divergem */
 .retrato-ficha { margin: 0; min-width: 0; }
 .retrato-ficha .retrato { position: relative; display: grid; width: 100%; padding: 0; overflow: hidden; cursor: zoom-in; }
-.retrato-ficha .retrato img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.retrato-ficha .retrato img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; }
 .retrato-ficha figcaption { margin-top: 6px; font-size: 12px; line-height: 1.35; color: var(--texto-3); overflow-wrap: anywhere; }
 .parentesco-topo { margin: 6px 0 0; font: italic 500 19px var(--f-titulo); color: var(--texto-2); }
 .anos .diverge { margin-left: 2px; padding: 0 5px; border: 0; border-radius: 4px; background: var(--vinho-suave); color: var(--vinho);
@@ -1238,7 +1232,7 @@ button.ligacao:hover { text-decoration: underline; }
 /* ===== P2: imagens dos cartões (retratos, capas, avatares, mosaico) ===== */
 /* uma <img loading="lazy"> por cima do fundo do elemento, em vez de imagem de fundo: só se descarrega perto do ecrã */
 :is(.retrato, .avatar, .mosaico a) { position: relative; overflow: hidden; }
-.img-cartao { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.img-cartao { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; }
 .mosaico a span { z-index: 1; }
 
 /* ===== P6: avisos para quem edita e alterações recentes ===== */
@@ -1500,3 +1494,128 @@ form.preenchido { outline: 2px solid var(--ouro); outline-offset: 3px; }
 .estado-conta { margin: 12px 0 6px; font-size: 13px; }
 .historico .repor { margin: 8px 0 0; }
 .nav-grupo[hidden] { display: none; }
+
+/* ===== Formulários: fonte por tipo, data num só campo, facto ajustado ao tipo ===== */
+.como-sabe:has(option[value="site"]:checked) [data-so]:not([data-so~="site"]),
+.como-sabe:has(option[value="livro"]:checked) [data-so]:not([data-so~="livro"]),
+.como-sabe:has(option[value="artigo"]:checked) [data-so]:not([data-so~="artigo"]),
+.como-sabe:has(option[value="documento"]:checked) [data-so]:not([data-so~="documento"]) { display: none; }
+.campo-data { display: block; }
+.leitura-data { display: block; min-height: 1.3em; color: var(--verde); font-size: 13px; }
+.leitura-data.erro { color: var(--vinho); }
+.facto-corpo { display: grid; gap: 10px; margin-top: 10px; }
+.facto-corpo[hidden], .facto-corpo [hidden] { display: none; }
+.criar-pessoa { display: block; margin-top: 4px; font-size: 13px; }
+.parecidas:empty { display: none; }
+.parecidas-lista { position: static; display: block; max-height: 220px; overflow: auto; margin: 4px 0 10px; box-shadow: none; }
+.parecidas-lista li { cursor: pointer; }
+
+/* ---- ícones dos atributos de uma pessoa (guitarra, viola, cantor, pena, nota…) */
+.icone-papel { width: 1.15em; height: 1.15em; flex: none; display: inline-block; vertical-align: -.2em; }
+.selo-papel { display: inline-flex; align-items: center; gap: 4px; }
+.selo-papel .icone-papel { color: var(--ouro-forte); }
+.icones-papel { display: inline-flex; flex-wrap: wrap; gap: 3px; }
+.icones-papel i { display: grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; font-style: normal;
+  background: var(--superficie); color: var(--ouro-forte); border: 1px solid var(--linha); }
+.icones-papel .icone-papel { width: 16px; height: 16px; }
+.icones-papel.na-foto { position: absolute; z-index: 2; top: 104px; left: 0; right: 0; justify-content: center; flex-wrap: nowrap; }
+.icones-papel.na-ficha { margin: 2px 0 8px; }
+.icones-papel.na-ficha i { width: 30px; height: 30px; }
+.icones-papel.na-ficha .icone-papel { width: 20px; height: 20px; }
+.legenda-papeis { display: inline-flex; flex-wrap: wrap; gap: 4px 12px; }
+.legenda-papeis > span { display: inline-flex; align-items: center; gap: 4px; }
+.legenda-papeis .icone-papel { color: var(--ouro-forte); width: 16px; height: 16px; }
+.escolha-area { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 18px; margin: 0 0 14px; }
+
+/* ---- recortar uma fotografia a 1:1 */
+.recorte-caixa { position: relative; width: min(360px, 100%); aspect-ratio: 1; margin: 10px auto; overflow: hidden; background: var(--fundo-2);
+  border: 1px solid var(--linha-forte); cursor: grab; touch-action: none; user-select: none; }
+.recorte-caixa.a-arrastar { cursor: grabbing; }
+.recorte-caixa img { display: block; width: 100%; height: 100%; object-fit: cover; pointer-events: none; }
+.recorte-zoom { display: flex; align-items: center; gap: 10px; }
+.recorte-zoom input { flex: 1; }
+.retrato-ficha > .botao { margin-top: 6px; }
+.procurar-foto { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 8px; }
+/* ---- fontes */
+.dobra-principios { margin: 0 0 18px; }
+.dobra-principios > summary { cursor: pointer; font: 600 15px var(--f-ui); padding: 6px 0; }
+.dobra-principios[open] > summary { margin-bottom: 10px; }
+.filtros-fontes { margin-top: 18px; }
+/* ---- contacto e mensagens */
+.form-contacto { display: flex; flex-direction: column; gap: 12px; }
+.form-contacto label { display: block; font-weight: 600; }
+.form-contacto label small { font-weight: 400; color: var(--texto-3); margin-left: 4px; }
+.campo-isco { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.credito { margin-top: 48px; text-align: right; font-size: 11px; color: var(--texto-3); opacity: .75; }
+.mensagens { display: flex; flex-direction: column; gap: 12px; }
+.mensagem { padding: 14px 16px; background: var(--superficie); border: 1px solid var(--linha-forte); border-left: 3px solid var(--ouro); }
+.mensagem.lida { border-left-color: var(--linha); opacity: .8; }
+.mensagem .meta { margin: 0 0 6px; font-size: 13px; color: var(--texto-3); }
+.texto-mensagem { white-space: pre-wrap; overflow-wrap: anywhere; margin: 0 0 10px; }
+
+/* ===== letras (letras.js): versões da letra, comparar duas versões, e a folha da letra no leitor ===== */
+.letra-versoes { margin: 0 0 14px; }
+.letra-versoes .ficha { text-align: left; }
+.letra-rotulo { margin: 0 0 8px; font-weight: 600; color: var(--texto-2); }
+.letra-cantada { margin-top: 16px; }
+.letra-cantada h3 { margin: 0 0 2px; font: 600 14px var(--f-ui); color: var(--texto-2); }
+.letra-cantada li { padding: 8px 0; align-items: center; }
+.letra-sites { display: flex; flex-wrap: wrap; gap: 6px; margin-left: auto; }
+.letra-acoes { display: grid; gap: 8px; margin-top: 12px; }
+.letra-acoes p { margin: 0; }
+.seccao-letra > .dobra-edicao { margin-top: 16px; }
+.campo.campo-letra { font: 16px/1.6 var(--f-leitura); }
+/* comparar */
+.letra-comparar { margin-top: 18px; }
+.letra-comparar > summary { padding: 6px 0; font: 600 15px var(--f-ui); cursor: pointer; }
+.letra-comparar[open] > summary { margin-bottom: 10px; }
+.letra-comparar .linha-campos > label { display: grid; gap: 4px; min-width: 0; }
+.letra-comparar select.campo { width: 100%; min-width: 0; } /* um nome de versão comprido não alarga a página */
+.comparar-resumo { margin: 12px 0 8px; font: 500 14px var(--f-ui); }
+.letra-nota { margin: 8px 0 0; font-size: 12.5px; }
+.comparar-grelha { overflow: hidden; background: var(--superficie); border: 1px solid var(--linha); border-radius: var(--r); font: 16px/1.6 var(--f-leitura); }
+.comparar-linha { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.comparar-linha > div { padding: 2px 14px; overflow-wrap: anywhere; }
+.comparar-linha > div + div { border-left: 1px solid var(--linha); }
+.comparar-linha.quebra > div { height: .8em; padding: 0; }
+.comparar-titulos > div { padding: 8px 14px; background: var(--superficie-2); border-bottom: 1px solid var(--linha); font: 600 13px/1.35 var(--f-ui); }
+.comparar-linha.difere > div, .comparar-linha.so-a > div:first-child, .comparar-linha.so-b > div:last-child { background: var(--ouro-suave); }
+.comparar-linha mark { font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+/* a folha da letra: acima do leitor (nunca tapa os comandos), por baixo do painel das fontes e da fila do leitor */
+.folha-letra { position: fixed; top: 0; right: 0; bottom: var(--leitor-h); z-index: 25; width: min(480px, 100vw); overflow-y: auto; overscroll-behavior: contain;
+  padding: calc(18px + env(safe-area-inset-top)) max(24px, env(safe-area-inset-right)) 24px 24px; outline: none;
+  background: var(--superficie); border-left: 1px solid var(--linha); box-shadow: var(--sombra-forte); }
+.folha-letra .fechar { position: sticky; top: 0; float: right; width: 44px; height: 44px; margin: -8px -10px 0 0; border: 0; background: none; color: var(--texto-3); font-size: 26px; line-height: 1; }
+.folha-letra .sobretitulo { margin: 0 0 2px; }
+.folha-letra h2 { margin: 0 0 12px; font-size: 26px; }
+.folha-letra .letra { padding: 0; background: none; border: 0; font-size: 18px; line-height: 1.75; }
+.letra-aqui { margin: 0 0 10px; color: var(--ouro-forte); font: 500 13px var(--f-ui); }
+.folha-letra-obra { margin: 18px 0 0; }
+.leitor-botoes #leitor-letra { width: auto; padding: 0 10px; border: 1px solid var(--linha-forte); color: var(--texto); font: 600 13px var(--f-ui); }
+.leitor-botoes #leitor-letra[aria-expanded="true"] { background: var(--ouro); border-color: var(--ouro); color: var(--fundo); }
+/* a janela «Letra» de um vídeo ou áudio */
+.dialogo-edicao label.letra-opcao { display: flex; align-items: flex-start; margin: 0 0 6px; }
+.dialogo-edicao label.letra-opcao input { margin-top: 4px; }
+.dialogo-edicao label.letra-opcao small { display: block; }
+.letra-escolha legend small { color: var(--texto-3); font: 12.5px var(--f-ui); }
+.letra-campos { display: grid; gap: 12px; }
+.letra-campos:empty { display: none; }
+.dialogo-letra [data-letra-existente] .fichas { margin: 0 0 8px; }
+@media (max-width: 600px) {
+  /* no telemóvel, as linhas iguais uma vez só, e as diferentes uma por cima da outra, cada uma com o número da versão */
+  .comparar-linha { grid-template-columns: minmax(0, 1fr); }
+  .comparar-linha > div + div { border-left: 0; }
+  .comparar-linha.igual > div + div, .comparar-linha.quebra > div + div, .comparar-nada { display: none; }
+  .comparar-linha.difere, .comparar-linha.so-a, .comparar-linha.so-b { margin: 4px 0; }
+  .comparar-titulos > div::before, .comparar-linha.difere > div::before, .comparar-linha.so-a > div::before, .comparar-linha.so-b > div::before {
+    content: attr(data-lado) ".\00a0"; color: var(--ouro-forte); font: 600 12px var(--f-ui); }
+  .comparar-titulos > div { border-bottom: 0; }
+  .comparar-titulos > div + div { border-bottom: 1px solid var(--linha); }
+  .folha-letra { width: 100%; padding-left: max(18px, env(safe-area-inset-left)); padding-right: max(18px, env(safe-area-inset-right)); border-left: 0; box-shadow: none; }
+  .leitor-botoes #leitor-letra { padding: 0 8px; }
+  .seccao-letra .como-sabe .linha-campos > label.opcao, .dialogo-letra .como-sabe .linha-campos > label.opcao { flex: 1 1 100%; min-width: 0; }
+}
+@media print { .folha-letra { display: none !important; } }
+
+/* as fotografias de grupo ficam mais largas: um quadrado cortaria pessoas */
+.retrato.de-grupo { aspect-ratio: 4/3; }

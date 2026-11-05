@@ -35,7 +35,20 @@
       "nota": "voz; desde os inícios até à morte em 2009"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwiQx2eIhYId_MtlvmtXgi_nLIjyYtb5uO1xMDk-eZ0OUXupcFh5vKk6X76Icub6VFMpcci6dlSXAwkj3Vv-nTJq_6Omt0B59145exvQK7x1KmLrvaNwYnxtxzinTLapIYel8OztrD0gjIy2BpUjSqqTXeTpl_m_qbPsr22JFU_Ao46vcvT25lp7H/s3047/19831105%20(1)%20Famali%C3%A7%C3%A3o%20JCT_EA_NC%20Ant_Orf.jpg",
+      "legenda": "Atuação em Vila Nova de Famalicão, com os Antigos Orfeonistas da UC, em 1983. Guitarra: José Carlos Teixeira; Viola: Eduardo Aroso; Cantor: Nuno de Carvalho.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 4: Atuação em Vila Nova de Famalicão, com os Antigos Orfeonistas da UC, em 1983. Guitarra: José Carlos Teixeira; Viola: Eduardo Aroso; Cantor: Nuno de Carvalho."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

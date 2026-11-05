@@ -419,7 +419,20 @@
       "nota": "guitarra de Coimbra e viola: a «dupla Andias / Durval»"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOv-6c2O2ltIemxbn93dfYNKg6xQ0WT8DlG7-RNAsawZXQflgB6vnf-MK4ISSlgC-bI0zkAGyh2JCQp2oWEVr5sNYtW6EVGL025KhtOuJbpuAQLhlm5W-cvHKbyTxCidJvVHxWaUZagk/s1600/AAndias,+CLima,VNunes2010.jpg",
+      "legenda": "António Andias (g) voltou ao activo, aqui acompanhado por Carlos Lima (v), no hotel Abrantur, em Abrantes, no passado dia 23, por ocasião do 4º Curso de Língua e Cultura Portuguesa do Instituto Íbero-Americano da Finlândia. Cantaram Victor Nunes, Dominique Ventura e Feliciano Dias.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/07/antonio-andias-g-voltou-ao-activo-aqui.html",
+          "doc": "gc-iii:3939308438727505906",
+          "citacao": "António Andias (g) voltou ao activo, aqui acompanhado por Carlos Lima (v), no hotel Abrantur, em Abrantes, no passado dia 23, por ocasião do 4º Curso de Língua e Cultura Portuguesa do Instituto Íbero-Americano da Finlândia. Cantaram Victor Nunes, Dominique Ventura e Feliciano Dias."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

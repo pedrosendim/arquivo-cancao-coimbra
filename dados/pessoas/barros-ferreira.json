@@ -29,7 +29,20 @@
       "nota": "voz (1991, 1997)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Serenata%20final%205%20Ze%20Maria.jpg",
+      "legenda": "Coro dos Antigos Orfeonistas nos Açores. Serenata nas escadas do Amor da Pátria, na cidade da Horta, na ilha do Faial. Balada final. José Maria Barros Ferreira faz um dos solos.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/coro-dos-antigos-orfeonist_115221838591474701.html",
+          "doc": "gc-i:115221838591474701",
+          "citacao": "Coro dos Antigos Orfeonistas nos Açores. Serenata nas escadas do Amor da Pátria, na cidade da Horta, na ilha do Faial. Balada final. José Maria Barros Ferreira faz um dos solos."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

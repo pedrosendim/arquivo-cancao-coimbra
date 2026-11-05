@@ -412,7 +412,20 @@
       "nota": "CD/DVD «Coimbra - Espírito e Raiz» (2005), com músicas de João Moura cantadas por Luiz Goes."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Carranca%20com%20Joo%20Moura%20e%20M%20Antnio.jpg",
+      "legenda": "Lançamento do livro de Carlos Carranca, \"Académica sempre...a poética do futebol\". Carlos Carranca lendo o poema dedicado a Manuel António, com este a seu lado e João Moura a acompanhar na guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lanamento-do-livro-de-carl_111958326907821883.html",
+          "doc": "gc-i:111958326907821883",
+          "citacao": "Lançamento do livro de Carlos Carranca, \"Académica sempre...a poética do futebol\". Carlos Carranca lendo o poema dedicado a Manuel António, com este a seu lado e João Moura a acompanhar na guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

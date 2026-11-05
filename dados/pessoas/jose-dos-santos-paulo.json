@@ -356,7 +356,20 @@
       "nota": "Guitarra portuguesa, no ACM (Coimbra)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Foto%20A%20Otrf%20em%20Frana,%201989,%20J%20Paulo%20a%20cantar.jpg",
+      "legenda": "Antigos Orfeonistas em França, 1989. José Paulo a cantar num convívio, depois de um espectáculo, acompanhado ao piano por António Requixa.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/antigos-orfeonistas-em-frana-1989.html",
+          "doc": "gc-i:111835206712125914",
+          "citacao": "Antigos Orfeonistas em França, 1989. José Paulo a cantar num convívio, depois de um espectáculo, acompanhado ao piano por António Requixa."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -262,7 +262,20 @@
       "nota": "viola; EP «Fado Corrido de Coimbra» (Ofir AM 4.101, 1967)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Nuno%20Guimares%20101.jpg",
+      "legenda": "Jorge Rino (Viola) e Manuel Borralho (guitarra), colaboradores de Nuno Guimarães nos EPs.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/jorge-rino-viola-e-manuel-borralho_20.html",
+          "doc": "gc-i:111402102585893017",
+          "citacao": "Jorge Rino (Viola) e Manuel Borralho (guitarra), colaboradores de Nuno Guimarães nos EPs."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

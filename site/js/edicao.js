@@ -3,13 +3,15 @@
 // ficheiro original de dados/, altera-o e envia-o para gravar.
 // Na cópia local o servidor grava, valida e reconstrói o site; online, a mesma alteração seguirá como
 // proposta, que um editor aprova. Nada aqui é fonte: tudo fica assinado (quem, quando, porquê) e à vista.
-import { E, carregar, juntarPendentes, REL, CAMPOS, nomeDe, comArquivo, TIPOS_FONTE, nomeContribuidor, fonteNome, catalogado, chaveMedia } from './estado.js';
-import { $, api, aviso, guardar, ler, fmtData, norm, classificar, html, plural, enderecoSeguro } from './util.js';
+import { E, carregar, juntarPendentes, REL, CAMPOS, PAPEIS, nomeDe, comArquivo, TIPOS_FONTE, nomeContribuidor, fonteNome, catalogado, chaveMedia } from './estado.js';
+import { $, api, aviso, guardar, ler, fmtData, norm, classificar, html, plural, enderecoSeguro, MESES } from './util.js';
 import { ESPECIES, lerCampos, fichaVazia, fichasIguais, factosDaFichaNova, voltaSegura, outraFichaDoMedia } from './fichas.js';
 import { abrirNotaNova, abrirEditarNota, fecharNota, autorNotaAntiga } from './notas.js';
 import { idDoRotulo } from './desambiguar.js';
+import { corpoRecorte, ligarRecorte } from './recorte.js';
 import { avisosDaSessao } from './avisos-edicao.js';
 import { aplicarMinhasPropostas, juntarMinhaProposta } from './minhas-propostas.js';
+import { ID_ANTIGA, versoesDe, versaoDe, autorVersao, podeMudarVersao, juntarVersao, fundirVersoes } from './letras.js';
 
 export const sessao = () => E.sessao?.contribuidor || null;
 export const editando = () => !!sessao() && E.editando;
@@ -67,17 +69,32 @@ async function comFicha(alvo, alterar) {
 }
 const comPessoa = (id, alterar) => comFicha(`pessoas/${id}`, alterar);
 
-/** AAAA, AAAA-MM ou AAAA-MM-DD a partir dos campos dia, mês e ano (vazio se não houver ano). */
-export function dataDe(d) {
-  const ano = texto(d.ano), mes = texto(d.mes), dia = texto(d.dia);
-  if (!ano) { exigir(!mes && !dia, 'Falta o ano.'); return ''; }
-  exigir(/^\d{4}$/.test(ano), 'O ano escreve-se com quatro algarismos (ex.: 1925).');
-  if (!mes) { exigir(!dia, 'Escolha também o mês.'); return ano; }
-  const m = mes.padStart(2, '0');
-  if (!dia) return `${ano}-${m}`;
-  exigir(/^\d{1,2}$/.test(dia) && +dia >= 1 && +dia <= 31, 'O dia vai de 1 a 31.');
-  return `${ano}-${m}-${dia.padStart(2, '0')}`;
+/** Uma data escrita num só campo, como se escreve à mão: «10/5/1899», «10-05-1899», «10 de maio de 1899», «maio de 1899»,
+ *  «5/1899», «1899», «1899-05-10»; com «c.», «cerca de» ou «por volta de» à frente fica aproximada. Devolve { data, aprox },
+ *  com a data em AAAA, AAAA-MM ou AAAA-MM-DD (vazia se não se escreveu nada). */
+export function lerData(t) {
+  let s = norm(texto(t)).replace(/\s+/g, ' ');
+  if (!s) return { data: '', aprox: false };
+  const semAprox = s.replace(/^(c\.?|ca\.?|cerca de|por volta de|~)\s*/, '');
+  const aprox = semAprox !== s;
+  s = semAprox.replace(/\bde\b/g, ' ').replace(/,/g, ' ').replace(/\s+/g, ' ').trim();
+  const NAO = 'Não percebi a data. Escreva por exemplo 10/5/1899, maio de 1899 ou 1899.';
+  let m, ano = '', mes = '', dia = '';
+  if ((m = s.match(/^(\d{4})$/))) [, ano] = m;
+  else if ((m = s.match(/^(\d{4})[-/.](\d{1,2})(?:[-/.](\d{1,2}))?$/))) [, ano, mes, dia = ''] = m;
+  else if ((m = s.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/))) [, dia, mes, ano] = m;
+  else if ((m = s.match(/^(\d{1,2})[-/.](\d{4})$/))) [, mes, ano] = m;
+  else if ((m = s.match(/^(?:(\d{1,2})[.\s]+)?([a-z]{3,})\.?\s+(\d{4})$/))) {
+    const i = MESES.findIndex((x) => norm(x).startsWith(m[2]));
+    exigir(i >= 0, NAO);
+    [dia, mes, ano] = [m[1] || '', String(i + 1), m[3]];
+  } else throw new Error(NAO);
+  exigir(!mes || (+mes >= 1 && +mes <= 12), 'O mês vai de 1 a 12.');
+  exigir(!dia || (+dia >= 1 && +dia <= new Date(+ano, +mes, 0).getDate()), 'Esse dia não existe nesse mês.');
+  return { data: [ano, mes.padStart(mes ? 2 : 0, '0'), dia.padStart(dia ? 2 : 0, '0')].filter(Boolean).join('-'), aprox };
 }
+/** A data de um formulário (campo data_texto). */
+export const dataDe = (d) => lerData(d.data_texto).data;
 
 function imagemDe(p, url) {
   const im = (p.imagens || []).find((x) => x.url === url);
@@ -140,6 +157,21 @@ async function proporFonteDe(url, ctx, uso, nome) {
   return f;
 }
 
+const TIPO_NO_REGISTO = { livro: 'livro', artigo: 'imprensa', documento: 'outro' };
+/** Um livro, artigo ou documento: a fonte registada com este título, ou uma nova, proposta (pendente) na mesma gravação,
+ *  com o que quem contribui escreveu. Pode não ter endereço: a frase fica por confirmar até alguém a ver no original. */
+async function fonteDaPublicacao(titulo, autor, tipo, ctx, uso) {
+  const iguais = (f) => norm(f.nome) === norm(titulo);
+  const ja = (ctx.fontes?.fontes || E.base.fontes).find(iguais);
+  if (ja) return ja;
+  ctx.fontes ||= await lerDados('fontes/fontes.json');
+  const id = unico(slug(titulo).slice(0, 50).replace(/-+$/, ''), (x) => ctx.fontes.fontes.some((f) => f.id === x));
+  const f = { id, nome: titulo, tipo: TIPO_NO_REGISTO[tipo] || 'outro', url: '', autor: texto(autor), estado: 'pendente', decidido_em: null, uso: [uso],
+    recolha: { metodo: 'manual' }, notas: 'Proposta ao citar a publicação no modo de edição.', proposta_por: sessao().id, proposta_em: hoje() };
+  ctx.fontes.fontes.push(f);
+  return f;
+}
+
 const PARES = { '«': '»', '“': '”', '„': '“', '‹': '›', '‘': '’', '"': '"', "'": "'" };
 /** As aspas `abre`…`fecha` nas pontas envolvem a frase inteira (e não são o fim de um título e o princípio de outro,
  *  como em «A» e «B»)? Com aspas iguais dos dois lados ("…"), só se não houver outras lá dentro. */
@@ -178,8 +210,8 @@ export const fraseEmFalta = (v) => `Não encontrei esta frase ${noDocumento(v)}.
   + (v.bate && v.troco ? ` Bate até «…${v.bate}», mas não a partir de «${v.troco}».` : v.troco ? ` O primeiro troço que não bate é «${v.troco}».` : '')
   + ' Copie-a à letra (pode cortar troços com …).';
 
-/** A prova de uma afirmação: o endereço da página (ou uma fonte da lista) com a frase copiada à letra, ou o testemunho
- *  assinado de quem o sabe. A frase fica atribuída à fonte escolhida na lista (por exemplo «é do livro») ou à do site que
+/** A prova de uma afirmação: um site (o endereço da página), um livro, um artigo ou um documento (o título, a escolher entre
+ *  as fontes registadas ou proposto de novo) com a frase copiada à letra, ou o testemunho assinado de quem o sabe. A frase fica atribuída à fonte escolhida na lista (por exemplo «é do livro») ou à do site que
  *  publica a página; se o site ainda não for fonte do arquivo, fica proposto e a citação mostra «fonte pendente». Na cópia
  *  local, a frase confirma-se logo no documento arquivado. */
 async function prova(d, ctx, uso = 'factos') {
@@ -189,15 +221,18 @@ async function prova(d, ctx, uso = 'factos') {
   const citacao = semAspas(d.citacao), url = limparEndereco(d.fonte_url);
   exigir(citacao, 'Copie à letra a frase da fonte que o diz: é a prova.');
   exigir(!url || urlValida(url), 'O endereço da página tem de começar por https://');
-  let f = d.fonte ? E.fontes[d.fonte] : url ? fontesDoEndereco(url).site : null;
-  exigir(url || f, 'Indique o endereço da página onde está escrito (ou, se for um livro ou disco, escolha a fonte na lista).');
+  const tipoFonte = d.tipo_fonte || 'site', titulo = texto(d.fonte_titulo);
+  let f = d.fonte ? E.fontes[d.fonte] : null;
+  if (!f && tipoFonte !== 'site' && titulo) f = await fonteDaPublicacao(titulo, d.fonte_autor, tipoFonte, ctx, uso);
+  if (!f && url) f = fontesDoEndereco(url).site;
+  exigir(url || f, tipoFonte === 'site' ? 'Indique o endereço da página onde está escrito.' : 'Escreva o título do livro, do artigo ou do documento.');
   if (!f) f = await proporFonteDe(url, ctx, uso, d.fonte_nome);
   exigir(f.estado !== 'rejeitada', `A fonte «${f.nome}» foi rejeitada pelos editores: não se pode citar.`);
   exigir((f.uso || []).includes(uso), `A fonte «${f.nome}» não está aceite para ${uso === 'media' ? 'fotografias, vídeos e áudios' : 'factos'}.`);
   const v = url ? await confirmarNoArquivo(url, citacao) : null;
   exigir(v?.estado !== 'nao-encontrada', v && fraseEmFalta(v));
   const referencia = texto(d.referencia);
-  return { fontes: [{ fonte: f.id, url: url || f.url, ...(v?.doc ? { doc: v.doc } : {}), citacao, ...(referencia ? { referencia } : {}),
+  return { fontes: [{ fonte: f.id, url: url || f.url || '', ...(v?.doc ? { doc: v.doc } : {}), citacao, ...(referencia ? { referencia } : {}),
     acrescentada: assinar() }], nota };
 }
 
@@ -272,7 +307,12 @@ const LIGACOES = {
   ],
   obras: [
     ['gravacoes', (f, de, para) => { for (const x of f.faixas || []) if (x.obra === de) x.obra = para; }],
-    ['media', (f, de, para) => { f.obras = troca(f.obras, de, para); }],
+    ['media', (f, de, para, { versoes = {} } = {}) => {
+      f.obras = troca(f.obras, de, para);
+      if (!f.letras?.[de]) return; // a versão que se canta neste vídeo acompanha a obra, com o id que tem agora
+      f.letras[para] ??= versoes[f.letras[de]] || f.letras[de];
+      delete f.letras[de];
+    }],
   ],
   gravacoes: [['media', (f, de, para) => { if (f.gravacao === de) f.gravacao = para; }]],
   media: [['gravacoes', (f, de, para) => { for (const x of f.faixas || []) if (x.media) x.media = troca(x.media, de, para); }]],
@@ -280,7 +320,7 @@ const LIGACOES = {
 };
 
 /** Fichas (de outros ficheiros) que referem `id`, lidas do repositório e já corrigidas para `para`. */
-async function corrigirReferencias(tipo, id, para, ignorar = new Set(), escolher = () => true) {
+async function corrigirReferencias(tipo, id, para, ignorar = new Set(), escolher = () => true, opcoes = {}) {
   const res = [];
   for (const [t, trocar] of LIGACOES[tipo]) {
     for (const x of E.base[t] || []) {
@@ -288,7 +328,7 @@ async function corrigirReferencias(tipo, id, para, ignorar = new Set(), escolher
       if (ignorar.has(chave) || !JSON.stringify(x).includes(`"${id}"`) || !escolher(t, x.id)) continue;
       const f = await lerDados(`dados/${chave}.json`);
       const antes = JSON.stringify(f);
-      trocar(f, id, para);
+      trocar(f, id, para, opcoes);
       if (t === 'pessoas') f.relacoes = semRepetidas(f.relacoes, f.id);
       if (JSON.stringify(f) !== antes) res.push([`dados/${chave}.json`, f]);
     }
@@ -319,7 +359,7 @@ const NOTA_ANTIGA = ['nota_editor', 'nota_editor_por', 'nota_editor_em'];
 
 /** Junta a ficha `b` em `a` (as duas do mesmo tipo): nada se perde, o que só `b` tinha passa para `a`. As notas assinadas
  *  juntam-se em lista, cada uma com quem a escreveu. Devolve o que fica registado na entrada «juntou» (a nota antiga de `b`,
- *  quando não pode ficar com a sua assinatura). */
+ *  quando não pode ficar com a sua assinatura) e as versões da letra que mudaram de id. */
 function fundir(tipo, a, b) {
   const titulo = ESPECIES[tipo].titulo;
   for (const [k, v] of Object.entries(b)) { // campos simples que `a` não tinha
@@ -352,13 +392,14 @@ function fundir(tipo, a, b) {
   a.distinta_de = juntarListas(a.distinta_de, b.distinta_de, (x) => x.id).filter((x) => x.id !== a.id && x.id !== b.id);
   if (!a.distinta_de.length) delete a.distinta_de;
   a.juntou = [...(a.juntou || []), ...(b.juntou || [])];
+  const versoes = tipo === 'obras' ? fundirVersoes(a, b) : {};
   // nascimento, morte, naturalidade e nome completo: se as duas fichas diziam coisas diferentes, fica à vista
   for (const campo of ['nascimento', 'morte', 'naturalidade', 'nome_completo']) {
     const v = (a.factos || []).filter((f) => f.campo === campo);
     const diferentes = new Set(v.map((f) => `${f.data || ''}|${norm(f.local || f.valor)}`));
     if (diferentes.size > 1) v.forEach((f) => { f.conflito = true; });
   }
-  return extra;
+  return { extra, versoes };
 }
 
 /** A nota a que um pedido se refere (`onde`: ficha, antiga, facto ou facto-antiga; `indice` na lista; `facto` e
@@ -460,6 +501,13 @@ const ACOES = {
     return 'retrato escolhido';
   }),
 
+  'recortar-imagem': ({ id, url, x, y, zoom }) => comPessoa(id, (p) => {
+    const dentro = (v, a, b) => Number.isFinite(+v) && +v >= a && +v <= b;
+    exigir(dentro(x, 0, 100) && dentro(y, 0, 100) && dentro(zoom, 1, 5), 'Este enquadramento não é válido.');
+    imagemDe(p, url).recorte = assinar({ x: +x, y: +y, zoom: +zoom });
+    return 'retrato ajustado';
+  }),
+
   'ocultar-imagem': ({ id, url, nota }) => comPessoa(id, (p) => {
     const im = imagemDe(p, url);
     delete im.escolhida;
@@ -487,7 +535,7 @@ const ACOES = {
     return 'fotografia acrescentada';
   }),
 
-  async 'nova-relacao'({ id, relacao, outro, nova_pessoa, nota, ...resto }) {
+  async 'nova-relacao'({ id, relacao, outro, nova_pessoa, nova_pessoa_papel, nota, ...resto }) {
     const [tipo, sentido] = String(relacao || '').split('|');
     exigir(REL[tipo], 'Escolha o tipo de relação.');
     nova_pessoa = String(nova_pessoa || '').trim();
@@ -501,6 +549,7 @@ const ACOES = {
       : { ...pr, nota: extra };
     if (!relacao_.nota) delete relacao_.nota;
     const nova = nova_pessoa ? fichaNova(nova_pessoa) : null;
+    if (nova && PAPEIS[nova_pessoa_papel]) nova.papeis = [nova_pessoa_papel];
     const outroId = nova ? nova.id : outro;
     exigir(outroId !== id, 'Uma pessoa não se relaciona consigo própria.');
     // a relação guarda-se só num sentido, na ficha de quem «é filho de», «é aluno de», «é membro de»…
@@ -561,9 +610,9 @@ const ACOES = {
   }),
 
   // ---- nascimento, morte, factos e referências (em fichas de qualquer tipo)
-  vida: ({ alvo, campo, local, aprox, ...d }) => comFicha(alvo, async (p, ctx) => {
+  vida: ({ alvo, campo, local, ...d }) => comFicha(alvo, async (p, ctx) => {
     exigir(['nascimento', 'morte'].includes(campo), 'Campo desconhecido.');
-    const data = dataDe(d);
+    const { data, aprox } = lerData(d.data_texto);
     local = texto(local);
     exigir(data || local, 'Indique a data, o local, ou os dois.');
     const quando = data ? (aprox ? `c. ${data.slice(0, 4)}` : fmtData(data)) : '';
@@ -571,14 +620,15 @@ const ACOES = {
     return `${CAMPOS[campo].toLowerCase()} ${juntarFacto(p, facto, await prova(d, ctx))}: ${facto.valor}`;
   }),
 
-  'novo-facto': ({ alvo, campo, valor, local, aprox, ...d }) => comFicha(alvo, async (f, ctx) => {
+  'novo-facto': ({ alvo, campo, valor, local, ...d }) => (['nascimento', 'morte'].includes(campo) ? ACOES.vida({ alvo, campo, local, ...d }) : comFicha(alvo, async (f, ctx) => {
     exigir(CAMPOS[campo], 'Escolha o tipo de facto.');
-    valor = texto(valor); local = texto(local);
+    local = texto(local);
+    valor = texto(valor) || local; // naturalidade, residência: o facto é o próprio local
     exigir(valor, 'Escreva o facto (ex.: «Atuou no Coliseu dos Recreios com Luiz Goes»).');
-    const data = dataDe(d);
+    const { data, aprox } = lerData(d.data_texto);
     const facto = { campo, valor: data && aprox ? `${valor} (c. ${data.slice(0, 4)})` : valor, ...(data && !aprox ? { data } : {}), ...(local ? { local } : {}) };
     return `facto ${juntarFacto(f, facto, await prova(d, ctx))} (${CAMPOS[campo].toLowerCase()})`;
-  }),
+  })),
 
   'retirar-facto': ({ alvo, indice, valor }) => comFicha(alvo, (f) => {
     const fa = f.factos?.[+indice];
@@ -683,7 +733,7 @@ const ACOES = {
     exigir(esp && manter && outra && manter !== outra, 'Escolha a outra ficha (diferente desta).');
     const a = await lerDados(`dados/${tipo}/${manter}.json`), b = await lerDados(`dados/${tipo}/${outra}.json`);
     exigir(!(a.distinta_de || []).some((x) => x.id === outra), `As duas fichas estão marcadas como diferentes («não confundir»). Se afinal são a mesma, retire primeiro essa marca.`);
-    const extra = fundir(tipo, a, b);
+    const { extra, versoes } = fundir(tipo, a, b);
     // o que vem de uma ficha por rever não fica com o selo «revisto» da outra: a ficha junta volta a ficar por rever
     if (a.estado_revisao === 'revisto' && b.estado_revisao !== 'revisto') {
       a.estado_revisao = 'rascunho';
@@ -692,7 +742,7 @@ const ACOES = {
     }
     a.juntou.push({ id: outra, [esp.titulo]: b[esp.titulo], ...assinar(texto(nota) ? { nota: texto(nota) } : {}), ...extra });
     // quem apontava para a ficha juntada passa a apontar para esta (a antiga deixa de existir; o endereço reencaminha)
-    const outras = await corrigirReferencias(tipo, outra, manter, new Set([`${tipo}/${manter}`, `${tipo}/${outra}`]));
+    const outras = await corrigirReferencias(tipo, outra, manter, new Set([`${tipo}/${manter}`, `${tipo}/${outra}`]), undefined, { versoes });
     // «não confundir com» a ficha juntada, noutras fichas do mesmo tipo, passa a apontar para a que fica
     for (const x of E.base[tipo] || []) {
       if ([manter, outra].includes(x.id) || !(x.distinta_de || []).some((d) => d.id === outra)) continue;
@@ -800,10 +850,11 @@ const ACOES = {
 
   async 'propor-fonte'({ nome, url, tipo, uso, autor, notas }) {
     nome = String(nome || '').trim(); url = String(url || '').trim();
-    exigir(nome && urlValida(url), 'Indique o nome e o endereço (https://…) da fonte.');
+    exigir(nome, 'Indique o nome da fonte.');
+    exigir(url ? urlValida(url) : tipo === 'livro' || tipo === 'outro' || tipo === 'imprensa', 'Indique o endereço (https://…) da fonte. Só um livro, um artigo ou um documento pode ficar sem endereço.');
     exigir(String(notas || '').trim(), 'Explique porque é uma fonte séria e para que serve.');
     const caminho = 'fontes/fontes.json', reg = await lerDados(caminho);
-    exigir(!reg.fontes.some((f) => f.url === url), 'Essa fonte já está registada.');
+    exigir(!reg.fontes.some((f) => (url && f.url === url) || norm(f.nome) === norm(nome)), 'Essa fonte já está registada.');
     const id = unico(slug(nome).slice(0, 40).replace(/-+$/, ''), (x) => reg.fontes.some((f) => f.id === x));
     reg.fontes.push({ id, nome, tipo: tipo || 'site', url, autor: String(autor || '').trim(), estado: 'pendente', decidido_em: null,
       uso: [].concat(uso || ['factos']), recolha: { metodo: 'manual' }, notas: String(notas).trim(), proposta_por: sessao().id, proposta_em: hoje() });
@@ -925,6 +976,109 @@ const ACOES = {
     return { alteracoes, resumo: `retirado do catálogo: ${m.titulo || m.url}${fichas.length > 1 ? ` (${plural(fichas.length, 'ficha', 'fichas')})` : ''}`, motivo,
       ir: m.pessoas?.[0] ? `#/pessoa/${m.pessoas[0]}` : '#/mediateca?estado=catalogados' };
   },
+
+  // ---- letras das obras (letras.js): as versões da letra, e que versão se canta em cada vídeo ou áudio
+  async 'nova-letra'({ alvo, rotulo, ...d }) {
+    exigir(String(alvo || '').startsWith('obras/'), 'Só as obras têm letra.');
+    let id;
+    const r = await comFicha(alvo, async (o, ctx) => {
+      id = juntarVersao(o, rotulo, d.texto, await prova({ ...d, citacao: d.texto }, ctx));
+      return `versão da letra acrescentada: «${texto(rotulo)}»`;
+    });
+    return { ...r, ir: `#/obra/${alvo.split('/')[1]}?versao=${id}` };
+  },
+
+  /** Corrigir uma versão: cada autor as suas; um editor, qualquer uma, e a correção dele fica assinada por baixo da versão
+   *  (a assinatura de quem a escreveu não muda). Com fonte, o texto continua a ser uma citação literal. */
+  async 'corrigir-letra'({ obra, versao, rotulo, texto: letra, motivo }) {
+    motivo = texto(motivo);
+    const r = await comFicha(`obras/${obra}`, async (o) => {
+      const v = versaoDe(o, versao);
+      exigir(v, 'Esta versão já não está na ficha: recarregue a página.');
+      exigir(podeMudarVersao(v), 'Só quem escreveu esta versão ou um editor a pode corrigir.');
+      const meu = autorVersao(v) === sessao().id;
+      exigir(meu || motivo, 'Diga o que corrigiu e porquê: fica assinado por si, por baixo da versão.');
+      rotulo = texto(rotulo);
+      letra = String(letra || '').replace(/\r\n?/g, '\n').trim();
+      exigir(rotulo && letra, 'A versão precisa do nome e da letra.');
+      if (v.fonte) {
+        const c = await confirmarNoArquivo(v.url, letra);
+        exigir(c?.estado !== 'nao-encontrada', c && fraseEmFalta(c));
+      }
+      if (rotulo !== versoesDe(o).find((x) => x.id === versao).rotulo) v.rotulo = rotulo;
+      v.citacao = letra;
+      if (!meu) (v.notas_editoriais ||= []).push(assinar({ texto: `Corrigiu esta versão: ${motivo}` }));
+      return `versão da letra corrigida: «${rotulo}»`;
+    });
+    return { ...r, motivo, ir: `#/obra/${obra}?versao=${versao}` };
+  },
+
+  /** Retirar uma versão: os vídeos e áudios que a cantavam deixam de apontar para ela. */
+  async 'retirar-letra'({ obra, versao, motivo }) {
+    const caminho = `dados/obras/${obra}.json`, o = await lerDados(caminho);
+    const v = versaoDe(o, versao);
+    exigir(v, 'Esta versão já não está na ficha: recarregue a página.');
+    exigir(podeMudarVersao(v), 'Só quem escreveu esta versão ou um editor a pode retirar.');
+    motivo = texto(motivo);
+    exigir(autorVersao(v) === sessao().id || motivo, 'Diga porque retira esta versão: o motivo fica no histórico.');
+    const nome = versoesDe(o).find((x) => x.id === versao).rotulo;
+    if (versao === ID_ANTIGA) delete o.letra_texto;
+    else {
+      o.letras = o.letras.filter((x) => x !== v);
+      if (!o.letras.length) delete o.letras;
+    }
+    const alteracoes = [[caminho, o]];
+    for (const m of E.base.media || []) {
+      if (m.letras?.[obra] !== versao) continue;
+      const f = await lerDados(`dados/media/${m.id}.json`);
+      delete f.letras?.[obra];
+      if (!Object.keys(f.letras || {}).length) delete f.letras;
+      alteracoes.push([`dados/media/${m.id}.json`, f]);
+    }
+    return { alteracoes, resumo: `${o.titulo}: retirada a versão da letra «${nome}»`, motivo };
+  },
+
+  /** «Letra», num cartão de vídeo ou áudio: a obra (existente ou nova) e a versão que nele se canta (existente, nova ou
+   *  nenhuma), gravadas em todas as fichas do cartão (`media`: os ids, separados por vírgulas). */
+  async 'ligar-letra'({ media, qual, obra, titulo_obra, versao, rotulo, ...d }) {
+    const ids = String(media || '').split(',').filter(Boolean);
+    exigir(ids.length, 'Vídeo ou áudio desconhecido: recarregue a página.');
+    const ctx = {}, alteracoes = [];
+    let o, caminho, mudou = false;
+    if (qual === 'nova') {
+      const titulo = texto(titulo_obra);
+      exigir(titulo, 'Escreva o título da obra.');
+      const [ja] = fichasIguais('obras', titulo);
+      exigir(!ja, `Já existe a obra «${ja?.titulo}»: escolha-a na lista em vez de criar outra.`);
+      o = { ...fichaVazia('obras'), titulo, estado_revisao: 'rascunho', editorial: assinar() };
+      o.id = unico(slug(titulo).slice(0, 70).replace(/-+$/, '') || 'obra', (x) => ocupado('obras', x));
+      caminho = ficheiroNovo(`dados/obras/${o.id}.json`);
+      mudou = true;
+    } else {
+      exigir(E.por.obras[obra], 'Escolha a obra na lista que aparece ao escrever o título.');
+      caminho = `dados/obras/${obra}.json`;
+      o = await lerDados(caminho);
+    }
+    if (versao === 'nova') {
+      versao = juntarVersao(o, rotulo, d.texto, await prova({ ...d, citacao: d.texto }, ctx));
+      mudou = true;
+    } else exigir(!versao || versoesDe(o).some((v) => v.id === versao), 'Essa versão já não está na ficha: recarregue a página.');
+    if (mudou) alteracoes.push([caminho, o]);
+    for (const id of ids) {
+      const f = await lerDados(`dados/media/${id}.json`), antes = JSON.stringify(f);
+      if (!(f.obras || []).includes(o.id)) f.obras = [...(f.obras || []), o.id];
+      if (versao) f.letras = { ...f.letras, [o.id]: versao };
+      else if (f.letras) {
+        delete f.letras[o.id];
+        if (!Object.keys(f.letras).length) delete f.letras;
+      }
+      if (JSON.stringify(f) !== antes) alteracoes.push([`dados/media/${id}.json`, f]);
+    }
+    exigir(alteracoes.length, 'Já estava assim: não há nada a gravar.');
+    if (ctx.fontes) alteracoes.push(['fontes/fontes.json', ctx.fontes]);
+    const nome = versao && versoesDe(o).find((v) => v.id === versao)?.rotulo;
+    return { alteracoes, resumo: `${o.titulo}: ${nome ? `letra «${nome}» ligada a` : 'ligada a'} «${E.por.media[ids[0]]?.titulo || ids[0]}»` };
+  },
 };
 
 /** Envia as alterações para /api/gravar. Na cópia local, o servidor grava, valida e reconstrói (e recusa o que
@@ -975,6 +1129,14 @@ export function perguntar({ titulo, corpo, sim = 'Gravar', nao = 'Voltar', class
     });
     d.showModal();
   });
+}
+
+/** As mensagens por ler, ao lado de «Mensagens» no menu. */
+let mensagensPedidas = false;
+async function contarMensagens() {
+  const { contarPorLer } = await import('./vistas/contacto.js');
+  const n = await contarPorLer();
+  $('#nav-mensagens .contagem').textContent = n || '';
 }
 
 const NOMES_FICHEIRO = { 'fontes/fontes.json': 'Registo de fontes', 'dados/contribuidores.json': 'Contribuidores', [EXCLUIDOS]: 'Retirados do catálogo' };
@@ -1291,6 +1453,7 @@ const SITIOS = [
   [/^\.notas_editor\[(\d+)\]/, (m) => `nota ${+m[1] + 1}`],
   [/^\.fontes\[(\d+)\]/, (m) => `fonte ${+m[1] + 1}`],
   [/^\.letra_texto/, () => 'letra'],
+  [/^\.letras\[(\d+)\]/, (m) => `versão da letra ${+m[1] + 1}`],
   [/^\.capa/, () => 'capa'],
   [/^\.juntou/, () => 'ficha juntada'],
   [/^\.distinta_de/, () => '«não confundir com»'],
@@ -1393,11 +1556,15 @@ export function iniciarEdicao(redesenhar) {
     $('#nav-reservada').hidden = !sessao(); // o menu da área reservada só aparece a quem entrou
     navValidar.hidden = !sessao(); // a lista de trabalho de quem edita
     $('#nav-alteracoes').hidden = !sessao(); // o que mudou nos dados (vistas/alteracoes.js)
+    const verMensagens = online() && ADMINS.includes(sessao()?.papel);
+    $('#nav-mensagens').hidden = !verMensagens; // o que os visitantes escreveram em Contacto
+    if (verMensagens && !mensagensPedidas) { mensagensPedidas = true; contarMensagens(); }
   };
   entrar.onclick = () => {
     const dentro = E.sessao?.github || E.sessao?.conta;
     entrar.href = dentro && !sessao() ? '/api/sair' : dentro || location.hash.startsWith('#/entrar') ? '#/entrar' : `#/entrar?volta=${encodeURIComponent(location.hash || '#/')}`;
   };
+  document.addEventListener('mensagens-lidas', contarMensagens);
   botao.onclick = () => { E.editando = !E.editando; guardar('editando', E.editando); desenhar(); redesenhar(); };
   desenhar();
   if (online() && sessao()) { // quantas propostas esperam (os editores veem todas; cada contribuidor, as suas, que vê já nas fichas)
@@ -1466,6 +1633,17 @@ export function iniciarEdicao(redesenhar) {
       if (editarNota) abrirEditarNota(editarNota);
       else if (cancelar) fecharNota(cancelar);
       else escolherFonte(escolher.closest('.como-sabe'), escolher.dataset.fonteEscolher);
+      return;
+    }
+    const recortar = e.target.closest('[data-recortar]');
+    if (recortar) {
+      e.preventDefault();
+      const { id, url } = recortar.dataset, p = E.por.pessoas[id], im = p?.imagens?.find((x) => x.url === url);
+      if (!im) return;
+      const espera = perguntar({ titulo: 'Ajustar o retrato', classe: 'dialogo-recorte', sim: 'Guardar', corpo: corpoRecorte(im, p.nome) });
+      ligarRecorte(document.querySelector('dialog.dialogo-recorte'), im.recorte);
+      const r = await espera;
+      if (r) correr('recortar-imagem', { id, url, x: r.x, y: r.y, zoom: r.zoom }, recortar);
       return;
     }
     const b = e.target.closest('button[data-acao]');

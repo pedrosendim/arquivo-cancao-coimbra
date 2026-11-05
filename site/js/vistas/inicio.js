@@ -51,7 +51,7 @@ export async function inicio(el) {
         ${comecar.map(([t, h]) => html`<a href="${h}">${t}</a>`)}</nav>
       </div>
       ${comFoto.length >= 4 ? html`<div class="mosaico" aria-label="Algumas pessoas do arquivo">${comFoto.map((p) =>
-        html`<a href="#/pessoa/${p.id}">${imagemCartao(miniatura(p.imagens[0].url, 300))}<span>${p.nome}</span></a>`)}</div>` : ''}
+        html`<a href="#/pessoa/${p.id}">${imagemCartao(miniatura(p.imagens[0].url, 300), { im: p.imagens[0] })}<span>${p.nome}</span></a>`)}</div>` : ''}
       <div class="numeros">${numeros.map(([n, r, h]) => html`<a href="${h}"><b>${n.toLocaleString('pt-PT')}</b><span>${r}</span></a>`)}</div>
     </section>
 

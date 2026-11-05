@@ -13,7 +13,7 @@
 
 const CAMPOS_URL = new Set(['url', 'miniatura', 'origem']);
 const RE_FORA_DO_ENDERECO = /['"\\<>\u0000-\u001f\u007f]/;
-const OBJ_ASSINADOS = ['editorial', 'acrescentada', 'nota_editorial', 'escolhida', 'oculta'];
+const OBJ_ASSINADOS = ['editorial', 'acrescentada', 'nota_editorial', 'escolhida', 'oculta', 'recorte'];
 const LISTAS_ASSINADAS = ['juntou', 'distinta_de', 'notas_editor', 'notas_editoriais'];
 const NOTA_ANTIGA = ['nota_editor', 'nota_editor_por', 'nota_editor_em'];
 const REVISAO = ['estado_revisao', 'revisto_por', 'revisto_em'];

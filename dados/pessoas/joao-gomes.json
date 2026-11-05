@@ -187,7 +187,20 @@
       "nota": "espetáculo «no passado dia 25», segundo o post de 27-06-2008"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9aMXY6pZArVxsb7GPT_g_-VdoDUkiSVAQ2z_95uxpoMaVG25Rx4wRuwBoPOEPEQAahfpqd-Gmtjjz5nu4Ls7JO2-ibfipEkT78y4PGn81aM3DR6G1IULb3nfgxQ22pKuM6HKv2ui-zcgU/s1600-h/JGomes-2008.gif",
+      "legenda": "Alexandre Bateiras e João Gomes deram um espectáculo no passado dia 25. Dele vão aqui o cartaz e algumas fotos enviados por Isabel Bateiras.",
+      "fontes": [
+        {
+          "fonte": "gc-ii",
+          "url": "https://guitarrasdecoimbra.blogspot.com/2008/06/alexandre-bateiras-e-joo-gomes-deram-um.html",
+          "doc": "gc-ii:8854408502541069863",
+          "citacao": "Alexandre Bateiras e João Gomes deram um espectáculo no passado dia 25. Dele vão aqui o cartaz e algumas fotos enviados por Isabel Bateiras."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

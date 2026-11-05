@@ -306,7 +306,20 @@
       "nota": "Cantores do mesmo grupo, com Octávio Sérgio (guitarra) e Durval Moreirinhas (viola), até à morte de António Bernardino (1996). O grupo não tem ficha no arquivo."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Foto%20Srgio,%20Octvio,%20Durval%20e%20Marta.jpg",
+      "legenda": "António Sérgio (Sérgio Azevedo) e Octávio Sérgio na guitarra. Durval Moreirinhas na viola e Armando Marta a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/espectculo-para-o-clube-do-bbi-em-1987.html",
+          "doc": "gc-i:111835375714798487",
+          "citacao": "António Sérgio (Sérgio Azevedo) e Octávio Sérgio na guitarra. Durval Moreirinhas na viola e Armando Marta a cantar."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -1,6 +1,7 @@
 // Peças de interface reutilizadas por várias vistas.
-import { E, PAPEIS, CAMPOS, vida, iniciais, catalogado, comArquivo, parentescoDe, nomeContribuidor, fonteNome } from './estado.js';
-import { html, raw, esc, miniatura, capaMedia, classificar, NOME_PLATAFORMA, fmtData, tituloDoc, partituraEmbed } from './util.js';
+import { E, CAMPOS, vida, iniciais, catalogado, comArquivo, parentescoDe, nomeContribuidor, fonteNome } from './estado.js';
+import { seloPapel } from './icones.js';
+import { html, raw, esc, miniatura, capaMedia, classificar, NOME_PLATAFORMA, fmtData, tituloDoc, partituraEmbed, estiloRecorte } from './util.js';
 import { itemDoArquivo } from './leitor.js';
 import { marcas } from './citacoes.js';
 import { notaEditorial, marcaEditorial, acoesMedia, botaoCatalogar } from './formularios.js';
@@ -262,19 +263,19 @@ export function figuraImagem(url, legenda, ligacao) {
 }
 
 /** Imagem de um cartão (retrato, capa, avatar): só se descarrega perto do ecrã; se falhar, sai e fica o fundo. */
-export const imagemCartao = (url, { preguicosa = true } = {}) =>
-  html`<img class="img-cartao" src="${url}" alt="" ${preguicosa ? raw('loading="lazy"') : ''} decoding="async" onerror="this.remove()">`;
+export const imagemCartao = (url, { preguicosa = true, im = null } = {}) =>
+  html`<img class="img-cartao" src="${url}" alt="" ${im?.recorte ? raw(`style="${estiloRecorte(im)}"`) : ''} ${preguicosa ? raw('loading="lazy"') : ''} decoding="async" onerror="this.remove()">`;
 
 export function retrato(p, classe = 'retrato', opcoes = {}) {
-  const img = p.imagens?.[0]?.url;
+  const im = p.imagens?.[0], img = im?.url;
   return img
-    ? html`<div class="${classe}" role="img" aria-label="${p.nome}">${imagemCartao(miniatura(img, 600), opcoes)}</div>`
+    ? html`<div class="${classe}" role="img" aria-label="${p.nome}">${imagemCartao(miniatura(img, 600), { ...opcoes, im })}</div>`
     : html`<div class="${classe} sem-foto" aria-hidden="true">${iniciais(p.nome)}</div>`;
 }
 
 /** Retrato no topo da ficha: abre em grande, com a legenda e a ligação ao post, e diz de onde vem a fotografia.
  *  (Nas listas, dentro das ligações dos cartões, fica o retrato() simples.) */
-export function retratoFicha(p) {
+export function retratoFicha(p, editar = false) {
   const im = p.imagens?.[0];
   if (!im?.url) return retrato(p);
   const legenda = im.editorial ? `${im.legenda ? im.legenda + ' ' : ''}(✎ ${nomeContribuidor(im.editorial.por)})` : im.legenda || '';
@@ -282,8 +283,9 @@ export function retratoFicha(p) {
   const origem = im.editorial ? `✎ ${nomeContribuidor(im.editorial.por)}` : im.fontes?.[0] ? fonteNome(im.fontes[0].fonte) : '';
   return html`<figure class="retrato-ficha"><button type="button" class="retrato" data-lightbox="${im.url}" data-legenda="${legenda}" data-ligacao="${ligacao}"
     aria-label="Ampliar a fotografia de ${p.nome}"><span class="iniciais" aria-hidden="true">${iniciais(p.nome)}</span><img src="${miniatura(im.url, 600)}"
-    alt="" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()"></button>
-    ${origem ? html`<figcaption>Foto: ${ligacao ? html`<a href="${ligacao}" ${ligacao.startsWith('#') ? '' : raw('target="_blank" rel="noopener"')}>${origem}</a>` : origem}</figcaption>` : ''}</figure>`;
+    alt="" decoding="async" referrerpolicy="no-referrer" ${im.recorte ? raw(`style="${estiloRecorte(im)}"`) : ''} onerror="this.remove()"></button>
+    ${origem ? html`<figcaption>Foto: ${ligacao ? html`<a href="${ligacao}" ${ligacao.startsWith('#') ? '' : raw('target="_blank" rel="noopener"')}>${origem}</a>` : origem}</figcaption>` : ''}
+    ${editar ? html`<button type="button" class="botao peq" data-recortar data-id="${p.id}" data-url="${im.url}">Ajustar o retrato</button>` : ''}</figure>`;
 }
 
 export function cartaoPessoa(p) {
@@ -296,7 +298,7 @@ export function cartaoPessoa(p) {
       ${anos ? html`<p class="meta">${anos}</p>` : ''}
       ${par ? html`<p class="meta parentesco">${par.texto}${par.editorial ? html` <span class="marca-editorial" title="Indicado por um contribuidor, sem fonte">✎</span>` : ''}</p>` : ''}
       ${!par && nomeAmbiguo(p) && relacaoDistintiva(p) ? html`<p class="meta parentesco">${relacaoDistintiva(p)}</p>` : ''}
-      <div class="papeis">${(p.papeis || []).map((x) => html`<span class="selo">${PAPEIS[x] || x}</span>`)}
+      <div class="papeis">${(p.papeis || []).map(seloPapel)}
         ${p.estado_revisao === 'revisto' ? html`<span class="selo verde">revisto</span>` : ''}</div>
       ${p.biografia?.[0] ? html`<p class="resumo">${p.biografia[0].citacao}</p>` : ''}
     </div></a>`;

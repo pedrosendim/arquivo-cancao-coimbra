@@ -33,7 +33,20 @@
       "nota": "viola; desde 1997"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%2018.jpg",
+      "legenda": "Grupo Canção de Coimbra, ontem, no Arco de Almedina. Fernando Marques e Pedro Nunes estão nas guitarras e Manuel João Vaz, na viola. Toca-se uma guitarrada.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-cano-de-coimbra-ontem-no-arco-de.html",
+          "doc": "gc-i:112242481520915468",
+          "citacao": "Grupo Canção de Coimbra, ontem, no Arco de Almedina. Fernando Marques e Pedro Nunes estão nas guitarras e Manuel João Vaz, na viola. Toca-se uma guitarrada."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

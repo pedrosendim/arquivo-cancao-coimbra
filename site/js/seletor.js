@@ -23,7 +23,9 @@ export function seletorPessoa({ excluir = '', criar = true, apenas = null, nome 
     data-escolhido-id="${atual ? valor : ''}" data-escolhido-texto="${texto}">
     <input class="campo" type="text" placeholder="${placeholder}" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" value="${texto}">
     <input type="hidden" name="${nome}" data-papel="id" value="${atual ? valor : ''}"><input type="hidden" name="${nomeNova}" data-papel="nova">
+    <input type="hidden" name="${nomeNova}_papel" data-papel="papel-nova">
     <ul class="seletor-lista" role="listbox" hidden></ul>
+    ${criar && tipo === 'pessoas' ? html`<button type="button" class="botao-ligacao criar-pessoa" data-criar-pessoa>Não está na lista? Criar pessoa nova</button>` : ''}
     <small class="aviso-escolha" hidden>Não foi escolhido na lista: escolha uma das opções que aparecem ao escrever, ou apague o texto.</small>
   </div>`;
 }
@@ -156,9 +158,49 @@ export function limparSeletor(caixa) {
   assinalar(caixa, false);
 }
 
-const escolher = (caixa, li) => escolherEm(caixa, { id: li.dataset.id || '', nova: li.dataset.criar || '' });
+/** Janela para criar a pessoa que falta sem sair do formulário: mostra logo as fichas parecidas (pode ser uma delas) e
+ *  deixa escolher o papel. A ficha cria-se com o resto, ao gravar. */
+async function criarPessoa(caixa, texto = '') {
+  const { perguntar } = await import('./edicao.js');
+  let existente = '';
+  const janela = perguntar({ titulo: 'Criar pessoa nova', sim: 'Criar', nao: 'Voltar', corpo: html`
+    <label>Nome da pessoa <input class="campo" name="nome" required value="${texto}" autocomplete="off" data-nome-novo></label>
+    <div class="parecidas" data-parecidas></div>
+    <label>Atributo <small>opcional: guitarrista, cantor…</small><select class="campo" name="papel"><option value="">—</option>
+      ${Object.entries(PAPEIS).map(([k, t]) => html`<option value="${k}">${t}</option>`)}</select></label>
+    <p class="mudo">Fica uma ficha simples, assinada por si. Depois pode completá-la na própria ficha.</p>` });
+  const d = document.querySelector('dialog.dialogo-edicao[open]'), nome = $('[data-nome-novo]', d), lista = $('[data-parecidas]', d);
+  const parecidas = () => {
+    const achados = candidatos('pessoas', nome.value, caixa.dataset.excluir).slice(0, 5);
+    lista.innerHTML = achados.length ? html`<p class="mudo">Será uma destas? Se for, escolha-a:</p>
+      <ul class="seletor-lista parecidas-lista">${achados.map(opcao)}</ul>`.s : '';
+  };
+  nome.addEventListener('input', parecidas);
+  lista.addEventListener('click', (e) => {
+    const li = e.target.closest('[data-id]');
+    if (li) { existente = li.dataset.id; d.close('nao'); }
+  });
+  parecidas();
+  nome.focus();
+  const r = await janela;
+  if (existente) { escolherEm(caixa, { id: existente }); return; }
+  if (!r) return;
+  escolherEm(caixa, { nova: r.nome.trim() });
+  $('[data-papel=papel-nova]', caixa).value = r.papel || '';
+}
+
+const escolher = (caixa, li) => {
+  if (li.dataset.criar) { fechar(caixa); criarPessoa(caixa, li.dataset.criar); } else escolherEm(caixa, { id: li.dataset.id || '' });
+};
 
 export function iniciarSeletores() {
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-criar-pessoa]');
+    if (!b) return;
+    e.preventDefault();
+    const caixa = b.closest('[data-seletor-pessoa]');
+    criarPessoa(caixa, $('input.campo', caixa).value.trim());
+  });
   document.addEventListener('input', (e) => {
     const caixa = e.target.closest('[data-seletor-pessoa]');
     if (!caixa || !e.target.matches('input.campo')) return;

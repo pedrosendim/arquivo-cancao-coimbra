@@ -8,11 +8,13 @@ Erros (bloqueiam a construção do site):
   - endereços que não começam por http:// ou https://
   - contribuição assinada (decisão editorial, nota) sem contribuidor registado ou sem data
   - texto do blogue que liga a uma ficha inexistente
+  - versão da letra sem nome, sem texto, sem fonte nem assinatura, ou com o id repetido
 Avisos (não bloqueiam; cada um diz o que corrigir):
   - citação de página não arquivada, ou ainda por confirmar na cópia local (publicação online)
   - citação de uma fonte que os editores rejeitaram depois de citada (deixa de servir de prova)
   - a forma dos dados: valores fora das listas, anos mal escritos, divergências marcadas só numa das versões, grupos
-    sem membros, relações repetidas ou contraditórias, o mesmo media em duas fichas… (ver regras_de_forma)
+    sem membros, relações repetidas ou contraditórias, o mesmo media em duas fichas, um vídeo ligado a uma versão da
+    letra que já não existe… (ver regras_de_forma)
 No GitHub (propostas e publicação), os erros e os avisos dos ficheiros alterados ficam como anotações desses ficheiros.
 
 Uso:  python scripts/validar.py
@@ -51,6 +53,7 @@ FORMATOS = ("cilindro", "disco de massa", "78rpm", "EP", "LP", "single", "CD", "
 GENEROS = ("fado", "balada", "cancao", "serenata", "guitarrada", "variacoes", "estudo", "outro")
 TIPOS_MEDIA = ("video", "audio", "imagem", "partitura")
 SIMETRICAS = {"irmao_de", "conjuge_de", "primo_de", "tocou_com"}  # A→B diz o mesmo que B→A
+LETRA_ANTIGA = "letra-texto"  # o id de «letra_texto» quando é tratada como versão da letra (site/js/letras.js, ID_ANTIGA)
 MSG_ENDERECO = "o endereço tem de começar por http:// ou https://"
 CONTRIBUIDORES = DADOS / "contribuidores.json"
 BLOGUE = DADOS / "blogue"
@@ -169,10 +172,10 @@ class Validador:
             self.erros.append(f"{onde}: fonte '{fid}' está '{f['estado']}' — só fontes aprovadas")
         if not rejeitada and uso not in f.get("uso", []):
             self.erros.append(f"{onde}: fonte '{fid}' não está aprovada para uso '{uso}'")
-        if not c.get("url"):
-            self.erros.append(f"{onde}: citação sem url")
-        else:
+        if c.get("url"):
             self.endereco(f"{onde}.url", c["url"])
+        elif not c.get("acrescentada"):  # um livro ou documento citado por um contribuidor pode não ter endereço
+            self.erros.append(f"{onde}: citação sem url")
         if c.get("acrescentada"):  # citação acrescentada por um contribuidor no modo de edição
             self.assinatura(f"{onde}.acrescentada", c["acrescentada"])
         texto_cit = (c.get("citacao") or "").strip()
@@ -337,9 +340,47 @@ class Validador:
                 if not str(im["editorial"].get("origem", "")).startswith(("http://", "https://")):
                     self.erros.append(f"{o}.editorial: falta a página de origem da fotografia ('origem')")
             self.lista_citacoes(o, im.get("fontes"), "media", exige_texto=False, obrigatoria=not im.get("editorial"))
-            for chave in ("escolhida", "oculta"):
+            for chave in ("escolhida", "oculta", "recorte"):
                 if im.get(chave):
                     self.assinatura(f"{o}.{chave}", im[chave])
+            if im.get("recorte"):
+                r = im["recorte"]
+                dentro = lambda k, a, b: isinstance(r.get(k), (int, float)) and a <= r[k] <= b
+                if not (dentro("x", 0, 100) and dentro("y", 0, 100) and dentro("zoom", 1, 5)):
+                    self.erros.append(f"{o}.recorte: x e y vão de 0 a 100 e zoom de 1 a 5")
+
+    def letras(self, onde, lista):
+        """Versões da letra de uma obra. Com fonte, cada uma é uma citação, como «letra_texto»; sem fonte, é um testemunho
+        assinado por quem a escreveu («editorial»)."""
+        if lista in (None, []):
+            return
+        if not isinstance(lista, list):
+            self.erros.append(f"{onde}.letras: tem de ser uma lista de versões da letra")
+            return
+        vistos = set()
+        for k, x in enumerate(lista):
+            o = f"{onde}.letras[{k}]"
+            if not isinstance(x, dict):
+                self.erros.append(f"{o}: versão da letra mal formada")
+                continue
+            i = x.get("id")
+            if not RE_ID.match(str(i or "")) or i == LETRA_ANTIGA:
+                self.erros.append(f"{o}: id '{i}' inválido (usar minúsculas, sem acentos, hífens; '{LETRA_ANTIGA}' está reservado)")
+            elif i in vistos:
+                self.erros.append(f"{o}: já há outra versão da letra com o id '{i}'")
+            vistos.add(str(i))
+            if not str(x.get("rotulo", "")).strip():
+                self.erros.append(f"{o}: falta o nome da versão (que versão é: quem a canta, o ano…)")
+            if x.get("editorial"):
+                self.assinatura(f"{o}.editorial", x["editorial"])
+            if x.get("fonte"):
+                self.citacao(o, x)
+            else:
+                if not x.get("editorial"):
+                    self.erros.append(f"{o}: sem fonte: indique a fonte ou assine-a como testemunho")
+                if not str(x.get("citacao", "")).strip():
+                    self.erros.append(f"{o}: falta o texto da letra")
+            self.notas(f"{o}.notas_editoriais", x.get("notas_editoriais"))
 
 
 def validar():
@@ -412,6 +453,7 @@ def validar():
             ref(o, "pessoas", p)
         if ob.get("letra_texto"):
             v.citacao(f"{o}.letra_texto", ob["letra_texto"])
+        v.letras(o, ob.get("letras"))
         v.factos(o, ob.get("factos"))
         v.lista_citacoes(o, ob.get("fontes"), obrigatoria=not ob.get("editorial"))
         v.comum(o, ob, "obras", ent)
@@ -589,6 +631,28 @@ def regras_de_forma(ent, v):
     for i, ob in ent["obras"].items():
         if ob.get("genero"):
             fora(f"obras/{i}", ob["genero"], GENEROS, "o género")
+
+    # media.letras = {obra: versão}: que versão da letra se canta neste vídeo ou áudio
+    for i, m in ent["media"].items():
+        letras = m.get("letras")
+        if letras in (None, {}):
+            continue
+        if not isinstance(letras, dict):
+            av(f"media/{i}: o campo letras tem de dizer, para cada obra, que versão da letra se canta aqui")
+            continue
+        for ob, versao in letras.items():
+            obra = ent["obras"].get(ob)
+            if not obra:
+                av(f"media/{i}: tem a letra de uma obra que não existe ('{ob}'): volte a escolher a obra em «Letra», no cartão deste vídeo ou áudio")
+                continue
+            lista = obra.get("letras")
+            ids = [x.get("id") for x in (lista if isinstance(lista, list) else []) if isinstance(x, dict)]
+            if obra.get("letra_texto"):
+                ids.append(LETRA_ANTIGA)
+            if versao not in ids:
+                av(f"media/{i}: a versão da letra '{versao}' já não existe na obra «{obra.get('titulo')}»: escolha outra em «Letra», no cartão deste vídeo ou áudio")
+            elif ob not in (m.get("obras") or []):
+                av(f"media/{i}: tem a letra da obra «{obra.get('titulo')}», mas essa obra não está nas obras que aqui se ouvem: acrescente-a à ficha")
 
     # o mesmo vídeo ou faixa em duas fichas de media: o site mostra-o duas vezes
     por_endereco = defaultdict(list)

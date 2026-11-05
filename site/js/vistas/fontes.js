@@ -1,6 +1,7 @@
 // Fontes e método: registo de fontes com estado de aprovação e princípios do arquivo.
 import { E, TIPOS_FONTE, nomeContribuidor } from '../estado.js';
-import { html, fmtData, plural, compararPt, $, $$, enderecoSeguro } from '../util.js';
+import { html, fmtData, plural, compararPt, $, $$, enderecoSeguro, termosProcura, temTodas } from '../util.js';
+import { filtroMultiplo } from '../filtros.js';
 import { editando, podeAprovar, botaoCorrigirFonte } from '../edicao.js';
 import { separadoresFontes } from '../componentes.js';
 
@@ -45,7 +46,7 @@ function formPropor() {
       <p class="mudo" style="margin:0 0 8px">Instituições, imprensa, livros, sites oficiais de artistas ou luthiers, bases discográficas.
         Redes sociais, fóruns e lojas não servem. A fonte fica «pendente» até um editor a aprovar.</p>
       <label>Nome <input class="campo" name="nome" required placeholder="Ex.: Arquivo Municipal de Coimbra"></label>
-      <label>Endereço <input class="campo" name="url" type="url" required placeholder="https://…"></label>
+      <label>Endereço <small>um livro, um artigo ou um documento pode ficar sem endereço</small><input class="campo" name="url" type="url" placeholder="https://…"></label>
       <div class="linha-campos">
         <label>Tipo <select class="campo" name="tipo">${Object.entries(TIPOS_FONTE).map(([v, t]) => html`<option value="${v}">${t}</option>`)}</select></label>
         <label>Autor <small>se for um texto de alguém</small><input class="campo" name="autor"></label></div>
@@ -76,13 +77,20 @@ export function fontes(el) {
     f.decidido_por && `${f.estado === 'rejeitada' ? 'rejeitada' : 'aprovada'} por ${nomeContribuidor(f.decidido_por)}${f.decidido_em ? ` em ${fmtData(f.decidido_em)}` : ''}`]
     .filter(Boolean).join(' · ');
 
+  const todas = E.base.fontes || [];
+  const contar = (campo, nomes) => Object.entries(todas.reduce((n, f) => ({ ...n, [f[campo]]: (n[f[campo]] || 0) + 1 }), {}))
+    .map(([valor, n]) => ({ valor, nome: nomes(valor), n }));
+  const ordemTipos = Object.keys(TIPOS_FONTE);
+  const opcoesTipo = contar('tipo', (t) => TIPOS_FONTE[t] || t).sort((a, b) => ordemTipos.indexOf(a.valor) - ordemTipos.indexOf(b.valor));
+  const opcoesEstado = contar('estado', (e) => ({ aprovada: 'Aprovadas', pendente: 'Propostas', rejeitada: 'Rejeitadas' }[e] || e));
+
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Fontes</p><h1>Fontes e método</h1>
       <p class="lead">Este arquivo não produz informação nova. Organiza, cruza e apresenta o que dizem as fontes que aprovou —
         e mostra sempre de onde vem cada coisa.</p></header>
     ${separadoresFontes('fontes')}
 
-    <h2 class="so-leitor">Princípios do arquivo</h2>
+    <details class="dobra-principios"><summary>Princípios do arquivo</summary>
     <div class="principios">
       <div><h3>Só fontes aprovadas</h3><p>O agente investigador só extrai de fontes com estado «aprovada». Fontes novas entram como
         propostas e esperam pela decisão do dono do arquivo ou de um editor que ele convidou.</p></div>
@@ -93,7 +101,7 @@ export function fontes(el) {
       <div><h3>Revisão humana</h3><p>Tudo o que o agente escreve fica como «rascunho» até um editor o marcar como «revisto».</p></div>
       <div><h3>Contributos assinados</h3><p>O que um contribuidor sabe sem fonte (uma fotografia, um parentesco, uma nota) entra com ✎,
         o nome de quem o indicou e a data. Nunca passa por fonte.</p></div>
-    </div>
+    </div></details>
 
     <section class="seccao"><h2>Estado dos dados</h2>
       <p>${plural(v.citacoes_verificadas || 0, 'citação verificada', 'citações verificadas')} no arquivo local ·
@@ -101,8 +109,15 @@ export function fontes(el) {
         ${plural(v.avisos || 0, 'aviso', 'avisos')} · ${plural(v.erros || 0, 'erro', 'erros')}
         ${E.base.gerado_em ? html` · gerado em ${fmtData(E.base.gerado_em)}` : ''}</p></section>
 
+    <div class="barra-filtros filtros-fontes">
+      <input class="campo" type="search" id="q-fonte" placeholder="Procurar uma fonte: nome, autor ou endereço" aria-label="Procurar uma fonte">
+      ${filtroMultiplo({ id: 'tipo-fonte', todos: 'Todos os tipos', unidade: ['tipo', 'tipos'], opcoes: opcoesTipo })}
+      ${filtroMultiplo({ id: 'estado-fonte', todos: 'Todos os estados', unidade: ['estado', 'estados'], opcoes: opcoesEstado })}
+    </div>
     <div class="fichas filtro-uso" role="group" aria-label="Serve para">${Object.entries(FILTROS_USO).map(([k, nome]) =>
       html`<button type="button" class="ficha" data-uso="${k}" aria-pressed="${String(!k)}">${nome}</button>`)}</div>
+    <p class="mudo" id="n-fontes" role="status"></p>
+    <p class="vazio" id="sem-fontes" hidden>Nenhuma fonte com estes filtros.${editando() ? ' Se ainda não existe, pode propô-la aqui em baixo.' : ''}</p>
 
     ${Object.entries(ESTADOS).map(([estado, [titulo, corSelo]]) => {
       // por tipo (com os nomes de TIPOS_FONTE) e, em cada tipo, pelo nome
@@ -110,7 +125,7 @@ export function fontes(el) {
       const pos = (t) => { const k = ordemTipo.indexOf(t); return k < 0 ? ordemTipo.length : k; };
       const lista = grupo(estado).sort((a, b) => pos(a.tipo) - pos(b.tipo) || compararPt(a.nome, b.nome));
       if (!lista.length) return '';
-      return html`<section class="seccao"><h2>${titulo} <small>${lista.length}</small></h2><div class="tabela-rolagem"><table class="tabela tabela-fontes">
+      return html`<section class="seccao seccao-fontes" data-estado="${estado}"><h2>${titulo} <small>${lista.length}</small></h2><div class="tabela-rolagem"><table class="tabela tabela-fontes">
         <thead><tr><th>Fonte</th><th>Tipo</th><th>Serve para</th><th>${estado === 'aprovada' ? 'No arquivo' : 'Porquê'}</th><th>Citações nas fichas</th></tr></thead>
         <tbody>${lista.map((f, k) => {
           const dd = docs[f.id];
@@ -122,7 +137,7 @@ export function fontes(el) {
           const notas = f.notas ? html`<details class="notas-fonte"><summary>notas</summary>${f.notas}</details>` : '';
           return html`${novoTipo ? html`<tr class="grupo-tipo" data-tipo="${f.tipo}"><th colspan="5">${TIPOS_FONTE[f.tipo] || f.tipo}
               <small>${lista.filter((x) => x.tipo === f.tipo).length}</small></th></tr>` : ''}
-            <tr data-tipo="${f.tipo}" data-usos="${(f.uso || []).join(' ')}" data-sem-uso="${String(!c.frases && !c.referencias)}"><td data-rotulo="Fonte">${enderecoSeguro(f.url) ? html`<a href="${enderecoSeguro(f.url)}" target="_blank" rel="noopener"><b>${f.nome}</b></a>` : html`<b>${f.nome}</b>`}${f.autor ? html`<br><span class="mudo">${f.autor}</span>` : ''}
+            <tr data-tipo="${f.tipo}" data-usos="${(f.uso || []).join(' ')}" data-sem-uso="${String(!c.frases && !c.referencias)}" data-procura="${[f.nome, f.autor, f.url, f.id].filter(Boolean).join(' ')}"><td data-rotulo="Fonte">${enderecoSeguro(f.url) ? html`<a href="${enderecoSeguro(f.url)}" target="_blank" rel="noopener"><b>${f.nome}</b></a>` : html`<b>${f.nome}</b>`}${f.autor ? html`<br><span class="mudo">${f.autor}</span>` : ''}
             ${porConfirmar(f) ? html`<br><span class="selo ouro" title="Aprovada ao abrigo de um pedido geral do fundador (ex.: procurar fotografias): falta a decisão dele.">aprovada provisoriamente — por confirmar pelo fundador</span>
               ${decisao(f)}` : ''}
             ${quem(f) ? html`<br><span class="mudo" style="font-size:12px">${quem(f)}</span>` : ''}${botaoCorrigirFonte(f)}</td>
@@ -149,18 +164,39 @@ export function fontes(el) {
       </ol></section>
   </div>`.s;
 
-  // «Serve para»: mostra só as fontes desse uso (ou as que ainda não têm nenhuma citação); os títulos de tipo vazios saem
+  // procurar e filtrar juntam-se: cada linha fica à vista se passar em tudo; títulos e secções vazios saem
+  let uso = '', termos = [], tipos = new Set(), estados = new Set();
+  const aplicar = () => {
+    let total = 0;
+    for (const s of $$('.seccao-fontes', el)) {
+      const linhas = $$('tbody tr:not(.grupo-tipo)', s), estadoOk = !estados.size || estados.has(s.dataset.estado);
+      let n = 0;
+      for (const tr of linhas) {
+        const usoOk = uso === 'sem-uso' ? tr.dataset.semUso === 'true' : !uso || tr.dataset.usos.split(' ').includes(uso);
+        tr.hidden = !(estadoOk && usoOk && (!tipos.size || tipos.has(tr.dataset.tipo)) && temTodas(tr.dataset.procura, termos));
+        if (!tr.hidden) n++;
+      }
+      for (const g of $$('tr.grupo-tipo', s)) {
+        const visiveis = linhas.filter((tr) => !tr.hidden && tr.dataset.tipo === g.dataset.tipo).length;
+        g.hidden = !visiveis;
+        g.querySelector('small').textContent = visiveis;
+      }
+      s.hidden = !n;
+      s.querySelector('h2 small').textContent = n;
+      total += n;
+    }
+    $('#n-fontes', el).textContent = plural(total, 'fonte', 'fontes');
+    $('#sem-fontes', el).hidden = total > 0;
+  };
+  $('#q-fonte', el).oninput = (e) => { termos = termosProcura(e.target.value); aplicar(); };
+  $('#tipo-fonte', el).addEventListener('filtro', (e) => { tipos = new Set(e.detail); aplicar(); });
+  $('#estado-fonte', el).addEventListener('filtro', (e) => { estados = new Set(e.detail); aplicar(); });
   $('.filtro-uso', el).onclick = (e) => {
     const b = e.target.closest('[data-uso]');
     if (!b) return;
-    const uso = b.dataset.uso;
+    uso = b.dataset.uso;
     $$('.filtro-uso [data-uso]', el).forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
-    for (const tabela of $$('.tabela-fontes', el)) {
-      const linhas = $$('tbody tr:not(.grupo-tipo)', tabela);
-      for (const tr of linhas) {
-        tr.hidden = uso === 'sem-uso' ? tr.dataset.semUso !== 'true' : !!uso && !tr.dataset.usos.split(' ').includes(uso);
-      }
-      for (const g of $$('tr.grupo-tipo', tabela)) g.hidden = !linhas.some((tr) => !tr.hidden && tr.dataset.tipo === g.dataset.tipo);
-    }
+    aplicar();
   };
+  aplicar();
 }

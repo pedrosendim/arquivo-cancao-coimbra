@@ -38,7 +38,20 @@
       "nota": "viola; LP de 1988 e 1990"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Jos%20Santos%202.jpg",
+      "legenda": "Lançamento do trabalho CD/DVD «Coimbra - Espírito e Raiz», no Auditório da AAC. José Santos é ainda o viola de João Moura.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/lanamento-do-trabalho-cddv_112189233730153890.html",
+          "doc": "gc-i:112189233730153890",
+          "citacao": "José Santos, autor da bela peça já aqui referida neste Blog ... José Santos é ainda o viola de João Moura."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

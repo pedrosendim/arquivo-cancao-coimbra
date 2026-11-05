@@ -374,7 +374,20 @@
       "nota": "Programas da RTP «Coimbra Musical» (1978) e «Cantos e Contos de Coimbra» (1982)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/10/9241/1024/Branquinho%20em%201973.jpg",
+      "legenda": "Manuel Duarte Branquinho (voz e guitarra) e Álvaro Aroso (v) em actuação no final do 4º Dia do Antigo Estudante de Coimbra, Coimbra, pátio do Instituto de Antropologia, 1973.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/01/branquinho-em-1973-manuel-duarte.html",
+          "doc": "gc-i:113787974060910065",
+          "citacao": "Manuel Duarte Branquinho (voz e guitarra) e Álvaro Aroso (v) em actuação no final do 4º Dia do Antigo Estudante de Coimbra, Coimbra, pátio do Instituto de Antropologia, 1973."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

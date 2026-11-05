@@ -40,7 +40,20 @@
       "nota": "voz (2024)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Grupo%20Fados%20de%20Branquinho%201.jpg",
+      "legenda": "Antigos Tunos e Grupo Advocal na Madeira. Em plena actuação, António José Rocha canta, acompanhado por Humberto Matias, Octávio Sérgio e Alcides Freixo. Mário Rovira escuta. Foto enviada por Carlos Branquinho.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/12/antigos-tunos-e-grupo-advo_116583812073346194.html",
+          "doc": "gc-i:116583812073346194",
+          "citacao": "Antigos Tunos e Grupo Advocal na Madeira. Em plena actuação, António José Rocha canta, acompanhado por Humberto Matias, Octávio Sérgio e Alcides Freixo. Mário Rovira escuta. Foto enviada por Carlos Branquinho."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

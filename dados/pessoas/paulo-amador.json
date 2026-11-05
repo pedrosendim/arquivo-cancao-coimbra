@@ -29,7 +29,20 @@
       "nota": "voz; digressão de 2004"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Capella%2011.jpg",
+      "legenda": "Paulo Amador canta o Fado Hilário, com grande sucesso, acompanhado por Ricardo Dias e Luís Ferreirinha. Foi ontem no àCapella, dia do seu 2º aniversário.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/paulo-amador-canta-o-fado-hilrio-com.html",
+          "doc": "gc-i:112242697771026426",
+          "citacao": "Paulo Amador canta o Fado Hilário, com grande sucesso, acompanhado por Ricardo Dias e Luís Ferreirinha. Foi ontem no àCapella, dia do seu 2º aniversário."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

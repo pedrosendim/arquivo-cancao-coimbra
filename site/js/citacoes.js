@@ -40,7 +40,7 @@ export function blocoCitacao(c) {
   const k = registo.push(c) - 1;
   const quando = dataDocumento(c) || (deComentario(c) ? 'comentário de leitor' : '');
   return html`<blockquote>${c.citacao}
-    <footer>— ${fonteNome(c.fonte)}${quando ? `, ${quando}` : ''} · <a href="${c.url}" target="_blank" rel="noopener">original</a>${c.doc && comArquivo() ? html` · <a href="#/doc/${c.doc}">arquivo</a>` : ''}
+    <footer>— ${fonteNome(c.fonte)}${quando ? `, ${quando}` : ''}${c.url ? html` · <a href="${c.url}" target="_blank" rel="noopener">original</a>` : ''}${c.doc && comArquivo() ? html` · <a href="#/doc/${c.doc}">arquivo</a>` : ''}
     · <button class="marca" data-cit="${k}" title="Detalhes da fonte" aria-label="Detalhes da fonte: ${nomeMarca(c)}">i</button></footer></blockquote>`;
 }
 
@@ -88,7 +88,7 @@ export const PROVA = { // [cor, nome, explicação]; também nas notas ao imprim
 
 function copiarReferencia(c) {
   const f = E.fontes[c.fonte] || {};
-  const t = `«${c.citacao || ''}» — ${f.nome || c.fonte}, ${c.url}`;
+  const t = `«${c.citacao || ''}» — ${f.nome || c.fonte}${c.url ? `, ${c.url}` : ''}`;
   copiar(t, 'Referência copiada');
 }
 
@@ -98,7 +98,7 @@ function citacaoNoPainel(c, i, n) {
   const cor = { aprovada: 'verde', pendente: 'ouro', rejeitada: 'vinho' }[f.estado] || '';
   const comentario = deComentario(c);
   const quando = dataDocumento(c);
-  const original = comentario && !c.url.includes('#') ? `${c.url}#c${c.doc.split(':c')[1]}` : c.url;
+  const original = comentario && !(c.url || '').includes('#') ? `${c.url}#c${c.doc.split(':c')[1]}` : c.url;
   const [corProva, nomeProva, textoProva] = PROVA[estadoCitacao(c)] || [];
   return html`<div class="citacao-painel">
     <p class="sobretitulo">${n > 1 ? `Fonte ${i + 1} de ${n}` : 'Fonte'}</p>
@@ -109,7 +109,7 @@ function citacaoNoPainel(c, i, n) {
     <dl>
       ${comentario ? html`<dt>Comentário</dt><dd data-comentario="${i}">${comArquivo() ? 'a procurar quem o escreveu…' : 'de um leitor do blogue'}</dd>`
         : f.autor ? html`<dt>Autor</dt><dd>${f.autor}</dd>` : ''}
-      <dt>Documento</dt><dd>${quando ? html`${quando[0].toUpperCase()}${quando.slice(1)}<br>` : ''}<a href="${original}" target="_blank" rel="noopener">${c.url}</a></dd>
+      <dt>Documento</dt><dd>${quando ? html`${quando[0].toUpperCase()}${quando.slice(1)}<br>` : ''}${c.url ? html`<a href="${original}" target="_blank" rel="noopener">${c.url}</a>` : html`<span class="mudo">sem endereço na Internet${c.referencia ? `: ${c.referencia}` : ''}</span>`}</dd>
       ${c.referencia ? html`<dt>Referência</dt><dd>${c.referencia}</dd>` : ''}
       ${c.doc ? html`<dt>Arquivo</dt><dd class="mono">${c.doc}</dd>` : ''}
       ${c.acrescentada ? html`<dt>Acrescentada por</dt><dd>${nomeContribuidor(c.acrescentada.por)}, ${fmtData(c.acrescentada.data)}</dd>` : ''}

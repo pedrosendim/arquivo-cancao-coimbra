@@ -386,7 +386,20 @@
       "nota": "Em 1987, no conjunto de Octávio Sérgio (Bloco de Notas)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBZVqwGsAQpmH_lmPGDmF0B-VBD58Ap402IWO8Lz5En4id3yFd0bXrLwbhG-z4c_yHeV7ei0UAmqxHZnnyDycYSMFWCof17eNOtfx650X3U77G5docfk42r4-PoBeEtb9qHhu4oOlRsfyu/s1600/Sergio-1-Publico-26-2-2011.jpg",
+      "legenda": "Sérgio Azevedo numa entrevista ao jornal \"Público\", de ontem. Texto de Cristina Fernandes e foto de Nuno Ferreira Santos.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/02/sergio-azevedo-numa-entrevista-ao.html",
+          "doc": "gc-iv:782234205746912964",
+          "citacao": "Sérgio Azevedo numa entrevista ao jornal \"Público\", de ontem. Texto de Cristina Fernandes e foto de Nuno Ferreira Santos."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

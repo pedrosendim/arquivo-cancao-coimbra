@@ -19,6 +19,7 @@ import { compararPt as ordemPt } from '../util.js';
 import { retratoFicha } from '../componentes.js';
 import { seloRevisao, lugarIndice, desenharIndice, botoesPartilha, botaoOuvirTudo, anoGravacaoHtml, anoCurto } from '../leitura.js';
 import { naLinhagem, centrarArvore } from './linhagens.js';
+import { iconesPessoa, iconePapel } from '../icones.js';
 import { nEventosDe } from './cronologia.js';
 import { naoEncontrada, semResultados } from './procurar.js';
 // lista de pessoas: procura sem acentos e por qualquer ordem, papéis numa lista que abre no telemóvel
@@ -55,8 +56,8 @@ export function listaPessoas(el, params) {
     </div>
     <div class="fichas filtro-computador" id="papeis" style="margin:-8px 0 22px">
       <button class="ficha" data-papel="" aria-pressed="${String(!papeis.size)}" title="Todas as pessoas com papel musical">Música<span class="n">${todas.length - nFamiliares}</span></button>
-      ${opcoesPapel.map((o) => html`<button class="ficha" data-papel="${o.valor}" aria-pressed="${String(papeis.has(o.valor))}"
-        ${o.valor === 'familiares' ? raw('title="Familiares nomeados nas fontes, sem papel musical"') : ''}>${o.nome}<span class="n">${o.n}</span></button>`)}
+      ${opcoesPapel.map((o) => html`<button class="ficha ficha-papel" data-papel="${o.valor}" aria-pressed="${String(papeis.has(o.valor))}"
+        ${o.valor === 'familiares' ? raw('title="Familiares nomeados nas fontes, sem papel musical"') : ''}>${iconePapel(o.valor)} ${o.nome}<span class="n">${o.n}</span></button>`)}
     </div>
     <p class="mudo total-lista" id="total" aria-live="polite"></p>
     <p class="grupos-achados" id="grupos-achados" hidden></p>
@@ -141,14 +142,16 @@ export async function pessoa(el, id) {
     im.editorial?.origem || ligacaoFonte(im.fontes?.[0]));
   const editavel = (im, k) => html`<div class="imagem-editavel">${figura(im)}<div class="acoes">
     ${k ? html`<button class="botao peq" data-acao="retrato" data-id="${id}" data-url="${im.url}">Usar como retrato</button>` : html`<span class="selo verde">retrato</span>`}
+    <button class="botao peq" type="button" data-recortar data-id="${id}" data-url="${im.url}">Recortar 1:1</button>
     <button class="botao peq" data-acao="ocultar-imagem" data-id="${id}" data-url="${im.url}"
       data-pedir="Porque esconde esta imagem? (ex.: não é esta pessoa, má qualidade). A imagem não se apaga: fica guardada e pode voltar.">Esconder</button></div></div>`;
 
   el.innerHTML = html`<div class="conteudo">${barraRevisao('pessoas', p)}
     <header class="ficha-topo">
-      ${retratoFicha(p)}
+      ${retratoFicha(p, ed)}
       <div>
         <p class="sobretitulo">${(p.papeis || []).map((x) => PAPEIS[x] || x).join(' · ') || (p.tipo === 'grupo' ? 'Agrupamento' : 'Pessoa')}</p>
+        ${iconesPessoa(p, 'na-ficha')}
         <h1>${p.nome}</h1>
         ${par ? html`<p class="parentesco-topo">${par.rotulo} <a href="#/pessoa/${par.id}">${nomeDe(par.id)}</a>${par.editorial
           ? html` <span class="marca-editorial" title="Indicado por um contribuidor, sem fonte">✎</span>` : ''}</p>` : ''}

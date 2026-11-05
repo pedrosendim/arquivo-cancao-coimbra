@@ -52,7 +52,20 @@
       "nota": "voz (tenor); 1988 segundo Jorge Cravo, c. 1987-1989 segundo AMNunes"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevqr5h6nzQ1cTfIHrEmErK6boMBvs6aJJwx3nCYzAaXriWzOum-GqWzIMsGjy7NEgFZpYUaWBiaOA51gcLLx9DyzKMRajfMcMVLkcqxObVVwojRpQMmGhWy79qivot9r3WbNip-tJ5HmK/s1600/Paulo+Saraiva3.jpg",
+      "legenda": "Paulo Saraiva (1964 – 2012). Cantor, músico, violista, compositor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/02/joao-duarte-de-oliveira-e-paulo-saraiva.html",
+          "doc": "gc-v:5651454803161333981",
+          "citacao": "PAULO JORGE PEDROSO BARATA FEIO SARAIVA (1964 – 2012). Cantor, músico, violista, compositor"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

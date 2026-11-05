@@ -3,6 +3,7 @@
 import { $, html, raw, esc, aviso, guardar, ler, NOME_PLATAFORMA, enderecoSeguro, capaMedia, fundo } from './util.js';
 import { E } from './estado.js';
 import { marcas } from './citacoes.js';
+import { mostrarLetraDe, iniciarFolhaLetra } from './letras.js';
 
 /** Plataformas que não tocam aqui: os programas da RTP veem-se no site da RTP, «outro» é só uma ligação,
  *  as partituras abrem no MuseScore. */
@@ -272,6 +273,7 @@ function desenharInfo() {
   $('#leitor-fila-btn').setAttribute('aria-label', fila.length > 1 ? `Fila de audição, ${atual + 1} de ${fila.length}` : 'Fila de audição');
   desenharNota();
   desenharFila();
+  mostrarLetraDe(it); // o botão «Letra» só aparece se o que toca tem letra (letras.js)
 }
 
 function desenharFila() {
@@ -385,6 +387,7 @@ function fecharLeitor(limpar = false) {
   $('#leitor').classList.remove('expandido');
   abrirFila(false);
   if (limpar) { fila = []; atual = -1; guardar('fila', fila); }
+  mostrarLetraDe(null);
   fechado = true;
   guardarEstado();
   medir();
@@ -398,6 +401,10 @@ export function iniciarLeitor() {
     <div class="leitor-progresso" id="leitor-progresso" hidden><input type="range" min="0" max="1000" value="0" aria-label="Posição na faixa"><span class="tempo"></span></div>`);
   $('#leitor').insertAdjacentHTML('beforeend', '<audio id="leitor-audio" preload="auto" hidden></audio>');
   document.body.insertAdjacentHTML('beforeend', '<button id="leitor-retomar" class="leitor-retomar" type="button" hidden></button>');
+  // a letra: o mesmo botão para vídeo e áudio, e uma folha que fica acima do leitor, sem tapar os comandos nem parar a música
+  $('#leitor-fila-btn').insertAdjacentHTML('beforebegin', '<button id="leitor-letra" type="button" title="Ler a letra" aria-expanded="false" aria-controls="folha-letra" hidden>Letra</button>');
+  document.body.insertAdjacentHTML('beforeend', '<aside id="folha-letra" class="folha-letra" aria-labelledby="folha-letra-titulo" tabindex="-1" hidden></aside>');
+  iniciarFolhaLetra();
 
   const a = audio();
   const doAudio = () => montado && AUDIO_DIRETO.has(fila[atual]?.plataforma) && a.getAttribute('src');

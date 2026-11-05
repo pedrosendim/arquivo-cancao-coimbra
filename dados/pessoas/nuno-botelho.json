@@ -78,7 +78,20 @@
       "nota": "Guitarra clássica (viola); inclui o projeto «De Chopin até à Lapa» (2022). A nota biográfica de Bruno Costa chama-lhe «Nuno Miguel Botelho»."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Ricardo%20Dias%20e%20Nuno%20Botelho%20com%20L%20Providncia%201.jpg",
+      "legenda": "Concerto de Rui Namora no àCapella, ontem. No intervalo do concerto, Ricardo Dias na guitarra, Nuno Botelho na viola e Luís Providência no canto, interpretam temas da Canção de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/concerto-de-rui-namora-no-_112138982778529209.html",
+          "doc": "gc-i:112138982778529209",
+          "citacao": "Concerto de Rui Namora no àCapella, ontem. No intervalo do concerto, Ricardo Dias na guitarra, Nuno Botelho na viola e Luís Providência no canto, interpretam temas da Canção de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

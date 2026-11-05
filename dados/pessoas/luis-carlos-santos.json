@@ -60,7 +60,20 @@
     {"tipo": "acompanhou", "alvo": "francisco-costa", "fontes": [{"fonte": "cm-coimbra", "url": "https://www.coimbra.pt/wp-content/uploads/2022/09/Programacao.pdf", "doc": "cm-coimbra:w49adfd40b3069844", "citacao": "Com Luís Barroso (guitarra portuguesa), Luís Carlos Santos (guitarra clássica) e Ni Ferreirinha (baixo e direção artística)"}], "nota": "espetáculo «Imperfeito», 2022"},
     {"tipo": "acompanhou", "alvo": "luis-alcoforado", "fontes": [{"fonte": "mpagdp", "url": "https://amusicaportuguesaagostardelapropria.org/map?video=7436", "doc": "mpagdp:wc8ebc6495b6486a8", "citacao": "Luís Alcoforado (voz) acompanhado por José Rabaça (guitarra portuguesa) e Luís Carlos Santos (viola) - \"Inquietação\" ... Gravado na biblioteca nova do Seminário Maior de Coimbra, em Coimbra, no dia 7 de setembro de 2024"}], "nota": "viola; gravação de 7 de setembro de 2024"}
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7k5-Jg4UMW7A9iYsf8j3abltU2n6DeJtat1VkD_1qrfZGDogW6f5XYnYSlmh4LCzfTY_DLXeef9JdaVXdeEk02XUXx9yBaWRI8pzbMo4tUZ4Bpd55o_Vqw6qNT-DpJkOhAMxo7KPBELis/s1600/FadoaoCentroNoiteFados22-6-.jpg",
+      "legenda": "João Farinha (c), Luís Barroso (g) e Luís Carlos (v), vão estar amanhã nas escadas da Igreja de Santiago. Diário de Coimbra de hoje.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/joao-farinha-c-luis-barroso-g-e-luis.html",
+          "doc": "gc-iv:4053923630858853141",
+          "citacao": "João Farinha (c), Luís Barroso (g) e Luís Carlos (v), vão estar amanhã nas escadas da Igreja de Santiago. Diário de Coimbra de hoje."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -5,6 +5,7 @@
 //   - Links de acesso: servem para escolher a palavra-passe (conta nova ou palavra-passe esquecida). Valem uma vez e
 //     guarda-se só o resumo do link; um link novo para a mesma pessoa anula o anterior.
 //   - Tentativas erradas: ao fim de 5 por conta (ou 20 por endereço IP) numa hora, espera-se 15 minutos.
+//   - Mensagens da página Contacto: só os administradores as leem. Até 5 por hora de cada endereço IP e 500 guardadas.
 //   - Alterações recentes: as fichas que acabaram de ser publicadas, enquanto a Cloudflare constrói o site. O site de
 //     cada visitante junta-as por cima do base.json (site/js/estado.js), e assim uma alteração vê-se logo.
 
@@ -13,6 +14,7 @@ const VALIDADE_LINK = 7 * 24 * HORA;
 const VALIDADE_RECENTES = 20 * MINUTO; // a mesma de site/js/estado.js
 const ESPERA = 15 * MINUTO, TENTATIVAS_CONTA = 5, TENTATIVAS_IP = 20;
 const LINK_INVALIDO = 'link-invalido';
+const MENSAGENS_POR_HORA = 5, MENSAGENS_GUARDADAS = 500;
 
 const hex = (bytes) => [...new Uint8Array(bytes)].map((x) => x.toString(16).padStart(2, '0')).join('');
 const resumo = async (texto) => hex(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(texto)));
@@ -102,6 +104,34 @@ export class Armazem {
     return { contas, links };
   }
 
+  async guardarMensagem({ nome, contacto, texto, ip }) {
+    const agora = Date.now(), k = `msg-ip:${await resumo(ip || '?')}`, c = await this.g.get(k);
+    const n = c && agora - c.desde < HORA ? c.n + 1 : 1;
+    if (n > MENSAGENS_POR_HORA) return { erro: 'muitas' };
+    const id = `${String(agora).padStart(15, '0')}-${crypto.randomUUID().slice(0, 8)}`;
+    await this.g.put({ [k]: { n, desde: n === 1 ? agora : c.desde }, [`msg:${id}`]: { id, nome, contacto, texto, em: new Date(agora).toISOString(), lida: false } });
+    const velhas = [...(await this.g.list({ prefix: 'msg:' })).keys()].slice(0, -MENSAGENS_GUARDADAS);
+    const contadores = [...await this.g.list({ prefix: 'msg-ip:' })].filter(([, v]) => agora - v.desde >= HORA).map(([chave]) => chave);
+    const fora = [...velhas, ...contadores].slice(0, 128); // a Cloudflare apaga até 128 chaves de cada vez
+    if (fora.length) await this.g.delete(fora);
+    return { ok: true };
+  }
+
+  async mensagens() {
+    return { mensagens: [...(await this.g.list({ prefix: 'msg:' })).values()].reverse() };
+  }
+
+  async marcarMensagem({ id, lida }) {
+    const k = `msg:${id}`, m = await this.g.get(k);
+    if (m) await this.g.put(k, { ...m, lida });
+    return { ok: true };
+  }
+
+  async apagarMensagem({ id }) {
+    await this.g.delete(`msg:${id}`);
+    return { ok: true };
+  }
+
   async guardarRecentes({ itens, em }) {
     await this.g.put(Object.fromEntries(itens.map(({ caminho, conteudo }) => [`recente:${caminho}`, { caminho, conteudo, em }])));
     return { ok: true };
@@ -117,7 +147,8 @@ export class Armazem {
   }
 }
 
-const OPERACOES = ['criarLink', 'verLink', 'definir', 'entrar', 'versao', 'mudar', 'estado', 'guardarRecentes', 'recentes'];
+const OPERACOES = ['criarLink', 'verLink', 'definir', 'entrar', 'versao', 'mudar', 'estado', 'guardarRecentes', 'recentes',
+  'guardarMensagem', 'mensagens', 'marcarMensagem', 'apagarMensagem'];
 
 /** Pede uma operação ao armazém (ao Durable Object, a partir do Worker). */
 export async function armazem(env, op, dados = {}) {

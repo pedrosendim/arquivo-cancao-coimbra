@@ -181,7 +181,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/MES-DO-FADO--ROMANCE-ESTUDANTINA--%20014.jpg",
+      "legenda": "Actuações no «Mês do Fado». Estudantina.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/actuaes-no-ms-do-fado.html",
+          "doc": "gc-i:111420978798233341",
+          "citacao": "Actuações no \"Mês do Fado\". Estudantina."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

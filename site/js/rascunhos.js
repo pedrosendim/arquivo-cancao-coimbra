@@ -14,7 +14,7 @@ const rascunhoNoBrowser = () => E.sessao?.modo === 'online' && !['dono', 'admini
 const PREFIXO = 'rascunho:';
 const LOCAL = 'blogue-local/'; // textos novos do blogue guardados «só neste browser» (cada um com a sua chave)
 const VALIDADE = 30 * 24 * 3600 * 1000; // um mês
-const ACOES = new Set(['guardar-ficha', 'vida', 'novo-facto', 'nova-relacao', 'nova-imagem', 'nova-referencia', 'nota-editor', 'guardar-texto', 'propor-fonte']);
+const ACOES = new Set(['guardar-ficha', 'vida', 'novo-facto', 'nova-relacao', 'nova-imagem', 'nova-referencia', 'nota-editor', 'guardar-texto', 'propor-fonte', 'nova-letra']);
 
 const lerR = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
 const guardarR = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* sem armazenamento */ } };
