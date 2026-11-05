@@ -30,7 +30,8 @@
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
+  /* o Museu tem as suas cores (estilos.css) e só escurece com o botão «Tema»: as antigas não se misturam com as dele */
+  :root:not([data-theme="light"]):not([data-estilo="museu"]) {
     --fundo: #12100d; --fundo-2: #181512; --superficie: #1e1a16; --superficie-2: #252019;
     --linha: #332c24; --linha-forte: #4a4034; --texto: #ece3d2; --texto-2: #b6a993; --texto-3: #85786a;
     --ouro: #cfa95f; --ouro-forte: #e6c88d; --ouro-suave: rgba(207, 169, 95, .13);
@@ -666,7 +667,9 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
 .historico { list-style: none; padding: 0; margin: 0; }
 .historico > li { padding: 14px 0; border-bottom: 1px solid var(--linha); }
 .historico .meta { font: 13px var(--f-ui); color: var(--texto-3); margin: 0 0 4px; }
-.historico summary, .o-que-muda summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); }
+.mais-media { margin-top: 14px; }
+.mais-media > .grelha { margin-top: 14px; }
+.historico summary, .o-que-muda summary, .mais-media summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); }
 .o-que-muda { margin: 10px 0; }
 .o-que-muda h4 { font: 600 14px var(--f-ui); margin: 12px 0 0; }
 .papeis-lista { margin: 12px 0 0; padding-left: 18px; font: 14px/1.6 var(--f-ui); color: var(--texto-2); }
@@ -719,17 +722,17 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
   :root { --lateral: 0px; }
   .moldura { grid-template-columns: minmax(0, 1fr); }
   .lateral { min-width: 0; }
-  .lateral { position: sticky; top: 0; z-index: 20; height: auto; flex-direction: row; align-items: center; gap: 10px;
-    padding: calc(10px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 10px max(16px, env(safe-area-inset-left)); border-right: 0; border-bottom: 1px solid var(--linha); overflow: visible; flex-wrap: wrap; }
+  /* no telemóvel, uma só linha fixa no topo (marca, procura e «Menu»); o menu e as preferências abrem numa folha (fim do ficheiro, P2) */
+  .lateral { position: sticky; top: 0; z-index: 20; height: auto; flex-direction: row; align-items: center; gap: 8px;
+    padding: calc(8px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 8px max(16px, env(safe-area-inset-left)); border-right: 0; border-bottom: 1px solid var(--linha); overflow: visible; }
+  .marca-site { padding: 0; gap: 8px; flex: none; }
+  .marca-site svg { width: 24px; height: 24px; }
+  .marca-site b { font-size: 21px; }
   .marca-site small { display: none; }
-  .procura-global { width: auto; flex: 1; }
+  .procura-global { width: auto; flex: 1; min-width: 0; height: 40px; }
+  .procura-global span { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
   .procura-global kbd { display: none; }
-  #nav { order: 3; flex-direction: row; width: 100%; overflow-x: auto; gap: 2px; scrollbar-width: none; }
-  #nav a { white-space: nowrap; padding: 6px 10px; font-size: 13.5px; }
-  #nav a svg { display: none; }
-  .nav-grupo { display: none; }
-  .lateral-rodape { margin: 0; }
-  #tema span { display: none; }
+  .lateral-rodape { margin: 0; padding-top: 8px; border-top: 1px solid var(--linha); }
   #recolher-menu { display: none; }
   main { padding-top: 24px; padding-left: max(16px, env(safe-area-inset-left)); }
   .duas-colunas { grid-template-columns: 1fr; }
@@ -744,3 +747,747 @@ textarea.campo { height: auto; padding: 9px 12px; line-height: 1.5; resize: vert
   table.factos th { width: 110px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* ===== P2: cabeçalho compacto e menu em folha no telemóvel ===== */
+:root { --cabecalho-h: 0px; } /* altura do cabeçalho fixo no telemóvel, medida em app.js; 0 no computador */
+html { scroll-padding-top: var(--cabecalho-h); } /* os saltos dentro da página e o foco ficam à vista, por baixo do cabeçalho */
+.menu-folha { display: contents; } /* no computador, o menu e as preferências ficam no menu lateral, como sempre */
+.abrir-menu {
+  display: none; align-items: center; gap: 7px; flex: none; height: 40px; padding: 0 12px; border: 1px solid var(--linha-forte);
+  border-radius: 8px; background: var(--superficie); color: var(--texto); font-size: 14px; }
+.abrir-menu:hover { border-color: var(--ouro); }
+@keyframes folha-entra { from { opacity: 0; transform: translateY(-6px); } }
+@media (max-width: 900px) {
+  .abrir-menu { display: inline-flex; }
+  .menu-folha { display: none; }
+  :root.menu-aberto .lateral { z-index: 45; }
+  :root.menu-aberto, :root.menu-aberto body { overflow: hidden; }
+  :root.menu-aberto .menu-folha {
+    display: flex; flex-direction: column; gap: 14px; position: fixed; inset: var(--cabecalho-h) 0 0 0; overflow-y: auto; overscroll-behavior: contain;
+    padding: 4px max(16px, env(safe-area-inset-right)) calc(28px + env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
+    background: var(--fundo); animation: folha-entra .16s ease-out; }
+  .menu-folha #nav a { min-height: 44px; }
+  .menu-folha .lateral-rodape > :is(a, button) { min-height: 44px; width: 100%; }
+}
+@media (max-width: 359px) { .marca-site b { display: none; } } /* ecrãs muito estreitos: só o ícone, para a procura caber */
+
+/* ===== P3: leitura das fichas ===== */
+/* marcas de citação (citacoes.js): números no computador; nos ecrãs de toque, uma só etiqueta «N fontes» */
+.marca { position: relative; }
+.marca-grupo { display: none; }
+.marca.de-comentario { background: none; box-shadow: inset 0 0 0 1px var(--ouro); }
+.so-comentario { font: italic 12px var(--f-ui); color: var(--texto-3); margin-left: 6px; white-space: normal; }
+@media (pointer: coarse) {
+  .marcas-numeros { display: none; }
+  .marca-grupo { display: inline-flex; align-items: center; margin-left: 6px; padding: 4px 9px; border-radius: 999px;
+    font: 600 12px/1.2 var(--f-ui); vertical-align: 1px; }
+  .marca::after { content: ""; position: absolute; inset: -9px -6px; } /* área de toque maior, sem mudar o desenho */
+  blockquote footer .marca { margin-left: 6px; }
+}
+/* painel da citação: várias fontes de um facto, comentário de leitor */
+.citacao-painel + .citacao-painel { margin-top: 26px; padding-top: 22px; border-top: 1px solid var(--linha); }
+.aviso-comentario { font-size: 13.5px; padding: 8px 12px; border-radius: 6px; background: var(--ouro-suave); color: var(--texto); }
+.texto-citar { user-select: all; }
+.texto-copiar { width: 100%; height: auto; padding: 10px 12px; font: 14px/1.5 var(--f-ui); }
+.so-toque { display: none; }
+@media (pointer: coarse) { .so-rato { display: none; } .so-toque { display: inline; } }
+
+/* topo da ficha: retrato que abre em grande, com a origem da fotografia; anos com «≠» quando as fontes divergem */
+.retrato-ficha { margin: 0; min-width: 0; }
+.retrato-ficha .retrato { position: relative; display: grid; width: 100%; padding: 0; overflow: hidden; cursor: zoom-in; }
+.retrato-ficha .retrato img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.retrato-ficha figcaption { margin-top: 6px; font-size: 12px; line-height: 1.35; color: var(--texto-3); overflow-wrap: anywhere; }
+.parentesco-topo { margin: 6px 0 0; font: italic 500 19px var(--f-titulo); color: var(--texto-2); }
+.anos .diverge { margin-left: 2px; padding: 0 5px; border: 0; border-radius: 4px; background: var(--vinho-suave); color: var(--vinho);
+  font: 600 15px/1.3 var(--f-ui); font-style: normal; vertical-align: 2px; cursor: pointer; }
+.vida-linha .vida-parte + .vida-parte::before { content: " · "; }
+.vida-linha:has(.diverge) .vida-parte { display: block; }
+.vida-linha:has(.diverge) .vida-parte + .vida-parte { margin-top: 4px; }
+.vida-linha:has(.diverge) .vida-parte + .vida-parte::before { content: none; }
+.ligacao-texto { border: 0; background: none; padding: 0; color: var(--ouro); font: inherit; text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+/* selo de revisão: tocar no selo explica o que quer dizer */
+.selo-revisao { margin: 12px 0 0; font-size: 13.5px; }
+.selo-revisao summary { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; cursor: pointer; list-style: none; }
+.selo-revisao summary::-webkit-details-marker { display: none; }
+.selo-revisao .o-que-e { font-size: 12.5px; color: var(--texto-3); text-decoration: underline dotted; text-underline-offset: 3px; }
+.selo-revisao[open] .o-que-e { display: none; }
+.selo-revisao p { margin: 8px 0 0; max-width: 640px; line-height: 1.5; color: var(--texto-2); }
+/* «Nesta ficha»: saltos para as secções; presa ao topo no computador, a rolar de lado no telemóvel */
+.indice-ficha { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 20px 0 0; padding: 8px 0; background: var(--fundo); border-bottom: 1px solid var(--linha); }
+.indice-rotulo { margin-right: 4px; font: 500 11.5px var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--texto-3); white-space: nowrap; }
+.indice-salto { flex: none; padding: 4px 11px; border: 1px solid var(--linha); border-radius: 999px; background: var(--superficie); color: var(--texto-2); font-size: 13px; white-space: nowrap; }
+.indice-salto:hover { border-color: var(--ouro); color: var(--texto); }
+.indice-salto .n { margin-left: 2px; color: var(--texto-3); font-size: 12px; font-variant-numeric: tabular-nums; }
+@media (min-width: 901px) {
+  .indice-ficha { position: sticky; top: 0; z-index: 6; }
+  .indice-ficha ~ section, .indice-ficha ~ section tr { scroll-margin-top: calc(var(--indice-h, 56px) + 10px); }
+}
+@media (max-width: 900px) {
+  .indice-ficha { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
+  .indice-ficha::-webkit-scrollbar { display: none; }
+  .indice-ficha ~ section, .indice-ficha ~ section tr { scroll-margin-top: 12px; }
+}
+@media (pointer: coarse) { .indice-salto { min-height: 40px; } }
+/* factos: muitos factos sem conflito de um campo ficam em «mais N»; as versões que divergem ficam sempre à vista */
+.mais-factos > summary { margin: 2px 0 4px; cursor: pointer; color: var(--ouro-forte); font: 500 13px var(--f-ui); }
+/* relações: a nota de «membro de» (instrumento e época) e a lista de família recolhida debaixo da árvore */
+.nota-relacao { display: block; margin-top: 2px; font-size: 12.5px; color: var(--texto-2); }
+.nota-membro { display: block; margin-top: 2px; font-size: 13.5px; font-weight: 500; color: var(--texto); }
+.cartao .meta.formacao { color: var(--texto-2); }
+.relacoes-recolhidas, .ligacoes-arvore { margin-top: 14px; }
+.relacoes-recolhidas > summary, .ligacoes-arvore > summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); }
+.relacoes-recolhidas > .relacoes { margin-top: 12px; }
+.ligacoes-arvore .lista-simples li { padding: 7px 0; font-size: 14px; }
+/* árvores das escolas: «influenciou» a tracejado, para não se ler como «ensinou» */
+.arvore-linhas .lig.ensino.influencia { stroke-dasharray: 7 5; }
+.legenda-arvore .l-ens { stroke: var(--ouro); stroke-width: 2; fill: none; }
+/* cronologia: barra das décadas com botões e contagens; a década à vista marcada; a outra versão e as fichas repetidas */
+.decadas button { flex: none; padding: 3px 8px; border: 0; border-radius: 5px; background: none; color: var(--texto-2); font: 500 12.5px var(--f-mono); white-space: nowrap; }
+.decadas button:hover { background: var(--ouro-suave); }
+.decadas button[aria-current="true"] { background: var(--ouro); color: var(--fundo); }
+.decadas button .n { font-size: 11px; opacity: .75; }
+@media (pointer: coarse) { .decadas button { display: inline-flex; align-items: center; gap: 4px; min-height: 44px; padding: 0 10px; } }
+.outra-versao, .tambem { display: block; margin-top: 3px; font: 13px var(--f-ui); color: var(--texto-3); }
+.aviso-cronologia { margin-bottom: 18px; }
+.aviso-cronologia p, .aviso-linhagem p { margin: 0 0 6px; }
+/* telemóvel: o retrato ao lado do nome, o resto da ficha a toda a largura; factos com o rótulo por cima */
+@media (max-width: 900px) {
+  .ficha-topo { align-items: start; }
+  .ficha-topo h1 { font-size: clamp(27px, 7vw, 40px); }
+  table.factos, table.factos tbody, table.factos tr, table.factos th, table.factos td { display: block; width: auto; }
+  table.factos th { width: auto; padding: 12px 0 3px; }
+  table.factos td { padding: 0 0 12px; }
+  table.factos tr:first-child td { border-top: 0; }
+  table.factos tr:first-child th { border-top: 1px solid var(--linha); }
+}
+@media (max-width: 600px) {
+  /* o 1.º filho é o retrato (ou a capa); o 2.º, o texto, cujas peças passam a ocupar a largura toda, menos as 4 primeiras */
+  .ficha-topo { grid-template-columns: 92px minmax(0, 1fr); column-gap: 14px; row-gap: 0; }
+  .ficha-topo > :nth-child(2) { display: contents; }
+  .ficha-topo > :nth-child(2) > * { grid-column: 1 / -1; }
+  .ficha-topo > :first-child { grid-column: 1; grid-row: 1 / span 4; align-self: start; margin-bottom: 10px; }
+  .ficha-topo > :nth-child(2) > :is(.sobretitulo, h1, .parentesco-topo, .anos) { grid-column: 2; }
+  .ficha-topo .retrato { font-size: 34px; }
+  .ficha-topo .anos { margin-bottom: 8px; }
+}
+/* imprimir: sem a linha «Nesta ficha», o «o que quer dizer?» do selo, o «mais N» (leitura.js abre essas dobras antes
+   de imprimir) nem as instruções de clicar ou tocar nas marcas; a lista de família fica com o resumo como título */
+@media print {
+  .indice-ficha, .selo-revisao .o-que-e, .mais-factos > summary, .so-rato, .so-toque { display: none !important; }
+  .relacoes-recolhidas > summary, .ligacoes-arvore > summary { list-style: none; color: inherit; }
+  .relacoes-recolhidas > summary::-webkit-details-marker, .ligacoes-arvore > summary::-webkit-details-marker { display: none; }
+}
+
+/* ===== P1: procura (paleta, página «Procurar», filtros das listas) ===== */
+/* paleta: resultados em grupos (Pessoas, Grupos, Obras…), cada um com uma linha cinzenta que o distingue */
+#paleta-lista li.grupo { display: block; padding: 0; cursor: default; border-radius: 0; }
+#paleta-lista li.grupo + li.grupo { margin-top: 4px; }
+#paleta-lista ul { list-style: none; margin: 0; padding: 0; }
+#paleta-lista .cabeca { padding: 10px 12px 4px; font: 500 11px var(--f-mono); text-transform: uppercase; letter-spacing: .06em; color: var(--texto-3); }
+#paleta-lista .n { color: var(--texto-3); font: 500 11.5px var(--f-mono); }
+#paleta-lista li[role="option"] .n { margin-left: auto; }
+#paleta-lista .rotulo { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+#paleta-lista .rotulo small { color: var(--texto-3); font-size: 12.5px; line-height: 1.35; }
+#paleta-lista li.mais { color: var(--ouro-forte); font-size: 13.5px; padding-top: 6px; padding-bottom: 6px; }
+#paleta-lista li.atalho { font-weight: 500; }
+#paleta-lista .tocar { flex: none; width: 22px; height: 22px; display: grid; place-items: center; border-radius: 50%;
+  background: var(--ouro-suave); color: var(--ouro-forte); font-size: 9px; }
+#paleta-lista li.fora .tocar { font-size: 13px; } /* ↗: abre no site original (RTP), não toca aqui */
+/* início: «Por onde começar» por baixo da caixa de procura; nos ecrãs de toque, o nome no mosaico fica sempre à vista */
+.comecar { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; max-width: 640px; margin: 18px 0 0; }
+.comecar .sobretitulo { width: 100%; margin: 0 0 2px; }
+.comecar a { font-size: 15px; }
+.comecar a::after { content: " →"; color: var(--texto-3); }
+@media (hover: none) { .heroi .mosaico a span { opacity: 1; } }
+.heroi .numeros:has(> a:nth-child(7)) { grid-template-columns: repeat(auto-fit, minmax(max(130px, 22%), 1fr)); } /* 8 números: 4 + 4 */
+/* listas: quantas ficaram com os filtros; os papéis em botões no computador e numa lista que abre no telemóvel */
+.total-lista { font-size: 13px; margin: -6px 0 14px; }
+.grupos-achados { font-size: 14.5px; margin: -4px 0 16px; }
+.sem-resultados a { white-space: nowrap; }
+.filtro-telemovel { display: none; }
+@media (max-width: 640px) { .filtro-telemovel { display: block; } .filtro-computador { display: none; } }
+/* página «Procurar» e «não encontrada»: uma linha por resultado, com o que o distingue */
+.resultados-procura li > a:not(.botao) { font: 500 17px var(--f-titulo); } /* o ↗ dos programas da RTP fica um botão */
+.resultados-procura li > .mudo { font-size: 13.5px; }
+.atalhos-procura { margin: 0 0 8px; }
+.atalhos-procura .ficha:hover { text-decoration: none; }
+/* «Pesquisar «…» no arquivo dos blogues» com um texto comprido: no telemóvel, o botão parte em linhas em vez de alargar a página */
+.procurar-fim .botao { white-space: normal; height: auto; min-height: 36px; padding-top: 8px; padding-bottom: 8px; max-width: 100%; }
+
+/* ===== P5b: rever, validar, propostas, histórico ===== */
+/* «Por validar»: separadores, «Só o que eu fiz» e atalhos para as secções */
+.validar .separadores { margin-bottom: 14px; }
+.validar .separadores .n { font: 500 12px var(--f-mono); color: var(--texto-3); margin-left: 4px; }
+.so-meu { margin: 0 0 16px; font-size: 14px; }
+.so-meu label { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; cursor: pointer; }
+.so-meu input { width: 18px; height: 18px; accent-color: var(--ouro); }
+.resumo-validar { margin: 0 0 8px; }
+.resumo-validar .ficha, .fila-revisao .ficha { min-height: 34px; }
+a.ficha { display: inline-flex; align-items: center; }
+a.ficha:hover { text-decoration: none; }
+.ficha[aria-current="true"] { background: var(--ouro); border-color: var(--ouro); color: var(--fundo); }
+.validar .seccao[id] { scroll-margin-top: 12px; } /* o cabeçalho do telemóvel já conta no scroll-padding-top do html (P2) */
+/* pares de fichas: o motivo e a família de cada uma */
+.par-motivo { grid-column: 1 / -1; margin: 0; font: 13px var(--f-ui); color: var(--texto-2); }
+.par-ficha small + small { font-style: italic; }
+.subtitulo-validar { font-size: 21px; margin: 26px 0 4px; }
+.subtitulo-validar small { display: block; font: 400 13px var(--f-ui); color: var(--texto-3); margin-top: 4px; }
+.distinguidos { margin-top: 18px; }
+.distinguidos > summary, .faixas-obras > summary { cursor: pointer; color: var(--ouro-forte); font: 500 14px var(--f-ui); padding: 6px 0; }
+/* divergências: as versões lado a lado, com a fonte de cada uma, e a nota ali mesmo */
+.divergencia { padding: 14px 0 16px; border-bottom: 1px solid var(--linha); }
+.divergencia h3 { font-size: 21px; margin: 0 0 6px; }
+.divergencia h3 small { font: 400 12.5px var(--f-ui); color: var(--texto-3); margin-left: 6px; }
+.divergencia-campo + .divergencia-campo { margin-top: 12px; }
+.divergencia-nome { margin: 0 0 6px; font: 600 11px var(--f-ui); letter-spacing: .06em; text-transform: uppercase; color: var(--vinho); }
+.versoes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px; }
+.versao { position: relative; padding: 10px 12px 10px 38px; border: 1px solid var(--linha); border-radius: 8px; background: var(--superficie); }
+.versao p { margin: 0; }
+.versao p:first-of-type { font: 15.5px/1.45 var(--f-leitura); }
+.versao .mudo { font-size: 12.5px; margin-top: 4px; }
+.versao-n { position: absolute; left: 10px; top: 10px; width: 20px; height: 20px; display: grid; place-items: center; border-radius: 50%;
+  background: var(--vinho-suave); color: var(--vinho); font: 600 11px var(--f-ui); }
+.divergencia-nome small { margin-left: 6px; font: 400 12px var(--f-ui); letter-spacing: 0; text-transform: none; color: var(--texto-3); }
+.versao .versao-notas { margin-top: 6px; }
+.versao-notas:empty { display: none; }
+.versao-notas .notas-facto { margin-top: 0; }
+.nota-divergencia { margin-top: 8px; padding: 10px 12px; gap: 8px; max-width: none; }
+.nota-divergencia .linha-campos > label { flex: 1 1 240px; }
+.nota-divergencia .linha-campos > label.nota-texto { flex: 3 1 300px; }
+.nota-divergencia .acoes { align-items: center; }
+/* citações por confirmar e faixas que podem ser de uma obra */
+.citacoes-confirmar li { justify-content: space-between; align-items: center; }
+.citacoes-confirmar li > div { flex: 1 1 320px; min-width: 0; }
+.citacao-frase { margin: 4px 0 0; font: italic 15px/1.5 var(--f-leitura); color: var(--texto-2); overflow-wrap: anywhere; }
+.faixas-obras { margin-top: 4px; }
+.faixa-grupo { padding: 12px 0 4px; border-bottom: 1px solid var(--linha); }
+.faixa-grupo > p { margin: 0 0 4px; line-height: 1.6; }
+.faixa-grupo .lista-simples li { padding: 6px 0; border-bottom: 0; }
+/* fila de revisão: a lista em «Por validar» e a barra no topo de cada ficha aberta a partir dela */
+.fila-revisao > p { font-size: 14.5px; max-width: 760px; }
+.fila-revisao .fichas { margin: 14px 0 18px; }
+.fila-comecar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 0 0 14px; }
+.fila-lista { margin: 0; padding: 0 0 0 26px; }
+.fila-lista li::marker { font: 500 12px var(--f-mono); color: var(--texto-3); }
+.fila-item { padding: 9px 0; border-bottom: 1px solid var(--linha); }
+.fila-item > div:first-child { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.fila-item small { font-size: 12.5px; }
+.fila-item .acoes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.barra-revisao { margin: 0 0 22px; padding: 12px 16px; border: 1px solid var(--ouro); border-radius: var(--r); background: var(--ouro-suave); font-size: 14px; }
+.barra-revisao p { margin: 0 0 6px; }
+.barra-revisao .acoes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.barra-revisao .acoes + p { margin: 8px 0 0; }
+/* propostas: o que merece um segundo olhar antes de aprovar */
+.alertas-proposta { margin: 6px 0 12px; padding: 10px 14px; border-radius: 8px; border-left: 3px solid var(--vinho);
+  background: var(--vinho-suave); color: var(--texto); font-size: 14px; }
+.alertas-proposta:empty { display: none; }
+.alertas-titulo { margin: 0 0 4px; font-weight: 600; color: var(--vinho); }
+.alertas-proposta ul { margin: 0; padding-left: 18px; }
+.alertas-proposta li { overflow-wrap: anywhere; }
+.o-que-muda .diferencas li { overflow-wrap: anywhere; }
+.erros-validacao, .aviso-proposta { margin: 6px 0 10px; padding: 8px 12px; border-radius: 8px; background: var(--ouro-suave); font-size: 14px; }
+.erros-validacao p { margin: 0 0 4px; font-weight: 600; }
+.erros-validacao ul { margin: 0; padding-left: 18px; overflow-wrap: anywhere; }
+.decididas .lista-simples li { align-items: center; }
+.proposta .botao[disabled] { opacity: .45; cursor: not-allowed; }
+.motivo-decisao { flex-basis: 100%; margin: 2px 0 0; font: italic 14px/1.5 var(--f-leitura); color: var(--texto-2); }
+/* guia «Como contribuir»: um cartão por tarefa */
+.tarefas { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.tarefa { display: flex; flex-direction: column; padding: 16px 18px; border: 1px solid var(--linha); border-radius: var(--r); background: var(--superficie); }
+.guia .tarefa h3 { font-size: 21px; margin: 0 0 8px; }
+.tarefa .passos { margin: 0; padding-left: 20px; font: 14.5px/1.55 var(--f-ui); color: var(--texto-2); }
+.tarefa .passos li { margin-bottom: 5px; }
+.tarefa-nota { margin: 6px 0 0; font: 13px/1.5 var(--f-ui); color: var(--texto-3); }
+.tarefa-fazer { margin: auto 0 0; padding-top: 12px; }
+.aviso-rascunho { margin: 0; font-size: 13px; }
+@media (max-width: 700px) {
+  .versoes { grid-template-columns: 1fr; }
+  .barra-revisao .acoes .botao { flex: 1 1 auto; justify-content: center; }
+  /* nos ecrãs estreitos, a explicação de cada secção passa para baixo do título, em vez de o espremer */
+  .validar .seccao > h2 { flex-wrap: wrap; }
+  .validar .seccao > h2 small { flex-basis: 100%; }
+}
+
+/* ===== P2: acessibilidade (foco, janelas, contraste, margens do iPhone) ===== */
+/* «Saltar para o conteúdo»: só aparece com o Tab */
+.saltar { position: fixed; z-index: 90; left: 12px; top: calc(8px + env(safe-area-inset-top)); padding: 10px 16px; border: 0; border-radius: 8px;
+  background: var(--texto); color: var(--fundo); font: 500 14px var(--f-ui); transform: translateY(calc(-100% - 20px - env(safe-area-inset-top))); }
+.saltar:focus { transform: none; }
+/* o painel fechado sai do Tab e dos leitores de ecrã, depois de deslizar para fora */
+.painel { visibility: hidden; transition: transform .22s ease, visibility 0s linear .22s; }
+.painel.aberto { visibility: visible; transition: transform .22s ease; }
+.painel:focus, .painel [tabindex="-1"]:focus, .lightbox:focus { outline: none; }
+/* paleta: «Fechar» para o dedo; a dica das teclas só nos ecrãs com rato */
+.paleta-caixa { position: relative; }
+#paleta-input { padding-right: 96px; }
+.paleta-fechar { position: absolute; top: 11px; right: 12px; height: 36px; padding: 0 12px; border: 1px solid var(--linha); border-radius: 8px;
+  background: var(--superficie); color: var(--texto-2); font-size: 13px; }
+.paleta-fechar:hover { border-color: var(--ouro); color: var(--texto); }
+@media (hover: none) { .paleta-dica { display: none; } }
+/* imagem ampliada: a fotografia é um botão (teclado) e a janela tem «×» */
+.ampliar { display: block; width: 100%; padding: 0; border: 0; background: none; color: inherit; cursor: zoom-in; }
+.lightbox-fechar { position: absolute; z-index: 1; top: max(12px, env(safe-area-inset-top)); right: max(12px, env(safe-area-inset-right)); width: 44px; height: 44px;
+  border: 0; border-radius: 50%; background: rgba(0, 0, 0, .5); color: #fff; font-size: 28px; line-height: 1; cursor: pointer; }
+/* foco visível: por dentro das miniaturas (o cartão corta o que sai) e nos campos (a borda sozinha não se vê) */
+.miniatura:focus-visible, .ampliar:focus-visible { outline-offset: -4px; }
+/* a capa é uma imagem por cima do fundo: o contorno desenha-se por cima dela */
+.miniatura:focus-visible::after { content: ""; position: absolute; inset: 0; z-index: 2; border: 3px solid var(--ouro); pointer-events: none; }
+.ampliar { position: relative; }
+.ampliar:focus-visible::after { content: ""; position: absolute; inset: 0; border: 3px solid var(--ouro); pointer-events: none; }
+.campo:focus-visible { outline: 2px solid var(--ouro); outline-offset: 1px; }
+/* texto só para leitores de ecrã */
+.so-leitor { position: absolute !important; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+/* contraste: a contagem num filtro premido, as iniciais dos avatares e o texto de exemplo dos campos */
+.ficha[aria-pressed="true"] .n { opacity: 1; }
+.avatar { color: var(--ouro-forte); }
+.campo::placeholder, .filtro-procurar::placeholder, #paleta-input::placeholder { color: var(--texto-3); opacity: 1; }
+/* iPhone: o painel, a imagem ampliada e os avisos longe do entalhe e da barra de gestos */
+.painel { padding-top: calc(28px + env(safe-area-inset-top)); padding-right: max(26px, env(safe-area-inset-right)); }
+.painel .fechar { top: calc(12px + env(safe-area-inset-top)); right: max(14px, env(safe-area-inset-right)); }
+.lightbox { padding: max(24px, env(safe-area-inset-top)) max(24px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(24px, env(safe-area-inset-left)); }
+.aviso { bottom: calc(24px + max(var(--leitor-h), env(safe-area-inset-bottom))); }
+
+/* ===== P2: alvos de toque (só nos ecrãs de toque; no computador fica igual) ===== */
+@media (pointer: coarse) {
+  .botao, .botao.peq { min-height: 44px; }
+  .acoes > .botao.peq { min-width: 44px; justify-content: center; }
+  .ficha { min-height: 40px; }
+  .campo { min-height: 44px; }
+  .leitor-botoes button, .leitor-fila li button { width: 44px; height: 44px; }
+  .decadas a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 10px; }
+  /* ✎ e × do modo de edição: maiores e mais afastados, para não se carregar num em vez do outro */
+  .botao-nota { position: relative; width: 36px; height: 32px; margin-left: 10px; }
+  .botao-nota::after { content: ""; position: absolute; inset: -6px -4px; }
+  /* «Como sabe?»: cada opção na sua linha, a quebrar o texto, com a explicação por baixo (antes saíam da caixa) */
+  .caixa-edicao label.opcao { display: flex; flex-wrap: wrap; align-items: center; min-height: 44px; margin-right: 0; }
+  .caixa-edicao .linha-campos > label.opcao { flex: 1 1 100%; min-width: 0; }
+  .caixa-edicao label.opcao > small, .como-sabe label.opcao small { display: block; flex-basis: 100%; margin: 0 0 4px 24px; }
+}
+@media (max-width: 900px) { .ficha-topo > div { min-width: 0; } } /* um formulário largo no topo da ficha não alarga a página */
+
+/* ===== P2: listas longas e cronologia ===== */
+/* o browser só desenha os cartões e as décadas perto do ecrã; o resto continua na página (Ctrl+F, leitores de ecrã, filtros).
+   Só nas listas (Pessoas, Grupos, Discografia, Mediateca), não nas grelhas das fichas. */
+#grelha > .cartao, #lista > .grelha > .cartao { content-visibility: auto; contain-intrinsic-size: auto 380px; }
+/* na cronologia, a década inteira, com folga à esquerda para os pontos da linha do tempo */
+.decada { content-visibility: auto; contain-intrinsic-size: auto 1500px; padding-left: 6px; margin-left: -6px; scroll-margin-top: calc(var(--decadas-h, 69px) + 21px); }
+/* computador: o título fixo da década fica por baixo da barra das décadas, que pode ter várias linhas (app.js mede-a: --decadas-h) */
+.decada > h2 { top: calc(var(--decadas-h, 69px) + 19px); }
+@media (max-width: 900px) {
+  /* a barra das décadas numa só linha, que rola de lado, fixa por baixo do cabeçalho */
+  .decadas { top: var(--cabecalho-h); flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding: 6px 0; }
+  .decadas::-webkit-scrollbar { display: none; }
+  .decadas a { flex: none; }
+  .decada { scroll-margin-top: calc(var(--decadas-h, 57px) + 13px); }
+}
+
+/* ===== P4: cartões de media ===== */
+/* a capa é uma imagem preguiçosa por baixo do ▶ e dos selos (só se pede perto do ecrã) */
+.miniatura > img.capa-media { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.miniatura .tocar { position: relative; }
+.miniatura .tocar, .miniatura .plataforma, .miniatura .selo-capa, .miniatura .cartaz-titulo, .miniatura .ver-fora { z-index: 1; }
+/* o que não toca aqui (RTP): a capa é uma ligação para o site original */
+a.miniatura, a.miniatura:hover { text-decoration: none; }
+.miniatura.externa .ver-fora { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding: 7px 12px; border-radius: 999px;
+  background: rgba(15, 12, 8, .8); color: #f0cf8e; border: 1px solid rgba(233, 220, 194, .35); font: 600 12.5px var(--f-ui); white-space: nowrap; }
+.miniatura.externa.cartaz .ver-fora { top: 40%; }
+.miniatura.externa:hover .ver-fora { background: var(--ouro); color: #16120c; }
+.cartao-media .acoes { flex-wrap: wrap; }
+.disco-media a { color: var(--ouro-forte); }
+.nota-media { margin: 0; font-size: 12.5px; line-height: 1.4; }
+details.nota-media summary { cursor: pointer; list-style: none; }
+details.nota-media summary::-webkit-details-marker { display: none; }
+details.nota-media summary::before { content: "▸ "; }
+details.nota-media[open] summary::before { content: "▾ "; }
+details.nota-media p { margin: 4px 0 0; }
+.aviso-identificacoes { margin: -4px 0 14px; font: italic 13px/1.45 var(--f-ui); color: var(--texto-3); }
+.aviso-identificacoes .botao-mortos { font-style: normal; margin-left: 6px; vertical-align: middle; }
+/* ficha de pessoa, «Ouvir e ver»: um bloco por disco, uma linha por faixa com um botão por plataforma */
+.sub-ouvir { margin: 24px 0 12px; font-size: 20px; }
+.sub-ouvir small { font: 400 13px var(--f-ui); margin-left: 6px; }
+.discos-ouvir { display: grid; gap: 14px; }
+.disco-ouvir { background: var(--superficie); border: 1px solid var(--linha); border-radius: var(--r); padding: 12px 16px; }
+.disco-ouvir > header { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; justify-content: space-between; margin-bottom: 4px; }
+.disco-ouvir .titulo-disco { font: 600 19px/1.25 var(--f-titulo); color: var(--texto); margin-right: 8px; }
+.disco-ouvir header .mudo { font-size: 13px; }
+.faixas-ouvir { list-style: none; margin: 0; padding: 0; }
+.faixas-ouvir li { display: grid; grid-template-columns: 2.2em minmax(0, 1fr) auto; gap: 4px 10px; align-items: center; padding: 6px 0; border-top: 1px solid var(--linha); }
+.faixas-ouvir .n { font-size: 12px; text-align: right; }
+.faixas-ouvir .t { font: 15px/1.35 var(--f-leitura); min-width: 0; }
+.faixas-ouvir .b { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
+.disco-ouvir details.nota-media { margin-top: 8px; }
+.disco-ouvir details.nota-media ul { margin: 6px 0 0; padding-left: 18px; }
+.mais-arquivo { grid-column: 1 / -1; margin: 4px 0 0; }
+
+/* ===== P4: documentos do arquivo ===== */
+/* ▶ ao lado de cada ligação para um vídeo ou áudio que toca aqui */
+.tocar-ligacao { display: inline-grid; place-items: center; width: 26px; height: 26px; margin: 0 2px 0 6px; padding: 0; vertical-align: middle;
+  border: 1px solid var(--linha-forte); border-radius: 50%; background: var(--superficie); color: var(--ouro-forte); font-size: 11px; line-height: 1; cursor: pointer; }
+.tocar-ligacao:hover { background: var(--ouro); border-color: var(--ouro); color: var(--fundo); }
+@media (pointer: coarse) { .tocar-ligacao { width: 36px; height: 36px; font-size: 13px; } }
+.ligacao-morta { margin-left: 6px; vertical-align: middle; }
+/* a frase citada numa ficha, inteira e só ela */
+mark.frase { background: var(--ouro-suave); box-shadow: 0 0 0 2px var(--ouro-suave); border-bottom: 2px solid var(--ouro); }
+.citado-em { margin-top: 40px; }
+.citado-em .ficha-que-cita { flex: 1; min-width: 0; }
+.citado-em .ficha-que-cita > a { font: 600 17px var(--f-titulo); }
+.frases-citadas { list-style: none; margin: 6px 0 0; padding: 0; }
+.frases-citadas li { display: flex; gap: 10px; align-items: baseline; justify-content: space-between; padding: 6px 0; border: 0; font: 14px/1.45 var(--f-leitura); color: var(--texto-2); }
+.frases-citadas q { flex: 1; min-width: 0; }
+button.ligacao { border: 0; background: none; padding: 0; color: var(--ouro); font: inherit; cursor: pointer; }
+button.ligacao:hover { text-decoration: underline; }
+
+/* ===== P4: fontes ===== */
+.filtro-uso { margin: 4px 0 6px; }
+.tabela-fontes tr.grupo-tipo th { background: var(--fundo-2); font: 600 13px var(--f-ui); letter-spacing: .02em; padding: 8px 10px; }
+.tabela-fontes tr.grupo-tipo small { font-weight: 400; color: var(--texto-3); margin-left: 6px; }
+.tabela-fontes .selo { white-space: normal; }
+.notas-fonte { margin-top: 4px; font-size: 12.5px; color: var(--texto-2); }
+.notas-fonte summary { cursor: pointer; color: var(--ouro-forte); font: 500 12.5px var(--f-ui); }
+.propor-fonte { margin: 18px 0 0; font: 15px/1.5 var(--f-leitura); color: var(--texto-2); }
+@media (max-width: 600px) {
+  /* telemóvel: um cartão por fonte, com o nome de cada coluna (nada fica fora do ecrã) */
+  .tabela-fontes, .tabela-fontes tbody, .tabela-fontes tr, .tabela-fontes td, .tabela-fontes th { display: block; width: 100%; }
+  .tabela-fontes thead { display: none; }
+  .tabela-fontes tr:not(.grupo-tipo) { border: 1px solid var(--linha); border-radius: var(--r); background: var(--superficie); padding: 10px 12px; margin: 0 0 10px; }
+  .tabela-fontes tr[hidden] { display: none; }
+  .tabela-fontes tr.grupo-tipo th { margin: 14px 0 8px; border-radius: 6px; }
+  .tabela.tabela-fontes td { border: 0; padding: 3px 0; max-width: none !important; }
+  .tabela-fontes td[data-rotulo]:not(:first-child)::before { content: attr(data-rotulo) ": "; font: 600 12px var(--f-ui); color: var(--texto-3); }
+}
+
+/* ===== P4: mediateca ===== */
+.filtros-mediateca .filtros-extra { display: contents; }
+.filtros-mediateca .abrir-filtros { display: none; }
+.alternar-estado { display: inline-flex; }
+.alternar-estado .botao { border-radius: 0; }
+.alternar-estado .botao:first-child { border-radius: 8px 0 0 8px; }
+.alternar-estado .botao:last-child { border-radius: 0 8px 8px 0; margin-left: -1px; }
+.alternar-estado .botao[aria-pressed="true"] { background: var(--ouro-suave); border-color: var(--ouro); color: var(--ouro-forte); position: relative; }
+.alternar-estado .n { font-size: 11.5px; color: var(--texto-3); font-variant-numeric: tabular-nums; }
+.alternar-estado .n:empty { display: none; }
+#total .botao-mortos { margin-left: 8px; }
+.cartao.mais-documento { align-items: center; justify-content: center; gap: 6px; padding: 18px; min-height: 140px; text-align: center; cursor: pointer;
+  border-style: dashed; color: var(--ouro-forte); font: 15px var(--f-ui); }
+.cartao.mais-documento span { font-size: 13px; color: var(--texto-3); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.cartao.mais-documento:hover { border-color: var(--ouro); }
+@media (max-width: 600px) {
+  /* telemóvel: a introdução curta e só a procura à vista; os outros filtros atrás de «Filtros», para os vídeos aparecerem no 1.º ecrã */
+  .mediateca .so-largo { display: none; }
+  .mediateca .lead { margin-bottom: 0; }
+  .filtros-mediateca { flex-wrap: wrap; }
+  .filtros-mediateca #q { flex: 1 1 0; min-width: 0; }
+  .filtros-mediateca .abrir-filtros { display: inline-flex; }
+  .filtros-mediateca .filtros-extra { display: none; }
+  .filtros-mediateca.abertos .filtros-extra { display: flex; flex-wrap: wrap; gap: 8px; width: 100%; }
+}
+@media (max-width: 600px) {
+  .faixas-ouvir li { grid-template-columns: 1.6em minmax(0, 1fr); }
+  .faixas-ouvir .b { grid-column: 2; justify-content: flex-start; }
+}
+
+/* ===== P4: leitor ===== */
+#leitor-pausa svg, .leitor-retomar svg { fill: currentColor; stroke: none; }
+.leitor-nota { margin: 2px 0 0; font-size: 12px; color: var(--ouro-forte); }
+.leitor-progresso { display: flex; align-items: center; gap: 8px; margin-top: 4px; max-width: 440px; }
+.leitor-progresso input { flex: 1; min-width: 0; height: 20px; margin: 0; accent-color: var(--ouro); }
+.leitor-progresso .tempo { font: 500 11.5px var(--f-mono); color: var(--texto-3); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.leitor-fontes .marca { vertical-align: baseline; }
+.leitor[data-modo="vazio"] .leitor-ecra .miniatura { position: absolute; inset: 0; height: 100%; aspect-ratio: auto; }
+.leitor-ecra .miniatura .tocar { width: 40px; height: 40px; }
+/* vídeo: o YouTube pede um ecrã com pelo menos 200 px de altura (developers.google.com/youtube/iframe_api_reference) */
+@media (min-width: 601px) { .leitor[data-modo="video"]:not(.expandido) .leitor-ecra { width: 356px; } }
+.leitor-fila h3 small { font: 500 13px var(--f-ui); }
+.leitor-fila .fila-acoes { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 8px 8px; }
+.leitor-fila .fila-titulo { flex: 1; min-width: 0; border: 0; background: none; padding: 0; text-align: left; color: inherit; font: inherit;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer; }
+.leitor-fila .so-movel { display: none; }
+/* leitor fechado: só um botão discreto para retomar a fila guardada */
+.leitor-retomar { position: fixed; right: max(16px, env(safe-area-inset-right)); bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 30;
+  display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 16px 0 12px; border-radius: 999px; border: 1px solid var(--linha-forte);
+  background: var(--superficie); color: var(--texto); box-shadow: var(--sombra); font: 500 13.5px var(--f-ui); }
+.leitor-retomar svg { width: 16px; height: 16px; color: var(--ouro); }
+.leitor-retomar:hover { border-color: var(--ouro); }
+@media (max-width: 600px) {
+  /* telemóvel: uma só linha (capa de 64 px, título em duas linhas, ⏯ ⏭ e fila); o resto está na fila */
+  .leitor { grid-template-columns: 64px minmax(0, 1fr) auto; gap: 10px; }
+  .leitor .leitor-ecra { width: 64px; height: 64px; aspect-ratio: auto; }
+  .leitor-botoes { grid-column: auto; gap: 2px; }
+  .leitor-botoes button { width: 44px; height: 44px; }
+  #leitor-ant, #leitor-expandir, #leitor-fechar { display: none; }
+  .leitor-titulo { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; font-size: 15.5px; line-height: 1.2; }
+  .leitor-sub { font-size: 12px; }
+  .leitor[data-modo="vazio"] .miniatura .plataforma, .leitor[data-modo="audio"]:not(.expandido) .leitor-externo > div { display: none; }
+  /* vídeo e faixas: o ecrã na largura toda, por cima (o vídeo do YouTube fica com mais de 200 px de altura) */
+  .leitor[data-modo="video"], .leitor[data-modo="faixa"], .leitor.expandido { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: none; }
+  .leitor[data-modo="video"] .leitor-ecra, .leitor.expandido .leitor-ecra { grid-column: 1 / -1; grid-area: auto / 1 / auto / -1; width: 100%; height: auto; aspect-ratio: 16 / 9; }
+  .leitor.expandido .leitor-ecra { max-height: 55vh; }
+  .leitor.expandido .leitor-info, .leitor.expandido .leitor-botoes { grid-area: auto; }
+  .leitor[data-modo="faixa"] .leitor-ecra { grid-column: 1 / -1; width: 100%; }
+  .leitor[data-modo="faixa"] .leitor-ecra[data-plataforma="apple-music"] { height: 175px; }
+  .leitor[data-modo="faixa"] .leitor-ecra[data-plataforma="spotify"] { height: 80px; }
+  .leitor[data-modo="video"] #leitor-fechar, .leitor[data-modo="faixa"] #leitor-fechar, .leitor.expandido #leitor-expandir { display: grid; }
+  /* a fila sobe do fundo, com linhas à medida do dedo */
+  .leitor-fila { position: fixed; left: 0; right: 0; bottom: var(--leitor-h); width: auto; max-height: 60vh; border-radius: 14px 14px 0 0; padding: 8px 8px 12px; }
+  .leitor-fila li { min-height: 44px; padding: 2px 2px 2px 10px; }
+  .leitor-fila li button[data-remover] { width: 44px; height: 44px; }
+  .leitor-fila .so-movel { display: inline-flex; }
+  .leitor-retomar { bottom: calc(12px + env(safe-area-inset-bottom)); }
+}
+
+/* ===== P2: imagens dos cartões (retratos, capas, avatares, mosaico) ===== */
+/* uma <img loading="lazy"> por cima do fundo do elemento, em vez de imagem de fundo: só se descarrega perto do ecrã */
+:is(.retrato, .avatar, .mosaico a) { position: relative; overflow: hidden; }
+.img-cartao { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.mosaico a span { z-index: 1; }
+
+/* ===== P6: avisos para quem edita e alterações recentes ===== */
+.faixa-avisos { display: grid; gap: 8px; margin: -16px 0 24px; }
+.faixa-aviso { display: flex; align-items: flex-start; gap: 12px; margin: 0; padding: 10px 12px 10px 14px; border-radius: 8px;
+  font: 14px/1.45 var(--f-ui); color: var(--texto); background: var(--ouro-suave); border-left: 3px solid var(--ouro); }
+.faixa-aviso.erro { background: var(--vinho-suave); border-left-color: var(--vinho); }
+.faixa-aviso span { flex: 1; min-width: 0; }
+.faixa-aviso button { flex: none; width: 44px; height: 44px; margin: -10px -8px -10px 0; border: 0; background: none; color: var(--texto-2);
+  font-size: 22px; line-height: 1; cursor: pointer; border-radius: 6px; }
+.faixa-aviso button:hover { color: var(--texto); }
+.filtros-alteracoes { margin: 0 0 8px; font: 14px var(--f-ui); color: var(--texto-2); }
+.filtros-alteracoes label { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; cursor: pointer; }
+.alteracoes h4 { margin: 14px 0 4px; font: 600 14px var(--f-ui); overflow-wrap: anywhere; }
+/* os endereços compridos das fotografias e das fontes partem-se em vez de alargar a página (iPhone) */
+.alteracoes > li > p, .alteracoes .diferencas li, .alteracoes .lista-simples li { overflow-wrap: anywhere; min-width: 0; }
+
+/* ===== P2: imprimir e guardar em PDF ===== */
+/* sem menu, leitor nem botões; as marcas passam a notas numeradas e as fontes ficam no fim (app.js, iniciarImpressao) */
+.notas-impressao { display: none; }
+@media print {
+  :root { --leitor-h: 0px; --cabecalho-h: 0px; }
+  /* no papel, sempre as cores claras, mesmo com o tema escuro escolhido */
+  html:root[data-estilo], html:root[data-estilo][data-theme] {
+    --fundo: #fff; --fundo-2: #f2f2f2; --superficie: #fff; --superficie-2: #f6f6f6; --linha: #c8c8c8; --linha-forte: #000;
+    --texto: #000; --texto-2: #333; --texto-3: #555; --ouro: #8f3416; --ouro-forte: #6e2810; color-scheme: light; }
+  body { background: #fff; color: #000; }
+  .moldura { display: block; }
+  .lateral, #leitor, #painel, #paleta, #lightbox, #citar-selecao, #aviso, .saltar, .acoes-topo, .acoes-lista, .barra-filtros, .separadores,
+  .caixa-edicao, .botao, .botao-nota, .paginacao, .marca-grupo, .rede-zoom, form, iframe { display: none !important; }
+  main { padding: 0 !important; }
+  .conteudo { max-width: none; }
+  #grelha > .cartao, #lista > .grelha > .cartao, .decada { content-visibility: visible; }
+  .decadas, .decada > h2 { position: static; }
+  a { color: inherit; }
+  .marcas-numeros { display: inline !important; }
+  .marca { background: none !important; color: #000 !important; padding: 0 1px; }
+  .marca[data-nota] { font-size: 0; }
+  .marca[data-nota]::after { content: attr(data-nota); position: static; inset: auto; font: 600 7.5pt var(--f-mono); }
+  .marca[data-cit]:not([data-nota]) { display: none !important; } /* sem nota no fim, não leva número (o de cada facto confundia) */
+  .mais-media[open] > summary { display: none !important; } /* «Mostrar os outros N» já abertos (app.js abre-os para imprimir) */
+  /* as árvores encolhem até caber na folha (app.js calcula --zoom-papel), em vez de ficarem cortadas à direita */
+  .arvore-caixa { overflow: visible; }
+  .arvore-caixa .arvore-mundo { zoom: var(--zoom-papel, .86); }
+  .notas-impressao { display: block; break-before: page; margin-top: 24px; }
+  .notas-impressao h2 { font-size: 18pt; margin-bottom: 10px; }
+  .notas-impressao ol { padding-left: 2.2em; margin: 0 0 14px; font: 9.5pt/1.45 var(--f-leitura); }
+  .notas-impressao li { margin-bottom: 5px; overflow-wrap: anywhere; }
+  .notas-impressao p { font: italic 9pt var(--f-ui); overflow-wrap: anywhere; }
+  .cartao, .relacao, blockquote, table.factos tr, .evento, figure { break-inside: avoid; }
+  h1, h2, h3 { break-after: avoid; }
+}
+
+/* ===== P5a: formulários de contribuição ===== */
+/* atalhos no topo da ficha: abrem o formulário certo, fechado na sua secção */
+.atalhos-edicao { gap: 8px; padding: 12px 14px; }
+.atalhos-edicao .atalhos { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0; }
+.atalhos-edicao .atalhos > .mudo { margin-right: 2px; font-size: 13px; }
+/* cada formulário numa dobra fechada, com um resumo do que faz */
+.dobra-edicao { margin: 14px 0 0; max-width: 760px; scroll-margin-top: calc(var(--indice-h, 0px) + 16px); }
+.formularios-lado .dobra-edicao, .larga .dobra-edicao { max-width: none; }
+.dobra-edicao > summary {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 10px; min-height: 44px; padding: 11px 14px; cursor: pointer; list-style: none;
+  border: 1px dashed var(--ouro); border-radius: var(--r); background: var(--ouro-suave); color: var(--ouro-forte); font: 600 14.5px var(--f-ui); }
+.dobra-edicao > summary::-webkit-details-marker { display: none; }
+.dobra-edicao > summary::before { content: '▸'; display: inline-block; width: 12px; transition: transform .15s; }
+.dobra-edicao[open] > summary::before { transform: rotate(90deg); }
+.dobra-edicao > summary small { font: 400 12.5px var(--f-ui); color: var(--texto-3); }
+.dobra-edicao > summary:hover { border-style: solid; }
+.dobra-edicao[open] > summary { border-bottom-left-radius: 0; border-bottom-right-radius: 0; }
+.dobra-edicao > .caixa-edicao, .dobra-edicao > .seccao { margin-top: 0; border-top: 0; border-top-left-radius: 0; border-top-right-radius: 0; max-width: none; }
+.dobra-edicao > .seccao { padding: 4px 16px 16px; border: 1px dashed var(--ouro); border-top: 0; border-radius: 0 0 var(--r) var(--r); }
+.dobra-edicao > .seccao > h2 { display: none; } /* o resumo da dobra já diz o que é */
+.caixa-edicao .dobra-edicao { margin-top: 2px; }
+.caixa-edicao .dobra-edicao > summary { background: var(--superficie); font-size: 14px; min-height: 40px; padding: 8px 12px; }
+.caixa-dobrada { display: grid; gap: 10px; padding: 12px 14px 14px; border: 1px dashed var(--ouro); border-top: 0; border-radius: 0 0 var(--r) var(--r); background: var(--superficie); }
+form:has(select[name="tipo"] option[value="grupo"]:checked) .so-pessoa { display: none; } /* um grupo não nasce nem morre */
+/* «Mais opções»: o que raramente se usa, dentro de cada formulário */
+.mais-opcoes > summary { cursor: pointer; color: var(--ouro-forte); font: 500 13px var(--f-ui); width: fit-content; padding: 4px 0; }
+.mais-opcoes-campos { display: grid; gap: 10px; padding: 8px 0 2px; }
+/* nomes, obras e discos escritos sem escolher na lista: à vista, nunca perdidos em silêncio */
+.seletor-pessoa.por-escolher .campo { border-color: var(--vinho); box-shadow: 0 0 0 1px var(--vinho); }
+.aviso-escolha { display: block; margin-top: 4px; font: 12.5px var(--f-ui); color: var(--vinho); }
+.aviso-escolha[hidden] { display: none; }
+.confirme { display: grid; gap: 8px; padding: 12px 14px; border: 1px solid var(--vinho); border-radius: var(--r); background: var(--vinho-suave); }
+.confirme:focus { outline: 2px solid var(--vinho); outline-offset: 2px; }
+.confirme h4 { margin: 0; font: 600 15px var(--f-ui); color: var(--vinho); }
+.confirme p { margin: 0; }
+.confirme ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.confirme li { display: grid; gap: 6px; }
+.confirme li .acoes { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip.nova { border-style: dashed; border-color: var(--ouro); font-style: italic; }
+.chip.nova small { font-style: normal; color: var(--texto-3); }
+/* fichas parecidas com o nome que se escreve */
+.parecidas { display: grid; gap: 8px; padding: 10px 14px; border-left: 3px solid var(--ouro); background: var(--superficie); border-radius: 0 var(--r) var(--r) 0; }
+.parecidas p { margin: 0; }
+.parecidas ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.parecidas li { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; }
+.parecidas li .acoes { display: flex; flex-wrap: wrap; gap: 6px; }
+/* faixas: número, ordem (↑ ↓) e a obra proposta pelo título */
+.linhas[data-linhas="faixas"] { counter-reset: faixa; }
+.linhas[data-linhas="faixas"] > .linha { counter-increment: faixa; }
+.n-faixa { flex: 0 0 26px; text-align: right; font: 600 13px var(--f-mono); color: var(--texto-3); }
+.n-faixa::before { content: counter(faixa) '.'; }
+.mover-linha { display: inline-flex; gap: 2px; }
+.mover-linha .botao-nota, .linha > .botao-nota { margin-left: 0; }
+.obra-proposta { flex: 1 0 100%; padding-left: 32px; font: 12.5px var(--f-ui); color: var(--texto-3); }
+.obra-proposta:empty { display: none; }
+.botao-texto { border: 0; padding: 0; background: none; color: var(--ouro-forte); font: inherit; text-decoration: underline; cursor: pointer; }
+.colar-alinhamento { margin-top: 4px; }
+.colar-alinhamento > summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); padding: 4px 0; }
+.colar-alinhamento > summary small { color: var(--texto-3); font-weight: 400; }
+.colar-alinhamento > label, .colar-alinhamento > .acoes { margin-top: 8px; }
+/* pré-visualizações: o vídeo e a fotografia antes de gravar */
+.previa-media { display: flex; gap: 12px; align-items: flex-start; padding: 10px 12px; border-radius: var(--r); background: var(--superficie); border: 1px solid var(--linha); }
+.previa-media img { width: 128px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px; flex: none; }
+.previa-media p { margin: 0 0 6px; }
+.previa-media.erro, .previa-imagem .erro { border-color: var(--vinho); color: var(--vinho); }
+.previa-imagem img { display: block; max-width: min(260px, 100%); max-height: 260px; border-radius: 6px; border: 1px solid var(--linha); }
+.previa-imagem p { margin: 0 0 6px; }
+.imagens-do-arquivo { display: grid; gap: 6px; }
+.grelha-imagens { display: grid; grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); grid-auto-rows: 84px; gap: 6px; max-height: 300px; overflow-y: auto; }
+.imagem-arquivo { padding: 0; border: 2px solid transparent; border-radius: 6px; background: var(--fundo-2); cursor: pointer; height: 84px; overflow: hidden; font-size: 11px; }
+.imagem-arquivo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.imagem-arquivo[aria-pressed="true"] { border-color: var(--ouro); }
+.dica-telemovel { margin: 0; font-size: 13px; }
+.frase-relacao { margin: 0; font: italic 14px var(--f-ui); color: var(--ouro-forte); }
+/* vídeos e áudios no modo de edição: corrigir, histórico, revisto, tirar uma pessoa */
+.acoes-edicao-media { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--ouro); }
+/* rascunho guardado neste browser */
+.rascunho-guardado { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 12px; border-radius: var(--r);
+  background: var(--superficie); border: 1px solid var(--ouro); font-size: 14px; }
+.rascunho-guardado .acoes { display: flex; flex-wrap: wrap; gap: 6px; }
+@media (max-width: 600px) {
+  .linha > .campo, .linha > .seletor-pessoa { flex-basis: 100%; }
+  /* faixa no telemóvel: número, título e setas numa linha; a obra por baixo, alinhada com o título */
+  .linhas[data-linhas="faixas"] > .linha > input.campo { order: 1; flex: 1 1 120px; min-width: 0; }
+  .linhas[data-linhas="faixas"] > .linha > .mover-linha { order: 2; }
+  .linhas[data-linhas="faixas"] > .linha > [data-linha-tirar] { order: 3; }
+  .linhas[data-linhas="faixas"] > .linha > .seletor-pessoa { order: 4; flex-basis: calc(100% - 32px); margin-left: 32px; }
+  .linhas[data-linhas="faixas"] > .linha > .obra-proposta { order: 5; padding-left: 32px; }
+  .linhas[data-linhas="faixas"] > .linha { padding-bottom: 6px; border-bottom: 1px solid var(--linha); }
+  .previa-media { flex-direction: column; }
+  .previa-media img { width: 100%; }
+  .parecidas li { display: grid; }
+}
+
+/* ===== P5c: gravação e citações ===== */
+/* «Como sabe?» à vista: a fonte a que fica atribuída a frase, e a frase procurada no arquivo */
+.prova-linha { display: grid; gap: 6px; padding: 8px 10px; border: 1px solid var(--linha); border-radius: 6px; background: var(--superficie);
+  font: 13px/1.5 var(--f-ui); color: var(--texto-2); overflow-wrap: anywhere; }
+.prova-linha p { margin: 0; }
+.prova-linha label { display: grid; gap: 4px; font-weight: 500; color: var(--texto); }
+.prova-obras { display: grid; gap: 3px; margin: 0; padding-left: 18px; }
+.botao-ligacao { padding: 2px 4px; border: 0; background: none; color: var(--ouro-forte); font: 600 13px var(--f-ui); text-decoration: underline;
+  text-underline-offset: 2px; cursor: pointer; }
+.botao-ligacao:hover { color: var(--ouro); }
+.prova-aviso { color: var(--vinho); font-weight: 500; }
+.prova-certa { color: var(--verde); }
+.prova-linha .carregando { padding: 0; }
+/* «Não foi gravado», junto do botão de gravar, em português simples */
+.erros-gravacao { padding: 10px 12px; border: 1px solid var(--vinho); border-radius: 6px; background: var(--vinho-suave); color: var(--texto);
+  font: 13.5px/1.5 var(--f-ui); }
+.erros-gravacao p { margin: 0; }
+.erros-gravacao ul { margin: 6px 0 0; padding-left: 18px; }
+.erros-gravacao li { margin: 2px 0; overflow-wrap: anywhere; }
+/* janelas antes de gravar: «Vai ficar assim», aprovar, rejeitar ou corrigir uma fonte, retirar do catálogo */
+.dialogo-edicao { width: min(640px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; border: 1px solid var(--linha-forte);
+  border-radius: var(--r); background: var(--superficie); color: var(--texto); box-shadow: var(--sombra-forte); }
+.dialogo-edicao::backdrop { background: rgba(20, 14, 6, .5); }
+.dialogo-edicao form { display: grid; gap: 14px; padding: 22px 22px 18px; font: 14px/1.55 var(--f-ui); }
+.dialogo-edicao h2 { margin: 0; font-size: 25px; }
+.dialogo-edicao h3 { margin: 6px 0 0; font: 600 14px var(--f-ui); }
+.dialogo-corpo { display: grid; gap: 10px; max-height: calc(100dvh - 200px); overflow-y: auto; overscroll-behavior: contain; }
+.dialogo-corpo > p { margin: 0; }
+.dialogo-edicao label { display: grid; gap: 5px; font-weight: 500; }
+.dialogo-edicao label small { font: 12.5px var(--f-ui); color: var(--texto-3); font-weight: 400; }
+.dialogo-edicao label.opcao { display: inline-flex; gap: 7px; align-items: center; margin-right: 14px; font-weight: 400; }
+.dialogo-edicao fieldset { margin: 0; padding: 0; border: 0; }
+.dialogo-edicao legend { margin-bottom: 4px; padding: 0; font-weight: 500; }
+.dialogo-edicao .campo { width: 100%; }
+.dialogo-edicao .acoes { display: flex; flex-wrap: wrap; gap: 8px; }
+.dialogo-edicao.perigo .botao.primario { background: var(--vinho); border-color: var(--vinho); color: #fff; }
+.citacoes-da-fonte { max-height: 220px; margin: 0; padding-left: 18px; overflow-y: auto; }
+.citacoes-da-fonte li { margin: 2px 0; }
+.mais-fichas > summary { cursor: pointer; color: var(--ouro-forte); font: 500 13.5px var(--f-ui); }
+/* notas assinadas: cada uma com quem a escreveu; a escondida, só para quem edita */
+.notas-editor { display: grid; gap: 2px; }
+.notas-editor .nota-editor-linha { margin: 0; }
+.notas-facto { display: block; margin-top: 3px; }
+.notas-facto .nota-editorial { display: inline-block; margin: 2px 4px 0 0; }
+.nota-editor-linha.oculta { opacity: .65; }
+.nota-escondida { display: block; font: 12px var(--f-ui); color: var(--vinho); }
+.nota-forma { margin: 8px 0; max-width: 620px; }
+/* a barra de citar no arquivo: por cima da seleção no computador; fixa em baixo no telemóvel */
+.barra-citar { position: absolute; z-index: 45; display: flex; flex-wrap: wrap; gap: 2px; max-width: calc(100vw - 16px); padding: 4px;
+  border-radius: 8px; background: var(--texto); box-shadow: var(--sombra-forte); }
+.barra-citar button { padding: 6px 10px; border: 0; border-radius: 5px; background: none; color: var(--fundo); font: 500 12.5px var(--f-ui); cursor: pointer; }
+.barra-citar button:hover { background: color-mix(in srgb, var(--fundo) 18%, transparent); }
+.barra-citar button:focus-visible { outline: 2px solid var(--ouro); outline-offset: 1px; }
+.barra-citar button.destaque { background: var(--ouro); color: var(--fundo); }
+.barra-citar button.secundario { opacity: .78; }
+.barra-citar.fixa { position: fixed; left: max(16px, env(safe-area-inset-left)); right: max(16px, env(safe-area-inset-right));
+  bottom: calc(16px + max(var(--leitor-h), env(safe-area-inset-bottom))); justify-content: center; }
+.barra-citar.fixa button { flex: 1 1 auto; min-height: 44px; font-size: 14px; }
+/* «Usar numa ficha…» (no painel) e o formulário que ficou preenchido */
+.usar-numa-ficha { display: grid; gap: 10px; margin: 14px 0; }
+.usar-numa-ficha label { display: grid; gap: 5px; font-weight: 500; }
+.usar-numa-ficha label small { font-weight: 400; color: var(--texto-3); }
+.usar-numa-ficha label.opcao { display: inline-flex; gap: 6px; margin-right: 12px; font-weight: 400; }
+.usar-numa-ficha fieldset { margin: 0; padding: 0; border: 0; }
+.usar-numa-ficha legend { margin-bottom: 4px; padding: 0; font-weight: 500; }
+.usar-lista { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.usar-lista li { min-width: 0; font-size: 13px; }
+.usar-lista button { display: grid; gap: 1px; width: 100%; min-height: 44px; padding: 7px 10px; border: 1px solid var(--linha); border-radius: 6px;
+  background: var(--superficie-2); color: var(--texto); font: 14px/1.35 var(--f-ui); text-align: left; overflow-wrap: anywhere; cursor: pointer; }
+.usar-lista button:hover, .usar-lista button:focus-visible { border-color: var(--ouro); }
+.usar-lista button small { font-size: 12px; color: var(--texto-3); }
+.usar-numa-ficha .opcoes-para { display: flex; flex-wrap: wrap; gap: 2px 0; }
+form.preenchido { outline: 2px solid var(--ouro); outline-offset: 3px; }
+[data-estilo="museu"] .barra-citar, [data-estilo="museu"] .barra-citar button, [data-estilo="museu"] .prova-linha,
+[data-estilo="museu"] .erros-gravacao { border-radius: 0; }
+/* o que se escreve nas janelas e no painel lê-se como foi escrito (sem as maiúsculas dos campos do Museu) */
+[data-estilo="museu"] .dialogo-edicao .campo, [data-estilo="museu"] .usar-numa-ficha .campo { text-transform: none; font-size: 14px; letter-spacing: 0; }
+@media (max-width: 900px), (pointer: coarse) { /* 16 px: com menos, o Safari do iPhone amplia a página ao tocar no campo */
+  [data-estilo="museu"] .dialogo-edicao .campo, [data-estilo="museu"] .usar-numa-ficha .campo { font-size: 16px; } }
+/* no computador, a barra de citar tem sempre a largura dos botões (perto da margem direita não se parte em duas linhas) */
+.barra-citar:not(.fixa) { width: max-content; }
+/* «Escolher» e «Não: a frase é do próprio blogue»: alvos de toque de 44 px, como os outros botões nos ecrãs de toque */
+@media (pointer: coarse) { .botao-ligacao { display: inline-flex; align-items: center; min-height: 44px; padding: 0 8px; } }
+/* «Serve para»: o uso de que já dependem citações, marcado e com a explicação ao lado */
+.dialogo-edicao .opcoes-uso label.opcao { flex-wrap: wrap; row-gap: 0; }
+.opcoes-uso small { flex-basis: 100%; padding-left: 20px; font: 12.5px var(--f-ui); color: var(--texto-3); }
+
+/* ===== P4: leitor — marcas da fonte à vista e ecrãs baixos ===== */
+/* «fonte 1 2» fica fora do texto que se corta com «…»: o texto encolhe, as marcas veem-se e tocam-se sempre */
+.leitor-sub { display: flex; align-items: baseline; gap: 6px; }
+.leitor-sub-texto { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.leitor-fontes { flex: none; display: inline-flex; align-items: baseline; gap: 5px; }
+/* telemóvel ou tablet deitado (pouca altura): os botões ao lado do ecrã, em duas linhas, e não numa linha por baixo;
+   o vídeo do YouTube continua com 200 px de altura (356×200) */
+@media (min-width: 601px) and (max-height: 500px) {
+  .leitor { grid-template-columns: auto minmax(0, 1fr) auto; padding-top: 4px; padding-bottom: calc(4px + env(safe-area-inset-bottom)); }
+  .leitor-botoes { grid-column: auto; display: grid; grid-template-columns: repeat(3, auto); }
+  .leitor-ecra[data-plataforma="apple-music"], .leitor-ecra[data-plataforma="spotify"] { grid-column: auto; width: min(400px, 40vw); }
+  /* ecrã grande: o vídeo à esquerda, com a altura que houver (nunca menos de 200 px), o título e os botões à direita */
+  .leitor.expandido { grid-template-columns: auto minmax(0, 1fr); grid-template-areas: "ecra info" "ecra botoes"; }
+  .leitor.expandido .leitor-ecra { width: max(356px, min(calc((100vh - 140px) * 16 / 9), 62vw)); }
+  .leitor.expandido .leitor-botoes { justify-self: start; align-self: end; }
+}
+/* pesquisa no arquivo: um endereço comprido no excerto parte-se, em vez de alargar a página no telemóvel */
+.resultado .excerto, .resultado h3 { overflow-wrap: anywhere; }

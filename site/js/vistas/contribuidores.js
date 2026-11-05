@@ -7,8 +7,8 @@ export const PAPEIS_CONTRIBUIDOR = { dono: 'Administrador (fundador)', administr
   antigo: 'Antigo contribuidor (sem acesso)' };
 const O_QUE_FAZ = {
   administrador: 'convida pessoas e escolhe o papel de cada uma; aprova propostas e fontes',
-  editor: 'aprova ou recusa as propostas e as fontes novas; o que altera entra logo',
-  contribuidor: 'propõe: cria e corrige fichas, acrescenta factos, fontes, fotografias, famílias; um editor aprova',
+  editor: 'aprova ou recusa as propostas e as fontes novas e marca as fichas como revistas; o que altera entra logo',
+  contribuidor: 'propõe: cria e corrige fichas, acrescenta factos com fonte, testemunhos, famílias, fotografias, vídeos e discos; um editor aprova',
 };
 
 /** Tudo o que está assinado por cada contribuidor (notas e revisões sem assinatura são do dono, anteriores ao registo). */
@@ -20,6 +20,7 @@ function contributos() {
     const ficha = { id: p.id, nome: p.nome, rota: `#/pessoa/${p.id}` };
     if (p.editorial) juntar(p.editorial.por, 'Fichas criadas', ficha);
     if (p.nota_editor) juntar(p.nota_editor_por, 'Notas', ficha);
+    for (const n of p.notas_editor || []) juntar(n.por, 'Notas', ficha); // as notas em lista, cada uma do seu autor (notas.js)
     if (p.estado_revisao === 'revisto') juntar(p.revisto_por, 'Fichas revistas', ficha);
     for (const r of p.relacoes || []) {
       if (r.editorial) juntar(r.editorial.por, 'Relações', ficha);
@@ -31,6 +32,7 @@ function contributos() {
       if (im.oculta) juntar(im.oculta.por, 'Imagens escondidas', ficha);
     }
     for (const f of p.factos || []) if (f.nota_editorial) juntar(f.nota_editorial.por, 'Notas sobre factos', ficha);
+    for (const f of p.factos || []) for (const n of f.notas_editoriais || []) juntar(n.por, 'Notas sobre factos', ficha);
   }
   for (const f of E.base.fontes) {
     const ficha = { id: f.id, nome: f.nome, rota: '#/fontes' };
@@ -74,6 +76,7 @@ export function contribuidores(el, params) {
         quem o fez e a data, e marcado com ✎ nas fichas.</p>
       <ul class="papeis-lista">${Object.entries(O_QUE_FAZ).map(([k, t]) => html`<li><b>${PAPEIS_CONTRIBUIDOR[k]}</b>: ${t}.</li>`)}</ul>
       <p style="margin-top:16px"><a class="botao primario" href="#/contribuir">Como contribuir</a></p></header>
+    <h2 class="so-leitor">Lista de contribuidores</h2>
     <div class="grelha larga">${lista.map((c) => {
       const f = feito[c.id] || {};
       const total = Object.values(f).reduce((n, m) => n + m.size, 0);
@@ -93,88 +96,134 @@ export function contribuidores(el, params) {
   if (params.quem) document.getElementById(`c-${params.quem}`)?.scrollIntoView({ block: 'center' });
 }
 
+/** Um cartão do guia: uma tarefa, de três a cinco passos, e o botão para a começar. */
+const tarefa = (titulo, passos, fazer, depois = '') => html`<article class="tarefa"><h3>${titulo}</h3>
+  <ol class="passos">${passos.map((p) => html`<li>${p}</li>`)}</ol>
+  ${depois ? html`<p class="tarefa-nota">${depois}</p>` : ''}
+  ${fazer ? html`<p class="tarefa-fazer"><a class="botao primario peq" href="${fazer[1]}">${fazer[0]}</a></p>` : ''}</article>`;
+
 export function contribuir(el) {
   const n = Object.values(E.contribuidores).filter((c) => c.papel !== 'antigo').length;
+  const b = (t) => html`<b>${t}</b>`;
   el.innerHTML = html`<div class="conteudo estreito guia">
     <header class="cabecalho"><p class="sobretitulo"><a href="#/contribuidores">Contribuidores</a></p><h1>Como contribuir</h1>
       <p class="lead">O arquivo cresce com quem conhece a Canção de Coimbra. Não precisa de saber programar: tudo se faz
-        nas próprias páginas do site, com botões e formulários.</p></header>
+        nas próprias páginas do site, com botões e formulários. Escolha abaixo o que quer fazer.</p></header>
 
-    <section class="seccao"><h2>O que pode fazer</h2>
-      <div class="principios">
-        <div><h3>Contribuidor</h3><p>Escolher ou corrigir fotografias, acrescentar parentescos e parcerias, deixar notas
-          assinadas nas fichas e nos factos com dúvidas, propor fontes novas e escrever no blogue.</p></div>
-        <div><h3>Editor</h3><p>Tudo o que um contribuidor faz e ainda aprovar as propostas dos outros, aprovar ou rejeitar
-          fontes e marcar fichas como revistas.</p></div>
-        <div><h3>Só por convite</h3><p>Quem decide quem entra, e com que papel, é o dono do arquivo.
-          ${n > 1 ? `Hoje são ${n} pessoas.` : ''}</p></div>
+    <section class="seccao"><h2>Antes de começar</h2>
+      <div class="tarefas">
+        ${tarefa('Criar a conta (só na primeira vez)', [
+          html`Abra <a href="https://github.com/signup" target="_blank" rel="noopener">github.com/signup</a>: o arquivo usa o GitHub, gratuito, só para saber quem é cada pessoa e guardar o histórico.`,
+          'Escreva o seu email, crie uma palavra-passe e escolha um nome de utilizador (por exemplo maria-silva).',
+          'O GitHub envia-lhe um código por email: copie-o para a página e a conta fica criada.',
+          html`Envie o seu ${b('nome de utilizador')} ao dono do arquivo, que o regista como contribuidor ou editor.`,
+        ])}
+        ${tarefa('Entrar e ligar o modo de edição', [
+          html`Abra o menu: no computador está à esquerda; no telemóvel, carregue em ${b('Menu')}, no topo do ecrã.`,
+          html`No fim do menu, carregue em ${b('Entrar')}: o site leva-o ao GitHub, que está em inglês. Entre na sua conta (${b('Sign in')}) e, na primeira vez, autorize o arquivo em ${b('Authorize')}; depois volta sozinho ao site.`,
+          html`No mesmo sítio, carregue em ${b('Modo de edição')} até dizer «ligado». Nas fichas aparecem os botões e os formulários.`,
+          'Para sair do modo de edição, carregue de novo no mesmo botão.',
+        ], null, 'Na cópia local do arquivo, no computador do dono, não é preciso entrar: basta ligar o modo de edição.')}
       </div></section>
 
-    <section class="seccao"><h2>1. Na primeira vez: criar a conta</h2>
-      <p>O arquivo usa o GitHub, um serviço gratuito, só para saber quem é cada pessoa e guardar o histórico das alterações.
-        Não vai precisar de usar o GitHub para mais nada.</p>
-      <ol class="passos">
-        <li>Abra <a href="https://github.com/signup" target="_blank" rel="noopener">github.com/signup</a>.</li>
-        <li>Escreva o seu email, crie uma palavra-passe e escolha um nome de utilizador (por exemplo <i>maria-silva</i>).</li>
-        <li>O GitHub envia-lhe um código por email. Copie-o para a página e a conta fica criada.</li>
-        <li>Envie o seu <b>nome de utilizador</b> ao dono do arquivo. Ele regista-o como contribuidor ou editor.</li>
-      </ol></section>
+    <section class="seccao"><h2>O que quer fazer?</h2>
+      <div class="tarefas">
+        ${tarefa('Criar a ficha de uma pessoa', [
+          html`Procure primeiro (${b('Procurar…')}, no topo) se já existe: se existir, acrescente lá o que sabe.`,
+          html`Em ${b('Pessoas')}, carregue em ${b('+ Nova pessoa')} (num grupo, em ${b('Grupos')}, ${b('+ Novo grupo')}).`,
+          'Escreva o nome por que é conhecida, os outros nomes e os papéis (guitarrista, cantor…).',
+          html`Se já houver uma ficha com o mesmo nome e for outra pessoa, marque ${b('Já existe uma ficha com este nome, mas é outra pessoa')}.`,
+          html`Pode juntar logo o nascimento e a morte (${b('+ Nascimento')}, ${b('+ Morte')}); depois de criar, acrescente na ficha factos, família e fotografias.`,
+        ], ['Criar uma pessoa', '#/nova/pessoas'])}
+        ${tarefa('Acrescentar ou corrigir uma data', [
+          html`Abra a ficha da pessoa e, no topo, em ${b('Acrescentar')}, carregue em ${b('Nascimento')} ou ${b('Morte')}.`,
+          'Escreva o dia, o mês e o ano (o que souber) e a terra.',
+          html`Em ${b('Como sabe?')}, indique a fonte ou o seu testemunho.`,
+          html`Se a ficha já tiver outra data, a sua fica ao lado, em ${b('As fontes divergem')}: nenhuma versão se apaga.`,
+        ], ['Escolher uma pessoa', '#/pessoas'], 'Uma data errada corrige-se assim: acrescente a certa, com a fonte, e deixe uma nota a dizer qual lhe parece certa e porquê.')}
+        ${tarefa('Acrescentar um facto com fonte', [
+          html`Na ficha, em ${b('Acrescentar')}, carregue em ${b('Facto')} e escolha o tipo (atuação, estreia, prémio, ensino…).`,
+          'Escreva o facto curto e fiel ao que a fonte diz.',
+          html`Em ${b('Como sabe?')}, escolha ${b('Está escrito numa fonte')}: cole o endereço da página e copie à letra a frase que o diz.`,
+          'Para um livro ou um disco sem endereço, escolha a fonte na lista e indique a página.',
+        ], ['Escolher uma ficha', '#/pessoas'], 'Se o site ainda não for fonte do arquivo, fica proposto e um editor decide; até lá, a citação aparece como «pendente».')}
+        ${tarefa('Acrescentar um vídeo ou um áudio', [
+          html`Na ficha da pessoa, em ${b('Acrescentar')}, carregue em ${b('Vídeo ou áudio')} (ou, na Mediateca, em ${b('+ Novo vídeo ou áudio')}).`,
+          'Cole o endereço: YouTube, Vimeo, SoundCloud, Spotify, RTP Arquivos, Internet Archive…',
+          'Escreva o título: o que se ouve e quem toca.',
+          'Indique quem toca ou canta, as obras e o disco, se souber.',
+        ], ['Acrescentar um vídeo', '#/nova/media'], 'O arquivo não guarda cópias: o vídeo toca sempre no leitor do site de origem.')}
+        ${tarefa('Registar um disco e as faixas', [
+          html`Em ${b('Discografia')}, carregue em ${b('+ Novo disco ou gravação')}.`,
+          'Escreva o título, o formato, a editora, a referência (ex.: Alvorada MEP 60280) e o ano.',
+          html`Em ${b('Intérpretes')}, uma linha por pessoa, com a função (guitarra, viola, voz).`,
+          html`Em ${b('Faixas')}, uma linha por faixa; se a música já tiver ficha, escolha-a na coluna ${b('Obra')}.`,
+          html`Em ${b('Onde está registado?')}, a página do catálogo ou da discografia que o confirma.`,
+        ], ['Registar um disco', '#/nova/gravacoes'])}
+        ${tarefa('Contar o que sabe por conhecimento próprio', [
+          html`Num facto ou numa relação, em ${b('Como sabe?')}, escolha ${b('Sei por conhecimento próprio')}.`,
+          'Diga como sabe (por exemplo «sou neto», «conversa com o próprio, 2019»).',
+          'Fica como testemunho, assinado com o seu nome e marcado com ✎, à espera de uma fonte.',
+          html`Para o que não cabe num facto (como era conhecido, uma identificação), use ${b('✎ Nota')}, no topo da ficha.`,
+        ], null)}
+        ${tarefa('Ligar duas pessoas: família, mestres, parcerias', [
+          html`Na ficha, em ${b('Acrescentar')}, carregue em ${b('Relação')}.`,
+          'Escolha o tipo (é filho/a de, foi aluno/a de, tocou com…).',
+          'Comece a escrever o nome da outra pessoa e escolha-a na lista; se ainda não tiver ficha, a última opção cria-a.',
+          html`Indique como sabe. A árvore da família atualiza-se sozinha.`,
+        ], ['Escolher uma pessoa', '#/pessoas'])}
+        ${tarefa('Trocar ou acrescentar uma fotografia', [
+          html`Na ficha, em ${b('Imagens')}: noutra imagem, ${b('Usar como retrato')}; numa imagem errada, ${b('Esconder')}, a dizer porquê (não se apaga).`,
+          html`Para uma fotografia nova, em ${b('Acrescentar')}, carregue em ${b('Fotografia')} e cole o endereço da imagem.`,
+          'Cole também o endereço da página onde ela está publicada: o arquivo mostra sempre de onde vem cada imagem.',
+        ], null, 'No telemóvel nem sempre se consegue copiar o endereço de uma imagem: cole antes o endereço da página da imagem na Wikimedia Commons.')}
+      </div></section>
 
-    <section class="seccao"><h2>2. Entrar e ligar o modo de edição</h2>
-      <ol class="passos">
-        <li>No fundo do menu, à esquerda, carregue em <b>Entrar</b> e depois em <b>Entrar com o GitHub</b>.
-          Na primeira vez, o GitHub pergunta se autoriza o arquivo: carregue em <b>Authorize</b>.</li>
-        <li>Ainda no fundo do menu, carregue em <b>Modo de edição</b> para o ligar. Nas fichas aparecem os botões ✎ e os formulários.</li>
-        <li>Para sair do modo de edição, carregue de novo no mesmo botão.</li>
-      </ol></section>
+    <section class="seccao"><h2>Para os editores</h2>
+      <div class="tarefas">
+        ${tarefa('Rever as fichas', [
+          html`Em ${b('Por validar')}, abra o separador ${b('Rever as fichas')} e escolha o tipo (pessoas, obras, discos…).`,
+          html`Carregue em ${b('Começar a rever')}: a ficha abre com uma barra no topo, com o que há para conferir.`,
+          'Leia a ficha e abra as citações (os números): a fonte diz o que a ficha diz?',
+          html`Carregue em ${b('Revista, seguinte')} (fica assinada com o seu nome) ou em ${b('Saltar')}.`,
+        ], ['Rever fichas', '#/validar?separador=rever'], html`Em qualquer ficha, o botão ${b('Marcar a ficha como revista')} faz o mesmo; nos vídeos e áudios chama-se
+          ${b('Marcar como revisto')}. Depois, o mesmo botão desfaz (${b('Voltar a pôr como rascunho')}, ou ${b('Voltar a rascunho')}).`)}
+        ${tarefa('Decidir o que está em «Por validar»', [
+          html`Abra ${b('Por validar')}, no menu (aparece a quem entrou). Os atalhos no topo levam a cada tipo de caso.`,
+          html`Fichas repetidas: ${b('São a mesma: juntar')} ou ${b('São diferentes')}. Na dúvida, abra as duas fichas; os pares que as fichas já distinguem (pai e filho) não se juntam.`,
+          'Divergências: deixe uma nota assinada a dizer qual versão lhe parece certa e porquê; as versões ficam todas.',
+          html`Citações por confirmar: abra o original e veja se a frase lá está. ${b('Só o que eu fiz')} mostra só os casos com contributos seus.`,
+        ], ['Abrir «Por validar»', '#/validar'])}
+        ${tarefa('Aprovar ou recusar propostas', [
+          html`Em ${b('Propostas')}, cada proposta mostra o que muda, ficha a ficha, e quem assina cada contributo (✎).`,
+          'No topo, a vermelho, o que merece um segundo olhar: fichas apagadas, assinaturas em nome de outra pessoa, endereços estranhos.',
+          html`${b('Aprovar')} faz entrar a proposta no arquivo; ${b('Recusar')} pede o motivo, que quem a fez vê.`,
+        ], ['Ver as propostas', '#/propostas'])}
+      </div></section>
 
-    <section class="seccao"><h2>3. Tarefas mais comuns</h2>
-      <h3>Nascimento, morte e outros factos</h3>
-      <ul><li>Na ficha da pessoa, em <b>Factos</b>, há duas caixas iguais em todas as fichas: <b>Nascimento</b> e <b>Morte</b>.
-        Escreva o dia, o mês, o ano e o local (o que souber) e diga como sabe.</li>
-        <li>Para outro facto (uma estreia, uma atuação, um prémio, uma profissão), use <b>Acrescentar um facto</b>, mais abaixo.</li>
-        <li>Se uma fonte disser outra data, acrescente-a na mesma: as duas versões ficam lado a lado, em <b>As fontes divergem</b>.</li></ul>
-      <h3>Como sabe? A fonte de cada informação</h3>
-      <ul><li><b>Está escrito numa fonte</b>: cole o endereço da página (o artigo, o post, a página do catálogo) e copie à letra a frase
-        que o diz. Se o site ainda não for uma fonte do arquivo, fica proposto e um editor decide; até lá, aparece como «pendente».
-        Para um livro ou disco sem endereço, escolha a fonte na lista e indique a página.</li>
-        <li><b>Sei por conhecimento próprio</b>: fica como testemunho, assinado com o seu nome e marcado com ✎. Diga como sabe
-        (por exemplo, «sou neto»).</li></ul>
-      <h3>Pessoas, grupos, obras, discos, instrumentos e vídeos novos</h3>
-      <ul><li>Nas listas (Pessoas, Grupos, Discografia, Obras e letras, Instrumentos, Mediateca) há o botão <b>+ Nova…</b>.
-        Antes, procure (Ctrl K) se já existe: se existir, acrescente lá.</li>
-        <li>Se já houver uma ficha com o mesmo nome mas for outra pessoa (ou outra música), marque a caixa <b>é outra</b>: as duas
-        ficam marcadas para não se confundirem.</li>
-        <li>Para corrigir o título, os autores, as faixas de um disco ou os papéis de uma pessoa, use <b>✎ Corrigir os dados</b> no topo da ficha.</li>
-        <li>Artigos e páginas onde a pessoa aparece entram em <b>Artigos e referências</b>, no fim da ficha.</li></ul>
-      <h3>Trocar a fotografia de uma ficha</h3>
+    <section class="seccao"><h2>Mais coisas que pode fazer</h2>
       <ul>
-        <li>Na ficha, desça até <b>Imagens</b>. A primeira é o retrato. Noutra imagem, carregue em <b>Usar como retrato</b>.</li>
-        <li>Se uma imagem estiver errada (não é a pessoa, má qualidade), carregue em <b>Esconder</b> e diga porquê. Não se apaga: pode voltar.</li>
-        <li>Para uma fotografia nova que encontrou na internet: clique nela com o botão direito do rato, escolha
-          <b>Copiar endereço da imagem</b> e cole-o em <b>Acrescentar uma fotografia</b>. Cole também o endereço da página onde ela está:
-          o arquivo não guarda cópias e mostra sempre de onde vem cada imagem.</li>
-      </ul>
-      <h3>Família, mestres e parcerias</h3>
-      <ul><li>Na ficha, em <b>Relações</b>, use <b>Acrescentar uma relação</b>: escolha o tipo (por exemplo «é pai/mãe de»), comece
-        a escrever o nome da outra pessoa e escolha-a na lista. A árvore da família atualiza-se sozinha.</li>
-        <li>Se a pessoa ainda não estiver no arquivo, a última opção da lista é <b>Criar a ficha</b>: fica uma ficha com o nome, assinada por si.</li>
-        <li>Em <b>Como sabe?</b>, indique a fonte (o endereço e a frase) ou escolha <b>Sei por conhecimento próprio</b>.</li></ul>
-      <h3>Casos de dúvida</h3>
-      <ul><li>Quando as fontes não concordam, a ficha mostra a caixa <b>As fontes divergem</b>. Carregue em ✎ ao lado de um facto
-        para deixar a sua nota: qual versão lhe parece certa e porquê. As versões das fontes continuam todas à vista.</li>
-        <li>Para o que sabe sobre a pessoa e não está em nenhuma fonte (como era conhecida, onde tocou), use a <b>Nota do editor</b>, no topo da ficha.</li></ul>
-      <h3>Propor uma fonte</h3>
-      <ul><li>Em <b>Fontes e método</b>, no fim da página, preencha <b>Propor uma fonte</b>: um livro, um jornal, o site de uma instituição
-        ou de um artista. Redes sociais, fóruns e lojas não servem.</li></ul>
-      <h3>Escrever no blogue</h3>
-      <ul><li>Em <b>Blogue</b>, carregue em <b>Escrever um texto</b>. Pode ligar o texto às fichas com a caixa <b>Ligar a uma ficha</b>.
-        Guarde como rascunho até estar pronto e depois escolha <b>Publicar</b>.</li></ul>
-    </section>
+        <li><b>Propor uma fonte</b>: em ${b('Fontes e arquivo')}, no fim da página, ${b('Propor uma fonte')} (um livro, um jornal, o site de uma instituição
+          ou de um artista; redes sociais, fóruns e lojas não servem).</li>
+        <li><b>Corrigir o nome, o título, os autores ou as faixas</b>: ${b('✎ Corrigir os dados')}, no topo da ficha (nas pessoas, ${b('✎ Corrigir nome, outros nomes e papéis')}).</li>
+        <li><b>Juntar duas fichas da mesma pessoa, ou separar uma que mistura duas</b>: na ficha, a secção ${b('Desambiguação')}
+          (nas pessoas, também o atalho ${b('Desambiguar…')}, no topo).</li>
+        <li><b>Indicar um artigo onde a pessoa aparece</b>: em ${b('Acrescentar')}, ${b('Referência')}. É leitura indicada, não fonte.</li>
+        <li><b>Escrever no blogue</b>: em ${b('Blogue')}, ${b('Escrever um texto')}. Pode ligar o texto às fichas com a caixa ${b('Ligar a uma ficha')}.</li>
+      </ul></section>
 
-    <section class="seccao"><h2>4. O que acontece depois</h2>
-      <p>O que um contribuidor altera chega aos editores como proposta. Depois de aprovado aparece no site, com o seu nome.
-        Fica registado quem fez cada alteração, quando e porquê, e qualquer alteração pode ser desfeita.</p></section>
+    <section class="seccao"><h2>Depois de enviar</h2>
+      <ul>
+        <li><b>Contribuidores</b>: o que altera segue como proposta. Um editor vê-a em ${b('Propostas')} e aprova-a ou recusa-a (e diz porquê).
+          Depois de aprovada, aparece no site com o seu nome, em 1 a 2 minutos.</li>
+        <li><b>Editores</b>: o que gravam entra logo no arquivo.</li>
+        <li><b>Enganou-se?</b> Enquanto a proposta espera, pode retirá-la em ${b('Propostas')} (${b('Retirar a minha proposta')}).
+          Um facto, uma relação ou uma referência que acrescentou pode retirá-lo com ×. Não há um botão para desfazer tudo: para o resto, fale com um editor.</li>
+        <li><b>Histórico</b>: cada ficha tem o botão ${b('Histórico')}, com todas as alterações, quem as fez, quando e o quê.</li>
+        <li><b>Tudo fica público</b>: o que grava fica no repositório público do arquivo, no GitHub, incluindo as propostas recusadas ou retiradas
+          e os rascunhos do blogue que um editor grava (o rascunho de um contribuidor, online, fica só no seu browser até o enviar).
+          Não escreva nada que não possa ser público.</li>
+      </ul></section>
 
     <section class="seccao"><h2>As regras do arquivo</h2>
       <ul>
@@ -183,6 +232,7 @@ export function contribuir(el) {
         <li><b>Divergências à vista.</b> Quando as fontes discordam, nenhuma versão se apaga.</li>
         <li><b>O blogue não é fonte.</b> É para memórias, opiniões e novidades; as fichas não o citam.</li>
         <li><b>Pessoas vivas.</b> Só informação artística e pública.</li>
+        <li><b>Só por convite.</b> Quem decide quem entra, e com que papel, é o dono do arquivo.${n > 1 ? ` Hoje são ${n} pessoas.` : ''}</li>
       </ul>
       <p>Dúvidas? Fale com o dono do arquivo.</p></section>
   </div>`.s;

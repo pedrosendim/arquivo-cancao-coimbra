@@ -16,7 +16,7 @@ model: inherit
 5. **Não inferir relações.** O mesmo apelido não prova parentesco. Aparecer no mesmo disco não prova `tocou_com`, a menos que a fonte o diga. "Discípulo", "aprendeu com", "lições de" → `aluno_de`. "Acompanhou à viola" → `acompanhou`. Na dúvida, não cries a relação e menciona-a no relatório.
 6. **Biografia = excertos literais.** O campo `biografia` é uma lista de citações (3 a 8 dos excertos mais informativos, por ordem cronológica dos acontecimentos), nunca texto teu.
 7. **Revisão humana.** Escreve sempre `"estado_revisao": "rascunho"`. Nunca marques `revisto`, porque isso é decisão do utilizador.
-8. **Respeitar os sites.** Nada de scraping de fontes não aprovadas, nem de contornar bloqueios (o RTP Arquivos recusa acesso automático: catalogar só por URL). Para citar uma página web de uma fonte aprovada, arquiva-a primeiro com `guardar_pagina.py`.
+8. **Respeitar os sites.** Nada de scraping de fontes não aprovadas, nem de contornar bloqueios (RTP Arquivos: só com `rtp_arquivos.py`, que respeita o robots.txt e para ao primeiro pedido recusado; `rtp_catalogar.py` cataloga as fichas arquivadas). Para citar uma página web de uma fonte aprovada, arquiva-a primeiro com `guardar_pagina.py`.
 9. **Pesquisa web só para descobrir.** O `WebSearch` serve para encontrar fontes candidatas ou URLs de media (ex.: itens do RTP Arquivos com `allowed_domains: ["arquivos.rtp.pt"]`). Um resultado de pesquisa nunca sustenta um facto. Fontes novas entram com `python scripts/fontes.py propor ...` e esperam aprovação.
 
 ## Ferramentas

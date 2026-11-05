@@ -8,7 +8,7 @@ import sys
 from datetime import datetime, timezone
 
 from comum import ARQUIVO, DADOS, FONTES, RAIZ, SITE_DADOS, classificar_url, escrever_json, ler_json
-from validar import TIPOS, VERIFICACAO, carregar_blogue, mencoes, validar
+from validar import REGISTO, TIPOS, VERIFICACAO, carregar_blogue, mencoes, partes_aviso, validar
 
 # estado dos media catalogados (verificar_media.py); a cópia em dados/ serve à publicação online, sem o arquivo
 ESTADO_MEDIA_COPIA = DADOS / "estado_media.json"
@@ -93,15 +93,20 @@ def gerar(ent, v):
            for t in TIPOS},
         "contribuidores": list(v.contribuidores.values()),
         "blogue": sorted(blogue, key=lambda p: (p["data"], p["id"]), reverse=True),
-        "validacao": {"erros": len(v.erros), "avisos": len(v.avisos), "citacoes_verificadas": v.n_citacoes},
+        # citações com frase: todas, as verificadas e quantas há em cada estado (ESTADOS_CITACAO, em validar.py);
+        # avisos_forma: o que corrigir na forma dos dados, ficha a ficha ({ficheiro, onde, texto}), para quem edita
+        "validacao": {"erros": len(v.erros), "avisos": len(v.avisos), "citacoes": v.n_citacoes,
+                      "citacoes_verificadas": v.por_estado["verificada"], "citacoes_por_estado": dict(v.por_estado),
+                      "avisos_forma": [partes_aviso(a) for a in v.avisos_forma]},
     }
-    escrever_json(SITE_DADOS / "base.json", base)
+    escrever_json(SITE_DADOS / "base.json", base, compacto=True)
     if v.db is not None:  # na cópia local: guardar o que a versão online, sem o arquivo, precisa de saber
-        escrever_json(VERIFICACAO, sorted(v.verificadas))
+        escrever_json(VERIFICACAO, {campo: sorted(k for k, e in v.estados.items() if e == estado)
+                                    for campo, estado in REGISTO.items()})
     if local:
         escrever_json(ESTADO_MEDIA_COPIA, dict(sorted(usados.items())))
     print(f"site/dados/base.json gerado: " + ", ".join(f"{len(ent[t])} {t}" for t in TIPOS)
-          + f"; {v.n_citacoes} citações verificadas; {len(v.avisos)} avisos")
+          + f"; {v.n_citacoes} citações ({v.por_estado['verificada']} verificadas); {len(v.avisos)} avisos")
 
 
 if __name__ == "__main__":

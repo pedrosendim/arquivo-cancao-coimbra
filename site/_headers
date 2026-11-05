@@ -1,0 +1,10 @@
+# Cabeçalhos de segurança dos ficheiros do site na Cloudflare (Workers Static Assets lê este ficheiro; não se publica).
+# A página «/» passa pelo Worker (online/cabecalhos.js), que lhe junta a lista dos scripts que pode correr.
+# Aqui: o browser não adivinha tipos de ficheiro; os outros sites só recebem a origem como «referrer» (o YouTube
+# precisa dela para os vídeos tocarem); nenhum site pode pôr este dentro de uma moldura; nada de plugins (object,
+# embed) nem de <base> a mudar os endereços da página.
+# As imagens, o áudio e os leitores incorporados (frame-src) não se limitam: limitá-los partia leitores no iPhone.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'

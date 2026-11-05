@@ -42,6 +42,14 @@ function resumo(opcoes, sel, todos, [um, varios]) {
 /** Valores escolhidos num filtro. */
 export const valoresFiltro = (caixa) => $$('.filtro-opcoes input:checked', caixa).map((c) => c.value);
 
+/** Marca estas opções (e só estas), sem avisar a vista: para acertar o filtro com outro controlo da mesma lista. */
+export function definirEscolhidos(caixa, valores) {
+  if (!caixa) return;
+  const sel = new Set(valores);
+  $$('.filtro-opcoes input', caixa).forEach((c) => { c.checked = sel.has(c.value); });
+  atualizarResumo(caixa);
+}
+
 /** Troca as opções (por exemplo, contagens novas) sem fechar a lista nem perder o que está escolhido. */
 export function atualizarFiltro(caixa, opcoes) {
   if (!caixa) return;

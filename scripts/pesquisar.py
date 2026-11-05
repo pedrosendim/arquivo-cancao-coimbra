@@ -34,7 +34,8 @@ def pesquisar(db, q, fonte=None, tipo=None, desde=None, ate=None, limite=25, des
         filtros.append("d.ano >= ?"); args.append(int(desde))
     if ate:
         filtros.append("d.ano <= ?"); args.append(int(ate))
-    ordenar = {"data": "d.data DESC", "antigos": "d.data ASC"}.get(ordem, "bm25(docs_fts, 8.0, 1.0, 2.0)")
+    sem_data = "(d.data IS NULL OR d.data = '')"  # páginas sem data própria: no fim, nos mais recentes e nos mais antigos
+    ordenar = {"data": f"{sem_data}, d.data DESC", "antigos": f"{sem_data}, d.data ASC"}.get(ordem, "bm25(docs_fts, 8.0, 1.0, 2.0)")
     sql = f"""SELECT d.doc_id, d.tipo, d.fonte, d.url, d.titulo, substr(d.data,1,10) AS data, d.autor,
                      d.n_comentarios, snippet(docs_fts, 1, ?, ?, ' … ', 24) AS excerto
               FROM docs_fts JOIN docs d ON d.rowid = docs_fts.rowid

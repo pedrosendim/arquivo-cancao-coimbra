@@ -9,8 +9,9 @@
   "assets": {
     "directory": "./site",
     "binding": "ASSETS",
-    // só os pedidos à API passam pelo Worker; as páginas e os dados servem-se diretamente (e de graça)
-    "run_worker_first": ["/api/*"]
+    // só os pedidos à API e a página inicial («/», para a política de segurança dos scripts, online/cabecalhos.js)
+    // passam pelo Worker; o resto (código, estilos, dados, imagens) serve-se diretamente (e de graça), com site/_headers
+    "run_worker_first": ["/api/*", "/"]
   },
   "workers_dev": true,
   // não apagar as variáveis postas no painel da Cloudflare quando se publica

@@ -3,6 +3,7 @@ import { E, nomeContribuidor } from '../estado.js';
 import { $, html, fmtData, debounce } from '../util.js';
 import { editando, sessao, podeAprovar } from '../edicao.js';
 import { textoRico, resumoTexto, ficha } from '../texto.js';
+import { rascunhosDoBlogue } from '../rascunhos.js';
 
 const podeMexer = (post) => editando() && (post.autor === sessao()?.id || podeAprovar());
 
@@ -20,9 +21,14 @@ function cartaoTexto(post) {
 export function blogue(el) {
   const publicados = E.base.blogue.filter((p) => p.estado === 'publicado');
   const rascunhos = editando() ? E.base.blogue.filter((p) => p.estado === 'rascunho' && podeMexer(p)) : [];
+  const locais = editando() ? rascunhosDoBlogue() : []; // textos novos guardados «só neste browser» (P5a, rascunhos.js)
   el.innerHTML = html`<div class="conteudo estreito">${cabecalho}
     ${editando() ? html`<p><a class="botao primario" href="#/blogue/novo">Escrever um texto</a></p>` : ''}
-    ${rascunhos.length ? html`<section class="seccao"><h2>Rascunhos <small>só visíveis no modo de edição</small></h2>${rascunhos.map(cartaoTexto)}</section>` : ''}
+    ${locais.length ? html`<section class="seccao"><h2>Rascunhos neste browser <small>só existem aqui e não seguem para ninguém, até escolher
+      «Enviar para publicar»</small></h2><ul class="lista-simples">${locais.map((r) => html`<li><a href="#/blogue/novo?rascunho=${r.id}">${r.titulo || '(sem título)'}</a>
+      <span class="mudo">${fmtData(new Date(r.em).toISOString().slice(0, 10))}</span></li>`)}</ul></section>` : ''}
+    ${rascunhos.length ? html`<section class="seccao"><h2>Rascunhos <small>não aparecem nas páginas do site, mas o texto fica guardado no
+      repositório público do arquivo, no GitHub: não escreva num rascunho o que não possa ser público</small></h2>${rascunhos.map(cartaoTexto)}</section>` : ''}
     ${publicados.length ? html`<section class="seccao">${publicados.map(cartaoTexto)}</section>`
       : html`<div class="vazio"><h3>Ainda não há textos publicados</h3>
         <p>Os contribuidores convidados escrevem aqui, no modo de edição. Veja <a href="#/contribuir">como contribuir</a>.</p></div>`}
@@ -49,15 +55,18 @@ export function artigo(el, id) {
   </article></div>`.s;
 }
 
-export function editarArtigo(el, id) {
+export function editarArtigo(el, id, params = {}) {
   if (!editando()) { location.hash = id === 'novo' ? '#/blogue' : `#/blogue/${id}`; return; }
   const post = id === 'novo' ? { id: '', titulo: '', texto: '', estado: 'rascunho' } : E.base.blogue.find((p) => p.id === id);
   if (!post || (id !== 'novo' && !podeMexer(post))) { el.innerHTML = '<div class="conteudo"><h1>Texto não encontrado</h1></div>'; return; }
+  // online, o rascunho de um contribuidor fica neste browser: só «Enviar para publicar» cria uma proposta (P5a, rascunhos.js)
+  const noBrowser = E.sessao?.modo === 'online' && !podeAprovar();
+  const local = id === 'novo' && /^[a-z0-9]{4,24}$/.test(params.rascunho || '') ? params.rascunho : ''; // um desses rascunhos, reaberto
 
   el.innerHTML = html`<div class="conteudo estreito">
     <header class="cabecalho"><p class="sobretitulo"><a href="#/blogue">Blogue</a></p><h1>${id === 'novo' ? 'Escrever um texto' : 'Editar o texto'}</h1></header>
     <form class="caixa-edicao editor-texto" data-acao="guardar-texto">
-      <input type="hidden" name="id" value="${post.id}">
+      <input type="hidden" name="id" value="${post.id}">${local ? html`<input type="hidden" name="rascunho_local" value="${local}">` : ''}
       <label>Título <input class="campo titulo" name="titulo" required value="${post.titulo}"></label>
       <div class="ferramentas-texto">
         <button type="button" class="botao peq" data-marca="**|**" title="Negrito"><b>N</b></button>
@@ -72,10 +81,14 @@ export function editarArtigo(el, id) {
       </div>
       <textarea class="campo" name="texto" id="texto" rows="18" placeholder="Escreva aqui. Deixe uma linha em branco entre parágrafos.">${post.texto}</textarea>
       <div class="linha-campos">
-        <label class="opcao"><input type="radio" name="estado" value="rascunho" ${post.estado !== 'publicado' ? 'checked' : ''}> Guardar como rascunho</label>
-        <label class="opcao"><input type="radio" name="estado" value="publicado" ${post.estado === 'publicado' ? 'checked' : ''}> Publicar</label>
+        <label class="opcao"><input type="radio" name="estado" value="rascunho" ${post.estado !== 'publicado' ? 'checked' : ''}> Guardar como rascunho${noBrowser ? ', só neste browser' : ''}</label>
+        <label class="opcao"><input type="radio" name="estado" value="publicado" ${post.estado === 'publicado' ? 'checked' : ''}> ${noBrowser ? 'Enviar para publicar' : 'Publicar'}</label>
         <button class="botao primario">Guardar</button>
       </div>
+      ${noBrowser ? html`<p class="mudo aviso-rascunho">O rascunho fica só neste browser e não segue para ninguém. Quando estiver pronto,
+        escolha «Enviar para publicar»: um editor revê o texto antes de aparecer no site, e fica no repositório público do arquivo, no GitHub.</p>`
+      : html`<p class="mudo aviso-rascunho">Um rascunho não aparece nas páginas do site, mas fica guardado no repositório público do arquivo, no GitHub,
+        tal como os textos publicados: não escreva nele memórias pessoais ou dados de outras pessoas que não possam ser públicos.</p>`}
       <details class="ajuda-texto"><summary>Como formatar</summary>
         <p><code>**negrito**</code> · <code>*itálico*</code> · <code>## Título</code> numa linha própria · <code>- </code> no início de cada linha de uma lista ·
           <code>&gt; </code> para citar · <code>[texto](https://…)</code> para uma ligação · <code>![legenda](https://…/imagem.jpg)</code> numa linha própria para uma imagem ·

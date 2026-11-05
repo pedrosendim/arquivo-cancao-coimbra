@@ -54,9 +54,15 @@ python scripts/fontes.py rejeitar discogs "motivo"
 
 O agente só usa fontes **aprovadas**. Quando encontra uma fonte nova (um livro, um jornal, um site), regista-a como proposta.
 
-O RTP Arquivos recusa acesso automático, por isso os seus vídeos entram pelo URL (ligações nos blogues ou introduzidas por si) e
-abrem no site da RTP. Para arquivar uma página que só abre no browser: guarde-a (Ctrl+S) e corra
-`python scripts/guardar_pagina.py URL --fonte rtp-arquivos --ficheiro pagina.html`.
+Do RTP Arquivos guarda-se só a ficha descritiva de cada programa (título, data, personalidades, resumo); o vídeo ou o
+áudio abre sempre no site da RTP. A recolha respeita o robots.txt e para ao primeiro pedido recusado:
+
+```bash
+python scripts/rtp_arquivos.py pesquisar --temas --pessoas-do-arquivo   # pesquisa do site: temas e cada músico do arquivo
+python scripts/indexar.py --paginas
+python scripts/rtp_catalogar.py --simular                               # o que é da Canção de Coimbra, e quem se liga
+python scripts/rtp_catalogar.py                                         # cria dados/media/rtp-*.json (rascunho)
+```
 
 ## Estrutura
 

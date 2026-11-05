@@ -28,7 +28,11 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 
 - `fonte`: um `id` de `fontes/fontes.json` com estado `aprovada`.
 - `doc`: o identificador no arquivo local (aparece no `pesquisar.py` / `ler_post.py`).
-- `citacao`: cópia **literal** (pode omitir troços com `...`). O `validar.py` confirma que o texto existe no documento arquivado. Se não existir, é erro.
+- `citacao`: cópia **literal** (pode omitir troços com `...`). O `validar.py` confirma que o texto existe no documento arquivado. Se não existir, é erro, e a mensagem diz até onde a frase bate.
+  As aspas e os espaços à volta da frase (ou de cada troço) não contam na comparação; a frase fica guardada como foi escrita.
+  Uma «citação» sem palavras (só aspas, reticências ou pontuação, por exemplo `«»`) é erro, como uma citação em falta.
+- `url`: o endereço do documento. Encontra-se o mesmo documento arquivado com o endereço copiado no telemóvel (`?m=1`), com `#…`, com `utm_…` ou no domínio do país (`.blogspot.pt`); um comentário reconhece-se pelo `#c<número>` (com ou sem `?showComment=…`) e nunca se confunde com o post: se o comentário não estiver arquivado, a citação fica por verificar.
+- Todos os endereços começam por `http://` ou `https://` (citações, `imagens[].url`, `capa.url`, `ligacoes`, `media.url`, `media.miniatura`, `url` das fontes); outro endereço (`javascript:`, `data:`…) é erro.
 - Páginas fora dos blogues: arquivar primeiro com `guardar_pagina.py`, para a citação ser verificável.
 
 ## Facto
@@ -101,8 +105,8 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 {
   "id": "…",
   "titulo": "…",
-  "formato": "78rpm | EP | LP | single | CD | cassete | radio | televisao | inedito | digital",
-  "editora": "", "referencia": "", "ano": "", "local": "",
+  "formato": "cilindro | disco de massa | 78rpm | EP | LP | single | CD | cassete | radio | televisao | inedito | digital",
+  "editora": "", "referencia": "", "ano": "AAAA", "local": "",
   "interpretes": [ { "pessoa": "id", "funcao": "guitarra" } ],
   "faixas": [ { "n": 1, "titulo": "…", "obra": "id-da-obra", "media": ["id-do-media"] } ],
   "capa": { "url": "", "fontes": [] },
@@ -131,10 +135,10 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 ```json
 {
   "id": "…",
-  "tipo": "video | audio | imagem",
-  "plataforma": "youtube | vimeo | spotify | rtp-arquivos | rtp-play | blogger | soundcloud | internet-archive | ficheiro | outro",
+  "tipo": "video | audio | imagem | partitura",
+  "plataforma": "youtube | vimeo | spotify | apple-music | soundcloud | museu-do-fado | rtp-arquivos | rtp-play | blogger | internet-archive | musescore | facebook | dailymotion | ficheiro | outro",
   "url": "https://…",
-  "titulo": "…", "data": "",
+  "titulo": "…", "data": "AAAA[-MM[-DD]]",
   "pessoas": ["id"], "obras": ["id"], "gravacao": "",
   "fontes": [ { "...Citação (o post que publica/descreve o media)..." } ],
   "estado_revisao": "rascunho"
@@ -142,6 +146,10 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
 ```
 
 Os vídeos e imagens **embutidos nos blogues** já ficam catalogados automaticamente pelo `indexar.py` (tabela `media` do índice). Só se cria um ficheiro em `dados/media/` quando se identifica com segurança, a partir da fonte, quem toca, o quê e quando.
+
+- A plataforma é só um rótulo: o site reconhece-a pelo endereço.
+- O mesmo vídeo ou faixa (o mesmo endereço) tem uma só ficha. Noutra edição do mesmo registo, a faixa usa o id dessa ficha em `faixas[].media`.
+- Um media retirado do catálogo por um editor fica em `dados/excluidos.json` (ver «Contribuições humanas») e não se volta a criar.
 
 ---
 
@@ -156,6 +164,8 @@ python scripts/rtp_arquivos.py procurar coimbra guitarra        # conteúdos do 
 python scripts/rtp_arquivos.py procurar --pessoas paredes       # páginas de personalidades
 python scripts/rtp_arquivos.py recolher --termos "coimbra fado"  # arquiva fichas: título, data, personalidades, resumo
 python scripts/rtp_arquivos.py pessoa carlos-paredes            # todos os conteúdos de uma personalidade
+python scripts/rtp_arquivos.py pesquisar --temas --pessoas-do-arquivo   # pesquisa do site (temas + cada músico)
+python scripts/rtp_catalogar.py --simular                       # fichas da RTP da Canção de Coimbra → dados/media
 python scripts/discogs.py procurar "Quinteto de Coimbra" --tipo artist
 python scripts/discogs.py artista 1234567 --discografia         # perfil, MEMBROS de grupos, lista de edições
 python scripts/discogs.py lancamento 7654321                    # editora, nº de catálogo, faixas, créditos, vídeos
@@ -165,7 +175,17 @@ python scripts/fontes.py propor ... --pedido-geral "fotografias" # site sério n
 
 ### RTP Arquivos
 
-É acessível. O robots.txt permite o acesso, e a recolha faz-se pelo sitemap público com `rtp_arquivos.py`. Guarda-se só a ficha descritiva; o vídeo vê-se no site da RTP. As fichas arquivadas podem ser citadas (ex.: «Personalidades: Carlos Paredes»). Cada ficha aparece também automaticamente na mediateca.
+É acessível. O robots.txt permite o acesso, e a recolha faz-se pelo sitemap público e pela pesquisa do site (que procura também nas descrições) com `rtp_arquivos.py`. Guarda-se só a ficha descritiva; o vídeo vê-se no site da RTP. As fichas arquivadas podem ser citadas (ex.: «Personalidades: Carlos Paredes»). Cada ficha aparece também automaticamente na mediateca local.
+
+As páginas de personalidade da RTP são incompletas (a de José Afonso tem 13 conteúdos); por isso pesquisa-se cada nome: `rtp_arquivos.py pesquisar --temas --pessoas-do-arquivo`. Um nome muito comum (mais de 15 páginas de resultados) pesquisa-se só com «coimbra».
+
+`rtp_catalogar.py` passa a `dados/media/rtp-*.json` (rascunho) as fichas da Canção de Coimbra (decisão do utilizador, 02-11-2026: incluir toda a informação da RTP sobre a Canção de Coimbra, entrevistas incluídas):
+- conta como Canção de Coimbra uma ficha que fale de canção/fado/guitarra/balada de Coimbra ou de fado académico; serenatas, orfeões, tunas, estudantinas, grupos de fados, tricanas e baladeiros só quando a ficha fala de Coimbra perto (até 80 caracteres, na mesma linha) ou no título (afinado a 03-11-2026: ficaram de fora as «Tricanas da Beira Mar» de Aveiro, Pedro Barroso «baladeiro» e as tunas de Lisboa num debate sobre o ensino superior);
+- num programa de fado de Lisboa, «X na guitarra portuguesa de Coimbra» diz só o instrumento e, sozinho, não conta; «musicólogo» não faz de uma ficha uma ficha de música;
+- conta também uma ficha de música sobre um músico do arquivo (nome no título ou na descrição) que a RTP associa à Canção de Coimbra noutra ficha (ex.: concertos e entrevistas de José Afonso); Duarte Silva e Avelino Baptista ficam de fora deste alargamento;
+- as pessoas ligam-se pelo campo «Personalidades» ou pelo nome completo no título, e só quando o nome é de uma única pessoa do arquivo (contando os nomes alternativos). Um nome alternativo de duas palavras só serve com o mesmo apelido do nome principal («Zeca Afonso» sim; «António Sérgio», de Sérgio Azevedo, não, porque na RTP é outra pessoa). Nomes partilhados ficam por ligar e saem no relatório, para quem edita decidir;
+- nunca altera fichas que já existem; correr de novo só acrescenta as novas;
+- nunca volta a criar o que um editor retirou do catálogo (`dados/excluidos.json`), mesmo com o endereço escrito de outra forma.
 
 ### Discogs
 
@@ -251,7 +271,7 @@ Os papéis:
 Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota": "porquê (opcional)" }`. Vai nestes campos:
 
 - `relacoes[].editorial`: relação indicada por um contribuidor. Leva `"fontes": []`.
-- `fontes[].acrescentada`: citação acrescentada por um contribuidor, que escolheu uma fonte aprovada e copiou a frase. Pode ter `referencia` (por exemplo «p. 45»). Se a página estiver arquivada, a citação é verificada como as outras; se não estiver, fica «não verificada».
+- `fontes[].acrescentada`: citação acrescentada por um contribuidor, que escolheu uma fonte aprovada e copiou a frase. Pode ter `referencia` (por exemplo «p. 45»). Se a página estiver arquivada, a citação é verificada como as outras; se não estiver, ou se foi acrescentada online e a cópia local ainda não a viu, fica por verificar (ver «Verificação das citações»).
 - `editorial` no topo de uma ficha (de qualquer tipo): ficha criada no modo de edição. Só se pode apagar enquanto não tiver factos.
 - `factos[].editorial`: **testemunho** de um contribuidor (o que sabe sem fonte), com `nota` a dizer como sabe. Leva `"fontes": []`.
   Nascimento e morte entram como factos (`campo`, `valor`, `data`, `local`); uma versão diferente de outra já registada fica com
@@ -270,8 +290,18 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
 - `imagens[].oculta`: imagem escondida, por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro.
 - `factos[].nota_editorial` = `{ por, data, texto }`: nota sobre um facto, sobretudo nos casos de divergência entre fontes.
 - `nota_editor` com `nota_editor_por`/`nota_editor_em`. As notas sem `_por` são do dono.
-- `revisto_por`/`revisto_em` (com `"estado_revisao": "revisto"`).
-- Em `fontes/fontes.json`: `proposta_por`/`proposta_em` e `decidido_por`.
+- Notas assinadas em lista (as novas): `notas_editor[]` no topo de uma ficha (de qualquer tipo) e `factos[].notas_editoriais[]`,
+  cada uma `{ por, data, texto }`. Uma nota nova acrescenta-se à lista, sem mexer nas dos outros; cada autor edita ou retira só as
+  suas. Um editor pode esconder a de outra pessoa sem a reescrever: `oculta` = a assinatura dele, `{ por, data, nota }` (o motivo).
+  As notas antigas (`nota_editor`, `factos[].nota_editorial`) ficam como estão e continuam a mostrar-se; não se convertem.
+- `revisto_por`/`revisto_em` (com `"estado_revisao": "revisto"`), em qualquer tipo de ficha.
+- Em `fontes/fontes.json`: `proposta_por`/`proposta_em` e `decidido_por`. Rejeitar uma fonte que já foi citada não pára a
+  publicação: o `validar.py` dá um aviso em cada citação dela, e o site mostra-as como «fonte rejeitada», sem servirem de prova,
+  até alguém as retirar ou trocar por outra fonte.
+- `dados/excluidos.json` = `{ "media": [ { "url", "motivo", "por", "em" } ] }` (`em` = AAAA-MM-DD): vídeos e áudios que um editor
+  retirou do catálogo («Retirar do catálogo», por exemplo um que um script catalogou por engano). A ficha de media apaga-se e o
+  endereço fica aqui, assinado. Os scripts de catálogo (`rtp_catalogar.py`) nunca o voltam a criar, e o `validar.py` avisa se
+  aparecer de novo uma ficha com esse endereço.
 
 ### Blogue (`dados/blogue/<AAAA-MM-DD-titulo>.json`)
 
@@ -285,9 +315,40 @@ O `texto` usa marcas simples: `## Título`, `**negrito**`, `*itálico*`, `- list
 
 - Uma assinatura, uma nota editorial ou um texto do blogue **nunca é fonte**. Não se cita e não serve para deduzir factos.
 - O agente não cria assinaturas em nome de ninguém e não altera nem apaga contribuições assinadas. Também não volta a mostrar imagens escondidas.
+  Isto inclui as notas em lista e as entradas de `dados/excluidos.json`: o agente não as escreve, e não volta a catalogar um endereço retirado.
 - Se uma fonte aprovada confirmar mais tarde uma relação indicada por um contribuidor, acrescenta-se a citação em `fontes` e mantém-se o `editorial`.
 - Fichas marcadas com `distinta_de` nunca se juntam: são pessoas (ou obras) diferentes com o mesmo nome. Ao investigar uma delas,
   confirmar a qual pertence cada excerto antes de o acrescentar.
 - Um testemunho (`factos[].editorial`) nunca se cita nem se usa para deduzir; uma fonte pendente não se usa até ser aprovada.
 - O `validar.py` recusa assinaturas de contribuidores inexistentes, datas mal escritas, fotografias sem `origem` e ligações do blogue a fichas inexistentes.
 - O servidor local (`/api/gravar`) só aceita escritas do próprio site neste computador. Valida antes de gravar e repõe os ficheiros se a alteração criar erros.
+
+## Verificação das citações (o que o `construir.py` acrescenta ao `site/dados/base.json`)
+
+Os ficheiros de `dados/` nunca levam estes campos; só o `base.json`. Cada citação com frase (`citacao`) leva:
+
+- `"verificada": true`: a frase está, palavra por palavra, no documento arquivado.
+- ou `"verificada": false` e `"verificacao"` a dizer porquê:
+  - `por-confirmar`: na publicação online (sem o arquivo), uma citação que a cópia local ainda não viu, por exemplo acrescentada online. Fica confirmada quando o fundador corre o `construir.py` no computador dele.
+  - `nao-arquivado`: o documento citado não está no arquivo local, por isso a frase não se pode verificar. Arquivar a página resolve.
+  - `nao-encontrada`: a cópia local não encontrou a frase no documento. Na cópia local é erro; online fica como aviso, para não parar a publicação.
+  - `fonte-rejeitada`: a fonte foi rejeitada pelos editores depois de citada, e a citação deixa de servir de prova. Também nas referências de media sem frase.
+- As referências de media sem frase (só `fonte` + `url`) não levam nenhum destes campos, a não ser `fonte-rejeitada`.
+
+`validacao` no `base.json`: `erros`, `avisos`, `citacoes` (as que têm frase), `citacoes_verificadas` (só as verificadas), `citacoes_por_estado` (quantas há em cada estado) e `avisos_forma`, a lista dos avisos sobre a forma dos dados (ver abaixo), cada um `{ ficheiro, onde, texto }`, para quem edita os ver junto das fichas.
+
+`dados/verificacao.json` guarda, para a publicação online, o que a cópia local apurou: `{ "verificadas": [...], "nao_arquivadas": [...], "nao_encontradas": [...] }`, com a chave de cada citação (documento + frase normalizada). Escreve-o o `construir.py` (e o servidor local ao gravar), só na cópia local. O formato antigo, só a lista das verificadas, continua a ler-se.
+
+## Avisos do `validar.py` sobre a forma dos dados
+
+Não param a publicação; cada um diz o que corrigir. No GitHub, os avisos dos ficheiros que a proposta muda aparecem como anotações desses ficheiros (os erros aparecem sempre).
+
+- Valores fora das listas acima: `campo` dos factos, `tipo` da pessoa, `estado_revisao`, `formato` da gravação, `genero` da obra, `tipo` do media. Se é o termo da fonte (por exemplo «valsa»), fica, e o fundador decide se a lista o ganha.
+- Gravação sem `formato`; `ano` fora do formato AAAA (gravações, obras, instrumentos); `data` de um media fora de AAAA[-MM[-DD]].
+- Num campo com vários factos, só um marcado como divergente (`conflito` tem de estar em todas as versões, para aparecerem lado a lado). Não contam o campo `outro`, que junta factos sem relação entre si, nem um campo com um só facto (a outra versão está noutro campo ou na nota). O aviso nunca manda retirar a marca: só se retira depois de ver a fonte. Também: datas de nascimento ou de morte com anos diferentes sem a divergência marcada em todas.
+- Grupos sem membros; `membro_de` a apontar para uma ficha que não é grupo.
+- Relações repetidas; relações simétricas (`irmao_de`, `conjuge_de`, `primo_de`, `tocou_com`) guardadas nos dois sentidos; `filho_de`, `neto_de`, `sobrinho_de` ou `membro_de` nos dois sentidos.
+- Fichas `revisto` sem `revisto_por` ou `revisto_em`.
+- O mesmo endereço em duas fichas de media.
+- Uma ficha de media com um endereço que está em `dados/excluidos.json`.
+- Citações por confirmar, de documentos não arquivados ou de fontes rejeitadas (ver acima).

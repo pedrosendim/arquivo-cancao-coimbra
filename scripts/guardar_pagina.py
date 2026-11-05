@@ -35,7 +35,8 @@ def permitido(url):
         # RFC 9309: robots.txt 4xx = indisponível → acesso permitido; 5xx = inacessível → não arriscar
         return e.code < 500
     except Exception:
-        return True
+        # sem resposta (rede, certificado, tempo esgotado): o RFC 9309 manda assumir que é proibido
+        return False
     return rp.can_fetch(AGENTE, url)
 
 

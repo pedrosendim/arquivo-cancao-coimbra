@@ -4,14 +4,17 @@
    ===================================================================================== */
 :root[data-estilo="museu"] {
   --fundo: #efede8; --fundo-2: #e8e5de; --superficie: #f7f6f2; --superficie-2: #f2f0eb; --linha: #cfcac0; --linha-forte: #1a1a1a;
-  --texto: #161616; --texto-2: #48463f; --texto-3: #7b776d; --ouro: #b4441f; --ouro-forte: #8f3416; --ouro-suave: rgba(180, 68, 31, .09);
+  --texto: #161616; --texto-2: #48463f; --texto-3: #6a665e; --ouro: #b4441f; --ouro-forte: #8f3416; --ouro-suave: rgba(180, 68, 31, .09);
   --marca-texto: rgba(180, 68, 31, .16); --vinho: #b4441f; --azul: #2f5d7c;
+  /* contraste de 4,5:1 em todos os fundos (P2): --texto-3 era #7b776d e --verde #4f7a4a */
+  --verde: #3a6535; --verde-suave: rgba(58, 101, 53, .12);
   --f-titulo: "IBM Plex Serif", Georgia, serif; --f-ui: "IBM Plex Sans", Inter, sans-serif; --f-leitura: "IBM Plex Serif", Georgia, serif;
   --f-mono: "IBM Plex Mono", ui-monospace, monospace; --r: 0px; color-scheme: light;
 }
 :root[data-estilo="museu"][data-theme="dark"] {
   --fundo: #161614; --fundo-2: #1c1c19; --superficie: #20201d; --superficie-2: #262622; --linha: #3a3933; --linha-forte: #ecebe6;
-  --texto: #ecebe6; --texto-2: #b6b3a9; --texto-3: #85827a; --ouro: #e3825b; --ouro-forte: #f2a07f; --ouro-suave: rgba(227, 130, 91, .12); color-scheme: dark;
+  --texto: #ecebe6; --texto-2: #b6b3a9; --texto-3: #8e8c84; --ouro: #e3825b; --ouro-forte: #f2a07f; --ouro-suave: rgba(227, 130, 91, .12); color-scheme: dark;
+  --verde: #8fb98a; --verde-suave: rgba(143, 185, 138, .12); /* --texto-3 era #85827a */
 }
 [data-estilo="museu"] h1 { font-weight: 400; letter-spacing: -.015em; }
 [data-estilo="museu"] h2, [data-estilo="museu"] h3 { font-weight: 500; }
@@ -62,3 +65,23 @@
   background: linear-gradient(transparent, rgba(0, 0, 0, .78)); opacity: 0; transition: opacity .2s; }
 .mosaico a:hover span { opacity: 1; }
 @media (max-width: 900px) { .heroi.com-mosaico { grid-template-columns: 1fr; } .mosaico { grid-template-columns: repeat(4, 1fr); } }
+
+/* ===== P2: cabeçalho e menu do telemóvel, no estilo Museu ===== */
+[data-estilo="museu"] .abrir-menu { border-color: var(--texto); border-radius: 0; font: 500 11px var(--f-mono); text-transform: uppercase; letter-spacing: .05em; }
+@media (max-width: 900px) {
+  [data-estilo="museu"] .lateral { border-right: 0; border-bottom: 1px solid var(--linha-forte); }
+  [data-estilo="museu"] .menu-folha #nav a { font-size: 13px; }
+}
+
+/* ===== P2: campos no telemóvel e nos ecrãs de toque ===== */
+/* letra de 16 px: com menos, o Safari do iPhone amplia a página a cada toque num campo. O que se escreve fica como se
+   escreveu; as maiúsculas do Museu ficam no texto de exemplo, nos botões e nos filtros. No computador nada muda. */
+@media (max-width: 900px), (pointer: coarse) {
+  [data-estilo="museu"] :is(.campo, .filtro-procurar):not(.titulo),
+  [data-estilo="museu"] :is(.caixa-edicao, .ligar-ficha, .seletor-pessoa) .campo:not(.titulo) { font-size: 16px; text-transform: none; letter-spacing: 0; }
+  [data-estilo="museu"] :is(.campo, .filtro-procurar)::placeholder { text-transform: uppercase; letter-spacing: .05em; font-size: 12px; }
+}
+/* também no computador, o que se escreve num campo fica como se escreveu (uma frase copiada para uma citação não pode
+   parecer outra); as maiúsculas ficam no texto de exemplo */
+[data-estilo="museu"] :is(input, textarea).campo:not(.titulo) { text-transform: none; letter-spacing: 0; }
+[data-estilo="museu"] :is(input, textarea).campo:not(.titulo)::placeholder { text-transform: uppercase; letter-spacing: .05em; }

@@ -23,6 +23,33 @@ export function html(strings, ...vals) {
 export const $ = (sel, el = document) => el.querySelector(sel);
 export const $$ = (sel, el = document) => [...el.querySelectorAll(sel)];
 export const norm = (s) => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+/** Ordem alfabética portuguesa: Álvaro fica junto de Alberto, e não no fim. Ex.: lista.sort((a, b) => compararPt(a.nome, b.nome)). */
+const COLADOR = new Intl.Collator('pt', { sensitivity: 'base', numeric: true });
+export const compararPt = (a, b) => COLADOR.compare(String(a ?? ''), String(b ?? ''));
+
+/** Palavras de uma procura, sem acentos nem pontuação: «A. Menano» → ['a', 'menano']. */
+export const termosProcura = (q) => norm(q).replace(/[^\p{L}\p{N}]+/gu, ' ').trim().split(' ').filter(Boolean);
+
+/** O texto tem todas as palavras, por qualquer ordem? Uma palavra de uma ou duas letras (inicial, «re», «lp») tem de
+ *  começar uma palavra do texto: senão «re» apanhava «Pereira» e «lp» apanhava «Delphina». */
+export function temTodas(texto, termos) {
+  const t = ' ' + norm(texto).replace(/[^\p{L}\p{N}]+/gu, ' ');
+  return termos.every((p) => (p.length <= 2 ? t.includes(' ' + p) : t.includes(p)));
+}
+
+/** Endereço http(s) normalizado (sem tabulações nem quebras de linha), ou null para javascript:, data: e afins. */
+export function enderecoSeguro(u) {
+  if (!u) return null;
+  const s = String(u).trim();
+  try {
+    const url = new URL(s.startsWith('//') ? 'https:' + s : s);
+    return url.protocol === 'https:' || url.protocol === 'http:' ? url.href : null;
+  } catch { return null; }
+}
+/** Endereço para pôr dentro de url('…') num style (imagem de fundo), já escapado para o atributo: só http(s), e sem
+ *  plica, aspas nem barra invertida, que deixavam sair do url('…') e mudar o estilo da página (CSS injetado). */
+export const fundo = (u) => esc((enderecoSeguro(u) || '').replace(/'/g, '%27').replace(/"/g, '%22').replace(/\\/g, '%5C'));
 export const debounce = (fn, ms = 250) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 export const plural = (n, um, varios) => `${n.toLocaleString('pt-PT')} ${n === 1 ? um : varios}`;
 
@@ -62,15 +89,19 @@ export function miniatura(url, tam = 400) {
 }
 
 // ---- reconhecimento de media (espelha scripts/comum.py)
-const RE_YT = /(?:youtube(?:-nocookie)?\.com\/(?:embed\/|v\/|watch\?(?:[^"'\s]*&(?:amp;)?)?v=|shorts\/)|youtube\.googleapis\.com\/v\/|youtu\.be\/)([A-Za-z0-9_-]{11})/;
+const RE_YT = /(?:youtube(?:-nocookie)?\.com\/(?:embed\/|v\/|watch\?(?:[^"'\s]*&(?:amp;)?)?v=|shorts\/|live\/)|youtube\.googleapis\.com\/v\/|youtu\.be\/)([A-Za-z0-9_-]{11})/;
 const RE_MUSESCORE = /musescore\.com\/(?:user\/(\d+)\/)?scores\/(\d+)/;
 const RE_DAILYMOTION = /dailymotion\.com\/(?:embed\/)?video\/([a-z0-9]+)/i;
 const RE_FACEBOOK = /facebook\.com\/(?:video\.php\?v=(\d+)|[^/?]+\/videos\/(?:[^/?]+\/)?(\d+)|watch\/?\?v=(\d+))/;
 const RE_VIMEO = /vimeo\.com\/(?:video\/)?(\d{5,})/;
-const RE_SPOTIFY = /open\.spotify\.com\/(?:embed\/)?(track|album|playlist|artist|episode)\/([A-Za-z0-9]{22})/;
+const RE_SPOTIFY = /open\.spotify\.com\/(?:intl-[a-z-]+\/)?(?:embed\/)?(track|album|playlist|artist|episode)\/([A-Za-z0-9]{22})/;
+// As chaves têm de ser iguais às de classificar_url() em comum.py (o índice e arquivo/media_estado.json usam essas):
+//   https://www.blogger.com/video.g?token=AD6v5dz…  → chave: o token (até 60 caracteres)
+//   https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5/  → chave: https://arquivos.rtp.pt/conteudos/tempo-de-coimbra-5 (sem a barra final)
+const decodificar = (s) => { try { return decodeURIComponent(s); } catch { return ''; } };
 export function classificar(url) {
+  url = enderecoSeguro(url); // só http(s); javascript:, data: e afins nunca chegam a um leitor nem a uma ligação
   if (!url) return null;
-  if (url.startsWith('//')) url = 'https:' + url;
   let m;
   if ((m = url.match(RE_YT))) return { tipo: 'video', plataforma: 'youtube', chave: m[1], url: `https://www.youtube.com/watch?v=${m[1]}` };
   if ((m = url.match(RE_VIMEO))) return { tipo: 'video', plataforma: 'vimeo', chave: m[1], url: `https://vimeo.com/${m[1]}` };
@@ -85,11 +116,15 @@ export function classificar(url) {
     const u = new URL(url); const i = u.searchParams.get('i');
     return { tipo: 'audio', plataforma: 'apple-music', chave: u.pathname.replace(/^\/|\/$/g, '') + (i ? `?i=${i}` : ''), url: url.split('#')[0] };
   }
-  if (host.includes('blogger.com') && url.includes('video.g')) return { tipo: 'video', plataforma: 'blogger', chave: url, url };
-  if (host.endsWith('arquivos.rtp.pt') && url.includes('/conteudos/')) return { tipo: 'video', plataforma: 'rtp-arquivos', chave: url.split('?')[0], url: url.split('?')[0] };
-  if (host.endsWith('rtp.pt') && url.includes('/play/')) return { tipo: 'video', plataforma: 'rtp-play', chave: url.split('?')[0], url: url.split('?')[0] };
+  // vídeo carregado no Blogger: só o leitor do próprio Blogger (outro site com «blogger.com» no nome não é o Blogger)
+  if ((host === 'www.blogger.com' || host === 'blogger.com') && new URL(url).pathname === '/video.g') {
+    return { tipo: 'video', plataforma: 'blogger', chave: (new URL(url).searchParams.get('token') || '').slice(0, 60) || url, url };
+  }
+  const semConsulta = url.split('?')[0];
+  if (host.endsWith('arquivos.rtp.pt') && url.includes('/conteudos/')) return { tipo: 'video', plataforma: 'rtp-arquivos', chave: semConsulta.replace(/\/+$/, ''), url: semConsulta };
+  if (host.endsWith('rtp.pt') && url.includes('/play/')) return { tipo: 'video', plataforma: 'rtp-play', chave: semConsulta.replace(/\/+$/, ''), url: semConsulta };
   if (host.endsWith('soundcloud.com')) {
-    const alvo = host.startsWith('w.') ? decodeURIComponent((url.match(/[?&]url=([^&]+)/) || [])[1] || url) : url;
+    const alvo = (host.startsWith('w.') && enderecoSeguro(decodificar((url.match(/[?&]url=([^&]+)/) || [])[1] || ''))) || url;
     return { tipo: 'audio', plataforma: 'soundcloud', chave: alvo.split('?')[0], url: alvo };
   }
   if (host.endsWith('archive.org') && /\/(details|embed)\//.test(url)) {
@@ -134,7 +169,7 @@ export function ler(chave, omissao) { try { const v = localStorage.getItem(chave
 export function definirParams(params) {
   const caminho = location.hash.replace(/^#\/?/, '').split('?')[0];
   const qs = new URLSearchParams(Object.entries(params).filter(([, v]) => v !== '' && v != null && v !== false)).toString();
-  history.replaceState(null, '', `#/${caminho}${qs ? '?' + qs : ''}`);
+  history.replaceState(history.state, '', `#/${caminho}${qs ? '?' + qs : ''}`); // mantém o número da entrada (app.js: voltar atrás)
 }
 
 /** Expressão regular que ignora acentos, para realçar termos no texto. */

@@ -12,7 +12,7 @@ Comunicar com o utilizador em **português europeu**.
 - **Divergências entre fontes ficam visíveis** (`"conflito": true`), sem escolher versão.
 - Fichas escritas pela IA ficam `"estado_revisao": "rascunho"`; só o dono ou um editor marcam `revisto`.
 - **Contribuições humanas ficam assinadas** (✎: quem, quando, porquê) e nunca são fonte, tal como o blogue (`dados/blogue/`). A IA não as cria em nome de ninguém nem as altera. Ver «Contribuições humanas» em `dados/ESQUEMA.md`.
-- Media: reproduzir apenas pelos leitores oficiais (YouTube, Spotify, Vimeo, Blogger, SoundCloud, Internet Archive, MuseScore) ou ligar ao site original. Não descarregar nem voltar a alojar vídeos/áudio. RTP Arquivos: recolher só as fichas descritivas (`scripts/rtp_arquivos.py`, pelo sitemap); o vídeo abre no site da RTP. Discogs: só pela API (`scripts/discogs.py`), o site tem proteção anti-robô. Nunca contornar bloqueios.
+- Media: reproduzir apenas pelos leitores oficiais (YouTube, Spotify, Vimeo, Blogger, SoundCloud, Internet Archive, MuseScore) ou ligar ao site original. Não descarregar nem voltar a alojar vídeos/áudio. RTP Arquivos: recolher só as fichas descritivas (`scripts/rtp_arquivos.py`, pelo sitemap e pela pesquisa do site); o vídeo abre no site da RTP. Discogs: só pela API (`scripts/discogs.py`), o site tem proteção anti-robô. Nunca contornar bloqueios.
 - Orientações de pesquisa atualizadas (grupos, fotografias, luthiers, discografia, fontes por «pedido geral»): ver o fim de `dados/ESQUEMA.md`.
 
 ## Estrutura
@@ -38,7 +38,8 @@ dados/verificacao.json, dados/estado_media.json  gerados pelo construir.py local
 python scripts/servidor.py --abrir         # site em http://localhost:8765 (com o «Modo de edição» do dono)
 python scripts/recolher_blogger.py         # recolher blogues aprovados (feed oficial do Blogger)
 python scripts/indexar.py                  # reconstruir índice de pesquisa + media (--paginas: só páginas novas)
-python scripts/rtp_arquivos.py sitemap|procurar|recolher|pessoa   # fichas do RTP Arquivos
+python scripts/rtp_arquivos.py sitemap|procurar|recolher|pessoa|pesquisar   # fichas do RTP Arquivos
+python scripts/rtp_catalogar.py [--simular]  # fichas da RTP da Canção de Coimbra → dados/media/rtp-*.json
 python scripts/discogs.py procurar|artista|lancamento|master       # discografia pela API do Discogs
 python scripts/verificar_media.py          # marca vídeos YouTube/Blogger que já não tocam
 python scripts/pesquisar.py '"Nome"'       # pesquisar o arquivo

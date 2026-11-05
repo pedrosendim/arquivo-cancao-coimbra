@@ -16,20 +16,27 @@ export function ficha(id) {
 
 const urlSegura = (u) => /^(https?:\/\/|#\/)/.test(u);
 
+// endereço de uma ligação: sem espaços, com um nível de parênteses (as páginas da Wikipédia: «Coimbra_(cidade)»)
+const RE_LIGACAO = /\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g;
+
 function linha(s) {
-  // s já vem escapado: as marcas reconhecem-se sobre o texto escapado
-  return s
+  // s já vem escapado: as marcas reconhecem-se sobre o texto escapado. Os endereços guardam-se à parte enquanto se
+  // aplicam o negrito e o itálico, para um «*» dentro de um endereço não o partir.
+  const enderecos = [];
+  return s.replace(/\u0000/g, '')
     .replace(/\[\[([a-z0-9]+(?:-[a-z0-9]+)*)(?:\|([^\]]*))?\]\]/g, (_, id, texto) => {
       const f = ficha(id);
       return f ? `<a href="${f.rota}">${texto || esc(f.nome)}</a>` : `<span class="ligacao-partida" title="Ficha inexistente: ${id}">${texto || id}</span>`;
     })
-    .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, texto, url) => {
+    .replace(RE_LIGACAO, (m, texto, url) => {
       const u = url.replace(/&amp;/g, '&');
       if (!urlSegura(u)) return m;
-      return u.startsWith('#/') ? `<a href="${url}">${texto}</a>` : `<a href="${url}" target="_blank" rel="noopener">${texto}</a>`;
+      const href = `\u0000${enderecos.push(url) - 1}\u0000`;
+      return u.startsWith('#/') ? `<a href="${href}">${texto}</a>` : `<a href="${href}" target="_blank" rel="noopener">${texto}</a>`;
     })
     .replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>')
-    .replace(/(^|[^*])\*([^*\s][^*]*)\*/g, '$1<i>$2</i>');
+    .replace(/(^|[^*])\*([^*\s][^*]*)\*/g, '$1<i>$2</i>')
+    .replace(/\u0000(\d+)\u0000/g, (_, i) => enderecos[+i]);
 }
 
 /** Converte o texto em HTML (valor Raw, pronto para os modelos html``). */
@@ -52,7 +59,7 @@ export function textoRico(fonte) {
 /** Primeiras palavras do texto, sem marcas, para os resumos das listas. */
 export function resumoTexto(fonte, n = 220) {
   const t = String(fonte || '').replace(/!\[[^\]]*\]\([^)]*\)/g, '').replace(/\[\[[^|\]]+\|([^\]]*)\]\]/g, '$1')
-    .replace(/\[\[([^\]]+)\]\]/g, (_, id) => ficha(id)?.nome || id).replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/\[\[([^\]]+)\]\]/g, (_, id) => ficha(id)?.nome || id).replace(RE_LIGACAO, '$1')
     .replace(/[#*>]/g, '').replace(/\s+/g, ' ').trim();
   return t.length > n ? t.slice(0, n).replace(/\s\S*$/, '') + '…' : t;
 }

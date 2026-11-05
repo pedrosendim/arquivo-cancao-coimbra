@@ -1,9 +1,10 @@
 // Linhagens: cada família com a sua árvore (por ordem cronológica) e, à parte, as escolas de mestres e discípulos.
 // Posições calculadas pelo dagre; cartões em HTML e ligações em SVG.
 import { E, REL, PAPEIS, vida, nomeDe } from '../estado.js';
-import { $, $$, html, raw, norm, definirParams, miniatura, plural } from '../util.js';
+import { $, $$, html, raw, norm, definirParams, miniatura, plural, compararPt } from '../util.js';
 import { vazioCurado } from '../componentes.js';
 import { seletorPessoa } from '../seletor.js';
+import { marcas } from '../citacoes.js';
 
 const DAGRE = 'https://cdnjs.cloudflare.com/ajax/libs/dagre/0.8.5/dagre.min.js';
 let carregamento = null;
@@ -26,7 +27,8 @@ function ligacoes(tipos) {
     if (!tipos.includes(r.tipo) || !E.por.pessoas[r.alvo]) continue;
     const def = REL[r.tipo] || {};
     const [de, para] = def.topo === 'alvo' ? [r.alvo, p.id] : [p.id, r.alvo];
-    res.push({ id: `${p.id}|${r.tipo}|${r.alvo}`, de, para, tipo: r.tipo, grupo: def.grupo, hier: HIER.has(r.tipo), fontes: r.fontes, nota: r.nota });
+    res.push({ id: `${p.id}|${r.tipo}|${r.alvo}`, de, para, tipo: r.tipo, grupo: def.grupo, hier: HIER.has(r.tipo), fontes: r.fontes, nota: r.nota,
+      editorial: r.editorial, origem: p.id, alvo: r.alvo });
   }
   return res;
 }
@@ -61,6 +63,44 @@ function componentes(lig) {
     const fim = [...c.membros].map((id) => ano(id, 'morte') || anoRef(id)).filter(Boolean);
     return { ...c, desde: nasc.length ? Math.min(...nasc) : null, ate: fim.length ? Math.max(...fim) : null };
   }).sort((a, b) => (a.desde ?? 9999) - (b.desde ?? 9999) || b.membros.size - a.membros.size);
+}
+
+// famílias e escolas, calculadas uma vez por versão dos dados (o E.base muda depois de cada gravação)
+let calculadas = { base: null };
+function familiasEEscolas() {
+  if (calculadas.base !== E.base) calculadas = { base: E.base, familias: componentes(ligacoes(FAMILIA)), escolas: componentes(ligacoes(ESCOLA)) };
+  return calculadas;
+}
+
+/** Onde está uma pessoa nas Linhagens: a família e a escola, cada uma com { pessoas, ligacoes } (as ligações dessa
+ *  pessoa), ou null. Para a ficha só mostrar os botões que levam a algum lado. */
+export function naLinhagem(id) {
+  const { familias, escolas } = familiasEEscolas();
+  const em = (lista) => {
+    const c = lista.find((x) => x.membros.has(id));
+    return c ? { pessoas: c.membros.size, ligacoes: c.arestas.filter((l) => l.de === id || l.para === id).length } : null;
+  };
+  return { familia: em(familias), escola: em(escolas) };
+}
+
+/** Centra na horizontal a caixa de uma árvore no cartão de uma pessoa (sem mexer na posição da página). */
+export function centrarArvore(caixa, id) {
+  const no = caixa?.querySelector(`[data-id="${CSS.escape(id)}"]`);
+  if (no) caixa.scrollLeft = no.offsetLeft * (parseFloat(getComputedStyle(no.parentElement).zoom) || 1) - caixa.clientWidth / 2 + 80;
+}
+
+// ordem das ligações nas listas: pais, cônjuges, filhos, irmãos…; depois mestres e alunos
+const ORDEM_LIGACOES = ['filho_de', 'conjuge_de', 'irmao_de', 'neto_de', 'sobrinho_de', 'primo_de', 'aluno_de', 'influenciado_por'];
+
+/** As ligações de uma árvore, uma por linha, com o tipo e as marcas de citação: a árvore não leva às fontes, esta lista
+ *  leva. (As notas das relações ficam de fora até o fundador decidir que notas do agente se mostram.) */
+export function listaLigacoes(c, titulo = 'Ligações desta árvore e fontes') {
+  const pos = (l) => { const k = ORDEM_LIGACOES.indexOf(l.tipo); return k < 0 ? 99 : k; };
+  const ls = [...c.arestas].sort((a, b) => pos(a) - pos(b) || compararPt(nomeDe(a.origem), nomeDe(b.origem)));
+  return html`<details class="ligacoes-arvore"><summary>${titulo} (${ls.length})</summary><ul class="lista-simples">
+    ${ls.map((l) => html`<li><span><a href="#/pessoa/${l.origem}">${nomeDe(l.origem)}</a> <span class="mudo">${REL[l.tipo]?.dir || l.tipo}</span>
+      <a href="#/pessoa/${l.alvo}">${nomeDe(l.alvo)}</a>${marcas(l.fontes)}${l.editorial
+        ? html` <span class="marca-editorial" title="Indicada por um contribuidor, sem fonte">✎</span>` : ''}</span></li>`)}</ul></details>`;
 }
 
 function nomeFamilia(c) {
@@ -213,8 +253,9 @@ export function desenharArvore(dagre, comp, foco = '') {
   // filhos: barramento a partir do ponto do casal (ou do cartão do único pai/mãe registado)
   const caminhos = [];
   const barramentos = {};
-  const juntar = (chave, ox, oy, grupo, filho, extra = '') => {
-    (barramentos[`${chave}|${grupo}|${pos[filho].y}`] ||= { ox, oy, grupo, extra, filhos: [] }).filhos.push(filho);
+  // um barramento por origem, tipo de linha e geração: «influenciou» (tracejado) nunca partilha o traço de «ensinou»
+  const juntar = (chave, ox, oy, grupo, filho, extra = '', tipo = '') => {
+    (barramentos[`${chave}|${grupo}|${extra}|${pos[filho].y}`] ||= { ox, oy, grupo, extra, tipo, origem: chave, filhos: [] }).filhos.push(filho);
   };
   const tratados = new Set();
   for (const [filho, pais] of Object.entries(paisDe)) {
@@ -228,7 +269,7 @@ export function desenharArvore(dagre, comp, foco = '') {
   const DESCENDENCIA = new Set(['filho_de', 'aluno_de', 'influenciado_por']);
   for (const l of arestas.filter((x) => DESCENDENCIA.has(x.tipo))) {
     if (tratados.has(`${l.para}|${l.de}`)) continue;
-    juntar(l.de, pos[l.de].x, pos[l.de].y + H / 2, l.grupo, l.para);
+    juntar(l.de, pos[l.de].x, pos[l.de].y + H / 2, l.grupo, l.para, l.tipo === 'influenciado_por' ? 'influencia' : '', l.tipo);
   }
   for (const v of virtuais) for (const f of v.filhos) juntar(v.k, pos[v.k].x, pos[v.k].y + V / 2, 'familia', f, 'tracejada');
 
@@ -255,7 +296,9 @@ export function desenharArvore(dagre, comp, foco = '') {
     const ym = topo - 28 - (nivel % 3) * 10 + (b.grupo === 'ensino' ? -8 : 0);
     let d = `M${b.ox} ${b.oy}V${ym}M${Math.min(...xs)} ${ym}H${Math.max(...xs)}`;
     for (const f of b.filhos) d += `M${pos[f].x} ${ym}V${pos[f].y - H / 2}`;
-    caminhos.push(html`<path class="lig ${b.grupo} ${b.extra}" d="${d}"/>`);
+    caminhos.push(b.grupo === 'ensino' && E.por.pessoas[b.origem]
+      ? html`<path class="lig ${b.grupo} ${b.extra}" d="${d}"><title>${nomeDe(b.origem)} · ${REL[b.tipo]?.inv || ''} ${b.filhos.map(nomeDe).join(', ')}</title></path>`
+      : html`<path class="lig ${b.grupo} ${b.extra}" d="${d}"/>`);
     if (b.irmaos) {
       let t = '';
       for (const s of b.irmaos) {
@@ -321,6 +364,13 @@ export const legendaArvore = () => html`<div class="legenda-arvore">
   <span>Cor do retrato: <i class="pt ouro"></i> guitarra <i class="pt azul"></i> viola <i class="pt vinho"></i> canto <i class="pt cinza"></i> outros e familiares</span>
 </div>`;
 
+/** Legenda das escolas: ensinar e influenciar são relações diferentes nas fontes, e desenham-se de maneira diferente. */
+export const legendaEscola = () => html`<div class="legenda-arvore">
+  <span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-ens"/></svg> mestre → aluno/a («aluno/a de»)</span>
+  <span><svg viewBox="0 0 30 12"><path d="M15 0V12M0 12H30" class="l-ens l-trac"/></svg> influenciou («influenciado/a por»: não quer dizer que ensinou)</span>
+  <span>Cor do retrato: <i class="pt ouro"></i> guitarra <i class="pt azul"></i> viola <i class="pt vinho"></i> canto <i class="pt cinza"></i> outros</span>
+</div>`;
+
 /** Árvore da família de uma pessoa (para a ficha), ou '' se não tiver família registada. */
 export async function arvoreFamiliaDe(id) {
   const comp = componentes(ligacoes(FAMILIA)).find((c) => c.membros.has(id));
@@ -348,8 +398,10 @@ export async function linhagens(el, params) {
   lista.forEach((c, i) => { const g = grupo(c); if (grupos.at(-1)?.[0] !== g) grupos.push([g, []]); grupos.at(-1)[1].push(i); });
 
   const foco = params.pessoa || '';
+  // pediram uma pessoa que não está em nenhuma família (ou escola): diz-se isso, em vez de abrir a primeira da lista
+  const focoFora = !!foco && !!E.por.pessoas[foco] && !lista.some((c) => c.membros.has(foco));
   let atual = foco ? lista.findIndex((c) => c.membros.has(foco)) : lista.findIndex((c) => chave(c) === params.familia);
-  if (atual < 0) atual = 0;
+  if (atual < 0) atual = focoFora ? -1 : 0;
   const [anterior, seguinte] = sep === 'familias' ? ['Família anterior', 'Família seguinte'] : ['Escola anterior', 'Escola seguinte'];
 
   el.innerHTML = html`<div class="conteudo">
@@ -365,18 +417,24 @@ export async function linhagens(el, params) {
     <div class="barra-filtros">
       <div class="escolher-linhagem">
         <button class="botao" type="button" id="anterior" title="${anterior} (mais antiga)" aria-label="${anterior}">‹</button>
-        <select class="campo" id="escolher" aria-label="Escolher">${grupos.map(([g, is]) => html`<optgroup label="${g}">
+        <select class="campo" id="escolher" aria-label="Escolher">${focoFora ? html`<option value="" selected disabled hidden>${sep === 'familias' ? 'Escolher uma família' : 'Escolher uma escola'}</option>` : ''}${grupos.map(([g, is]) => html`<optgroup label="${g}">
           ${is.map((i) => html`<option value="${i}">${titulo(lista[i])} · ${anos(lista[i])} · ${plural(lista[i].membros.size, 'pessoa', 'pessoas')}</option>`)}</optgroup>`)}</select>
         <button class="botao" type="button" id="seguinte" title="${seguinte} (mais recente)" aria-label="${seguinte}">›</button>
       </div>
       ${seletorPessoa({ criar: false, apenas: pessoas, placeholder: 'Encontrar uma pessoa nas árvores…' })}
     </div>
-    ${sep === 'familias' ? legendaArvore() : ''}
-    <section class="familia" id="linhagem"><h2></h2><div class="arvore-caixa"><p class="carregando">A desenhar</p></div></section>`
+    ${sep === 'familias' ? legendaArvore() : legendaEscola()}
+    <section class="familia" id="linhagem"><h2></h2><div class="arvore-caixa"><p class="carregando">A desenhar</p></div><div class="ligacoes-lista"></div></section>`
     : vazioCurado(sep === 'familias' ? 'famílias' : 'escolas')}
   </div>`.s;
 
-  $$('[data-ver]', el).forEach((b) => b.onclick = () => { location.hash = `#/linhagens${b.dataset.ver === 'escolas' ? '?ver=escolas' : ''}`; });
+  // trocar de separador mantém a pessoa em foco, se ela também estiver na outra lista
+  $$('[data-ver]', el).forEach((b) => b.onclick = () => {
+    const quem = new URLSearchParams(location.hash.split('?')[1] || '').get('pessoa') || '';
+    const manter = quem && (b.dataset.ver === 'escolas' ? escolas : familias).some((c) => c.membros.has(quem));
+    const qs = new URLSearchParams({ ...(b.dataset.ver === 'escolas' ? { ver: 'escolas' } : {}), ...(manter ? { pessoa: quem } : {}) }).toString();
+    location.hash = `#/linhagens${qs ? '?' + qs : ''}`;
+  });
   if (!lista.length) return;
 
   let dagre;
@@ -384,6 +442,7 @@ export async function linhagens(el, params) {
     $('.arvore-caixa', el).innerHTML = '<p class="mudo">Não foi possível carregar a biblioteca de árvores (sem internet?).</p>';
     return;
   }
+  if (!el.isConnected) return; // entretanto mudou-se de página (não mexer no endereço da página nova)
 
   /** Mostra uma família (ou escola) de cada vez; com uma pessoa em foco, centra a árvore nela. */
   const mostrar = (i, id = '') => {
@@ -394,11 +453,14 @@ export async function linhagens(el, params) {
     $('#seguinte', el).disabled = atual === lista.length - 1;
     s.querySelector('h2').innerHTML = html`${titulo(c)} <small>${anos(c)} · ${plural(c.membros.size, 'pessoa', 'pessoas')} · ${atual + 1} de ${lista.length}</small>`.s;
     const caixa = s.querySelector('.arvore-caixa');
+    $('.aviso-linhagem', s)?.remove();
+    caixa.hidden = false;
     caixa.innerHTML = desenharArvore(dagre, c, id).s;
+    $('.ligacoes-lista', s).innerHTML = listaLigacoes(c).s;
     definirParams({ ver: sep === 'escolas' ? 'escolas' : '', familia: id ? '' : chave(c), pessoa: id });
     const no = id && caixa.querySelector(`[data-id="${CSS.escape(id)}"]`);
     if (no) {
-      s.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      no.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' }); // o cartão da pessoa à vista, também no telemóvel
       caixa.scrollLeft = no.offsetLeft * (parseFloat(getComputedStyle(no.parentElement).zoom) || 1) - caixa.clientWidth / 2 + 80;
     }
   };
@@ -409,5 +471,13 @@ export async function linhagens(el, params) {
     const { id } = e.detail;
     if (id) mostrar(lista.findIndex((c) => c.membros.has(id)), id);
   });
-  mostrar(atual, foco);
+  if (!focoFora) { mostrar(atual, foco); return; }
+  // a pessoa pedida não está em nenhuma árvore deste separador: só o que o arquivo tem, e o caminho de volta
+  const s = $('#linhagem', el), nome = nomeDe(foco);
+  const naOutra = (sep === 'familias' ? escolas : familias).some((c) => c.membros.has(foco));
+  $('#anterior', el).disabled = true;
+  s.querySelector('h2').textContent = nome;
+  s.querySelector('.arvore-caixa').outerHTML = html`<div class="vazio aviso-linhagem"><p>${nome} ainda não tem ${sep === 'familias' ? 'família registada' : 'mestres nem alunos registados'} no arquivo.</p>
+    <p><a href="#/pessoa/${foco}">Voltar à ficha de ${nome}</a>${naOutra ? html` · <a href="#/linhagens?${sep === 'familias' ? 'ver=escolas&' : ''}pessoa=${foco}">${sep === 'familias' ? 'Ver os mestres e alunos' : 'Ver a família'}</a>` : ''}</p></div>
+    <div class="arvore-caixa" hidden></div>`.s;
 }

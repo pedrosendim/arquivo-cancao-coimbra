@@ -10,7 +10,9 @@ Uso:
     python scripts/rtp_arquivos.py recolher --termos "coimbra fado" "serenata coimbra"
     python scripts/rtp_arquivos.py recolher https://arquivos.rtp.pt/conteudos/xyz/
     python scripts/rtp_arquivos.py pessoa carlos-paredes         # todos os conteúdos ligados a uma personalidade
-Depois: python scripts/indexar.py
+    python scripts/rtp_arquivos.py pesquisar '"canção de coimbra"' serenata   # pela pesquisa do site (procura nas descrições)
+    python scripts/rtp_arquivos.py pesquisar --temas --pessoas-do-arquivo     # os temas da Canção de Coimbra e cada músico do arquivo
+Depois: python scripts/indexar.py --paginas e python scripts/rtp_catalogar.py
 """
 import argparse
 import hashlib
@@ -20,16 +22,30 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
-from comum import ARQUIVO, slug
+from comum import ARQUIVO, DADOS, ler_json, slug
 from recolher_blogger import AGENTE
 
 BASE = "https://arquivos.rtp.pt"
 PASTA = ARQUIVO / "web" / "rtp-arquivos"
 CACHE = ARQUIVO / "rtp-sitemap.json"
+PESQUISAS = ARQUIVO / "rtp-pesquisas.json"  # o que cada pesquisa devolveu (para não repetir pedidos)
+FORA = ARQUIVO / "rtp-fora-do-tema.json"  # páginas já lidas e postas de parte pelo filtro
 PAUSA = 1.2
+# pesquisas dos temas da Canção de Coimbra (a pesquisa do site exige todas as palavras; aspas = expressão)
+TEMAS = ['"canção de coimbra"', '"canções de coimbra"', '"fado de coimbra"', '"fados de coimbra"', '"guitarra de coimbra"',
+         '"guitarra portuguesa" coimbra', 'guitarrada coimbra', 'serenata coimbra', '"serenata monumental"',
+         '"balada de coimbra"', 'baladas coimbra', 'baladeiros', 'tricana', '"orfeon académico"', 'orfeon coimbra',
+         '"tuna académica"', 'estudantina coimbra', '"quinteto de coimbra"', '"antigos orfeonistas"',
+         '"grupo de fados"', '"fado académico"', '"queima das fitas" fado', '"capa e batina"',
+         '"antigos estudantes de coimbra"', '"fado estudantil"', 'fado coimbra entrevista', 'guitarra coimbra entrevista']
+# filtro por omissão do comando «pesquisar»: só se guardam fichas que falem de música
+MUSICA = (r"fado|guitarr|serenat|balad|tricana|orfeon|tuna|estudantin|cant[oa]r|cantad|cantig|canç|músic|music|"
+          r"poet|poesia|disco|concerto|recital|espect[aá]culo|espet[aá]culo|viola")
+PAPEIS_MUSICA = {"cantor", "guitarrista", "violista", "compositor", "agrupamento", "letrista", "poeta", "luthier"}
 CAMPOS = ["Nome do Programa", "Nome da série", "Locais", "Personalidades", "Temas", "Canal", "Tipo de conteúdo",
           "Cor", "Som", "Relação do aspeto", "Resumo Analítico"]
 
@@ -107,16 +123,25 @@ def ficha(url, pagina):
     return reg
 
 
+def lista_json(caminho):
+    return json.loads(caminho.read_text(encoding="utf-8")) if caminho.exists() else {}
+
+
 def arquivar(url, filtro=None):
     url = url.split("?")[0]
     destino = PASTA / (hashlib.sha1(url.encode()).hexdigest()[:16] + ".json")
     if destino.exists():
         return "já"
+    fora = lista_json(FORA)
+    if filtro and fora.get(url) == filtro:
+        return "já"  # lida antes e posta de parte com este mesmo filtro
     pagina = obter(url)
     if not pagina:
         return "falhou"
     f = ficha(url, pagina)
     if filtro and not re.search(filtro, " ".join([f["titulo"], f["descricao"], *f["campos"].values()]), re.I):
+        fora[url] = filtro
+        FORA.write_text(json.dumps(fora, ensure_ascii=False), encoding="utf-8")
         return "fora do tema"
     texto = "\n".join([f"Título: {f['titulo']}", f"Data: {f['data']}", f"Duração: {f['duracao']}",
                        f"Descrição: {f['descricao']}"] + [f"{k}: {v}" for k, v in f["campos"].items()])
@@ -153,6 +178,62 @@ def cmd_recolher(a):
             time.sleep(PAUSA)
 
 
+def conteudos_de(pagina):
+    return sorted(set(re.findall(r'href="(https://arquivos\.rtp\.pt/conteudos/[^"#?]+)"', pagina or "")))
+
+
+def pesquisa(termo, max_paginas):
+    """Conteúdos que a pesquisa do site devolve para `termo` (até `max_paginas` de 12) e o total de páginas."""
+    urls, n, total = [], 1, 1
+    while n <= min(total, max_paginas):
+        pagina = obter(f"{BASE}/{f'page/{n}/' if n > 1 else ''}?s={urllib.parse.quote_plus(termo)}")
+        if n == 1:
+            m = re.search(r"Página\s+\d+\s+de\s+(\d+)", pagina or "")
+            total = int(m.group(1)) if m else 1
+        urls += [u for u in conteudos_de(pagina) if u not in urls]
+        n += 1
+        time.sleep(PAUSA)
+    return urls, total
+
+
+def nomes_do_arquivo():
+    """Nomes (com duas palavras ou mais) dos músicos, poetas, luthiers e grupos de dados/pessoas."""
+    nomes = []
+    for f in sorted((DADOS / "pessoas").glob("*.json")):
+        p = ler_json(f)
+        if not PAPEIS_MUSICA & set(p.get("papeis", [])):
+            continue
+        for n in [p.get("nome", "")] + [x if isinstance(x, str) else x.get("nome", "") for x in p.get("nomes_alternativos", [])]:
+            n = re.sub(r"\s*\(.*?\)", "", n or "").strip()
+            if len(n.split()) >= 2 and n not in nomes:
+                nomes.append(n)
+    return nomes
+
+
+def cmd_pesquisar(a):
+    feitas = lista_json(PESQUISAS)
+    termos = list(a.termos) + (TEMAS if a.temas else []) + [f'"{n}"' for n in (nomes_do_arquivo() if a.pessoas_do_arquivo else [])]
+    urls = []
+    termos = list(dict.fromkeys(termos))
+    for k, t in enumerate(termos, 1):
+        if t not in feitas or a.de_novo:
+            usado = t
+            achados, paginas = pesquisa(t, a.max_paginas)
+            if paginas > a.max_paginas and t.startswith('"') and t.endswith('"'):  # nome muito comum: só com Coimbra
+                usado = f"{t} coimbra"
+                achados, paginas = pesquisa(usado, a.max_paginas)
+            feitas[t] = {"pesquisa": usado, "urls": achados, "paginas": paginas,
+                         "em": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+            PESQUISAS.write_text(json.dumps(feitas, ensure_ascii=False, indent=0), encoding="utf-8")
+            print(f"  {k}/{len(termos)} {usado}: {len(achados)} conteúdos ({paginas} pág.)")
+        urls += [u for u in feitas[t]["urls"] if u not in urls]
+    if a.so_listar:
+        print(f"{len(urls)} conteúdos encontrados")
+        return
+    a.urls, a.termos, a.filtro = urls, None, a.filtro or MUSICA
+    cmd_recolher(a)
+
+
 def cmd_pessoa(a):
     c = cache()
     alvos = [u for u in c["pessoas"] if u.rstrip("/").rsplit("/", 1)[-1] == a.slug] or filtrar(c["pessoas"], a.slug)
@@ -162,7 +243,7 @@ def cmd_pessoa(a):
         urls, pagina, n = [], p, 1
         while pagina and n <= 30:
             h = obter(pagina)
-            novos = sorted(set(re.findall(r'href="(https://arquivos\.rtp\.pt/conteudos/[^"#?]+)"', h or "")))
+            novos = conteudos_de(h)
             if not novos or set(novos) <= set(urls):
                 break
             urls += [u for u in novos if u not in urls]
@@ -183,8 +264,16 @@ def main():
     r = sub.add_parser("recolher"); r.add_argument("urls", nargs="*"); r.add_argument("--termos", nargs="+")
     r.add_argument("--filtro", help="expressão regular: só guarda fichas cujo texto lhe corresponda")
     pe = sub.add_parser("pessoa"); pe.add_argument("slug")
+    ps = sub.add_parser("pesquisar"); ps.add_argument("termos", nargs="*")
+    ps.add_argument("--temas", action="store_true", help="as pesquisas dos temas da Canção de Coimbra (TEMAS)")
+    ps.add_argument("--pessoas-do-arquivo", action="store_true", help="o nome de cada músico, poeta, luthier e grupo")
+    ps.add_argument("--max-paginas", type=int, default=15, help="nomes com mais páginas pesquisam-se com «coimbra»")
+    ps.add_argument("--filtro", help="expressão regular (por omissão, só fichas que falem de música)")
+    ps.add_argument("--de-novo", action="store_true", help="repetir pesquisas já feitas")
+    ps.add_argument("--so-listar", action="store_true")
     a = ap.parse_args()
-    {"sitemap": cmd_sitemap, "procurar": cmd_procurar, "recolher": cmd_recolher, "pessoa": cmd_pessoa}[a.cmd](a)
+    {"sitemap": cmd_sitemap, "procurar": cmd_procurar, "recolher": cmd_recolher, "pessoa": cmd_pessoa,
+     "pesquisar": cmd_pesquisar}[a.cmd](a)
 
 
 if __name__ == "__main__":
