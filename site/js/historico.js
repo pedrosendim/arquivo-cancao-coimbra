@@ -5,6 +5,7 @@ import { E, REL, CAMPOS, PAPEIS, nomeDe, nomeContribuidor } from './estado.js';
 import { html, api, fmtData } from './util.js';
 import { ESPECIES } from './fichas.js';
 import { rotaFicha } from './revisao.js';
+import { podeAprovar } from './edicao.js';
 
 const online = () => E.sessao?.modo === 'online';
 const REPOSITORIO = () => E.sessao?.repositorio || 'pedrosendim/arquivo-cancao-coimbra';
@@ -173,7 +174,9 @@ export async function historico(el, tipo, id) {
   lista.innerHTML = html`${vs.map((v, i) => html`<li>
     <p class="meta">${v.sha === 'local' ? 'Por publicar (só nesta cópia)' : fmtData(v.data.slice(0, 10))} · ${v.autor}</p>
     <p>${v.mensagem}</p>
-    <details data-i="${i}"><summary>Ver o que mudou</summary><div class="carregando">A comparar</div></details></li>`)}`.s;
+    <details data-i="${i}"><summary>Ver o que mudou</summary><div class="carregando">A comparar</div></details>
+    ${i > 0 && v.sha !== 'local' && podeAprovar() ? html`<p class="repor"><button type="button" class="botao peq" data-acao="repor-versao" data-tipo="${tipo}" data-id="${id}"
+      data-sha="${v.sha}" data-quando="${fmtData(v.data.slice(0, 10))}">Repor esta versão</button></p>` : ''}</li>`)}`.s;
   lista.addEventListener('toggle', async (e) => {
     const d = e.target;
     if (!d.open || d.dataset.feito) return;

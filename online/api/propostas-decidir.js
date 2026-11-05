@@ -2,7 +2,7 @@
 // propôs vê o motivo na página Propostas).
 // Só se aprova o que a validação («validar», o validar.py no GitHub) já viu e deu como certo, e a versão que o editor
 // reviu: o browser manda a cabeça da proposta que mostrou («head»); se mudou entretanto, recusa-se.
-import { APROVAM, exigirContribuidor, ficheirosProibidos, gh, json, mesmaOrigem, propostaDoSite, repositorio, semMencoes,
+import { APROVAM, exigirContribuidor, ficheirosProibidos, gh, guardarRecentes, json, lerVersoes, mesmaOrigem, propostaDoSite, repositorio, semMencoes,
   validacaoDe, esquecerPropostas } from '../comum.js';
 
 export async function onRequestPost({ request, env }) {
@@ -30,6 +30,8 @@ export async function onRequestPost({ request, env }) {
       const minutos = (Date.now() - Date.parse(ultimo || pr.created_at)) / 60_000;
       return json({ erro: minutos > 5 ? `A validação não arrancou; veja no GitHub (${pr.html_url}/checks).` : 'A validação ainda não começou. Tente daqui a um minuto.' }, 409);
     }
+    // um segundo antes de entrar: o commit que o GitHub cria tem esta hora ou mais tarde (o site usa-a, ver estado.js)
+    const em = new Date(Math.floor(Date.now() / 1000) * 1000 - 1000).toISOString();
     try {
       await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, {
         // «rebase»: o commit entra com o nome de quem fez a proposta (o histórico de cada ficha mostra-o); «sha»: só
@@ -41,6 +43,12 @@ export async function onRequestPost({ request, env }) {
       return json({ erro: e.estado === 409 ? 'A proposta mudou entretanto: recarregue a página.'
         : 'Não foi possível aprovar: esta proposta e outra alteração mexeram na mesma ficha. Recuse-a explicando o que juntar, ou peça a quem a fez que a retire e a refaça.', detalhe: e.message }, 409);
     }
+    // todos veem já o que entrou, enquanto a Cloudflare constrói o site; se falhar, veem-no depois da construção
+    try {
+      const caminhos = (await gh(env, `/repos/${R}/pulls/${pr.number}/files?per_page=100`)).map((f) => f.filename);
+      const lidos = await lerVersoes(env, caminhos.map((caminho) => ({ ref: 'main', caminho })));
+      await guardarRecentes(env, caminhos.map((caminho, i) => ({ caminho, conteudo: lidos[i].conteudo })), em);
+    } catch { /* fica à espera da construção */ }
     // quem aprovou fica registado na própria proposta (só depois de ela entrar)
     await gh(env, `/repos/${R}/issues/${pr.number}/comments`, { method: 'POST', body: JSON.stringify({ body: `Aprovada por ${semMencoes(c.nome)}.` }) }).catch(() => null);
   } else if (decisao === 'recusar') {

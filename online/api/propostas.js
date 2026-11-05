@@ -57,7 +57,12 @@ export async function onRequestGet({ request, env }) {
   }
   const [reg, feitas] = await Promise.all([lerRegisto(env), decididas(env)]);
   const porGithub = Object.fromEntries((reg?.contribuidores || []).filter((x) => x.github).map((x) => [x.github.toLowerCase(), x]));
-  const autor = (l) => ({ github: l, nome: porGithub[l]?.nome || `@${l}`, id: porGithub[l]?.id || null });
+  const porId = Object.fromEntries((reg?.contribuidores || []).map((x) => [x.id, x]));
+  // o ramo diz de quem é a proposta: a conta do GitHub, ou «conta-<id>» com uma conta própria (api/contas.js)
+  const autor = (l) => {
+    const x = l.startsWith('conta-') ? porId[l.slice(6)] : porGithub[l];
+    return { github: l.startsWith('conta-') ? null : l, nome: x?.nome || `@${l}`, id: x?.id || null };
+  };
   const propostas = [...visiveis].reverse().map((p) => {
     const v = validacaoDe(p);
     return {

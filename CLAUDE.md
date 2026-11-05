@@ -25,7 +25,7 @@ dados/contribuidores.json  contribuidores convidados (dono = fundador | administ
 dados/blogue/<id>.json textos assinados do blogue (não são fonte)
 scripts/               recolha, índice, pesquisa, validação, construção, servidor (só biblioteca padrão do Python)
 site/                  site estático (HTML/CSS/JS sem build); site/dados/base.json é gerado
-online/, wrangler.jsonc  versão online (Cloudflare Worker + ficheiros estáticos): entrar com o GitHub, propostas (pull requests)
+online/, wrangler.jsonc  versão online (Cloudflare Worker + ficheiros estáticos + armazém Durable Object): entrar com conta própria ou com o GitHub, propostas (pull requests), repor versões, alterações imediatas
 .github/workflows/     validar.py em cada proposta e publicação
 dados/verificacao.json, dados/estado_media.json  gerados pelo construir.py local; a versão online (sem arquivo/) usa-os
 .claude/agents/investigador-coimbra.md   agente de investigação
@@ -53,7 +53,7 @@ python scripts/fontes.py listar|aprovar|rejeitar|propor
 
 - Repositório público `pedrosendim/arquivo-cancao-coimbra` (sem `arquivo/` nem `site/dados/base.json`); a Cloudflare constrói e publica a cada alteração no ramo `main`.
 - Antes de trabalhar nos dados: `git pull` (traz as propostas aprovadas online). Depois: `construir.py` (atualiza `dados/verificacao.json`) e, só quando o utilizador pedir, commit e push. O push publica.
-- No site online, os contribuidores entram com o GitHub; as alterações deles são propostas que um editor aprova (página Propostas).
+- No site online, os contribuidores entram com uma conta própria (link de acesso criado por um administrador, palavra-passe guardada só como resumo no armazém da Cloudflare) ou com o GitHub; as alterações deles são propostas que um editor aprova (página Propostas). Quem contribui nunca precisa do GitHub: é o site que lá grava, com a chave dele.
 
 ## Convenções de código
 

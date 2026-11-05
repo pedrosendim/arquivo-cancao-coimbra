@@ -3,7 +3,7 @@
 // o que merece um segundo olhar antes de aprovar. Quem a fez pode retirá-la enquanto espera; as decididas nos
 // últimos 30 dias ficam à vista, com o motivo de cada recusa.
 import { descrever, conteudo } from '../historico.js';
-import { E, nomeDe, nomeContribuidor } from '../estado.js';
+import { E, carregar, nomeDe, nomeContribuidor } from '../estado.js';
 import { $, html, raw, esc, api, fmtData, plural, enderecoSeguro } from '../util.js';
 import { sessao, podeAprovar } from '../edicao.js';
 
@@ -134,7 +134,7 @@ const MUITOS_FICHEIROS = 100; // /api/propostas pede ao GitHub 100 ficheiros por
 export async function propostas(el) {
   const cabecalho = html`<header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Propostas</h1>
     <p class="lead">O que os contribuidores alteraram no modo de edição, à espera de um editor. Depois de aprovada,
-      uma proposta entra no arquivo e o site atualiza-se em 1 a 2 minutos. As propostas ficam no repositório público do
+      uma proposta entra no arquivo e aparece logo no site. As propostas ficam no repositório público do
       arquivo, no GitHub: mesmo recusadas ou retiradas, continuam lá legíveis.</p></header>`;
   if (E.sessao?.modo !== 'online') {
     el.innerHTML = html`<div class="conteudo estreito">${cabecalho}<div class="vazio"><h3>Só na versão online</h3>
@@ -214,6 +214,7 @@ export async function propostas(el) {
       const head = r.propostas.find((p) => p.numero === +b.dataset.numero)?.head;
       const j = await pedir('/api/propostas/decidir', { numero: +b.dataset.numero, decisao, motivo, head });
       if (j.erro) { alert(`Não foi possível: ${j.erro}`); b.disabled = false; return; }
+      if (decisao === 'aprovar') await carregar(); // o que entrou vê-se já (/api/recentes, estado.js)
       propostas(el);
     };
   });

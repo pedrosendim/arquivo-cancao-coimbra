@@ -1491,3 +1491,12 @@ form.preenchido { outline: 2px solid var(--ouro); outline-offset: 3px; }
 }
 /* pesquisa no arquivo: um endereço comprido no excerto parte-se, em vez de alargar a página no telemóvel */
 .resultado .excerto, .resultado h3 { overflow-wrap: anywhere; }
+
+/* ===== Contas: entrar, escolher a palavra-passe, link de acesso ===== */
+.entrada { max-width: 460px; }
+.erro-conta { margin: 8px 0 0; color: var(--vinho); font-size: 14px; }
+.erro-conta:empty { display: none; }
+.ou-github { margin-top: 22px; }
+.estado-conta { margin: 12px 0 6px; font-size: 13px; }
+.historico .repor { margin: 8px 0 0; }
+.nav-grupo[hidden] { display: none; }

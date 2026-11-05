@@ -126,9 +126,10 @@ export function iniciarFiltros() {
   document.addEventListener('input', (e) => {
     if (e.target.matches('[data-filtro] .filtro-procurar')) filtrarOpcoes(e.target.closest('[data-filtro]'));
   });
-  // sair com o teclado (Tab) fecha a lista
+  // sair com o teclado (Tab) fecha a lista. Um clique no texto de uma opção passa o foco para a página à volta (main tem
+  // tabindex): isso não é sair, e fechar aqui faria perder o clique, porque só o quadrado responderia
   document.addEventListener('focusin', (e) => {
-    $$('[data-filtro].aberto').forEach((c) => { if (!c.contains(e.target)) fechar(c); });
+    $$('[data-filtro].aberto').forEach((c) => { if (!c.contains(e.target) && !e.target.contains(c)) fechar(c); });
   });
   document.addEventListener('keydown', (e) => {
     const caixa = e.target.closest('[data-filtro]');

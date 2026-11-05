@@ -21,7 +21,7 @@ const RE_FICHA = /^dados\/(pessoas|instrumentos|gravacoes|obras|media)\/[a-z0-9-
 
 const ehObjeto = (x) => x && typeof x === 'object' && !Array.isArray(x);
 /** JSON com as chaves por ordem: dois objetos iguais dão sempre o mesmo texto. */
-const estavel = (x) => (Array.isArray(x) ? `[${x.map(estavel).join(',')}]`
+export const estavel = (x) => (Array.isArray(x) ? `[${x.map(estavel).join(',')}]`
   : ehObjeto(x) ? `{${Object.keys(x).sort().map((k) => `${JSON.stringify(k)}:${estavel(x[k])}`).join(',')}}` : JSON.stringify(x));
 /** Uma assinatura, sem as assinaturas que tem dentro (essas conferem-se à parte) e, nas listas «juntou» e
  *  «distinta_de», sem a ficha a que se refere (ao juntar, «não confundir com B» passa a «não confundir com A»). */

@@ -256,8 +256,12 @@ O que um contribuidor sabe sem fonte entra **assinado** e marcado com ✎. Fica 
 ### Contribuidores (`dados/contribuidores.json`)
 
 ```json
-{ "contribuidores": [ { "id": "maria-silva", "nome": "Maria Silva", "github": "maria-silva", "papel": "editor", "desde": "2026-10-30", "apresentacao": "" } ] }
+{ "contribuidores": [ { "id": "maria-silva", "nome": "Maria Silva", "github": "", "papel": "editor", "desde": "2026-10-30", "apresentacao": "" } ] }
 ```
+
+Cada pessoa entra de uma de duas formas, à sua escolha:
+- com uma conta própria: o nome de utilizador é o `id`. Um administrador pede um «Link de acesso» em Contribuidores e envia-o à pessoa, que escolhe a palavra-passe. O link serve uma vez, vale 7 dias e anula o anterior. Quem esquecer a palavra-passe pede outro link. As contas ficam só no armazém da Cloudflare (`online/armazem.js`), nunca neste ficheiro: o repositório é público, e a palavra-passe nem chega ao servidor;
+- com o GitHub, se `github` estiver preenchido.
 
 Os papéis:
 - `dono`: o fundador (administrador). Há sempre um, e só ele muda os próprios dados e papel.

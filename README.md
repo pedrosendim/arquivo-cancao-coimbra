@@ -80,10 +80,11 @@ O site publica-se de graça na Cloudflare, a partir do repositório público no 
 nunca vai para lá: online não há a pesquisa nos blogues nem a leitura dos posts arquivados, e as citações levam ao post original.
 
 - **Visitantes:** leem tudo, sem conta.
-- **Contribuidores convidados:** carregam em **Entrar**, usam a conta do GitHub e ligam o **Modo de edição**.
+- **Contribuidores convidados:** um administrador regista a pessoa em **Contribuidores** e envia-lhe um link de acesso; com ele, a pessoa escolhe a palavra-passe. Quem preferir pode entrar com o GitHub. Depois, ligam o **Modo de edição**.
   O que alteram fica como proposta, que um editor aprova na página **Propostas**. O que os editores alteram fica publicado logo.
-- Em cada proposta, o GitHub corre o `validar.py`. A Cloudflare reconstrói o site depois de cada aprovação, em 1 a 2 minutos.
-- As palavras-passe só se escrevem no GitHub. As chaves do site ficam como segredos na Cloudflare e não estão no código.
+- Em cada proposta, o GitHub corre o `validar.py`. A Cloudflare reconstrói o site depois de cada aprovação, em poucos minutos; entretanto, o armazém (`online/armazem.js`) entrega as fichas novas a todos os visitantes, por isso uma alteração vê-se logo.
+- As palavras-passe nunca saem do browser: o site guarda só um resumo de uma chave derivada delas, no armazém da Cloudflare, fora do repositório. As chaves do site ficam como segredos na Cloudflare e não estão no código.
+- Voltar atrás: os editores repõem qualquer versão de uma ficha no **Histórico** e desfazem uma alteração inteira em **Alterações recentes**. Todas as versões ficam guardadas no GitHub.
 
 Configuração da Cloudflare (Workers & Pages › Worker `arquivo-cancao-coimbra`, ligado ao repositório; ver `wrangler.jsonc`):
 - Build command `python3 scripts/construir.py`, Deploy command `npx wrangler deploy`;

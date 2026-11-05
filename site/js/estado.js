@@ -91,9 +91,10 @@ const junta = (mapa, chave, valor) => { if (chave) (mapa[chave] ||= []).push(val
 
 /** Lê base.json e (re)constrói todos os índices; volta a correr depois de cada gravação do modo de edição. */
 // ------------------------------------------------------------------ alterações à espera de publicação
-// Online, o que um editor grava entra logo no repositório, mas o site publicado só muda quando a Cloudflare o volta
-// a construir (1 a 2 minutos). Entretanto, neste browser, as alterações aplicam-se por cima do base.json; saem
-// quando chega uma versão do site feita a partir de um commit igual ou posterior (versao_em, de construir.py).
+// Online, o que se publica entra logo no repositório, mas o site só muda quando a Cloudflare o volta a construir (1 a 5
+// minutos). Entretanto, para todos os visitantes, essas fichas aplicam-se por cima do base.json: vêm de /api/recentes
+// (online/armazem.js) e, para quem gravou, também deste browser. Saem quando chega uma versão do site feita a partir de
+// um commit igual ou posterior (versao_em, de construir.py).
 
 const PENDENTES = 'alteracoesPendentes';
 const VALIDADE = 20 * 60 * 1000; // nunca mais de 20 minutos, mesmo que a construção falhe
@@ -152,12 +153,21 @@ function aplicar(base, { caminho, conteudo }) {
   }
 }
 
-function aplicarPendentes(base) {
+/** As fichas publicadas há instantes. Se o armazém demorar ou falhar, o site abre na mesma, com o que está publicado. */
+async function pedirRecentes() {
+  const pedido = fetch('/api/recentes', { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  const espera = new Promise((resolver) => { setTimeout(resolver, 1500, null); });
+  return (await Promise.race([pedido, espera]))?.recentes || [];
+}
+
+function aplicarPendentes(base, recentes = []) {
   const versao = Date.parse(base.versao_em || base.gerado_em || 0) || 0;
-  const pendentes = ler(PENDENTES, []).filter((p) => Date.parse(p.em) > versao && Date.now() - Date.parse(p.em) < VALIDADE);
+  const validas = (p) => Date.parse(p.em) > versao && Date.now() - Date.parse(p.em) < VALIDADE;
+  const pendentes = ler(PENDENTES, []).filter(validas);
   guardar(PENDENTES, pendentes);
   E.base = base; // para as menções do blogue
-  for (const p of pendentes) aplicar(base, p);
+  // pela ordem em que entraram: a última alteração a uma ficha é a que fica
+  for (const p of [...recentes.filter(validas), ...pendentes].sort((a, b) => Date.parse(a.em) - Date.parse(b.em))) aplicar(base, p);
   // online, as propostas ainda abertas de quem contribui, só no browser dessa pessoa (minhas-propostas.js)
   for (const p of E.minhasPropostas || []) aplicar(base, p);
   return pendentes.length;
@@ -168,6 +178,7 @@ export async function carregar() {
   // só existe na cópia local (online, /api/estado responde sempre que não há)
   const local = ['localhost', '127.0.0.1'].includes(location.hostname);
   const pedidos = Promise.all([local ? api('estado').catch(() => null) : null, api('sessao').catch(() => null)]);
+  const recentes = local ? [] : pedirRecentes();
   // «no-cache»: o browser pergunta sempre se há versão nova e só descarrega o base.json quando mudou
   const pedir = () => fetch('dados/base.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   const antecipado = window.basePedida; // no arranque, o pedido já saiu do <head> (index.html); depois de gravar, pede-se outra vez
@@ -175,7 +186,7 @@ export async function carregar() {
   let base = await (antecipado || pedir());
   if (!base && antecipado) base = await pedir(); // o pedido antecipado falhou: mais uma tentativa
   base ||= { fontes: [], pessoas: [], instrumentos: [], gravacoes: [], obras: [], media: [] };
-  E.aPublicar = aplicarPendentes(base);
+  E.aPublicar = aplicarPendentes(base, await recentes);
   // ordem alfabética portuguesa (Álvaro junto de Alberto, e não depois de Zélia), seja qual for a do ficheiro
   for (const t of ['pessoas', 'instrumentos', 'gravacoes', 'obras']) base[t]?.sort((a, b) => compararPt(chaveOrdem(a), chaveOrdem(b)));
   E.base = base;

@@ -14,6 +14,10 @@
     "run_worker_first": ["/api/*", "/"]
   },
   "workers_dev": true,
+  // o armazém do site (online/armazem.js): contas próprias e alterações recentes. Durable Object com SQLite, o único
+  // disponível no plano gratuito; a Cloudflare cria-o sozinha ao publicar
+  "durable_objects": { "bindings": [{ "name": "ARMAZEM", "class_name": "Armazem" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Armazem"] }],
   // não apagar as variáveis postas no painel da Cloudflare quando se publica
   "keep_vars": true,
   "observability": { "enabled": true }

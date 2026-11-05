@@ -6,7 +6,7 @@ import { E, nomeContribuidor } from '../estado.js';
 import { $, html, api, fmtData, plural, ler, guardar } from '../util.js';
 import { descrever, conteudo } from '../historico.js';
 import { ESPECIES } from '../fichas.js';
-import { sessao } from '../edicao.js';
+import { sessao, podeAprovar } from '../edicao.js';
 
 const online = () => E.sessao?.modo === 'online';
 const REPOSITORIO = () => E.sessao?.repositorio || 'pedrosendim/arquivo-cancao-coimbra';
@@ -45,8 +45,12 @@ async function lerOnline() {
   return [...vistos.values()].sort((a, b) => (a.data < b.data ? 1 : -1)).slice(0, 50);
 }
 
+// a lista que esta página leu, para «Desfazer» (edicao.js) saber em que ficheiros mexeu cada alteração
+const LIDAS = new Map();
+export const alteracaoLida = (sha) => LIDAS.get(sha);
+
 /** Os ficheiros de dados de uma alteração (online, só quando se abre: um pedido ao GitHub). */
-async function ficheirosDe(a) {
+export async function ficheirosDe(a) {
   if (a.ficheiros) return a.ficheiros;
   const r = await fetch(`https://api.github.com/repos/${REPOSITORIO()}/commits/${a.sha}`);
   if (!r.ok) throw new Error(r.status === 403 ? 'o GitHub limita as consultas por hora; tente daqui a pouco' : `GitHub ${r.status}`);
@@ -88,6 +92,7 @@ export async function alteracoes(el, params = {}) {
     lista.innerHTML = html`<li class="mudo">Não foi possível ler as alterações: ${e.message}</li>`.s;
     return;
   }
+  for (const a of todas) LIDAS.set(a.sha, a);
   const vista = ler(VISTA, '');
   const recente = todas.find((a) => a.data)?.data;
   if (recente && recente > vista) guardar(VISTA, recente);
@@ -102,7 +107,9 @@ export async function alteracoes(el, params = {}) {
     <p>${a.mensagem}</p>
     ${detalhe(a.corpo) ? html`<p class="mudo">${detalhe(a.corpo)}</p>` : ''}
     ${a.ficheiros ? html`<p class="mudo">${plural(a.ficheiros.length, 'ficheiro', 'ficheiros')}</p>` : ''}
-    <details data-i="${todas.indexOf(a)}"><summary>Ver o que mudou</summary><div class="carregando">A comparar</div></details></li>`)}`.s;
+    <details data-i="${todas.indexOf(a)}"><summary>Ver o que mudou</summary><div class="carregando">A comparar</div></details>
+    ${a.sha !== 'local' && a.pai && podeAprovar() ? html`<p class="repor"><button type="button" class="botao peq" data-acao="desfazer-alteracao" data-sha="${a.sha}"
+      data-mensagem="${a.mensagem}">Desfazer esta alteração</button></p>` : ''}</li>`)}`.s;
   lista.addEventListener('toggle', async (e) => {
     const d = e.target;
     if (!d.open || d.dataset.feito) return;

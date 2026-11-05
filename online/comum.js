@@ -1,10 +1,14 @@
 // Utilitários da versão online (Worker da Cloudflare: online/worker.js e as rotas em online/api/).
-// A sessão é um cookie assinado com «quem é» (o utilizador do GitHub); o arquivo nunca guarda palavras-passe
-// nem o token do contribuidor. As alterações vão para o repositório como propostas (pull requests), feitas com
-// o token do dono do arquivo, guardado como segredo na Cloudflare (GITHUB_TOKEN).
+// A sessão é um cookie assinado com «quem é»: o utilizador do GitHub ou uma conta própria do arquivo (api/contas.js).
+// Nunca se guarda uma palavra-passe nem o token do contribuidor. As alterações vão para o repositório como propostas
+// (pull requests), feitas com o token do dono do arquivo, guardado como segredo na Cloudflare (GITHUB_TOKEN).
 //
-// Variáveis na Cloudflare: GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET (aplicação OAuth do GitHub), GITHUB_TOKEN;
-// opcional REPOSITORIO (por omissão pedrosendim/arquivo-cancao-coimbra).
+// Variáveis na Cloudflare: GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET (aplicação OAuth do GitHub; o segundo assina também
+// as sessões das contas próprias), GITHUB_TOKEN; opcional REPOSITORIO (por omissão pedrosendim/arquivo-cancao-coimbra).
+// O armazém (env.ARMAZEM, um Durable Object, ver wrangler.jsonc) guarda as contas e as alterações recentes.
+import { armazem } from './armazem.js';
+
+export { armazem };
 
 export const repositorio = (env) => env.REPOSITORIO || 'pedrosendim/arquivo-cancao-coimbra';
 // os mesmos ficheiros que o servidor local deixa editar (scripts/servidor.py)
@@ -35,7 +39,7 @@ export const mesmaOrigem = (pedido) => pedido.headers.get('Origin') === new URL(
 // ---------------------------------------------------------------- sessão assinada
 
 const cod = new TextEncoder();
-const b64url = (bytes) => btoa(String.fromCharCode(...new Uint8Array(bytes))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+export const b64url = (bytes) => btoa(String.fromCharCode(...new Uint8Array(bytes))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 const deB64url = (s) => Uint8Array.from(atob(s.replace(/-/g, '+').replace(/_/g, '/')), (c) => c.charCodeAt(0));
 const chave = (env) => crypto.subtle.importKey('raw', cod.encode(`sessao:${env.GITHUB_CLIENT_SECRET}`),
   { name: 'HMAC', hash: 'SHA-256' }, false, ['sign', 'verify']);
@@ -64,7 +68,7 @@ export const cookie = (pedido, nome) => {
   return null;
 };
 
-/** { login, id } de quem entrou, ou null. */
+/** Quem entrou, ou null: { login, id } com o GitHub; { conta, login: «conta-<id>», v } com uma conta própria. */
 export const sessao = (pedido, env) => verificar(env, cookie(pedido, 'sessao'));
 
 // ---------------------------------------------------------------- GitHub
@@ -184,11 +188,17 @@ export async function lerRegisto(env) {
   return REGISTO.dados;
 }
 
-/** Contribuidor registado com a conta do GitHub desta sessão ({ login, id }) e com acesso, ou null. Se o registo
- *  guarda o número da conta (github_id), compara-se por ele: o nome de utilizador muda-se, e o antigo fica livre para
- *  outra pessoa o registar. Sem número, compara-se pelo nome, como antes. */
+/** Contribuidor registado desta sessão e com acesso, ou null. Com uma conta própria, conta o id e a versão da conta:
+ *  mudar a palavra-passe termina as outras sessões. Com o GitHub, se o registo guarda o número da conta (github_id),
+ *  compara-se por ele: o nome de utilizador muda-se, e o antigo fica livre para outra pessoa o registar. Sem número,
+ *  compara-se pelo nome, como antes. */
 export async function contribuidorDe(env, s) {
   const reg = await lerRegisto(env);
+  if (s?.conta) {
+    const c = (reg?.contribuidores || []).find((x) => x.id === s.conta && x.papel !== 'antigo');
+    if (!c || !env.ARMAZEM) return null;
+    return (await armazem(env, 'versao', { id: c.id })).versao === s.v ? c : null;
+  }
   const login = String(s?.login || '').toLowerCase();
   return (reg?.contribuidores || []).find((c) => c.github && c.papel !== 'antigo'
     && (c.github_id ? Number(c.github_id) === Number(s?.id) : c.github.toLowerCase() === login)) || null;
@@ -197,10 +207,25 @@ export async function contribuidorDe(env, s) {
 /** Contribuidor da sessão, ou uma resposta de erro pronta a devolver. */
 export async function exigirContribuidor(pedido, env) {
   const s = await sessao(pedido, env);
-  if (!s) return { erro: json({ erro: 'Precisa de entrar com a sua conta do GitHub.' }, 401) };
+  if (!s) return { erro: json({ erro: 'Precisa de entrar com a sua conta.' }, 401) };
   const c = await contribuidorDe(env, s);
+  if (!c && s.conta) return { erro: json({ erro: 'A sua sessão terminou. Volte a entrar.' }, 401) };
   if (!c) return { erro: json({ erro: `A conta @${s.login} não foi convidada para contribuir; fale com o fundador do arquivo.` }, 403) };
   return { s, c };
+}
+
+/** Quem assina um commit: com uma conta própria, o endereço é um que não existe (.invalid): nunca aponta para ninguém
+ *  no GitHub, e o histórico mostra o nome. */
+export const autorDoCommit = (s, c) => ({ name: c.nome, email: s.conta ? `${c.id}@contribuidores.invalid` : `${s.id}+${s.login}@users.noreply.github.com` });
+/** A referência à conta no texto de uma proposta (com uma conta própria não há nada no GitHub para onde apontar). */
+export const referenciaGithub = (s) => (s.conta ? '' : ` (@${s.login})`);
+
+const MAX_RECENTES = 40;
+/** Guarda as fichas acabadas de publicar, para o site as mostrar logo a todos (armazem.js). Nunca impede uma gravação:
+ *  se falhar, ou numa alteração muito grande, os visitantes veem-na quando a Cloudflare acabar de construir o site. */
+export async function guardarRecentes(env, itens, em) {
+  if (!env.ARMAZEM || !itens.length || itens.length > MAX_RECENTES) return;
+  try { await armazem(env, 'guardarRecentes', { itens, em }); } catch { /* fica à espera da construção */ }
 }
 
 // ---------------------------------------------------------------- propostas

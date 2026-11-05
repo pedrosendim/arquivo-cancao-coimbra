@@ -25,9 +25,10 @@ import { separar } from './desambiguar.js';
 import { porValidar } from './vistas/validar.js';
 import { historico } from './historico.js';
 import { alteracoes } from './vistas/alteracoes.js';
+import { entrar, acesso } from './vistas/conta.js';
 
 const ROTAS = [
-  [/^alteracoes$/, alteracoes],
+  [/^alteracoes$/, alteracoes], [/^entrar$/, entrar], [/^acesso\/([^/]+)$/, acesso],
   [/^procurar$/, procurar],
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
   [/^cronologia$/, cronologia], [/^discografia$/, discografia], [/^gravacao\/([^/]+)$/, gravacao],

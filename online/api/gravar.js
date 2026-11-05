@@ -5,10 +5,11 @@
 // ramo «proposta/<conta>/<ficha>» por pessoa e por ficha): assim não ficam em conflito umas com as outras, e o editor
 // aprova-as de uma vez. Antes de gravar confere-se (regras.js e citacoes.js): endereços, assinaturas e papéis; que
 // nenhum ficheiro mudou desde que foi lido (versao_base); e, nas frases novas citadas de posts dos blogues, que estão
-// mesmo no post.
-import { ADMINS, APROVAM, RE_EDITAVEL, esquecerPropostas, esquecerRegisto, exigirContribuidor, gh, json, lerVersoes, mesmaOrigem,
-  propostasAbertas, repositorio, semMencoes, textoJson } from '../comum.js';
-import { conferir, conferirApagar } from '../regras.js';
+// mesmo no post. Com «origem» (repor uma versão antiga ou desfazer uma alteração, só editores), cada ficheiro volta a ser
+// exatamente o que era nesse commit do main: confere-se que é mesmo igual, e o resto das regras já valeu quando entrou.
+import { ADMINS, APROVAM, RE_EDITAVEL, autorDoCommit, esquecerPropostas, esquecerRegisto, exigirContribuidor, gh, guardarRecentes, json, lerVersoes,
+  mesmaOrigem, propostasAbertas, referenciaGithub, repositorio, semMencoes, textoJson } from '../comum.js';
+import { conferir, conferirApagar, estavel } from '../regras.js';
 import { citacoesNovasDeBlogues, conferirNosPosts } from '../citacoes.js';
 
 const MUDOU = 'Outra pessoa alterou esta ficha enquanto a editava. Recarregue a página para ver a versão nova e volte a fazer a alteração.';
@@ -23,7 +24,7 @@ function ramoNovo(login, caminho) {
 
 /** O texto da proposta: quem a fez, a lista numerada das alterações e a dos ficheiros. */
 function corpoDaProposta(c, s, itens, ficheiros) {
-  return `Proposta de **${semMencoes(c.nome)}** (@${s.login}), feita no modo de edição do site.\n\n**Alterações**\n`
+  return `Proposta de **${semMencoes(c.nome)}**${referenciaGithub(s)}, feita no modo de edição do site.\n\n**Alterações**\n`
     + itens.map((t, i) => `${i + 1}. ${t}`).join('\n')
     + `\n\n**Ficheiros**\n${ficheiros.map(([cam, apaga]) => `- ${apaga ? 'apaga' : 'altera'} \`${cam}\``).join('\n')}`;
 }
@@ -61,6 +62,7 @@ export async function onRequestPost({ request, env }) {
     if (a.conteudo !== null && (typeof a.conteudo !== 'object' || Array.isArray(a.conteudo))) return json({ erro: 'Conteúdo inválido.' }, 400);
   }
   const R = repositorio(env), login = s.login.toLowerCase(), editor = APROVAM.includes(c.papel);
+  if (pedido.origem && !editor) return json({ erro: 'Só um editor pode repor versões antigas ou desfazer alterações.' }, 403);
   const resumo = String(pedido.resumo || 'Alteração no modo de edição').replace(/\s+/g, ' ').trim().slice(0, 120);
   const motivo = String(pedido.motivo || '').trim().slice(0, 500);
   const caminhos = alteracoes.map((a) => a.caminho);
@@ -96,6 +98,18 @@ export async function onRequestPost({ request, env }) {
     return json({ erro: a.versao_base === null ? JA_CRIADA : MUDOU, ficheiros: [a.caminho] }, 409);
   }
 
+  // repor ou desfazer: cada ficheiro tem de ser igual ao que era num commit que já entrou no main
+  const origem = pedido.origem ? String(pedido.origem) : null;
+  if (origem) {
+    if (!/^[0-9a-f]{40}$/.test(origem)) return json({ erro: 'Versão desconhecida.' }, 400);
+    const { status } = await gh(env, `/repos/${R}/compare/${origem}...main?per_page=1`).catch((e) => { if (e.publico) throw e; return {}; });
+    if (!['ahead', 'identical'].includes(status)) return json({ erro: 'Essa versão não faz parte do histórico do arquivo.' }, 400);
+    const antigos = await lerVersoes(env, caminhos.map((caminho) => ({ ref: origem, caminho })));
+    if (alteracoes.some((a, i) => estavel(a.conteudo) !== estavel(antigos[i].conteudo))) {
+      return json({ erro: 'O que foi enviado não é igual a essa versão antiga. Recarregue a página e tente outra vez.' }, 400);
+    }
+  }
+
   // 4. quem pode fazer o quê, e cada um assina por si
   const registo = alteracoes.find((a) => a.caminho === 'dados/contribuidores.json');
   if (registo) {
@@ -105,11 +119,11 @@ export async function onRequestPost({ request, env }) {
       if (fundador(doMain.get(registo.caminho)?.conteudo) !== fundador(registo.conteudo)) return json({ erro: 'Os dados do fundador do arquivo só ele os pode mudar.' }, 403);
     }
   }
-  const recusa = conferir({ alteracoes, anteriores, anterior, c, editor }) || conferirApagar({ alteracoes, anterior, c, editor });
+  const recusa = origem ? null : conferir({ alteracoes, anteriores, anterior, c, editor }) || conferirApagar({ alteracoes, anterior, c, editor });
   if (recusa) return json({ erro: recusa.erro }, recusa.estado);
 
   // 5. as frases novas citadas de posts dos blogues estão mesmo no post? (se o post não abrir, ficam por confirmar)
-  const falta = await conferirNosPosts(citacoesNovasDeBlogues(alteracoes, anteriores));
+  const falta = origem ? null : await conferirNosPosts(citacoesNovasDeBlogues(alteracoes, anteriores));
   if (falta) return json({ erro: falta }, 400);
   if (registo?.conteudo) await juntarNumerosGithub(env, registo.conteudo, doMain.get(registo.caminho)?.conteudo, c);
 
@@ -127,8 +141,8 @@ export async function onRequestPost({ request, env }) {
     commit = await gh(env, `/repos/${R}/git/commits`, {
       method: 'POST',
       body: JSON.stringify({
-        message: `${resumo}\n\n${motivo ? `Motivo: ${motivo}\n\n` : ''}Proposta de ${c.nome} (@${s.login}) no modo de edição do site.`,
-        tree: arvore.sha, parents: [pai], author: { name: c.nome, email: `${s.id}+${s.login}@users.noreply.github.com` },
+        message: `${resumo}\n\n${motivo ? `Motivo: ${motivo}\n\n` : ''}Proposta de ${c.nome}${referenciaGithub(s)} no modo de edição do site.`,
+        tree: arvore.sha, parents: [pai], author: autorDoCommit(s, c),
       }),
     });
     if (alvo) { // só avança se ninguém mexeu no ramo entretanto (sem «force»)
@@ -180,6 +194,7 @@ export async function onRequestPost({ request, env }) {
     // «rebase»: o commit entra tal como foi feito, com o nome de quem o fez (o histórico de cada ficha mostra-o)
     await gh(env, `/repos/${R}/pulls/${pr.number}/merge`, { method: 'PUT', body: JSON.stringify({ merge_method: 'rebase', sha: commit.sha }) });
     await gh(env, `/repos/${R}/git/refs/heads/${ramo}`, { method: 'DELETE' }).catch(() => null);
+    await guardarRecentes(env, alteracoes.map(({ caminho, conteudo }) => ({ caminho, conteudo })), em); // todos a veem já
     return json({ ok: true, publicado: true, proposta: pr.html_url, numero: pr.number, em });
   } catch (e) { // por exemplo, outra alteração à mesma ficha entrou entretanto: fica como proposta, que o editor aprova lá
     return json({ ok: true, publicado: false, proposta: pr.html_url, numero: pr.number, aviso: e.message });

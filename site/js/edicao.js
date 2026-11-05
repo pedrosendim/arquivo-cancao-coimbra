@@ -852,7 +852,45 @@ const ACOES = {
       papel = 'dono';
     }
     Object.assign(c, { nome, github, papel, apresentacao: String(apresentacao || '').trim() });
-    return { alteracoes: [[caminho, reg]], resumo: `contribuidor ${c.nome}: ${papel}` };
+    // uma pessoa nova sem GitHub precisa logo do link de acesso (vistas/contribuidores.js abre-o)
+    return { alteracoes: [[caminho, reg]], resumo: `contribuidor ${c.nome}: ${papel}`, ...(!id && !github && E.sessao?.modo === 'online' ? { ir: `#/contribuidores?quem=${c.id}&link=1` } : {}) };
+  },
+
+  // ---- voltar atrás: cada ficheiro volta a ser exatamente o que era num commit do main (o servidor confere-o, «origem»)
+  /** Histórico de uma ficha: esta ficha volta a ser como estava nessa versão (o que entrou depois sai dela). */
+  async 'repor-versao'({ tipo, id, sha, quando }) {
+    exigir(podeAprovar(), 'Só os editores repõem versões antigas.');
+    const { conteudo } = await import('./historico.js');
+    const caminho = `dados/${tipo}/${id}.json`, esp = ESPECIES[tipo];
+    const [antiga, atual] = await Promise.all([conteudo(caminho, sha), lerDados(caminho)]);
+    exigir(antiga, 'Não foi possível ler essa versão. Tente daqui a pouco.');
+    exigir(JSON.stringify(antiga) !== JSON.stringify(atual), 'A ficha já está igual a essa versão.');
+    return { alteracoes: [[caminho, antiga]], origem: sha, resumo: `${atual[esp.titulo] || id}: reposta a versão de ${quando}`,
+      ir: esp.rota ? `#/${esp.rota}/${id}` : `#/historico/${tipo}/${id}` };
+  },
+
+  /** Alterações recentes: desfaz uma alteração inteira, em todas as fichas em que mexeu (uma junção, por exemplo). Se uma
+   *  dessas fichas mudou depois, não se desfaz: perdia-se o que entrou entretanto, e isso decide-o quem edita no Histórico. */
+  async 'desfazer-alteracao'({ sha, mensagem }) {
+    exigir(podeAprovar(), 'Só os editores desfazem alterações.');
+    const [{ conteudo }, { alteracaoLida, ficheirosDe }] = await Promise.all([import('./historico.js'), import('./vistas/alteracoes.js')]);
+    const a = alteracaoLida(sha);
+    exigir(a?.pai, 'Não foi possível ler esta alteração. Recarregue a página.');
+    const ficheiros = await ficheirosDe(a);
+    exigir(ficheiros.length, 'Esta alteração não mudou nenhuma ficha.');
+    exigir(ficheiros.length <= 80, 'Esta alteração mexeu em demasiadas fichas para se desfazer aqui. Peça ao fundador.');
+    const alteracoes = [], mudaram = [];
+    for (const f of ficheiros) {
+      const [antes, depois] = await Promise.all([f.estado === 'added' ? null : conteudo(f.caminho, a.pai), f.estado === 'removed' ? null : conteudo(f.caminho, sha)]);
+      exigir((f.estado === 'added' || antes) && (f.estado === 'removed' || depois), 'Não foi possível ler as versões desta alteração. Tente daqui a pouco.');
+      let atual = null;
+      try { atual = await lerDados(f.caminho); } catch (e) { if (!/inexistente/i.test(e.message)) throw e; }
+      if (JSON.stringify(atual) !== JSON.stringify(depois)) mudaram.push(nomeDoFicheiro(f.caminho, atual || depois || antes));
+      alteracoes.push([f.caminho, antes]);
+    }
+    exigir(!mudaram.length, `Não se pode desfazer tudo, porque ${mudaram.join('; ')} mudou depois e perdia-se o que entrou entretanto. `
+      + 'Abra o Histórico dessa ficha e escolha a versão a repor.');
+    return { alteracoes, origem: a.pai, resumo: `Desfeito: ${mensagem}`.slice(0, 118), ir: '#/alteracoes' };
   },
 
   // ---- catálogo de vídeos e áudios
@@ -912,7 +950,7 @@ async function gravar(alteracoes, resumo, extra = {}) {
 
 /** Ações que corrigem ou apagam o que já está registado: antes de gravar mostra-se o que vai mudar e pergunta-se o que se
  *  corrigiu e como se sabe (o motivo segue com a alteração). Nos factos e relações simples, nada disto. */
-const CORRIGEM = new Set(['juntar', 'separar', 'retirar-facto', 'retirar-relacao', 'retirar-referencia', 'apagar-ficha']);
+const CORRIGEM = new Set(['juntar', 'separar', 'retirar-facto', 'retirar-relacao', 'retirar-referencia', 'apagar-ficha', 'repor-versao', 'desfazer-alteracao']);
 const corrige = (nome, d) => CORRIGEM.has(nome) || (nome === 'guardar-ficha' && !!d.id);
 /** Online, o que um contribuidor grava fica como proposta, que depois já não pode emendar: vê antes o que vai mudar. */
 const proposta = () => E.sessao?.modo === 'online' && !podeAprovar();
@@ -928,7 +966,7 @@ export function perguntar({ titulo, corpo, sim = 'Gravar', nao = 'Voltar', class
     d.innerHTML = html`<form method="dialog"><h2 id="dialogo-titulo">${titulo}</h2>
       <div class="dialogo-corpo">${corpo}</div>
       <div class="acoes"><button class="botao primario" value="sim">${sim}</button>
-        <button class="botao" value="nao" formnovalidate>${nao}</button></div></form>`.s;
+        ${nao ? html`<button class="botao" value="nao" formnovalidate>${nao}</button>` : ''}</div></form>`.s;
     document.body.append(d);
     d.addEventListener('close', () => {
       const r = d.returnValue === 'sim' ? dadosFormulario(d.querySelector('form')) : null;
@@ -995,7 +1033,7 @@ export async function executar(nome, dados, { motivo = '' } = {}) {
     motivo = visto.motivo || motivo;
   }
   aviso('A gravar…');
-  const resposta = await gravar(alteracoes, resumo, motivo ? { motivo } : {});
+  const resposta = await gravar(alteracoes, resumo, { ...(motivo ? { motivo } : {}), ...(r.origem ? { origem: r.origem } : {}) });
   document.dispatchEvent(new CustomEvent('gravado', { detail: { acao: nome } })); // rascunhos.js: o rascunho já não faz falta
   return { ir, alteracoes, resposta };
 }
@@ -1348,14 +1386,18 @@ export function iniciarEdicao(redesenhar) {
     document.documentElement.classList.toggle('a-editar', editando());
     // online: entrar com o GitHub / sair; na cópia local quem usa o site é sempre o dono
     entrar.hidden = !online() || !E.sessao.entrada;
-    const dentro = online() && E.sessao.github;
-    entrar.querySelector('span').textContent = dentro ? `Sair (${sessao()?.nome || '@' + E.sessao.github})` : 'Entrar';
-    entrar.title = dentro ? 'Terminar a sessão neste browser' : 'Entrar com a conta do GitHub (para contribuidores convidados)';
+    const dentro = online() && (E.sessao.github || E.sessao.conta);
+    entrar.querySelector('span').textContent = dentro ? (sessao()?.nome || `@${E.sessao.github}`) : 'Entrar';
+    entrar.title = dentro ? 'A sua conta: sair ou mudar a palavra-passe' : 'Entrar (para contribuidores convidados)';
     navPropostas.hidden = !(online() && sessao());
+    $('#nav-reservada').hidden = !sessao(); // o menu da área reservada só aparece a quem entrou
     navValidar.hidden = !sessao(); // a lista de trabalho de quem edita
     $('#nav-alteracoes').hidden = !sessao(); // o que mudou nos dados (vistas/alteracoes.js)
   };
-  entrar.onclick = () => { entrar.href = E.sessao?.github ? '/api/sair' : `/api/entrar?volta=${encodeURIComponent(location.hash || '#/')}`; };
+  entrar.onclick = () => {
+    const dentro = E.sessao?.github || E.sessao?.conta;
+    entrar.href = dentro && !sessao() ? '/api/sair' : dentro || location.hash.startsWith('#/entrar') ? '#/entrar' : `#/entrar?volta=${encodeURIComponent(location.hash || '#/')}`;
+  };
   botao.onclick = () => { E.editando = !E.editando; guardar('editando', E.editando); desenhar(); redesenhar(); };
   desenhar();
   if (online() && sessao()) { // quantas propostas esperam (os editores veem todas; cada contribuidor, as suas, que vê já nas fichas)
@@ -1407,7 +1449,7 @@ export function iniciarEdicao(redesenhar) {
       if (online()) juntarPendentes(alteracoes, resposta.em || new Date().toISOString());
       await carregar();
       desenhar();
-      aviso(online() ? 'Gravado. Os outros visitantes veem a alteração dentro de 1 a 2 minutos.' : 'Gravado');
+      aviso('Gravado');
       if (ir && ir !== location.hash) location.hash = ir; else await redesenhar();
     } catch (e) {
       travar(el, false);
