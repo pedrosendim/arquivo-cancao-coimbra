@@ -62,7 +62,19 @@
       "nota": "Casamento na Igreja da Estrela, Lisboa, 28 de junho de 1924."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Rey%20Cola%C3%A7o%202.jpg?width=800",
+      "legenda": "Retrato de Alice Rey Colaço na revista Ilustração Portuguesa (1922)",
+      "fontes": [
+        {
+          "fonte": "wikimedia-commons",
+          "url": "https://commons.wikimedia.org/wiki/File%3AAlice_Rey_Cola%C3%A7o_2.jpg",
+          "citacao": "Imagem (P18) da entidade Wikidata Q94953471: Alice Rey Colaço"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

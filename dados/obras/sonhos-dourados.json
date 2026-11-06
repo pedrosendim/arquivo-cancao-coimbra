@@ -12,6 +12,16 @@
   ],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "primeira-quadra",
+      "rotulo": "Primeira quadra (parcial), Galáxia Sonora Coimbrã",
+      "citacao": "Falta-me a voz já não canto\nPois a cantar não me ajeito\nCantigas retalhos de alma\nQue fazem sangrar o peito.",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/01/sonhos-dourados-jose-das-neves-elyseu.html",
+      "doc": "galaxia-sonora-coimbra:6989232857622248633"
+    }
+  ],
   "factos": [
     {
       "campo": "gravacao",

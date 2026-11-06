@@ -3,6 +3,7 @@
 import { E, comArquivo } from '../estado.js';
 import { $, $$, html, plural, enderecoSeguro } from '../util.js';
 import { ADMINS, sessao } from '../edicao.js';
+import { barraReservada } from './reservada.js';
 
 const pedir = async (caminho, corpo) => {
   const r = await fetch(caminho, corpo ? { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(corpo) } : {});
@@ -54,7 +55,7 @@ export async function contarPorLer() {
 }
 
 export async function mensagens(el) {
-  const entrada = (corpo) => { el.innerHTML = html`<div class="conteudo estreito"><header class="cabecalho"><p class="sobretitulo">Área reservada</p><h1>Mensagens</h1></header>${corpo}</div>`.s; };
+  const entrada = (corpo) => { el.innerHTML = html`<div class="conteudo estreito">${barraReservada('mensagens')}${corpo}</div>`.s; };
   if (!ADMINS.includes(sessao()?.papel)) return entrada(html`<p class="vazio">Só os administradores do arquivo veem as mensagens.</p>`);
   if (comArquivo() && E.sessao?.modo !== 'online') return entrada(html`<p class="vazio">As mensagens ficam no site online: veja-as lá.</p>`);
   entrada(html`<p class="carregando">A carregar</p>`);

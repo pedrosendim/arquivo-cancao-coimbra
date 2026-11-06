@@ -29,7 +29,20 @@
       "nota": "voz; fundador (1978)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Vitor%20Baltasar%205.2.jpg",
+      "legenda": "2 de Junho de 1979 - serenata – semana académica. Vítor Baltasar (canta), Carlos Caiado (de pé segura uma colher de pau), Zé Tó na viola, Tó Pedroso e João Moura na guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "2 de Junho de 1979 - serenata – semana académica. Vítor Baltasar (canta), Carlos Caiado (de pé segura uma colher de pau), Zé Tó na viola, Tó Pedroso e João Moura na guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

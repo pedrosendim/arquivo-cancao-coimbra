@@ -9,6 +9,60 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "repertorio-nuno-guimaraes",
+      "rotulo": "Lição contemporânea (Repertório de Nuno Guimarães, Guitarra de Coimbra V)",
+      "citacao": "Ó águia que vais tão alta\n(Ai2) Por essas serras d’além,\nLeva-me ao céu, onde eu tenho\n(Ai2) A alma de minha mãe.\n\nAs lágrimas que eu chorei\n(Ai2) Leva-mas porque são puras,\nSão as preces que eu rezei\n(Ai2) Com saudades e ternuras.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+      "doc": "gc-v:7337900589765452484",
+      "nota": "O post diz que José Afonso modificou esta letra na gravação."
+    },
+    {
+      "id": "licao-jose-afonso-1952",
+      "rotulo": "Sequência do canto na lição de José Afonso, 1952 (parcial: 1.ª quadra)",
+      "citacao": "Ó águia que vais tão alta\nPor essas serras d’além,\nÓ águia que vais tão alta\n(Ai) Por essas serras d’além,\nLeva-me ao céu, onde eu tenho\nA alma de minha mãe\n(Ai) A alma de minha mãe.",
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+      "doc": "gc-iv:3869478767060763956"
+    },
+    {
+      "id": "em-camilo-castelo-branco",
+      "rotulo": "Publicada em «Camilo Castelo Branco» (Guitarra de Coimbra V)",
+      "citacao": "Ó águia que vais tão alta\n(Ai) Por essas serras d’além,\nLeva-me ao céu, onde eu tenho\n(Ai) A alma da minha mãe.\n\nAs lágrimas que eu chorei\n(Ai) Leva-mas porque são puras,\nSão as preces que eu rezei\n(Ai) Com saudades e ternuras.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/03/camilo-castelobranco-1825-1890.html",
+      "doc": "gc-v:6748507695726773268"
+    },
+    {
+      "id": "aja-fados-de-coimbra-1953",
+      "rotulo": "Associação José Afonso (single Fados de Coimbra, 1953)",
+      "citacao": "Ó águia que vais tão alta\nPor essas terras além\nLeva-me aos céus onde eu tenho\nA alma da minha mãe\n\nAs lágrimas que eu chorei\nLeva-mas porque são puras\nSão as preces que eu rezei\nCom saudades e ternura",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    },
+    {
+      "id": "aja-pagina-2007",
+      "rotulo": "Página «discocapaebatina» da Associação José Afonso (captura de 2007)",
+      "citacao": "Ó águia que vais tão alta\nPor essas serras além\nLeva-me aos céus onde eu tenho\nA alma da minha mãe\n\nAs lágrimas que eu chorei\nLeva-mas porque são puras\nSão as preces que eu rezei\nCom saudades e ternura",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20071118003642/https://aja.pt/discocapaebatina.htm",
+      "doc": "arquivo-pt:wdff743bee34ca2d5",
+      "nota": "Página aja.pt/discocapaebatina.htm da Associação José Afonso, lida na captura do Arquivo.pt."
+    },
+    {
+      "id": "fado-das-lagrimas-manasses",
+      "rotulo": "Fado das Lágrimas, reportório de Manassés de Lacerda (outra letra)",
+      "citacao": "Oh! fonte que estás chorando,\nNão tardarás a secar\nMas os meus olhos são fontes\nQue não param de chorar.\n\nOh! triste da minha vida,\nOh! triste da vida minha,\nQuem me dera ir contigo\nPara onde tu vais, andorinha.\n\nOh! águia que vais tão alta\nPor essas serras d’além,\nLeva-me ao céu onde eu tenho\nA alma de minha mãe.",
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+      "doc": "gc-iv:3869478767060763956",
+      "nota": "O post diz que esta melodia, com modificações, tomou o nome vulgar de Fado das Águias."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

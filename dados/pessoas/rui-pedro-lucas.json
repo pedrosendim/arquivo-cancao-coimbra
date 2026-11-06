@@ -64,7 +64,20 @@
       "nota": "canto"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMm7Bnc1kJQSxirv9qzIYhMBvjo-VevNT-e_t54O-t_3JK6uqqXqhznW4g7ipVXpoO7p7037kRrI-FrNFNu4viV7dnF3PJEUTHKif_F9omv___bt7M4iN99e0U2vpxPzNQpvrvRaUovIE/s1600/Caritas-(21_12_2009)-9.gif",
+      "legenda": "Associação dos Antigos Tunos na Cáritas de Coimbra, a 21 de Dezembro de 2009, com apresentação do seu grupo Raízes de Coimbra. Pela ordem da primeira foto estão: Humberto Matias (v), Rui Lucas (c), José Ourives (g), Heitor Lopes (c), Octávio Sérgio (g), Mário Rovira (c), Alcides Freixo (g), Armando Luís de Carvalho Homem (v) e Rui Pato (v)",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/04/associacao-dos-antigos-tunos-na-caritas.html",
+          "doc": "gc-iii:4098078115773894163",
+          "citacao": "Pela ordem da primeira foto estão: Humberto Matias (v), Rui Lucas (c), José Ourives (g), Heitor Lopes (c), Octávio Sérgio (g), Mário Rovira (c), Alcides Freixo (g), Armando Luís de Carvalho Homem (v) e Rui Pato (v)"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -6,7 +6,8 @@ import { E, nomeContribuidor } from '../estado.js';
 import { $, html, api, fmtData, plural, ler, guardar } from '../util.js';
 import { descrever, conteudo } from '../historico.js';
 import { ESPECIES } from '../fichas.js';
-import { sessao, podeAprovar } from '../edicao.js';
+import { podeAprovar } from '../edicao.js';
+import { barraReservada } from './reservada.js';
 
 const online = () => E.sessao?.modo === 'online';
 const REPOSITORIO = () => E.sessao?.repositorio || 'pedrosendim/arquivo-cancao-coimbra';
@@ -75,18 +76,12 @@ const detalhe = (corpo) => (corpo || '').split('\n').filter((l) => l.trim() && !
 export async function alteracoes(el, params = {}) {
   const fortes = params.fortes === '1';
   el.innerHTML = html`<div class="conteudo estreito">
-    <header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Alterações recentes</h1>
-      <p class="lead">O que mudou nos dados do arquivo, da alteração mais recente para a mais antiga: quem, quando e o quê.
-        Inclui o que os editores gravam, que entra sem passar pelas propostas.</p></header>
+    ${barraReservada('alteracoes', ' Inclui o que os editores gravam, que entra sem passar pelas propostas.')}
     <p class="filtros-alteracoes"><label><input type="checkbox" id="so-fortes" ${fortes ? 'checked' : ''}>
       Só junções, separações, apagamentos e retiradas</label></p>
     <ol class="historico alteracoes" id="alteracoes"><li class="carregando">A ler as alterações</li></ol></div>`.s;
   $('#so-fortes').onchange = (e) => { location.hash = e.target.checked ? '#/alteracoes?fortes=1' : '#/alteracoes'; };
   const lista = $('#alteracoes');
-  if (!sessao()) {
-    lista.innerHTML = html`<li class="mudo">Esta página é para quem edita: entre com a sua conta (no fundo do menu).</li>`.s;
-    return;
-  }
   let todas;
   try { todas = online() ? await lerOnline() : (await api('alteracoes')).alteracoes; } catch (e) {
     lista.innerHTML = html`<li class="mudo">Não foi possível ler as alterações: ${e.message}</li>`.s;

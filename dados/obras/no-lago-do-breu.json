@@ -10,6 +10,33 @@
     "jose-afonso"
   ],
   "ano": "",
+  "letras": [
+    {
+      "id": "guitarra-de-coimbra-i",
+      "rotulo": "Transcrição de José Anjos de Carvalho e António M. Nunes (Guitarra de Coimbra I)",
+      "citacao": "No Lago do Breu\nSem luzes no céu\nNem bom Deus\nQue venha abrasar\nOs ateus\nNo Lago do Breu\n\nNo Lago do Breu\nA noite não vem\nSem sinais\nQue fazem tremer\nOs mortais\nNo Lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nP'ra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu\n\nNo Lago do Breu\nOs dedos da noite\nVão juntos\nPar'amortalhar\nOs defuntos\nNo Lago do Breu\n\nNo Lago do Breu\nA Lua nasceu.\nMas ninguém\nPergunta quem vai\nOu quem vem\nNo Lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nP'ra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu.\n\nNo Lago do Breu\nMeninas perdidas\nEu sei\nMas só nestas vidas\nMe achei\nNo Lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nP'ra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/no-lago-do-breu-partitura-extrada-de.html",
+      "doc": "gc-i:113750767918411433"
+    },
+    {
+      "id": "aja-texto-do-blogue",
+      "rotulo": "Publicada no blogue da Associação José Afonso, a partir de Guitarra de Coimbra",
+      "citacao": "No Lago do Breu\nSem luzes no céu\nNem bom Deus\nQue venha abrasar\nOs ateus\nNo Lago do Breu.\n\nNo Lago do Breu\nA noite não vem\nSem sinais\nQue fazem tremer\nOs mortais\nNo Lago do Breu.\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nPra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu.\n\nNo Lago do Breu\nOs dedos da noite\nVão juntos\nPara amortalhar\nOs defuntos\nNo Lago do Breu.\n\nNo Lago do Breu\nA Lua nasce.\nMas ninguém\nPergunta quem vai\nOu quem vem\nNo Lago do Breu.\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nPra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu.\n\nNo Lago do Breu\nMeninas perdidas\nEu sei\nMas só nestas vidas\nMe achei\nNo Lago do Breu.\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo razão\nPra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo Lago do Breu.",
+      "fonte": "aja",
+      "url": "https://aja.pt/no-lago-do-breu/",
+      "doc": "aja:w9f0058b0804e8dc7"
+    },
+    {
+      "id": "aja-baladas-de-coimbra-1962",
+      "rotulo": "Associação José Afonso (EP Baladas de Coimbra, 1962)",
+      "citacao": "No lago do Breu\nSem luzes no céu\nNem bom Deus\nQue venha abrasar\nOs ateus\nNo lago do Breu\n\nNo lago do Breu\nA noite não vem\nSem sinais\nQue fazem tremer\nOs mortais\nNo lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo a razão\nP’ra ser\nQuem teme\ne não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo lago do Breu\n\nNo lago do Breu\nMeninas perdidas\nEu sei\nMas só nestas vidas\nMe achei\nNo lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo a razão\nP’ra ser\nQuem teme\ne não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo lago do Breu\n\nNo lago do Breu\nA lua nasceu\nMas ninguém\nPergunta quem vai\nOu quem vem\nNo lago do Breu\n\nMas quem não for mau\nNão vá\nQue o céu não se compra\nDá\nNão vejo a razão\nP’ra ser\nQuem teme e não quer\nViver\nSem luzes no céu\nSó mesmo como eu\nNo lago do Breu",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [],
   "fontes": [
     {

@@ -5,6 +5,8 @@
 import { E } from '../estado.js';
 import { $, html, aviso, fmtData } from '../util.js';
 import { sessao, slug, perguntar } from '../edicao.js';
+import { barraReservada } from './reservada.js';
+import { PAPEIS_CONTRIBUIDOR } from './contribuidores.js';
 
 const ITERACOES = 600_000, MINIMO = 8;
 const cod = new TextEncoder();
@@ -56,33 +58,17 @@ const camposNova = (rotulo) => html`
     <input class="campo" type="password" name="nova" required minlength="${MINIMO}" autocomplete="new-password"></label>
   <label>Repita a palavra-passe <input class="campo" type="password" name="repetir" required autocomplete="new-password"></label>`;
 
+/** O ecrã de entrar da área reservada: com a conta própria ou com o GitHub. Depois de entrar, segue para a página pedida. */
 export function entrar(el, params = {}) {
-  const s = E.sessao || {}, volta = String(params.volta || '').startsWith('#/') ? params.volta : '#/';
-  const moldura = (corpo) => { el.innerHTML = html`<div class="conteudo estreito"><header class="cabecalho"><p class="sobretitulo">Área reservada</p><h1>Entrar</h1></header>${corpo}</div>`.s; };
-  if (s.modo !== 'online') { moldura(html`<p class="lead">Nesta cópia local não é preciso entrar: basta ligar o modo de edição, no fim do menu.</p>`); return; }
-  if (sessao()) {
-    moldura(html`<p class="lead">Entrou como ${sessao().nome}.</p>
-      <p><a class="botao" href="/api/sair">Sair</a></p>
-      ${s.conta ? html`<form class="caixa-edicao entrada" id="mudar"><h3>Mudar a palavra-passe</h3>
-        <input type="hidden" name="username" value="${s.conta}" autocomplete="username">
-        <label>Palavra-passe atual <input class="campo" type="password" name="atual" required autocomplete="current-password"></label>
-        ${camposNova('Palavra-passe nova')}
-        <p class="erro-conta" role="alert"></p>
-        <div class="acoes"><button type="submit" class="botao primario">Mudar a palavra-passe</button></div></form>` : ''}`);
-    const f = $('#mudar');
-    if (f) {
-      aoEnviar(f, async (d) => {
-        const nova = novaPalavra(d);
-        await pedirConta('mudar', { atual: await chaveDe(s.conta, d.atual), nova: await chaveDe(s.conta, nova) });
-        f.reset();
-        aviso('Palavra-passe mudada.');
-        $('button[type=submit]', f).disabled = false;
-        $('button[type=submit]', f).textContent = 'Mudar a palavra-passe';
-      });
-    }
+  const s = E.sessao || {}, volta = String(params.volta || '').startsWith('#/') ? params.volta : '#/reservada';
+  const moldura = (corpo) => { el.innerHTML = html`<div class="conteudo estreito"><header class="cabecalho"><p class="sobretitulo">Para contribuidores</p><h1>Área reservada</h1></header>${corpo}</div>`.s; };
+  if (s.modo !== 'online') { moldura(html`<p class="lead">Nesta cópia local não é preciso entrar.</p>`); return; }
+  if (s.github && !s.problema) { // entrou com um GitHub que não está no registo
+    moldura(html`<p class="lead">A conta @${s.github} ainda não foi convidada para contribuir.</p><p><a class="botao" href="/api/sair">Sair</a></p>`);
     return;
   }
   moldura(html`<p class="lead">Para quem foi convidado a contribuir. Para consultar o arquivo, não é preciso entrar.</p>
+    ${params.entrada === 'falhou' ? html`<p class="erro" role="alert">Não foi possível entrar com o GitHub. Tente outra vez.</p>` : ''}
     ${s.entrada_conta ? html`<form class="caixa-edicao entrada" id="entrar-conta">
       <label>Nome de utilizador <input class="campo" name="utilizador" required autocomplete="username" autocapitalize="none" spellcheck="false"></label>
       <label>Palavra-passe <input class="campo" type="password" name="palavra" required autocomplete="current-password"></label>
@@ -98,6 +84,82 @@ export function entrar(el, params = {}) {
       await pedirConta('entrar', { utilizador, chave: await chaveDe(utilizador, d.palavra) });
       seguir(volta);
     });
+  }
+}
+
+const RESULTADO_GITHUB = { ligado: 'A conta do GitHub ficou ligada: pode entrar com ela ou com a palavra-passe.',
+  ocupado: 'Esse GitHub já está ligado a outra pessoa do arquivo.', falhou: 'Não foi possível ligar o GitHub. Tente outra vez.' };
+
+/** A minha conta: nome de utilizador, palavra-passe e GitHub. */
+export function conta(el, params = {}) {
+  const s = E.sessao || {}, c = sessao();
+  if (s.modo !== 'online') { el.innerHTML = html`<div class="conteudo estreito">${barraReservada('contribuidores')}<p class="lead">Nesta cópia local não há contas.</p></div>`.s; return; }
+  const utilizador = s.utilizador || c.id, github = c.github || s.github_ligado || s.github;
+  el.innerHTML = html`<div class="conteudo estreito">${barraReservada('conta')}
+    ${RESULTADO_GITHUB[params.github] ? html`<p class="${params.github === 'ligado' ? 'mudo' : 'erro'}" role="status">${RESULTADO_GITHUB[params.github]}</p>` : ''}
+    <dl class="conta-dados"><dt>Nome</dt><dd>${c.nome}</dd><dt>Papel</dt><dd>${PAPEIS_CONTRIBUIDOR[c.papel] || c.papel}</dd>
+      <dt>Entrou com</dt><dd>${s.conta ? `nome de utilizador (${utilizador})` : `GitHub (@${s.github})`}</dd></dl>
+    <p><a class="botao" href="/api/sair">Sair</a></p>
+
+    ${s.conta ? html`<form class="caixa-edicao entrada" id="mudar-utilizador"><h3>Nome de utilizador</h3>
+      <p class="mudo">É o nome com que entra. O nome que aparece nas suas contribuições não muda.</p>
+      <label>Nome novo <small>letras e números, sem acentos nem espaços</small>
+        <input class="campo" name="novo" required minlength="3" maxlength="40" autocomplete="off" autocapitalize="none" spellcheck="false" value="${utilizador}"></label>
+      <label>Palavra-passe atual <input class="campo" type="password" name="atual" required autocomplete="current-password"></label>
+      <p class="erro-conta" role="alert"></p>
+      <div class="acoes"><button type="submit" class="botao primario">Mudar o nome de utilizador</button></div></form>
+
+    <form class="caixa-edicao entrada" id="mudar"><h3>Palavra-passe</h3>
+      <input type="hidden" name="username" value="${utilizador}" autocomplete="username">
+      <label>Palavra-passe atual <input class="campo" type="password" name="atual" required autocomplete="current-password"></label>
+      ${camposNova('Palavra-passe nova')}
+      <p class="erro-conta" role="alert"></p>
+      <div class="acoes"><button type="submit" class="botao primario">Mudar a palavra-passe</button></div></form>` : s.tem_conta
+    ? html`<p class="mudo">Já tem palavra-passe. Para a mudar, saia e entre com o nome de utilizador ${utilizador}.</p>`
+    : html`<form class="caixa-edicao entrada" id="criar"><h3>Criar uma palavra-passe</h3>
+      <p class="mudo">Assim pode entrar também sem o GitHub, com o nome de utilizador <b>${utilizador}</b>.</p>
+      <input type="hidden" name="username" value="${utilizador}" autocomplete="username">
+      ${camposNova('Palavra-passe')}
+      <p class="erro-conta" role="alert"></p>
+      <div class="acoes"><button type="submit" class="botao primario">Criar a palavra-passe</button></div></form>`}
+
+    <section class="caixa-edicao entrada"><h3>GitHub</h3>
+      ${github ? html`<p>Ligado à conta <b>@${github}</b>. Pode entrar com ela.</p>
+        ${s.conta && s.github_ligado ? html`<p><button type="button" class="botao peq" id="desligar-github">Desligar o GitHub</button></p>` : ''}`
+    : html`<p class="mudo">Opcional: se ligar a sua conta do GitHub, pode entrar também por lá.</p>
+        ${s.entrada_github ? html`<p><a class="botao" href="/api/entrar?ligar=1&volta=${encodeURIComponent('#/conta')}">Ligar ao GitHub</a></p>` : ''}`}</section>
+  </div>`.s;
+
+  const novamente = (form, texto) => { $('button[type=submit]', form).disabled = false; $('button[type=submit]', form).textContent = texto; };
+  const u = $('#mudar-utilizador'), m = $('#mudar'), n = $('#criar'), d = $('#desligar-github');
+  if (u) {
+    aoEnviar(u, async (x) => {
+      const novo = slug(x.novo);
+      if (novo === utilizador) throw new Error('Esse já é o seu nome de utilizador.');
+      await pedirConta('utilizador', { novo, atual: await chaveDe(utilizador, x.atual), nova: await chaveDe(novo, x.atual) });
+      seguir('#/conta');
+    });
+  }
+  if (m) {
+    aoEnviar(m, async (x) => {
+      const nova = novaPalavra(x);
+      await pedirConta('mudar', { atual: await chaveDe(utilizador, x.atual), nova: await chaveDe(utilizador, nova) });
+      m.reset();
+      aviso('Palavra-passe mudada.');
+      novamente(m, 'Mudar a palavra-passe');
+    });
+  }
+  if (n) {
+    aoEnviar(n, async (x) => {
+      await pedirConta('criar', { chave: await chaveDe(utilizador, novaPalavra(x)) });
+      seguir('#/conta');
+    });
+  }
+  if (d) {
+    d.onclick = async () => {
+      if (!confirm('Desligar o GitHub desta conta? Continua a entrar com o nome de utilizador e a palavra-passe.')) return;
+      try { await pedirConta('desligar-github', {}); seguir('#/conta'); } catch (e) { alert(e.message); }
+    };
   }
 }
 

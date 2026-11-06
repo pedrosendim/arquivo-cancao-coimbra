@@ -1,12 +1,10 @@
 // Contribuidores convidados pelo dono do arquivo (com o que cada um fez) e o guia «Como contribuir».
 import { E } from '../estado.js';
-import { $$, api, definirParams, html, fmtData, plural } from '../util.js';
-import { editando, eAdmin, sessao } from '../edicao.js';
-import { abrirLinkDeAcesso } from './conta.js';
+import { html, fmtData, plural } from '../util.js';
 
 export const PAPEIS_CONTRIBUIDOR = { dono: 'Administrador (fundador)', administrador: 'Administrador/a', editor: 'Editor/a', contribuidor: 'Contribuidor/a',
   antigo: 'Antigo contribuidor (sem acesso)' };
-const O_QUE_FAZ = {
+export const O_QUE_FAZ = {
   administrador: 'convida pessoas e escolhe o papel de cada uma; aprova propostas e fontes',
   editor: 'aprova ou recusa as propostas e as fontes novas e marca as fichas como revistas; o que altera entra logo',
   contribuidor: 'propõe: cria e corrige fichas, acrescenta factos com fonte, testemunhos, famílias, fotografias, vídeos e discos; um editor aprova',
@@ -44,7 +42,7 @@ function contributos() {
   return res;
 }
 
-function formContribuidor(c) {
+export function formContribuidor(c) {
   const novo = !c;
   c ||= { id: '', nome: '', github: '', papel: 'contribuidor', apresentacao: '' };
   return html`<form class="caixa-edicao" data-acao="guardar-contribuidor">
@@ -70,9 +68,6 @@ export function contribuidores(el, params) {
   const feito = contributos();
   const ordem = { dono: 0, administrador: 1, editor: 2, contribuidor: 3, antigo: 4 };
   const lista = Object.values(E.contribuidores).sort((a, b) => ordem[a.papel] - ordem[b.papel] || a.nome.localeCompare(b.nome));
-  const gerir = editando() && eAdmin();
-  const podeGerir = (c) => gerir && (c.papel !== 'dono' || sessao()?.papel === 'dono'); // o fundador só ele próprio
-  const acessos = gerir && E.sessao?.modo === 'online' && E.sessao.entrada_conta; // nome de utilizador e link de acesso
   el.innerHTML = html`<div class="conteudo">
     <header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Contribuidores</h1>
       <p class="lead">Quem ajuda a construir o arquivo, por convite do seu dono. Cada contributo fica assinado com o nome de
@@ -91,23 +86,10 @@ export function contribuidores(el, params) {
         ${total ? html`<dl class="contributos">${Object.entries(f).map(([tipo, fichas]) => html`<dt>${tipo} <span class="n">${fichas.size}</span></dt>
           <dd>${[...fichas.values()].slice(0, 6).map((x, i) => html`${i ? ', ' : ''}<a href="${x.rota}">${x.nome}</a>`)}${fichas.size > 6 ? ` e mais ${fichas.size - 6}` : ''}</dd>`)}</dl>`
           : html`<p class="mudo">Ainda sem contributos assinados.</p>`}
-        ${acessos && podeGerir(c) && c.papel !== 'antigo' ? html`<p class="estado-conta mudo" data-estado-conta="${c.id}">Entra como <b>${c.id}</b></p>
-          <p><button type="button" class="botao peq" data-link-acesso="${c.id}">Link de acesso</button></p>` : ''}
-        ${podeGerir(c) ? html`<details class="gerir"><summary>Alterar</summary>${formContribuidor(c)}</details>` : ''}
       </div></article>`;
     })}</div>
-    ${gerir ? html`<section class="seccao estreito">${formContribuidor(null)}</section>` : ''}
   </div>`.s;
   if (params.quem) document.getElementById(`c-${params.quem}`)?.scrollIntoView({ block: 'center' });
-  if (!acessos) return;
-  $$('[data-link-acesso]', el).forEach((b) => { b.onclick = () => abrirLinkDeAcesso(b.dataset.linkAcesso); });
-  if (params.link && params.quem) { definirParams({ quem: params.quem }); abrirLinkDeAcesso(params.quem); } // acabou de a convidar
-  api('contas/estado').then(({ contas, links }) => {
-    for (const p of $$('[data-estado-conta]', el)) {
-      const id = p.dataset.estadoConta;
-      p.append(contas[id] ? ' · já escolheu a palavra-passe' : links[id] ? ` · link por usar, até ${fmtData(new Date(links[id]).toISOString().slice(0, 10))}` : ' · ainda sem palavra-passe');
-    }
-  }).catch(() => {});
 }
 
 /** Um cartão do guia: uma tarefa, de três a cinco passos, e o botão para a começar. */
@@ -129,8 +111,9 @@ export function contribuir(el) {
         ${tarefa('Entrar pela primeira vez', [
           'Peça ao fundador do arquivo que o convide: ele envia-lhe um link pessoal, por WhatsApp ou email.',
           'Abra o link e escolha uma palavra-passe. Fica logo com a sessão iniciada.',
-          html`Da próxima vez, carregue em ${b('Entrar')}, no fim do menu, e escreva o seu nome de utilizador e a palavra-passe.`,
+          html`Da próxima vez, carregue em ${b('Área reservada')}, no fim do menu, e escreva o seu nome de utilizador e a palavra-passe.`,
           'Esqueceu-se da palavra-passe? Peça um link novo a um administrador do arquivo.',
+          html`Em ${b('A minha conta')}, dentro da área reservada, pode mudar o nome de utilizador e a palavra-passe, e ligar o GitHub.`,
         ], null, 'Não precisa de conta no GitHub, nem de email.')}
         ${tarefa('Se preferir entrar com o GitHub', [
           html`Abra <a href="https://github.com/signup" target="_blank" rel="noopener">github.com/signup</a>: o arquivo usa o GitHub, gratuito, só para saber quem é cada pessoa e guardar o histórico.`,
@@ -140,7 +123,7 @@ export function contribuir(el) {
         ])}
         ${tarefa('Ligar o modo de edição', [
           html`Abra o menu: no computador está à esquerda; no telemóvel, carregue em ${b('Menu')}, no topo do ecrã.`,
-          html`No fim do menu, carregue em ${b('Entrar')} e depois em ${b('Entrar com o GitHub')}: o site leva-o ao GitHub, que está em inglês. Entre na sua conta (${b('Sign in')}) e, na primeira vez, autorize o arquivo em ${b('Authorize')}; depois volta sozinho ao site.`,
+          html`No fim do menu, carregue em ${b('Área reservada')} e depois em ${b('Entrar com o GitHub')}: o site leva-o ao GitHub, que está em inglês. Entre na sua conta (${b('Sign in')}) e, na primeira vez, autorize o arquivo em ${b('Authorize')}; depois volta sozinho ao site.`,
           html`No mesmo sítio, carregue em ${b('Modo de edição')} até dizer «ligado». Nas fichas aparecem os botões e os formulários.`,
           'Para sair do modo de edição, carregue de novo no mesmo botão.',
         ], null, 'Na cópia local do arquivo, no computador do dono, não é preciso entrar: basta ligar o modo de edição.')}
@@ -193,7 +176,7 @@ export function contribuir(el) {
           html`Indique como sabe. A árvore da família atualiza-se sozinha.`,
         ], ['Escolher uma pessoa', '#/pessoas'])}
         ${tarefa('Trocar ou acrescentar uma fotografia', [
-          html`Na ficha, em ${b('Imagens')}: noutra imagem, ${b('Usar como retrato')}; numa imagem errada, ${b('Esconder')}, a dizer porquê (não se apaga).`,
+          html`Na ficha, em ${b('Imagens')}: noutra imagem, ${b('Usar como retrato')}; numa imagem errada, ${b('Desassociar')}, a dizer porquê: deixa de aparecer, fica registado quem o fez e pode voltar.`,
           html`Para ver bem a cara, carregue em ${b('Ajustar o retrato')}, por baixo da fotografia: arraste e aproxime. A fotografia não muda, só o enquadramento.`,
           html`Para uma fotografia nova, em ${b('Acrescentar')}, carregue em ${b('Fotografia')}. Pode usar ${b('Procurar no Facebook')} ou ${b('Procurar imagens')} e depois cole o endereço da imagem.`,
           'Cole também o endereço da página onde ela está publicada: o arquivo mostra sempre de onde vem cada imagem.',

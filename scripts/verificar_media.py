@@ -3,7 +3,8 @@
 Plataformas e serviço usado (todos públicos):
   youtube           oEmbed (título; 401 = incorporação desativada, 400/404 = removido ou privado)
   blogger           página do leitor («Video is unavailable» = removido)
-  vimeo, soundcloud, spotify   oEmbed (título + miniatura)
+  vimeo, spotify    oEmbed (título + miniatura)
+  soundcloud        não se verifica: o robots.txt do SoundCloud veda endereços com «?», e o oEmbed é um deles
   dailymotion       API pública de vídeos (título + miniatura)
   internet-archive  metadados + serviço de miniaturas
   rtp-arquivos/play og:image e og:title da ficha
@@ -80,8 +81,6 @@ def verificar(plat, chave, url):
         return {"disponivel": ok, **({} if ok else {"motivo": "removido do Blogger"})}
     if plat == "vimeo":
         return oembed("https://vimeo.com/api/oembed.json?url=" + Q(url))
-    if plat == "soundcloud":
-        return oembed("https://soundcloud.com/oembed?format=json&url=" + Q(url))
     if plat == "spotify":
         return oembed("https://open.spotify.com/oembed?url=" + Q(url))
     if plat == "dailymotion":
@@ -128,7 +127,7 @@ def main():
     so = sys.argv[sys.argv.index("--plataforma") + 1] if "--plataforma" in sys.argv else None
     todos = alvos()
     pendentes = [(k, v) for k, v in todos.items() if (not so or v[0] == so)
-                 and ("--tudo" in sys.argv or k not in estado) and v[0] != "facebook"]
+                 and ("--tudo" in sys.argv or k not in estado) and v[0] not in ("facebook", "soundcloud")]
     print(f"{len(todos)} media; a verificar {len(pendentes)}")
     for n, (k, (plat, chave, url)) in enumerate(pendentes, 1):
         r = verificar(plat, chave, url)

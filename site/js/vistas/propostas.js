@@ -6,6 +6,7 @@ import { descrever, conteudo } from '../historico.js';
 import { E, carregar, nomeDe, nomeContribuidor } from '../estado.js';
 import { $, html, raw, esc, api, fmtData, plural, enderecoSeguro } from '../util.js';
 import { sessao, podeAprovar } from '../edicao.js';
+import { barraReservada } from './reservada.js';
 
 const VALIDACAO = {
   passou: ['verde', 'validação passou'], falhou: ['vinho', 'validação falhou'],
@@ -132,18 +133,10 @@ function destino(caminho) {
 const MUITOS_FICHEIROS = 100; // /api/propostas pede ao GitHub 100 ficheiros por proposta; se houver mais, a lista completa está lá
 
 export async function propostas(el) {
-  const cabecalho = html`<header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Propostas</h1>
-    <p class="lead">O que os contribuidores alteraram no modo de edição, à espera de um editor. Depois de aprovada,
-      uma proposta entra no arquivo e aparece logo no site. As propostas ficam no repositório público do
-      arquivo, no GitHub: mesmo recusadas ou retiradas, continuam lá legíveis.</p></header>`;
+  const cabecalho = barraReservada('propostas', ' As propostas ficam no repositório público do arquivo, no GitHub: mesmo recusadas ou retiradas, continuam lá legíveis.');
   if (E.sessao?.modo !== 'online') {
     el.innerHTML = html`<div class="conteudo estreito">${cabecalho}<div class="vazio"><h3>Só na versão online</h3>
       <p>Na cópia local, o que grava no modo de edição fica logo no arquivo. As propostas dos contribuidores chegam pela versão online do site.</p></div></div>`.s;
-    return;
-  }
-  if (!sessao()) {
-    el.innerHTML = html`<div class="conteudo estreito">${cabecalho}<div class="vazio"><h3>Entre para ver as propostas</h3>
-      <p>No menu, carregue em <b>Entrar</b>. Veja <a href="#/contribuir">como contribuir</a>.</p></div></div>`.s;
     return;
   }
   el.innerHTML = html`<div class="conteudo estreito">${cabecalho}<div id="lista-propostas"><p class="carregando">A carregar</p></div></div>`.s;

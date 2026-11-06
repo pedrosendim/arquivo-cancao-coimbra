@@ -55,6 +55,7 @@ python scripts/fontes.py listar|aprovar|rejeitar|propor
 - Repositório público `pedrosendim/arquivo-cancao-coimbra` (sem `arquivo/` nem `site/dados/base.json`); a Cloudflare constrói e publica a cada alteração no ramo `main`.
 - Antes de trabalhar nos dados: `git pull` (traz as propostas aprovadas online). Depois: `construir.py` (atualiza `dados/verificacao.json`) e, só quando o utilizador pedir, commit e push. O push publica.
 - As mensagens da página Contacto ficam só no armazém da Cloudflare (`online/armazem.js`), fora do repositório, e só os administradores as leem (página Mensagens).
+- A área reservada é um só botão no fim do menu (`site/js/vistas/reservada.js`): sem sessão mostra o ecrã de entrar; com sessão, os separadores Por validar (questões da IA), Propostas (sugestões de pessoas), Alterações recentes, Mensagens, Contribuidores e A minha conta. O modo de edição só aparece a quem tem acesso.
 - No site online, os contribuidores entram com uma conta própria (link de acesso criado por um administrador, palavra-passe guardada só como resumo no armazém da Cloudflare) ou com o GitHub; as alterações deles são propostas que um editor aprova (página Propostas). Quem contribui nunca precisa do GitHub: é o site que lá grava, com a chave dele.
 
 ## Convenções de código

@@ -10,6 +10,26 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "aja-balada-ep-coimbra-1960",
+      "rotulo": "Balada, Associação José Afonso (EP Coimbra, 1960)",
+      "citacao": "Ó meu bem se tu te fores\nComo dizem que te vais\nDeixa-me o teu nome escrito\nNuma pedrinha do cais\n\nQuando o mê mano se foi\nSete lenços alaguei\nMai la manga da camisa\nE dizem que não chorei\n\nMeu amor vem sobre as ondas\nMeu amor vem sobre o mar\nAi quem me dera morrer\nNas águas do teu olhar",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    },
+    {
+      "id": "aja-cancao-longe",
+      "rotulo": "Canção Longe, Associação José Afonso (EP Baladas de Coimbra, 1963)",
+      "citacao": "Ó meu bem se tu te fores\nComo dizem que te vais\nDeixa-me o teu nome escrito\nNuma pedrinha do cais\n\nQuando o mê mano se foi\nSete lenços encharquei\nMai la manga da camisa\nE dizem que não chorei\n\nMeu amor vem sobre as ondas\nMeu amor vem sobre o mar\nAi quem me dera morrer\nNas águas do teu olhar",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

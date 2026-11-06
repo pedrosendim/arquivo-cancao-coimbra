@@ -23,7 +23,20 @@
       "nota": "voz; 2004"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5SzOqSqMBG_oUd_d5LC_fuBly8nxQSUZJS1L-pV3u5cEbF-U_snX_kb35tOtWKRYGN2E9QoGM8uLSG22ghjmBWhcRZanC7QPXyB-4fRE3yqxMiTunKMKoRfd5wKnmNAbsq_qGXdK96pA/s1600/JMOliveira+e+Grupo+1.jpg",
+      "legenda": "Grupo Ecos de Coimbra. Da esquerda para a direita: José Maria Oliveira, António Vinagre, David Correia, José Cabrita ( nosso decano - faz 90 anos este ano), João Rego. Orlando Almeida e Malha Valente.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2013/04/grupo-ecos-de-coimbra.html",
+          "doc": "gc-v:5640957562371684151",
+          "citacao": "Da esquerda para a direita: José Maria Oliveira, António Vinagre, David Correia, José Cabrita ( nosso decano - faz 90 anos este ano), João Rego. Orlando Almeida e Malha Valente. Foi tirada dia 13 deste mês no teatro Lethes."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

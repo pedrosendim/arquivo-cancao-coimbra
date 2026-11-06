@@ -29,7 +29,20 @@
       "nota": "voz; formação de 2006"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Pardalitos%20do%20Mondego%2011-7-2006%20Quebra-Costas%201.jpg",
+      "legenda": "Pardalitos do Mondego no Quebra-Costas, 11 de julho de 2006: Francisco Viana (guitarra), José Reis e Arnaldo Tomás (violas) e Paulo Cortesão, o cantor.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/foto-da-actuao-dos-pardalitos-do.html",
+          "doc": "gc-i:115271930039418055",
+          "citacao": "Cantor: Paulo Cortesão"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

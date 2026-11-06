@@ -35,7 +35,20 @@
       "nota": "guitarra; anos 90 a 2009"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/AEMINIUM%20Grupo%20Monteiro%20foto%20Lyon%202000.jpg",
+      "legenda": "\"AEMINIUM\", Grupo de Fado de Coimbra. João Pedro Monteiro na guitarra, Pedro Cunha na viola; João Nuno Farinha e Luís Toscano no canto. Foto tirada do site deste grupo.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/aeminium-grupo-de-fado-de-coimbra.html",
+          "doc": "gc-i:111861366803901000",
+          "citacao": "\"AEMINIUM\", Grupo de Fado de Coimbra. João Pedro Monteiro na guitarra, Pedro Cunha na viola; João Nuno Farinha e Luís Toscano no canto."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

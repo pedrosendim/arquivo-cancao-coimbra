@@ -121,7 +121,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIcgR6T9so8bFruGT2ZdDmrpLb5zhzukz-u3SBeYEKgGo6xEO72a9u18zErm5EeVlJWwBV1sXkC5flmJFPCo2Ec61qLofjPrvz9R-RQTLrps-oYn7Lb7xnoG6WPu851AXqrpW7PSs8saM/s1600/ManuelAlteVeiga-Livro-Anthe.gif",
+      "legenda": "Manuel Alte da Veiga executando Variações em Ré menor, de Anthero da Veiga, na guitarra deste.",
+      "fontes": [
+        {
+          "fonte": "gc-iii",
+          "url": "https://guitarracoimbra.blogspot.com/2010/10/encontors-de-guitarra-portuguesa-2010.html",
+          "doc": "gc-iii:7379716066222470685",
+          "citacao": "Manuel Alte da Veiga executando Variações em Ré menor, de Anthero da Veiga, na guitarra deste."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

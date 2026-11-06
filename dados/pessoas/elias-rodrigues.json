@@ -35,7 +35,20 @@
       "nota": "viola"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20de%20Santarm%209A.jpg",
+      "legenda": "Grupo de Santarém. À guitarra: João Luís, António Madeira Lopes e Fernando Martinho. À viola, Elias Rodrigues.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-de-santarm.html",
+          "doc": "gc-i:111698146756272372",
+          "citacao": "Grupo de Santarém. À guitarra: João Luís, António Madeira Lopes e Fernando Martinho. À viola, Elias Rodrigues."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

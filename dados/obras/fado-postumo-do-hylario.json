@@ -19,6 +19,34 @@
     "luis-osorio"
   ],
   "ano": "",
+  "letras": [
+    {
+      "id": "fado-de-sao-pedro-do-sul",
+      "rotulo": "Fado de São Pedro do Sul (Eu não quero nem brincando), outra letra",
+      "citacao": "Eu não quero nem brincando\nDizer adeus a ninguém;\nQuem parte leva saudades,\nQuem fica saudades tem.\n\nMorre um afeto, outro nasce\nVai-se um desejo, outro vem;\nDe tantos que a vida conta,\nDe tantos que nem eu sei.\n\nQuem tem filhos pequeninos,\nHá-de por força cantar;\nQuantas vezes a mãe canta\nCom vontade de chorar.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/09/fado-de-s-pedro-do-sul.html",
+      "doc": "gc-v:4291810087617262343",
+      "nota": "Gravado por Reynaldo Varella (Gramophone 62927; Homokord 9233), citados no post."
+    },
+    {
+      "id": "fado-antigo-menano-sao-pedro",
+      "rotulo": "Fado Antigo, lição de António Menano (em «Fado de S. Pedro do Sul», Guitarra de Coimbra V)",
+      "citacao": "Maria, minha Maria,\nMinha malga de beber!\nToda a gente tem inveja\nDeste nosso bem-querer.\n\nPalminho de cara linda,\nCarinha do lindo jeito,\nQue linda medalha davas\nPrà gente trazer ao peito.\n\nEsse ar de santa a brilhar\nQue do teu rosto esvoaça,\nPõe meus lábios a rezar\nMaria, cheia de graça.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/09/fado-de-s-pedro-do-sul.html",
+      "doc": "gc-v:4291810087617262343",
+      "nota": "Odeon 136818 e A 136818, Og 671, citados no post."
+    },
+    {
+      "id": "fado-antigo-menano-gc-v",
+      "rotulo": "Fado Antigo («António Menano», Guitarra de Coimbra V)",
+      "citacao": "Maria, minha Maria,\nMinha malga de beber!\nToda a gente tem inveja\nDeste nosso bem-querer.\n\nPalminho de cara linda,\nCarinha do lindo jeito,\nQue linda medalha dava\nPrà gente trazer ao peito.\n\nEsse ar de santa a brilhar\nQue do teu rosto esvoaça,\nPõe meus lábios a rezar\nMaria, cheia de graça.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+      "doc": "gc-v:762374983775125045"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

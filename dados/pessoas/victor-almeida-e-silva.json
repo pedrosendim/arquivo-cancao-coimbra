@@ -58,7 +58,20 @@
       "nota": "voz; LP de 1988"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Cunha%20Pereira%20e%20Grupo.jpg",
+      "legenda": "Capa do LP \"Fados de Coimbra - Grupo Académico Serenata\" (1986). A cantar, Pais da Rocha, Victor Silva (o segundo, à esquerda), Luís Paupério e Carlos Teixeira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/fados-de-coimbra-grupo-acadmico.html",
+          "doc": "gc-i:111300092847260209",
+          "citacao": "Grupo do Porto, constituído por Cunha Pereira e Jorge Carvalho (pela mesma ordem na foto) à guitarra, Carlos Teixeira (ausente na foto) e Arnaldo Brito à viola e a cantar, Pais da Rocha, Victor Silva (o segundo, à esquerda), Luís Paupério e Carlos Teixeira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

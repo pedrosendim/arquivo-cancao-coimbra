@@ -49,7 +49,32 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Foto%20Orfeon%20na%20USA%20em%201965.jpg",
+      "legenda": "Orfeon Académico nos Estados Unidos, em 1965. À esquerda e de pé, está Custódio Moreirinhas, logo seguido de José Miguel Baptista.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/orfeon-acadmico-nos-estados-unidos-em.html",
+          "doc": "gc-i:111810247455985320",
+          "citacao": "Orfeon Académico nos Estados Unidos, em 1965. À esquerda e de pé, está Custódio Moreirinhas, logo seguido de José Miguel Baptista."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Antigos%20Orfeonistas%20Aores%202002.jpg",
+      "legenda": "Antigos Orfeonistas nos Açores, em 2002. Custódio Moreirinhas à viola; Manuel Mora, Luís Oliveira e Octávio Sérgio à guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/antigos-orfeonistas-nos-aores-em-2002.html",
+          "doc": "gc-i:111624516471367693",
+          "citacao": "Antigos Orfeonistas nos Açores, em 2002. Custódio Moreirinhas à viola; Manuel Mora, Luís Oliveira e Octávio Sérgio à guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

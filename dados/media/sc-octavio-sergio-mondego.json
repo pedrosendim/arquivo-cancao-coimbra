@@ -1,0 +1,31 @@
+{
+  "id": "sc-octavio-sergio-mondego",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/mondego",
+  "titulo": "Mondego (Polka-Mazurka pour le piano) — MIDI da partitura",
+  "data": "",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2013/06/titulo-mondego-subtitulo-polka-mazurka.html",
+      "doc": "gc-iv:3600823761922195851",
+      "citacao": "Som da partitura em MIDI: https://soundcloud.com/oct-vio-s-rgio-azevedo/mondego"
+    },
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/06/mondego.html",
+      "doc": "gc-v:6285113617940863761",
+      "citacao": "Para ouvir o som da partitura, aceda ao endereço seguinte: https://soundcloud.com/oct-vio-s-rgio-azevedo/mondego"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/mondego"
+    }
+  ],
+  "nota": "Som MIDI gerado a partir da partitura: não é uma gravação de um intérprete.",
+  "estado_revisao": "rascunho"
+}

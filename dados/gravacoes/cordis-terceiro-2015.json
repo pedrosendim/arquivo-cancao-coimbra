@@ -106,10 +106,11 @@
     ]
   },
   "ligacoes": {
-    "spotify": "",
+    "spotify": "https://open.spotify.com/album/3pxyS745CLBwz0J9tUQNLo",
     "youtube": "",
     "discogs": "https://www.discogs.com/release/13158492",
-    "musicbrainz": ""
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/pt/album/terceiro/1071777685"
   },
   "factos": [
     {

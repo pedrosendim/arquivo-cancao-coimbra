@@ -8,6 +8,25 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "galaxia-sonora",
+      "rotulo": "Partitura de 1906 (Galáxia Sonora Coimbrã)",
+      "citacao": "Que t'importa ser morena,\nSe a cor morena seduz!\n- Não tens acaso no rosto\nA mesma côr de Jesus?\n\nA própria Virgem Maria\nEra morena também...\n- Ser morena, ser morena\nNão fica mal a ninguém!\n\nEstribilho\nFugi, ó morenas\nDe corpos gentis,\nQue'eu sinto ao fitar-vos\nArrancos febris;\nMorena, morenas,\nDe rosto moreno,\nVós sois a desgraça...\nVós sois o veneno!",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/07/morena-j-saldanha-junior.html",
+      "doc": "galaxia-sonora-coimbra:1969500277921837269"
+    },
+    {
+      "id": "cancao-da-morena-irmaos-caetanos",
+      "rotulo": "Canção da Morena, com os estropiamentos da letra («Os Irmãos Caetanos», Guitarra de Coimbra I)",
+      "citacao": "Que t’importa ser morena,\nSe a cor morena seduz?\nNão tens acaso no rosto\nA mesma cor de Jesus?\n\nA própria Virgem Maria\nEra morena também...\nSer morena, ser morena\nNão fica mal a ninguem!\n\n(estribilho)\nFugi ó morenas (“morena”)\nDe corpos gentis\nQue eu sinto ao fitar-vos (“Eu sinto...”)\nArrancos febris;\nMorenas, morenas, (“Morena, morena”)\nDe rosto moreno, (“De corpo moreno”)\nVós sois a desgraça...\nVós sois um veneno! (“Vós sois o veneno”)",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+      "doc": "gc-i:112449926206277360",
+      "nota": "Odeon 136.335, Og. 714, citado no post. O post diz que os estropiamentos da letra figuram entre parêntesis."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

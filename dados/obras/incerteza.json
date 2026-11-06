@@ -8,6 +8,26 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "aja-fados-de-coimbra-1953",
+      "rotulo": "Associação José Afonso (single Fados de Coimbra, 1953)",
+      "citacao": "Não sei quem sejas que importa\nJá trago a esperança perdida\nSe és a luz que me alumia\nSe és graça que me dá vida\n\nAdeus palavra tão triste\nQue a minha alma faz chorar\nAdeus dizem os que partem\nSem esperança de voltar",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    },
+    {
+      "id": "aja-pagina-2007",
+      "rotulo": "Página «discocapaebatina» da Associação José Afonso (captura de 2007)",
+      "citacao": "Não sei quem sejas que importa\nJá trago a esperança perdida\nSe és a luz que me alumia\nSe és graça que me dás vida\n\nAdeus palavra tão triste\nQue a minha alma faz chorar\nAdeus dizem os que partem\nSem esperança de voltar",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20071118003642/https://aja.pt/discocapaebatina.htm",
+      "doc": "arquivo-pt:wdff743bee34ca2d5",
+      "nota": "Página aja.pt/discocapaebatina.htm da Associação José Afonso, lida na captura do Arquivo.pt."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

@@ -1,0 +1,29 @@
+{
+  "id": "sc-octavio-sergio-fado-antigo-almeida-deca",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/almeida-deca-fado-antigo",
+  "titulo": "Fado Antigo (sic) — Almeida d'Eça (Polydor P 42133)",
+  "data": "1929",
+  "pessoas": [
+    "almeida-d-eca",
+    "albano-de-noronha",
+    "afonso-de-sousa"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/04/o-legado-fonografico-de-almeida-deca.html",
+      "doc": "gc-v:3909659451036344591",
+      "citacao": "FADO ANTIGO (sic): https://soundcloud.com/oct-vio-s-rgio-azevedo/almeida-deca-fado-antigo ... Almeida d’Eça gravou em finais de 1929, em Lisboa, para a POLYDOR, pelo menos 8 discos de 78 rpm, com 16 faixas sonoras, acompanhado exclusivamente em guitarra de Coimbra de 17 trastos pelo estudante da FM/UC Felix Albano de Noronha (1902-1968) e pelo estudante da FD/UC Afonso de Sousa (1906-1993). ... Disco de 78 rpm Polydor, P 42133 42133 – Fado Antigo (Que génio de raivas mansas)"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/almeida-deca-fado-antigo"
+    }
+  ],
+  "nota": "O disco não está nas fichas de gravações.",
+  "estado_revisao": "rascunho"
+}

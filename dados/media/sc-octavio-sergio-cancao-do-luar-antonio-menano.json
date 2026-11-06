@@ -1,0 +1,27 @@
+{
+  "id": "sc-octavio-sergio-cancao-do-luar-antonio-menano",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/cancao-do-luar",
+  "titulo": "Canção do Luar — António Menano (Odeon, 1928)",
+  "data": "1928",
+  "pessoas": [
+    "antonio-menano"
+  ],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/12/distincao-e-dignidade-evocacao-breve.html",
+      "doc": "gc-v:8670124848550412392",
+      "citacao": "Ofertada ao estudante de Medicina da UC António Menano que a gravou na Odeon (1928) com acompanhamento de piano por Afonso Correia Leite. Escuta: António Menano em Canção do Luar, ficheiro preparado por Octávio Sérgio, https://soundcloud.com/oct-vio-s-rgio-azevedo/cancao-do-luar"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/cancao-do-luar"
+    }
+  ],
+  "nota": "O post não dá o número do disco; o disco não está nas fichas de gravações.",
+  "estado_revisao": "rascunho"
+}

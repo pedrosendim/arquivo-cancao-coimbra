@@ -31,7 +31,20 @@
       "nota": "voz; Angola, 1962"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcdlLvolsEIj4ulSFde8hiSPypMW4ac2geVFkZXyZvh3wipbHPujMc0nkGvu59vY-BzHBLPeugphp3NGJN_WfDCbFdoezsQRWYW_OOSnxP9bUKowUqoGXND6V7fTERpvXsjHa8KgebTD5tIqYMvfAcZagxKRSVDupz31qQvTcQdjQjZRQ3WEM4rGjxq8/s2040/IMG-20260627-WA0012.jpg",
+      "legenda": "Fotografia artística de Raul Barros Leite com dedicatória a Lauro de Oliveira, inícios dos anos 60 (?).",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2026/06/arquivos-da-cancao-de-coimbra.html",
+          "doc": "gc-v:6509703397242452739",
+          "citacao": "Fotografia artística de Raul Barros Leite com dedicatória a Lauro de Oliveira, inícios dos anos 60 (?)."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

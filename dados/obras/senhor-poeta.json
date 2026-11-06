@@ -10,6 +10,17 @@
   ],
   "letra": [],
   "ano": "1960",
+  "letras": [
+    {
+      "id": "aja-baladas-de-coimbra-1962",
+      "rotulo": "Associação José Afonso (Baladas de Coimbra, 1962)",
+      "citacao": "Meu amor é marinheiro\nE mora no alto mar\nSeus braços são como o vento\nNinguém o pode amarrar\n\nSenhor poeta\nVamos dançar\nCaem cometas\nNo alto mar\n\nCavalgam zebras\nVoam duendes\nAtiram pedras\nArrancam dentes\n\nSoltam as velas\nVamos largar\nCaem cometas\nNo alto mar",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

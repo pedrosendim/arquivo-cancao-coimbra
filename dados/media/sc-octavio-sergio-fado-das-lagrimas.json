@@ -1,0 +1,25 @@
+{
+  "id": "sc-octavio-sergio-fado-das-lagrimas",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/fado-das-l-grimas/s-YtYyi",
+  "titulo": "Fado das Lágrimas — MIDI da partitura",
+  "data": "",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2012/06/fado-das-lagrimas.html",
+      "doc": "gc-iv:3869478767060763956",
+      "citacao": "Som da partitura em MIDI http://soundcloud.com/oct-vio-s-rgio-azevedo/fado-das-l-grimas/s-YtYyi"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/fado-das-l-grimas/s-YtYyi"
+    }
+  ],
+  "nota": "Som MIDI gerado a partir da partitura: não é uma gravação de um intérprete.",
+  "estado_revisao": "rascunho"
+}

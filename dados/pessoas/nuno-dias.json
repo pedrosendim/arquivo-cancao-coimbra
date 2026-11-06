@@ -202,7 +202,20 @@
       "nota": "As duas guitarras de «Passatempo» no CD Cordas do Mondego (1999)."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Nuno%20Dias%203.jpg",
+      "legenda": "Homenagem a Gilberto Grácio no Café Santa Cruz, ontem. Encerramento do Mês do Fado. Nuno Dias na guitarra e Fernando Lima na viola, abriram a sessão de guitarradas.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/04/homenagem-gilberto-grcio-n_114429013282456317.html",
+          "doc": "gc-i:114429013282456317",
+          "citacao": "Homenagem a Gilberto Grácio no Café Santa Cruz, ontem. Encerramento do Mês do Fado. Nuno Dias na guitarra e Fernando Lima na viola, abriram a sessão de guitarradas"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -94,7 +94,7 @@ function diferencasFicha(a, b) {
           const antes = ia.get(i);
           const muda = notasNovas(x, antes)
             || (x.conflito !== antes.conflito ? (x.conflito ? 'marcado como divergência entre fontes' : 'deixou de ser divergência')
-              : x.oculta && !antes.oculta ? `escondida${x.oculta.nota ? ` («${x.oculta.nota}»)` : ''}${quem(x.oculta)}`
+              : x.oculta && !antes.oculta ? `${k === 'imagens' ? 'desassociada da ficha' : 'escondida'}${x.oculta.nota ? ` («${x.oculta.nota}»)` : ''}${quem(x.oculta)}`
                 : x.escolhida && !antes.escolhida ? `escolhida como retrato${quem(x.escolhida)}`
                   : x.recorte && JSON.stringify(x.recorte) !== JSON.stringify(antes.recorte) ? `recorte 1:1 ajustado${quem(x.recorte)}`
                   : (x.fontes?.length || 0) > (antes.fontes?.length || 0) ? `mais uma fonte${fonteDe(x.fontes.slice(antes.fontes?.length || 0))}` : 'alterado');

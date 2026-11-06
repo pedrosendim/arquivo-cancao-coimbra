@@ -29,7 +29,32 @@
       "nota": "voz; 2004-2006"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Henriques%20Igreja%20Matriz%20Goa%20,%20Fev%202006.jpg",
+      "legenda": "Grupo Ecos de Coimbra na Igreja Matriz de Goa, Índia, em Fevereiro de 2006. Canta Joaquim Rogério. Viola Maurício Monteiro e guitarra, José Maria Oliveira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-na-igreja-matriz.html",
+          "doc": "gc-i:116136252018825702",
+          "citacao": "Grupo Ecos de Coimbra na Igreja Matriz de Goa, Índia, em Fevereiro de 2006. Canta Joaquim Rogério. Viola Maurício Monteiro e guitarra, José Maria Oliveira."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Jose%20Henriques%20Set%2099%2C%20Macau%2C%20Messe%20Oficiais.jpg",
+      "legenda": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999. Canta Joaquim Rogério. Na viola Maurício Monteiro e na guitarra José Maria Oliveira.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/grupo-ecos-de-coimbra-actuar-em-macau.html",
+          "doc": "gc-i:116136226878428717",
+          "citacao": "Grupo Ecos de Coimbra a actuar em Macau, na Messe dos Oficiais, em Setembro de 1999. Canta Joaquim Rogério. Na viola Maurício Monteiro e na guitarra José Maria Oliveira."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -110,7 +110,7 @@ Todo o facto, relação, excerto biográfico ou letra leva uma **Citação**:
   "interpretes": [ { "pessoa": "id", "funcao": "guitarra" } ],
   "faixas": [ { "n": 1, "titulo": "…", "obra": "id-da-obra", "media": ["id-do-media"] } ],
   "capa": { "url": "", "fontes": [] },
-  "ligacoes": { "spotify": "", "youtube": "", "discogs": "", "musicbrainz": "" },
+  "ligacoes": { "spotify": "", "apple-music": "", "youtube": "", "discogs": "", "musicbrainz": "" },
   "factos": [], "fontes": [],
   "estado_revisao": "rascunho"
 }
@@ -249,6 +249,10 @@ Ordem de preferência:
 3. As linhas «Vídeo:» do Discogs.
 4. YouTube, Spotify, Apple Music e SoundCloud, encontrados com `WebSearch` e `allowed_domains`. O título da faixa e o intérprete têm de coincidir sem dúvida. São fontes só de media (`youtube`, `spotify`, `apple-music`, `soundcloud`), sem citação, e a `nota` diz «identificado pelo título na plataforma».
 
+Nunca usar a API do iTunes (`/search`, `/lookup`), `api.deezer.com` nem `api.song.link`: o `robots.txt` deles veda-as. O oEmbed do SoundCloud também (`Disallow: /*?`). O oEmbed do Spotify só pontualmente, para confirmar um título. Sem chave da API, o Spotify e o YouTube Music só se encontram pelo `WebSearch`. Nas faixas sem ligação, o site mostra «Procurar», que abre a pesquisa da plataforma, e diz-se «procurar» porque o arquivo não confirmou que a faixa lá está.
+
+Na ficha de uma pessoa ou grupo, `ligacoes` guarda as páginas de artista (`{ "rotulo": "Spotify", "url": "https://open.spotify.com/artist/…" }`): as plataformas de música aparecem como botões no topo e as outras ligações numa lista. Um artista estar numa plataforma não faz de um álbum dele Canção de Coimbra: só entram os discos da discografia ou o que uma fonte aprovada diga ser Canção de Coimbra.
+
 Cada ligação fica como ficha em `dados/media/`, com `gravacao`, `pessoas`, `obras` e, opcionalmente, `miniatura` (URL da capa ou da etiqueta). O id dessa ficha entra em `faixas[k].media` da gravação. Se a gravação não tiver `faixas`, acrescentam-se a partir do alinhamento arquivado (Discogs ou blogue), com citação na fonte da gravação. Faixas sem nenhuma ligação segura ficam sem `media`, e o relatório diz quais.
 
 ### Fontes que o utilizador quer e não quer
@@ -276,6 +280,8 @@ O que um contribuidor sabe sem fonte entra **assinado** e marcado com ✎. Fica 
 Cada pessoa entra de uma de duas formas, à sua escolha:
 - com uma conta própria: o nome de utilizador é o `id`. Um administrador pede um «Link de acesso» em Contribuidores e envia-o à pessoa, que escolhe a palavra-passe. O link serve uma vez, vale 7 dias e anula o anterior. Quem esquecer a palavra-passe pede outro link. As contas ficam só no armazém da Cloudflare (`online/armazem.js`), nunca neste ficheiro: o repositório é público, e a palavra-passe nem chega ao servidor;
 - com o GitHub, se `github` estiver preenchido.
+
+Na área reservada, em «A minha conta», cada pessoa muda o nome de utilizador e a palavra-passe, cria uma palavra-passe se só entrava com o GitHub, e liga o GitHub à conta própria. O `id` nunca muda, porque é ele que assina as contribuições; o nome de utilizador escolhido e o GitHub ligado ficam no armazém, fora do repositório.
 
 Os papéis:
 - `dono`: o fundador (administrador). Há sempre um, e só ele muda os próprios dados e papel.
@@ -305,7 +311,7 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
   até um editor aprovar ou rejeitar a fonte.
 - `imagens[].editorial`: fotografia acrescentada. Leva `origem`, a página onde a fotografia está publicada.
 - `imagens[].escolhida`: quem escolheu esta imagem para retrato. O retrato é sempre a primeira imagem da lista.
-- `imagens[].oculta`: imagem escondida, por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro.
+- `imagens[].oculta`: imagem desassociada da ficha («Desassociar», no site), por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro com quem o fez e o motivo: assim pode voltar, e a mesma imagem não volta a entrar por engano.
 - `imagens[].recorte` = `{ por, data, x, y, zoom }`: o enquadramento 1:1 do retrato, escolhido no site com «Ajustar o retrato». `x` e `y` vão de 0 a 100 e `zoom` de 1 a 5. A fotografia continua no site de origem: só se guarda o enquadramento.
 - `factos[].nota_editorial` = `{ por, data, texto }`: nota sobre um facto, sobretudo nos casos de divergência entre fontes.
 - `nota_editor` com `nota_editor_por`/`nota_editor_em`. As notas sem `_por` são do dono.

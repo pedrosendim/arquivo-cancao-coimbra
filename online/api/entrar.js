@@ -1,4 +1,5 @@
-// /api/entrar: leva ao GitHub para a pessoa se identificar (a palavra-passe só se escreve no GitHub).
+// /api/entrar: leva ao GitHub para a pessoa se identificar (a palavra-passe só se escreve no GitHub). Com ?ligar=1, quem já
+// entrou com conta própria junta-lhe o GitHub, em vez de entrar com ele (o fim está em entrar-github.js).
 import { json } from '../comum.js';
 
 export async function onRequestGet({ request, env }) {
@@ -14,5 +15,6 @@ export async function onRequestGet({ request, env }) {
   const h = new Headers({ Location: github.toString() });
   h.append('Set-Cookie', `estado_oauth=${estado}; Path=/api/entrar; HttpOnly; Secure; SameSite=Lax; Max-Age=600`);
   h.append('Set-Cookie', `volta_oauth=${encodeURIComponent(volta)}; Path=/api/entrar; HttpOnly; Secure; SameSite=Lax; Max-Age=600`);
+  h.append('Set-Cookie', `ligar_oauth=${url.searchParams.get('ligar') === '1' ? '1' : ''}; Path=/api/entrar; HttpOnly; Secure; SameSite=Lax; Max-Age=600`);
   return new Response(null, { status: 302, headers: h });
 }

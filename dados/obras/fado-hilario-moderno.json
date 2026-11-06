@@ -20,6 +20,85 @@
     "doc": "galaxia-sonora-coimbra:6156911458628167050",
     "citacao": "Eu quero que o meu caixão Tenha uma forma bizarra A forma d'um coração (Ai) A forma d'uma guitarra. A minha capa velhinha (Ai) Tem a cor da noite escura Hei-de nela amortalhar-me (Ai) Quando for p'ra sepultura. (Ai) Ela há-de contar aos vermes Já que eu não posso falar Segredos luarizados Da minh'alma a dormitar."
   },
+  "letras": [
+    {
+      "id": "antonio-menano-1928-galaxia",
+      "rotulo": "Gravação de António Menano, 1928 (nota de A. M. Nunes, Galáxia Sonora Coimbrã)",
+      "citacao": "A minha capa velhinha\nÉ da cor da noite escura (bis)\nNela quero amortalhar-me\n(Ai) Quando for p'ra sepultura. (bis)\n\nA minha capa ondulante\n(Ai) Feita de negro tecido (bis)\nNão é capa d'estudante\n(Ai) É mortalha de vencido.\n\n(Ai) Eu quero que o meu caixão\nTenha uma forma bizarra (bis)\nA forma d'um coração\n(Ai) A forma d'uma guitarra. (bis)",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "nota": "Odeon A 136808a, citado no post."
+    },
+    {
+      "id": "antonio-menano-1928-gc-v",
+      "rotulo": "Gravação de António Menano, 1928 («António Menano», Guitarra de Coimbra V)",
+      "citacao": "A minha capa velhinha\nÉ da cor da noite escura,\nNela quero amortalhar-me\n(Ai2) Quando for prà sepultura.\n\nA minha capa ondulante\n(Ai) Feita de negro tecido\nNão é capa de estudante\n(Ai) É mortalha de um vencido\n\n(Ai1) Eu quero que o meu caixão\nTenha uma forma bizarra,\nA forma dum coração,\n(Ai) A forma duma guitarra.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+      "doc": "gc-v:762374983775125045",
+      "nota": "Discos Odeon 136.808 e A136.808, Og 654, citados no post."
+    },
+    {
+      "id": "luiz-goes-1957",
+      "rotulo": "Gravação de Luiz Goes, Madrid, 1957 (nota de A. M. Nunes, Galáxia Sonora Coimbrã)",
+      "citacao": "A minha capa velhinha\nÉ da cor da noite escura (bis)\nNela quero amortalhar-me\n(Ai) Quando for p'ra sepultura. (bis)\n\nEla há-de contar aos vermes\n(Ai) Já que eu não posso falar (bis)\nSegredos luarizados\n(Ai) Da minh'alma a soluçar.\n\n(Ai) Eu quero que o meu caixão\nTenha uma forma bizarra (bis)\nA forma d'um coração\n(Ai) A forma d'uma guitarra. (bis)",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050"
+    },
+    {
+      "id": "jose-taveira",
+      "rotulo": "Gravação de José Taveira, ca. 1927-1928",
+      "citacao": "A minha capa velhinha\nÉ da cor da noite escura;\nQuero nela amortalhar-me\n(Ai) Quando for p'ra sepultura.\n\nA minha capa ondulante\n(Ai) Feita de negro tecido;\nNão é capa de estudante\n(Ai) É mortalha d'um vencido.\n\n(Ai) Minha capa vos acoite\nQue é pr'a vos agasalhar;\nSe por fora é cor da noite\nPor dentro é cor do luar.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2023/04/velhas-frituras.html",
+      "doc": "gc-v:3419130853387302621",
+      "nota": "Disco Parlophon 98025, B. 33012-I, citado no post."
+    },
+    {
+      "id": "manuel-juliao-1964",
+      "rotulo": "Como cantou Manuel Julião em 1964",
+      "citacao": "Não sei que mal fiz à vida\nQue me faz viver assim;\nNão sei que mal fiz à morte\nQue não se lembra de mim.\n\nA minha capa ondulante\n(Ai) Feita de negro tecido\nNão é capa de ‘studante\n(Ai) É mortalha dum vencido.\n\n(Ai1) Eu quero que o meu caixão\nTenha uma forma bizarra\nA forma dum coração\n(Ai) A forma duma guitarra.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/01/manuel-julio-1915-1982-biografia-breve.html",
+      "doc": "gc-i:113787628139646328"
+    },
+    {
+      "id": "caderno-lucas-junot",
+      "rotulo": "Caderno de Lucas Junot",
+      "citacao": "Rapazes quando eu morrer\nEu por mim não quero penas\nQue eu gosto de adormecer,\nComo as crianças pequenas.\n\nA minha capa ondulante\nFeita de negro tecido\nNão é capa de estudante\nÉ mortalha de um vencido.\n\nDeixa-me cantar o fado\nNão faço mal a ninguém\nQue eu canto só pr’a espalhar\nAi! Mágoas que me dá meu bem.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2006/11/estrofes-encontradas-num-caderno-de_16.html",
+      "doc": "gc-i:116369268648063900"
+    },
+    {
+      "id": "galaxia-origem-melodica",
+      "rotulo": "Fado Hilário moderno, em «O último fado» (Galáxia Sonora Coimbrã)",
+      "citacao": "A minha capa velhinha ...\nÉ da cor da noite escura,\nNela quero amortalhar-me,\nQuando for p'ra sepultura.\n\nA minha capa ondulante ...\nFeita de negro tecido, ...\nNão é capa de estudante\nÉ mortalha de vencido.\n\nAi!... Eu quero que o meu caixão ...\nTenha uma forma bizarra,\nA forma de um coração,\nAi!... A forma de uma guitarra.",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/o-ultimo-fado-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:8474551674690973827",
+      "nota": "As reticências no fim do verso assinalam as notas do post sobre a origem melódica de cada parte, aqui omitidas."
+    },
+    {
+      "id": "foi-se-o-hilario",
+      "rotulo": "Foi-se o Hilário, outra letra («Os Irmãos Caetanos», Guitarra de Coimbra I)",
+      "citacao": "Foi-se o Hilário. Morreu.\nJá não há quem cante o fado.\nVesti-vos, pois ó guitarras,\n(Ai) De luto muito pesado.\n\nEu não sei quem fez o fado\n(Ai) Mas disso tenho a certeza,\nQuem lhe deu tanta tristeza\n(Ai) Amou e não foi amado.\n\nÓ guitarra geme, geme,\nÓ guitarra geme, sim,\nMinh’alma também geme\n(Ai) Quando alguém chora por mim.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+      "doc": "gc-i:112449926206277360",
+      "nota": "Odeon 136.336, Og. 716, citado no post."
+    },
+    {
+      "id": "quando-o-hilario-cantava",
+      "rotulo": "Quando o Hilário cantava, outra letra (Gabriel de Oliveira)",
+      "citacao": "Quando o Hilário cantava\nAlta noite do Choupal\nToda a tricana escutava\nA sua voz de cristal.\n\nTricana da minha vida\nSe eu um dia for à Lapa\nHei-de levar-te escondida\n(Ai) Debaixo da minha capa.\n\nO Hilário disse um dia:\n-“Ninguém mais será formado\nQuando a velha Academia\nDeixar de cantar o fado!”",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2013/01/antonio-menano.html",
+      "doc": "gc-v:762374983775125045"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

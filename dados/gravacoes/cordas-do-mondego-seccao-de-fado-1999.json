@@ -41,7 +41,9 @@
       "n": 1,
       "titulo": "Variações em Ré maior",
       "obra": "",
-      "media": []
+      "media": [
+        "ouvir-cordas-do-mondego-seccao-de-fado-1999-1-spotify"
+      ]
     },
     {
       "n": 2,
@@ -65,7 +67,9 @@
       "n": 5,
       "titulo": "Variações em Sol maior",
       "obra": "",
-      "media": []
+      "media": [
+        "ouvir-cordas-do-mondego-seccao-de-fado-1999-5-spotify"
+      ]
     },
     {
       "n": 6,
@@ -128,10 +132,11 @@
     ]
   },
   "ligacoes": {
-    "spotify": "",
+    "spotify": "https://open.spotify.com/album/14Tom023CgzrgWv5AqmMHU",
     "youtube": "",
     "discogs": "https://www.discogs.com/release/13155889",
-    "musicbrainz": ""
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/us/album/cordas-do-mondego/1474245922"
   },
   "factos": [
     {

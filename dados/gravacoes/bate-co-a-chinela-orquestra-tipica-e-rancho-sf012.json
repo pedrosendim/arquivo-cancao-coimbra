@@ -83,7 +83,9 @@
       "n": 12,
       "titulo": "Carrasquinha",
       "obra": "",
-      "media": []
+      "media": [
+        "ouvir-bate-co-a-chinela-orquestra-tipica-e-rancho-sf012-12-spotify"
+      ]
     },
     {
       "n": 13,
@@ -128,7 +130,7 @@
     ]
   },
   "ligacoes": {
-    "spotify": "",
+    "spotify": "https://open.spotify.com/album/0F0BgKMBmin5zBeRHHY8tn",
     "youtube": "",
     "discogs": "https://www.discogs.com/release/12974877",
     "musicbrainz": ""

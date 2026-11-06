@@ -62,6 +62,11 @@
   ],
   "relacoes": [],
   "imagens": [],
-  "ligacoes": [],
+  "ligacoes": [
+    {
+      "rotulo": "Spotify",
+      "url": "https://open.spotify.com/artist/6KKFnH36W9vcaPJ0bCFPki"
+    }
+  ],
   "estado_revisao": "rascunho"
 }

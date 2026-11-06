@@ -23,7 +23,19 @@
       "nota": "2.ª guitarra; colaboração com a OLA da TAUC"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20Santos.png?width=800",
+      "legenda": "Almeida Santos",
+      "fontes": [
+        {
+          "fonte": "wikimedia-commons",
+          "url": "https://commons.wikimedia.org/wiki/File%3AAlmeida_Santos.png",
+          "citacao": "Imagem (P18) da entidade Wikidata Q611579: António de Almeida Santos"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

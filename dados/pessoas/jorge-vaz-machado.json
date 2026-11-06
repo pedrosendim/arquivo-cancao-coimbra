@@ -52,7 +52,32 @@
       "nota": "voz, como «Jorge Machado»; 2016-2017"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20com%20Jorge%20Machado%202.jpg",
+      "legenda": "Grupo \"Quarto Crescente\", ontem, na Galeria Almedina. Jorge Machado canta, acompanhado por Miguel Gouveia na guitarra e Paulo Larguesa na viola.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/07/grupo-quarto-crescente-ontem-na_31.html",
+          "doc": "gc-i:112276829772743871",
+          "citacao": "Grupo \"Quarto Crescente\", ontem, na Galeria Almedina. Jorge Machado canta, acompanhado por Miguel Gouveia na guitarra e Paulo Larguesa na viola."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Prospeco%20Fotos%20na%20Rep%20Checa%201.jpg",
+      "legenda": "Regresso do Grupo \"Canção de Coimbra\" da República Checa. Pedro Nunes e Fernando Dias Marques à guitarra e Manuel João Vaz à viola. A cantar, Jorge Vaz Machado. Foto de um concerto de \"Fado de Coimbra\", num salão da Câmara Municipal de Brno.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/regresso-do-grupo-cano-de-coimbra-da_28.html",
+          "doc": "gc-i:111469804956045594",
+          "citacao": "Pedro Nunes e Fernando Dias Marques à guitarra e Manuel João Vaz à viola. A cantar, Jorge Vaz Machado. Foto de um concerto de \"Fado de Coimbra\", num salão da Câmara Municipal de Brno."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

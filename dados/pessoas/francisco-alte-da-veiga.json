@@ -55,7 +55,26 @@
       "nota": "A fonte não diz de qual dos filhos de Eugénio é filho."
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Vitor%20Baltasar%206.2.jpg",
+      "legenda": "Arcozelo da Serra, 24 de junho de 1978. Fotografia de grupo; da esquerda para a direita: Carlos Caiado, João Moura, Alte da Veiga (terceiro), Zé Tó e, de pé, Vítor Baltasar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "Da esquerda para a direita: Carlos Caiado, João Moura, Alte da Veiga, Zé Tó e de pé o Vítor Baltasar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "Com o Xico Alte da Veiga, colega de curso do Zé Tó em Medicina"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

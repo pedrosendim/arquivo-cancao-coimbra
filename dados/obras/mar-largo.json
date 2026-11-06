@@ -8,6 +8,33 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "edicao-sassetti",
+      "rotulo": "Edição musical Sassetti, 1929 (Repertório de Nuno Guimarães, Guitarra de Coimbra V)",
+      "citacao": "Ó mar largo, ó mar largo,\nÓ mar largo sem ter fundo,\nMais vale andar no mar largo\nQue andar nas bocas do mundo.\n\nA sereia quando canta,\nCanta no meio do mar;\nQuantos navios se perdem\nPor causa do seu cantar.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+      "doc": "gc-v:7337900589765452484"
+    },
+    {
+      "id": "letra-original-fado-do-mar-largo",
+      "rotulo": "«Letra original» em «Fado do Mar Largo» (Guitarra de Coimbra V)",
+      "citacao": "Ó mar largo, ó mar largo\nÓ mar largo sem ter fundo\nMais vale andar no mar largo\nQue andar nas bocas do mundo.\n\nA sereia quando canta,\nCanta no meio do mar;\nQuantos na vida se perdem\nPor causa do seu cantar.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2020/04/fado-do-mar-largo-1927-fado-do-mar.html",
+      "doc": "gc-v:6196346229142353719"
+    },
+    {
+      "id": "aja-ep-coimbra-1960",
+      "rotulo": "Associação José Afonso (EP Coimbra, 1960)",
+      "citacao": "Ó mar largo ó mar largo\nÓ mar largo sem ter fundo\nMais vale andar no mar largo\nDo que nas bocas do mundo\n\nFosse o meu destino o teu\nÓ mar largo sem ter fundo\nViver bem perto do céu\nAndar bem longe do mundo",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

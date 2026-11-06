@@ -1,0 +1,31 @@
+{
+  "id": "ouvir-coimbra-quartet-ua-international-uns-15539-3-soundcloud",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-do-sol-poente",
+  "titulo": "Balada do Sol Poente — José Miguel Baptista e Coimbra Quartet",
+  "data": "1964-12",
+  "pessoas": [
+    "jose-miguel-baptista",
+    "coimbra-quartet",
+    "eduardo-de-melo",
+    "ernesto-de-melo",
+    "durval-moreirinhas"
+  ],
+  "obras": [],
+  "gravacao": "coimbra-quartet-ua-international-uns-15539",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra_10.html",
+      "doc": "gc-v:7835294836912018999",
+      "citacao": "LP PORTUGAL: FADOS FROM COIMBRA. COIMBRA QUARTET, GRUPO DE FADOS DE L’ORFEON ACADÉMICO DE COIMBRA. Holland: Philips 831 206 PL, 1965 ... 1.3-BALADA DO SOL POENTE [Sunset ballad] ... BALADA DO SOL POENTE, https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-do-sol-poente"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-do-sol-poente"
+    }
+  ],
+  "nota": "O post trata do LP Philips (Holanda, 1965); a faixa liga-se à edição norte-americana, que é o mesmo LP. O post não diz de que exemplar foi tirado o ficheiro.",
+  "estado_revisao": "rascunho"
+}

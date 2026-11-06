@@ -12,6 +12,34 @@
   ],
   "letra": [],
   "ano": "1894",
+  "letras": [
+    {
+      "id": "maurizio-bensaude",
+      "rotulo": "Cantada por Maurizio Bensaude (disco Odeon)",
+      "citacao": "Ouvi dizer ao luar\nCom trinados na garganta:\n- Quem canta seu mal espanta\nE pus-me então a cantar.\n\nAs minhas canções vermelhas\nRima-las-ei com martírios,\nAo ritmo das abelhas\nNas folhas roxas dos lírios.\n\nTu és do amor a ‘strela,\nCujo brilho me seduz;\nQue me abrasa e não me aquece,\nQue me cega e dá luz. [me cega e me dá luz]\n\nÉs a alma do meu canto\nGemendo na viração;\nEstrofes de enlevo tanto\nSó as tem o coração.\n\nMeu coração é quadrante,\nQuadrante do meu desejo;\nNos dias em que te vejo\nNão marca mais que um instante.\n\nAo lançar dos olhos meus\nA rede dos meus desejos\nNo lago dos lábios teus,\nEu trago-a cheia de beijos!\n\nO meu amor coitadinho\nDe repente adoeceu\nFaltaram-lhe os meus cuidados\nNão pôde viver, morreu.\n\nDeitei-me à beira rio\nPara as águas ver correr\nVi correr os teus sonhos\nPara mais penas eu ter.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/em-cima-foto-central-retrato-de.html",
+      "doc": "gc-v:2477669935490166788",
+      "nota": "Disco Odeon 43126, citado no post; a edição Neuparth de 1894 tem 26 quadras."
+    },
+    {
+      "id": "quadras-avulsas-30-estrofes",
+      "rotulo": "Quadras avulsas de uma edição com 30 estrofes (parcial)",
+      "citacao": "Eu queria ser como a hera\nPela parede subir,\nPara chegar à janela\nDo teu quarto de dormir.\n\nTuas mãos são branca neve\nTeus dedos são lindas flores;\nTeus braços cadeias d’oiro,\nLaços de prender amores.\n\nAnda o luar prateando\nOs ribeiros palradores;\nO ar é quente, a seara\nÉ como um ninho d’amores.\n\nOlhos verdes, cor d’esp’rança,\nInconstantes, cor do mar;\nQuem tem amor é criança\nSou criança por te amar.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/05/em-cima-foto-central-retrato-de.html",
+      "doc": "gc-v:2477669935490166788"
+    },
+    {
+      "id": "braulio-caldas",
+      "rotulo": "Duas coplas de Bráulio Caldas (parcial)",
+      "citacao": "Foge lua envergonhada\nRetira-te lá dos céus.\nQue os olhos da minha amada\nTem mais brilho do que os teus\n\nSe tu és tão adorada.\nSe tu és assim tão bela,\nÉ porque foste formada\nDo brilho dos olhos dela.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/03/dr-braulio-caldas-1861-1905.html",
+      "doc": "gc-v:8297306537073790735",
+      "nota": "O post diz que foi com esta poesia que Hylario cantarolou a primeira versão do Fado Serenata."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

@@ -4,7 +4,7 @@ import { marcas, blocoCitacao } from '../citacoes.js';
 import { cartaoPessoa, cartaoMediaArquivo, cartaoMediaCurado, figuraImagem, vazioCurado, tabelaFactos, ligacaoFonte } from '../componentes.js';
 import { editando } from '../edicao.js';
 import { notasDaFicha } from '../notas.js';
-import { caixaTopo, formNovaImagem, formNovaRelacao, marcaEditorial, formNotaEditor } from '../formularios.js';
+import { caixaTopo, formNovaImagem, formNovaRelacao, formNovaLigacao, marcaEditorial, formNotaEditor } from '../formularios.js';
 
 import { seccaoMembros } from './grupos.js';
 import { formVida, formFacto, seccaoReferencias, linhaVida, botaoNova, dobraDesambiguar } from '../fichas.js';
@@ -24,7 +24,14 @@ import { nEventosDe } from './cronologia.js';
 import { naoEncontrada, semResultados } from './procurar.js';
 // lista de pessoas: procura sem acentos e por qualquer ordem, papéis numa lista que abre no telemóvel
 import { riqueza } from '../estado.js';
-import { raw, termosProcura, temTodas } from '../util.js';
+import { raw, termosProcura, temTodas, classificar, enderecoSeguro, NOME_PLATAFORMA } from '../util.js';
+
+const PLATAFORMAS_OUVIR = new Set(['spotify', 'apple-music', 'youtube', 'soundcloud']);
+/** As ligações de uma ficha: as das plataformas de música (ficam junto dos botões do topo) e as outras (lista própria). */
+function ligacoesDaFicha(p) {
+  const todas = (p.ligacoes || []).filter((l) => enderecoSeguro(l?.url)).map((l) => ({ ...l, plataforma: classificar(l.url)?.plataforma }));
+  return [todas.filter((l) => PLATAFORMAS_OUVIR.has(l.plataforma)), todas.filter((l) => !PLATAFORMAS_OUVIR.has(l.plataforma))];
+}
 import { filtroMultiplo, definirEscolhidos } from '../filtros.js';
 
 
@@ -137,6 +144,7 @@ export async function pessoa(el, id) {
   const parteAnos = (x, campo) => (!x ? '?' : x.diverge ? html`${x.anos.length ? x.anos.join('/') : '?'}<button type="button" class="diverge"
     data-saltar="facto-${campo}" title="As fontes divergem: ver as versões nos Factos" aria-label="as fontes divergem — ver as versões nos Factos">≠</button>` : x.texto);
   const ed = editando(), textos = E.blogueDe[id] || [];
+  const [ouvirFora, outrasLigacoes] = ligacoesDaFicha(p);
   // fotografias acrescentadas por contribuidores: legenda assinada e ligação à página de origem
   const figura = (im) => figuraImagem(im.url, im.editorial ? `${im.legenda ? im.legenda + ' ' : ''}(✎ ${nomeContribuidor(im.editorial.por)})` : im.legenda,
     im.editorial?.origem || ligacaoFonte(im.fontes?.[0]));
@@ -144,7 +152,7 @@ export async function pessoa(el, id) {
     ${k ? html`<button class="botao peq" data-acao="retrato" data-id="${id}" data-url="${im.url}">Usar como retrato</button>` : html`<span class="selo verde">retrato</span>`}
     <button class="botao peq" type="button" data-recortar data-id="${id}" data-url="${im.url}">Recortar 1:1</button>
     <button class="botao peq" data-acao="ocultar-imagem" data-id="${id}" data-url="${im.url}"
-      data-pedir="Porque esconde esta imagem? (ex.: não é esta pessoa, má qualidade). A imagem não se apaga: fica guardada e pode voltar.">Esconder</button></div></div>`;
+      data-pedir="Porque desassocia esta imagem da ficha? (ex.: não é esta pessoa, má qualidade). Deixa de aparecer no site, fica registado quem o fez e pode voltar.">Desassociar</button></div></div>`;
 
   el.innerHTML = html`<div class="conteudo">${barraRevisao('pessoas', p)}
     <header class="ficha-topo">
@@ -165,6 +173,7 @@ export async function pessoa(el, id) {
         ${ed ? caixaTopo(p) : ''}
         <div class="acoes-topo">
           ${botaoOuvirTudo(media)}
+          ${ouvirFora.map((l) => html`<a class="botao" href="${enderecoSeguro(l.url)}" target="_blank" rel="noopener" title="${l.rotulo || ''}">${NOME_PLATAFORMA[l.plataforma] || l.rotulo} ↗</a>`)}
           ${lugar.escola ? html`<a class="botao" href="#/linhagens?ver=escolas&pessoa=${id}">Mestres e alunos (${lugar.escola.ligacoes})</a>` : ''}
           ${nEventos ? html`<a class="botao" href="#/cronologia?pessoa=${id}">Cronologia (${nEventos})</a>` : ''}
           ${comArquivo() ? html`<a class="botao" href="#/arquivo?q=${encodeURIComponent('"' + p.nome + '"')}">Pesquisar no arquivo</a>` : ''}
@@ -217,9 +226,12 @@ export async function pessoa(el, id) {
       ${ed && p.imagens_ocultas?.length ? html`<h3 style="margin:22px 0 10px">Imagens escondidas <small class="mudo">não aparecem no site</small></h3>
         <div class="galeria">${p.imagens_ocultas.map((im) => html`<div class="imagem-editavel oculta">${figura(im)}
           <p class="mudo">Escondida por ${nomeContribuidor(im.oculta.por)} em ${fmtData(im.oculta.data)}${im.oculta.nota ? `: ${im.oculta.nota}` : ''}</p>
-          <div class="acoes"><button class="botao peq" data-acao="mostrar-imagem" data-id="${id}" data-url="${im.url}">Voltar a mostrar</button></div></div>`)}</div>` : ''}
+          <div class="acoes"><button class="botao peq" data-acao="mostrar-imagem" data-id="${id}" data-url="${im.url}">Voltar a associar</button></div></div>`)}</div>` : ''}
       ${ed ? formNovaImagem(id) : ''}</section>` : ''}
 
+    ${outrasLigacoes.length || ed ? html`<section class="seccao estreito" id="sec-ligacoes" data-indice="Ligações"><h2>Ligações</h2>
+      ${outrasLigacoes.length ? html`<ul class="lista-simples">${outrasLigacoes.map((l) => html`<li><a href="${enderecoSeguro(l.url)}" target="_blank" rel="noopener">${l.rotulo || l.url} ↗</a>${l.editorial ? marcaEditorial(l.editorial) : ''}</li>`)}</ul>` : ''}
+      ${ed ? formNovaLigacao(id) : ''}</section>` : ''}
     ${seccaoReferencias(p, `pessoas/${id}`)}
     ${dobraDesambiguar(seccaoDesambiguar('pessoas', p))}
 

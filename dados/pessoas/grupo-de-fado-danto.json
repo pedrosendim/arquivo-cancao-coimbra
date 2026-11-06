@@ -172,7 +172,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://media.rtp.pt/thevoiceportugal/wp-content/uploads/sites/76/2025/08/537769_-D_Anto-8_11zon-scaled-e1756473325344-860x507.jpg",
+      "legenda": "D’Anto",
+      "fontes": [
+        {
+          "fonte": "rtp-play",
+          "url": "https://media.rtp.pt/thevoiceportugal/concorrente/danto/",
+          "doc": "rtp-play:w6f8fa8393ce4a8e1",
+          "citacao": "Tiago, João, Luís e Vasco são amigos e descobriram uma das suas paixões na altura em que estudavam na cidade dos universitários: o fado de Coimbra, cidade onde todos se conheceram."
+        }
+      ]
+    }
+  ],
   "ligacoes": [
     {
       "rotulo": "Canal YouTube do grupo d'Anto (ouvir)",

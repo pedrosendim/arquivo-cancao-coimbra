@@ -81,7 +81,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Image13.jpg",
+      "legenda": "Actuação em Paços de Ferreira, Outubro de 1981. Instrumentistas, da esq. para a dir.: Armando Luís de Carvalho Homem, Armando de Carvalho Homem (1923-1991), António Cunha Pereira, Arnaldo Mello e Castro e José Alão.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/10/jos-alo-m-2006-imagens.html",
+          "doc": "gc-i:115997157637433993",
+          "citacao": "1. Actuação em Paços de Ferreira, Outubro de 1981. Instrumentistas, da esq. para a dir.: Armando Luís de Carvalho Homem, Armando de Carvalho Homem (1923-1991), António Cunha Pereira, Arnaldo Mello e Castro e José Alão."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

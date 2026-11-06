@@ -11,6 +11,17 @@
   ],
   "letra": [],
   "ano": "1961",
+  "letras": [
+    {
+      "id": "aja-baladas-e-cancoes-1964",
+      "rotulo": "Associação José Afonso (LP Baladas e Canções, 1964)",
+      "citacao": "Quem canta por conta sua\nCanta sempre com razão\nMais vale ser pardal na rua\nQue rouxinol na prisão\n\nAdeus que me vou embora\nAdeus que me quero ir\nDeita cá esses teus olhos\nQue me quero despedir\n\nCom os cegos me confundo\nAmor desde que te vi\nNada mais vejo no mundo\nQuando não te vejo a ti\n\nAdeus que me vou embora\nAdeus que me quero ir\nDeita cá esses teus olhos\nQue me quero despedir",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

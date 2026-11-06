@@ -12,6 +12,17 @@
   ],
   "letra": [],
   "ano": "1895",
+  "letras": [
+    {
+      "id": "duas-quadras-originais",
+      "rotulo": "Duas quadras originais (parcial), Cancioneiro de Músicas Populares, vol. II",
+      "citacao": "A minha capa velhinha\nTem a côr da noite escura,\nNão a quero por mortalha\nQuando fôr p'ra sepultura.\n\nEu quero que o meu caixão\nTenha uma forma bizarra,\nA forma de um coração,\nA forma de uma guitarra.",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2023/09/os-fados-de-augusto-hylario.html",
+      "doc": "galaxia-sonora-coimbra:6156911458628167050",
+      "nota": "Cancioneiro de Músicas Populares, César das Neves, vol. II, 1895, pp. 102-103, citado no post."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

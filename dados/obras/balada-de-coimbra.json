@@ -10,6 +10,35 @@
   ],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "a-cancao-de-portugal-1916",
+      "rotulo": "Publicada em «A Canção de Portugal», 1916 (Galáxia Sonora Coimbrã)",
+      "citacao": "Já branca a lua alveja a terra\nJá negra a serra tem alva cor\nPelo Mondego ouvem-se apenas\nTrovas serenas feitas de amor\n\nTristes, bem tristes nossas canções\nSão ilusões da mocidade\nSão os queixumes de um peito triste\nPeito onde existe uma saudade\n\n(côro)\nPorém que importa saudade infinda\nA noite é linda , lindo o luar\nCantai rapazes às raparigas\nTernas cantigas a suspirar\n\n---\n\nJá branca a lua alveja a terra\nJá negra a serra tem alva cor\nPelo Mondego ouvem-se apenas\nTrovas serenas feitas de amor\n\nTristes, bem tristes nossas canções\nSão ilusões da mocidade\nSão os queixumes de um peito triste\nPeito onde existe uma saudade\n\n(côro)\nOs nossos cantos puros singelos\nSão os anelos duma ilusão\nPelos espaços vão ecoando\nAo sopro brando da viração",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/01/balada-de-coimbra-jose-das-neves-elyseu.html",
+      "doc": "galaxia-sonora-coimbra:7239004011952638734",
+      "nota": "A canção de Portugal: o fado, n.º 14, 2 Julho 1916, citado no post."
+    },
+    {
+      "id": "balada-do-mondego-irmaos-caetanos",
+      "rotulo": "Balada do Mondego, transcrita em «Os Irmãos Caetanos» (Guitarra de Coimbra I)",
+      "citacao": "Já branca lua\nAlveja a terra,\nJá negra serra\nTem alva cor!\nPelo Mondego\nOuvem-se apenas\nTrovas serenas,\nFeitas d’amor.\n\nTristes, bem tristes,\nNossas canções,\nSão ilusões\nDa mocidade;\nSão os queixumes\nDum peito triste,\nPeito onde existe\nUma saudade.\n\n(estribilho)\nPorém que importa,\nSaudade infinda?\nA noite é linda...\nLindo o luar!\nCantai rapazes,\nÀs raparigas!\nTernas cantigas\nA suspirar.\n\nE os nossos cantos,\nPuros, singelos,\nSão os anelos\nDuma ilusão!\nPelos espaços\nVão ecoando\nAo sopro brando\nDa viração.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/08/os-irmos-caetanos-antnio-manuel-nunes1.html",
+      "doc": "gc-i:112449926206277360",
+      "nota": "O post anota que Caetano não canta a 3.ª estrofe conforme o original transcrito."
+    },
+    {
+      "id": "oh-mocidade-lauro-de-oliveira",
+      "rotulo": "Oh mocidade, outra letra (Lauro de Oliveira), como gravou Américo Lima",
+      "citacao": "Oh mocidade que foste num sonho\nDeixando saudades num pranto medonho,\nNo peito um soluço sufoca a garganta\nE a nossa alma chora, fingindo que canta.\n\nQu’importa a vida\nSe a chama esmorece?\nSe a crença é perdida\nE o corpo envelhece?\nQueremos de novo\nVoltar a viver\nE a ter um sonho\nQue morre ao nascer.\n\nEsperanças morreram, as almas cantaram,\nOs lábios gemeram e os olhos choraram,\nMas hoje rompemos o velho passado\nVivendo outra vez esse sonho encantado.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2026/05/gravacoes-de-lauro-de-oliveira-com.html",
+      "doc": "gc-v:5924687220407893392",
+      "nota": "Disco Decca PEP 1171, citado no post, com a indicação de música de José Elyseu e letra de Lauro de Oliveira."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

@@ -97,7 +97,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRImFkOghN2ymFXfofAfVxFvYoN9UOFeCZp-jwDi2x-neQJfAvt66xFuRjSTRYw38oEDbW5Rs9GcHW99zyffhlwxB_FCiI1yPwWUKDLJarWPkEmNN80j45n-kmpWxo-IPPhZcDW8mPKbcQmopOivDB0gIk1hfWmko1J9TXKHiNc2iiZKDVZsxlB6mB/s3948/1981%20Tert%C3%BAlia_Fado_Coimbra%20Coimbra.png",
+      "legenda": "Fotografia de Apresentação, Coimbra, 1981. Sentados - Guitarras: José Carlos Teixeira e Álvaro Aroso; Viola: Mário José de Castro. De pé – Cantores: Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel Baptista.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2023/06/canal-da-tertulia-do-fado-de-coimbra.html",
+          "doc": "gc-v:1578621927620632063",
+          "citacao": "FOTO 3: Fotografia de Apresentação, Coimbra, 1981. Sentados - Guitarras: José Carlos Teixeira e Álvaro Aroso; Viola: Mário José de Castro. De pé – Cantores: Joaquim Matos, Nuno de Carvalho, Victor Nunes e José Miguel Baptista."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

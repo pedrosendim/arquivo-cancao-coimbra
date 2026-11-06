@@ -1,0 +1,31 @@
+{
+  "id": "sc-octavio-sergio-balada-de-coimbra-eduardo-de-melo",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-de-coimbra",
+  "titulo": "Balada de Coimbra — Eduardo de Melo (EP Ofir AM 4.023, 1964)",
+  "data": "1964",
+  "pessoas": [
+    "eduardo-de-melo",
+    "ernesto-de-melo",
+    "durval-moreirinhas"
+  ],
+  "obras": [
+    "balada-de-coimbra"
+  ],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/02/cinquentenario-do-lp-fados-from-coimbra.html",
+      "doc": "gc-v:6071417968281872585",
+      "citacao": "EP BALADA DOS SINOS. JOSÉ MIGUEL BAPTISTA. Porto: OFIR, AM 4.023, 1964 ... A.2- BALADA DE COIMBRA, “Guitarrada”, reportada a Artur Paredes. Música de José das Neves Elyseu (1872-1924), arranjo de Eduardo de Melo sobre o legado de Artur Paredes. ... Escuta em contexto investigativo (ficheiros preparados por Octávio Sérgio): ... https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-de-coimbra"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio-azevedo/balada-de-coimbra"
+    }
+  ],
+  "nota": "O disco não está nas fichas de gravações. O post fala deste EP; o LP «Fados from Coimbra» tem outra gravação da mesma obra, a que este ficheiro não se liga.",
+  "estado_revisao": "rascunho"
+}

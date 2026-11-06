@@ -29,7 +29,32 @@
       "nota": "guitarra; formação de 2006 e CD de 2018 (1.ª guitarra)"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Carranca%20com%20guitarra%20e%20viola.jpg",
+      "legenda": "Carlos Carranca com Arnaldo Tomás na viola e Francisco Viana na guitarra, ontem, na Quinta das Lágrimas.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/carlos-carranca-com-arnaldo-toms-na.html",
+          "doc": "gc-i:112015697454195927",
+          "citacao": "Carlos Carranca com Arnaldo Tomás na viola e Francisco Viana na guitarra, ontem, na Quinta das Lágrimas."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Pardalitos%20do%20Mondego%201.jpg",
+      "legenda": "Lançamento do livro de Carlos Carranca, \"Académica sempre...a poética do futebol\". Pardalitos do Mondego com Francisco Viana na guitarra, Arnaldo Tomás na viola e Felisberto Queirós a cantar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/06/lanamento-do-livro-de-carl_111958277701976367.html",
+          "doc": "gc-i:111958277701976367",
+          "citacao": "Pardalitos do Mondego com Francisco Viana na guitarra, Arnaldo Tomás na viola e Felisberto Queirós a cantar."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

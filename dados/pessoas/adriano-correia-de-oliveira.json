@@ -449,6 +449,15 @@
       ]
     }
   ],
-  "ligacoes": [],
+  "ligacoes": [
+    {
+      "rotulo": "Spotify",
+      "url": "https://open.spotify.com/artist/0EchRVZAB5pL1yAanmMXRg"
+    },
+    {
+      "rotulo": "Spotify",
+      "url": "https://open.spotify.com/artist/3jO5vuNDQyuLXMokTVN4Pk"
+    }
+  ],
   "estado_revisao": "rascunho"
 }

@@ -8,6 +8,25 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "antonio-menano-e-edicao-sassetti",
+      "rotulo": "Cantada por António Menano e na edição musical Sassetti",
+      "citacao": "Dizem que as mães querem mais\nAo filho que mais mal faz...\nPor isso te quero tanto\nE tantas mágoas me dás!\n\nPerguntas-me o que é morrer,\nMeu amor, minha alegria,\nMorrer é passar um dia\nTodo inteiro sem te ver!",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+      "doc": "gc-i:6233195127437649063"
+    },
+    {
+      "id": "aja-ep-coimbra-1960",
+      "rotulo": "Associação José Afonso (EP Coimbra, 1960)",
+      "citacao": "Dizem que as mães querem mais\nAo filho que mais mal faz\nPor isso te quero tanto\nQue tantas mágoas me dás\n\nPerguntas-me o que é morrer\nMeu amor minha alegria\nMorrer é passar um dia\nTodo inteiro sem te ver",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

@@ -8,6 +8,17 @@
   ],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "aja-fados-de-coimbra-1953",
+      "rotulo": "Associação José Afonso (single Fados de Coimbra, 1953)",
+      "citacao": "O Sol anda lá no céu\nTão contente atrás da Lua\nTambém trago a minha alma\nDe castigo atrás da tua\n\nFui ao Mondego lavar\nAs penas das minhas mágoas\nMinhas mágoas eram negras\nNegras ficaram as águas",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

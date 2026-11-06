@@ -197,7 +197,20 @@
       "nota": "2.ª guitarra; vídeo da década de 1980 com as «Variações em Mi menor» de Artur Paredes"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Lista%20telefnica%20Foto%20Prxis%20Nova.jpg",
+      "legenda": "As novas Listas Telefónicas da zona centro, ostentam na capa uma foto do grupo PRAXIS NOVA, foto esta também incluída no CD do mesmo grupo, \"Percursos\". À guitarra está José Rabaça e à viola Luís Carlos e Carlos Costa. A cantar, Rui Moreira e Luís Alcoforado.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/as-novas-listas-telefnicas-da-zona.html",
+          "doc": "gc-i:111482502725407824",
+          "citacao": "À guitarra está José Rabaça e à viola Luís Carlos e Carlos Costa. A cantar, Rui Moreira e Luís Alcoforado."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

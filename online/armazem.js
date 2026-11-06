@@ -2,6 +2,9 @@
 // nem esperar pela construção do site. Há uma só instância, por isso uma escrita fica logo visível para todos.
 //   - Contas: quem entra sem GitHub. A palavra-passe nunca chega aqui: o browser transforma-a numa chave (600 000
 //     iterações de PBKDF2, site/js/vistas/conta.js) e aqui só se guarda o resumo dessa chave, com um sal de cada conta.
+//   - Nome de utilizador: por omissão é o id da pessoa; quem o muda fica com um nome aqui guardado (`nome:<utilizador>`). O id
+//     não muda, porque é ele que assina as contribuições, e o resumo da chave refaz-se, porque a chave depende do nome.
+//   - GitHub ligado: quem entra com conta própria pode juntar-lhe o GitHub; a partir daí qualquer das duas abre a mesma conta.
 //   - Links de acesso: servem para escolher a palavra-passe (conta nova ou palavra-passe esquecida). Valem uma vez e
 //     guarda-se só o resumo do link; um link novo para a mesma pessoa anula o anterior.
 //   - Tentativas erradas: ao fim de 5 por conta (ou 20 por endereço IP) numa hora, espera-se 15 minutos.
@@ -55,14 +58,17 @@ export class Armazem {
 
   async verLink({ token }) {
     const l = await this.linkValido(token);
-    return l ? { id: l.id, nova: !await this.g.get(`conta:${l.id}`) } : { erro: LINK_INVALIDO };
+    if (!l) return { erro: LINK_INVALIDO };
+    const conta = await this.g.get(`conta:${l.id}`);
+    return { id: l.id, nova: !conta, utilizador: conta?.utilizador || l.id };
   }
 
   /** Escolher a palavra-passe com um link: serve uma só vez, e as sessões antigas dessa conta deixam de valer. */
   async definir({ token, chave }) {
     const l = await this.linkValido(token);
     if (!l) return { erro: LINK_INVALIDO };
-    const conta = await novaChave(chave);
+    const antes = await this.g.get(`conta:${l.id}`);
+    const conta = { ...antes, ...await novaChave(chave) }; // o nome de utilizador e o GitHub ligado mantêm-se
     await this.g.put(`conta:${l.id}`, conta);
     await this.g.delete([`link:${l.h}`, `link-de:${l.id}`, `falhas:${l.id}`]);
     return { id: l.id, versao: conta.versao };
@@ -91,17 +97,74 @@ export class Armazem {
   async mudar({ id, atual, nova }) {
     const conta = await this.g.get(`conta:${id}`);
     if (!conta || !iguais(await resumo(`${conta.sal}:${atual}`), conta.hash)) return { erro: 'errada' };
-    const nova_ = await novaChave(nova);
+    const nova_ = { ...conta, ...await novaChave(nova) };
     await this.g.put(`conta:${id}`, nova_);
     return { versao: nova_.versao };
   }
 
+  /** Quem usa este nome de utilizador (o nome escolhido ou, sem ele, o próprio id). */
+  async idDe({ utilizador }) { return { id: (await this.g.get(`nome:${utilizador}`)) || utilizador }; }
+
+  /** O que a própria pessoa precisa de saber da sua conta (página A minha conta). */
+  async nomeDe({ id }) {
+    const conta = await this.g.get(`conta:${id}`);
+    return { utilizador: conta?.utilizador || id, tem_conta: !!conta, github_ligado: conta?.github || null };
+  }
+
+  /** Mudar o nome de utilizador: a chave depende do nome, por isso vêm a chave com o nome atual e a chave com o novo. */
+  async mudarUtilizador({ id, novo, atual, nova }) {
+    const conta = await this.g.get(`conta:${id}`);
+    if (!conta || !iguais(await resumo(`${conta.sal}:${atual}`), conta.hash)) return { erro: 'errada' };
+    const dono = await this.g.get(`nome:${novo}`);
+    if (dono && dono !== id) return { erro: 'ocupado' };
+    const nova_ = { ...conta, ...await novaChave(nova), utilizador: novo };
+    await this.g.put({ [`conta:${id}`]: nova_, [`nome:${novo}`]: id });
+    if (conta.utilizador && conta.utilizador !== novo) await this.g.delete(`nome:${conta.utilizador}`);
+    return { versao: nova_.versao };
+  }
+
+  /** Quem entrou com o GitHub cria a sua palavra-passe, sem precisar de um link. */
+  async criarConta({ id, chave }) {
+    if (await this.g.get(`conta:${id}`)) return { erro: 'existe' };
+    await this.g.put(`conta:${id}`, await novaChave(chave));
+    return { ok: true };
+  }
+
+  async ligarGithub({ id, github_id, login }) {
+    const conta = await this.g.get(`conta:${id}`), dono = await this.g.get(`github:${github_id}`);
+    if (!conta) return { erro: 'sem-conta' };
+    if (dono && dono !== id) return { erro: 'ocupado' };
+    await this.g.put({ [`github:${github_id}`]: id, [`conta:${id}`]: { ...conta, github: login, github_id } });
+    return { ok: true };
+  }
+
+  async desligarGithub({ id }) {
+    const conta = await this.g.get(`conta:${id}`);
+    if (!conta?.github_id) return { ok: true };
+    const { github: _g, github_id: gid, ...resto } = conta;
+    await this.g.put(`conta:${id}`, resto);
+    await this.g.delete(`github:${gid}`);
+    return { ok: true };
+  }
+
+  /** A conta própria a que este GitHub foi ligado, se houver. */
+  async contaDoGithub({ github_id }) {
+    const id = await this.g.get(`github:${github_id}`);
+    const conta = id ? await this.g.get(`conta:${id}`) : null;
+    return conta ? { id, versao: conta.versao } : {};
+  }
+
   /** Quem já tem palavra-passe e quem tem um link por usar (para a página Contribuidores). */
   async estado() {
-    const agora = Date.now(), contas = {}, links = {};
-    for (const [k, c] of await this.g.list({ prefix: 'conta:' })) contas[k.slice(6)] = c.em;
+    const agora = Date.now(), contas = {}, links = {}, nomes = {}, github = {};
+    for (const [k, c] of await this.g.list({ prefix: 'conta:' })) {
+      const id = k.slice(6);
+      contas[id] = c.em;
+      if (c.utilizador) nomes[id] = c.utilizador;
+      if (c.github) github[id] = c.github;
+    }
     for (const [, l] of await this.g.list({ prefix: 'link:' })) if (l.expira > agora) links[l.id] = l.expira;
-    return { contas, links };
+    return { contas, links, nomes, github };
   }
 
   async guardarMensagem({ nome, contacto, texto, ip }) {
@@ -148,7 +211,8 @@ export class Armazem {
 }
 
 const OPERACOES = ['criarLink', 'verLink', 'definir', 'entrar', 'versao', 'mudar', 'estado', 'guardarRecentes', 'recentes',
-  'guardarMensagem', 'mensagens', 'marcarMensagem', 'apagarMensagem'];
+  'guardarMensagem', 'mensagens', 'marcarMensagem', 'apagarMensagem',
+  'idDe', 'nomeDe', 'mudarUtilizador', 'criarConta', 'ligarGithub', 'desligarGithub', 'contaDoGithub'];
 
 /** Pede uma operação ao armazém (ao Durable Object, a partir do Worker). */
 export async function armazem(env, op, dados = {}) {

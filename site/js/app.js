@@ -25,11 +25,18 @@ import { separar } from './desambiguar.js';
 import { porValidar } from './vistas/validar.js';
 import { historico } from './historico.js';
 import { alteracoes } from './vistas/alteracoes.js';
-import { entrar, acesso } from './vistas/conta.js';
+import { acesso, conta, entrar } from './vistas/conta.js';
+import { gestaoContribuidores, reservada } from './vistas/reservada.js';
+import { sessao } from './edicao.js';
 import { contacto, mensagens } from './vistas/contacto.js';
 
+/** As páginas da área reservada: quem não entrou vê o ecrã de entrar, e depois volta à página que pediu. */
+const comAcesso = (vista) => (el, ...resto) => (sessao() ? vista(el, ...resto) : entrar(el, { volta: location.hash }));
+const RESERVADAS = new Set(['reservada', 'entrar', 'validar', 'propostas', 'alteracoes', 'mensagens', 'conta']);
+
 const ROTAS = [
-  [/^alteracoes$/, alteracoes], [/^entrar$/, entrar], [/^acesso\/([^/]+)$/, acesso], [/^contacto$/, contacto], [/^mensagens$/, mensagens],
+  [/^alteracoes$/, comAcesso(alteracoes)], [/^reservada$/, reservada], [/^entrar$/, reservada], [/^reservada\/contribuidores$/, comAcesso(gestaoContribuidores)],
+  [/^conta$/, comAcesso(conta)], [/^acesso\/([^/]+)$/, acesso], [/^contacto$/, contacto], [/^mensagens$/, comAcesso(mensagens)],
   [/^procurar$/, procurar],
   [/^$/, inicio], [/^pessoas$/, listaPessoas], [/^pessoa\/([^/]+)$/, pessoa], [/^grupos$/, grupos], [/^linhagens$/, linhagens],
   [/^cronologia$/, cronologia], [/^discografia$/, discografia], [/^gravacao\/([^/]+)$/, gravacao],
@@ -37,8 +44,8 @@ const ROTAS = [
   [/^instrumento\/([^/]+)$/, instrumento], [/^mediateca$/, mediateca], [/^arquivo$/, arquivo],
   [/^doc\/([^/]+)$/, documento], [/^fontes$/, fontes],
   [/^blogue$/, blogue], [/^blogue\/(novo)$/, editarArtigo], [/^blogue\/([^/]+)\/editar$/, editarArtigo], [/^blogue\/([^/]+)$/, artigo],
-  [/^contribuidores$/, contribuidores], [/^contribuir$/, contribuir], [/^propostas$/, propostas],
-  [/^nova\/([a-z]+)$/, novaFicha], [/^editar\/([a-z]+)\/([^/]+)$/, editarFicha], [/^separar\/([a-z]+)\/([^/]+)$/, separar], [/^validar$/, porValidar], [/^historico\/([a-z]+)\/([^/]+)$/, historico],
+  [/^contribuidores$/, contribuidores], [/^contribuir$/, contribuir], [/^propostas$/, comAcesso(propostas)],
+  [/^nova\/([a-z]+)$/, novaFicha], [/^editar\/([a-z]+)\/([^/]+)$/, editarFicha], [/^separar\/([a-z]+)\/([^/]+)$/, separar], [/^validar$/, comAcesso(porValidar)], [/^historico\/([a-z]+)\/([^/]+)$/, historico],
 ];
 
 const TITULO = 'Arquivo da Canção de Coimbra';
@@ -143,6 +150,7 @@ async function encaminhar({ manterPosicao = false } = {}) {
   const grupo = secao === 'pessoa' && E.por.pessoas[decodificar(caminho.split('/')[1] || '')]?.tipo === 'grupo';
   const equivalente = grupo ? 'grupos' : { pessoa: 'pessoas', gravacao: 'discografia', obra: 'obras', instrumento: 'instrumentos',
     arquivo: 'fontes', doc: 'fontes', contribuir: 'contribuidores' }[secao] || secao;
+  $('#area-reservada').classList.toggle('ativo', RESERVADAS.has(secao));
   $$('#nav a').forEach((a) => {
     a.classList.toggle('ativo', a.dataset.rota === equivalente);
     if (a.dataset.rota === equivalente) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');

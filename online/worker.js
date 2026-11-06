@@ -21,7 +21,8 @@ export { Armazem } from './armazem.js';
 
 const ROTAS = {
   '/api/contas/entrar': contas.entrar, '/api/contas/link': contas.link, '/api/contas/ver-link': contas.verLink,
-  '/api/contas/definir': contas.definir, '/api/contas/mudar': contas.mudar, '/api/contas/estado': contas.estado, '/api/recentes': contas.recentes,
+  '/api/contas/definir': contas.definir, '/api/contas/mudar': contas.mudar, '/api/contas/estado': contas.estado,
+  '/api/contas/utilizador': contas.utilizador, '/api/contas/criar': contas.criar, '/api/contas/desligar-github': contas.desligarGithub, '/api/recentes': contas.recentes,
   '/api/mensagem': mensagens.enviar, '/api/mensagens': mensagens.lista,
   '/api/entrar': entrar, '/api/entrar/github': entrarGithub, '/api/sair': sair, '/api/sessao': sessao, '/api/dados': dados,
   '/api/gravar': gravar, '/api/propostas': propostas, '/api/propostas/decidir': decidir, '/api/propostas/retirar': retirar,

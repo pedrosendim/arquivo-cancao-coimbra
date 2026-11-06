@@ -13,6 +13,17 @@
     "felisberto-passos"
   ],
   "ano": "",
+  "letras": [
+    {
+      "id": "repertorio-nuno-guimaraes",
+      "rotulo": "Repertório de Nuno Guimarães (Guitarra de Coimbra V)",
+      "citacao": "Adeus, Minho encantador,\nOnde vive o meu amor\nTão sozinho, abandonado;\nEu hei-de voltar um dia\nP’la Senhora da Agonia,\nHá-de ser nosso noivado.\n\nE se eu nunca mais voltar,\nDeixem meus olhos chorar\nNo adeus da despedida;\nPasso a vida a soluçar,\nQu’importa o mundo girar\nSobre a minha alma perdida.\n\nAdeus, Minho encantador,\nOnde vive o meu amor\nTão sozinho, abandonado...",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/08/estrelas-na-galaxia-sonora-coimbra-o.html",
+      "doc": "gc-v:7337900589765452484",
+      "nota": "O post avisa que há dúvidas sobre a versão original e que se conhecem pelo menos seis variantes."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

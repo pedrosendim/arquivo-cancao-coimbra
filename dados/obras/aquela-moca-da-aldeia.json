@@ -9,6 +9,43 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "paradela-de-oliveira-1927",
+      "rotulo": "Como gravou Paradela de Oliveira em 1927",
+      "citacao": "Aquela moça de aldeia\nQue eu conduzir ao altar,\nHá-de trazer-me à ideia\nDesejos de lhe rezar.\n\nAmei-te só de me olhares,\nO coração adivinha:\n– Deus faz as almas aos pares,\nFez a tua e fez a minha.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2005/10/discografia-de-paradela-de-oliveira-e.html",
+      "doc": "gc-i:112950536448120156"
+    },
+    {
+      "id": "aja-ep-coimbra-1960",
+      "rotulo": "Associação José Afonso (EP Coimbra, 1960)",
+      "citacao": "Aquela moça da aldeia\nQue eu conduzi ao altar\nHá-de trazer-me à ideia\nDesejos de ir rezar\n\nAmei-te só de me olhares\nO coração adivinha\nDeus fez as almas aos pares\nE da tua vida minha",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    },
+    {
+      "id": "aja-pagina-2007",
+      "rotulo": "Página «discocapaebatina» da Associação José Afonso (captura de 2007)",
+      "citacao": "Aquela moça da aldeia\nQue eu conduzi ao altar\nHá-de trazer-me à ideia\nDesejos de eu ir rezar\n\nAmei-te só de me olhares\nO coração adivinha\nDeus fez as almas aos pares\nE da tua vida a minha",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20071118003642/https://aja.pt/discocapaebatina.htm",
+      "doc": "arquivo-pt:wdff743bee34ca2d5",
+      "nota": "Página aja.pt/discocapaebatina.htm da Associação José Afonso, lida na captura do Arquivo.pt."
+    },
+    {
+      "id": "fado-da-se-velha-antonio-menano",
+      "rotulo": "Fado da Sé Velha, outra letra, gravada por António Menano em 1927",
+      "citacao": "Se eu tivesse olhos assim,\nNão os fitava em ninguém,\nOu, então, só os fitava\nEm quem me quisesse bem.\n\nNão olhes para os meus olhos,\nTão velhinhos, nesta idade,\nCautela que te não peguem\nA doença da saudade.",
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/04/antnio-menano-fornos-de-algodres.html",
+      "doc": "gc-i:6233195127437649063",
+      "nota": "O post diz que a mesma melodia também é cantada com os versos de Américo Durão («Aquela moça de aldeia»)."
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

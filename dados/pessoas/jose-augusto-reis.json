@@ -32,7 +32,20 @@
       "nota": "viola; formação de 2006 e CD de 2018"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Pardalitos%20do%20Mondego%2011-7-2006%20Quebra-Costas%201.jpg",
+      "legenda": "Foto da actuação dos Pardalitos do Mondego no dia 11/07 no Quebra Costas. Viola: José Reis (lado esquerdo da foto)",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/07/foto-da-actuao-dos-pardalitos-do.html",
+          "doc": "gc-i:115271930039418055",
+          "citacao": "Foto da actuação dos Pardalitos do Mondego no dia 11/07 no Quebra Costas. Formação do Grupo: Guitarra: Francisco Viana Viola: José Reis (lado esquerdo da foto) Viola: Arnaldo Tomás Cantor: Paulo Cortesão"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

@@ -11,6 +11,16 @@
   ],
   "letra": [],
   "ano": "1898",
+  "letras": [
+    {
+      "id": "galaxia-sonora",
+      "rotulo": "Serenata Balada (Galáxia Sonora Coimbrã)",
+      "citacao": "Corações novos, almas em flôr;\nNos vamos d'olhos allucinados\nFuratando beijos, cantando amor,\nSob o luar dos ceus azulados.\n\nAs nossas capas negras, de lucto,\nSão como as noites mysteriosas:\nBasta estrellal-as o olhar astuto\nD'uma tricana das mais formosas...\n\nE quando trinam as nossas guitarras,\nAcompanhadas dos bandolins,\nVoam das almas canções bizarras,\nE as fontes choram pelos jardins.\n\nAi! sonhos lindos da mocidade,\nAdeus dizer-Vos custa-nos tanto\nÉ cedo ainda flôr da saudade\nPara beberes o nosso pranto.",
+      "fonte": "galaxia-sonora-coimbra",
+      "url": "https://galaxiasonoracoimbra.blogspot.com/2020/02/serenata-balada-aprox-1897.html",
+      "doc": "galaxia-sonora-coimbra:6874605648329719882"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

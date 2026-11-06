@@ -31,7 +31,19 @@
       "nota": "voz; 1981-1985 (segundo Jorge Cravo) ou primeira metade da década"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Filipe%20Pimentel%202018-05-04.png?width=800",
+      "legenda": "António Filipe Pimentel, director of the National Museum of Ancient Art ( Museu Nacional de Arte Antiga ) in Lisbon, Portugal, during the launch of Carla Varela Fernandes's book Pêro: O Mestre das Imagens (1300-1350) , in 2018.",
+      "fontes": [
+        {
+          "fonte": "wikimedia-commons",
+          "url": "https://commons.wikimedia.org/wiki/File%3AAnt%C3%B3nio_Filipe_Pimentel_2018-05-04.png",
+          "citacao": "Imagem (P18) da entidade Wikidata Q48122546: António Filipe Pimentel"
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

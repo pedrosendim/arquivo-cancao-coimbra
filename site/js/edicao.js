@@ -4,7 +4,7 @@
 // Na cópia local o servidor grava, valida e reconstrói o site; online, a mesma alteração seguirá como
 // proposta, que um editor aprova. Nada aqui é fonte: tudo fica assinado (quem, quando, porquê) e à vista.
 import { E, carregar, juntarPendentes, REL, CAMPOS, PAPEIS, nomeDe, comArquivo, TIPOS_FONTE, nomeContribuidor, fonteNome, catalogado, chaveMedia } from './estado.js';
-import { $, api, aviso, guardar, ler, fmtData, norm, classificar, html, plural, enderecoSeguro, MESES } from './util.js';
+import { $, $$, api, aviso, guardar, ler, fmtData, norm, classificar, html, plural, enderecoSeguro, MESES, NOME_PLATAFORMA } from './util.js';
 import { ESPECIES, lerCampos, fichaVazia, fichasIguais, factosDaFichaNova, voltaSegura, outraFichaDoMedia } from './fichas.js';
 import { abrirNotaNova, abrirEditarNota, fecharNota, autorNotaAntiga } from './notas.js';
 import { idDoRotulo } from './desambiguar.js';
@@ -501,6 +501,18 @@ const ACOES = {
     return 'retrato escolhido';
   }),
 
+  'nova-ligacao': ({ id, url, rotulo }) => comPessoa(id, (p) => {
+    url = limparEndereco(url);
+    exigir(urlValida(url), 'O endereço tem de começar por https://');
+    const c = classificar(url), limpo = c?.url || url; // o Spotify fica sem /intl-pt nem ?si=
+    rotulo = texto(rotulo) || NOME_PLATAFORMA[c?.plataforma];
+    exigir(rotulo, 'Diga o que é esta ligação (ex.: Site oficial).');
+    p.ligacoes ||= [];
+    exigir(!p.ligacoes.some((l) => l.url === limpo), 'Essa ligação já está na ficha.');
+    p.ligacoes.push({ rotulo, url: limpo, editorial: assinar() });
+    return `ligação acrescentada: ${rotulo}`;
+  }),
+
   'recortar-imagem': ({ id, url, x, y, zoom }) => comPessoa(id, (p) => {
     const dentro = (v, a, b) => Number.isFinite(+v) && +v >= a && +v <= b;
     exigir(dentro(x, 0, 100) && dentro(y, 0, 100) && dentro(zoom, 1, 5), 'Este enquadramento não é válido.');
@@ -512,7 +524,7 @@ const ACOES = {
     const im = imagemDe(p, url);
     delete im.escolhida;
     im.oculta = assinar(nota ? { nota } : {});
-    return 'imagem escondida';
+    return 'imagem desassociada da ficha';
   }),
 
   'mostrar-imagem': ({ id, url }) => comPessoa(id, (p) => {
@@ -904,7 +916,7 @@ const ACOES = {
     }
     Object.assign(c, { nome, github, papel, apresentacao: String(apresentacao || '').trim() });
     // uma pessoa nova sem GitHub precisa logo do link de acesso (vistas/contribuidores.js abre-o)
-    return { alteracoes: [[caminho, reg]], resumo: `contribuidor ${c.nome}: ${papel}`, ...(!id && !github && E.sessao?.modo === 'online' ? { ir: `#/contribuidores?quem=${c.id}&link=1` } : {}) };
+    return { alteracoes: [[caminho, reg]], resumo: `contribuidor ${c.nome}: ${papel}`, ...(!id && !github && E.sessao?.modo === 'online' ? { ir: `#/reservada/contribuidores?quem=${c.id}&link=1` } : {}) };
   },
 
   // ---- voltar atrás: cada ficheiro volta a ser exatamente o que era num commit do main (o servidor confere-o, «origem»)
@@ -1131,12 +1143,18 @@ export function perguntar({ titulo, corpo, sim = 'Gravar', nao = 'Voltar', class
   });
 }
 
-/** As mensagens por ler, ao lado de «Mensagens» no menu. */
+/** O que espera por quem entrou: fica ao lado de «Área reservada» no menu e nos separadores dela. */
+E.contagens = { propostas: 0, mensagens: 0 };
+function contagem(tipo, n) {
+  E.contagens[tipo] = n;
+  $('#area-reservada .contagem').textContent = (E.contagens.propostas + E.contagens.mensagens) || '';
+  $$(`[data-contagem=${tipo}]`).forEach((x) => { x.textContent = n || ''; });
+}
+
 let mensagensPedidas = false;
 async function contarMensagens() {
   const { contarPorLer } = await import('./vistas/contacto.js');
-  const n = await contarPorLer();
-  $('#nav-mensagens .contagem').textContent = n || '';
+  contagem('mensagens', await contarPorLer());
 }
 
 const NOMES_FICHEIRO = { 'fontes/fontes.json': 'Registo de fontes', 'dados/contribuidores.json': 'Contribuidores', [EXCLUIDOS]: 'Retirados do catálogo' };
@@ -1540,36 +1558,22 @@ const limparErro = (el) => el.querySelectorAll?.('.erros-gravacao').forEach((x) 
 
 export function iniciarEdicao(redesenhar) {
   E.editando = ler('editando', false);
-  const botao = $('#modo-edicao'), entrar = $('#entrar'), navPropostas = $('#nav-propostas'), navValidar = $('#nav-validar');
+  const botao = $('#modo-edicao'), area = $('#area-reservada');
   const online = () => E.sessao?.modo === 'online';
   const desenhar = () => {
-    botao.hidden = !sessao();
+    botao.hidden = !sessao(); // só quem tem acesso à área reservada
     botao.setAttribute('aria-checked', editando());
     botao.querySelector('b').textContent = editando() ? 'ligado' : 'desligado';
     document.documentElement.classList.toggle('a-editar', editando());
-    // online: entrar com o GitHub / sair; na cópia local quem usa o site é sempre o dono
-    entrar.hidden = !online() || !E.sessao.entrada;
-    const dentro = online() && (E.sessao.github || E.sessao.conta);
-    entrar.querySelector('span').textContent = dentro ? (sessao()?.nome || `@${E.sessao.github}`) : 'Entrar';
-    entrar.title = dentro ? 'A sua conta: sair ou mudar a palavra-passe' : 'Entrar (para contribuidores convidados)';
-    navPropostas.hidden = !(online() && sessao());
-    $('#nav-reservada').hidden = !sessao(); // o menu da área reservada só aparece a quem entrou
-    navValidar.hidden = !sessao(); // a lista de trabalho de quem edita
-    $('#nav-alteracoes').hidden = !sessao(); // o que mudou nos dados (vistas/alteracoes.js)
-    const verMensagens = online() && ADMINS.includes(sessao()?.papel);
-    $('#nav-mensagens').hidden = !verMensagens; // o que os visitantes escreveram em Contacto
-    if (verMensagens && !mensagensPedidas) { mensagensPedidas = true; contarMensagens(); }
-  };
-  entrar.onclick = () => {
-    const dentro = E.sessao?.github || E.sessao?.conta;
-    entrar.href = dentro && !sessao() ? '/api/sair' : dentro || location.hash.startsWith('#/entrar') ? '#/entrar' : `#/entrar?volta=${encodeURIComponent(location.hash || '#/')}`;
+    area.title = sessao() ? `Entrou como ${sessao().nome}` : 'Para quem foi convidado a contribuir';
+    if (online() && ADMINS.includes(sessao()?.papel) && !mensagensPedidas) { mensagensPedidas = true; contarMensagens(); }
   };
   document.addEventListener('mensagens-lidas', contarMensagens);
   botao.onclick = () => { E.editando = !E.editando; guardar('editando', E.editando); desenhar(); redesenhar(); };
   desenhar();
   if (online() && sessao()) { // quantas propostas esperam (os editores veem todas; cada contribuidor, as suas, que vê já nas fichas)
     api('propostas', podeAprovar() ? { contar: 1 } : { minhas: 1 }).then(async (r) => {
-      navPropostas.querySelector('b').textContent = (r.n ?? r.propostas.length) || '';
+      contagem('propostas', r.n ?? r.propostas.length);
       if (await aplicarMinhasPropostas(r)) { avisosDaSessao(); await redesenhar(); } // minhas-propostas.js
     }).catch(() => {});
   }
@@ -1595,7 +1599,7 @@ export function iniciarEdicao(redesenhar) {
       const { ir, alteracoes, resposta } = r;
       if (online() && !resposta.publicado && !resposta.aviso) { // proposta de um contribuidor: espera por um editor, e quem a fez vê-a já
         juntarMinhaProposta(alteracoes, resposta.numero); // minhas-propostas.js: só neste browser, com a faixa «à espera de aprovação»
-        if (!resposta.juntada) navPropostas.querySelector('b').textContent = String((+navPropostas.querySelector('b').textContent || 0) + 1);
+        if (!resposta.juntada) contagem('propostas', E.contagens.propostas + 1);
         await carregar();
         desenhar();
         avisosDaSessao();

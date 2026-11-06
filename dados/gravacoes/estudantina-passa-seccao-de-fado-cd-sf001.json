@@ -79,7 +79,9 @@
       "n": 10,
       "titulo": "Vira de Coimbra",
       "obra": "",
-      "media": []
+      "media": [
+        "ouvir-estudantina-passa-seccao-de-fado-cd-sf001-10-spotify"
+      ]
     },
     {
       "n": 11,
@@ -100,7 +102,7 @@
     ]
   },
   "ligacoes": {
-    "spotify": "",
+    "spotify": "https://open.spotify.com/album/4bNk8UaihLb7rjzBgjvYCh",
     "youtube": "",
     "discogs": "https://www.discogs.com/release/7354811",
     "musicbrainz": ""

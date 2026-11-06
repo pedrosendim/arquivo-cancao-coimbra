@@ -35,6 +35,27 @@ function botoesMedia(ids) {
   return itens.map(botaoOuvir); // P4: o que não toca aqui (RTP) é uma ligação para o site original
 }
 
+const NOME_LIGACAO = { spotify: 'Spotify', youtube: 'YouTube', discogs: 'Discogs', musicbrainz: 'MusicBrainz', soundcloud: 'SoundCloud', 'apple-music': 'Apple Music' };
+// plataformas onde se pode procurar uma faixa: a pesquisa abre lá, e o resultado é a própria plataforma que o dá
+const PROCURAR = [
+  ['spotify', 'Spotify', (q) => `https://open.spotify.com/search/${encodeURIComponent(q)}`],
+  ['apple-music', 'Apple Music', (q) => `https://music.apple.com/pt/search?term=${encodeURIComponent(q)}`],
+  ['youtube-music', 'YouTube Music', (q) => `https://music.youtube.com/search?q=${encodeURIComponent(q)}`],
+  ['soundcloud', 'SoundCloud', (q) => `https://soundcloud.com/search?q=${encodeURIComponent(q)}`],
+];
+
+/** Onde se pode procurar uma faixa nas plataformas em que ainda não há ligação direta. Diz «procurar»: o arquivo não sabe se lá está. */
+function procurarFaixa(f, g) {
+  const tem = new Set((f.media || []).map((id) => E.por.media[id]?.plataforma));
+  const faltam = PROCURAR.filter(([k]) => !tem.has(k === 'youtube-music' ? 'youtube' : k));
+  if (!faltam.length) return '';
+  const titulo = f.titulo || E.por.obras[f.obra]?.titulo || '';
+  const quem = (g.interpretes || []).map((i) => nomeDe(i.pessoa)).filter(Boolean)[0] || '';
+  const q = `${titulo} ${quem}`.trim();
+  return html`<details class="procurar-faixa"><summary title="Abre a pesquisa da plataforma; o arquivo ainda não confirmou se a faixa lá está">Procurar</summary>
+    <div>${faltam.map(([, nome, url]) => html`<a href="${url(q)}" target="_blank" rel="noopener">${nome} ↗</a>`)}</div></details>`;
+}
+
 function capaGravacao(g, preguicosa = true) { // na lista, a capa só se descarrega perto do ecrã; no topo do disco, logo
   const url = g.capa?.url;
   return url ? html`<div class="retrato" style="aspect-ratio:1">${imagemCartao(miniatura(url, 500), { preguicosa })}</div>`
@@ -106,12 +127,12 @@ export function gravacao(el, id) {
         ${botaoCorrigir('gravacoes', g.id)}${botaoHistorico('gravacoes', g.id)}${botaoRevisao('gravacoes', g)}${botaoNovoMedia({ gravacao: g.id })}
         ${todosMedia.length && itensDoDisco(g).length ? html`<button class="botao primario" data-fila="${raw(dadosItem(itensDoDisco(g)))}"
           title="As faixas pela ordem do disco; numa faixa com vários vídeos ou áudios, entram todos (o que avança sozinho primeiro)">Ouvir o disco</button>` : ''}
-        ${Object.entries(g.ligacoes || {}).filter(([, u]) => u).map(([k, u]) => html`<a class="botao" href="${u}" target="_blank" rel="noopener">${k} ↗</a>`)}
+        ${Object.entries(g.ligacoes || {}).filter(([, u]) => u).map(([k, u]) => html`<a class="botao" href="${u}" target="_blank" rel="noopener">${NOME_LIGACAO[k] || k} ↗</a>`)}
       </div></div></header>
     ${spotify ? html`<section class="seccao"><iframe style="width:100%;height:352px;border:0;border-radius:12px" src="https://open.spotify.com/embed/${spotify.chave}" title="Spotify: ${g.titulo}" loading="lazy" allow="encrypted-media"></iframe></section>` : ''}
     ${g.faixas?.length ? html`<section class="seccao"><h2>Faixas</h2><ul class="lista-simples">${g.faixas.map((f) => html`<li>
       <span class="mono mudo">${f.n || ''}</span>${f.obra ? html`<a href="#/obra/${f.obra}">${f.titulo || E.por.obras[f.obra]?.titulo}</a>` : f.titulo}
-      <span style="margin-left:auto;display:flex;gap:6px">${botoesMedia(f.media)}</span></li>`)}</ul></section>` : ''}
+      <span class="ouvir-faixa">${botoesMedia(f.media)}${procurarFaixa(f, g)}</span></li>`)}</ul></section>` : ''}
     ${doDisco.length ? html`<section class="seccao"><h2>Vídeos e áudios deste disco <small>ligados ao disco, sem a faixa indicada</small></h2>${cartoesMedia(doDisco)}</section>` : ''}
     ${g.factos?.length || editando() ? html`<section class="seccao"><h2>Factos</h2>${factosSimples(g.factos, { editar: editando() && `gravacoes/${g.id}` })}
       ${editando() ? formFacto(`gravacoes/${g.id}`) : ''}</section>` : ''}

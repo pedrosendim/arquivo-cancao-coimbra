@@ -1,0 +1,25 @@
+{
+  "id": "sc-octavio-sergio-angelus-daldeia-jose-parente",
+  "tipo": "audio",
+  "plataforma": "soundcloud",
+  "url": "https://soundcloud.com/oct-vio-s-rgio/angelus-daldeia-jos-parente",
+  "titulo": "Angelus d'Aldeia — José Parente",
+  "data": "",
+  "pessoas": [],
+  "obras": [],
+  "gravacao": "",
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2015/09/um-pouco-de-jose-parente.html",
+      "doc": "gc-v:498278668188239170",
+      "citacao": "Ficheiros sonoros para escuta: ... ANGELUS D'ALDEIA https://soundcloud.com/oct-vio-s-rgio/angelus-daldeia-jos-parente"
+    },
+    {
+      "fonte": "soundcloud-octavio-sergio",
+      "url": "https://soundcloud.com/oct-vio-s-rgio/angelus-daldeia-jos-parente"
+    }
+  ],
+  "nota": "O post não diz de que disco é. Na verificação de 28-10-2026 o endereço deu HTTP 403: pode já não tocar.",
+  "estado_revisao": "rascunho"
+}

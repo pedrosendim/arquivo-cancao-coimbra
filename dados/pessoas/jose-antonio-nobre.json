@@ -23,7 +23,38 @@
       "nota": "viola; 1978"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Vitor%20Baltasar%206.2.jpg",
+      "legenda": "Arcozelo da Serra, 24 de junho de 1978. Fotografia de grupo; da esquerda para a direita: Carlos Caiado, João Moura, Alte da Veiga, Zé Tó (José António Nobre, quarto) e, de pé, Vítor Baltasar.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "Da esquerda para a direita: Carlos Caiado, João Moura, Alte da Veiga, Zé Tó e de pé o Vítor Baltasar."
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "O José António Coelho Nobre (Zé Tó)"
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/blogger/6011/903/1600/Vitor%20Baltasar%205.2.jpg",
+      "legenda": "Serenata da semana académica, 2 de junho de 1979. Vítor Baltasar a cantar, Carlos Caiado de pé, Zé Tó (José António Nobre) na viola, Tó Pedroso e João Moura na guitarra.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/02/o-renascer-da-cano-de-coimbra.html",
+          "doc": "gc-i:113876315760622258",
+          "citacao": "Vítor Baltasar (canta), Carlos Caiado (de pé segura uma colher de pau), Zé Tó na viola, Tó Pedroso e João Moura na guitarra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

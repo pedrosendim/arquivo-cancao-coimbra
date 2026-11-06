@@ -13,6 +13,17 @@
     "jose-afonso"
   ],
   "ano": "1959",
+  "letras": [
+    {
+      "id": "aja-baladas-de-coimbra-1962",
+      "rotulo": "Associação José Afonso (EP Baladas de Coimbra, 1962)",
+      "citacao": "O meu menino é d’oiro\nÉ de oiro fino\nNão façam caso\nQue é pequenino\n\nO meu menino é d’oiro\nD’oiro fagueiro\nHei-de levá-lo\nNo meu veleiro\n\nVenham aves do céu\nPousar de mansinho\nPor sobre os ombros\nDo meu menino\n\nVenha comigo venham\nQue eu não vou só\nLevo o menino\nNo meu trenó\n\nQuantos sonhos ligeiros\npra teu sossego\nMenino avaro\nNão tenhas medo\nOnde fores no teu sonho\nQuero ir contigo\nMenino de oiro sou teu amigo\n\nVenham altas montanhas\nVentos do mar\nQue o meu menino\nNasceu pra amar\nVenha comigo venham\nQue eu não vou só\nLevo o menino no meu trenó",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

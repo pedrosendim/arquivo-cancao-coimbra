@@ -187,10 +187,11 @@
     "fontes": []
   },
   "ligacoes": {
-    "spotify": "",
+    "spotify": "https://open.spotify.com/album/0breujsERq3lKST8SzeR45",
     "youtube": "",
     "discogs": "https://www.discogs.com/release/16024589",
-    "musicbrainz": ""
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/mx/album/cl%C3%A1ssicos-do-fado-de-coimbra/1601745321"
   },
   "factos": [
     {

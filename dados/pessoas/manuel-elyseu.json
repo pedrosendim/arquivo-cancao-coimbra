@@ -77,7 +77,20 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6e1tRpjkvtrznHcK17FHEsrhpqq_Y0aiTHXf41QhQo5iw05HvUq4r7QoO2Rje5ymd14bf7NJkLMPXeAyjWNpFrDzmjF2fS-82Cs0_v_UcFVfQDU9snMxHjSVDam7CyTGK7i9DbOLcljKUNQzM3oaNMbXQEIeHN0c-IDwhAm1q-CPAWfkMQsbcEGDUToA/s3067/Manuel_elyseu_older.jpg",
+      "legenda": "Manuel, filho de José Elyseu, músico, maestro de Coimbra.",
+      "fontes": [
+        {
+          "fonte": "galaxia-sonora-coimbra",
+          "url": "https://galaxiasonoracoimbra.blogspot.com/2023/07/morena-j-saldanha-junior.html",
+          "doc": "galaxia-sonora-coimbra:1969500277921837269",
+          "citacao": "Manuel, filho de José Elyseu, músico, maestro de Coimbra."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

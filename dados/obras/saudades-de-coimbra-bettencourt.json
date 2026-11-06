@@ -6,6 +6,34 @@
   "musica": [],
   "letra": [],
   "ano": "",
+  "letras": [
+    {
+      "id": "repertorio-edmundo-bettencourt",
+      "rotulo": "Repertório de Edmundo Bettencourt em 78 rpm (Guitarra de Coimbra V)",
+      "citacao": "Oh Coimbra do Mondego\nE dos amores que eu lá tive,\nQuem te não viu, anda cego,\nQuem te não ama, não vive.\n\nDo Choupal até à Lapa\nFoi Coimbra os meus amores.\nA sombra da minha capa\nDeu no chão, abriu em flores.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2016/01/textos-de-referencia-e-inventarios.html",
+      "doc": "gc-v:1121775609630427954",
+      "nota": "Carlos Caiado/Paula Andrade, Antologia do Fado de Coimbra, 1986, pp. 118-119, citado no post como edição musical."
+    },
+    {
+      "id": "gravacao-edmundo-bettencourt-1929",
+      "rotulo": "Gravação de Edmundo Bettencourt, Lisboa, 1929 (Guitarra de Coimbra V)",
+      "citacao": "Oh Coimbra do Mondego\nE dos amores que lá tive,\nQuem te não viu, anda cego;\nQuem te não ama, não vive.\n\n[instrumental]\n\nDo Choupal até à Lapa\nFoi Coimbra os meus amores.\nA sombra da minha capa\nDeu no chão, abriu em flores.",
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/08/edmundo-de-bettencourt.html",
+      "doc": "gc-v:6950798737784833061"
+    },
+    {
+      "id": "aja-fados-de-coimbra-1981",
+      "rotulo": "Associação José Afonso (LP Fados de Coimbra e outras canções, 1981)",
+      "citacao": "Ó Coimbra do Mondego\nE dos amores que eu lá tive\nQuem te não viu anda cego\nQuem te não amar não vive\n\nDo Choupal até à Lapa\nFoi Coimbra os meus amores\nA sombra da minha capa\nDeu no chão, abriu em flores",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

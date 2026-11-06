@@ -14,6 +14,25 @@
     "doc": "gc-iii:854211484143292539",
     "citacao": "Tenho barcos, tenho remos,\nTenho navios no mar;\nTenho o amor ali defronte\nE não lhe posso chegar.\nTenho navios no mar, (bis)\nTenho o amor ali defronte\nNão me posso consolar. (bis)\nJá fui nau, já fui navio\nJá fui chalupa, escaler;\nJá fui moço, já sou homem,\nSó me falta ter mulher.\nSó me falta ter mulher, (bis)\nJá fui moço, já sou homem\nJá fui chalupa, escaler."
   },
+  "letras": [
+    {
+      "id": "guitarra-de-coimbra-iv",
+      "rotulo": "Publicada em Guitarra de Coimbra IV",
+      "citacao": "Tenho barcos, tenho remos\nTenho navios no mar\nTenho amor ali defronte\nE não lhe posso chegar.\n\nTenho navios no mar\nTenho navios no mar\nTenho amor ali defronte\nNão me posso consolar.\nTenho amor ali defronte\nNão me posso consolar.\n\nJá fui mar, já fui navio\nJá fui chalupa escaler\nJá fui moço, já sou homem\nSó me falta ser mulher.\n\nSó me falta ser mulher\nSó me falta ser mulher\nJá fui moço, já sou homem\nJá fui chalupa escaler.",
+      "fonte": "gc-iv",
+      "url": "https://guitarrasdecoimbra2.blogspot.com/2011/05/tenho-barcos-tenho-remos_27.html",
+      "doc": "gc-iv:1079554992716930288"
+    },
+    {
+      "id": "aja-baladas-de-coimbra-1962",
+      "rotulo": "Associação José Afonso (EP Baladas de Coimbra, 1962)",
+      "citacao": "Tenho barcos, tenho remos\nTenho navios no mar\nTenho amor ali defronte\nE não lhe posso chegar.\n\nTenho navios no mar\nTenho navios no mar\nTenho amor ali defronte\nNão o posso consolar.\n\nJá fui mar já fui navio\nJá fui chalupa escaler\nJá fui moço, já sou homem\nSó me falta ser mulher.\n\nSó me falta ser mulher\nSó me falta ser mulher\nJá fui moço, já sou homem\nJá fui chalupa escaler.",
+      "fonte": "arquivo-pt",
+      "url": "https://arquivo.pt/wayback/20231122092006/https://aja.pt/wp-json/wp/v2/pages/22118",
+      "doc": "arquivo-pt:w4cbf0cf48a091847",
+      "nota": "Página aja.pt/letras da Associação José Afonso, lida na captura do Arquivo.pt. Página para leitura: https://arquivo.pt/wayback/20240807203940/https://aja.pt/letras"
+    }
+  ],
   "factos": [
     {
       "campo": "outro",

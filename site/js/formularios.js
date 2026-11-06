@@ -45,7 +45,7 @@ export function caixaTopo(p) {
   return html`<div class="caixa-edicao atalhos-edicao">
     <p class="atalhos"><span class="mudo">Acrescentar:</span> ${atalho('ed-facto', 'Facto')}
       ${grupo ? '' : html`${atalho('ed-nascimento', 'Nascimento')}${atalho('ed-morte', 'Morte')}`}${atalho('ed-relacao', 'Relação')}
-      ${atalho('ed-imagem', 'Fotografia')}${botaoNovoMedia({ pessoas: [p.id] }, 'Vídeo ou áudio')}${atalho('ed-referencia', 'Referência')}
+      ${atalho('ed-imagem', 'Fotografia')}${botaoNovoMedia({ pessoas: [p.id] }, 'Vídeo ou áudio')}${atalho('ed-ligacao', 'Ligação')}${atalho('ed-referencia', 'Referência')}
       ${atalho('ed-nota', '✎ Nota')}</p>
     <div class="acoes"><a class="botao peq" href="#/editar/pessoas/${p.id}">✎ Corrigir nome, outros nomes e atributos</a>
       ${podeAprovar() ? html`<button type="button" class="botao peq" data-acao="revisao" data-id="${p.id}" data-estado="${revisto ? 'rascunho' : 'revisto'}">
@@ -114,6 +114,13 @@ export function camposProva({ opcional = false, uso = 'factos', prefixo = '', ob
     ${opcional ? '' : html`<div class="sem-fonte"><label>Como sabe? <small>opcional: «sou neto», «conversa com o próprio, 2019», «programa do concerto»</small>
       <input class="campo" name="${n('nota_testemunho')}"></label></div>`}</fieldset>`;
 }
+
+/** Uma ligação da pessoa ou grupo: a página de artista numa plataforma de música (botão no topo da ficha) ou outro site. */
+export const formNovaLigacao = (id) => dobra('ed-ligacao', html`+ Acrescentar uma ligação <small>Spotify, Apple Music, YouTube, SoundCloud ou outro site</small>`,
+  html`<form class="caixa-edicao" data-acao="nova-ligacao"><input type="hidden" name="id" value="${id}">
+    <label>Endereço <input class="campo" name="url" type="url" required placeholder="https://open.spotify.com/artist/…"></label>
+    <label>Nome <small>só se não for uma plataforma de música; ex.: Site oficial</small><input class="campo" name="rotulo"></label>
+    <div class="acoes"><button class="botao peq primario">Acrescentar ligação</button></div></form>`);
 
 export function formNovaImagem(id) {
   const p = E.por.pessoas[id];

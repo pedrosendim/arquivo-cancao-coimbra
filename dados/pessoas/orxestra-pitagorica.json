@@ -85,7 +85,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUo5q24Rzv8ABrs2XOcAsUADvfGrPAxl6brwrOFx4NCkHpRzAa3-kx3ETdGnUldCcHl-jOFiobTobR-5RxNLvYJTUhtyXFGEpUoa_th8cnQVkQP5EHP3Qn4b3h6uDjFuWW9iWNtFZg_xwc/s1600/TITO-Pitagorica.gif",
+      "legenda": "Alguns elementos da Orxestra Pitagórica Académica na Queima de 1956.",
+      "fontes": [
+        {
+          "fonte": "gc-iv",
+          "url": "https://guitarrasdecoimbra2.blogspot.com/2011/11/para-os-meus-colegas-e-amigos-do-meu.html",
+          "doc": "gc-iv:2605254998009286214",
+          "citacao": "Alguns elementos da Orxestra Pitagórica Académica na Queima de 1956."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

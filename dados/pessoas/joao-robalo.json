@@ -29,7 +29,20 @@
       "nota": "voz; desde 1985"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGT88gUXKGt0x70T6ZLWR8XcIAczqqemi9kYvvdzuHRrAdw3ATo2zrbSCY7zRgPLTgHqYYAUWjkPLZgFC7PpeAdKyTc4Q8rJgghQhG0pf7eqYVz6EMNCe5SiLekwd8RoLAoEu6S0JKS5II/s1600/Joao+Robalo3.jpg",
+      "legenda": "João Robalo é o segundo dos cantores, em pé a contar da esquerda, sendo que o primeiro é o maestro Virgílio Caseiro, o terceiro é o José Horácio Miranda e que Robalo se encontra atrás do guitarrista Dr. Fernando Monteiro.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/05/joao-robalo.html",
+          "doc": "gc-v:4793634659828319736",
+          "citacao": "Na fotografia que se apresenta, João Robalo é o segundo dos cantores, em pé a contar da esquerda, sendo que o primeiro é o maestro Virgílio Caseiro, o terceiro é o José Horácio Miranda e que Robalo se encontra atrás do guitarrista Dr. Fernando Monteiro."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

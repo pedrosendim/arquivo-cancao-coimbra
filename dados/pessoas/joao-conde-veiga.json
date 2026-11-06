@@ -88,7 +88,32 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzp8aMwOlvwEtou0tgToQuMfNMZWvvaj9P_LOWMvbRej0k-e4ew5hE3xKblDsDMAA1tOW4UR3Zm5aQEx_7JhFlc5VslyMPSfhtoOOHSbF-m2Gpb5qdBgOClAlzjJKAZbR3Dp1hHfh7Y2M/s1600/CondeVeiga,JGodinho,BMadeira,MPepe.jpg",
+      "legenda": "A fotografia que se apresenta, com Conde Veiga à viola, sentado à esquerda de Jorge Godinho, acompanhando Barros Madeira, consta do livro anteriormente referido.",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/04/neste-dia-4de-abril-de-2014-faz-79-anos.html",
+          "doc": "gc-v:4048958739803070006",
+          "citacao": "A fotografia que se apresenta, com Conde Veiga à viola, sentado à esquerda de Jorge Godinho, acompanhando Barros Madeira, consta do livro anteriormente referido."
+        }
+      ]
+    },
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9qqiSLBAxzBy6cd9LXo2-t6AgMEvszkGjucFhjrWuizvJZ-h__apHadUB4KP3hqso6G8FqadESoA1mauY1Teb_v7uwmIp2aSWomXvNu78sy9iTGSsjnMSSZkZLgbYVw9uDODPamnE1eau/s1600/Conde+Veiga.jpg",
+      "legenda": "JOÃO CONDE VEIGA (1935 – 2004). Violista, compositor",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/03/conde-veiga.html",
+          "doc": "gc-v:3000711862838942328",
+          "citacao": "JOÃO CONDE VEIGA (1935 – 2004). Violista, compositor"
+        }
+      ]
+    }
+  ],
   "ligacoes": [
     {
       "rotulo": "Biografia no blogue Guitarra de Coimbra V (Manuel Marques Inácio, 2014)",

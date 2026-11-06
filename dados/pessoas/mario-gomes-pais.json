@@ -23,7 +23,20 @@
       "nota": "voz; 2005"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20Quarteto%20Aeminium%20com%20%20Mrio%20Gomes%20Pais.jpg",
+      "legenda": "Homenagem a Augusto Camacho. Quarteto Aeminium com Mário Gomes Pais a cantar. Aníbal Moreira, Carlos Jesus e Paulo Larguesa.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/homenagem-augusto-camacho_111496839144120041.html",
+          "doc": "gc-i:111496839144120041",
+          "citacao": "Homenagem a Augusto Camacho. Quarteto Aeminium com Mário Gomes Pais a cantar. Aníbal Moreira, Carlos Jesus e Paulo Larguesa."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

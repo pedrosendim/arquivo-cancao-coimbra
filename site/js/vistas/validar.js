@@ -11,6 +11,7 @@ import { marcas, estadoCitacao } from '../citacoes.js';
 import { notaEditorial } from '../formularios.js';
 import { notasDoFacto } from '../notas.js';
 import { porQueDiferentes, papeisIncompativeis } from '../desambiguar.js';
+import { barraReservada } from './reservada.js';
 import { riqueza, rotaFicha, seccaoFila, TIPOS_REVISAO, revista, botaoRevisao, assinadaPor, comNota, camposPorComentar } from '../revisao.js';
 
 const chave = (s) => norm(s).replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
@@ -329,9 +330,7 @@ export function porValidar(el, params = {}) {
   const rever = params.separador === 'rever';
   const ligar = (t, x) => html`<a href="${rotaFicha(t, x)}">${x[ESPECIES[t].titulo] || x.url}</a>`;
 
-  const cabecalho = html`<header class="cabecalho"><p class="sobretitulo">Sobre o arquivo</p><h1>Por validar</h1>
-      <p class="lead">A lista de trabalho de quem edita: o que os dados sugerem que precisa de uma decisão humana, e as fichas por rever.
-        Nada aqui muda sozinho: cada caso abre a ficha ou tem os botões para decidir${ed ? '' : ' (ligue o Modo de edição para os ver)'}.</p></header>
+  const cabecalho = html`${barraReservada('validar', ` Nada aqui muda sozinho: cada caso abre a ficha ou tem os botões para decidir${ed ? '' : ' (ligue o Modo de edição para os ver)'}.`)}
     <nav class="separadores" aria-label="Por validar">
       <a class="separador" href="#/validar${soMeu ? '?meu=1' : ''}" ${rever ? '' : raw('aria-current="page"')}>Por decidir <span class="n">${total.toLocaleString('pt-PT')}</span></a>
       <a class="separador" href="#/validar?separador=rever${soMeu ? '&meu=1' : ''}" ${rever ? raw('aria-current="page"') : ''}>Rever as fichas <span class="n">${porRever.toLocaleString('pt-PT')}</span></a>
@@ -356,6 +355,7 @@ export function porValidar(el, params = {}) {
     ${atalhos.length ? html`<div class="fichas resumo-validar" role="group" aria-label="Ir para">${atalhos.map(([id, nome, n]) =>
       html`<button type="button" class="ficha" data-ir="${id}">${nome}<span class="n">${n.toLocaleString('pt-PT')}</span></button>`)}</div>` : ''}
 
+    <p class="grupo-validar"><b>Questões da IA</b> O que o agente escreveu ou encontrou nos dados e não pode decidir sozinho.</p>
     ${seccaoPares('v-pessoas', 'pessoas', pessoas, 'Pessoas que podem estar repetidas', 'o mesmo nome em duas fichas; se forem pessoas diferentes, marque-as e deixam de aparecer aqui', semelhantes)}
     ${seccaoPares('v-obras', 'obras', obras, 'Obras com o mesmo título', 'a mesma música em duas fichas, ou músicas diferentes com o mesmo nome?')}
     ${seccaoPares('v-discos', 'gravacoes', discos, 'Discos que podem estar repetidos', 'o mesmo título e os mesmos intérpretes, ou a mesma referência')}
@@ -375,15 +375,6 @@ export function porValidar(el, params = {}) {
       <ul class="lista-simples">${fontes.map((f) => html`<li><a href="#/fontes">${f.nome}</a>
         <span class="mudo">${f.proposta_por ? `proposta por ${nomeContribuidor(f.proposta_por)}` : 'proposta pelo agente'}${f.proposta_em ? `, ${fmtData(f.proposta_em)}` : ''}</span></li>`)}</ul>
       ${podeAprovar() ? html`<p><a class="botao" href="#/fontes">Decidir em Fontes e método</a></p>` : ''}</section>` : ''}
-
-    ${deContribuidores.length ? html`<section class="seccao" id="v-contribuidores"><h2>Fichas criadas por contribuidores, por rever <small>${plural(deContribuidores.length, 'ficha', 'fichas')}</small></h2>
-      <ul class="lista-simples">${deContribuidores.map(({ t, x }) => html`<li>${ligar(t, x)} <span class="mudo">${ESPECIES[t].nome} ·
-        ${nomeContribuidor(x.editorial.por)}, ${fmtData(x.editorial.data)}</span>${t === 'media' ? botaoRevisao(t, x, 'botao peq') : ''}</li>`)}</ul></section>` : ''}
-
-    ${testemunhos.length ? html`<section class="seccao" id="v-testemunhos"><h2>Testemunhos à espera de uma fonte <small>${plural(testemunhos.length, 'facto', 'factos')} sem fonte,
-      assinados por quem os sabe; quando aparecer uma fonte, acrescente-a</small></h2>
-      <ul class="lista-simples">${testemunhos.slice(0, 80).map(({ t, x, f }) => html`<li>${ligar(t, x)} <span class="mudo">${CAMPOS[f.campo] || f.campo}: ${f.valor} ·
-        ✎ ${nomeContribuidor(f.editorial.por)}</span></li>`)}</ul></section>` : ''}
 
     ${citacoes.length ? html`<section class="seccao" id="v-citacoes"><h2>Citações por confirmar <small>${plural(citacoes.length, 'citação', 'citações')} que ainda
       não servem de prova verificada: abra o original e veja se a frase lá está, palavra por palavra; se não estiver, corrija-a na ficha</small></h2>
@@ -406,6 +397,16 @@ export function porValidar(el, params = {}) {
           <span class="mudo">${[g.ano, (g.interpretes || []).map((i) => nomeDe(i.pessoa)).join(', '), `faixa ${fx.n || '?'}`].filter(Boolean).join(' · ')}</span>
           ${ed ? html`<a class="botao peq" href="#/editar/gravacoes/${g.id}">✎ Corrigir as faixas</a>` : ''}</li>`)}</ul></div>`)}
       </details></section>` : ''}
+
+    ${deContribuidores.length || testemunhos.length ? html`<p class="grupo-validar"><b>De contribuidores</b> Fichas e testemunhos feitos por pessoas, já no site, à espera de revisão ou de uma fonte. As propostas por aprovar estão no separador Propostas.</p>` : ''}
+    ${deContribuidores.length ? html`<section class="seccao" id="v-contribuidores"><h2>Fichas criadas por contribuidores, por rever <small>${plural(deContribuidores.length, 'ficha', 'fichas')}</small></h2>
+      <ul class="lista-simples">${deContribuidores.map(({ t, x }) => html`<li>${ligar(t, x)} <span class="mudo">${ESPECIES[t].nome} ·
+        ${nomeContribuidor(x.editorial.por)}, ${fmtData(x.editorial.data)}</span>${t === 'media' ? botaoRevisao(t, x, 'botao peq') : ''}</li>`)}</ul></section>` : ''}
+
+    ${testemunhos.length ? html`<section class="seccao" id="v-testemunhos"><h2>Testemunhos à espera de uma fonte <small>${plural(testemunhos.length, 'facto', 'factos')} sem fonte,
+      assinados por quem os sabe; quando aparecer uma fonte, acrescente-a</small></h2>
+      <ul class="lista-simples">${testemunhos.slice(0, 80).map(({ t, x, f }) => html`<li>${ligar(t, x)} <span class="mudo">${CAMPOS[f.campo] || f.campo}: ${f.valor} ·
+        ✎ ${nomeContribuidor(f.editorial.por)}</span></li>`)}</ul></section>` : ''}
 
     ${!total && !faixas.length ? html`<div class="vazio"><h3>Nada por decidir</h3><p>${soMeu ? 'Não há casos em fichas com contributos seus.' : 'Não há casos à espera de decisão.'}
       Veja também as <a href="#/validar?separador=rever">fichas por rever</a>.</p></div>` : ''}

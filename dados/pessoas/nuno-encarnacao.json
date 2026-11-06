@@ -223,7 +223,32 @@
       "nota": ""
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20Capas%20Negras%202.jpg",
+      "legenda": "Grupo \"Capas Negras\". António José Moreira à guitarra, Nuno Encarnação à viola, e de pé, da esquerda para a direita, Luís Alvelos e Eduardo Filipe.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras_13.html",
+          "doc": "gc-i:111599897722488236",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira à guitarra, Nuno Encarnação à viola, e de pé, da esquerda para a direita, Luís Alvelos e Eduardo Filipe."
+        }
+      ]
+    },
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Grupo%20Capas%20Negras.jpg",
+      "legenda": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/05/grupo-capas-negras.html",
+          "doc": "gc-i:111599769022873069",
+          "citacao": "Grupo \"Capas Negras\". António José Moreira, guitarra; Nuno Encarnação, viola; A cantar: Luís Alvelos (em cima) e Eduardo Filipe."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

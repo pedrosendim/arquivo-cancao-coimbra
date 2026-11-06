@@ -33,7 +33,20 @@
     }
   ],
   "relacoes": [],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/hello/258/3919/1024/Saudade%20Coimbra%20Luis%20Jesus.jpg",
+      "legenda": "Foto do Grupo Saudade Coimbrã. Este grupo é constituído por Luís Jesus, na guitarra, Joaquim Santos e Marcelo Cantimelo, nas violas e a cantar, Joaquim Afonso e Ricardo Silva.",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/11/foto-do-grupo-saudade-coimbr.html",
+          "doc": "gc-i:113199465798574716",
+          "citacao": "Foto do Grupo Saudade Coimbrã. Este grupo é constituído por Luís Jesus, na guitarra, Joaquim Santos e Marcelo Cantimelo, nas violas e a cantar, Joaquim Afonso e Ricardo Silva."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

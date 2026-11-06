@@ -25,7 +25,20 @@
       "nota": "guitarra; LP de 1982"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLI403EQ6dH_MyGRSISJkqZzEACriIuqXtPmk-njbwh4_qK7qmE4DICau7YpWOLkptCMWMvGv53zqqTInlaOu7fgLfmvogNf-XHkcKOJlDAzsSyd7Kw7Mdzl4lY12kxKmRJTP/s1600-h/JMOliveira+Fernando+XAVIER.jpg",
+      "legenda": "Caricatura (desenho) de Fernando Xavier, por José Maria Oliveira — não é fotografia",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/caricatura-de-fernando-xavier-realizada.html",
+          "doc": "gc-i:2748042177120054351",
+          "citacao": "Caricatura de Fernando Xavier, realizada pelo inconfundível José Maria Oliveira. Mais uma peça a enriquecer a galeria de guitarristas da nossa eterna Coimbra. Fernando Xavier é o autor do livro \"Recordações de Coimbra - peças para guitarra\""
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }

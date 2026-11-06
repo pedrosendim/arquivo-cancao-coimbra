@@ -34,7 +34,26 @@
       "nota": "viola; gravações de 1989 a 1998"
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "url": "http://photos1.blogger.com/img/258/3919/1024/Joj%20e%20Carlos%20Costa%20Disco%20Trova%20lrica%20victor%20Silva.jpg",
+      "legenda": "Paulo Soares (guitarra) e Carlos Costa (viola). Foto extraída do caderno do CD \"Victor Almeida e Silva - Trova Lírica\"",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/04/paulo-soares-guitarra-e-carlos-costa.html",
+          "doc": "gc-i:111461764493533077",
+          "citacao": "Paulo Soares (guitarra) e Carlos Costa (viola). Foto extraída do caderno do CD \"Victor Almeida e Silva - Trova Lírica\""
+        },
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2006/08/levar-para-frias_10.html",
+          "doc": "gc-i:115521364541912139",
+          "citacao": "A voz é de Victor de Almeida e Silva, a guitarra e arranjos de Paulo Soares (JoJó) e a viola de Carlos Alberto Santos da Costa."
+        }
+      ]
+    }
+  ],
   "ligacoes": [],
   "estado_revisao": "rascunho"
 }
