@@ -6,6 +6,7 @@ import { json } from './comum.js';
 import { paginaComCsp } from './cabecalhos.js';
 import * as contas from './api/contas.js';
 import * as mensagens from './api/mensagens.js';
+import * as foto from './api/foto.js';
 import * as entrar from './api/entrar.js';
 import * as entrarGithub from './api/entrar-github.js';
 import * as sair from './api/sair.js';
@@ -23,7 +24,7 @@ const ROTAS = {
   '/api/contas/entrar': contas.entrar, '/api/contas/link': contas.link, '/api/contas/ver-link': contas.verLink,
   '/api/contas/definir': contas.definir, '/api/contas/mudar': contas.mudar, '/api/contas/estado': contas.estado,
   '/api/contas/utilizador': contas.utilizador, '/api/contas/criar': contas.criar, '/api/contas/desligar-github': contas.desligarGithub, '/api/recentes': contas.recentes,
-  '/api/mensagem': mensagens.enviar, '/api/mensagens': mensagens.lista,
+  '/api/mensagem': mensagens.enviar, '/api/mensagens': mensagens.lista, '/api/foto': foto,
   '/api/entrar': entrar, '/api/entrar/github': entrarGithub, '/api/sair': sair, '/api/sessao': sessao, '/api/dados': dados,
   '/api/gravar': gravar, '/api/propostas': propostas, '/api/propostas/decidir': decidir, '/api/propostas/retirar': retirar,
 };

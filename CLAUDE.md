@@ -41,6 +41,7 @@ python scripts/recolher_blogger.py         # recolher blogues aprovados (feed of
 python scripts/indexar.py                  # reconstruir índice de pesquisa + media (--paginas: só páginas novas)
 python scripts/rtp_arquivos.py sitemap|procurar|recolher|pessoa|pesquisar   # fichas do RTP Arquivos
 python scripts/rtp_catalogar.py [--simular]  # fichas da RTP da Canção de Coimbra → dados/media/rtp-*.json
+python scripts/spotify.py guardar|testar      # chave da API do Spotify, só neste computador (fora do projeto)
 python scripts/discogs.py procurar|artista|lancamento|master       # discografia pela API do Discogs
 python scripts/verificar_media.py          # marca vídeos YouTube/Blogger que já não tocam
 python scripts/pesquisar.py '"Nome"'       # pesquisar o arquivo

@@ -309,7 +309,7 @@ Uma assinatura é `{ "por": "<id do contribuidor>", "data": "AAAA-MM-DD", "nota"
 - Fonte proposta ao citar: quando um contribuidor cita uma página de um site que ainda não está em `fontes/fontes.json`, o site
   regista-o como fonte `pendente` (com `proposta_por`). A citação fica à vista com «pendente» e o `validar.py` dá só um aviso,
   até um editor aprovar ou rejeitar a fonte.
-- `imagens[].editorial`: fotografia acrescentada. Leva `origem`, a página onde a fotografia está publicada.
+- `imagens[].editorial`: fotografia acrescentada. Leva `origem`, a página onde a fotografia está publicada. Os editores também a podem carregar do computador, para os casos em que o endereço caduca (Facebook, Instagram): fica em `fotos/` no repositório público, e o `url` aponta para `raw.githubusercontent.com`. O que entra aí fica no histórico mesmo que se apague. Os agentes nunca carregam fotografias: para eles continua a ser só por ligação.
 - `imagens[].escolhida`: quem escolheu esta imagem para retrato. O retrato é sempre a primeira imagem da lista.
 - `imagens[].oculta`: imagem desassociada da ficha («Desassociar», no site), por exemplo por não ser a pessoa. Não aparece no site, mas continua no ficheiro com quem o fez e o motivo: assim pode voltar, e a mesma imagem não volta a entrar por engano.
 - `imagens[].recorte` = `{ por, data, x, y, zoom }`: o enquadramento 1:1 do retrato, escolhido no site com «Ajustar o retrato». `x` e `y` vão de 0 a 100 e `zoom` de 1 a 5. A fotografia continua no site de origem: só se guarda o enquadramento.

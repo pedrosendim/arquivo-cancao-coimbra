@@ -11,6 +11,7 @@ import { camposProva, marcaEditorial, dobra, maisOpcoes, ABERTOS } from './formu
 import { editando, sessao, podeAprovar, dataDe, lerData, botaoRetirarCatalogo } from './edicao.js';
 import { marcas } from './citacoes.js';
 import { iniciarRascunhos } from './rascunhos.js';
+import { esquecerFoto, prepararFoto } from './fotos.js';
 
 const TIPOS_INSTRUMENTO = ['guitarra de Coimbra', 'guitarra de Lisboa', 'guitarra portuguesa', 'viola', 'bandolim', 'outro'];
 
@@ -812,6 +813,33 @@ export function iniciarFichas() {
     const form = e.target.closest?.('form[data-acao]');
     if (form?.dataset.acao === 'nova-imagem' && e.target.name === 'url') previaImagem(form, true);
     if (form?.dataset.acao === 'nova-relacao') fraseRelacao(form);
+  });
+  // fotografia carregada do computador: substitui o endereço; só se envia ao gravar (fotos.js)
+  document.addEventListener('change', async (e) => {
+    if (!e.target.matches?.('[data-carregar-foto]')) return;
+    const form = e.target.closest('form'), ficheiro = e.target.files[0], erro = $('[data-erro-foto]', form), previa = $('[data-foto-carregada]', form);
+    if (!ficheiro) return;
+    erro.hidden = true;
+    try {
+      previa.src = await prepararFoto(ficheiro, form.elements.id.value);
+      previa.hidden = false;
+      $('[data-retirar-foto]', form).hidden = false;
+      $('[data-por-endereco]', form).hidden = true;
+      form.elements.url.required = false;
+      form.elements.url.value = '';
+      previaImagem(form);
+    } catch (x) { erro.textContent = x.message; erro.hidden = false; }
+    e.target.value = '';
+  });
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest?.('[data-retirar-foto]');
+    if (!b) return;
+    const form = b.closest('form');
+    esquecerFoto();
+    b.hidden = true;
+    $('[data-foto-carregada]', form).hidden = true;
+    $('[data-por-endereco]', form).hidden = false;
+    form.elements.url.required = true;
   });
   document.addEventListener('rascunho-recuperado', (e) => {
     const form = e.target;

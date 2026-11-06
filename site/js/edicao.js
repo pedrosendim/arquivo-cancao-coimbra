@@ -9,6 +9,7 @@ import { ESPECIES, lerCampos, fichaVazia, fichasIguais, factosDaFichaNova, volta
 import { abrirNotaNova, abrirEditarNota, fecharNota, autorNotaAntiga } from './notas.js';
 import { idDoRotulo } from './desambiguar.js';
 import { corpoRecorte, ligarRecorte } from './recorte.js';
+import { enviarFoto, temFoto } from './fotos.js';
 import { avisosDaSessao } from './avisos-edicao.js';
 import { aplicarMinhasPropostas, juntarMinhaProposta } from './minhas-propostas.js';
 import { ID_ANTIGA, versoesDe, versaoDe, autorVersao, podeMudarVersao, juntarVersao, fundirVersoes } from './letras.js';
@@ -532,10 +533,12 @@ const ACOES = {
     return 'imagem de novo visível';
   }),
 
-  'nova-imagem': ({ id, url, origem, legenda, nota, retrato }) => comPessoa(id, (p) => {
-    url = String(url || '').trim(); origem = String(origem || '').trim();
-    exigir(urlValida(url), 'O endereço da imagem tem de começar por https://');
+  async 'nova-imagem'({ id, url, origem, legenda, nota, retrato }) {
+    origem = String(origem || '').trim();
     exigir(urlValida(origem), 'Indique a página onde a fotografia está publicada (começa por https://).');
+    url = temFoto(id) ? await enviarFoto(id) : String(url || '').trim(); // a fotografia carregada só sai do browser agora
+    exigir(urlValida(url), 'O endereço da imagem tem de começar por https://');
+    return comPessoa(id, (p) => {
     p.imagens ||= [];
     exigir(!p.imagens.some((x) => x.url === url), 'Essa imagem já está na ficha.');
     const im = { url, legenda: String(legenda || '').trim(), fontes: [], editorial: assinar({ origem, ...(nota ? { nota } : {}) }) };
@@ -545,7 +548,8 @@ const ACOES = {
       p.imagens.unshift(im);
     } else p.imagens.push(im);
     return 'fotografia acrescentada';
-  }),
+    });
+  },
 
   async 'nova-relacao'({ id, relacao, outro, nova_pessoa, nova_pessoa_papel, nota, ...resto }) {
     const [tipo, sentido] = String(relacao || '').split('|');

@@ -1,0 +1,220 @@
+{
+  "id": "fado-ao-centro-de-coimbra-com-amor-2020",
+  "titulo": "De Coimbra Com Amor",
+  "formato": "CD",
+  "editora": "Fado Ao Centro",
+  "referencia": "",
+  "ano": "2020",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "fado-ao-centro",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Fado Dos Olhos Claros",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Samaritana",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-2-apple-music"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Lamento",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Variações Sobre Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Traz Outro Amigo Também",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-6-spotify"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Balada Da Moleirinha",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-7-apple-music"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Saudades De Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Feiticeira",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-9-apple-music"
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "E Alegre e Fez Triste",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Trova Do Vento Que Passa",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-11-apple-music"
+      ]
+    },
+    {
+      "n": 12,
+      "titulo": "Vira De Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Desencontros",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Penélope",
+      "obra": "",
+      "media": [
+        "ouvir-fado-ao-centro-de-coimbra-com-amor-2020-14-spotify"
+      ]
+    },
+    {
+      "n": 15,
+      "titulo": "Sim",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Maria",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 17,
+      "titulo": "Balada Da Despedida Do 5º Ano Jurídico De 1988/89",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 18,
+      "titulo": "Balada Da Despedida Do 5º Ano Médico De 1957/58",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 19,
+      "titulo": "Coimbra É Uma Lição",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 20,
+      "titulo": "Fado Corrido De Coimbra",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/XMCbJaF5-xN6awVvrMd6SxMQOuBXh_0kXx5BBYmicWY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjI5/NzkzLTE2MzE2Mjk0/MTktMzA5Mi5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/20229793",
+        "doc": "discogs:w5db13f540f716e8b",
+        "citacao": "Imagem (primary): https://i.discogs.com/XMCbJaF5-xN6awVvrMd6SxMQOuBXh_0kXx5BBYmicWY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjI5/NzkzLTE2MzE2Mjk0/MTktMzA5Mi5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/20229793",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × CD, Album, Digipak",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20229793",
+          "doc": "discogs:w5db13f540f716e8b",
+          "citacao": "Formato: 1 × CD, Album, Digipak"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20229793",
+          "doc": "discogs:w5db13f540f716e8b",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2020 (Discogs)",
+      "data": "2020",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/20229793",
+          "doc": "discogs:w5db13f540f716e8b",
+          "citacao": "Data: 2020"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/20229793",
+      "doc": "discogs:w5db13f540f716e8b",
+      "citacao": "Artistas: Fado Ao Centro Editora: Fado Ao Centro – none"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

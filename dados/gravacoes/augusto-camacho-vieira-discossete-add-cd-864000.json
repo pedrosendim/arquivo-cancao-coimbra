@@ -1,0 +1,148 @@
+{
+  "id": "augusto-camacho-vieira-discossete-add-cd-864000",
+  "titulo": "Coimbra Na Voz Do Doutor Camacho Vieira",
+  "formato": "CD",
+  "editora": "Discossete",
+  "referencia": "ADD-CD 864000",
+  "ano": "",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Adeus Coimbra Velhinha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Fado Do 5.º Ano Médico 38",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Serenata",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Sonhos De Criança",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Adeus A Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Mar Alto",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Tempo De Estudante",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Fado Antigo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "A Voz Da Razão",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Fado Do Fim",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/r10o_67HQn4Ng4p58wH_EF0uO-550sFEGQAaqY31Co0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ1/MjQtMTQ0NzA4Njg1/NS0zODE1LmpwZWc.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/7704524",
+        "doc": "discogs:w8fd28fa5198e59e2",
+        "citacao": "Imagem (primary): https://i.discogs.com/r10o_67HQn4Ng4p58wH_EF0uO-550sFEGQAaqY31Co0/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ1/MjQtMTQ0NzA4Njg1/NS0zODE1LmpwZWc.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/6zWC5r5u66TYj4EMtDgP4r",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/7704524",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × CD, Album",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7704524",
+          "doc": "discogs:w8fd28fa5198e59e2",
+          "citacao": "Formato: 1 × CD, Album"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/7704524",
+          "doc": "discogs:w8fd28fa5198e59e2",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Edição em cassete: Discossete C-864, 1992 (Discogs)",
+      "data": "1992",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/36553846",
+          "doc": "discogs:wd099b39d36c7be7c",
+          "citacao": "Editora: Discossete – C-864 Formato: 1 × Cassette, Album, Stereo País: Portugal Data: 1992"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/7704524",
+      "doc": "discogs:w8fd28fa5198e59e2",
+      "citacao": "Editora: Discossete – ADD-CD 864000"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -130,14 +130,19 @@ export function formNovaImagem(id) {
     <div class="procurar-foto"><a class="botao peq" href="https://www.facebook.com/search/photos/?q=${encodeURIComponent(p.nome)}" target="_blank" rel="noopener">Procurar no Facebook</a>
       <a class="botao peq" href="https://www.google.com/search?udm=2&q=${encodeURIComponent(`"${p.nome}" Coimbra`)}" target="_blank" rel="noopener">Procurar imagens</a>
       <small class="mudo">abrem noutro separador; depois cole aqui o endereço da imagem e o da página</small></div>
-    <label>Endereço da imagem <small>no computador: botão direito sobre a imagem › «Copiar endereço da imagem». Também serve o endereço da página de
+    <div data-por-endereco><label>Endereço da imagem <small>no computador: botão direito sobre a imagem › «Copiar endereço da imagem». Também serve o endereço da página de
       uma imagem da Wikimedia Commons ou da Wikipédia (…/wiki/File:…): o da imagem preenche-se sozinho.</small>
-      <input class="campo" name="url" type="url" required placeholder="https://…/fotografia.jpg"></label>
+      <input class="campo" name="url" type="url" required placeholder="https://…/fotografia.jpg"></label></div>
+    ${E.sessao?.modo === 'online' && podeAprovar() ? html`<div class="carregar-foto">
+      <label class="botao peq">Carregar do computador<input type="file" accept="image/*" data-carregar-foto hidden></label>
+      <button type="button" class="botao peq" data-retirar-foto hidden>Retirar</button>
+      <small class="mudo">Para fotografias cujo endereço caduca, como as do Facebook. Fica no GitHub do arquivo, que é público, mesmo que depois a retire: carregue só o que pode publicar.</small>
+      <p class="erro" data-erro-foto hidden></p><img data-foto-carregada alt="Fotografia escolhida" hidden></div>` : ''}
     <div class="previa-imagem" data-previa-imagem aria-live="polite" hidden></div>
     ${comArquivo() && nomes.length ? html`<div class="imagens-do-arquivo"><button type="button" class="botao peq" data-imagens-arquivo>Escolher uma imagem do arquivo</button>
       <small class="mudo">fotografias dos posts que referem ${p.nome}; a página de origem fica a ser o post</small>
       <div class="grelha-imagens" data-lista-imagens hidden></div></div>` : ''}
-    <label>Página onde a fotografia está publicada <small>para se saber de onde vem (o arquivo não guarda cópias)</small>
+    <label>Página onde a fotografia está publicada <small>para se saber de onde vem</small>
       <input class="campo" name="origem" type="url" required placeholder="https://…"></label>
     <label>Legenda <input class="campo" name="legenda" placeholder="Ex.: Carlos Paredes no Coliseu, 1983"></label>
     <label>Nota <small>opcional: como sabe que é esta pessoa, autor da fotografia</small><input class="campo" name="nota"></label>

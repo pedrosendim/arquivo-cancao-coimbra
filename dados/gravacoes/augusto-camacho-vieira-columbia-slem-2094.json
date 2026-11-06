@@ -1,0 +1,86 @@
+{
+  "id": "augusto-camacho-vieira-columbia-slem-2094",
+  "titulo": "Fados de Coimbra",
+  "formato": "EP",
+  "editora": "Columbia",
+  "referencia": "SLEM 2094",
+  "ano": "1961",
+  "local": "Lisboa",
+  "interpretes": [
+    {
+      "pessoa": "augusto-camacho-vieira",
+      "funcao": "voz"
+    },
+    {
+      "pessoa": "antonio-brojo",
+      "funcao": "guitarra de Coimbra"
+    },
+    {
+      "pessoa": "fernando-alvim",
+      "funcao": "viola"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Sonho Desfeito",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Ao Cair da Tarde",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Fado das Lapas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "O Meu Menino",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/fr/album/fados-de-coimbra-ep/1601427067"
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Gravado em 1961; alinhamento pela ordem em que o blogue o enumera",
+      "data": "1961",
+      "fontes": [
+        {
+          "fonte": "gc-v",
+          "url": "https://guitarradecoimbra4.blogspot.com/2014/11/httpssoundcloud_27.html",
+          "doc": "gc-v:7357339220462438124",
+          "citacao": "Espécime gravado em 1961 por Augusto Camacho Vieira (vox), acompanhado por António Brojo/Francisco Menano (ggC) e Fernando Alvim (v nylon): EP FADOS DE COIMBRA. Lisboa: COLUMBIA, SLEM 2094, 1961, onde constam, SONHO DESFEITO (Eu trazia sempre ao peito), de Francisco Menano; AO CAIR DA TARDE (Lá longe… ao cair da tarde), de Florêncio de Carvalho; FADO DAS LAPAS (Entraste com ar cansado), de Francisco Menano; O MEU MENINO (O meu menino é d’oiro), de Paulo de Sá."
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-v",
+      "url": "https://guitarradecoimbra4.blogspot.com/2014/11/httpssoundcloud_27.html",
+      "doc": "gc-v:7357339220462438124",
+      "citacao": "Espécime gravado em 1961 por Augusto Camacho Vieira (vox), acompanhado por António Brojo/Francisco Menano (ggC) e Fernando Alvim (v nylon): EP FADOS DE COIMBRA. Lisboa: COLUMBIA, SLEM 2094, 1961, onde constam, SONHO DESFEITO (Eu trazia sempre ao peito), de Francisco Menano; AO CAIR DA TARDE (Lá longe… ao cair da tarde), de Florêncio de Carvalho; FADO DAS LAPAS (Entraste com ar cansado), de Francisco Menano; O MEU MENINO (O meu menino é d’oiro), de Paulo de Sá."
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

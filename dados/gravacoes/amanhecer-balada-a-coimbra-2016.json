@@ -1,0 +1,179 @@
+{
+  "id": "amanhecer-balada-a-coimbra-2016",
+  "titulo": "Balada A Coimbra",
+  "formato": "CD",
+  "editora": "edição de autor (Discogs: «Not On Label»)",
+  "referencia": "",
+  "ano": "2016",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "amanhecer",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Canção Verdes Anos",
+      "obra": "",
+      "media": [
+        "ouvir-amanhecer-balada-a-coimbra-2016-1-spotify"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Saudades De Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Balada A Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Canção Da Lembrança",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Menino D'Oiro",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Variações Em Lá Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Primavera",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 8,
+      "titulo": "Marcha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 9,
+      "titulo": "Fado Hilário",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Águas Que Passam",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Minha Mãe",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Variações Em Ré Menor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Trova Do Vento Que Passa",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Coimbra",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Balada De Despedida Do VI Ano Médico 57/58",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Balada De Despedida Do V Ano Jurídico 88/89",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/2Oi0V1li067bRjFDnzkXKK",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/14842827",
+    "musicbrainz": ""
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × CD, Album",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14842827",
+          "doc": "discogs:wb2ef942fdd4e70af",
+          "citacao": "Formato: 1 × CD, Album"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14842827",
+          "doc": "discogs:wb2ef942fdd4e70af",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 2016 (Discogs)",
+      "data": "2016",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/14842827",
+          "doc": "discogs:wb2ef942fdd4e70af",
+          "citacao": "Data: 2016"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/14842827",
+      "doc": "discogs:wb2ef942fdd4e70af",
+      "citacao": "Artistas: Grupo De Fado Amanhecer Editora: Not On Label – none"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

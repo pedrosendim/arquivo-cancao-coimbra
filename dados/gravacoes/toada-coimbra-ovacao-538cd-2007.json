@@ -1,0 +1,169 @@
+{
+  "id": "toada-coimbra-ovacao-538cd-2007",
+  "titulo": "Toada Coimbrã",
+  "formato": "CD",
+  "editora": "Ovação",
+  "referencia": "538CD",
+  "ano": "2007",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "toada-coimbra",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Alta Noite na Sé Velha",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Na tua Ausência",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 3,
+      "titulo": "Ficarei até morrer",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Nostalgia (Pela noite quando canto)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Toada Coimbrã (Indicativo)",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 6,
+      "titulo": "Balada da Despedida do 5º Ano Jurídico 88/89",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 7,
+      "titulo": "Fado do Adeus (Penedo)",
+      "obra": "",
+      "media": [
+        "ouvir-toada-coimbra-ovacao-538cd-2007-7-spotify"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Serenata à noite",
+      "obra": "",
+      "media": [
+        "ouvir-toada-coimbra-ovacao-538cd-2007-8-spotify"
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "Renascer",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 10,
+      "titulo": "Trova das Capas",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 11,
+      "titulo": "Triste Devaneio",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 12,
+      "titulo": "Soneto D'Amigo",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 13,
+      "titulo": "Trova de um Amor Perdido",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 14,
+      "titulo": "Canção Para o nosso Amor",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 15,
+      "titulo": "Meu Desalento",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 16,
+      "titulo": "Balada da Despedida do 5º Ano Jurídico 89/90",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "",
+    "fontes": []
+  },
+  "ligacoes": {
+    "spotify": "https://open.spotify.com/album/3p8Loob74598Yf3lzDkyVI",
+    "youtube": "",
+    "discogs": "",
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/us/album/grupo-de-fados-coimbra-toada-coimbr%C3%A3/260317913"
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Alinhamento publicado no blogue a 29-06-2007",
+      "data": "2007-06-29",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/06/toada-coimbr.html",
+          "doc": "gc-i:5974446284989726332",
+          "citacao": "1 – Alta Noite na Sé Velha (António Dias Lucas / Rui Pedro Lucas) ... 16 – Balada da Despedida do 5º Ano Jurídico 89/90 (António Vicente / Rui Pedro Lucas)"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Lançamento do CD no Café Santa Cruz (Coimbra), em dezembro de 2007",
+      "data": "2007-12",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2007/12/ontem-noite-o-caf-santa-cruz-no-chegava.html",
+          "doc": "gc-i:7880251164333080234",
+          "citacao": "estava \"Lotação Esgotada\" no lançamento do CD do Grupo Toada Coimbrã"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "gc-i",
+      "url": "https://guitarradecoimbra.blogspot.com/2007/06/toada-coimbr.html",
+      "doc": "gc-i:5974446284989726332",
+      "citacao": "saiu finalmente o CD de originais da TOADA COIMBRÃ. O CD, com a referência 538CD é editado pela Ovação"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "baladas-de-despedida-anos-80-seccao-de-fado-sf004",
+  "titulo": "Baladas De Despedida (Anos 80)",
+  "formato": "CD",
+  "editora": "Secção de Fado",
+  "referencia": "SF-004",
+  "ano": "1994",
+  "local": "",
+  "interpretes": [
+    {
+      "pessoa": "grupo-academico-de-fados-e-cancoes-de-coimbra",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "toada-coimbra",
+      "funcao": "agrupamento"
+    },
+    {
+      "pessoa": "praxis-nova",
+      "funcao": "agrupamento"
+    }
+  ],
+  "faixas": [
+    {
+      "n": 1,
+      "titulo": "Balada Da Despedida - História De Arte - 1980/84",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 2,
+      "titulo": "Balada Da Despedida - 6º Ano Médico - 1984/85",
+      "obra": "",
+      "media": [
+        "ouvir-baladas-de-despedida-anos-80-seccao-de-fado-sf004-2-spotify"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Balada Da Despedida - Récita De Quintanistas - 1985",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 4,
+      "titulo": "Balada Da Despedida - Récita De Quintanistas - 1986",
+      "obra": "",
+      "media": []
+    },
+    {
+      "n": 5,
+      "titulo": "Balada Da Despedida Do 4º Ano De História - 1987/88",
+      "obra": "",
+      "media": [
+        "ouvir-baladas-de-despedida-anos-80-seccao-de-fado-sf004-5-spotify"
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Balada Da Despedida Do 5º Ano Jurídico 1988/89",
+      "obra": "",
+      "media": [
+        "disco-toada-coimbra-duplisom-sg-3021-balada-da-despedida-do-5-o-ano-juridico"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Balada Da Despedida Do 5º Ano De Economia 1988/89",
+      "obra": "",
+      "media": []
+    }
+  ],
+  "capa": {
+    "url": "https://i.discogs.com/6i6O0A-FqlRG-zd1tYqT6oqoosdtLS_MRKLG3eqFsI4/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE5/MTU0LTE2MDAxOTEz/NTctMjg3OC5qcGVn.jpeg",
+    "fontes": [
+      {
+        "fonte": "discogs",
+        "url": "https://www.discogs.com/release/15919154",
+        "doc": "discogs:w97e8d0ea11e6aeec",
+        "citacao": "Imagem (primary): https://i.discogs.com/6i6O0A-FqlRG-zd1tYqT6oqoosdtLS_MRKLG3eqFsI4/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE5/MTU0LTE2MDAxOTEz/NTctMjg3OC5qcGVn.jpeg"
+      }
+    ]
+  },
+  "ligacoes": {
+    "spotify": "",
+    "youtube": "",
+    "discogs": "https://www.discogs.com/release/15919154",
+    "musicbrainz": "",
+    "apple-music": "https://music.apple.com/pt/album/baladas-de-despedida-anos-80/1474356703"
+  },
+  "factos": [
+    {
+      "campo": "outro",
+      "valor": "Formato (Discogs): 1 × CD, Album",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15919154",
+          "doc": "discogs:w97e8d0ea11e6aeec",
+          "citacao": "Formato: 1 × CD, Album"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "País de edição (Discogs): Portugal",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15919154",
+          "doc": "discogs:w97e8d0ea11e6aeec",
+          "citacao": "País: Portugal"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Ano de edição: 1994 (Discogs)",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/15919154",
+          "doc": "discogs:w97e8d0ea11e6aeec",
+          "citacao": "Data: 1994"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Disco editado em 1994, segundo o blogue",
+      "data": "1994",
+      "fontes": [
+        {
+          "fonte": "gc-i",
+          "url": "https://guitarradecoimbra.blogspot.com/2005/03/capa-do-disco-baladas-de-despedida_15.html",
+          "doc": "gc-i:111090300118676425",
+          "citacao": "Capa do disco \"Baladas de Despedida - anos 80\". Foi um disco editado em 1994"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    },
+    {
+      "campo": "outro",
+      "valor": "Edição em LP: Duplisom L.P. 1.004, 1990 (Discogs)",
+      "data": "1990",
+      "fontes": [
+        {
+          "fonte": "discogs",
+          "url": "https://www.discogs.com/release/10772582",
+          "doc": "discogs:wbf10c36febee41ab",
+          "citacao": "Editora: Duplisom – L.P. 1.004 ... Data: 1990"
+        }
+      ],
+      "conflito": false,
+      "nota": ""
+    }
+  ],
+  "fontes": [
+    {
+      "fonte": "discogs",
+      "url": "https://www.discogs.com/release/15919154",
+      "doc": "discogs:w97e8d0ea11e6aeec",
+      "citacao": "Editora: Secção de Fado – SF-004"
+    }
+  ],
+  "estado_revisao": "rascunho"
+}
