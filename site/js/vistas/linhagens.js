@@ -154,6 +154,106 @@ function cartao(id, x, y, foco) {
 }
 
 const porAno = (a, b) => (anoRef(a) ?? 9999) - (anoRef(b) ?? 9999);
+
+// separação entre cartões: irmãos (e cônjuges) mais perto; famílias diferentes na mesma geração mais longe
+const SEP_IRMAOS = 34, SEP_FAMILIAS = 64, MARGEM = 24;
+
+/** Posições na horizontal de uma árvore já dividida em gerações pelo dagre (guia: site/ARVORES.md).
+ *  Cada nó fica com um «pai principal» (a ligação mais forte; em empate, o lado com mais descendência): isso faz uma
+ *  floresta, desenhada como árvore arrumada — os filhos lado a lado, por ordem de nascimento, e o grupo centrado por baixo
+ *  do ponto de onde desce a linha (o ⚭ do casal ou o cartão do pai/mãe/mestre). As outras ligações (o outro lado de um
+ *  casamento, um segundo mestre) não mexem na disposição: as árvores que só se ligam por elas ficam o mais perto possível
+ *  do sítio onde se ligam, sem se sobreporem. Muda g.node(n).x e a largura do gráfico. */
+function disporNaHorizontal(g, pontos, anoDe) {
+  const nos = g.nodes(), y = {}, larg = {};
+  for (const n of nos) { y[n] = g.node(n).y; larg[n] = g.node(n).width; }
+  const sucessores = (n) => g.outEdges(n).map((e) => e.w).filter((w) => y[w] > y[n]);
+  const desc = {};
+  const contar = (n) => desc[n] ?? (desc[n] = 0, desc[n] = sucessores(n).reduce((s, w) => s + 1 + contar(w), 0));
+  // pai principal: a ligação com mais peso; em empate, quem tem mais descendência; nunca de baixo para cima
+  const principal = {};
+  for (const w of nos) {
+    let melhor = null;
+    for (const e of g.inEdges(w)) {
+      if (!(y[e.v] < y[w])) continue;
+      const peso = g.edge(e)?.weight ?? 1, chave = [peso, contar(e.v)];
+      if (!melhor || chave[0] > melhor.chave[0] || (chave[0] === melhor.chave[0] && chave[1] > melhor.chave[1])) melhor = { v: e.v, chave };
+    }
+    if (melhor) principal[w] = melhor.v;
+  }
+  const filhos = {};
+  for (const [w, v] of Object.entries(principal)) (filhos[v] ||= []).push(w);
+  for (const v of Object.keys(filhos)) filhos[v].sort((a, b) => pontos(v, a)[0] - pontos(v, b)[0] || anoDe(a) - anoDe(b) || (a < b ? -1 : 1));
+
+  // árvore arrumada: contorno [esquerda, direita] por geração, relativo ao centro do nó
+  const rel = {};
+  const arrumar = (v) => {
+    const meio = larg[v] / 2, cont = new Map([[y[v], [-meio, meio]]]), ks = filhos[v] || [];
+    if (!ks.length) return cont;
+    const subs = ks.map(arrumar), dx = [];
+    let acum = null;
+    subs.forEach((s, i) => {
+      if (!acum) { dx.push(0); acum = new Map([...s].map(([r, [l, d]]) => [r, [l, d]])); return; }
+      let d = -Infinity;
+      for (const [r, [l]] of s) if (acum.has(r)) d = Math.max(d, acum.get(r)[1] - l + (r === y[ks[i]] && principal[ks[i - 1]] === v ? SEP_IRMAOS : SEP_FAMILIAS));
+      if (d === -Infinity) d = dx[i - 1] + larg[ks[i - 1]] / 2 + larg[ks[i]] / 2 + SEP_IRMAOS;
+      dx.push(d);
+      for (const [r, [l, dd]] of s) { const a = acum.get(r); acum.set(r, a ? [Math.min(a[0], l + d), Math.max(a[1], dd + d)] : [l + d, dd + d]); }
+    });
+    // o grupo de filhos fica centrado por baixo do ponto de onde desce a linha
+    const ancora = media(ks.map((w) => pontos(v, w)[0])), presos = ks.map((w, i) => dx[i] + pontos(v, w)[1]);
+    const ajuste = ancora - (presos[0] + presos.at(-1)) / 2;
+    ks.forEach((w, i) => { rel[w] = dx[i] + ajuste; });
+    for (const [r, [l, d]] of acum) cont.set(r, [l + ajuste, d + ajuste]);
+    return cont;
+  };
+  const media = (xs) => (xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : 0);
+  const raizes = nos.filter((n) => !principal[n]);
+  const arvores = raizes.map((r) => {
+    arrumar(r);
+    const x = { [r]: 0 }, fila = [r];
+    while (fila.length) { const v = fila.shift(); for (const w of filhos[v] || []) { x[w] = x[v] + rel[w]; fila.push(w); } }
+    return { r, x, n: Object.keys(x).length };
+  }).sort((a, b) => b.n - a.n || anoDe(a.r) - anoDe(b.r));
+
+  // as árvores juntam-se uma a uma, cada uma perto do sítio onde se liga às já postas, sem sobreposição
+  const X = {}, ocupado = {};
+  const pousar = (a, sh) => { for (const [n, x] of Object.entries(a.x)) { X[n] = x + sh; (ocupado[y[n]] ||= []).push([X[n] - larg[n] / 2, X[n] + larg[n] / 2]); } };
+  const proibidos = (a) => {
+    const f = [];
+    for (const [n, x] of Object.entries(a.x)) for (const [b0, b1] of ocupado[y[n]] || []) f.push([b0 - (x + larg[n] / 2) - SEP_FAMILIAS, b1 - (x - larg[n] / 2) + SEP_FAMILIAS]);
+    return f.sort((p, q) => p[0] - q[0]);
+  };
+  const livreMaisPerto = (f, alvo) => {
+    const juntos = [];
+    for (const [a, b] of f) if (juntos.length && a <= juntos.at(-1)[1]) juntos.at(-1)[1] = Math.max(juntos.at(-1)[1], b); else juntos.push([a, b]);
+    const dentro = juntos.find(([a, b]) => alvo > a && alvo < b);
+    if (!dentro) return alvo;
+    return alvo - dentro[0] <= dentro[1] - alvo ? dentro[0] : dentro[1];
+  };
+  const resto = [...arvores];
+  pousar(resto.shift(), 0);
+  while (resto.length) {
+    let melhor = 0, alvo = null, ligacoes = -1;
+    resto.forEach((a, i) => {
+      const ds = [];
+      for (const n of Object.keys(a.x)) for (const e of [...g.inEdges(n), ...g.outEdges(n)]) {
+        const outro = e.v === n ? e.w : e.v;
+        if (X[outro] === undefined) continue;
+        const [pp, pf] = e.v === n ? pontos(n, outro) : pontos(outro, n);
+        ds.push(e.v === n ? (X[outro] + pf) - (a.x[n] + pp) : (X[outro] + pp) - (a.x[n] + pf));
+      }
+      if (ds.length > ligacoes) { ligacoes = ds.length; melhor = i; alvo = ds.length ? media(ds) : null; }
+    });
+    const a = resto.splice(melhor, 1)[0];
+    if (alvo === null) { const dir = Math.max(...Object.values(ocupado).flat().map((i) => i[1])), esq = Math.min(...Object.entries(a.x).map(([n, x]) => x - larg[n] / 2)); alvo = dir - esq + SEP_FAMILIAS; }
+    pousar(a, livreMaisPerto(proibidos(a), alvo));
+  }
+  const minimo = Math.min(...nos.map((n) => X[n] - larg[n] / 2)), maximo = Math.max(...nos.map((n) => X[n] + larg[n] / 2));
+  for (const n of nos) g.node(n).x = X[n] - minimo + MARGEM;
+  g.graph().width = maximo - minimo + 2 * MARGEM;
+}
+
 // símbolo de casamento: dois anéis entrelaçados sobre um fundo que interrompe o traço
 const ANEIS = raw('<ellipse class="fundo" rx="12" ry="7"/><circle cx="-3.6" r="4.6"/><circle cx="3.6" r="4.6"/>');
 
@@ -244,6 +344,19 @@ export function desenharArvore(dagre, comp, foco = '') {
     }
   }
   dagre.layout(g);
+  // o dagre dá as gerações; a posição na horizontal faz-se à parte, com os filhos centrados por baixo dos pais
+  const membrosDe = (n) => (n.startsWith('u:') ? ordem[n.slice(2)] : []);
+  const desvio = (n, id) => { const m = membrosDe(n), i = m.indexOf(id); return i < 0 ? 0 : -largura(m.length) / 2 + W / 2 + i * (W + GAP_CASAL); };
+  const elos = {};
+  const elo = (v, w, pai, filho) => { const e = (elos[`${v}>${w}`] ||= { pais: new Set(), filhos: new Set() }); if (pai) e.pais.add(pai); if (filho) e.filhos.add(filho); };
+  for (const l of arestas.filter((x) => x.hier)) elo(uDe(l.de), uDe(l.para), l.de, l.para);
+  for (const v of virtuais) for (const f of v.filhos) elo(v.k, uDe(f), '', f);
+  const media = (xs) => (xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : 0);
+  disporNaHorizontal(g, (v, w) => {
+    const e = elos[`${v}>${w}`];
+    if (!e) return [0, 0];
+    return [media([...e.pais].map((p) => desvio(v, p))), media([...e.filhos].map((f) => desvio(w, f)))];
+  }, (n) => Math.min(...membrosDe(n).map((id) => anoRef(id) ?? 9999), 9999));
 
   const pos = {};
   for (const [k, membros] of Object.entries(ordem)) {

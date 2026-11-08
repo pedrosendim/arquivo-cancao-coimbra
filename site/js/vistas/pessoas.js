@@ -171,18 +171,15 @@ export async function pessoa(el, id) {
         ${notasDaFicha(p, `pessoas/${id}`)}
         ${seloRevisao(p)}
         ${ed ? caixaTopo(p) : ''}
-        <div class="acoes-topo">
-          ${botaoOuvirTudo(media)}
-          ${ouvirFora.map((l) => html`<a class="botao" href="${enderecoSeguro(l.url)}" target="_blank" rel="noopener" title="${l.rotulo || ''}">${NOME_PLATAFORMA[l.plataforma] || l.rotulo} ↗</a>`)}
-          ${lugar.escola ? html`<a class="botao" href="#/linhagens?ver=escolas&pessoa=${id}">Mestres e alunos (${lugar.escola.ligacoes})</a>` : ''}
-          ${nEventos ? html`<a class="botao" href="#/cronologia?pessoa=${id}">Cronologia (${nEventos})</a>` : ''}
-          ${comArquivo() ? html`<a class="botao" href="#/arquivo?q=${encodeURIComponent('"' + p.nome + '"')}">Pesquisar no arquivo</a>` : ''}
-          ${botaoHistorico('pessoas', id)}
-          ${botoesPartilha(p.nome, p.estado_revisao)}
-        </div>
       </div>
     </header>
-    ${lugarIndice()}
+    ${lugarIndice({
+      inicio: html`${botaoOuvirTudo(media)}${ouvirFora.map((l) => html`<a class="botao" href="${enderecoSeguro(l.url)}" target="_blank" rel="noopener" title="${l.rotulo || ''}">${NOME_PLATAFORMA[l.plataforma] || l.rotulo} ↗</a>`)}`,
+      paginas: html`${lugar.escola ? html`<a class="indice-salto pagina" href="#/linhagens?ver=escolas&pessoa=${id}" title="Abre as Linhagens">Mestres e alunos <span class="n">${lugar.escola.ligacoes}</span> →</a>` : ''}
+        ${nEventos ? html`<a class="indice-salto pagina" href="#/cronologia?pessoa=${id}" title="Abre a Cronologia">Cronologia <span class="n">${nEventos}</span> →</a>` : ''}
+        ${comArquivo() ? html`<a class="indice-salto pagina" href="#/arquivo?q=${encodeURIComponent('"' + p.nome + '"')}" title="Abre a pesquisa no arquivo">Pesquisar no arquivo →</a>` : ''}`,
+      fim: html`${botoesPartilha(p.nome, p.estado_revisao)}${botaoHistorico('pessoas', id)}`,
+    })}
 
     ${p.biografia?.length ? html`<section class="seccao biografia estreito" id="sec-fontes" data-indice="Nas fontes"><h2>Nas palavras das fontes <small>${plural(p.biografia.length, 'excerto', 'excertos')}</small></h2>
       ${p.biografia.map(blocoCitacao)}</section>` : ''}

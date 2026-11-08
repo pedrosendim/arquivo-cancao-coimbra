@@ -810,6 +810,17 @@ html { scroll-padding-top: var(--cabecalho-h); } /* os saltos dentro da página 
 .indice-salto { flex: none; padding: 4px 11px; border: 1px solid var(--linha); border-radius: 999px; background: var(--superficie); color: var(--texto-2); font-size: 13px; white-space: nowrap; }
 .indice-salto:hover { border-color: var(--ouro); color: var(--texto); }
 .indice-salto .n { margin-left: 2px; color: var(--texto-3); font-size: 12px; font-variant-numeric: tabular-nums; }
+/* barra única da ficha: ouvir | saltos e páginas ligadas | partilhar, citar, histórico */
+.barra-ficha { gap: 8px 6px; }
+.barra-ficha .indice-saltos { display: contents; }
+.barra-ficha .indice-saltos[hidden] { display: none; }
+.barra-ficha > .botao { flex: none; padding-block: 6px; }
+.barra-ficha .sep { flex: none; width: 1px; align-self: stretch; margin: 2px 6px; background: var(--linha); }
+.indice-salto.pagina { text-decoration: none; border-style: dashed; }
+.indice-salto.pagina:hover { text-decoration: none; }
+.barra-ficha .barra-fim { display: flex; flex: none; gap: 2px; margin-left: auto; padding-left: 8px; border-left: 1px solid var(--linha); }
+.barra-ficha .barra-fim .botao { padding: 5px 9px; font-size: 12px; background: transparent; border-color: transparent; color: var(--texto-2); }
+.barra-ficha .barra-fim .botao:hover { border-color: var(--linha); color: var(--texto); }
 @media (min-width: 901px) {
   .indice-ficha { position: sticky; top: 0; z-index: 6; }
   .indice-ficha ~ section, .indice-ficha ~ section tr { scroll-margin-top: calc(var(--indice-h, 56px) + 10px); }
@@ -818,6 +829,7 @@ html { scroll-padding-top: var(--cabecalho-h); } /* os saltos dentro da página 
   .indice-ficha { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
   .indice-ficha::-webkit-scrollbar { display: none; }
   .indice-ficha ~ section, .indice-ficha ~ section tr { scroll-margin-top: 12px; }
+  .barra-ficha .barra-fim { margin-left: 0; }
 }
 @media (pointer: coarse) { .indice-salto { min-height: 40px; } }
 /* factos: muitos factos sem conflito de um campo ficam em «mais N»; as versões que divergem ficam sempre à vista */

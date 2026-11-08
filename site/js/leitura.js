@@ -52,8 +52,11 @@ export function seloRevisao(f) {
 
 // ------------------------------------------------------------------ «Nesta ficha»: saltos para as secções
 
-/** Lugar da linha «Nesta ficha»; desenharIndice() enche-a com as secções que a página tem. */
-export const lugarIndice = () => html`<nav class="indice-ficha" data-indice-ficha aria-label="Nesta ficha"></nav>`;
+/** A barra única da ficha, presa ao topo: à esquerda ouvir, ao meio os saltos para as secções desta ficha e as páginas
+ *  ligadas (cronologia, mestres e alunos), à direita partilhar, citar e o histórico. desenharIndice() enche os saltos. */
+export const lugarIndice = ({ inicio = '', paginas = '', fim = '' } = {}) => html`<nav class="indice-ficha barra-ficha" data-indice-ficha aria-label="Nesta ficha">
+  ${inicio ? html`${inicio}<span class="sep" aria-hidden="true"></span>` : ''}<div class="indice-saltos" data-saltos></div>${paginas}
+  ${fim ? html`<div class="barra-fim">${fim}</div>` : ''}</nav>`;
 
 // títulos longos das secções, em versão curta para a linha de saltos
 const CURTOS = [['Nas palavras das fontes', 'Nas fontes'], ['Media catalogado', 'Media'], ['Vídeos no arquivo', 'Vídeos no arquivo'],
@@ -74,8 +77,10 @@ export function desenharIndice(vista = document) {
     const n = s.dataset.n ?? (/^\s*(\d[\d\s.]*)/.exec($(':scope > small', h2)?.textContent || '')?.[1] || '').replace(/\D/g, '');
     return { id: s.id, rotulo, n: n === '' || n === '0' ? '' : n };
   });
-  nav.hidden = entradas.length < 3;
-  nav.innerHTML = html`<span class="indice-rotulo">Nesta ficha</span>${entradas.map((x) => html`<button type="button" class="indice-salto"
+  const saltos = $('[data-saltos]', nav) || nav, poucos = entradas.length < 3;
+  saltos.hidden = poucos;
+  nav.hidden = poucos && saltos === nav;
+  saltos.innerHTML = poucos ? '' : html`<span class="indice-rotulo">Nesta ficha</span>${entradas.map((x) => html`<button type="button" class="indice-salto"
     data-saltar="${x.id}">${x.rotulo}${x.n ? html` <span class="n">${Number(x.n).toLocaleString('pt-PT')}</span>` : ''}</button>`)}`.s;
   // no computador a linha fica presa ao topo: os saltos param por baixo dela, seja qual for a sua altura
   const medir = () => nav.parentElement?.style.setProperty('--indice-h', `${Math.ceil(nav.getBoundingClientRect().height)}px`);
