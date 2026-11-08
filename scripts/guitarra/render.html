@@ -1,0 +1,56 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Render da guitarra da página inicial</title>
+<!--
+  Render de estúdio da guitarra de Coimbra que aparece na página inicial (site/js/vistas/guitarra.js).
+
+  Uso: abrir este ficheiro num browser (Edge, Chrome ou Firefox), carregar em «Exportar as peças» e copiar os ficheiros
+  descarregados para site/img/guitarra/. Demora cerca de um minuto (três guitarras, 7 píxeis por milímetro).
+
+  Medidas: comprimento total, cabeça, braço e caixa segundo Veiga de Oliveira (post «A Guitarra Portuguesa», Guitarra de
+  Coimbra I); escala de 470 mm; a silhueta do corpo, a cabeça e o guarda-unhas foram medidos numa fotografia de estúdio
+  enviada pelo fundador (a fotografia não está no projeto). É um desenho: não representa nenhuma guitarra concreta.
+  As três variantes (simples, madrepérola, flores) diferem na rosácea, no leque, na lágrima, nos botões e no guarda-unhas.
+-->
+<style>
+  body { font: 14px system-ui, sans-serif; margin: 24px; background: #eee; color: #222; }
+  button { font: inherit; padding: 8px 14px; margin-right: 8px; cursor: pointer; }
+  #estado { margin: 14px 0; white-space: pre-line; }
+  canvas { max-width: 100%; height: auto; background: #fff; display: block; margin-top: 12px; }
+  #saida { max-height: 70vh; width: auto; }
+</style>
+<p><button id="exportar">Exportar as peças</button><button id="ver">Ver a guitarra simples</button></p>
+<p id="estado">Pronto.</p>
+<canvas id="saida"></canvas>
+<script src="render.js"></script>
+<script>
+  // as mesmas peças e recortes que a página inicial espera (em milímetros; ver PECAS em site/js/vistas/guitarra.js)
+  const R = 7, Q = 0.92;
+  const estado = document.getElementById('estado');
+  const descarregar = (nome, dados) => { const a = document.createElement('a'); a.href = dados; a.download = nome; document.body.append(a); a.click(); a.remove(); };
+  const esperar = () => new Promise((r) => setTimeout(r, 30));
+  async function exportar() {
+    for (const v of ['simples', 'madreperola', 'flores']) {
+      estado.textContent = `A desenhar a guitarra «${v}»…`; await esperar();
+      pintarGuitarra({ R, x0: -200, y0: -6, x1: 200, y1: 836, variante: v });
+      descarregar(`cabeca-${v}.webp`, recorte(-62, -6, 62, 196, 1, 'image/webp', Q));
+      descarregar(`corpo1-${v}.webp`, recorte(-198, 405, 198, 620, 1, 'image/webp', Q));
+      descarregar(`corpo2-${v}.webp`, recorte(-198, 616, 198, 836, 1, 'image/webp', Q));
+      descarregar(`inteira-${v}.webp`, recorte(-200, -6, 200, 836, 1.7 / R, 'image/webp', 0.8));
+      if (v === 'simples') {
+        descarregar('braco.webp', recorte(-36, 190, 36, 432, 1, 'image/webp', Q));
+        const s = document.getElementById('saida'), f = 0.5 / R, m = 30, c = document.createElement('canvas');
+        c.width = Math.round(s.width * f + 2 * m); c.height = Math.round(s.height * f + 2 * m);
+        const k = c.getContext('2d'); k.filter = 'blur(7px)'; k.drawImage(s, m, m, s.width * f, s.height * f); k.filter = 'none';
+        k.globalCompositeOperation = 'source-in'; k.fillStyle = '#1a120c'; k.fillRect(0, 0, c.width, c.height);
+        descarregar('sombra.png', c.toDataURL('image/png'));
+        estado.textContent = 'A desenhar o interior…'; await esperar();
+        pintarInterior({ R: 3.4, x0: -200, y0: 400, x1: 200, y1: 836 });
+        descarregar('dentro.webp', recorte(-200, 400, 200, 836, 1, 'image/webp', 0.86));
+      }
+    }
+    estado.textContent = 'Feito: 15 ficheiros descarregados. Copie-os para site/img/guitarra/.';
+  }
+  document.getElementById('exportar').onclick = () => exportar().catch((e) => { estado.textContent = 'Falhou: ' + e.message; });
+  document.getElementById('ver').onclick = async () => { estado.textContent = 'A desenhar…'; await esperar(); const r = pintarGuitarra({ R: 2, x0: -200, y0: -6, x1: 200, y1: 836, variante: 'simples' }); estado.textContent = `${r.w} × ${r.h} píxeis`; };
+</script>

@@ -1663,3 +1663,92 @@ form.preenchido { outline: 2px solid var(--ouro); outline-offset: 3px; }
 .carregar-foto > small { flex: 1 1 260px; }
 .carregar-foto img { flex-basis: 100%; max-width: 220px; max-height: 220px; object-fit: contain; }
 .carregar-foto > .erro { flex-basis: 100%; margin: 0; }
+
+/* ===== Página inicial: a guitarra (vistas/inicio.js e vistas/guitarra.js) ===== */
+/* o palco e as camadas ficam presos ao ecrã, por cima do fundo e por baixo do texto; a guitarra nunca se mexe para os lados */
+.g-palco, .g-nomes, .g-memorias { position: fixed; left: var(--lateral); right: 0; top: var(--cabecalho-h); height: calc(100vh - var(--cabecalho-h)); height: calc(100dvh - var(--cabecalho-h)); }
+.g-palco { z-index: 0; display: block; width: calc(100% - var(--lateral)); }
+.g-nomes, .g-memorias { z-index: 2; overflow: hidden; pointer-events: none; }
+.g-inicio > section { position: relative; z-index: 1; }
+:root.g-apontar main { cursor: pointer; }
+.g-oculto { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.g-abertura { min-height: calc(100vh - 40px); min-height: calc(100dvh - 40px); display: flex; align-items: center; }
+.g-texto { max-width: 25rem; min-width: 0; }
+.g-texto h1 { font-size: clamp(2.5rem, 4.2vw, 3.6rem); line-height: 1.05; }
+.g-texto h1 em { color: var(--ouro); font-style: italic; }
+.g-texto .lead { font: 400 18px/1.6 var(--f-leitura); color: var(--texto-2); margin: 16px 0 22px; }
+.g-texto form { display: flex; gap: 8px; }
+.g-texto form .campo { flex: 1; min-width: 0; height: 46px; font-size: 16px; }
+.g-texto form .botao { height: 46px; }
+.g-neste-dia { margin-top: 28px; }
+.g-neste-dia h2 { margin-bottom: 4px; }
+.g-neste-dia small { margin-left: 6px; font: 500 12px var(--f-mono); letter-spacing: 0; text-transform: none; color: var(--texto-3); }
+.g-efemerides { list-style: none; margin: 0; padding: 0; font-size: 14px; line-height: 1.45; color: var(--texto-2); }
+.g-efemerides li { padding: 7px 0; border-top: 1px solid var(--linha); }
+.g-efemerides li.mudo { font-size: 12.5px; }
+.g-efemerides .ano { font: 600 12px var(--f-mono); color: var(--ouro); margin-right: 8px; }
+.g-descida { height: 330vh; }
+.g-corpo { height: 160vh; }
+.g-mergulho { height: 340vh; }
+/* os nomes nos trastes */
+.g-nome { position: absolute; left: 0; top: 0; display: flex; align-items: center; padding-left: 28px; height: 42px; margin-top: -21px; white-space: nowrap; color: var(--texto); visibility: hidden; }
+.g-nome::before { content: ""; position: absolute; left: 0; top: 50%; width: 24px; height: 1px; background: var(--ouro); }
+.g-nome b { display: flex; flex-direction: column; font: 600 18px/1.1 var(--f-titulo); background: var(--fundo); padding: 3px 8px 4px; border-radius: 4px; }
+.g-nome span { font: 500 11px/1.3 var(--f-mono); color: var(--ouro); }
+.g-nome:hover { text-decoration: none; } .g-nome:hover b { color: var(--ouro-forte); }
+.g-nome.g-ticker { padding-left: 0; } .g-nome.g-ticker::before { display: none; } .g-nome.g-ticker b { border: 1px solid var(--linha-forte); box-shadow: var(--sombra); }
+/* as memórias: aparecem e desaparecem do lado esquerdo */
+.g-mem { position: absolute; left: 0; top: 0; width: 14rem; display: grid; grid-template-columns: auto 1fr; gap: 1px 10px; align-items: center; padding: 7px 10px 7px 7px;
+  background: var(--superficie); border: 1px solid var(--linha-forte); border-radius: 8px; box-shadow: var(--sombra); color: var(--texto); text-align: left;
+  font: inherit; pointer-events: auto; cursor: pointer; opacity: 0; transition: opacity .8s ease; }
+.g-mem.ver { opacity: 1; }
+.g-mem:hover { border-color: var(--ouro); text-decoration: none; }
+.g-mem em { font: 500 10px var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--ouro); font-style: normal; }
+.g-mem b { font: 600 15px/1.2 var(--f-titulo); overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.g-mem small { font-size: 11.5px; line-height: 1.3; color: var(--texto-3); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.g-fig { grid-row: span 3; display: block; position: relative; overflow: hidden; }
+.g-fig img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; }
+.g-retrato { width: 40px; height: 40px; border-radius: 50%; background: radial-gradient(circle at 50% 38%, var(--linha-forte) 0 22%, transparent 23%), radial-gradient(ellipse at 50% 100%, var(--texto-3) 0 46%, transparent 47%), var(--fundo-2); }
+.g-capa { width: 44px; height: 44px; border-radius: 3px; background: radial-gradient(circle at 50% 50%, #111 0 7%, #2b2724 8% 10%, #111 11% 30%, #1b1816 31% 32%, #111 33% 46%, transparent 47%), var(--ouro); }
+.g-ecra { width: 58px; height: 34px; border-radius: 3px; background: #1a1612; }
+.g-ecra::after { content: ""; position: absolute; left: 50%; top: 50%; translate: -35% -50%; border-left: 9px solid rgba(239, 230, 212, .9); border-block: 5.5px solid transparent; }
+/* trocar de guitarra e ligar o som: à direita, a meia altura */
+.g-controlos { position: fixed; z-index: 3; right: max(16px, env(safe-area-inset-right)); bottom: calc(16px + var(--leitor-h) + env(safe-area-inset-bottom)); display: grid; gap: 8px; justify-items: end; }
+/* a página acaba onde acaba a guitarra: sem o espaço do fim do <main>, a etiqueta fica presa ao centro até ao fim */
+.g-inicio { margin-bottom: calc(-80px - var(--leitor-h)); }
+.g-seguinte { display: grid; justify-items: center; gap: 2px; width: 58px; padding: 10px 6px 8px; background: var(--superficie); border: 1px solid var(--linha-forte); border-radius: 8px; color: var(--texto); font: 500 11px var(--f-mono); }
+.g-seguinte b { font: 400 26px/1 var(--f-titulo); }
+.g-seguinte:hover { border-color: var(--ouro); color: var(--ouro-forte); }
+.g-som { width: 58px; padding: 6px 4px; background: var(--superficie); border: 1px solid var(--linha-forte); border-radius: 8px; color: var(--texto-2); font: 500 10.5px/1.25 var(--f-ui); }
+.g-som[aria-pressed="true"] { background: var(--texto); color: var(--fundo); border-color: var(--texto); }
+.g-controlos [hidden] { display: none; }
+.g-acorde { position: fixed; z-index: 3; left: calc(var(--lateral) + (100% - var(--lateral)) * var(--g-cx, .57)); bottom: calc(18px + var(--leitor-h) + env(safe-area-inset-bottom)); translate: -50% 0; display: flex; gap: 8px; }
+.g-acorde[hidden] { display: none; }
+.g-acorde .botao { box-shadow: var(--sombra); }
+/* a etiqueta colada no fundo da caixa (papel: as mesmas cores nos dois temas) */
+.g-dentro { position: sticky; top: var(--cabecalho-h); height: calc(100vh - var(--cabecalho-h)); height: calc(100dvh - var(--cabecalho-h)); display: flex; align-items: center; justify-content: center; }
+.g-etiqueta { position: relative; width: min(26rem, 100%); padding: 24px 28px 20px; background: #f1e7cf; color: #2a2118; text-align: center; visibility: hidden;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, .5), 0 14px 34px rgba(0, 0, 0, .55); transform: rotate(-1.4deg); }
+.g-etiqueta::before, .g-etiqueta::after { content: ""; position: absolute; pointer-events: none; }
+.g-etiqueta::before { inset: 7px; border: 1px solid #8a7648; }
+.g-etiqueta::after { inset: 10px; border: 1px solid #b7a67f; }
+.g-rotulo { margin: 0 0 6px; font: 600 12.5px var(--f-ui); letter-spacing: .14em; text-transform: uppercase; color: #7a3b16; }
+.g-numeros { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 14px; margin-top: 10px; text-align: left; }
+.g-numeros a { position: relative; z-index: 1; display: block; padding: 8px 10px; color: inherit; border: 1px solid transparent; border-radius: 4px; }
+.g-numeros a:hover { border-color: #b7a67f; text-decoration: none; }
+.g-numeros a:hover span { color: #7a3b16; text-decoration: underline; text-underline-offset: 3px; }
+.g-numeros b { display: block; font: 600 2.1rem/1.05 var(--f-titulo); font-variant-numeric: lining-nums tabular-nums; }
+.g-numeros span { font: 12px var(--f-mono); }
+.g-numeros span::after { content: " →"; }
+.g-controlos { transition: opacity .3s ease; }
+.g-controlos.g-longe { opacity: 0; pointer-events: none; }
+@media (max-width: 900px) {
+  /* o primeiro ecrã acaba no fundo do ecrã (por baixo do cabeçalho e do espaço do topo do <main>) */
+  .g-abertura { align-items: flex-end; padding-bottom: 16px; min-height: calc(100vh - var(--cabecalho-h) - 24px); min-height: calc(100dvh - var(--cabecalho-h) - 24px); }
+  .g-texto h1 { font-size: clamp(2rem, 7vw, 2.6rem); }
+  .g-texto .lead { font-size: 16px; margin: 10px 0 16px; }
+  .g-neste-dia { margin-top: 18px; }
+  .g-texto { background: color-mix(in srgb, var(--fundo) 90%, transparent); padding: 14px; border-radius: 8px; }
+  .g-nome b { font-size: 16px; }
+  .g-mem { width: calc(100vw - 32px); }
+}

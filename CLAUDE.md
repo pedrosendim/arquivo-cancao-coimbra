@@ -25,6 +25,8 @@ dados/contribuidores.json  contribuidores convidados (dono = fundador | administ
 dados/blogue/<id>.json textos assinados do blogue (não são fonte)
 site/js/icones.js      ícones dos atributos das pessoas (guitarra, viola, cantor, pena, nota…)
 site/ARVORES.md        guia das árvores de família e de escolas (disposição, linhas, cartões, navegação): seguir sempre
+site/js/vistas/guitarra.js  a guitarra da página inicial (câmara, cordas, acordes, som, memórias); imagens em site/img/guitarra/
+scripts/guitarra/      render.html + render.js: refazem as imagens da guitarra (abrir no browser, «Exportar as peças»)
 scripts/               recolha, índice, pesquisa, validação, construção, servidor (só biblioteca padrão do Python)
 site/                  site estático (HTML/CSS/JS sem build); site/dados/base.json é gerado
 online/, wrangler.jsonc  versão online (Cloudflare Worker + ficheiros estáticos + armazém Durable Object): entrar com conta própria ou com o GitHub, propostas (pull requests), repor versões, alterações imediatas
