@@ -42,14 +42,28 @@ export function montarGuitarra(raiz, { memorias: novaMemoria } = {}) {
   let COR = {};
   const lerCores = () => { const cs = getComputedStyle(document.documentElement); COR = { fundo: cs.getPropertyValue('--fundo').trim() || '#f3ede1', ouro: cs.getPropertyValue('--ouro').trim() || '#93691d' }; sujo = true; };
 
-  // ---- imagens: a guitarra escolhida primeiro, as outras só quando se pedem (ou mais tarde, sem pressa)
+  // ---- imagens, numa fila de duas de cada vez: primeiro o que se vê ao abrir (a guitarra inteira em pequeno, a cabeça,
+  // o braço), depois o resto da guitarra escolhida; as outras guitarras só no fim, ou à frente de tudo quando se pedem
   let variante = 'simples', sujo = true;
-  const I = {}, pedidas = new Set();
+  const I = {}, pedidas = new Set(), fila = [];
+  let aCarregar = 0, outras = false;
   const peca = (n) => (n === 'braco' ? n : `${n}-${variante}`);
-  const carregar = (n) => { if (pedidas.has(n)) return; pedidas.add(n); const im = new Image(); im.decoding = 'async'; im.onload = () => { I[n.replace(/\.\w+$/, '')] = im; sujo = true; }; im.src = `img/guitarra/${n}`; };
-  const carregarVariante = (v) => { for (const n of ['inteira', 'cabeca', 'corpo1', 'corpo2']) carregar(`${n}-${v}.webp`); };
-  ['sombra.png', 'braco.webp', 'dentro.webp'].forEach(carregar); carregarVariante('simples');
-  setTimeout(() => { if (raiz.isConnected) VARIANTES.forEach(carregarVariante); }, 6000);
+  const seguinte = () => {
+    while (aCarregar < 2 && fila.length) {
+      const n = fila.shift(); if (pedidas.has(n)) continue;
+      pedidas.add(n); aCarregar++;
+      const im = new Image(), fim = () => { aCarregar--; if (raiz.isConnected) seguinte(); };
+      im.decoding = 'async'; im.onload = () => { I[n.replace(/\.\w+$/, '')] = im; sujo = true; fim(); }; im.onerror = fim; im.src = `img/guitarra/${n}`;
+    }
+    if (!aCarregar && !fila.length && !outras && raiz.isConnected) { outras = true; VARIANTES.forEach((v) => carregarVariante(v)); }
+  };
+  const carregarVariante = (v, jaJa = false) => {
+    const ns = ['inteira', 'cabeca', 'corpo1', 'corpo2'].map((n) => `${n}-${v}.webp`).filter((n) => !pedidas.has(n));
+    if (jaJa) fila.unshift(...ns); else fila.push(...ns);
+    seguinte();
+  };
+  fila.push('inteira-simples.webp', 'cabeca-simples.webp', 'braco.webp', 'sombra.png', 'corpo1-simples.webp', 'corpo2-simples.webp', 'dentro.webp');
+  seguinte();
 
   let W = 0, H = 0, DPR = 1, CX = 0.57, movel = false, alvo = scrollY, atual = scrollY, vel = 0, ancoras = [], kDescida = 1, centroDentro = 0, esquerda = 0;
   function medir() {
@@ -284,7 +298,7 @@ export function montarGuitarra(raiz, { memorias: novaMemoria } = {}) {
   botaoSom.onclick = () => ligarSom(!somLigado);
   $('#g-seguinte').onclick = () => {
     variante = VARIANTES[(VARIANTES.indexOf(variante) + 1) % VARIANTES.length];
-    carregarVariante(variante);
+    carregarVariante(variante, true);
     $('#g-n').textContent = `${VARIANTES.indexOf(variante) + 1}/${VARIANTES.length}`;
     aplicarTimbre(); sujo = true;
   };
